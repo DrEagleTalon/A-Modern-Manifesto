@@ -1,0 +1,2 @@
+# A Modern Manifesto
+An open-source, modern-language rewrite of the Communist Manifesto.  This project aims to preserve the intellectual and historical depth of the original text  while making it readable and relevant to contemporary working-class readers.  Work includes: - line-by-line reinterpretation - comparison with original German and 1888 English translation - collaborative revision and critique  This is not a simplification project—it is a clarity project.
