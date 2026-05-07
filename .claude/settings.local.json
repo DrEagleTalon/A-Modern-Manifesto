@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(head -n 768 \"the-communist-Manifesto-marx-engels-1848-convert.txt\")",
+      "Bash(mv .tmp \"the-communist-Manifesto-marx-engels-1848-convert.txt\")"
+    ]
+  }
+}
