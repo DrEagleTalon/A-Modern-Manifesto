@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "If you cite this edition, cite the verse number (for example CM I.12.3) and this release."
-title: "The Communist Manifesto: A Modern Scholarly Translation (parallel German, 1888 English and modern English)"
+message: "Cite the work prefix and verse number (for example CM I.12.3 or WLC I.13.1) and this release."
+title: "Modern Classics Library: verse-numbered parallel editions and modern translations of socialist, communist and anarchist classics"
 type: dataset
-version: 0.1.0
+version: 0.2.0
 date-released: 2026-11-07
 license: CC-BY-SA-4.0
 authors:

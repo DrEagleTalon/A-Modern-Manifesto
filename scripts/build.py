@@ -1,37 +1,42 @@
-"""Build reading and working copies from the master verse files.
+"""Build every reading and working copy from the master verse files.
 
     python scripts/build.py
 
-Writes (all generated, never edit by hand):
-  dist/manifesto-parallel.csv     every verse, one row each
-  dist/manifesto-parallel.xlsx    one sheet per section, for spreadsheet users
-  dist/md/<section>.md            parallel tables GitHub renders in the browser
-  dist/site/index.html            single-file parallel reader (GitHub Pages ready)
+Contributors never edit dist/. It is regenerated from works/*/text/**.yaml:
+
+  dist/README.md                         library index with progress per work
+  dist/<work>/<work>.csv                 every verse of the work, one row each
+  dist/<work>/<work>.xlsx                one sheet per section, for spreadsheet users
+  dist/<work>/md/*.md                    parallel tables GitHub renders in the browser
+  dist/site/index.html                   single-file parallel reader for the whole library
 """
 import csv
-import html
 import json
-import re
 from pathlib import Path
 
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
-TEXT = ROOT / "text"
+WORKS = ROOT / "works"
 DIST = ROOT / "dist"
 
-COLS = ["id", "section", "kind", "de", "en", "modern", "modern_status", "joined_to", "notes",
-        "footnotes", "note_edition", "de_variants", "mew_page", "en_note", "readings", "review", "review_reason"]
+COLS = ["id", "section", "kind", "original", "en", "modern", "modern_status", "joined_to", "notes",
+        "footnotes", "note_edition", "variants", "mew_page", "en_note", "original_note", "readings", "discussion",
+        "review", "review_reason"]
 
 
 def load():
-    docs = []
-    for f in sorted(TEXT.glob("*/*.yaml")):
-        with f.open(encoding="utf-8") as fh:
-            d = yaml.safe_load(fh)
-        d["_file"] = f.relative_to(ROOT).as_posix()
-        docs.append(d)
-    return docs
+    works = []
+    for wy in WORKS.glob("*/work.yaml"):
+        meta = yaml.safe_load(wy.read_text(encoding="utf-8"))
+        docs = []
+        for f in sorted((wy.parent / "text").glob("**/*.yaml")):
+            d = yaml.safe_load(f.read_text(encoding="utf-8"))
+            d["_file"] = f.relative_to(wy.parent).as_posix()
+            docs.append(d)
+        works.append((meta, docs))
+    works.sort(key=lambda w: (w[0].get("order", 999), w[0]["id"]))
+    return works
 
 
 def flat(v, section):
@@ -39,34 +44,43 @@ def flat(v, section):
     row.update({k: v.get(k, "") for k in COLS if k in v})
     row["section"] = section
     row["footnotes"] = ", ".join(v.get("footnotes", []))
-    row["de_variants"] = "; ".join(f"{x['ref']} ({x['editions']}) {x['reading']} [at: {x['base_text']}]" for x in v.get("de_variants", []))
+    row["variants"] = "; ".join(f"{x['ref']} ({x['editions']}) {x['reading']} [at: {x['base_text']}]" for x in v.get("variants", []))
     row["readings"] = "; ".join(f"{r['tradition']}: {r['rendering']}" for r in v.get("readings", []) or [])
     row["review"] = "yes" if v.get("review") else ""
     return row
 
 
-def write_csv(docs):
-    with (DIST / "manifesto-parallel.csv").open("w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=COLS)
+def labels(meta, d):
+    cols = dict(meta.get("columns", {}))
+    if d.get("en_label"):
+        cols["en"] = d["en_label"]
+    return cols
+
+
+def write_csv(meta, docs, out):
+    with (out / f"{meta['id']}.csv").open("w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=["work"] + COLS, lineterminator="\n")
         w.writeheader()
         for d in docs:
             for v in d["verses"]:
-                w.writerow(flat(v, d["section"]))
+                w.writerow({"work": meta["prefix"], **flat(v, d["section"])})
 
 
-def write_xlsx(docs):
+def write_xlsx(meta, docs, out):
     from openpyxl import Workbook
     from openpyxl.styles import Alignment, Font, PatternFill
 
     wb = Workbook()
     wb.remove(wb.active)
-    widths = {"id": 13, "kind": 9, "de": 60, "en": 60, "modern": 60, "modern_status": 11, "notes": 40}
+    widths = {"id": 13, "kind": 9, "original": 60, "en": 60, "modern": 60, "modern_status": 11, "notes": 40}
     head_fill = PatternFill("solid", fgColor="2B2B2B")
     flag_fill = PatternFill("solid", fgColor="FFF4CC")
     for d in docs:
+        lab = labels(meta, d)
         ws = wb.create_sheet(title=d["section"][:31])
-        cols = ["id", "kind", "de", "en", "modern", "modern_status", "notes", "footnotes", "de_variants", "review_reason"]
-        ws.append(["Verse", "Kind", "German (MEW)", "English 1888", "Modern draft", "Status", "Translator notes", "Engels notes", "German variants", "Alignment check"])
+        cols = ["id", "kind", "original", "en", "modern", "modern_status", "notes", "footnotes", "variants", "review_reason"]
+        ws.append(["Verse", "Kind", lab.get("original", "Original"), lab.get("en", "English"), lab.get("modern", "Modern draft"),
+                   "Status", "Translator notes", "Author notes", "Variants", "Alignment check"])
         for c in ws[1]:
             c.font = Font(bold=True, color="FFFFFF")
             c.fill = head_fill
@@ -85,72 +99,95 @@ def write_xlsx(docs):
             for c in row:
                 c.alignment = Alignment(wrap_text=True, vertical="top")
         ws.freeze_panes = "C2"
-    wb.save(DIST / "manifesto-parallel.xlsx")
+    wb.save(out / f"{meta['id']}.xlsx")
 
 
 def md_cell(s):
     return (s or "").replace("|", "\\|").replace("\n", " ")
 
 
-def write_md(docs):
-    out = DIST / "md"
-    out.mkdir(parents=True, exist_ok=True)
-    index = ["# Parallel text\n", "Generated by `scripts/build.py`. Edit the YAML in `text/`, not these files.\n"]
+def write_md(meta, docs, out):
+    md = out / "md"
+    md.mkdir(parents=True, exist_ok=True)
+    index = [f"# {meta['title']} ({meta['prefix']})\n", "Generated by `scripts/build.py`. Edit the YAML in the work's `text/` folder, not these files.\n"]
     for d in docs:
         f = Path(d["_file"])
-        fn = (f"preface-{f.stem}" if f.parent.name == "00-prefaces" else f.stem) + ".md"
-        lines = [f"# {d['section']} · {d['title_en']}", "", f"*{d['title_de']}*", "",
-                 f"German: {d['source_de']}  ", f"English: {d['source_en']}", "",
-                 "| Verse | German | English 1888 | Modern draft | Notes |", "|---|---|---|---|---|"]
+        fn = f"{f.parent.name}-{f.stem}.md"
+        lab = labels(meta, d)
+        lines = [f"# {meta['prefix']} {d['section']} · {d['title_en']}", "", f"*{d['title_original']}*", "",
+                 f"Original: {d['source_original']}  ", f"English: {d['source_en']}", "",
+                 f"| Verse | {lab.get('original', 'Original')} | {lab.get('en', 'English')} | {lab.get('modern', 'Modern draft')} | Notes |",
+                 "|---|---|---|---|---|"]
         for v in d["verses"]:
             en = f"(see {v['joined_to']})" if v.get("joined_to") else v["en"]
             mo = "" if v.get("joined_to") else v["modern"]
             note = v.get("notes", "")
             if v.get("footnotes"):
-                note = (note + " Engels: " + ", ".join(v["footnotes"])).strip()
+                note = (note + " Author notes: " + ", ".join(v["footnotes"])).strip()
             flag = " ⚑" if v.get("review") else ""
-            lines.append(f"| <a id=\"{v['id']}\"></a>**{v['id']}**{flag} | {md_cell(v['de'])} | {md_cell(en)} | {md_cell(mo)} | {md_cell(note)} |")
-        (out / fn).write_text("\n".join(lines) + "\n", encoding="utf-8")
+            lines.append(f"| <a id=\"{v['id']}\"></a>**{v['id']}**{flag} | {md_cell(v['original'])} | {md_cell(en)} | {md_cell(mo)} | {md_cell(note)} |")
+        (md / fn).write_text("\n".join(lines) + "\n", encoding="utf-8")
         index.append(f"- [{d['section']} · {d['title_en']}]({fn})")
-    (out / "README.md").write_text("\n".join(index) + "\n", encoding="utf-8")
-
-
-def site_data(docs):
-    secs = []
-    for d in docs:
-        secs.append({
-            "section": d["section"], "title_de": d["title_de"], "title_en": d["title_en"],
-            "source_de": d["source_de"], "source_en": d["source_en"],
-            "original_language": d["original_language"], "anchor": d["anchor_language"],
-            "verses": [{k: v[k] for k in v if k in COLS} for v in d["verses"]],
-        })
-    return secs
-
-
-def write_site(docs):
-    out = DIST / "site"
-    out.mkdir(parents=True, exist_ok=True)
-    tpl = (ROOT / "scripts" / "reader_template.html").read_text(encoding="utf-8")
-    data = json.dumps(site_data(docs), ensure_ascii=False).replace("</", "<\\/")
-    (out / "index.html").write_text(tpl.replace("/*__DATA__*/[]", data), encoding="utf-8")
+    (md / "README.md").write_text("\n".join(index) + "\n", encoding="utf-8")
 
 
 def stats(docs):
-    n = sum(len(d["verses"]) for d in docs)
-    seed = sum(1 for d in docs for v in d["verses"] if v["modern_status"] == "seed")
-    review = sum(1 for d in docs for v in d["verses"] if v.get("review"))
-    done = sum(1 for d in docs for v in d["verses"] if v["modern_status"] in ("reviewed", "settled"))
-    print(f"{n} verses | {seed} seeded modern | {done} reviewed/settled | {review} alignment checks open")
+    vs = [v for d in docs for v in d["verses"]]
+    return {
+        "verses": len(vs),
+        "seed": sum(v["modern_status"] == "seed" for v in vs),
+        "draft": sum(v["modern_status"] == "draft" for v in vs),
+        "reviewed": sum(v["modern_status"] in ("reviewed", "settled") for v in vs),
+        "review_flags": sum(bool(v.get("review")) for v in vs),
+    }
+
+
+def write_site(works):
+    out = DIST / "site"
+    out.mkdir(parents=True, exist_ok=True)
+    data = []
+    for meta, docs in works:
+        data.append({
+            "id": meta["id"], "prefix": meta["prefix"], "title": meta["title"],
+            "title_original": meta.get("title_original", ""), "authors": meta.get("authors", []),
+            "year": meta.get("year"), "columns": meta.get("columns", {}),
+            "sections": [{
+                "section": d["section"], "title_original": d["title_original"], "title_en": d["title_en"],
+                "source_original": d["source_original"], "source_en": d["source_en"], "en_label": d.get("en_label", ""),
+                "original_language": d["original_language"], "anchor": d["anchor_language"],
+                "verses": [{k: v[k] for k in v if k in COLS} for v in d["verses"]],
+            } for d in docs],
+        })
+    tpl = (ROOT / "scripts" / "reader_template.html").read_text(encoding="utf-8")
+    payload = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
+    (out / "index.html").write_text(tpl.replace("/*__DATA__*/[]", payload), encoding="utf-8")
+
+
+def write_index(works):
+    lines = ["# Library build", "", "Generated by `scripts/build.py`. Open `site/index.html` for the parallel reader.", "",
+             "| Work | Cite as | Verses | Seed | Draft | Reviewed | Alignment checks | Files |",
+             "|---|---|---|---|---|---|---|---|"]
+    for meta, docs in works:
+        s = stats(docs)
+        w = meta["id"]
+        lines.append(f"| {meta['title']} ({meta['year']}) | `{meta['prefix']}` | {s['verses']} | {s['seed']} | {s['draft']} | "
+                     f"{s['reviewed']} | {s['review_flags']} | [tables]({w}/md/README.md) · [csv]({w}/{w}.csv) · [xlsx]({w}/{w}.xlsx) |")
+    (DIST / "README.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def main():
     DIST.mkdir(exist_ok=True)
-    docs = load()
-    write_csv(docs)
-    write_xlsx(docs)
-    write_md(docs)
-    write_site(docs)
-    stats(docs)
+    works = load()
+    for meta, docs in works:
+        out = DIST / meta["id"]
+        out.mkdir(parents=True, exist_ok=True)
+        write_csv(meta, docs, out)
+        write_xlsx(meta, docs, out)
+        write_md(meta, docs, out)
+        s = stats(docs)
+        print(f"{meta['prefix']:>4}: {s['verses']} verses | {s['seed']} seed | {s['draft']} draft | {s['reviewed']} reviewed | {s['review_flags']} alignment checks")
+    write_site(works)
+    write_index(works)
 
 
 if __name__ == "__main__":

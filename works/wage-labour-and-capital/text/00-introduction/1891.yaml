@@ -1,0 +1,1155 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: P1891
+title_original: Einleitung [zu Karl Marx' "Lohnarbeit und Kapital", Ausgabe 1891]
+title_en: Introduction by Frederick Engels (1891 edition)
+author: Friedrich Engels
+date: '1891-04-30'
+original_language: de
+anchor_language: de
+source_original: MEW 22, S. 202-209 (Dietz, Berlin) via mlwerke.de; Engels, original German
+source_en: Harriet E. Lothrop, Wage-Labor and Capital, New York Labor News Co., 1902 (public domain), in the Marxists Internet Archive edition (proofed by Alek Blain, 2006; CC BY-SA), which modernises some wording and currency
+verses:
+- id: P1891.0.1
+  kind: heading
+  original: Einleitung [zu Karl Marx' "Lohnarbeit und Kapital", Ausgabe 1891]
+  en: Introduction by Frederick Engels (1891 edition)
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1891.1.1
+  kind: p
+  original: Die nachfolgende Arbeit erschien als eine Reihe von Leitartikeln in der "Neuen Rheinischen Zeitung" vom 5. April 1849 an.
+  en: This pamphlet first appeared in the form of a series of leading articles in the Neue Rheinische Zeitung, beginning on April 4th, 1849.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: P1891.1.2
+  kind: p
+  original: Ihr liegen zugrunde die Vorträge, die Marx 1847 im Brüsseler deutschen Arbeiterverein gehalten.
+  en: The text is made up of from lectures delivered by Marx before the German Workingmen's Club of Brussels in 1847.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: P1891.1.3
+  kind: p
+  original: Sie ist im Abdruck Fragment geblieben; das in Nr. 269 am Schluß stehende "Fortsetzung folgt" blieb unerfüllt infolge der sich damals überstürzenden Ereignisse, des Einmarsches der Russen in Ungarn, der Aufstände in Dresden, Iserlohn, Elberfeld, der Pfalz und Baden, die die Unterdrückung der Zeitung selbst (19. Mai 1849) herbeiführten.
+  en: 'The series was never completed. The promise "to be continued," at the end of the editorial in Number 269 of the newspaper, remained unfulfilled in consequence of the precipitous events of that time: the invasion of Hungary by the Russians, and the uprisings in Dresden, Iserlohn, Elberfeld, the Palatinate, and in Baden, which led to the suppression of the paper on May 19th, 1849.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.1.4
+  kind: p
+  original: Das Manuskript dieser Fortsetzung hat sich im Nachlaß von Marx nicht vorgefunden.
+  en: And among the papers left by Marx no manuscript of any continuation of these articles has been found.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: P1891.2.1
+  kind: p
+  original: '"Lohnarbeit und Kapital" ist in mehreren Auflagen als Separatabdruck in Broschürenform erschienen, zuletzt 1884, Hottingen-Zürich, Schweizerische Genossenschaftsbuchdruckerei.'
+  en: '"Wage-labour and Capital" has appeared as an independent publication in several editions, the last of which was issued by the Swiss Co-operative Printing Association, in Hottingen-Zurich, in 1884.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: P1891.2.2
+  kind: p
+  original: Diese bisherigen Abdrücke enthielten den genauen Wortlaut des Originals.
+  en: Hitherto, the several editions have contained the exact wording of the original articles.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: P1891.2.3
+  kind: p
+  original: Der vorliegende Neuabdruck soll aber in nicht weniger als 10.000 Exemplaren als Propagandaschrift verbreitet werden, und da mußte sich mir die Frage aufdrängen, ob unter diesen Umständen Marx selbst eine unveränderte Wiedergabe des Wortlauts billigen würde.
+  en: But since at least 10,000 copies of the present edition are to be circulated as a propaganda tract, the question necessarily forced itself upon me, would Marx himself, under these circumstance, have approved of an unaltered literal reproduction of the original?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: P1891.3.1
+  kind: p
+  original: In den vierziger Jahren hatte Marx seine Kritik der politischen Ökonomie noch nicht zum Abschluß gebracht.
+  en: Marx, in the '40s, had not yet completed his criticism of political economy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: P1891.3.2
+  kind: p
+  original: Dies geschah erst gegen Ende der fünfziger Jahre.
+  en: This was not done until toward the end of the fifties.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: P1891.3.3
+  kind: p
+  original: Seine vor dem ersten Heft "Zur Kritik der Politischen Oekonomie" (1859) erschienenen Schriften weichen daher in einzelnen Punkten von den seit 1859 verfaßten ab, enthalten Ausdrücke und ganze Sätze, die, vom Standpunkt der spätern Schriften aus, schief und selbst unrichtig erscheinen.
+  en: Consequently, such of his writings as were published before the first installment of his Critique of Political Economy was finished, deviate in some points from those written after 1859, and contain expressions and whole sentences which, viewed from the standpoint of his later writings, appear inexact, and even incorrect.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: P1891.3.4
+  kind: p
+  original: Nun ist es selbstredend, daß in gewöhnlichen, für das Gesamtpublikum bestimmten Ausgaben auch dieser in der geistigen Entwicklung des Verfassers mit einbegriffene frühere Standpunkt seinen Platz hat, daß Verfasser wie Publikum ein unbestrittnes Recht haben auf unveränderten Abdruck dieser älteren Schriften.
+  en: Now, it goes without saying that in ordinary editions, intended for the public in general, this earlier standpoint, as a part of the intellectual development of the author, has its place; that the author as well as the public, has an indisputable right to an unaltered reprint of these older writings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 202-203
+- id: P1891.3.5
+  kind: p
+  original: Und es wäre mir nicht im Traum eingefallen, ein Wort daran zu ändern.
+  en: In such a case, I would not have dreamed of changing a single word in it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: P1891.4.1
+  kind: p
+  original: Anders, wenn die neue Auflage so gut wie ausschließlich zur Propaganda unter Arbeitern bestimmt ist.
+  en: But it is otherwise when the edition is destined almost exclusively for the purpose of propaganda.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: P1891.4.2
+  kind: p
+  original: Da würde Marx unbedingt die alte, von 1849 datierende Darstellung mit seinem neuen Standpunkt in Einklang gebracht haben.
+  en: In such a case, Marx himself would unquestionably have brought the old work, dating from 1849, into harmony with his new point of view, and I feel sure that I am acting in his spirit when I insert in this edition the few changes and additions which are necessary in order to attain this object in all essential point.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.4.3
+  kind: p
+  original: Und ich bin mir gewiß, in seinem Sinn zu handeln, wenn ich für diese Ausgabe die wenigen Änderungen und Zusätze vornehme, die erforderlich sind, um diesen Zweck in allen wesentlichen Punkten zu erreichen.
+  en: ''
+  joined_to: P1891.4.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '203'
+- id: P1891.4.4
+  kind: p
+  original: 'Ich sage also dem Leser im voraus: Dies ist die Broschüre, nicht wie Marx sie 1849 niedergeschrieben hat, sondern, annähernd, wie er sie 1891 geschrieben hätte.'
+  en: 'Therefore, I say to the reader at once: this pamphlet is not as Marx wrote it in 1849, but approximately as Marx would have written it in 1891.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: P1891.4.5
+  kind: p
+  original: Der wirkliche Text ist zudem in so zahlreichen Exemplaren verbreitet, daß dies hinreicht, bis ich ihn in einer spätern Gesamtausgabe wieder unverändert abdrucken kann.
+  en: Moreover, so many copies of the original text are in circulation, that these will suffice until I can publish it again unaltered in a complete edition of Marx's works, to appear at some future time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: P1891.5.1
+  kind: p
+  original: Meine Änderungen drehen sich alle um einen Punkt.
+  en: My alterations centre about one point.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: P1891.5.2
+  kind: p
+  original: Nach dem Original verkauft der Arbeiter für den Arbeitslohn dem Kapitalisten seine Arbeit; nach dem jetzigen Text seine Arbeitskraft.
+  en: According to the original reading, the worker sells his labour for wages, which he receives from the capitalist; according to the present text, he sells his labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: P1891.5.3
+  kind: p
+  original: Und wegen dieser Änderung bin ich Auskunft schuldig.
+  en: 'And for this change, I must render an explanation: to the workers, in order that they may understand that we are not quibbling or word-juggling, but are dealing here with one of the most important points in the whole range of political economy; to the bourgeois, in order that they may convince themselves how greatly the uneducated workers, who can be easily made to grasp the most difficult economic analyses, excel our supercilious "cultured" folk, for whom such ticklish problems remain insoluble their whole life long.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.5.4
+  kind: p
+  original: Auskunft den Arbeitern, damit sie sehn, daß hier keine bloße Wortklauberei vorliegt, sondern vielmehr einer der wichtigsten Punkte der ganzen politischen Ökonomie.
+  en: ''
+  joined_to: P1891.5.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '203'
+- id: P1891.5.5
+  kind: p
+  original: Auskunft den Bourgeois, damit sie sich überzeugen können, wie gewaltig die ungebildeten Arbeiter, denen man die schwierigsten ökonomischen Entwicklungen mit Leichtigkeit verständlich machen kann, unsern hochnäsigen "Gebildeten" überlegen sind, denen solche verzwickte Fragen unlöslich bleiben ihr Leben lang.
+  en: ''
+  joined_to: P1891.5.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '203'
+- id: P1891.6.1
+  kind: p
+  original: Die klassische politische Ökonomie übernahm aus der industriellen Praxis die landläufige Vorstellung des Fabrikanten, als kaufe und bezahle er die Arbeit seiner Arbeiter.
+  en: Classical political economy borrowed from the industrial practice the current notion of the manufacturer, that he buys and pays for the labour of his employees.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: P1891.6.2
+  kind: p
+  original: Diese Vorstellung hatte für den Geschäftsgebrauch, die Buchführung und Preiskalkuation des Fabrikanten ganz gut ausgereicht.
+  en: This conception had been quite serviceable for the business purposes of the manufacturer, his bookkeeping and price calculation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: P1891.6.3
+  kind: p
+  original: Naiverweise übertragen in die politische Ökonomie, richtete sie hier gar wundersame Irrungen und Wirrungen an.
+  en: But naively carried over into political economy, it there produced truly wonderful errors and confusions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: P1891.7.1
+  kind: p
+  original: Die Ökonomie findet die Tatsache vor, daß die Preise aller Waren, darunter auch der Preis der Ware, die sie "Arbeit" nennt, fortwährend wechseln; daß sie steigen und fallen infolge von sehr mannigfaltigen Umständen, die häufig mit der Herstellung der Ware selbst in gar keinem Zusammenhang stehn, so daß die Preise in der Regel durch den puren Zufall bestimmt scheinen.
+  en: Political economy finds it an established fact that the prices of all commodities, among them the price of the commodity which it calls "labour," continually change; that they rise and fall in consequence of the most diverse circumstances, which often have no connection whatsoever with the production of the commodities themselves, so that prices appear to be determined, as a rule, by pure chance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: P1891.7.2
+  kind: p
+  original: Sobald nun die Ökonomie als Wissenschaft auftrat, war eine ihrer ersten Aufgaben, das Gesetz zu suchen, das sich hinter diesem, scheinbar die Warenpreise beherrschenden Zufall verbarg und das in Wirklichkeit diesen Zufall selbst beherrschte.
+  en: As soon, therefore, as political economy stepped forth as a science, it was one of its first tasks to search for the law that hid itself behind this chance, which apparently determined the prices of commodities, and which in reality controlled this very chance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 203-204
+- id: P1891.7.3
+  kind: p
+  original: Innerhalb der fortwährenden, bald nach oben, bald nach unten schwankenden und schwingenden Warenpreise suchte sie nach dem festen Zentralpunkt, um den herum diese Schwankungen und Schwingungen sich vollziehn.
+  en: Among the prices of commodities, fluctuating and oscillating, now upward, now downward, the fixed central point was searched for around which these fluctuations and oscillations were taking place.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.7.4
+  kind: p
+  original: 'Mit einem Worte: Sie ging von den Warenpreisen aus, um als deren regelndes Gesetz den Warenwert zu suchen, aus dem sich alle Preisschwankungen erklären, auf den sie schließlich alle wieder zurückführen sollten.'
+  en: In short, starting from the price of commodities, political economy sought for the value of commodities as the regulating law, by means of which all price fluctuations could be explained, and to which they could all be reduced in the last resort.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.8.1
+  kind: p
+  original: Die klassische Ökonomie fand nun, daß der Wert einer Ware bestimmt werde durch die in ihr steckende, zu ihrer Produktion erheischte Arbeit.
+  en: And so, classical political economy found that the value of a commodity was determined by the labour incorporated in it and requisite to its production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.8.2
+  kind: p
+  original: Mit dieser Erklärung begnügte sie sich.
+  en: With this explanation, it was satisfied.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.8.3
+  kind: p
+  original: Und auch wir können einstweilen hierbei stehn bleiben.
+  en: And we, too, may, for the present, stop at this point.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.8.4
+  kind: p
+  original: Nur um Mißverständnissen vorzubeugen, will ich daran erinnern, daß diese Erklärung heutzutage völlig ungenügend geworden ist.
+  en: But, to avoid misconceptions, I will remind the reader that today this explanation has become wholly inadequate.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.8.5
+  kind: p
+  original: Marx hat zuerst die wertbildende Eigenschaft der Arbeit gründlich untersucht und dabei gefunden, daß nicht jede scheinbar oder auch wirklich zur Produktion einer Ware notwendige Arbeit dieser Ware unter allen Umständen eine Wertgröße zusetzt, die der verbrauchten Arbeitsmenge entspricht.
+  en: Marx was the first to investigate thoroughly into the value-forming quality of labour and to discover that not all labour which is apparently, or even really, necessary to the production of a commodity, imparts under all circumstances to this commodity a magnitude of value corresponding to the quantity of labour used up.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.8.6
+  kind: p
+  original: Wenn wir also heute kurzweg mit Ökonomen wie Ricardo sagen, der Wert einer Ware bestimme sich durch die zu ihrer Produktion notwendige Arbeit, so unterstellen wir dabei stets die von Marx gemachten Vorbehalte.
+  en: If, therefore, we say today in short, with economists like Ricardo, that the value of a commodity is determined by the labour necessary to its production, we always imply the reservations and restrictions made by Marx.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.8.7
+  kind: p
+  original: Dies genügt hier; das Weitre findet sich bei Marx in "Zur Kritik der Politischen Oekonomie", 1859, und im ersten Band des "Kapital".
+  en: Thus much for our present purpose; further information can be found in Marx's Critique of Political Economy, which appeared in 1859, and in the first volume of Capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.9.1
+  kind: p
+  original: Sobald aber die Ökonomen diese Wertbestimmung durch die Arbeit anwandten auf die Ware "Arbeit", gerieten sie von einem Widerspruch in den andern.
+  en: But, as soon as the economists applied this determination of value by labour to the commodity "labour", they fell from one contradiction into another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.9.2
+  kind: p
+  original: Wie wird der Wert der "Arbeit" bestimmt?
+  en: How is the value of "labour" determined?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.9.3
+  kind: p
+  original: Durch die in ihr steckende notwendige Arbeit.
+  en: By the necessary labour embodied in it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.9.4
+  kind: p
+  original: Wieviel Arbeit aber steckt in der Arbeit eines Arbeiters für einen Tag, eine Woche, einen Monat, ein Jahr?
+  en: But how much labour is embodied in the labour of a labourer of a day a week, a month, a year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.9.5
+  kind: p
+  original: Die Arbeit eines Tags, einer Woche, eines Monats, eines Jahrs.
+  en: If labour is the measure of all values, we can express the "value of labour" only in labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.9.6
+  kind: p
+  original: Wenn die Arbeit das Maß aller Werte ist, so können wir den "Wert der Arbeit" eben nur ausdrücken in Arbeit.
+  en: But we know absolutely nothing about the value of an hour's labour, if all that we know about it is that it is equal to one hour's labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.9.7
+  kind: p
+  original: Wir wissen aber absolut nichts über den Wert einer Stunde Arbeit, wenn wir nur wissen, daß er gleich einer Stunde Arbeit ist.
+  en: So, thereby, we have not advanced one hair's breadth nearer our goal; we are constantly turning about in a circle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.9.8
+  kind: p
+  original: Damit sind wir also kein Haarbreit näher am Ziel; wir drehen uns in einem fort im Kreise.
+  en: Classical economics, therefore, essayed another turn.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.10.1
+  kind: p
+  original: 'Die klassische Ökonomie versuchte es also mit einer andern Wendung; sie sagte: Der Wert einer Ware ist gleich ihren Produktionskosten.'
+  en: 'It said: the value of a commodity is equal to its cost of production.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.10.2
+  kind: p
+  original: Aber was sind die Produktionskosten der Arbeit?
+  en: But, what is the cost of production of "labour"?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: P1891.10.3
+  kind: p
+  original: Um diese Frage zu beantworten, müssen die Ökonomen der Logik ein bißchen Gewalt antun.
+  en: In order to answer this question, the economists are forced to strain logic just a little.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 204-205
+- id: P1891.10.4
+  kind: p
+  original: Statt der Produktionskosten der Arbeit selbst, die leider nicht zu ermitteln sind, untersuchen sie nun, was die Produktionskosten des Arbeiters sind.
+  en: Instead of investigating the cost of production of labour itself, which, unfortunately, cannot be ascertained, they now investigate the cost of production of the labourer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: P1891.10.5
+  kind: p
+  original: Und diese lassen sich ermitteln.
+  en: And this latter can be ascertained.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: P1891.10.6
+  kind: p
+  original: Sie wechseln je nach Zeit und Umständen, aber für einen gegebnen Gesellschaftszustand, eine gegebne Lokalität, einen gegebnen Produktionszweig sind sie ebenfalls gegeben, wenigstens innerhalb ziemlich enger Grenzen.
+  en: It changes according to time and circumstances, but for a given condition of society, in a given locality, and in a given branch of production, it, too, is given, at least within quite narrow limits.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: P1891.10.7
+  kind: p
+  original: Wir leben heute unter der Herrschaft der kapitalistischen Produktion, wo eine große, stets wachsende Klasse der Bevölkerung nur leben kann, wenn sie für die Besitzer der Produktionsmittel - der Werkzeuge, Maschinen, Rohstoffe und Lebensmittel - gegen Arbeitslohn arbeitet.
+  en: We live today under the regime of capitalist production, under which a large and steadily growing class of the population can live only on the condition that it works for the owners of the means of production - tools, machines, raw materials, and means of subsistence - in return for wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: P1891.10.8
+  kind: p
+  original: Auf Grundlage dieser Produktionsweise bestehen die Produktionskosten des Arbeiters in derjenigen Summe von Lebensmitteln - oder deren Geldpreis -, die durchschnittlich nötig sind, ihn arbeitsfähig zu machen, arbeitsfähig zu erhalten und ihn bei seinem Abgang durch Alter, Krankheit oder Tod durch einen neuen Arbeiter zu ersetzen, also die Arbeiterklasse in der benötigten Stärke fortzupflanzen.
+  en: On the basis of this mode of production, the labourer's cost of production consists of the sum of the means of subsistence (or their price in money) which on the average are requisite to enable him to work, to maintain in him this capacity for work, and to replace him at his departure, by reason of age, sickness, or death, with another labourer - that is to say, to propagate the working class in required numbers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: P1891.10.9
+  kind: p
+  original: Nehmen wir an, der Geldpreis dieser Lebensmittel sei im Durchschnitt drei Mark täglich.
+  en: Let us assume that the money price of these means of subsistence averages 3 shillings a day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: P1891.11.1
+  kind: p
+  original: Unser Arbeiter erhält also von dem ihn beschäftigenden Kapitalisten einen Lohn von drei Mark täglich.
+  en: Our labourer gets, therefore, a daily wage of 3 shillings from his employer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: P1891.11.2
+  kind: p
+  original: Der Kapitalist läßt ihn dafür, sage zwölf Stunden täglich, arbeiten.
+  en: For this, the capitalist lets him work, say, 12 hours a day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: P1891.11.3
+  kind: p
+  original: 'Und zwar kalkuliert dieser Kapitalist etwa folgendermaßen:'
+  en: 'Our capitalist, moreover, calculates somewhat in the following fashion: Let us assume that our labourer (a machinist) has to make a part of a machine which he finishes in one day.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.12.1
+  kind: p
+  original: Nehmen wir an, unser Arbeiter - Maschinenschlosser - habe ein Stück einer Maschine zu arbeiten, das er in einem Tage fertigmacht.
+  en: ''
+  joined_to: P1891.11.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: P1891.12.2
+  kind: p
+  original: Der Rohstoff - Eisen und Messing in der nötigen vorgearbeiteten Form - koste 20 M. Der Verbrauch an Kohlen der Dampfmaschine, der Verschleiß dieser selben Dampfmaschine, der Drehbank und der übrigen Werkzeuge, womit unser Arbeiter arbeitet, stelle dar, für einen Tag und auf seinen Anteil berechnet, einen Wert von 1 M. Der Arbeitslohn für einen Tag ist nach unsrer Annahme 3 M. Macht zusammen für unser Maschinenstück 24 M. Der Kapitalist rechnet aber heraus, daß er dafür im Durchschnitt einen Preis von 27 M. von seinen Kunden erhält, also 3 M. über seine ausgelegten Kosten.
+  en: The raw material (iron and brass in the necessary prepared form) costs 20 shillings. The consumption of coal by the steam-engine, the wear-and-tear of this engine itself, of the turning-lathe, and of the other tools with which our labourer works, represent, for one day and one labourer, a value of 1 shilling. The wages for one day are, according to our assumption, 3 shillings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: P1891.13.1
+  kind: p
+  original: Woher kommen diese 3 M., die der Kapitalist einsteckt?
+  en: This makes a total of 24 shillings for our piece of a machine.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: P1891.13.2
+  kind: p
+  original: Nach der Behauptung der klassischen Ökonomie werden die Waren im Durchschnitt zu ihren Werten, d.h. zu Preisen verkauft, die den in diesen Waren enthaltnen notwendigen Arbeitsmengen entsprechen.
+  en: But, the capitalist calculates that, on an average, he will receive for it a price of 27 shillings from his customers, or 3 shillings over and above his outlay. Whence do they 3 shillings pocketed by the capitalist come?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.13.3
+  kind: p
+  original: Der Durchschnittspreis unsres Maschinenteils - 27 M. - wäre also gleich seinem Wert, gleich der in ihm steckenden Arbeit.
+  en: According to the assertion of classical political economy, commodities are in the long run sold at their values, that is, they are sold at prices which correspond to the necessary quantities of labour contained in them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  review: true
+  review_reason: length/anchor mismatch, check the match
+- id: P1891.13.4
+  kind: p
+  original: Aber von diesen 27 M. waren 21 M. bereits vorhandne Werte, ehe unser Maschinenschlosser zu arbeiten anfing.
+  en: The average price of our part of a machine - 27 shillings - would therefore equal its value, i.e., equal the amount of labour embodied in it. But, of these 27 shillings, 21 shillings were values already existing before the machinist began to work; 20 shillings were contained in the raw material, 1 shilling in the fuel consumed during the work and in the machines and tools used in the process and reduced in their efficiency to the value of this amount.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 205-206
+  align: '2:2'
+  review: true
+  review_reason: 2 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.13.5
+  kind: p
+  original: 20 M. steckten im Rohstoff, 1 M. in Kohlen, die während der Arbeit verbrannt, oder in Maschinen und Werkzeugen, die dabei gebraucht und in ihrer Leistungsfähigkeit bis zum Wert dieses Betrags geschmälert wurden.
+  en: ''
+  joined_to: P1891.13.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '206'
+- id: P1891.13.6
+  kind: p
+  original: Bleiben 6 M., die dem Wert des Rohstoffs zugesetzt worden sind.
+  en: There remains 6 shillings, which have been added to the value of the raw material.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.13.7
+  kind: p
+  original: Diese sechs Mark können aber nach der Annahme unsrer Ökonomen selbst nur herstammen aus der dem Rohstoff durch unsern Arbeiter zugesetzten Arbeit.
+  en: But, according to the supposition of our economists, themselves, these 6 shillings can arise only from the labour added to the raw material by the labourer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.13.8
+  kind: p
+  original: Seine zwölfstündige Arbeit hat danach einen neuen Wert von sechs Mark geschaffen.
+  en: His 12 hours' labour has created, according to this, a new value of 6 shillings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.13.9
+  kind: p
+  original: Der Wert seiner zwölfstündigen Arbeit wäre also gleich sechs Mark.
+  en: Therefore, the value of his 12 hours' labour would be equivalent to 6 shillings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.13.10
+  kind: p
+  original: Und damit hätten wir also endlich entdeckt, was der "Wert der Arbeit" ist.
+  en: So we have at last discovered what the "value of labour" is.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.14.1
+  kind: p
+  original: '"Halt da!" ruft unser Maschinenschlosser.'
+  en: '"Hold on there!" cries our machinist.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.14.2
+  kind: p
+  original: '"Sechs Mark?'
+  en: '"Six shillings?'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.14.3
+  kind: p
+  original: Ich habe aber nur drei Mark erhalten!
+  en: But I have received only 3 shillings!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.14.4
+  kind: p
+  original: Mein Kapitalist schwört Stein und Bein, der Wert meiner zwölfstündigen Arbeit sei nur drei Mark, und wenn ich sechs verlange, so lacht er mich aus.
+  en: My capitalist swears high and day that the value of my 12 hours' labour is no more than 3 shillings, and if I were to demand 6, he'd laugh at me.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.14.5
+  kind: p
+  original: Wie reimt sich das?"
+  en: What kind of a story is that?"
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.15.1
+  kind: p
+  original: Kamen wir vorhin mit unserm Wert der Arbeit in einen Zirkel ohne Ausweg, so sind wir jetzt in einem unlöslichen Widerspruch erst recht festgeritten.
+  en: If before this we got with our value of labour into a vicious circle, we now surely have driven straight into an insoluble contradiction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.15.2
+  kind: p
+  original: Wir suchten den Wert der Arbeit und fanden mehr, als wir brauchen können.
+  en: We searched for the value of labour, and we found more than we can use.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.15.3
+  kind: p
+  original: Für den Arbeiter ist der Wert der zwölfstündigen Arbeit drei Mark, für den Kapitalisten sechs Mark, wovon er drei dem Arbeiter als Lohn zahlt und drei selbst in die Tasche steckt.
+  en: For the labourer, the value of the 12 hours' labour is 3 shillings; for the capitalist, it is 6 shillings, of which he pays the workingman 3 shillings as wages, and pockets the remaining 3 shilling himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.15.4
+  kind: p
+  original: Also hätte die Arbeit nicht einen, sondern zwei Werte, und sehr verschiedne obendrein!
+  en: According to this, labour has not one but two values, and, moreover, two very different values!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.16.1
+  kind: p
+  original: Der Widerspruch wird noch widersinniger, sobald wir die in Geld ausgedrückten Werte auf Arbeitszeit reduzieren.
+  en: As soon as we reduce the values, now expressed in money, to labour-time, the contradiction becomes even more absurd.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.16.2
+  kind: p
+  original: In den zwölf Stunden Arbeit wird ein Neuwert von sechs Mark geschaffen.
+  en: By the 12 hours' labour, a new value of 6 shillings is created.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.16.3
+  kind: p
+  original: Also in sechs Stunden drei Mark - die Summe, die der Arbeiter für zwölfstündige Arbeit erhält.
+  en: Therefore, in 6 hours, the new value created equals 3 shillings - the amount which the labourer receives for 12 hours' labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.16.4
+  kind: p
+  original: Für zwölfstündige Arbeit erhält der Arbeiter als gleichen Gegenwert das Produkt von sechs Stunden Arbeit.
+  en: For 12 hours' labour, the workingman receives, as an equivalent, the product of 6 hours' labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.16.5
+  kind: p
+  original: Entweder also hat die Arbeit zwei Werte, wovon der eine doppelt so groß wie der andre, oder zwölf sind gleich sechs!
+  en: 'We are, thus, forced to one of two conclusions: either labour has two values, one of which is twice as large as the other, or 12 equals 6!'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.16.6
+  kind: p
+  original: In beiden Fällen kommt reiner Widersinn heraus.
+  en: In both cases, we get pure absurdities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.17.1
+  kind: p
+  original: Wir mögen uns drehen und wenden wie wir wollen, wir kommen nicht heraus aus diesem Widerspruch, solange wir vom Kauf und Verkauf der Arbeit und vom Wert der Arbeit sprechen.
+  en: Turn and twist as we may, we will not get out of this contradiction as long as we speak of the buying and selling of "labour" and of the "value of labour."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.17.2
+  kind: p
+  original: Und so ging es den Ökonomen auch.
+  en: And just so it happened to the political economists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.17.3
+  kind: p
+  original: Der letzte Ausläufer der klassischen Ökonomie, die Ricardosche Schule, ging großenteils an der Unlösbarkeit dieses Widerspruchs zugrunde.
+  en: The last offshoot of classical political economy - the Ricardian school - was largely wrecked on the insolubility of this contradiction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.17.4
+  kind: p
+  original: Die klassische Ökonomie hatte sich in eine Sackgasse festgerannt.
+  en: Classical political economy had run itself into a blind alley.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.17.5
+  kind: p
+  original: Der Mann, der den Weg aus dieser Sackgasse fand, war Karl Marx.
+  en: The man who discovered the way out of this blind alley was Karl Marx.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.18.1
+  kind: p
+  original: Was die Ökonomen als die Produktionskosten "der Arbeit" angesehn hatten, waren die Produktionskosten nicht der Arbeit, sondern des lebendigen Arbeiters selbst.
+  en: What the economists had considered as the cost of production of "labour" was really the cost of production, not of "labour," but of the living labourer himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: P1891.18.2
+  kind: p
+  original: Und was dieser Arbeiter dem Kapitalisten verkaufte, war nicht seine Arbeit.
+  en: And what this labourer sold to the capitalist was not his labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 206-207
+- id: P1891.18.3
+  kind: p
+  original: '"Sobald seine Arbeit wirklich beginnt", sagt Marx, "hat sie bereits aufgehört, ihm zu gehören, kann also nicht mehr von ihm verkauft werden."'
+  en: '"So soon as his labour really begins," says Marx, "it ceases to belong to him, and therefore can no longer be sold by him."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.18.4
+  kind: p
+  original: '[Siehe "Das Kapital", Band I, S. 599 ] Er könnte also höchstens seine künftige Arbeit verkaufen, d.h. die Verpflichtung übernehmen, eine bestimmte Arbeitsleistung zu bestimmter Zeit auszuführen.'
+  en: At the most, he could sell his future labour - i.e., assume the obligation of executing a certain piece of work in a certain time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.18.5
+  kind: p
+  original: 'Damit aber verkauft er nicht Arbeit (die doch erst geschehen sein müßte), sondern er stellt dem Kapitalisten auf bestimmte Zeit (im Taglohn) oder zum Zweck einer bestimmten Arbeitsleistung (im Stücklohn) seine Arbeitskraft gegen eine bestimmte Zahlung zur Verfügung: Er vermietet resp. verkauft seine Arbeitskraft.'
+  en: But, in this way, he does not sell labour (which would first have to be performed), but for a stipulated payment he places his labour-power at the disposal of the capitalist for a certain time (in case of time-wages), or for the performance of a certain task (in case of piece-wages). He hires out or sells his labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.18.6
+  kind: p
+  original: Diese Arbeitskraft ist aber mit seiner Person verwachsen und von ihr untrennbar.
+  en: But this labour-power has grown up with his person and is inseparable from it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.18.7
+  kind: p
+  original: Ihre Produktionskosten fallen daher mit seinen Produktionskosten zusammen; was die Ökonomen die Produktionskosten der Arbeit nannten, sind eben die des Arbeiters und damit die der Arbeitskraft.
+  en: Its cost of production, therefore, coincides with his own cost of production; what the economist called the cost of production of labour is really the cost of production of the labourer, and therewith of his labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.18.8
+  kind: p
+  original: Und so können wir auch von den Produktionskosten der Arbeitskraft auf den Wert der Arbeitskraft zurückgehn und die Menge von gesellschaftlich notwendiger Arbeit bestimmen, die zur Herstellung einer Arbeitskraft von bestimmter Qualität erforderlich ist, wie dies Marx im Abschnitt vom Kauf und Verkauf der Arbeitskraft getan hat ("Kapital", Band 1, Kapitel 4, 3. Abteilung [Siehe "Das Kapital", Band I, S. 122-181 ]).
+  en: And, thus, we can also go back from the cost of production of labour-power to the value of labour-power, and determine the quantity of social labour that is required for the production of a labour-power of a given quantity, as Marx has done in the chapter on "The Buying and Selling of labour Power."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+  review: true
+  review_reason: length/anchor mismatch, check the match
+- id: P1891.19.1
+  kind: p
+  original: Was geschieht nun, nachdem der Arbeiter dem Kapitalisten seine Arbeitskraft verkauft, d.h. gegen einen vorausbedungnen Lohn - Taglohn oder Stücklohn - zur Verfügung gestellt hat?
+  en: Now what takes place after the worker has sold his labour-power, i.e., after he has placed his labour-power at the disposal of the capitalist for stipulated-wages - whether time-wages or piece-wages?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.19.2
+  kind: p
+  original: Der Kapitalist führt den Arbeiter in seine Werkstatt oder Fabrik, wo sich bereits alle zur Arbeit erforderlichen Gegenstände, Rohstoffe, Hülfsstoffe (Kohlen, Farbstoffe etc.); Werkzeuge, Maschinen, vorfinden.
+  en: The capitalist takes the labourer into his workshop or factory, where all the articles required for the work can be found - raw materials, auxiliary materials (coal, dyestuffs, etc.), tools, and machines.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.19.3
+  kind: p
+  original: Hier fängt der Arbeiter an zu schanzen.
+  en: Here, the worker begins to work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.19.4
+  kind: p
+  original: Sein Tageslohn sei wie oben 3 Mark - wobei es nichts ausmacht, ob er sie im Taglohn oder im Stücklohn verdient.
+  en: His daily wages are, as above, 3 shillings, and it makes no difference whether he earns them as day-wages or piece-wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.19.5
+  kind: p
+  original: Wir nehmen auch hier wieder an, daß der Arbeiter in zwölf Stunden den vernutzten Rohstoffen durch seine Arbeit einen Neuwert von sechs Mark zusetzt, welchen Neuwert der Kapitalist beim Verkauf des fertigen Werkstücks realisiert.
+  en: We again assume that in 12 hours the worker adds by his labour a new value of 6 shillings to the value of the raw materials consumed, which new value the capitalist realizes by the sale of the finished piece of work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.19.6
+  kind: p
+  original: Er zahlt davon dem Arbeiter seine 3 Mark, die andern 3 Mark aber behält er selbst.
+  en: Out of this new value, he pays the worker his 3 shillings, and the remaining 3 shillings he keeps for himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.19.7
+  kind: p
+  original: Wenn nun der Arbeiter in zwölf Stunden einen Wert von sechs Mark schafft, so in sechs Stunden einen Wert von 3 Mark.
+  en: If, now, the labourer creates in 12 hours a value of 6 shillings, in 6 hours he creates a value of 3 shillings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.19.8
+  kind: p
+  original: Er hat also dem Kapitalisten den Gegenwert der im Arbeitslohn erhaltnen drei Mark schon wieder vergütet, nachdem er für ihn sechs Stunden gearbeitet.
+  en: Consequently, after working 6 hours for the capitalist, the labourer has returned to him the equivalent of the 3 shillings received as wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.19.9
+  kind: p
+  original: Nach sechs Stunden Arbeit sind beide quitt, keiner ist dem andern einen Heller schuldig.
+  en: After 6 hours' work, both are quits, neither one owing a penny to the other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.20.1
+  kind: p
+  original: '"Halt da!" ruft jetzt der Kapitalist.'
+  en: '"Hold on there!" now cries out the capitalist.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: P1891.20.2
+  kind: p
+  original: '"Ich habe den Arbeiter für einen ganzen Tag, für zwölf Stunden gemietet.'
+  en: '"I have hired the labourer for a whole day, for 12 hours.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 207-208
+- id: P1891.20.3
+  kind: p
+  original: Sechs Stunden sind aber nur ein halber Tag.
+  en: But 6 hours are only half-a-day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.20.4
+  kind: p
+  original: Also flott fortgeschanzt, bis die andern sechs Stunden auch um sind - erst dann sind wir quitt!"
+  en: So work along lively there until the other 6 hours are at an end - only then will we be even."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.20.5
+  kind: p
+  original: Und der Arbeiter hat sich in der Tat seinem "freiwillig" eingegangnen Kontrakt zu fügen, wonach er sich verpflichtet, für ein Arbeitsprodukt, das sechs Arbeitsstunden kostet, zwölf ganze Stunden zu arbeiten.
+  en: And, in fact, the labourer has to submit to the conditions of the contract upon which he entered of "his own free will", and according to which he bound himself to work 12 whole hours for a product of labour which cost only 6 hours' labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.21.1
+  kind: p
+  original: Beim Stücklohn ist es geradeso.
+  en: Similarly with piece-wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.21.2
+  kind: p
+  original: Nehmen wir an, unser Arbeiter schafft in 12 Stunden 12 Stück Ware.
+  en: Let us suppose that in 12 hours our worker makes 12 commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.21.3
+  kind: p
+  original: Davon kostet jedes an Rohstoff und Verschleiß 2 M. und wird verkauft zu 2 1 / 2 M. So wird der Kapitalist, bei sonst denselben Voraussetzungen wie vorhin, dem Arbeiter 25 Pf. per Stück geben; macht auf 12 Stück 3 M., die zu verdienen der Arbeiter zwölf Stunden braucht.
+  en: Each of these costs a shilling in raw materials and wear-and-tear, and is sold for 2.5 shillings. On our former assumption, the capitalist gives the labourer.25 of a shilling for each piece, which makes a total of 3 shillings for 12 pieces. To earn this, the worker requires 12 hours.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: P1891.21.4
+  kind: p
+  original: Der Kapitalist erhält für die 12 Stück 30 M.; ab für Rohstoff und Verschleiß 24 M., bleiben 6 M., wovon er 3 M. Arbeitslohn zahlt und drei M. einsteckt.
+  en: The capitalist receives 30 shillings for the 12 pieces; deducting 24 shillings for raw materials and wear-and-tear, there remains 6 shillings, of which he pays 3 shillings in wages and pockets the remaining 3. Just as before!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.21.5
+  kind: p
+  original: Ganz wie oben.
+  en: ''
+  joined_to: P1891.21.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '208'
+- id: P1891.21.6
+  kind: p
+  original: Auch hier arbeitet der Arbeiter sechs Stunden für sich, d.h. zum Ersatz seines Lohns (in jeder der zwölf Stunden 112 Stunde), und sechs Stunden für den Kapitalisten.
+  en: Here, also, the worker labours 6 hours for himself - i.e., to replace his wages (half-an-hour in each of the 12 hours), and 6 hours for the capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.22.1
+  kind: p
+  original: Die Schwierigkeit, an der die besten Ökonomen scheiterten, solange sie vom Wert der "Arbeit" ausgingen, verschwindet, sobald wir statt dessen vom Wert der "Arbeitskraft " ausgehn.
+  en: The rock upon which the best economists were stranded, as long as they started out from the value of labour, vanishes as soon as we make our starting-point the value of labour-power. labour-power is, in our present-day capitalist society, a commodity like every other commodity, but yet a very peculiar commodity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.22.2
+  kind: p
+  original: Die Arbeitskraft ist eine Ware in unsrer heutigen kapitalistischen Gesellschaft, eine Ware wie jede andre, aber doch eine ganz besondre Ware.
+  en: ''
+  joined_to: P1891.22.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '208'
+- id: P1891.22.3
+  kind: p
+  original: Sie hat nämlich die besondre Eigenschaft, wertschaffende Kraft, Quelle von Wert zu sein, und zwar, bei geeigneter Behandlung, Quelle von mehr Wert, als sie selbst besitzt.
+  en: It has, namely, the peculiarity of being a value-creating force, the source of value, and, moreover, when properly treated, the source of more value than it possesses itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.22.4
+  kind: p
+  original: Bei dem heutigen Stand der Produktion produziert die menschliche Arbeitskraft nicht nur in einem Tag einen größern Wert, als sie selbst besitzt und kostet; mit jeder neuen wissenschaftlichen Entdeckung, mit jeder neuen technischen Erfindung steigert sich dieser Überschuß ihres Tagesprodukts über ihre Tageskosten, verkürzt sich also derjenige Teil des Arbeitstags, worin der Arbeiter den Ersatz seines Tageslohns herausarbeitet, und verlängert sich also andrerseits derjenige Teil des Arbeitstags, worin er dem Kapitalisten seine Arbeit schenken muß, ohne dafür bezahlt zu werden.
+  en: In the present state of production, human labour-power not only produces in a day a greater value than it itself possesses and costs; but with each new scientific discovery, with each new technical invention, there also rises the surplus of its daily production over its daily cost, while as a consequence there diminishes that part of the working-day in which the labourer produces the equivalent of his day's wages, and, on the other hand, lengthens that part of the working-day in which he must present labour gratis to the capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.23.1
+  kind: p
+  original: 'Und dies ist die wirtschaftliche Verfassung unsrer ganzen heutigen Gesellschaft: Die arbeitende Klasse allein ist es, die alle Werte produziert.'
+  en: 'And this is the economic constitution of our entire modern society: the working class alone produces all values.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.23.2
+  kind: p
+  original: Denn Wert ist nur ein andrer Ausdruck für Arbeit, derjenige Ausdruck, wodurch in unsrer heutigen kapitalistischen Gesellschaft die Menge der in einer bestimmten Ware steckenden, gesellschaftlich notwendigen Arbeit bezeichnet wird.
+  en: For value is only another expression for labour, that expression, namely, by which is designated, in our capitalist society of today, the amount of socially necessary labour embodied in a particular commodity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.23.3
+  kind: p
+  original: Diese von den Arbeitern produzierten Werte gehören aber nicht den Arbeitern.
+  en: But, these values produced by the workers do not belong to the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: P1891.23.4
+  kind: p
+  original: Sie gehören den Eigentümern der Rohstoffe, der Maschinen und Werkzeuge und der Vorschußmittel, die diesen Eigentümern erlauben, die Arbeitskraft der Arbeiterklasse zu kaufen.
+  en: They belong to the owners of the raw materials, machines, tools, and money, which enable them to buy the labour-power of the working class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 208-209
+- id: P1891.23.5
+  kind: p
+  original: Von der ganzen, von ihr erzeugten Produktionsmasse erhält also die Arbeiterklasse nur einen Teil für sich zurück.
+  en: Hence, the working class gets back only a part of the entire mass of products produced by it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: P1891.23.6
+  kind: p
+  original: Und, wie wir eben gesehn, wird der andre Teil, den die Kapitalistenklasse für sich behält und höchstens noch mit der Grundeigentümerklasse zu teilen hat, mit jeder neuen Erfindung und Entdeckung größer, während der der Arbeiterklasse zufallende Teil (auf die Kopfzahl berechnet) entweder nur sehr langsam und unbedeutend oder auch gar nicht steigt und unter Umständen sogar fallen kann.
+  en: And, as we have just seen, the other portion, which the capitalist class retains, and which it has to share, at most, only with the landlord class, is increasing with every new discovery and invention, while the share which falls to the working class (per capita) rises but little and very slowly, or not at all, and under certain conditions it may even fall.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: P1891.24.1
+  kind: p
+  original: Aber diese stets rascher einander verdrängenden Erfindungen und Entdeckungen, diese sich in bisher unerhörtem Maße Tag auf Tag steigernde Ergiebigkeit der menschlichen Arbeit schafft zuletzt einen Konflikt, worin die heutige kapitalistische Wirtschaft zugrunde gehn muß.
+  en: But, these discoveries and inventions which supplant one another with ever-increasing speed, this productiveness of human labour which increases from day to day to unheard-of proportions, at last gives rise to a conflict, in which present capitalistic economy must go to ruin.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: P1891.24.2
+  kind: p
+  original: Auf der einen Seite unermeßliche Reichtümer und einen Überfluß von Produkten, den die Abnehmer nicht bewältigen können.
+  en: On the one hand, immeasurable wealth and a superfluidity of products with which the buyers cannot cope.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: P1891.24.3
+  kind: p
+  original: Auf der andern die große Masse der Gesellschaft proletarisiert, in Lohnarbeiter verwandelt und eben dadurch unfähig gemacht, jenen Überfluß von Produkten sich anzueignen.
+  en: On the other hand, the great mass of society proletarianized, transformed into wage-labourers, and thereby disabled from appropriating to themselves that superfluidity of products.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: P1891.24.4
+  kind: p
+  original: Die Spaltung der Gesellschaft in eine kleine, übermäßig reiche und eine große, besitzlose Lohnarbeiterklasse bewirkt, daß diese Gesellschaft in ihrem eignen Überfluß erstickt, während die große Mehrzahl ihrer Glieder kaum oder nicht einmal vor dem äußersten Mangel geschützt ist.
+  en: The splitting up of society into a small class, immoderately rich, and a large class of wage-labourers devoid of all property, brings it about that this society smothers in its own superfluidity, while the great majority of its members are scarcely, or not at all, protected from extreme want.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: P1891.24.5
+  kind: p
+  original: Dieser Zustand wird mit jedem Tag widersinniger und - unnötiger.
+  en: This condition becomes every day more absurd and more unnecessary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: P1891.24.6
+  kind: p
+  original: Er muß beseitigt werden, er kann beseitigt werden.
+  en: It must be gotten rid of; it can be gotten rid of.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: P1891.24.7
+  kind: p
+  original: Eine neue Gesellschaftsordnung ist möglich, worin die heutigen Klassenunterschiede verschwunden sind und wo - vielleicht nach einer kurzen, etwas knappen, aber jedenfalls moralisch sehr nützlichen Übergangszeit - durch planmäßige Ausnutzung und Weiterbildung der schon vorhandnen ungeheuren Produktivkräfte aller Gesellschaftsglieder, bei gleicher Arbeitspflicht, auch die Mittel zum Leben, zum Lebensgenuß, zur Ausbildung und Betätigung aller körperlichen und geistigen Fähigkeiten, gleichmäßig und in stets wachsender Fülle zur Verfügung stehn.
+  en: A new social order is possible, in which the class differences of today will have disappeared, and in which - perhaps after a short transition period, which, though somewhat deficient in other respects, will in any case be very useful morally - there will be the means of life, of the enjoyment of life, and of the development and activity of all bodily and mental faculties, through the systematic use and further development of the enormous productive powers of society, which exists with us even now, with equal obligation upon all to work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: P1891.24.8
+  kind: p
+  original: Und daß die Arbeiter mehr und mehr entschlossen sind, sich diese neue Gesellschaftsordnung zu erkämpfen, davon wird Zeugnis ablegen, auf beiden Seiten des Ozeans, der morgende erste Mai und der Sonntag, der dritte Mai.
+  en: And that the workers are growing ever more determined to achieve this new social order will be proven on both sides of the ocean on this dawning May Day, and on Sunday, May 3rd.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: P1891.25.1
+  kind: signature
+  original: London, 30. April 1891
+  en: FREDERICK ENGELS London, April 30, 1891.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.26.1
+  kind: signature
+  original: Friedrich Engels
+  en: ''
+  joined_to: P1891.25.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '209'

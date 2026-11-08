@@ -1,6 +1,6 @@
 # Versification
 
-Every sentence of the text has a permanent address. This file explains how the addresses were made and the rules that keep them stable, so that a citation written today still points at the same sentence in ten years.
+Every sentence of every work has a permanent address. This file explains how the addresses are made and the rules that keep them stable, so that a citation written today still points at the same sentence in ten years.
 
 ## The address
 
@@ -9,8 +9,23 @@ CM  I . 23 . 2
 │   │   │    └─ sentence within the paragraph (1, 2, 3 ...)
 │   │   └────── paragraph within the section (0 = the section heading)
 │   └────────── section
-└────────────── work (Communist Manifesto)
+└────────────── work prefix, set in the work's work.yaml (CM, WLC ...)
 ```
+
+Inside a work's files the prefix is left off (`I.23.2`); everywhere else, in Discussions, pull requests, adaptations and other works' notes, always write it (`CM I.23.2`). Prefixes are unique across the library and the validator enforces that.
+
+Each work chooses sections that follow the author's own divisions. Prefaces and introductions use `P` plus the year of the edition (`P1872`, `P1891`). Author's footnotes use `N1`, `N2` ... as in the standard edition.
+
+### Wage Labour and Capital (WLC)
+
+| Section | Contents | Example |
+|---|---|---|
+| `P1891` | Engels's introduction to the 1891 edition | `WLC P1891.5.2` |
+| `I` to `V` | the five newspaper instalments of April 1849, the only division Marx made | `WLC I.13.1` |
+
+The `0` paragraph of each instalment is an editorial heading naming the newspaper issue.
+
+### Communist Manifesto (CM)
 
 Sections:
 
@@ -29,7 +44,7 @@ Subheadings in Section III (for example "a) Der feudale Sozialismus") take a par
 
 ## Which language sets the boundaries
 
-The German is the original, so German sentences define the verses. The 1888 English is lined up against them.
+The original language defines the verses. For the works so far that is German, so German sentences define the verses. The 1888 English is lined up against them.
 
 Two prefaces were not written in German, and for those the rule bends:
 
@@ -49,7 +64,7 @@ The modern draft does not have to follow Moore's sentence breaks. If a modern se
 
 ## The freeze
 
-`text/verse-ids.lock` lists every id that has ever been issued. `scripts/validate.py` fails a pull request if:
+Each work's `verse-ids.lock` lists every id that has ever been issued in that work. `scripts/validate.py` fails a pull request if:
 
 - an id in the lock file disappears or is renamed,
 - a new id appears that is not a split of an existing one.
@@ -58,4 +73,4 @@ The only way to add a verse is to **split** an existing one with a letter suffix
 
 ## How the first numbering was produced
 
-`scripts/ingest/` holds the one-time pipeline. It extracted paragraphs from the sources, split sentences with simple published rules (`scripts/lib/segment.py`), and aligned English and the modern seed against the German with a length-and-anchor method in the style of Gale and Church (`scripts/lib/align.py`). Every alignment that was not a clean one-to-one match, or looked doubtful, was flagged `review: true` with a `review_reason`. The pipeline must not be run again over the published files; after v1.0 the YAML in `text/` is the source of truth.
+Each work's `ingest/` folder holds its one-time script. It extracts paragraphs from the sources (`scripts/lib/mew.py` reads MEW and Marxists Internet Archive pages), splits sentences with simple published rules (`scripts/lib/segment.py`), and aligns the English and any modern seed against the original with a length-and-anchor method in the style of Gale and Church (`scripts/lib/align.py`, `scripts/lib/versify.py`). Every alignment that was not a clean one-to-one match, or looked doubtful, was flagged `review: true` with a `review_reason`. An ingest script must not be run again once its work's lock file exists; from then on the YAML in `text/` is the source of truth.

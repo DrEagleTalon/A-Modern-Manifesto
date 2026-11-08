@@ -99,8 +99,9 @@ def same_lang_cost(ratio=1.0):
     return f
 
 
-def align(A, B, cost_fn, beads=BEADS, prior=PRIOR):
-    """Return list of (a_idx_list, b_idx_list, cost)."""
+def align(A, B, cost_fn, beads=BEADS, prior=PRIOR, band=None):
+    """Return list of (a_idx_list, b_idx_list, cost). `band` limits the search to
+    cells near the diagonal, which keeps whole-text sentence alignment fast."""
     n, m = len(A), len(B)
     INF = float("inf")
     D = [[INF] * (m + 1) for _ in range(n + 1)]
@@ -109,6 +110,8 @@ def align(A, B, cost_fn, beads=BEADS, prior=PRIOR):
     for i in range(n + 1):
         for j in range(m + 1):
             if D[i][j] == INF:
+                continue
+            if band is not None and n and abs(j - i * m / n) > band:
                 continue
             for da, db in beads:
                 ni, nj = i + da, j + db

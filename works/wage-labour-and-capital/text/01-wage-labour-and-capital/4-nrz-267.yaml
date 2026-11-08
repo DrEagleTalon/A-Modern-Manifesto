@@ -1,0 +1,791 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: IV
+title_original: Lohnarbeit und Kapital, Neue Rheinische Zeitung Nr. 267, 8. April 1849
+title_en: Instalment IV (NRZ No. 267, 8 April 1849)
+author: Karl Marx
+date: 1849-04
+original_language: de
+anchor_language: de
+source_original: 'MEW 6, S. 397-423 (Dietz, Berlin) via mlwerke.de: text of Engels''s 1891 edition; 1849 newspaper readings attached as variants'
+source_en: Harriet E. Lothrop, Wage-Labor and Capital, New York Labor News Co., 1902 (public domain), in the Marxists Internet Archive edition (proofed by Alek Blain, 2006; CC BY-SA), which modernises some wording and currency
+verses:
+- id: IV.0.1
+  kind: heading
+  original: '[IV] Neue Rheinische Zeitung Nr. 267, 8. April 1849'
+  en: '[IV] Neue Rheinische Zeitung No. 267, 8 April 1849'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: 'Editorial heading: the newspaper instalment. Not printed in the 1891 pamphlet.'
+- id: IV.1.1
+  kind: p
+  original: 'Wächst das Kapital, so wächst die Masse der Lohnarbeit, so wächst die Anzahl der Lohnarbeiter, mit einem Wort: Die Herrschaft des Kapitals dehnt sich über eine größere Masse von Individuen aus.'
+  en: If capital grows, the mass of wage-labour grows, the number of wage-workers increases; in a word, the sway of capital extends over a greater mass of individuals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T62
+    editions: 1849 (NRZ)
+    reading: 'vorangestellt: * Köln, 7. April'
+    base_text: ‸ Wächst das Kapital, so …
+  mew_page: '411'
+- id: IV.1.2
+  kind: p
+  original: 'Und unterstellen wir den günstigsten Fall: Wenn das produktive Kapital wächst, wächst die Nachfrage nach Arbeit.'
+  en: 'Let us suppose the most favorable case: if productive capital grows, the demand for labour grows.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: IV.1.3
+  kind: p
+  original: Es steigt also der Preis der Arbeit, der Arbeitslohn.
+  en: It therefore increases the price of labour-power, wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: IV.2.1
+  kind: p
+  original: Ein Haus mag groß oder klein sein, solange die es umgebenden Häuser ebenfalls klein sind, befriedigt es alle gesellschaftlichen Ansprüche an eine Wohnung.
+  en: A house may be large or small; as long as the neighboring houses are likewise small, it satisfies all social requirement for a residence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: IV.2.2
+  kind: p
+  original: Erhebt sich aber neben dem kleinen Haus ein Palast, und das kleine Haus schrumpft zur Hütte zusammen.
+  en: But let there arise next to the little house a palace, and the little house shrinks to a hut.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: IV.2.3
+  kind: p
+  original: Das kleine Haus beweist nun, daß sein Inhaber keine oder nur die geringsten Ansprüche zu machen hat; und es mag im Laufe der Zivilisation in die Höhe schießen noch so sehr, wenn der benachbarte Palast in gleichem oder gar in höherem Maße in die Höhe schießt, wird der Bewohner des verhältnismäßig kleinen Hauses sich immer unbehaglicher, unbefriedigter, gedrückter in seinen vier Pfählen finden.
+  en: The little house now makes it clear that its inmate has no social position at all to maintain, or but a very insignificant one; and however high it may shoot up in the course of civilization, if the neighboring palace rises in equal or even in greater measure, the occupant of the relatively little house will always find himself more uncomfortable, more dissatisfied, more cramped within his four walls.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: IV.3.1
+  kind: p
+  original: Ein merkliches Zunehmen des Arbeitslohns setzt ein rasches Wachsen des produktiven Kapitals voraus.
+  en: An appreciable rise in wages presupposes a rapid growth of productive capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T63
+    editions: 1849 (NRZ)
+    reading: Wachstum
+    base_text: … setzt ein rasches Wachsen ‸ des produktiven Kapitals voraus. …
+  mew_page: '412'
+- id: IV.3.2
+  kind: p
+  original: Das rasche Wachsen des produktiven Kapitals ruft ebenso rasches Wachstum des Reichtums, des Luxus, der gesellschaftlichen Bedürfnisse und der gesellschaftlichen Genüsse hervor.
+  en: Rapid growth of productive capital calls forth just as rapid a growth of wealth, of luxury, of social needs and social pleasures.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.3.3
+  kind: p
+  original: Obgleich also die Genüsse des Arbeiters gestiegen sind, ist die gesellschaftliche Befriedigung, die sie gewähren, gefallen im Vergleich mit den vermehrten Genüssen des Kapitalisten, die dem Arbeiter unzugänglich sind, im Vergleich mit dem Entwicklungsstand der Gesellschaft überhaupt.
+  en: Therefore, although the pleasures of the labourer have increased, the social gratification which they afford has fallen in comparison with the increased pleasures of the capitalist, which are inaccessible to the worker, in comparison with the stage of development of society in general.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.3.4
+  kind: p
+  original: Unsre Bedürfnisse und Genüsse entspringen aus der Gesellschaft; wir messen sie daher an der Gesellschaft; wir messen sie nicht an den Gegenständen ihrer Befriedigung.
+  en: Our wants and pleasures have their origin in society; we therefore measure them in relation to society; we do not measure them in relation to the objects which serve for their gratification.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.3.5
+  kind: p
+  original: Weil sie gesellschaftlicher Natur sind, sind sie relativer Natur.
+  en: Since they are of a social nature, they are of a relative nature.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.4.1
+  kind: p
+  original: Der Arbeitslohn wird überhaupt nicht nur bestimmt durch die Masse von Waren, die ich für ihn austauschen kann.
+  en: But wages are not at all determined merely by the sum of commodities for which they may be exchanged.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T64
+    editions: 1849 (NRZ)
+    reading: eintauschen
+    base_text: … ich für ihn austauschen ‸ kann. …
+  mew_page: '412'
+- id: IV.4.2
+  kind: p
+  original: Er enthält verschiedne Beziehungen.
+  en: Other factors enter into the problem.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.5.1
+  kind: p
+  original: Was die Arbeiter zunächst für ihre Arbeitskraft erhalten, ist eine bestimmte Summe Geldes.
+  en: What the workers directly receive for their labour-power is a certain sum of money.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T65
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … zunächst für ihre Arbeitskraft ‸ erhalten, ist eine bestimmte …
+  mew_page: '412'
+- id: IV.5.2
+  kind: p
+  original: Ist der Arbeitslohn nur durch diesen Geldpreis bestimmt?
+  en: Are wages determined merely by this money price?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.6.1
+  kind: p
+  original: Im 16. Jahrhundert vermehrte sich das in Europa zirkulierende Gold und Silber infolge der Entdeckung von reicheren und leichter zu bearbeitenden Bergwerken in Amerika.
+  en: In the 16th century, the gold and silver circulation in Europe increased in consequence of the discovery of richer and more easily worked mines in America.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T66
+    editions: 1849 (NRZ)
+    reading: 'fehlt: reicheren und leichter zu bearbeitenden Bergwerke in'
+    base_text: … zu bearbeitenden Bergwerken in ‸ Amerika. …
+  mew_page: '412'
+- id: IV.6.2
+  kind: p
+  original: Der Wert des Goldes und Silbers fiel daher im Verhältnis zu den übrigen Waren.
+  en: The value of gold and silver, therefore, fell in relation to other commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.6.3
+  kind: p
+  original: Die Arbeiter erhielten nach wie vor dieselbe Masse gemünzten Silbers für ihre Arbeitskraft.
+  en: The workers received the same amount of coined silver for their labour-power as before.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T65
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Silbers für ihre Arbeitskraft ‸ . …
+  mew_page: '412'
+- id: IV.6.4
+  kind: p
+  original: Der Geldpreis ihrer Arbeit blieb derselbe, und dennoch war ihr Arbeitslohn gefallen, denn im Austausch für dieselbe Quantität Silber erhielten sie eine geringre Summe andrer Waren zurück.
+  en: The money price of their work remained the same, and yet their wages had fallen, for in exchange for the same amount of silver they obtained a smaller amount of other commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.6.5
+  kind: p
+  original: Es war dies einer der Umstände, die das Wachstum des Kapitals, das Aufkommen der Bourgeoisie im 16.
+  en: This was one of the circumstances which furthered the growth of capital, the rise of the bourgeoisie, in the 18th century.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T67
+    editions: '1891'
+    reading: 'Druckfehler: 18.'
+    base_text: … der Bourgeoisie im 16. ‸  …
+  mew_page: '412'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: IV.6.6
+  kind: p
+  original: Jahrhundert förderten.
+  en: ''
+  joined_to: IV.6.5
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '412'
+- id: IV.7.1
+  kind: p
+  original: Nehmen wir einen andern Fall.
+  en: Let us take another case.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.7.2
+  kind: p
+  original: Im Winter 1847 waren infolge einer Mißernte die unentbehrlichsten Lebensmittel, Getreide, Fleisch, Butter, Käse usw., bedeutend im Preise gestiegen.
+  en: In the winter of 1847, in consequence of bad harvest, the most indispensable means of subsistence - grains, meat, butter, cheese, etc. - rose greatly in price.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.7.3
+  kind: p
+  original: Gesetzt, die Arbeiter hätten nach wie vor dieselbe Summe Geldes für ihre Arbeitskraft empfangen.
+  en: Let us suppose that the workers still received the same sum of money for their labour-power as before.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T65
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Geldes für ihre Arbeitskraft ‸ empfangen. …
+  mew_page: '412'
+- id: IV.7.4
+  kind: p
+  original: War ihr Arbeitslohn nicht gefallen?
+  en: Did not their wages fall?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.7.5
+  kind: p
+  original: Allerdings.
+  en: To be sure.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.7.6
+  kind: p
+  original: Für dasselbe Geld erhielten sie im Austausch weniger Brot, Fleisch usw. Ihr Arbeitslohn war gefallen, nicht weil sich der Wert des Silbers vermindert, sondern weil sich der Wert der Lebensmittel vermehrt hatte.
+  en: For the same money they received in exchange less bread, meat, etc. Their wages fell, not because the value of silver was less, but because the value of the means of subsistence had increased.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: IV.8.1
+  kind: p
+  original: Gesetzt endlich, der Geldpreis der Arbeit bleibe derselbe, während alle Agrikultur- und Manufakturwaren infolge von Anwendung neuer Maschinen, günstiger Jahreszeit usw. im Preise gefallen wären.
+  en: Finally, let us suppose that the money price of labour-power remained the same, while all agricultural and manufactured commodities had fallen in price because of the employment of new machines, of favorable seasons, etc. For the same money the workers could now buy more commodities of all kinds.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: IV.8.2
+  kind: p
+  original: Für dasselbe Geld können die Arbeiter nun mehr Waren aller Art kaufen.
+  en: ''
+  joined_to: IV.8.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '413'
+- id: IV.8.3
+  kind: p
+  original: Ihr Arbeitslohn ist also gestiegen, eben weil der Geldwert desselben sich nicht verändert hat.
+  en: Their wages have therefore risen, just because their money value has not changed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: IV.9.1
+  kind: p
+  original: Der Geldpreis der Arbeit, der nominelle Arbeitslohn, fällt also nicht zusammen mit dem reellen Arbeitslohn, d.h. mit der Summe von Waren, die wirklich im Austausch gegen den Arbeitslohn gegeben wird.
+  en: The money price of labour-power, the nominal wages, do not therefore coincide with the actual or real wages - i.e., with the amount of commodities which are actually given in exchange for the wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: IV.9.2
+  kind: p
+  original: Sprechen wir also vom Steigen oder Fallen des Arbeitslohns, so haben wir nicht nur den Geldpreis der Arbeit, den nominellen Arbeitslohn, im Auge zu halten.
+  en: If then we speak of a rise or fall of wages, we have to keep in mind not only the money price of labour-power, the nominal wages, but also the real wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: IV.10.1
+  kind: p
+  original: Aber weder der nominelle Arbeitslohn, d.h. die Geldsumme, wofür der Arbeiter sich an den Kapitalisten verkauft, noch der reelle Arbeitslohn, d.h. die Summe Waren, die er für dies Geld kaufen kann, erschöpfen die im Arbeitslohn enthaltnen Beziehungen.
+  en: But neither the nominal wages - i.e., the amount of money for which the labourer sells himself to the capitalist - nor the real wages - i.e., the amount of commodities which he can buy for this money - exhausts the relations which are comprehended in the term wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: IV.11.1
+  kind: p
+  original: Der Arbeitslohn ist vor allem noch bestimmt durch sein Verhältnis zum Gewinn, zum Profit des Kapitalisten - verhältnismäßiger, relativer Arbeitslohn.
+  en: Wages are determined above all by their relations to the gain, the profit, of the capitalist. In other words, wages are a proportionate, relative quantity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.12.1
+  kind: p
+  original: Der reelle Arbeitslohn drückt den Preis der Arbeit im Verhältnis zum Preise der übrigen Waren aus, der relative Arbeitslohn dagegen den Anteil der unmittelbaren Arbeit an dem von ihr neu erzeugten Wert im Verhältnis des Anteils davon, der der aufgehäuften Arbeit, dem Kapital, zufällt.
+  en: Real wages express the price of labour-power in relation to the price of commodities; relative wages, on the other hand, express the share of immediate labour in the value newly created by it, in relation to the share of it which falls to accumulated labour, to capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T68
+    editions: 1849 (NRZ)
+    reading: 'lautet der Absatz: Der reelle Arbeitslohn drückt den Preis der Arbeit im Verhältnis zum Preise der übrigen waren aus, der relative Arbeitslohn dagegen den Preis der unmittelbaren Arbeit im Verhältnis zum Preise der aufgehäuften Arbeit, den verhältnismäßigen Wert von Lohnarbeit und Kapital, den wechselseitigen Wert der Kapitalisten und Arbeiter.'
+    base_text: … Arbeit, dem Kapital, zufällt. ‸  …
+  mew_page: '413'
+- id: IV.13.1
+  kind: p
+  original: 'Wir sagten oben, Seite 14 <Siehe S. 400>: "Der Arbeitslohn ist nicht ein Anteil des Arbeiters an der von ihm produzierten Ware.'
+  en: 'We have said: "Wages are not a share of the worker in the commodities produced by him.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+  en_note: 'Lothrop 1902, chapter 7: The General Law that Determines the Rise and Fall of Wages and Profits'
+- id: IV.13.2
+  kind: p
+  original: Der Arbeitslohn ist der Teil schon vorhandner Waren, womit der Kapitalist eine bestimmte Summe produktiver Arbeitskraft an sich kauft."
+  en: Wages are that part of already existing commodities with which the capitalist buys a certain amount of productive labor-power."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: IV.13.3
+  kind: p
+  original: Aber diesen Arbeitslohn muß der Kapitalist wieder ersetzen aus dem Preis, wozu er das vom Arbeiter erzeugte Produkt verkauft; er muß ihn so ersetzen, daß ihm dabei in der Regel noch ein Überschuß über seine ausgelegten Produktionskosten, ein Profit, übrigbleibt.
+  en: But the capitalist must replace these wages out of the price for which he sells the product made by the worker; he must so replace it that, as a rule, there remains to him a surplus above the cost of production expended by him, that is, he must get a profit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: IV.13.4
+  kind: p
+  original: 'Der Verkaufspreis der vom Arbeiter erzeugten Ware teilt sich für den Kapitalisten in drei Teile: erstens den Ersatz des Preises der von ihm vorgeschoßnen Rohstoffe nebst dem Ersatz des Verschleißes der ebenfalls von ihm vorgeschoßnen Werkzeuge, Maschinen und andren Arbeitsmittel; zweitens in den Ersatz des von ihm vorgeschoßnen Arbeitslohns und drittens in den Überschuß darüber, den Profit des Kapitalisten.'
+  en: 'The selling price of the commodities produced by the worker is divided, from the point of view of the capitalist, into three parts: First, the replacement of the price of the raw materials advanced by him, in addition to the replacement of the wear and tear of the tools, machines, and other instruments of labor likewise advanced by him; Second, the replacement of the wages advanced; and Third, the surplus leftover - i.e., the profit of the capitalist.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 413-414
+- id: IV.13.5
+  kind: p
+  original: Während der erste Teil nur früher vorhandne Werte ersetzt, ist es klar, daß sowohl der Ersatz des Arbeitslohns wie der Überschußprofit des Kapitalisten im ganzen und großen genommen werden aus dem durch die Arbeit des Arbeiters geschaffnen und den Rohstoffen zugesetzten Neuwert.
+  en: While the first part merely replaces previously existing values, it is evident that the replacement of the wages and the surplus (the profit of capital) are as a whole taken out of the new value, which is produced by the labor of the worker and added to the raw materials.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: IV.13.6
+  kind: p
+  original: Und in diesem Sinn können wir sowohl Arbeitslohn wie Profit, um sie miteinander zu vergleichen, als Anteile am Produkt des Arbeiters auffassen.
+  en: And in this sense we can view wages as well as profit, for the purpose of comparing them with each other, as shares in the product of the worker.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T69
+    editions: 1849 (NRZ)
+    reading: fehlt der ganze Absatz
+    base_text: … Produkt des Arbeiters auffassen. ‸  …
+  mew_page: '414'
+- id: IV.14.1
+  kind: p
+  original: Der reelle Arbeitslohn mag derselbe bleiben, er mag selbst steigen, und der relative Arbeitslohn kann nichtsdestoweniger fallen.
+  en: Real wages may remain the same, they may even rise, nevertheless the relative wages may fall.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: IV.14.2
+  kind: p
+  original: Unterstellen wir z. B., alle Lebensmittel seien im Preise um 2 / 3 gesunken, während der Taglohn nur um 1 / 3 sinke, also z.B. von 3 Mark auf 2 Mark.
+  en: Let us suppose, for instance, that all means of subsistence have fallen 2/3rds in price, while the day's wages have fallen but 1/3rd - for example, from three to two shillings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: IV.14.3
+  kind: p
+  original: Obgleich der Arbeiter mit diesen 2 Mark über eine größre Summe von Waren verfügt als früher mit 3 Mark, so hat dennoch sein Arbeitslohn im Verhältnis zum Gewinn des Kapitalisten abgenommen.
+  en: Although the worker can now get a greater amount of commodities with these two shillings than he formerly did with three shillings, yet his wages have decreased in proportion to the gain of the capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: IV.14.4
+  kind: p
+  original: Der Profit des Kapitalisten (z.B. des Fabrikanten) hat sich um eine Mark vermehrt, d.h., für eine geringre Summe von Tauschwerten, die er dem Arbeiter zahlt, muß der Arbeiter eine größre Summe von Tauschwerten produzieren als früher.
+  en: The profit of the capitalist - the manufacturer's for instance - has increased one shilling, which means that for a smaller amount of exchange values, which he pays to the worker, the latter must produce a greater amount of exchange values than before.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: IV.14.5
+  kind: p
+  original: Der Anteil des Kapitals im Verhältnis zum Anteil der Arbeit ist gestiegen.
+  en: The share of capitals in proportion to the share of labour has risen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T70
+    editions: 1849 (NRZ)
+    reading: Wert
+    base_text: … Der Anteil ‸ des Kapitals im Verhältnis …
+  - ref: T70
+    editions: 1849 (NRZ)
+    reading: Wert
+    base_text: … im Verhältnis zum Anteil ‸ der Arbeit ist gestiegen. …
+  mew_page: '414'
+- id: IV.14.6
+  kind: p
+  original: Die Verteilung des gesellschaftlichen Reichtums zwischen Kapital und Arbeit ist noch ungleichmäßiger geworden.
+  en: The distribution of social wealth between capital and labour has become still more unequal.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: IV.14.7
+  kind: p
+  original: Der Kapitalist kommandiert mit demselben Kapital eine größre Quantität Arbeit.
+  en: The capitalist commands a greater amount of labour with the same capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: IV.14.8
+  kind: p
+  original: Die Macht der Kapitalistenklasse über die Arbeiterklasse ist gewachsen, die gesellschaftliche Stellung des Arbeiters hat sich verschlechtert, ist um eine Stufe tiefer unter die des Kapitalisten herabgedrückt.
+  en: The power of the capitalist class over the working class has grown, the social position of the worker has become worse, has been forced down still another degree below that of the capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T71
+    editions: 1849 (NRZ)
+    reading: 'fehlt: des'
+    base_text: … tiefer unter die des ‸ Kapitalisten herabgedrückt. …
+  mew_page: '414'
+- id: IV.15.1
+  kind: p
+  original: Welches ist nun das allgemeine Gesetz, das das Fallen und Steigen des Arbeitslohns und Profits in ihrer wechselseitigen Beziehung bestimmt?
+  en: What, then, is the general law that determines the rise and fall of wages and profit in their reciprocal relation?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T72
+    editions: 1849 (NRZ)
+    reading: 'fehlt: das'
+    base_text: … allgemeine Gesetz, das das ‸ Fallen und Steigen des …
+  mew_page: '414'
+- id: IV.16.1
+  kind: p
+  original: Sie stehen im umgekehrten Verhältnis.
+  en: They stand in inverse proportion to each other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T73
+    editions: 1849 (NRZ)
+    reading: in umgekehrtem
+    base_text: … Sie stehen im umgekehrten ‸ Verhältnis. …
+  mew_page: '414'
+- id: IV.16.2
+  kind: p
+  original: Der Anteil des Kapitals, der Profit, steigt in demselben Verhältnis, worin der Anteil der Arbeit, der Taglohn, fällt, und umgekehrt.
+  en: The share of (profit) increases in the same proportion in which the share of labour (wages) falls, and vice versa.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T74
+    editions: 1849 (NRZ)
+    reading: Tauschwert
+    base_text: … Der Anteil ‸ des Kapitals, der Profit, …
+  - ref: T74
+    editions: 1849 (NRZ)
+    reading: Tauschwert
+    base_text: … Verhältnis, worin der Anteil ‸ der Arbeit, der Taglohn, …
+  mew_page: '414'
+- id: IV.16.3
+  kind: p
+  original: Der Profit steigt in dem Maße, worin der Arbeitslohn fällt, er fällt in dem Maße, worin der Arbeitslohn steigt.
+  en: Profit rises in the same degree in which wages fall; it falls in the same degree in which wages rise.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: IV.17.1
+  kind: p
+  original: Man wird vielleicht einwenden, daß der Kapitalist gewinnen kann durch vorteilhaften Austausch seiner Produkte mit andern Kapitalisten, durch Steigen der Nachfrage nach seiner Ware, sei es infolge der Eröffnung von neuen Märkten, sei es infolge augenblicklich vermehrter Bedürfnisse auf den alten Märkten usw.; daß der Profit des Kapitalisten sich also vermehren kann durch die Übervorteilung dritter Kapitalisten, unabhängig vom Steigen und Fallen des Arbeitslohns, des Tauschwerts der Arbeitskraft; oder der Profit des Kapitalisten könne auch steigen durch Verbesserung der Arbeitsinstrumente, neue Anwendung der Naturkräfte usw.
+  en: It might perhaps be argued that the capitalist class can gain by an advantageous exchange of his products with other capitalists, by a rise in the demand for his commodities, whether in consequence of the opening up of new markets, or in consequence of temporarily increased demands in the old market, and so on; that the profit of the capitalist, therefore, may be multiplied by taking advantage of other capitalists, independently of the rise and fall of wages, of the exchange value of labour-power; or that the profit of the capitalist may also rise through improvements in the instruments of labour, new applications of the forces of nature, and so on.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T75
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … des Tauschwerts der Arbeitskraft ‸ ; oder der Profit …
+  mew_page: 414-415
+- id: IV.18.1
+  kind: p
+  original: Zunächst wird man zugeben müssen, daß das Resultat dasselbe bleibt, obgleich es auf umgekehrtem Wege herbeigeführt ist.
+  en: But in the first place it must be admitted that the result remains the same, although brought about in an opposite manner.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: IV.18.2
+  kind: p
+  original: Der Profit ist zwar nicht gestiegen, weil der Arbeitslohn gefallen ist, aber der Arbeitslohn ist gefallen, weil der Profit gestiegen ist.
+  en: Profit, indeed, has not risen because wages have fallen, but wages have fallen because profit has risen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: IV.18.3
+  kind: p
+  original: Der Kapitalist hat mit derselben Summe von fremder Arbeit eine größre Summe von Tauschwerten erkauft, ohne deshalb die Arbeit höher bezahlt zu haben; d.h. also, die Arbeit wird niedriger bezahlt im Verhältnis zum Reinertrag, den sie dem Kapitalisten abwirft.
+  en: With the same amount of another man's labour the capitalist has bought a larger amount of exchange values without having paid more for the labour on that account - i.e., the work is paid for less in proportion to the net gain which it yields to the capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T76
+    editions: 1849 (NRZ)
+    reading: 'fehlt: fremder'
+    base_text: … derselben Summe von fremder ‸ Arbeit eine größre Summe …
+  mew_page: '415'
+- id: IV.19.1
+  kind: p
+  original: Zudem erinnern wir, daß trotz der Schwankungen der Warenpreise der Durchschnittspreis jeder Ware, das Verhältnis, worin sie sich gegen andre Waren austauscht, durch ihre Produktionskosten bestimmt ist.
+  en: In the second place, it must be borne in mind that, despite the fluctuations in the prices of commodities, the average price of every commodity, the proportion in which it exchanges for other commodities, is determined by its cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: IV.19.2
+  kind: p
+  original: Die Übervorteilungen innerhalb der Kapitalistenklasse gleichen sich daher notwendig aus.
+  en: The acts of overreaching and taking advantage of one another within the capitalist ranks necessarily equalize themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: IV.19.3
+  kind: p
+  original: Die Verbesserung der Maschinerie, die neue Anwendung von Naturkräften im Dienst der Produktion befähigen in einer gegebnen Arbeitszeit, mit derselben Summe von Arbeit und Kapital eine größre Masse von Produkten, keineswegs aber eine größre Masse von Tauschwerten zu schaffen.
+  en: The improvements of machinery, the new applications of the forces of nature in the service of production, make it possible to produce in a given period of time, with the same amount of labour and capital, a larger amount of products, but in no wise a larger amount of exchange values.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: IV.19.4
+  kind: p
+  original: Wenn ich durch die Anwendung der Spinnmaschine noch einmal soviel Gespinst in einer Stunde liefern kann wie vor ihrer Erfindung, z.B. hundert Pfund statt fünfzig, so erhalte ich für diese hundert Pfund auf die Dauer nicht mehr Waren im Austausch zurück als früher für fünfzig, weil die Produktionskosten um die Hälfte gefallen sind oder weil ich mit denselben Kosten das doppelte Produkt liefern kann.
+  en: If by the use of the spinning-machine I can furnish twice as much yarn in an hour as before its invention - for instance, 100 pounds instead of 50 pounds - in the long run I receive back, in exchange for this 100 pounds no more commodities than I did before for 50; because the cost of production has fallen by 1/2, or because I can furnish double the product at the same cost.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T77
+    editions: 1849 (NRZ)
+    reading: 'fehlt: auf die Dauer'
+    base_text: … Pfund auf die Dauer ‸ nicht mehr Waren im …
+  mew_page: '415'
+- id: IV.20.1
+  kind: p
+  original: Endlich, in welchem Verhältnis auch immer die Kapitalistenklasse, die Bourgeoisie, sei es eines Landes, sei es des ganzen Weltmarkts, den Reinertrag der Produktion unter sich verteile, die Gesamtsumme dieses Reinertrags ist jedesmal nur die Summe, um welche die aufgehäufte Arbeit im großen und ganzen durch die unmittelbare Arbeit vermehrt worden ist.
+  en: Finally, in whatsoever proportion the capitalist class, whether of one country or of the entire world-market, distribute the net revenue of production among themselves, the total amount of this net revenue always consists exclusively of the amount by which accumulated labour has been increased from the proceeds of direct labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T78
+    editions: 1849 (NRZ)
+    reading: welchen Verhältnissen
+    base_text: … Endlich, in welchem Verhältnis ‸ auch immer die Kapitalistenklasse, …
+  - ref: T79
+    editions: 1849 (NRZ)
+    reading: unmittelbare
+    base_text: … um welche die aufgehäufte ‸ Arbeit im großen und …
+  - ref: T80
+    editions: 1849 (NRZ)
+    reading: aufgehäufte
+    base_text: … ganzen durch die unmittelbare ‸ Arbeit vermehrt worden ist. …
+  mew_page: '415'
+- id: IV.20.2
+  kind: p
+  original: Diese Gesamtsumme wächst also in dem Verhältnis, worin die Arbeit das Kapital vermehrt, d.h. in dem Verhältnis, worin der Profit gegen den Arbeitslohn steigt.
+  en: This whole amount, therefore, grows in the same proportion in which labour augments capital - i.e., in the same proportion in which profit rises as compared with wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: IV.21.1
+  kind: p
+  original: Wir sehen also, daß selbst, wenn wir innerhalb des Verhältnisses von Kapital und Lohnarbeit stehnbleiben, die Interessen des Kapitals und die Interessen der Lohnarbeit sich schnurstracks gegenüberstehn.
+  en: We thus see that, even if we keep ourselves within the relation of capital and wage-labour, the interests of capitals and the interests of wage-labour are diametrically opposed to each other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+  en_note: 'Lothrop 1902, chapter 8: The Interests of Capital and Wage-Labour are diametrically opposed Effect of growth of productive Capital on Wages'
+- id: IV.22.1
+  kind: p
+  original: Eine rasche Zunahme des Kapitals ist gleich einer raschen Zunahme des Profits.
+  en: A rapid growth of capital is synonymous with a rapid growth of profits.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: IV.22.2
+  kind: p
+  original: Der Profit kann nur rasch zunehmen, wenn der Preis der Arbeit, wenn der relative Arbeitslohn ebenso rasch abnimmt.
+  en: Profits can grow rapidly only when the price of labour - the relative wages - decrease just as rapidly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T81
+    editions: 1849 (NRZ)
+    reading: Tauschwert
+    base_text: … zunehmen, wenn der Preis ‸ der Arbeit, wenn der …
+  mew_page: '416'
+- id: IV.22.3
+  kind: p
+  original: Der relative Arbeitslohn kann fallen, obgleich der reelle Arbeitslohn gleichzeitig mit dem nominellen Arbeitslohn, mit dem Geldwert der Arbeit steigt, aber nur nicht in demselben Verhältnis steigt wie der Profit.
+  en: Relative wages may fall, although real wages rise simultaneously with nominal wages, with the money value of labour, provided only that the real wage does not rise in the same proportion as the profit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: IV.22.4
+  kind: p
+  original: Steigt z.B. in guten Geschäftszeiten der Arbeitslohn um 5 Prozent, der Profit dagegen um 30 Prozent, so hat der verhältnismäßige, der relative Arbeitslohn nicht zugenommen, sondern abgenommen.
+  en: If, for instance, in good business years wages rise 5 per cent, while profits rise 30 per cent, the proportional, the relative wage has not increased, but decreased.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: IV.23.1
+  kind: p
+  original: Vermehrt sich also die Einnahme des Arbeiters mit dem raschen Wachstum des Kapitals, so vermehrt sich gleichzeitig die gesellschaftliche Kluft, die den Arbeiter vom Kapitalisten scheidet, so vermehrt sich gleichzeitig die Macht des Kapitals über die Arbeit, die Abhängigkeit der Arbeit vom Kapital.
+  en: If, therefore, the income of the worker increased with the rapid growth of capital, there is at the same time a widening of the social chasm that divides the worker from the capitalist, and increase in the power of capital over labour, a greater dependence of labour upon capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: IV.24.1
+  kind: p
+  original: 'Der Arbeiter hat ein Interesse am raschen Wachstum des Kapitals, heißt nur: Je rascher der Arbeiter den fremden Reichtum vermehrt, desto fettere Brocken fallen für ihn ab, um desto mehr Arbeiter können beschäftigt und ins Leben gerufen, desto mehr kann die Masse der vom Kapital abhängigen Sklaven vermehrt werden.'
+  en: 'To say that "the worker has an interest in the rapid growth of capital", means only this: that the more speedily the worker augments the wealth of the capitalist, the larger will be the crumbs which fall to him, the greater will be the number of workers than can be called into existence, the more can the mass of slaves dependent upon capital be increased.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: IV.25.1
+  kind: p
+  original: 'Wir haben also gesehen:'
+  en: ''
+  joined_to: IV.24.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '416'
+- id: IV.26.1
+  kind: p
+  original: Selbst die günstigste Situation für die Arbeiterklasse, möglichst rasches Wachstum des Kapitals, sosehr sie das materielle Leben des Arbeiters verbessern mag, hebt den Gegensatz zwischen seinen Interessen und den Bourgeoisinteressen, den Interessen des Kapitalisten, nicht auf.
+  en: We have thus seen that even the most favorable situation for the working class, namely, the most rapid growth of capital, however much it may improve the material life of the worker, does not abolish the antagonism between his interests and the interests of the capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T82
+    editions: 1849 (NRZ)
+    reading: Wachsen
+    base_text: … Arbeiterklasse, möglichst rasches Wachstum ‸ des Kapitals, sosehr sie …
+  mew_page: '416'
+- id: IV.26.2
+  kind: p
+  original: Profit und Arbeitslohn stehen nach wie vor im umgekehrten Verhältnis.
+  en: Profit and wages remain as before, in inverse proportion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T83
+    editions: 1849 (NRZ)
+    reading: in umgekehrten
+    base_text: … wie vor im umgekehrten ‸ Verhältnis. …
+  mew_page: '416'
+- id: IV.27.1
+  kind: p
+  original: Ist das Kapital rasch anwachsend, so mag der Arbeitslohn steigen; unverhältnismäßig schneller steigt der Profit des Kapitals.
+  en: If capital grows rapidly, wages may rise, but the profit of capital rises disproportionately faster.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: IV.27.2
+  kind: p
+  original: Die materielle Lage des Arbeiters hat sich verbessert, aber auf Kosten seiner gesellschaftlichen Lage.
+  en: The material position of the worker has improved, but at the cost of his social position.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: IV.27.3
+  kind: p
+  original: Die gesellschaftliche Kluft, welche ihn vom Kapitalisten trennt, hat sich erweitert.
+  en: The social chasm that separates him from the capitalist has widened.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: IV.28.1
+  kind: p
+  original: 'Endlich:'
+  en: 'Finally, to say that "the most favorable condition for wage-labour is the fastest possible growth of productive capital", is the same as to say: the quicker the working class multiplies and augments the power inimical to it - the wealth of another which lords over that class - the more favorable will be the conditions under which it will be permitted to toil anew at the multiplication of bourgeois wealth, at the enlargement of the power of capital, content thus to forge for itself the golden chains by which the bourgeoisie drags it in its train.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: IV.29.1
+  kind: p
+  original: 'Günstigste Bedingung für die Lohnarbeit ist möglichst rasches Wachsturn des produktiven Kapitals, heißt nur: Je rascher die Arbeiterklasse die ihr feindliche Macht, den fremden, über sie gebietenden Reichtum vermehrt und vergrößert, unter desto günstigern Bedingungen wird ihr erlaubt, von neuem an der Vermehrung des bürgerlichen Reichtums, an der Vergrößerung der Macht des Kapitals zu arbeiten, zufrieden, sich selbst die goldnen Ketten zu schmieden, woran die Bourgeoisie sie hinter sich herschleift.'
+  en: ''
+  joined_to: IV.28.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '416'

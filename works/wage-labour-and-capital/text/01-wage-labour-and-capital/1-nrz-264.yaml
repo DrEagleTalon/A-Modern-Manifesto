@@ -1,0 +1,953 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: I
+title_original: Lohnarbeit und Kapital, Neue Rheinische Zeitung Nr. 264, 5. April 1849
+title_en: Instalment I (NRZ No. 264, 5 April 1849)
+author: Karl Marx
+date: 1849-04
+original_language: de
+anchor_language: de
+source_original: 'MEW 6, S. 397-423 (Dietz, Berlin) via mlwerke.de: text of Engels''s 1891 edition; 1849 newspaper readings attached as variants'
+source_en: Harriet E. Lothrop, Wage-Labor and Capital, New York Labor News Co., 1902 (public domain), in the Marxists Internet Archive edition (proofed by Alek Blain, 2006; CC BY-SA), which modernises some wording and currency
+verses:
+- id: I.0.1
+  kind: heading
+  original: '[I] Neue Rheinische Zeitung Nr. 264, 5. April 1849'
+  en: '[I] Neue Rheinische Zeitung No. 264, 5 April 1849'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: 'Editorial heading: the newspaper instalment. Not printed in the 1891 pamphlet.'
+- id: I.1.1
+  kind: p
+  original: Von verschiednen Seiten warf man uns vor, daß wir nicht die ökonomischen Verhältnisse dargestellt haben, welche die materielle Grundlage der jetzigen Klassenkämpfe und Nationalkämpfe bilden.
+  en: From various quarters we have been reproached for neglecting to portray the economic conditions which form the material basis of the present struggles between classes and nations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: 1849 (NRZ)
+    reading: 'vorangestellt: * Köln, 4. April'
+    base_text: ‸ Von verschiednen Seiten warf …
+  mew_page: '397'
+  en_note: 'Lothrop 1902, chapter 1: Preliminary'
+- id: I.1.2
+  kind: p
+  original: Wir haben planmäßig diese Verhältnisse nur da berührt, wo sie sich in politischen Kollisionen unmittelbar aufdrängen.
+  en: With set purpose we have hitherto touched upon these conditions only when they forced themselves upon the surface of the political conflicts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T2
+    editions: 1849 (NRZ)
+    reading: aufdrangen
+    base_text: … politischen Kollisionen unmittelbar aufdrängen ‸ . …
+  mew_page: '397'
+- id: I.2.1
+  kind: p
+  original: Es galt vor allem den Klassenkampf in der Tagesgeschichte zu verfolgen und an dem vorhandnen und täglich neu geschaffnen geschichtlichen Stoff empirisch nachzuweisen, daß mit der Unterjochung der Arbeiterklasse, welche Februar und März gemacht hatte, gleichzeitig ihre Gegner besiegt wurden - die Bourgeoisrepublikaner in Frankreich, die den feudalen Absolutismus bekämpfenden Bürger- und Bauernklassen auf dem gesamten europäischen Kontinent; daß der Sieg der "honetten Republik" in Frankreich gleichzeitig der Fall der Nationen war, die auf die Februarrevolution mit heroischen Unabhängigkeitskriegen geantwortet hatten; daß endlich Europa mit der Besiegung der revolutionären Arbeiter in seine alte Doppelsklaverei zurückfiel, in die englisch-russische Sklaverei.
+  en: It was necessary, beyond everything else, to follow the development of the class struggle in the history of our own day, and to prove empirically, by the actual and daily newly created historical material, that with the subjugation of the working class, accomplished in the days of February and March, 1848, the opponents of that class - the bourgeois republicans in France, and the bourgeois and peasant classes who were fighting feudal absolutism throughout the whole continent of Europe - were simultaneously conquered; that the victory of the "moderate republic" in France sounded at the same time the fall of the nations which had responded to the February revolution with heroic wars of independence; and finally that, by the victory over the revolutionary workingmen, Europe fell back into its old double slavery, into the English-Russian slavery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '397'
+- id: I.2.2
+  kind: p
+  original: Der Junikampf zu Paris, der Fall Wiens, die Tragikomödie des Berliner November 1848, die verzweifelten Anstrengungen Polens, Italiens und Ungarns, Irlands Aushungerung - das waren die Hauptmomente, in denen sich der europäische Klassenkampf zwischen Bourgeoisie und Arbeiterklasse zusammenfaßte, an denen wir nachwiesen, daß jede revolutionäre Erhebung, mag ihr Ziel noch so fernliegend dem Klassenkampf scheinen, scheitern muß, bis die revolutionäre Arbeiterklasse siegt, daß jede soziale Reform eine Utopie bleibt, bis die proletarische Revolution und die feudalistische Kontrerevolution sich in einem Weltkrieg mit den Waffen messen.
+  en: The June conflict in Paris, the fall of Vienna, the tragi-comedy in Berlin in November 1848, the desperate efforts of Poland, Italy, and Hungary, the starvation of Ireland into submission - these were the chief events in which the European class struggle between the bourgeoisie and the working class was summed up, and from which we proved that every revolutionary uprising, however remote from the class struggle its object might appear, must of necessity fail until the revolutionary working class shall have conquered; - that every social reform must remain a Utopia until the proletarian revolution and the feudalistic counter-revolution have been pitted against each other in a world-wide war.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T3
+    editions: 1849 (NRZ)
+    reading: 'fehlt: 1848'
+    base_text: … des Berliner November 1848 ‸ , die verzweifelten Anstrengungen …
+  mew_page: 397-398
+- id: I.2.3
+  kind: p
+  original: In unsrer Darstellung, wie in der Wirklichkeit, waren Belgien und die Schweiz tragikomische karikaturmäßige Genrebilder in dem großen historischen Tableau, das eine der Musterstaat der bürgerlichen Monarchie, das andre der Musterstaat der bürgerlichen Republik, beides Staaten, die sich einbilden, ebenso unabhängig von dem Klassenkampf zu sein wie von der europäischen Revolution.
+  en: In our presentation, as in reality, Belgium and Switzerland were tragicomic caricaturish genre pictures in the great historic tableau; the one the model State of the bourgeois monarchy, the other the model State of the bourgeois republic; both of them, States that flatter themselves to be just as free from the class struggle as from the European revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '398'
+- id: I.3.1
+  kind: p
+  original: Jetzt, nachdem unsre Leser den Klassenkampf im Jahre 1848 in kolossalen politischen Formen sich entwickeln sahen, ist es an der Zeit, näher einzugehn auf die ökonomischen Verhältnisse selbst, worauf die Existenz der Bourgeoisie und ihre Klassenherrschaft ebenso sich gründet wie die Sklaverei der Arbeiter.
+  en: But now, after our readers have seen the class struggle of the year 1848 develop into colossal political proportions, it is time to examine more closely the economic conditions themselves upon which is founded the existence of the capitalist class and its class rule, as well as the slavery of the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T4
+    editions: 1849 (NRZ)
+    reading: 'fehlt: ebenso'
+    base_text: … und ihre Klassenherrschaft ebenso ‸ sich gründet wie die …
+  mew_page: '398'
+- id: I.4.1
+  kind: p
+  original: 'Wir werden in drei großen Abteilungen darstellen: 1. das Verhältnis der Lohnarbeit zum Kapital, die Sklaverei des Arbeiters, die Herrschaft des Kapitalisten, 2. den unvermeidlichen Untergang der mittleren Bürgerklassen und des sogenannten Bürgerstandes unter dem jetzigen System, 3. die kommerzielle Unterjochung und Ausbeutung der Bourgeoisklassen der verschiednen europäischen Nationen durch den Despoten des Weltmarkts - England.'
+  en: 'We shall present the subject in three great divisions: The Relation of Wage-labour to Capital, the Slavery of the Worker, the Rule of the Capitalist. The Inevitable Ruin of the Middle Classes and the so-called Commons under the present system. The Commercial Subjugation and Exploitation of the Bourgeois classes of the various European nations by the Despot of the World Market - England.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T5
+    editions: 1849 (NRZ)
+    reading: und des Bauernstandes
+    base_text: … und des sogenannten Bürgerstandes ‸ unter dem jetzigen System, …
+  mew_page: '398'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: I.5.1
+  kind: p
+  original: Wir werden möglichst einfach und populär darzustellen suchen und selbst die elementarischsten Begriffe der politischen Ökonomie nicht voraussetzen.
+  en: We shall seek to portray this as simply and popularly as possible, and shall not presuppose a knowledge of even the most elementary notions of political economy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '398'
+- id: I.5.2
+  kind: p
+  original: Wir wollen den Arbeitern verständlich sein.
+  en: We wish to be understood by the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '398'
+- id: I.5.3
+  kind: p
+  original: Und zudem herrscht in Deutschland die merkwürdigste Unwissenheit und Begriffsverwirrung über die einfachsten ökonomischen Verhältnisse, von den patentierten Verteidigern der bestehenden Zustände bis hinab zu den sozialistischen Wunderschäfern und den verkannten politischen Genies, an denen das zersplitterte Deutschland noch reicher ist als an Landesvätern.
+  en: And, moreover, there prevails in Germany the most remarkable ignorance and confusion of ideas in regard to the simplest economic relations, from the patented defenders of existing conditions, down to the socialist wonder-workers and the unrecognized political geniuses, in which divided Germany is even richer than in duodecimo princelings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '398'
+- id: I.6.1
+  kind: p
+  original: 'Zunächst also zur ersten Frage:'
+  en: We therefore proceed to the consideration of the first problem.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '398'
+- id: I.7.1
+  kind: heading
+  original: Was ist der Arbeitslohn? Wie wird er bestimmt?
+  en: What are Wages? How are they Determined?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '398'
+- id: I.8.1
+  kind: p
+  original: 'Wenn man Arbeiter fragte: Wie hoch ist Ihr Arbeitslohn? so würden sie antworten, dieser: "Ich erhalte 1 Mark für den Arbeitstag von meinem Bourgeois", jener: "Ich erhalte 2 Mark" usw. Nach den verschiednen Arbeitszweigen, denen sie angehören, würden sie verschiedne Geldsummen angeben, die sie für die Herstellung einer bestimmten Arbeit, z.B. für das Weben einer Eile Leinwand oder für das Setzen eines Druckbogens, von ihrem jedesmaligen Bourgeois erhalten.'
+  en: 'If several workmen were to be asked: "How much wages do you get?", one would reply, "I get two shillings a day", and so on. According to the different branches of industry in which they are employed, they would mention different sums of money that they receive from their respective employers for the completion of a certain task; for example, for weaving a yard of linen, or for setting a page of type.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T6
+    editions: 1849 (NRZ)
+    reading: 'hier und im folgenden: Franc'
+    base_text: … "Ich erhalte 1 Mark ‸ für den Arbeitstag von …
+  - ref: T7
+    editions: 1849 (NRZ)
+    reading: 'eingefügt: eine bestimmte Arbeitszeit oder für'
+    base_text: … angeben, die sie für ‸ die Herstellung einer bestimmten …
+  mew_page: '398'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.8.2
+  kind: p
+  original: 'Trotz der Verschiedenheit ihrer Angaben werden sie alle in dem Punkte übereinstimmen: Der Arbeitslohn ist die Summe Geldes, die der Kapitalist für eine bestimmte Arbeitszeit oder für eine bestimmte Arbeitslieferung zahlt.'
+  en: 'Despite the variety of their statements, they would all agree upon one point: that wages are the amount of money which the capitalist pays for a certain period of work or for a certain amount of work.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T8
+    editions: 1849 (NRZ)
+    reading: 'eingefügt: einen'
+    base_text: '… sie alle in dem ‸ Punkte übereinstimmen: Der Arbeitslohn …'
+  - ref: T9
+    editions: 1849 (NRZ)
+    reading: Bourgeois
+    base_text: … Geldes, die der Kapitalist ‸ für eine bestimmte Arbeitszeit …
+  mew_page: 398-399
+- id: I.9.1
+  kind: p
+  original: Der Kapitalist, so scheint es, kauft also ihre Arbeit mit Geld.
+  en: Consequently, it appears that the capitalist buys their labour with money, and that for money they sell him their labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T10
+    editions: 1849 (NRZ)
+    reading: Der Bourgeois kauft
+    base_text: … so scheint es, kauft ‸ also ihre Arbeit mit …
+  mew_page: '399'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: I.9.2
+  kind: p
+  original: Für Geld verkaufen sie ihm ihre Arbeit.
+  en: ''
+  joined_to: I.9.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '399'
+- id: I.9.3
+  kind: p
+  original: Dies ist aber bloß der Schein.
+  en: But this is merely an illusion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '399'
+- id: I.9.4
+  kind: p
+  original: Was sie in Wirklichkeit dem Kapitalisten für Geld verkaufen, ist ihre Arbeitskraft.
+  en: What they actually sell to the capitalist for money is their labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '399'
+- id: I.9.5
+  kind: p
+  original: Diese Arbeitskraft kauft der Kapitalist auf einen Tag, eine Woche, einen Monat usw. Und nachdem er sie gekauft, verbraucht er sie, indem er die Arbeiter während der stipulierten Zeit arbeiten läßt.
+  en: This labour-power the capitalist buys for a day, a week, a month, etc. And after he has bought it, he uses it up by letting the worker labour during the stipulated time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T11
+    editions: 1849 (NRZ)
+    reading: die vorstehenden vier Sätze fehlen
+    base_text: … stipulierten Zeit arbeiten läßt. ‸  …
+  mew_page: '399'
+- id: I.9.6
+  kind: p
+  original: Mit derselben Summe, womit der Kapitalist ihre Arbeitskraft gekauft hat, z.B. mit 2 Mark, hätte er 2 Pfund Zucker oder irgendeine andre Ware zu einem bestimmten Belauf kaufen können.
+  en: With the same amount of money with which the capitalist has bought their labour-power (for example, with two shillings) he could have bought a certain amount of sugar or of any other commodity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T12
+    editions: 1849 (NRZ)
+    reading: Geldsumme
+    base_text: … Mit derselben Summe ‸ , womit der Kapitalist …
+  - ref: T13
+    editions: 1849 (NRZ)
+    reading: Bourgeois
+    base_text: … Summe, womit der Kapitalist ‸ ihre Arbeitskraft gekauft hat, …
+  - ref: T14
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … der Kapitalist ihre Arbeitskraft ‸ gekauft hat, z.B. mit …
+  mew_page: '399'
+- id: I.9.7
+  kind: p
+  original: Die 2 Mark, womit er 2 Pfund Zucker kaufte, sind der Preis der 2 Pfund Zucker.
+  en: The two shillings with which he bought 20 pounds of sugar is the price of the 20 pounds of sugar.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '399'
+- id: I.9.8
+  kind: p
+  original: Die 2 Mark, womit er zwölf Stunden Gebrauch der Arbeitskraft kaufte, sind der Preis der zwölfstündigen Arbeit.
+  en: The two shillings with which he bought 12 hours' use of labour-power, is the price of 12 hours' labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T15
+    editions: 1849 (NRZ)
+    reading: 'statt Gebrauch der Arbeitskraft: Arbeit'
+    base_text: … Stunden Gebrauch der Arbeitskraft ‸ kaufte, sind der Preis …
+  mew_page: '399'
+- id: I.9.9
+  kind: p
+  original: Die Arbeitskraft ist also eine Ware, nicht mehr, nicht minder als der Zucker.
+  en: Labour-power, then, is a commodity, no more, no less so than is the sugar.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T14
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Die Arbeitskraft ‸ ist also eine Ware, …
+  mew_page: '399'
+- id: I.9.10
+  kind: p
+  original: Die erste mißt man mit der Uhr, die andre mit der Waage.
+  en: The first is measured by the clock, the other by the scales.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T16
+    editions: 1849 (NRZ)
+    reading: 'eingefügt: und -'
+    base_text: … man mit der Uhr, ‸ die andre mit der …
+  mew_page: '399'
+- id: I.10.1
+  kind: p
+  original: Ihre Ware, die Arbeitskraft, tauschen die Arbeiter gegen die Ware des Kapitalisten aus, gegen das Geld, und zwar geschieht dieser Austausch in einem bestimmten Verhältnis.
+  en: Their commodity, labour-power, the workers exchange for the commodity of the capitalist, for money, and, moreover, this exchange takes place at a certain ratio.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T14
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Ihre Ware, die Arbeitskraft ‸ , tauschen die Arbeiter …
+  mew_page: '399'
+- id: I.10.2
+  kind: p
+  original: So viel Geld für so langen Gebrauch der Arbeitskraft.
+  en: So much money for so long a use of labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T17
+    editions: 1849 (NRZ)
+    reading: viel
+    base_text: … langen Gebrauch der Arbeitskraft ‸ . …
+  mew_page: '399'
+- id: I.10.3
+  kind: p
+  original: Für zwölfstündiges Weben 2 Mark.
+  en: For 12 hours' weaving, two shillings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '399'
+- id: I.10.4
+  kind: p
+  original: Und die 2 Mark, stellen sie nicht alle andern Waren vor, die ich für 2 Mark kaufen kann?
+  en: And these two shillings, do they not represent all the other commodities which I can buy for two shillings?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '399'
+- id: I.10.5
+  kind: p
+  original: In der Tat hat der Arbeiter also seine Ware, die Arbeitskraft, gegen Waren aller Art ausgetauscht, und zwar in einem bestimmten Verhältnis.
+  en: Therefore, actually, the worker has exchanged his commodity, labour-power, for commodities of all kinds, and, moreover, at a certain ratio.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T14
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … seine Ware, die Arbeitskraft ‸ , gegen Waren aller …
+  - ref: T18
+    editions: 1849 (NRZ)
+    reading: 'eingefügt: andere'
+    base_text: … Ware, die Arbeitskraft, gegen ‸ Waren aller Art ausgetauscht, …
+  mew_page: '399'
+- id: I.10.6
+  kind: p
+  original: Indem der Kapitalist ihm 2 Mark gab, hat er ihm so viel Fleisch, so viel Kleidung, so viel Holz, Licht usw. im Austausch gegen seinen Arbeitstag gegeben.
+  en: By giving him two shillings, the capitalist has given him so much meat, so much clothing, so much wood, light, etc., in exchange for his day's work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '399'
+- id: I.10.7
+  kind: p
+  original: Die 2 Mark drücken also das Verhältnis aus, worin die Arbeitskraft gegen andre Waren ausgetauscht wird, den Tauschwert seiner Arbeitskraft.
+  en: The two shillings therefore express the relation in which labour-power is exchanged for other commodities, the exchange-value of labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T14
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … aus, worin die Arbeitskraft ‸ gegen andre Waren ausgetauscht …
+  - ref: T19
+    editions: 1849 (NRZ)
+    reading: Ware
+    base_text: … Arbeitskraft gegen andre Waren ‸ ausgetauscht wird, den Tauschwert …
+  - ref: T14
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … den Tauschwert seiner Arbeitskraft ‸ . …
+  mew_page: '399'
+- id: I.10.8
+  kind: p
+  original: Der Tauschwert einer Ware, in Geld abgeschätzt, heißt eben ihr Preis.
+  en: The exchange value of a commodity estimated in money is called its price.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '399'
+- id: I.10.9
+  kind: p
+  original: Der Arbeitslohn ist also nur ein besondrer Name für den Preis der Arbeitskraft, den man gewöhnlich den Preis der Arbeit nennt, für den Preis dieser eigentümlichen Ware, die keinen andern Behälter hat als menschliches Fleisch und Blut.
+  en: Wages therefore are only a special name for the price of labour-power, and are usually called the price of labour; it is the special name for the price of this peculiar commodity, which has no other repository than human flesh and blood.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T14
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … den Preis der Arbeitskraft ‸ , den man gewöhnlich …
+  - ref: T20
+    editions: 1849 (NRZ)
+    reading: 'fehlt: den man gewöhnlich den Preis der Arbeit nennt'
+    base_text: … Preis der Arbeit nennt ‸ , für den Preis …
+  mew_page: '399'
+- id: I.11.1
+  kind: p
+  original: Nehmen wir einen beliebigen Arbeiter, z.B. einen Weber.
+  en: Let us take any worker; for example, a weaver.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '399'
+- id: I.11.2
+  kind: p
+  original: Der Kapitalist liefert ihm den Webstuhl und das Garn.
+  en: The capitalist supplies him with the loom and yarn.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T21
+    editions: 1849 (NRZ)
+    reading: Bourgeois
+    base_text: … Der Kapitalist ‸ liefert ihm den Webstuhl …
+  mew_page: '399'
+- id: I.11.3
+  kind: p
+  original: Der Weber setzt sich ans Arbeiten, und aus dem Garn wird Leinwand.
+  en: The weaver applies himself to work, and the yarn is turned into cloth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '399'
+- id: I.11.4
+  kind: p
+  original: Der Kapitalist bemächtigt sich der Leinwand und verkauft sie, zu 20 Mark z.B. Ist nun der Arbeitslohn des Webers ein Anteil an der Leinwand, an den 20 Mark, an dem Produkt seiner Arbeit?
+  en: The capitalist takes possession of the cloth and sells it for 20 shillings, for example. Now are the wages of the weaver a share of the cloth, of the 20 shillings, of the product of the work?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T21
+    editions: 1849 (NRZ)
+    reading: Bourgeois
+    base_text: … Der Kapitalist ‸ bemächtigt sich der Leinwand …
+  mew_page: 399-400
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.11.5
+  kind: p
+  original: Keineswegs.
+  en: By no means.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.11.6
+  kind: p
+  original: Lange bevor die Leinwand verkauft ist, vielleicht lange bevor sie fertiggewebt ist, hat der Weber seinen Arbeitslohn empfangen.
+  en: Long before the cloth is sold, perhaps long before it is fully woven, the weaver has received his wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.11.7
+  kind: p
+  original: Der Kapitalist zahlt diesen Lohn also nicht mit dem Geld, das er aus der Leinwand lösen wird, sondern mit vorrätigem Geld.
+  en: The capitalist, then, does not pay his wages out of the money which he will obtain from the cloth, but out of money already on hand.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.11.8
+  kind: p
+  original: Wie Webstuhl und Garn nicht das Produkt des Webers sind, dem sie vom Bourgeois geliefert sind, sowenig sind es die Waren, die er im Austausch für seine Ware, die Arbeitskraft, erhält.
+  en: Just as little as loom and yarn are the product of the weaver to whom they are supplied by the employer, just so little are the commodities which he receives in exchange for his commodity - labour-power - his product.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T22
+    editions: 1849 (NRZ)
+    reading: werden
+    base_text: … vom Bourgeois geliefert sind ‸ , sowenig sind es …
+  - ref: T23
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … seine Ware, die Arbeitskraft ‸ , erhält. …
+  mew_page: '400'
+- id: I.11.9
+  kind: p
+  original: Es war möglich, daß der Bourgeois gar keinen Käufer für seine Leinwand fand.
+  en: It is possible that the employer found no purchasers at all for the cloth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.11.10
+  kind: p
+  original: Es war möglich, daß er selbst den Arbeitslohn nicht aus ihrem Verkauf herausschlug.
+  en: It is possible that he did not get even the amount of the wages by its sale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.11.11
+  kind: p
+  original: Es ist möglich, daß er sie im Verhältnis zum Webelohn sehr vorteilhaft verkauft.
+  en: It is possible that he sells it very profitably in proportion to the weaver's wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.11.12
+  kind: p
+  original: Alles das geht den Weber nichts an.
+  en: But all that does not concern the weaver.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.11.13
+  kind: p
+  original: Der Kapitalist kauft mit einem Teil seines vorhandnen Vermögens, seines Kapitals, die Arbeitskraft des Webers ganz so, wie er mit einem andern Teil seines Vermögens den Rohstoff - das Garn - und das Arbeitsinstrument - den Webstuhl - angekauft hat.
+  en: With a part of his existing wealth, of his capital, the capitalist buys the labour-power of the weaver in exactly the same manner as, with another part of his wealth, he has bought the raw material - the yarn - and the instrument of labour - the loom.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T23
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … seines Kapitals, die Arbeitskraft ‸ des Webers ganz so, …
+  mew_page: '400'
+- id: I.11.14
+  kind: p
+  original: Nachdem er diese Einkäufe gemacht, und unter diese Einkäufe gehört die zur Produktion der Leinwand nötige Arbeitskraft, produziert er nur noch mit ihm zugehörigen Rohstoffen und Arbeitsinstrumenten.
+  en: After he has made these purchases, and among them belongs the labour-power necessary to the production of the cloth he produces only with raw materials and instruments of labour belonging to him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T23
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … der Leinwand nötige Arbeitskraft ‸ , produziert er nur …
+  mew_page: '400'
+- id: I.11.15
+  kind: p
+  original: Zu letzteren gehört denn nun freilich auch unser guter Weber, der an dem Produkt oder dem Preise des Produkts sowenig einen Anteil hat wie der Webstuhl.
+  en: For our good weaver, too, is one of the instruments of labour, and being in this respect on a par with the loom, he has no more share in the product (the cloth), or in the price of the product, than the loom itself has.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.12.1
+  kind: p
+  original: Der Arbeitslohn ist also nicht ein Anteil des Arbeiters an der von ihm produzierten Ware.
+  en: Wages, therefore, are not a share of the worker in the commodities produced by himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.12.2
+  kind: p
+  original: Der Arbeitslohn ist der Teil schon vorhandner Ware, womit der Kapitalist eine bestimmte Summe produktiver Arbeitskraft an sich kauft.
+  en: Wages are that part of already existing commodities with which the capitalist buys a certain amount of productive labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T23
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … bestimmte Summe produktiver Arbeitskraft ‸ an sich kauft. …
+  mew_page: '400'
+- id: I.13.1
+  kind: p
+  original: Die Arbeitskraft ist also eine Ware, die ihr Besitzer, der Lohnarbeiter, an das Kapital verkauft.
+  en: Consequently, labour-power is a commodity which its possessor, the wage-worker, sells to the capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T23
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Die Arbeitskraft ‸ ist also eine Ware, …
+  mew_page: '400'
+- id: I.13.2
+  kind: p
+  original: Warum verkauft er sie?
+  en: Why does he sell it?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.13.3
+  kind: p
+  original: Um zu leben.
+  en: It is in order to live.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.14.1
+  kind: p
+  original: Die Betätigung der Arbeitskraft, die Arbeit, ist aber die eigne Lebenstätigkeit des Arbeiters, seine eigne Lebensäußerung.
+  en: But the putting of labour-power into action - i.e., the work - is the active expression of the labourer's own life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T24
+    editions: 1849 (NRZ)
+    reading: 'fehlt: Betätigung der Arbeitskraft, die'
+    base_text: … Betätigung der Arbeitskraft, die ‸ Arbeit, ist aber die …
+  mew_page: '400'
+- id: I.14.2
+  kind: p
+  original: Und diese Lebenstätigkeit verkauft er an einen Dritten, um sich die nötigen Lebensmittel zu sichern.
+  en: And this life activity he sells to another person in order to secure the necessary means of life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.14.3
+  kind: p
+  original: Seine Lebenstätigkeit ist für ihn also nur ein Mittel, um existieren zu können.
+  en: His life-activity, therefore, is but a means of securing his own existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.14.4
+  kind: p
+  original: Er arbeitet, um zu leben.
+  en: He works that he may keep alive.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.14.5
+  kind: p
+  original: Er rechnet die Arbeit nicht selbst in sein Leben ein, sie ist vielmehr ein Opfer seines Lebens.
+  en: He does not count the labour itself as a part of his life; it is rather a sacrifice of his life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.14.6
+  kind: p
+  original: Sie ist eine Ware, die er an einen Dritten zugeschlagen hat.
+  en: It is a commodity that he has auctioned off to another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.14.7
+  kind: p
+  original: Das Produkt seiner Tätigkeit ist daher auch nicht der Zweck seiner Tätigkeit.
+  en: The product of his activity, therefore, is not the aim of his activity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.14.8
+  kind: p
+  original: Was er für sich selbst produziert, ist nicht die Seide, die er webt, nicht das Gold, das er aus dem Bergschacht zieht, nicht der Palast, den er baut.
+  en: What he produces for himself is not the silk that he weaves, not the gold that he draws up the mining shaft, not the palace that he builds.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '400'
+- id: I.14.9
+  kind: p
+  original: Was er für sich selbst produziert, ist der Arbeitslohn, und Seide, Gold, Palast lösen sich für ihn auf in ein bestimmtes Quantum von Lebensmitteln, vielleicht in eine Baumwollenjacke, in Kupfermünze und in eine Kellerwohnung.
+  en: What he produces for himself is wages; and the silk, the gold, and the palace are resolved for him into a certain quantity of necessaries of life, perhaps into a cotton jacket, into copper coins, and into a basement dwelling.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 400-401
+- id: I.14.10
+  kind: p
+  original: Und der Arbeiter, der zwölf Stunden webt, spinnt, bohrt, dreht, baut, schaufelt, Steine klopft, trägt usw. - gilt ihm dies zwölfstündige Weben, Spinnen, Bohren, Drehen, Bauen, Schaufeln, Steinklopfen als Äußerung seines Lebens, als Leben?
+  en: And the labourer who for 12 hours long, weaves, spins, bores, turns, builds, shovels, breaks stone, carries hods, and so on - is this 12 hours' weaving, spinning, boring, turning, building, shovelling, stone-breaking, regarded by him as a manifestation of life, as life?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.14.11
+  kind: p
+  original: Umgekehrt.
+  en: Quite the contrary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.14.12
+  kind: p
+  original: Das Leben fängt da für ihn an, wo diese Tätigkeit aufhört, am Tisch, auf der Wirtshausbank, im Bett.
+  en: Life for him begins where this activity ceases, at the table, at the tavern, in bed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.14.13
+  kind: p
+  original: Die zwölfstündige Arbeit dagegen hat ihm keinen Sinn als Weben, Spinnen, Bohren usw., sondern als Verdienen, das ihn an den Tisch, auf die Wirtshausbank, ins Bett bringt.
+  en: The 12 hours' work, on the other hand, has no meaning for him as weaving, spinning, boring, and so on, but only as earnings, which enable him to sit down at a table, to take his seat in the tavern, and to lie down in a bed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.14.14
+  kind: p
+  original: Wenn der Seidenwurm spänne, um seine Existenz als Raupe zu fristen, so wäre er ein vollständiger Lohnarbeiter.
+  en: If the silk-worm's object in spinning were to prolong its existence as caterpillar, it would be a perfect example of a wage-worker.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T25
+    editions: 1849 (NRZ)
+    reading: ein Absatz
+    base_text: … er ein vollständiger Lohnarbeiter. ‸  …
+  mew_page: '401'
+- id: I.14.15
+  kind: p
+  original: Die Arbeitskraft war nicht immer eine Ware.
+  en: Labour-power was not always a commodity (merchandise).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T26
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Die Arbeitskraft ‸ war nicht immer eine …
+  mew_page: '401'
+- id: I.14.16
+  kind: p
+  original: Die Arbeit war nicht immer Lohnarbeit, d.h. freie Arbeit.
+  en: Labour was not always wage-labour, i.e., free labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.14.17
+  kind: p
+  original: Der Sklave verkaufte seine Arbeitskraft nicht an die Sklavenbesitzer, sowenig wie der Ochse seine Leistungen an den Bauer verkauft.
+  en: The slave did not sell his labour-power to the slave-owner, any more than the ox sells his labour to the farmer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T26
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Sklave verkaufte seine Arbeitskraft ‸ nicht an die Sklavenbesitzer, …
+  mew_page: '401'
+- id: I.14.18
+  kind: p
+  original: Der Sklave mitsamt seiner Arbeitskraft ist ein für allemal an seinen Eigentümer verkauft.
+  en: The slave, together with his labour-power, was sold to his owner once for all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T26
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Sklave mitsamt seiner Arbeitskraft ‸ ist ein für allemal …
+  mew_page: '401'
+- id: I.14.19
+  kind: p
+  original: Er ist eine Ware, die von der Hand des einen Eigentümers in die des andern übergehn kann.
+  en: He is a commodity that can pass from the hand of one owner to that of another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.14.20
+  kind: p
+  original: Er selbst ist eine Ware, aber die Arbeitskraft ist nicht seine Ware.
+  en: He himself is a commodity, but his labour-power is not his commodity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.14.21
+  kind: p
+  original: Der Leibeigne verkauft nur einen Teil seiner Arbeitskraft.
+  en: The serf sells only a portion of his labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T26
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … einen Teil seiner Arbeitskraft ‸ . …
+  mew_page: '401'
+- id: I.14.22
+  kind: p
+  original: 'Nicht er erhält einen Lohn vorn Eigentümer des Grund und Bodens: der Eigentümer des Grund und Bodens erhält vielmehr von ihm einen Tribut.'
+  en: It is not he who receives wages from the owner of the land; it is rather the owner of the land who receives a tribute from him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T27
+    editions: 1849 (NRZ)
+    reading: kein Absatz
+    base_text: … von ihm einen Tribut. ‸  …
+  mew_page: '401'
+- id: I.15.1
+  kind: p
+  original: Der Leibeigne gehört zum Grund und Boden und wirft dem Herrn des Grund und Bodens Früchte ab.
+  en: The serf belongs to the soil, and to the lord of the soil he brings its fruit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.15.2
+  kind: p
+  original: Der freie Arbeiter dagegen verkauft sich selbst, und zwar stückweis.
+  en: The free labourer, on the other hand, sells his very self, and that by fractions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.15.3
+  kind: p
+  original: Er versteigert 8, 10, 12, 15 Stunden seines Lebens, einen Tag wie den andern, an den Meistbietenden, an den Besitzer der Rohstoffe, der Arbeitsinstrumente und Lebensmittel, d.h. an den Kapitalisten.
+  en: He auctions off eight, 10, 12, 15 hours of his life, one day like the next, to the highest bidder, to the owner of raw materials, tools, and the means of life - i.e., to the capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T28
+    editions: 1849 (NRZ)
+    reading: die
+    base_text: … den Meistbietenden, an den ‸ Besitzer der Rohstoffe, der …
+  - ref: T28
+    editions: 1849 (NRZ)
+    reading: die
+    base_text: … Lebensmittel, d.h. an den ‸ Kapitalisten. …
+  mew_page: '401'
+- id: I.15.4
+  kind: p
+  original: Der Arbeiter gehört weder einem Eigentümer noch dem Grund und Boden an, aber 8, 10,12, 15 Stunden seines täglichen Lebens gehören dem, der sie kauft.
+  en: The labourer belongs neither to an owner nor to the soil, but eight, 10, 12, 15 hours of his daily life belong to whomsoever buys them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.15.5
+  kind: p
+  original: Der Arbeiter verläßt den Kapitalisten, dem er sich vermietet, sooft er will, und der Kapitalist entläßt ihn, sooft er es für gut findet, sobald er keinen Nutzen oder nicht den beabsichtigten Nutzen mehr aus ihm zieht.
+  en: The worker leaves the capitalist, to whom he has sold himself, as often as he chooses, and the capitalist discharges him as often as he sees fit, as soon as he no longer gets any use, or not the required use, out of him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '401'
+- id: I.15.6
+  kind: p
+  original: Aber der Arbeiter, dessen einzige Erwerbsquelle der Verkauf der Arbeitskraft ist, kann nicht die ganze Klasse der Käufer, d.h. die Kapitalistenklasse verlassen, ohne auf seine Existenz zu verzichten.
+  en: But the worker, whose only source of income is the sale of his labour-power, cannot leave the whole class of buyers, i.e., the capitalist class, unless he gives up his own existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T26
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … der Verkauf der Arbeitskraft ‸ ist, kann nicht die …
+  mew_page: '401'
+- id: I.15.7
+  kind: p
+  original: Er gehört nicht diesem oder jenem Kapitalisten, aber der Kapitalistenklasse; und es ist dabei seine Sache, sich an den Mann zu bringen, das heißt in dieser Kapitalistenklasse einen Käufer zu finden.
+  en: He does not belong to this or that capitalist, but to the capitalist class; and it is for him to find his man - i.e., to find a buyer in this capitalist class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T29
+    editions: 1849 (NRZ)
+    reading: Bourgeois
+    base_text: … diesem oder jenem Kapitalisten ‸ , aber der Kapitalistenklasse; …
+  - ref: T30
+    editions: 1849 (NRZ)
+    reading: Bourgeois, der Bourgeoisklasse
+    base_text: … Kapitalisten, aber der Kapitalistenklasse ‸ ; und es ist …
+  - ref: T31
+    editions: 1849 (NRZ)
+    reading: Bourgeoisklasse
+    base_text: … heißt in dieser Kapitalistenklasse ‸ einen Käufer zu finden. …
+  mew_page: '401'
+- id: I.16.1
+  kind: p
+  original: Bevor wir jetzt auf das Verhältnis zwischen Kapital und Lohnarbeit näher eingehn, werden wir kurz die allgemeinsten Verhältnisse darstellen, die bei der Bestimmung des Arbeitslohns in Betracht kommen.
+  en: Before entering more closely upon the relation of capital to wage-labour, we shall present briefly the most general conditions which come into consideration in the determination of wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: I.17.1
+  kind: p
+  original: Der Arbeitslohn ist, wie wir gesehn haben, der Preis einer bestimmten Ware, der Arbeitskraft.
+  en: Wages, as we have seen, are the price of a certain commodity, labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T32
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … bestimmten Ware, der Arbeitskraft ‸ . …
+  mew_page: '402'
+- id: I.17.2
+  kind: p
+  original: Der Arbeitslohn wird also durch dieselben Gesetze bestimmt, die den Preis jeder andern Ware bestimmen.
+  en: Wages, therefore, are determined by the same laws that determine the price of every other commodity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: I.18.1
+  kind: p
+  original: Es fragt sich also, wie wird der Preis einer Ware bestimmt?
+  en: The question then is, How is the price of a commodity determined?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)

@@ -1,0 +1,1583 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: I
+title_original: Bourgeois und Proletarier
+title_en: Bourgeois and Proletarians
+author: Karl Marx and Friedrich Engels
+date: 1848-02
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 459-493 (Dietz, Berlin), text of the 1890 German edition, the last edited by Engels, via mlwerke.de; 1848/1872/1883/1888 variants from MEW's apparatus
+source_en: Samuel Moore and Friedrich Engels, English edition of 1888; Marxists Internet Archive transcription proofed against the 1888 edition by Andy Blunden (2004), CC BY-SA
+source_modern: Seeded from A Modern Manifesto (Yusuf Talan Saunders), a paraphrase of the 1888 English; not yet checked against the German
+verses:
+- id: I.0.1
+  kind: heading
+  original: I. Bourgeois und Proletarier
+  en: I. Bourgeois and Proletarians
+  modern: I. Bourgeois and Proletarians
+  modern_status: seed
+  notes: ''
+  footnotes:
+  - N1
+  mew_page: '461'
+- id: I.1.1
+  kind: p
+  original: Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen.
+  en: The history of all hitherto existing society is the history of class struggles.
+  modern: The history of every society up to this point is the history of class struggle.
+  modern_status: seed
+  notes: Engels's note N2 (1888) limits this to written history.
+  footnotes:
+  - N2
+  mew_page: '462'
+- id: I.2.1
+  kind: p
+  original: Freier und Sklave, Patrizier und Plebejer, Baron und Leibeigener, Zunftbürger und Gesell, kurz, Unterdrücker und Unterdrückte standen in stetem Gegensatz zueinander, führten einen ununterbrochenen, bald versteckten, bald offenen Kampf, einen Kampf, der jedesmal mit einer revolutionären Umgestaltung der ganzen Gesellschaft endete oder mit dem gemeinsamen Untergang der kämpfenden Klassen.
+  en: Freeman and slave, patrician and plebeian, lord and serf, guild-master and journeyman, in a word, oppressor and oppressed, stood in constant opposition to one another, carried on an uninterrupted, now hidden, now open fight, a fight that each time ended, either in a revolutionary reconstitution of society at large, or in the common ruin of the contending classes.
+  modern: Free people and slaves, nobles and commoners, lords and serfs, guild masters and journeymen - in short, oppressors and oppressed - have always stood against each other. Their conflict has been constant, sometimes hidden and sometimes open, and it has ended either in the revolutionary remaking of society or in the shared ruin of the classes in conflict.
+  modern_status: seed
+  notes: ''
+  footnotes:
+  - E1
+  mew_page: '462'
+- id: I.3.1
+  kind: p
+  original: In den früheren Epochen der Geschichte finden wir fast überall eine vollständige Gliederung der Gesellschaft in verschiedene Stände, eine mannigfaltige Abstufung der gesellschaftlichen Stellungen.
+  en: In the earlier epochs of history, we find almost everywhere a complicated arrangement of society into various orders, a manifold gradation of social rank.
+  modern: In earlier periods of history, society was divided into many ranks and layers.
+  modern_status: seed
+  notes: ''
+  mew_page: '462'
+- id: I.3.2
+  kind: p
+  original: Im alten Rom haben wir Patrizier, Ritter, Plebejer, Sklaven; im Mittelalter Feudalherren, Vasallen, Zunftbürger, Gesellen, Leibeigene, und noch dazu in fast jeder dieser Klassen besondere Abstufungen.
+  en: In ancient Rome we have patricians, knights, plebeians, slaves; in the Middle Ages, feudal lords, vassals, guild-masters, journeymen, apprentices, serfs; in almost all of these classes, again, subordinate gradations.
+  modern: Ancient Rome had patricians, knights, plebeians, and slaves. The Middle Ages had feudal lords, vassals, guild masters, journeymen, apprentices, and serfs. And within nearly all of these groups, there were still further divisions.
+  modern_status: seed
+  notes: ''
+  mew_page: 462-463
+- id: I.4.1
+  kind: p
+  original: Die aus dem Untergang der feudalen Gesellschaft hervorgegangene moderne bürgerliche Gesellschaft hat die Klassengegensätze nicht aufgehoben.
+  en: The modern bourgeois society that has sprouted from the ruins of feudal society has not done away with class antagonisms.
+  modern: Modern bourgeois society, which grew out of the ruins of feudal society, has not done away with class conflict.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.4.2
+  kind: p
+  original: Sie hat nur neue Klassen, neue Bedingungen der Unterdrückung, neue Gestaltungen des Kampfes an die Stelle der alten gesetzt.
+  en: It has but established new classes, new conditions of oppression, new forms of struggle in place of the old ones.
+  modern: It has only created new classes, new forms of oppression, and new forms of struggle in place of the old ones.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.5.1
+  kind: p
+  original: Unsere Epoche, die Epoche der Bourgeoisie, zeichnet sich jedoch dadurch aus, daß sie die Klassengegensätze vereinfacht hat.
+  en: 'Our epoch, the epoch of the bourgeoisie, possesses, however, this distinct feature: it has simplified class antagonisms.'
+  modern: 'But our time - the age of the bourgeoisie - has one distinctive feature: it has simplified class conflict.'
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.5.2
+  kind: p
+  original: 'Die ganze Gesellschaft spaltet sich mehr und mehr in zwei große feindliche Lager, in zwei große, einander direkt gegenüberstehende Klassen: Bourgeoisie und Proletariat.'
+  en: Society as a whole is more and more splitting up into two great hostile camps, into two great classes directly facing each other - Bourgeoisie and Proletariat.
+  modern: 'More and more, society is splitting into two hostile camps, into two great classes directly facing each other: the bourgeoisie and the proletariat.'
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.6.1
+  kind: p
+  original: Aus den Leibeigenen des Mittelalters gingen die Pfahlbürger der ersten Städte hervor; aus dieser Pfahlbürgerschaft entwickelten sich die ersten Elemente der Bourgeoisie.
+  en: From the serfs of the Middle Ages sprang the chartered burghers of the earliest towns. From these burgesses the first elements of the bourgeoisie were developed.
+  modern: From the serfs of the Middle Ages came the chartered townspeople of the first cities. From these townspeople, the first elements of the bourgeoisie developed.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.7.1
+  kind: p
+  original: Die Entdeckung Amerikas, die Umschiffung Afrikas schufen der aufkommenden Bourgeoisie ein neues Terrain.
+  en: The discovery of America, the rounding of the Cape, opened up fresh ground for the rising bourgeoisie.
+  modern: The discovery of the Americas and the rounding of the Cape of Good Hope opened new territory for the rising bourgeoisie.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.7.2
+  kind: p
+  original: Der ostindische und chinesische Markt, die Kolonisierung von Amerika, der Austausch mit den Kolonien, die Vermehrung der Tauschmittel und der Waren überhaupt gaben dem Handel, der Schiffahrt, der Industrie einen nie gekannten Aufschwung und damit dem revolutionären Element in der zerfallenden feudalen Gesellschaft eine rasche Entwicklung.
+  en: The East-Indian and Chinese markets, the colonisation of America, trade with the colonies, the increase in the means of exchange and in commodities generally, gave to commerce, to navigation, to industry, an impulse never before known, and thereby, to the revolutionary element in the tottering feudal society, a rapid development.
+  modern: The markets of the East Indies and China, the colonization of the Americas, trade with those colonies, and the growth of currency and goods in circulation gave commerce, shipping, and industry a push nothing in history had matched. This accelerated the revolutionary forces already eating away at feudalism.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.8.1
+  kind: p
+  original: Die bisherige feudale oder zünftige Betriebsweise der Industrie reichte nicht mehr aus für den mit neuen Märkten anwachsenden Bedarf.
+  en: The feudal system of industry, in which industrial production was monopolised by closed guilds, now no longer sufficed for the growing wants of the new markets.
+  modern: The old feudal system of production, where industry was locked down by closed guilds, could no longer keep up with the demands of the new markets.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T2
+    editions: 1848, 1872, 1883
+    reading: den neuen
+    base_text: … für den mit neuen ‸ Märkten anwachsenden Bedarf. …
+  mew_page: '463'
+- id: I.8.2
+  kind: p
+  original: Die Manufaktur trat an ihre Stelle.
+  en: The manufacturing system took its place.
+  modern: The manufacturing system took its place.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.8.3
+  kind: p
+  original: Die Zunftmeister wurden verdrängt durch den industriellen Mittelstand; die Teilung der Arbeit zwischen den verschiedenen Korporationen verschwand vor der Teilung der Arbeit in der einzelnen Werkstatt selbst.
+  en: The guild-masters were pushed on one side by the manufacturing middle class; division of labour between the different corporate guilds vanished in the face of division of labour in each single workshop.
+  modern: The guild masters were shoved aside by the manufacturing middle class. The old division of labor between competing guilds collapsed, replaced by the division of labor inside a single workshop.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.9.1
+  kind: p
+  original: Aber immer wuchsen die Märkte, immer stieg der Bedarf.
+  en: Meantime the markets kept ever growing, the demand ever rising.
+  modern: Markets kept growing. Demand kept rising.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.9.2
+  kind: p
+  original: Auch die Manufaktur reichte nicht mehr aus.
+  en: Even manufacturer no longer sufficed.
+  modern: Even manufacturing was not enough.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.9.3
+  kind: p
+  original: Da revolutionierte der Dampf und die Maschinerie die industrielle Produktion.
+  en: Thereupon, steam and machinery revolutionised industrial production.
+  modern: Then steam and machinery revolutionized production.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.9.4
+  kind: p
+  original: An die Stelle der Manufaktur trat die moderne große Industrie, an die Stelle des industriellen Mittelstandes traten die industriellen Millionäre, die Chefs ganzer industrieller Armeen, die modernen Bourgeois.
+  en: The place of manufacture was taken by the giant, Modern Industry; the place of the industrial middle class by industrial millionaires, the leaders of the whole industrial armies, the modern bourgeois.
+  modern: Modern Industry replaced manufacturing, and the industrial middle class was replaced by industrial millionaires - the commanders of whole industrial armies - the modern bourgeoisie.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.10.1
+  kind: p
+  original: Die große Industrie hat den Weltmarkt hergestellt, den die Entdeckung Amerikas vorbereitete.
+  en: Modern industry has established the world market, for which the discovery of America paved the way.
+  modern: Modern industry built the world market that the discovery of the Americas first opened up.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.10.2
+  kind: p
+  original: Der Weltmarkt hat dem Handel, der Schiffahrt, den Landkommunikationen eine unermeßliche Entwicklung gegeben.
+  en: This market has given an immense development to commerce, to navigation, to communication by land.
+  modern: This world market hugely expanded commerce, shipping, and long-distance communication.
+  modern_status: seed
+  notes: ''
+  mew_page: '463'
+- id: I.10.3
+  kind: p
+  original: Diese hat wieder auf die Ausdehnung der Industrie zurückgewirkt, und in demselben Maße, worin Industrie, Handel, Schiffahrt, Eisenbahnen sich ausdehnten, in demselben Maße entwickelte sich die Bourgeoisie, vermehrte sie ihre Kapitalien, drängte sie alle vom Mittelalter her überlieferten Klassen in den Hintergrund.
+  en: This development has, in its turn, reacted on the extension of industry; and in proportion as industry, commerce, navigation, railways extended, in the same proportion the bourgeoisie developed, increased its capital, and pushed into the background every class handed down from the Middle Ages.
+  modern: That expansion in turn fed back into industry. As industry, commerce, shipping, and railroads grew, the bourgeoisie grew with them, piling up capital and pushing every older class from the Middle Ages into the background.
+  modern_status: seed
+  notes: ''
+  mew_page: 463-464
+- id: I.11.1
+  kind: p
+  original: Wir sehen also, wie die moderne Bourgeoisie selbst das Produkt eines langen Entwicklungsganges, einer Reihe von Umwälzungen in der Produktions- und Verkehrsweise ist.
+  en: We see, therefore, how the modern bourgeoisie is itself the product of a long course of development, of a series of revolutions in the modes of production and of exchange.
+  modern: So the modern bourgeoisie is itself the product of a long process - a series of revolutions in how things are produced and exchanged.
+  modern_status: seed
+  notes: ''
+  mew_page: '464'
+- id: I.12.1
+  kind: p
+  original: Jede dieser Entwicklungsstufen der Bourgeoisie war begleitet von einem entsprechenden politischen Fortschritt.
+  en: Each step in the development of the bourgeoisie was accompanied by a corresponding political advance of that class.
+  modern: Each step in the bourgeoisie's rise brought a matching rise in its political power. It started as an oppressed class under the feudal nobility.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T3
+    editions: '1888'
+    reading: 'eingefügt: dieser Klasse'
+    base_text: … einem entsprechenden politischen Fortschritt ‸ . …
+  mew_page: '464'
+- id: I.12.2
+  kind: p
+  original: Unterdrückter Stand unter der Herrschaft der Feudalherren, bewaffnete und sich selbst verwaltende Assoziation in der Kommune, hier unabhängige städtische Republik, dort dritter steuerpflichtiger Stand der Monarchie, dann zur Zeit der Manufaktur Gegengewicht gegen den Adel in der ständischen oder in der absoluten Monarchie, Hauptgrundlage der großen Monarchien überhaupt, erkämpfte sie sich endlich seit der Herstellung der großen Industrie und des Weltmarktes im modernen Repräsentativstaat die ausschließliche politische Herrschaft.
+  en: 'An oppressed class under the sway of the feudal nobility, an armed and self-governing association in the medieval commune: here independent urban republic (as in Italy and Germany); there taxable "third estate" of the monarchy (as in France); afterwards, in the period of manufacturing proper, serving either the semi-feudal or the absolute monarchy as a counterpoise against the nobility, and, in fact, cornerstone of the great monarchies in general, the bourgeoisie has at last, since the establishment of Modern Industry and of the world market, conquered for itself, in the modern representative State, exclusive political sway.'
+  modern: In the medieval communes it became an armed, self-governing association - sometimes an independent urban republic, as in Italy and Germany, sometimes a taxable "third estate" under a monarchy, as in France. Later, during the age of manufacturing, it served either semi-feudal or absolute monarchs as a counterweight to the old nobility, and became the cornerstone of those great monarchies. Finally, once Modern Industry and the world market were in place, the bourgeoisie seized exclusive political power in the modern representative state.
+  modern_status: seed
+  notes: ''
+  footnotes:
+  - N3
+  variants:
+  - ref: T4
+    editions: 1848, 1872
+    reading: Assoziationen
+    base_text: … sich selbst verwaltende Assoziation ‸ in der Kommune, hier …
+  - ref: T5
+    editions: '1888'
+    reading: 'eingefügt: (wie in Italien und Deutschland)'
+    base_text: … hier unabhängige städtische Republik ‸ , dort dritter steuerpflichtiger …
+  - ref: T6
+    editions: '1888'
+    reading: 'eingefügt: (wie in Frankreich)'
+    base_text: … steuerpflichtiger Stand der Monarchie ‸ , dann zur Zeit …
+  - ref: T7
+    editions: '1848'
+    reading: 'eingefügt: und'
+    base_text: … in der absoluten Monarchie ‸ , Hauptgrundlage der großen …
+  mew_page: '464'
+- id: I.12.3
+  kind: p
+  original: Die moderne Staatsgewalt ist nur ein Ausschuß, der die gemeinschaftlichen Geschäfte der ganzen Bourgeoisklasse verwaltet.
+  en: The executive of the modern state is but a committee for managing the common affairs of the whole bourgeoisie.
+  modern: The executive of the modern state is nothing more than a committee for managing the shared business of the entire bourgeois class.
+  modern_status: seed
+  notes: 'Staatsgewalt is state power. Moore has ''the executive of the modern state''. See glossary: Staatsgewalt.'
+  mew_page: '464'
+- id: I.13.1
+  kind: p
+  original: Die Bourgeoisie hat in der Geschichte eine höchst revolutionäre Rolle gespielt.
+  en: The bourgeoisie, historically, has played a most revolutionary part.
+  modern: Historically, the bourgeoisie has played a deeply revolutionary role.
+  modern_status: seed
+  notes: ''
+  mew_page: '464'
+- id: I.14.1
+  kind: p
+  original: Die Bourgeoisie, wo sie zur Herrschaft gekommen, hat alle feudalen, patriarchalischen, idyllischen Verhältnisse zerstört.
+  en: The bourgeoisie, wherever it has got the upper hand, has put an end to all feudal, patriarchal, idyllic relations.
+  modern: Wherever it has come to power, the bourgeoisie has destroyed every feudal, patriarchal, and idealized relationship.
+  modern_status: seed
+  notes: ''
+  mew_page: '464'
+- id: I.14.2
+  kind: p
+  original: Sie hat die buntscheckigen Feudalbande, die den Menschen an seinen natürlichen Vorgesetzten knüpften, unbarmherzig zerrissen und kein anderes Band zwischen Mensch und Mensch übriggelassen als das nackte Interesse, als die gefühllose "bare Zahlung".
+  en: It has pitilessly torn asunder the motley feudal ties that bound man to his "natural superiors", and has left remaining no other nexus between man and man than naked self-interest, than callous "cash payment".
+  modern: It has ripped apart the tangled feudal ties that bound people to their so-called "natural superiors." It has left no other connection between one person and another than bare self-interest and cold cash payment.
+  modern_status: seed
+  notes: ''
+  mew_page: '464'
+- id: I.14.3
+  kind: p
+  original: Sie hat die heiligen Schauer der frommen Schwärmerei, der ritterlichen Begeisterung, der spießbürgerlichen Wehmut in dem eiskalten Wasser egoistischer Berechnung ertränkt.
+  en: It has drowned the most heavenly ecstasies of religious fervour, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation.
+  modern: It has drowned the most sacred ecstasies of religious devotion, chivalric honor, and middle-class sentiment in the icy water of selfish calculation.
+  modern_status: seed
+  notes: ''
+  mew_page: 464-465
+- id: I.14.4
+  kind: p
+  original: Sie hat die persönliche Würde in den Tauschwert aufgelöst und an die Stelle der zahllosen verbrieften und wohlerworbenen Freiheiten die eine gewissenlose Handelsfreiheit gesetzt.
+  en: It has resolved personal worth into exchange value, and in place of the numberless indefeasible chartered freedoms, has set up that single, unconscionable freedom - Free Trade.
+  modern: 'It has turned personal worth into exchange value. In place of countless chartered freedoms that people had fought for, it has set up one freedom: free trade.'
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.14.5
+  kind: p
+  original: Sie hat, mit einem Wort, an die Stelle der mit religiösen und politischen Illusionen verhüllten Ausbeutung die offene, unverschämte, direkte, dürre Ausbeutung gesetzt.
+  en: In one word, for exploitation, veiled by religious and political illusions, it has substituted naked, shameless, direct, brutal exploitation.
+  modern: In short, it has replaced exploitation hidden behind religious and political illusions with exploitation that is open, shameless, direct, and brutal.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.15.1
+  kind: p
+  original: Die Bourgeoisie hat alle bisher ehrwürdigen und mit frommer Scheu betrachteten Tätigkeiten ihres Heiligenscheins entkleidet.
+  en: The bourgeoisie has stripped of its halo every occupation hitherto honoured and looked up to with reverent awe.
+  modern: The bourgeoisie has stripped the halo off every profession that was once respected and admired.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.15.2
+  kind: p
+  original: Sie hat den Arzt, den Juristen, den Pfaffen, den Poeten, den Mann der Wissenschaft in ihre bezahlten Lohnarbeiter verwandelt.
+  en: It has converted the physician, the lawyer, the priest, the poet, the man of science, into its paid wage labourers.
+  modern: It has turned the doctor, the lawyer, the priest, the poet, and the scientist into its paid wage laborers.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.16.1
+  kind: p
+  original: Die Bourgeoisie hat dem Familienverhältnis seinen rührend-sentimentalen Schleier abgerissen und es auf ein reines Geldverhältnis zurückgeführt.
+  en: The bourgeoisie has torn away from the family its sentimental veil, and has reduced the family relation to a mere money relation.
+  modern: The bourgeoisie has torn away the sentimental veil over the family and reduced the family bond to a pure money bond.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.17.1
+  kind: p
+  original: Die Bourgeoisie hat enthüllt, wie die brutale Kraftäußerung, die die Reaktion so sehr am Mittelalter bewundert, in der trägsten Bärenhäuterei ihre passende Ergänzung fand.
+  en: The bourgeoisie has disclosed how it came to pass that the brutal display of vigour in the Middle Ages, which reactionaries so much admire, found its fitting complement in the most slothful indolence.
+  modern: The bourgeoisie has shown how the raw strength that reactionaries admire so much in the Middle Ages actually went hand in hand with laziness and stagnation.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.17.2
+  kind: p
+  original: Erst sie hat bewiesen, was die Tätigkeit der Menschen zustande bringen kann.
+  en: It has been the first to show what man's activity can bring about.
+  modern: It has been the first to prove what human effort can accomplish.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.17.3
+  kind: p
+  original: Sie hat ganz andere Wunderwerke vollbracht als ägyptische Pyramiden, römische Wasserleitungen und gotische Kathedralen, sie hat ganz andere Züge ausgeführt als Völkerwanderungen und Kreuzzüge.
+  en: It has accomplished wonders far surpassing Egyptian pyramids, Roman aqueducts, and Gothic cathedrals; it has conducted expeditions that put in the shade all former Exoduses of nations and crusades.
+  modern: It has built wonders that dwarf the Egyptian pyramids, Roman aqueducts, and Gothic cathedrals. It has led expeditions that make every earlier migration or crusade look small.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.18.1
+  kind: p
+  original: Die Bourgeoisie kann nicht existieren, ohne die Produktionsinstrumente, also die Produktionsverhältnisse, also sämtliche gesellschaftlichen Verhältnisse fortwährend zu revolutionieren.
+  en: The bourgeoisie cannot exist without constantly revolutionising the instruments of production, and thereby the relations of production, and with them the whole relations of society.
+  modern: The bourgeoisie cannot exist without constantly revolutionizing the tools of production, and along with them the relationships of production and all of society.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.18.2
+  kind: p
+  original: Unveränderte Beibehaltung der alten Produktionsweise war dagegen die erste Existenzbedingung aller früheren industriellen Klassen.
+  en: Conservation of the old modes of production in unaltered form, was, on the contrary, the first condition of existence for all earlier industrial classes.
+  modern: Every earlier industrial class needed the opposite - to preserve the old methods unchanged.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.18.3
+  kind: p
+  original: Die fortwährende Umwälzung der Produktion, die ununterbrochene Erschütterung aller gesellschaftlichen Zustände, die ewige Unsicherheit und Bewegung zeichnet die Bourgeoisepoche vor allen anderen aus.
+  en: Constant revolutionising of production, uninterrupted disturbance of all social conditions, everlasting uncertainty and agitation distinguish the bourgeois epoch from all earlier ones.
+  modern: But constant revolution in production, uninterrupted disturbance of every social condition, and permanent uncertainty and upheaval are what set the bourgeois age apart from every earlier one.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T8
+    editions: 1848, 1872, 1883
+    reading: früheren
+    base_text: … Bourgeoisepoche vor allen anderen ‸ aus. …
+  mew_page: '465'
+- id: I.18.4
+  kind: p
+  original: Alle festen eingerosteten Verhältnisse mit ihrem Gefolge von altehrwürdigen Vorstellungen und Anschauungen werden aufgelöst, alle neugebildeten veralten, ehe sie verknöchern können.
+  en: All fixed, fast-frozen relations, with their train of ancient and venerable prejudices and opinions, are swept away, all new-formed ones become antiquated before they can ossify.
+  modern: All fixed, frozen relationships, with their ancient and respected prejudices and opinions, are swept away. All new relationships grow outdated before they can harden.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.18.5
+  kind: p
+  original: Alles Ständische und Stehende verdampft, alles Heilige wird entweiht, und die Menschen sind endlich gezwungen, ihre Lebensstellung, ihre gegenseitigen Beziehungen mit nüchternen Augen anzusehen.
+  en: All that is solid melts into air, all that is holy is profaned, and man is at last compelled to face with sober senses his real conditions of life, and his relations with his kind.
+  modern: Everything solid melts into air. Everything sacred is made profane. And at last, people are forced to face, with clear eyes, the real conditions of their lives and their actual relationships with each other.
+  modern_status: seed
+  notes: 'Free rendering in 1888. Literally: everything belonging to the estates and everything standing evaporates. See glossary: Stand.'
+  mew_page: '465'
+- id: I.19.1
+  kind: p
+  original: Das Bedürfnis nach einem stets ausgedehnteren Absatz für ihre Produkte jagt die Bourgeoisie über die ganze Erdkugel.
+  en: The need of a constantly expanding market for its products chases the bourgeoisie over the entire surface of the globe.
+  modern: The need for an ever-expanding market chases the bourgeoisie across the whole surface of the globe.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.19.2
+  kind: p
+  original: Überall muß sie sich einnisten, überall anbauen, überall Verbindungen herstellen.
+  en: It must nestle everywhere, settle everywhere, establish connexions everywhere.
+  modern: It has to put down roots everywhere, settle everywhere, build connections everywhere.
+  modern_status: seed
+  notes: ''
+  mew_page: '465'
+- id: I.20.1
+  kind: p
+  original: Die Bourgeoisie hat durch ihre Exploitation des Weltmarkts die Produktion und Konsumption aller Länder kosmopolitisch gestaltet.
+  en: The bourgeoisie has through its exploitation of the world market given a cosmopolitan character to production and consumption in every country.
+  modern: Through its exploitation of the world market, the bourgeoisie has given a global character to production and consumption in every country.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T9
+    editions: '1848'
+    reading: die
+    base_text: … Bourgeoisie hat durch ihre ‸ Exploitation des Weltmarkts die …
+  mew_page: '466'
+- id: I.20.2
+  kind: p
+  original: Sie hat zum großen Bedauern der Reaktionäre den nationalen Boden der Industrie unter den Füßen weggezogen.
+  en: To the great chagrin of Reactionists, it has drawn from under the feet of industry the national ground on which it stood.
+  modern: To the horror of reactionaries, it has pulled the national ground right out from under industry's feet.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.20.3
+  kind: p
+  original: Die uralten nationalen Industrien sind vernichtet worden und werden noch täglich vernichtet.
+  en: All old-established national industries have been destroyed or are daily being destroyed.
+  modern: Old national industries have been destroyed, or are being destroyed daily.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.20.4
+  kind: p
+  original: Sie werden verdrängt durch neue Industrien, deren Einführung eine Lebensfrage für alle zivilisierten Nationen wird, durch Industrien, die nicht mehr einheimische Rohstoffe, sondern den entlegensten Zonen angehörige Rohstoffe verarbeiten und deren Fabrikate nicht nur im Lande selbst, sondern in allen Weltteilen zugleich verbraucht werden.
+  en: They are dislodged by new industries, whose introduction becomes a life and death question for all civilised nations, by industries that no longer work up indigenous raw material, but raw material drawn from the remotest zones; industries whose products are consumed, not only at home, but in every quarter of the globe.
+  modern: They are pushed aside by new industries whose adoption becomes a life-or-death matter for every developed nation - industries that no longer use local raw materials but pull them in from the most distant parts of the earth, and whose products are consumed not only at home but in every corner of the world.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.21.1
+  kind: p
+  original: An die Stelle der alten, durch Landeserzeugnisse befriedigten Bedürfnisse treten neue, welche die Produkte der entferntesten Länder und Klimate zu ihrer Befriedigung erheischen.
+  en: In place of the old wants, satisfied by the production of the country, we find new wants, requiring for their satisfaction the products of distant lands and climes.
+  modern: In place of old needs met by domestic production, we find new needs that can only be satisfied with goods from distant lands and climates.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.21.2
+  kind: p
+  original: An die Stelle der alten lokalen und nationalen Selbstgenügsamkeit und Abgeschlossenheit tritt ein allseitiger Verkehr, eine allseitige Abhängigkeit der Nationen voneinander.
+  en: In place of the old local and national seclusion and self-sufficiency, we have intercourse in every direction, universal inter-dependence of nations.
+  modern: In place of the old national isolation and self-sufficiency, we have traffic and exchange in every direction - a universal interdependence of nations.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.21.3
+  kind: p
+  original: Und wie in der materiellen, so auch in der geistigen Produktion.
+  en: And as in material, so also in intellectual production.
+  modern: And the same thing happens in intellectual production as in material production.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.21.4
+  kind: p
+  original: Die geistigen Erzeugnisse der einzelnen Nationen werden Gemeingut.
+  en: The intellectual creations of individual nations become common property.
+  modern: The works of individual nations become shared property.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.21.5
+  kind: p
+  original: Die nationale Einseitigkeit und Beschränktheit wird mehr und mehr unmöglich, und aus den vielen nationalen und lokalen Literaturen bildet sich eine Weltliteratur.
+  en: National one-sidedness and narrow-mindedness become more and more impossible, and from the numerous national and local literatures, there arises a world literature.
+  modern: National narrowness and prejudice become more and more impossible. Out of the many national and local literatures arises a world literature.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.22.1
+  kind: p
+  original: Die Bourgeoisie reißt durch die rasche Verbesserung aller Produktionsinstrumente, durch die unendlich erleichterte Kommunikation alle, auch die barbarischsten Nationen in die Zivilisation.
+  en: The bourgeoisie, by the rapid improvement of all instruments of production, by the immensely facilitated means of communication, draws all, even the most barbarian, nations into civilisation.
+  modern: Through the rapid improvement of every tool of production, and through massively easier communication, the bourgeoisie pulls every nation, even the most tradition-bound, into modern industrial life.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.22.2
+  kind: p
+  original: Die wohlfeilen Preise ihrer Waren sind die schwere Artillerie, mit der sie alle chinesischen Mauern in den Grund schießt, mit der sie den hartnäckigsten Fremdenhaß der Barbaren zur Kapitulation zwingt.
+  en: The cheap prices of commodities are the heavy artillery with which it batters down all Chinese walls, with which it forces the barbarians' intensely obstinate hatred of foreigners to capitulate.
+  modern: The cheap price of its goods is the heavy artillery with which it batters down every wall, and forces even the most stubborn opposition to foreigners to surrender.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.22.3
+  kind: p
+  original: Sie zwingt alle Nationen, die Produktionsweise der Bourgeoisie sich anzueignen, wenn sie nicht zugrunde gehen wollen; sie zwingt sie, die sogenannte Zivilisation bei sich selbst einzuführen, d.h. Bourgeois zu werden.
+  en: It compels all nations, on pain of extinction, to adopt the bourgeois mode of production; it compels them to introduce what it calls civilisation into their midst, i.e., to become bourgeois themselves.
+  modern: It forces every nation, under threat of extinction, to adopt the bourgeois way of producing. It forces them to introduce what it calls civilization - that is, to become bourgeois themselves.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.22.4
+  kind: p
+  original: Mit einem Wort, sie schafft sich eine Welt nach ihrem eigenen Bilde.
+  en: In one word, it creates a world after its own image.
+  modern: In a word, it creates a world in its own image.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.23.1
+  kind: p
+  original: Die Bourgeoisie hat das Land der Herrschaft der Stadt unterworfen.
+  en: The bourgeoisie has subjected the country to the rule of the towns.
+  modern: The bourgeoisie has put the countryside under the rule of the cities.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.23.2
+  kind: p
+  original: Sie hat enorme Städte geschaffen, sie hat die Zahl der städtischen Bevölkerung gegenüber der ländlichen in hohem Grade vermehrt und so einen bedeutenden Teil der Bevölkerung dem Idiotismus des Landlebens entrissen.
+  en: It has created enormous cities, has greatly increased the urban population as compared with the rural, and has thus rescued a considerable part of the population from the idiocy of rural life.
+  modern: It has built enormous urban centers, hugely increased the urban population relative to the rural one, and pulled a large part of the population out of the isolation of rural life.
+  modern_status: seed
+  notes: Idiotismus is not 'idiocy' (Idiotie). Hal Draper argued it carries the Greek sense of the idiotes, the private person cut off from public life, and rendered it 'the privatized isolation of rural life'. See glossary.
+  mew_page: '466'
+- id: I.23.3
+  kind: p
+  original: Wie sie das Land von der Stadt, hat sie die barbarischen und halbbarbarischen Länder von den zivilisierten, die Bauernvölker von den Bourgeoisvölkern, den Orient vom Okzident abhängig gemacht.
+  en: Just as it has made the country dependent on the towns, so it has made barbarian and semi-barbarian countries dependent on the civilised ones, nations of peasants on nations of bourgeois, the East on the West.
+  modern: Just as it has made the country depend on the city, it has made less industrialized and still-agrarian countries depend on the industrialized ones - peasant nations on bourgeois nations, the East on the West.
+  modern_status: seed
+  notes: 19th-century vocabulary of 'barbarian' and 'civilised' nations. Translate as written and explain; see docs/cruxes.md.
+  mew_page: '466'
+- id: I.24.1
+  kind: p
+  original: Die Bourgeoisie hebt mehr und mehr die Zersplitterung der Produktionsmittel, des Besitzes und der Bevölkerung auf.
+  en: The bourgeoisie keeps more and more doing away with the scattered state of the population, of the means of production, and of property.
+  modern: The bourgeoisie keeps chipping away at the scattered state of population, production, and property.
+  modern_status: seed
+  notes: ''
+  mew_page: '466'
+- id: I.24.2
+  kind: p
+  original: Sie hat die Bevölkerung agglomeriert, die Produktionsmittel zentralisiert und das Eigentum in wenigen Händen konzentriert.
+  en: It has agglomerated population, centralised the means of production, and has concentrated property in a few hands.
+  modern: It has concentrated production, and it has concentrated property in a few hands.
+  modern_status: seed
+  notes: 'The seed draft leaves out ''population'' and ''centralised the means of production''. It follows Project Gutenberg #61, which drops those words; the German and the 1888 edition have them.'
+  mew_page: 466-467
+- id: I.24.3
+  kind: p
+  original: Die notwendige Folge hiervon war die politische Zentralisation.
+  en: The necessary consequence of this was political centralisation.
+  modern: The unavoidable result of this was political centralization.
+  modern_status: seed
+  notes: ''
+  mew_page: '467'
+- id: I.24.4
+  kind: p
+  original: Unabhängige, fast nur verbündete Provinzen mit verschiedenen Interessen, Gesetzen, Regierungen und Zöllen wurden zusammengedrängt in eine Nation, eine Regierung, ein Gesetz, ein nationales Klasseninteresse, eine Douanenlinie.
+  en: Independent, or but loosely connected provinces, with separate interests, laws, governments, and systems of taxation, became lumped together into one nation, with one government, one code of laws, one national class-interest, one frontier, and one customs-tariff.
+  modern: Independent or loosely linked provinces, each with its own interests, laws, governments, and tax systems, have been lumped together into single nations - one government, one set of laws, one national class interest, one border, one set of customs duties.
+  modern_status: seed
+  notes: ''
+  mew_page: '467'
+- id: I.25.1
+  kind: p
+  original: Die Bourgeoisie hat in ihrer kaum hundertjährigen Klassenherrschaft massenhaftere und kolossalere Produktionskräfte geschaffen als alle vergangenen Generationen zusammen.
+  en: The bourgeoisie, during its rule of scarce one hundred years, has created more massive and more colossal productive forces than have all preceding generations together.
+  modern: In barely a hundred years of rule, the bourgeoisie has built up more massive and colossal productive forces than every preceding generation combined.
+  modern_status: seed
+  notes: ''
+  mew_page: '467'
+- id: I.25.2
+  kind: p
+  original: Unterjochung der Naturkräfte, Maschinerie, Anwendung der Chemie auf Industrie und Ackerbau, Dampfschiffahrt, Eisenbahnen, elektrische Telegraphen, Urbarmachung ganzer Weltteile, Schiffbarmachung der Flüsse, ganze aus dem Boden hervorgestampfte Bevölkerungen - welches frühere Jahrhundert ahnte, daß solche Produktionskräfte im Schoß der gesellschaftlichen Arbeit schlummerten.
+  en: Subjection of Nature's forces to man, machinery, application of chemistry to industry and agriculture, steam-navigation, railways, electric telegraphs, clearing of whole continents for cultivation, canalisation of rivers, whole populations conjured out of the ground - what earlier century had even a presentiment that such productive forces slumbered in the lap of social labour?
+  modern: The forces of nature harnessed for human use, machinery, chemistry applied to industry and agriculture, steam shipping, railways, the electric telegraph, entire continents cleared for farming, rivers made navigable, whole populations conjured out of the ground - what earlier century could even have imagined that so much productive power was sleeping inside social labor?
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T10
+    editions: '1848'
+    reading: welch früheres
+    base_text: … Bevölkerungen - welches frühere ‸ Jahrhundert ahnte, daß solche …
+  mew_page: '467'
+- id: I.26.1
+  kind: p
+  original: 'Wir haben also gesehen: Die Produktions- und Verkehrsmittel, auf deren Grundlage sich die Bourgeoisie heranbildete, wurden in der feudalen Gesellschaft erzeugt.'
+  en: 'We see then: the means of production and of exchange, on whose foundation the bourgeoisie built itself up, were generated in feudal society.'
+  modern: 'So we see: the means of production and exchange that the bourgeoisie built itself on were first developed inside feudal society.'
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T11
+    editions: '1848'
+    reading: aber
+    base_text: '… Wir haben also ‸ gesehen: Die Produktions- und …'
+  mew_page: '467'
+- id: I.26.2
+  kind: p
+  original: Auf einer gewissen Stufe der Entwicklung dieser Produktions- und Verkehrsmittel entsprachen die Verhältnisse, worin die feudale Gesellschaft produzierte und austauschte, die feudale Organisation der Agrikultur und Manufaktur, mit einem Wort die feudalen Eigentumsverhältnisse den schon entwickelten Produktivkräften nicht mehr.
+  en: At a certain stage in the development of these means of production and of exchange, the conditions under which feudal society produced and exchanged, the feudal organisation of agriculture and manufacturing industry, in one word, the feudal relations of property became no longer compatible with the already developed productive forces; they became so many fetters.
+  modern: At a certain point, these means of production and exchange outgrew the feudal conditions under which they had been produced and traded. The feudal way of organizing agriculture and manufacturing, feudal property relations - they stopped fitting the productive forces that had already developed. They became so many chains.
+  modern_status: seed
+  notes: ''
+  mew_page: '467'
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: I.26.3
+  kind: p
+  original: Sie hemmten die Produktion, statt sie zu fördern.
+  en: ''
+  joined_to: I.26.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '467'
+- id: I.26.4
+  kind: p
+  original: Sie verwandelten sich in ebensoviele Fesseln.
+  en: ''
+  joined_to: I.26.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '467'
+- id: I.26.5
+  kind: p
+  original: Sie mußten gesprengt werden, sie wurden gesprengt.
+  en: They had to be burst asunder; they were burst asunder.
+  modern: They had to be broken. They were broken.
+  modern_status: seed
+  notes: ''
+  mew_page: '467'
+- id: I.27.1
+  kind: p
+  original: An ihre Stelle trat die freie Konkurrenz mit der ihr angemessenen gesellschaftlichen und politischen Konstitution, mit der ökonomischen und politischen Herrschaft der Bourgeoisklasse.
+  en: Into their place stepped free competition, accompanied by a social and political constitution adapted in it, and the economic and political sway of the bourgeois class.
+  modern: In their place came free competition, with a matching social and political order - the economic and political rule of the bourgeois class.
+  modern_status: seed
+  notes: ''
+  mew_page: '467'
+- id: I.28.1
+  kind: p
+  original: Unter unsern Augen geht eine ähnliche Bewegung vor.
+  en: A similar movement is going on before our own eyes.
+  modern: Something similar is happening now, in front of our eyes.
+  modern_status: seed
+  notes: ''
+  mew_page: '467'
+- id: I.28.2
+  kind: p
+  original: Die bürgerlichen Produktions- und Verkehrsverhältnisse, die bürgerlichen Eigentumsverhältnisse, die moderne bürgerliche Gesellschaft, die so gewaltige Produktions- und Verkehrsmittel hervorgezaubert hat, gleicht dem Hexenmeister, der die unterirdischen Gewalten nicht mehr zu beherrschen vermag, die er heraufbeschwor.
+  en: Modern bourgeois society, with its relations of production, of exchange and of property, a society that has conjured up such gigantic means of production and of exchange, is like the sorcerer who is no longer able to control the powers of the nether world whom he has called up by his spells.
+  modern: Modern bourgeois society, with its relations of production, exchange, and property - a society that has summoned up such gigantic forces of production and exchange - is like the sorcerer who can no longer control the underworld powers he has called up with his spell.
+  modern_status: seed
+  notes: ''
+  mew_page: '467'
+- id: I.28.3
+  kind: p
+  original: Seit Dezennien ist die Geschichte der Industrie und des Handels nur die Geschichte der Empörung der modernen Produktivkräfte gegen die modernen Produktionsverhältnisse, gegen die Eigentumsverhältnisse, welche die Lebensbedingungen der Bourgeoisie und ihrer Herrschaft sind.
+  en: For many a decade past the history of industry and commerce is but the history of the revolt of modern productive forces against modern conditions of production, against the property relations that are the conditions for the existence of the bourgeois and of its rule.
+  modern: For decades now, the history of industry and commerce has been the history of the revolt of modern productive forces against modern conditions of production - against the property relations that keep the bourgeoisie in place.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T12
+    editions: '1848'
+    reading: 'eingefügt: noch'
+    base_text: … und des Handels nur ‸ die Geschichte der Empörung …
+  mew_page: '467'
+- id: I.28.4
+  kind: p
+  original: Es genügt, die Handelskrisen zu nennen, welche in ihrer periodischen Wiederkehr immer drohender die Existenz der ganzen bürgerlichen Gesellschaft in Frage stellen.
+  en: It is enough to mention the commercial crises that by their periodical return put the existence of the entire bourgeois society on its trial, each time more threateningly.
+  modern: Consider the commercial crises that come back on a regular cycle, each time threatening the entire bourgeois order more seriously.
+  modern_status: seed
+  notes: ''
+  mew_page: 467-468
+- id: I.28.5
+  kind: p
+  original: In den Handelskrisen wird ein großer Teil nicht nur der erzeugten Produkte, sondern der bereits geschaffenen Produktivkräfte regelmäßig vernichtet.
+  en: In these crises, a great part not only of the existing products, but also of the previously created productive forces, are periodically destroyed.
+  modern: In these crises a huge portion not just of existing products, but of already-built productive capacity, is periodically destroyed.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T13
+    editions: '1848'
+    reading: 'eingefügt: sogar'
+    base_text: … der erzeugten Produkte, sondern ‸ der bereits geschaffenen Produktivkräfte …
+  mew_page: '468'
+- id: I.28.6
+  kind: p
+  original: In den Krisen bricht eine gesellschaftliche Epidemie aus, welche allen früheren Epochen als ein Widersinn erschienen wäre - die Epidemie der Überproduktion.
+  en: In these crises, there breaks out an epidemic that, in all earlier epochs, would have seemed an absurdity - the epidemic of over-production.
+  modern: In these crises an epidemic breaks out that earlier ages would have found absurd - the epidemic of overproduction.
+  modern_status: seed
+  notes: ''
+  mew_page: '468'
+- id: I.28.7
+  kind: p
+  original: Die Gesellschaft findet sich plötzlich in einen Zustand momentaner Barbarei zurückversetzt; eine Hungersnot, ein allgemeiner Vernichtungskrieg scheinen ihr alle Lebensmittel abgeschnitten zu haben; die Industrie, der Handel scheinen vernichtet, und warum?
+  en: Society suddenly finds itself put back into a state of momentary barbarism; it appears as if a famine, a universal war of devastation, had cut off the supply of every means of subsistence; industry and commerce seem to be destroyed; and why?
+  modern: Society suddenly finds itself thrown back into a kind of temporary barbarism. It looks as if a famine or a devastating war has cut off the supply of basic necessities. Industry and commerce seem to have collapsed.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T14
+    editions: '1848'
+    reading: Verwüstungskrieg
+    base_text: … Hungersnot, ein allgemeiner Vernichtungskrieg ‸ scheinen ihr alle Lebensmittel …
+  mew_page: '468'
+- id: I.28.8
+  kind: p
+  original: Weil sie zuviel Zivilisation, zuviel Lebensmittel, zuviel Industrie, zuviel Handel besitzt.
+  en: Because there is too much civilisation, too much means of subsistence, too much industry, too much commerce.
+  modern: And why? Because there is too much civilization, too much food, too much industry, too much commerce.
+  modern_status: seed
+  notes: ''
+  mew_page: '468'
+- id: I.28.9
+  kind: p
+  original: Die Produktivkräfte, die ihr zur Verfügung stehen, dienen nicht mehr zur Beförderung der bürgerlichen Eigentumsverhältnisse; im Gegenteil, sie sind zu gewaltig für diese Verhältnisse geworden, sie werden von ihnen gehemmt; und sobald sie dies Hemmnis überwinden, bringen sie die ganze bürgerliche Gesellschaft in Unordnung, gefährden sie die Existenz des bürgerlichen Eigentums.
+  en: The productive forces at the disposal of society no longer tend to further the development of the conditions of bourgeois property; on the contrary, they have become too powerful for these conditions, by which they are fettered, and so soon as they overcome these fetters, they bring disorder into the whole of bourgeois society, endanger the existence of bourgeois property.
+  modern: The productive forces society has built are no longer serving the development of bourgeois property - they have grown too powerful for it. They are chained up by it, and the moment they overcome those chains they throw the whole bourgeois order into disorder and threaten the existence of bourgeois property itself.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T15
+    editions: '1848'
+    reading: 'eingefügt: der bürgerlichen Zivilisation und'
+    base_text: … nicht mehr zur Beförderung ‸ der bürgerlichen Eigentumsverhältnisse; im …
+  mew_page: '468'
+- id: I.28.10
+  kind: p
+  original: Die bürgerlichen Verhältnisse sind zu eng geworden, um den von ihnen erzeugten Reichtum zu fassen.
+  en: The conditions of bourgeois society are too narrow to comprise the wealth created by them.
+  modern: Bourgeois conditions are too narrow to hold the wealth they produce.
+  modern_status: seed
+  notes: ''
+  mew_page: '468'
+- id: I.28.11
+  kind: p
+  original: '- Wodurch überwindet die Bourgeoisie die Krisen?'
+  en: And how does the bourgeoisie get over these crises?
+  modern: And how does the bourgeoisie respond to these crises?
+  modern_status: seed
+  notes: ''
+  mew_page: '468'
+- id: I.28.12
+  kind: p
+  original: Einerseits durch die erzwungene Vernichtung einer Masse von Produktivkräften; anderseits durch die Eroberung neuer Märkte und die gründlichere Ausbeutung alter Märkte.
+  en: On the one hand by enforced destruction of a mass of productive forces; on the other, by the conquest of new markets, and by the more thorough exploitation of the old ones.
+  modern: On one hand, by destroying huge amounts of productive capacity. On the other, by conquering new markets and exploiting old ones more thoroughly.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T16
+    editions: 1848, 1872
+    reading: der alten
+    base_text: … die gründlichere Ausbeutung alter ‸ Märkte. …
+  mew_page: '468'
+- id: I.28.13
+  kind: p
+  original: Wodurch also?
+  en: That is to say, by paving the way for more extensive and more destructive crises, and by diminishing the means whereby crises are prevented.
+  modern: That is, by setting the stage for bigger and more destructive crises, and by weakening the tools that could have prevented them.
+  modern_status: seed
+  notes: ''
+  mew_page: '468'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: I.28.14
+  kind: p
+  original: Dadurch, daß sie allseitigere und gewaltigere Krisen vorbereitet und die Mittel, den Krisen vorzubeugen, vermindert.
+  en: ''
+  joined_to: I.28.13
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '468'
+- id: I.29.1
+  kind: p
+  original: Die Waffen, womit die Bourgeoisie den Feudalismus zu Boden geschlagen hat, richten sich jetzt gegen die Bourgeoisie selbst.
+  en: The weapons with which the bourgeoisie felled feudalism to the ground are now turned against the bourgeoisie itself.
+  modern: The weapons the bourgeoisie used to beat feudalism into the ground are now turned against the bourgeoisie itself.
+  modern_status: seed
+  notes: ''
+  mew_page: '468'
+- id: I.30.1
+  kind: p
+  original: Aber die Bourgeoisie hat nicht nur die Waffen geschmiedet, die ihr den Tod bringen; sie hat auch die Männer gezeugt, die diese Waffen führen werden - die modernen Arbeiter, die Proletarier.
+  en: But not only has the bourgeoisie forged the weapons that bring death to itself; it has also called into existence the men who are to wield those weapons - the modern working class - the proletarians.
+  modern: But the bourgeoisie has not just forged the weapons that will kill it. It has also called into being the people who will wield those weapons - the modern working class - the proletariat.
+  modern_status: seed
+  notes: ''
+  mew_page: '468'
+- id: I.31.1
+  kind: p
+  original: In demselben Maße, worin sich die Bourgeoisie, d.h. das Kapital, entwickelt, in demselben Maße entwickelt sich das Proletariat, die Klasse der modernen Arbeiter, die nur so lange leben, als sie Arbeit finden, und die nur so lange Arbeit finden, als ihre Arbeit das Kapital vermehrt.
+  en: In proportion as the bourgeoisie, i.e., capital, is developed, in the same proportion is the proletariat, the modern working class, developed - a class of labourers, who live only so long as they find work, and who find work only so long as their labour increases capital.
+  modern: As the bourgeoisie - that is, capital - grows, so does the proletariat, the modern working class. They are a class of laborers who live only as long as they can find work, and who can only find work as long as their labor adds to capital.
+  modern_status: seed
+  notes: ''
+  mew_page: '468'
+- id: I.31.2
+  kind: p
+  original: Diese Arbeiter, die sich stückweis verkaufen müssen, sind eine Ware wie jeder andere Handelsartikel und daher gleichmäßig allen Wechselfällen der Konkurrenz, allen Schwankungen des Marktes ausgesetzt.
+  en: These labourers, who must sell themselves piecemeal, are a commodity, like every other article of commerce, and are consequently exposed to all the vicissitudes of competition, to all the fluctuations of the market.
+  modern: These workers, who have to sell themselves piece by piece, are a commodity like any other article of commerce. And so they are subject to every shift of competition and every swing of the market.
+  modern_status: seed
+  notes: ''
+  mew_page: '468'
+- id: I.32.1
+  kind: p
+  original: Die Arbeit der Proletarier hat durch die Ausdehnung der Maschinerie und die Teilung der Arbeit allen selbständigen Charakter und damit allen Reiz für die Arbeiter verloren.
+  en: Owing to the extensive use of machinery, and to the division of labour, the work of the proletarians has lost all individual character, and, consequently, all charm for the workman.
+  modern: Because of extensive mechanization and division of labor, the work of the proletariat has lost all individual character. It has lost any charm for the worker.
+  modern_status: seed
+  notes: ''
+  mew_page: '468'
+- id: I.32.2
+  kind: p
+  original: Er wird ein bloßes Zubehör der Maschine, von dem nur der einfachste, eintönigste, am leichtesten erlernbare Handgriff verlangt wird.
+  en: He becomes an appendage of the machine, and it is only the most simple, most monotonous, and most easily acquired knack, that is required of him.
+  modern: They become an appendage of the machine, and what the machine demands of them is only the simplest, most repetitive, easiest-to-learn movement.
+  modern_status: seed
+  notes: ''
+  mew_page: 468-469
+- id: I.32.3
+  kind: p
+  original: Die Kosten, die der Arbeiter verursacht, beschränken sich daher fast nur auf die Lebensmittel, die er zu seinem Unterhalt und zur Fortpflanzung seiner Race bedarf.
+  en: Hence, the cost of production of a workman is restricted, almost entirely, to the means of subsistence that he requires for maintenance, and for the propagation of his race.
+  modern: So the cost of producing a worker is reduced almost entirely to the means of subsistence they need to keep themselves alive and raise the next generation.
+  modern_status: seed
+  notes: ''
+  mew_page: '469'
+- id: I.32.4
+  kind: p
+  original: Der Preis einer Ware, also auch der Arbeit, ist aber gleich ihren Produktionskosten.
+  en: But the price of a commodity, and therefore also of labour, is equal to its cost of production.
+  modern: But the price of a commodity - including the commodity of labor - equals the cost of producing it.
+  modern_status: seed
+  notes: ''
+  mew_page: '469'
+- id: I.32.5
+  kind: p
+  original: In demselben Maße, in dem die Widerwärtigkeit der Arbeit wächst, nimmt daher der Lohn ab.
+  en: In proportion, therefore, as the repulsiveness of the work increases, the wage decreases.
+  modern: So as the work gets more unbearable, the wage goes down.
+  modern_status: seed
+  notes: ''
+  mew_page: '469'
+- id: I.32.6
+  kind: p
+  original: Noch mehr, in demselben Maße, wie Maschinerie und Teilung der Arbeit zunehmen, in demselben Maße nimmt auch die Masse der Arbeit zu, sei es durch Vermehrung der Arbeitsstunden, sei es durch Vermehrung der in einer gegebenen Zeit geforderten Arbeit, beschleunigten Lauf der Maschinen usw.
+  en: Nay more, in proportion as the use of machinery and division of labour increases, in the same proportion the burden of toil also increases, whether by prolongation of the working hours, by the increase of the work exacted in a given time or by increased speed of machinery, etc.
+  modern: 'And more than that: as mechanization and division of labor increase, the total burden of work also increases, whether through longer hours, more work demanded in the same time, or faster machinery.'
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T18
+    editions: '1888'
+    reading: Last
+    base_text: … nimmt auch die Masse ‸ der Arbeit zu, sei …
+  mew_page: '469'
+- id: I.33.1
+  kind: p
+  original: Die moderne Industrie hat die kleine Werkstube des patriarchalischen Meisters in die große Fabrik des industriellen Kapitalisten verwandelt.
+  en: Modern Industry has converted the little workshop of the patriarchal master into the great factory of the industrial capitalist.
+  modern: Modern industry has turned the small workshop of the patriarchal master into the huge factory of the industrial capitalist.
+  modern_status: seed
+  notes: ''
+  mew_page: '469'
+- id: I.33.2
+  kind: p
+  original: Arbeitermassen, in der Fabrik zusammengedrängt, werden soldatisch organisiert.
+  en: Masses of labourers, crowded into the factory, are organised like soldiers.
+  modern: Masses of workers, packed into the factory, are organized like soldiers.
+  modern_status: seed
+  notes: ''
+  mew_page: '469'
+- id: I.33.3
+  kind: p
+  original: Sie werden als gemeine Industriesoldaten unter die Aufsicht einer vollständigen Hierarchie von Unteroffizieren und Offizieren gestellt.
+  en: As privates of the industrial army they are placed under the command of a perfect hierarchy of officers and sergeants.
+  modern: As privates in the industrial army, they are placed under a full hierarchy of officers and sergeants.
+  modern_status: seed
+  notes: ''
+  mew_page: '469'
+- id: I.33.4
+  kind: p
+  original: Sie sind nicht nur Knechte der Bourgeoisie, des Bourgeoisstaates, sie sind täglich und stündlich geknechtet von der Maschine, von dem Aufseher und vor allem von den einzelnen fabrizierenden Bourgeois selbst.
+  en: Not only are they slaves of the bourgeois class, and of the bourgeois State; they are daily and hourly enslaved by the machine, by the overlooker, and, above all, by the individual bourgeois manufacturer himself.
+  modern: They are not just enslaved by the bourgeois class and the bourgeois state. They are enslaved every day and every hour by the machine, by the foreman, and above all by the individual bourgeois manufacturer.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T19
+    editions: '1848'
+    reading: dem
+    base_text: … vor allem von den ‸ einzelnen fabrizierenden Bourgeois selbst. …
+  mew_page: '469'
+- id: I.33.5
+  kind: p
+  original: Diese Despotie ist um so kleinlicher, gehässiger, erbitterter, je offener sie den Erwerb als ihren Zweck proklamiert.
+  en: The more openly this despotism proclaims gain to be its end and aim, the more petty, the more hateful and the more embittering it is.
+  modern: The more openly this tyranny declares that profit is its only goal, the more petty, the more hateful, the more enraging it becomes.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T20
+    editions: 1848, 1872, 1883
+    reading: 'eingefügt: letzten'
+    base_text: … den Erwerb als ihren ‸ Zweck proklamiert. …
+  mew_page: '469'
+- id: I.34.1
+  kind: p
+  original: Je weniger die Handarbeit Geschicklichkeit und Kraftäußerung erheischt, d.h. je mehr die moderne Industrie sich entwickelt, desto mehr wird die Arbeit der Männer durch die der Weiber verdrängt.
+  en: The less the skill and exertion of strength implied in manual labour, in other words, the more modern industry becomes developed, the more is the labour of men superseded by that of women.
+  modern: The less physical skill and strength a job requires - in other words, the more modern industry develops - the more the labor of men is replaced by the labor of women and children.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T21
+    editions: '1848'
+    reading: 'eingefügt: und Kinder'
+    base_text: … durch die der Weiber ‸ verdrängt. …
+  mew_page: '469'
+- id: I.34.2
+  kind: p
+  original: Geschlechts- und Altersunterschiede haben keine gesellschaftliche Geltung mehr für die Arbeiterklasse.
+  en: Differences of age and sex have no longer any distinctive social validity for the working class.
+  modern: Age and sex no longer have any distinctive social meaning inside the working class.
+  modern_status: seed
+  notes: ''
+  mew_page: '469'
+- id: I.34.3
+  kind: p
+  original: Es gibt nur noch Arbeitsinstrumente, die je nach Alter und Geschlecht verschiedene Kosten machen.
+  en: All are instruments of labour, more or less expensive to use, according to their age and sex.
+  modern: All are tools of labor, more or less expensive depending on age and sex.
+  modern_status: seed
+  notes: ''
+  mew_page: '469'
+- id: I.35.1
+  kind: p
+  original: Ist die Ausbeutung des Arbeiters durch den Fabrikanten so weit beendigt, daß er seinen Arbeitslohn bar ausgezahlt erhält, so fallen die anderen Teile der Bourgeoisie über ihn her, der Hausbesitzer, der Krämer, der Pfandleiher usw.
+  en: No sooner is the exploitation of the labourer by the manufacturer, so far, at an end, that he receives his wages in cash, than he is set upon by the other portions of the bourgeoisie, the landlord, the shopkeeper, the pawnbroker, etc.
+  modern: As soon as workers are paid their wages in cash by the manufacturer, other sections of the bourgeoisie swoop in on them - the landlord, the shopkeeper, the pawnbroker, and so on.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T22
+    editions: 1848, 1872, 1883
+    reading: Pfandverleiher
+    base_text: … der Krämer, der Pfandleiher ‸ usw. …
+  mew_page: '469'
+- id: I.36.1
+  kind: p
+  original: Die bisherigen kleinen Mittelstände, die kleinen Industriellen, Kaufleute und Rentiers, die Handwerker und Bauern, alle diese Klassen fallen ins Proletariat hinab, teils dadurch, daß ihr kleines Kapital für den Betrieb der großen Industrie nicht ausreicht und der Konkurrenz mit den größeren Kapitalisten erliegt, teils dadurch, daß ihre Geschicklichkeit von neuen Produktionsweisen entwertet wird.
+  en: The lower strata of the middle class - the small tradespeople, shopkeepers, and retired tradesmen generally, the handicraftsmen and peasants - all these sink gradually into the proletariat, partly because their diminutive capital does not suffice for the scale on which Modern Industry is carried on, and is swamped in the competition with the large capitalists, partly because their specialised skill is rendered worthless by new methods of production.
+  modern: The lower layers of the middle class - small business owners, retail shopkeepers, retired tradesmen, craftsmen, and small farmers - are gradually sunk into the proletariat. Partly because their small amount of capital is not enough to run a modern business and gets crushed in competition with big capitalists. Partly because their specialized skills are made worthless by new methods.
+  modern_status: seed
+  notes: ''
+  mew_page: '469'
+- id: I.36.2
+  kind: p
+  original: So rekrutiert sich das Proletariat aus allen Klassen der Bevölkerung.
+  en: Thus the proletariat is recruited from all classes of the population.
+  modern: So the proletariat is recruited from every layer of the population.
+  modern_status: seed
+  notes: ''
+  mew_page: '469'
+- id: I.37.1
+  kind: p
+  original: Das Proletariat macht verschiedene Entwicklungsstufen durch.
+  en: The proletariat goes through various stages of development.
+  modern: The proletariat goes through several stages.
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+- id: I.37.2
+  kind: p
+  original: Sein Kampf gegen die Bourgeoisie beginnt mit seiner Existenz.
+  en: With its birth begins its struggle with the bourgeoisie.
+  modern: From the moment it is born, its struggle with the bourgeoisie begins.
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+- id: I.38.1
+  kind: p
+  original: Im Anfang kämpfen die einzelnen Arbeiter, dann die Arbeiter einer Fabrik, dann die Arbeiter eines Arbeitszweiges an einem Ort gegen den einzelnen Bourgeois, der sie direkt ausbeutet.
+  en: At first the contest is carried on by individual labourers, then by the workpeople of a factory, then by the operative of one trade, in one locality, against the individual bourgeois who directly exploits them.
+  modern: At first the fight is carried on by individual workers, then by the workers of a single factory, then by the workers of a single trade in a single town, against the individual bourgeois who directly exploits them.
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+- id: I.38.2
+  kind: p
+  original: Sie richten ihre Angriffe nicht nur gegen die bürgerlichen Produktionsverhältnisse, sie richten sie gegen die Produktionsinstrumente selbst; sie vernichten die fremden konkurrierenden Waren, sie zerschlagen die Maschinen, sie stecken die Fabriken in Brand, die suchen die untergegangene Stellung des mittelalterlichen Arbeiters wiederzuerringen.
+  en: They direct their attacks not against the bourgeois conditions of production, but against the instruments of production themselves; they destroy imported wares that compete with their labour, they smash to pieces machinery, they set factories ablaze, they seek to restore by force the vanished status of the workman of the Middle Ages.
+  modern: Their attacks are not yet aimed at the bourgeois conditions of production - they are aimed at the tools of production themselves. They smash the foreign goods competing with their labor. They smash machinery. They set factories on fire. They try to force their way back to the lost position of the medieval craftsman.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T23
+    editions: '1848'
+    reading: 'eingefügt: sich'
+    base_text: … in Brand, die suchen ‸ die untergegangene Stellung des …
+  mew_page: '470'
+- id: I.39.1
+  kind: p
+  original: Auf dieser Stufe bilden die Arbeiter eine über das Land zerstreute und durch die Konkurrenz zersplitterte Masse.
+  en: At this stage, the labourers still form an incoherent mass scattered over the whole country, and broken up by their mutual competition.
+  modern: At this stage, workers are still a scattered, uncoordinated mass spread across the whole country, divided by competition with each other.
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+- id: I.39.2
+  kind: p
+  original: Massenhaftes Zusammenhalten der Arbeiter ist noch nicht die Folge ihrer eigenen Vereinigung, sondern die Folge der Vereinigung der Bourgeoisie, die zur Erreichung ihrer eigenen politischen Zwecke das ganze Proletariat in Bewegung setzen muß und es einstweilen noch kann.
+  en: If anywhere they unite to form more compact bodies, this is not yet the consequence of their own active union, but of the union of the bourgeoisie, which class, in order to attain its own political ends, is compelled to set the whole proletariat in motion, and is moreover yet, for a time, able to do so.
+  modern: When they do come together into more organized bodies, it is not yet from their own initiative - it is because the bourgeoisie, to pursue its own political goals, has to mobilize the entire proletariat and can still do so for a while.
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+- id: I.40.1
+  kind: p
+  original: Auf dieser Stufe bekämpfen die Proletarier also noch nicht ihre Feinde, sondern die Feinde ihrer Feinde, die Reste der absoluten Monarchie, die Grundeigentümer, die nichtindustriellen Bourgeois, die Kleinbürger.
+  en: At this stage, therefore, the proletarians do not fight their enemies, but the enemies of their enemies, the remnants of absolute monarchy, the landowners, the non-industrial bourgeois, the petty bourgeois.
+  modern: 'At this stage, the proletariat is not fighting its own enemies - it is fighting the enemies of its enemies: the leftover supporters of absolute monarchy, the big landowners, the non-industrial bourgeoisie, the small business owners.'
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+- id: I.40.2
+  kind: p
+  original: Die ganze geschichtliche Bewegung ist so in den Händen der Bourgeoisie konzentriert; jeder Sieg, der so errungen wird, ist ein Sieg der Bourgeoisie.
+  en: Thus, the whole historical movement is concentrated in the hands of the bourgeoisie; every victory so obtained is a victory for the bourgeoisie.
+  modern: So the whole historical movement gets concentrated in the hands of the bourgeoisie. Every victory won this way is a victory for the bourgeoisie.
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+- id: I.41.1
+  kind: p
+  original: Aber mit der Entwicklung der Industrie vermehrt sich nicht nur das Proletariat; es wird in größeren Massen zusammengedrängt, seine Kraft wächst, und es fühlt sie immer mehr.
+  en: But with the development of industry, the proletariat not only increases in number; it becomes concentrated in greater masses, its strength grows, and it feels that strength more.
+  modern: But as industry develops, the proletariat does not just grow in numbers. It becomes concentrated in bigger groups. Its strength grows, and it begins to feel that strength.
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+- id: I.41.2
+  kind: p
+  original: Die Interessen, die Lebenslagen innerhalb des Proletariats gleichen sich immer mehr aus, indem die Maschinerie mehr und mehr die Unterschiede der Arbeit verwischt und den Lohn fast überall auf ein gleich niedriges Niveau herabdrückt.
+  en: The various interests and conditions of life within the ranks of the proletariat are more and more equalised, in proportion as machinery obliterates all distinctions of labour, and nearly everywhere reduces wages to the same low level.
+  modern: The different interests and living conditions inside the proletariat get more and more equalized as machinery wipes out the distinctions between kinds of labor and pushes wages almost everywhere down to the same low level.
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+- id: I.41.3
+  kind: p
+  original: Die wachsende Konkurrenz der Bourgeois unter sich und die daraus hervorgehenden Handelskrisen machen den Lohn der Arbeiter immer schwankender; die immer rascher sich entwickelnde, unaufhörliche Verbesserung der Maschinerie macht ihre ganze Lebensstellung immer unsicherer; immer mehr nehmen die Kollisionen zwischen dem einzelnen Arbeiter und dem einzelnen Bourgeois den Charakter von Kollisionen zweier Klassen an.
+  en: The growing competition among the bourgeois, and the resulting commercial crises, make the wages of the workers ever more fluctuating. The increasing improvement of machinery, ever more rapidly developing, makes their livelihood more and more precarious; the collisions between individual workmen and individual bourgeois take more and more the character of collisions between two classes.
+  modern: Growing competition between capitalists, and the resulting commercial crises, make wages more and more unstable. The constant, accelerating improvement of machinery makes workers' livelihoods more and more precarious. The clashes between individual workers and individual bourgeois start to look more and more like clashes between two classes.
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.41.4
+  kind: p
+  original: Die Arbeiter beginnen damit, Koalitionen gegen die Bourgeois zu bilden; sie treten zusammen zur Behauptung ihres Arbeitslohns.
+  en: Thereupon, the workers begin to form combinations (Trades' Unions) against the bourgeois; they club together in order to keep up the rate of wages; they found permanent associations in order to make provision beforehand for these occasional revolts.
+  modern: At that point, workers begin to form combinations - unions - against the bourgeoisie. They club together to protect their wages. They set up permanent organizations to be ready for the next flare-up.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T24
+    editions: '1888'
+    reading: 'eingefügt: (Trade-Unions)'
+    base_text: … Arbeiter beginnen damit, Koalitionen ‸ gegen die Bourgeois zu …
+  mew_page: '470'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: I.41.5
+  kind: p
+  original: Sie stiften selbst dauernde Assoziationen, um sich für die gelegentlichen Empörungen zu verproviantieren.
+  en: ''
+  joined_to: I.41.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '470'
+- id: I.41.6
+  kind: p
+  original: Stellenweis bricht der Kampf in Emeuten aus.
+  en: Here and there, the contest breaks out into riots.
+  modern: Here and there the fight breaks out into riots.
+  modern_status: seed
+  notes: ''
+  mew_page: '470'
+- id: I.42.1
+  kind: p
+  original: Von Zeit zu Zeit siegen die Arbeiter, aber nur vorübergehend.
+  en: Now and then the workers are victorious, but only for a time.
+  modern: Sometimes the workers win, but only for a time.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.42.2
+  kind: p
+  original: Das eigentliche Resultat ihrer Kämpfe ist nicht der unmittelbare Erfolg, sondern die immer weiter um sich greifende Vereinigung der Arbeiter.
+  en: The real fruit of their battles lies, not in the immediate result, but in the ever expanding union of the workers.
+  modern: The real fruit of these battles is not the immediate result. It is the ever-expanding union of the workers.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.42.3
+  kind: p
+  original: Sie wird befördert durch die wachsenden Kommunikationsmittel, die von der großen Industrie erzeugt werden und die Arbeiter der verschiedenen Lokalitäten miteinander in Verbindung setzen.
+  en: This union is helped on by the improved means of communication that are created by modern industry, and that place the workers of different localities in contact with one another.
+  modern: That union is helped along by the improved communication created by modern industry, which puts workers in different places in touch with each other.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.42.4
+  kind: p
+  original: Es bedarf aber bloß der Verbindung, um die vielen Lokalkämpfe von überall gleichem Charakter zu einem nationalen, zu einem Klassenkampf zu zentralisieren.
+  en: It was just this contact that was needed to centralise the numerous local struggles, all of the same character, into one national struggle between classes.
+  modern: And all it took was that contact to pull together the many local struggles, all of them with the same character, into a single national struggle between classes.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.42.5
+  kind: p
+  original: Jeder Klassenkampf ist aber ein politischer Kampf.
+  en: But every class struggle is a political struggle.
+  modern: And every class struggle is a political struggle.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T25
+    editions: 1848, 1872, 1883
+    reading: aber ist
+    base_text: … Jeder Klassenkampf ist aber ‸ ein politischer Kampf. …
+  mew_page: '471'
+- id: I.42.6
+  kind: p
+  original: Und die Vereinigung, zu der die Bürger des Mittelalters mit ihren Vizinalwegen Jahrhunderte bedurften, bringen die modernen Proletarier mit den Eisenbahnen in wenigen Jahren zustande.
+  en: And that union, to attain which the burghers of the Middle Ages, with their miserable highways, required centuries, the modern proletarian, thanks to railways, achieve in a few years.
+  modern: The union that took the townspeople of the Middle Ages centuries to achieve on bad roads, modern workers, thanks to railways, achieve in a few years.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.43.1
+  kind: p
+  original: Diese Organisation der Proletarier zur Klasse, und damit zur politischen Partei, wird jeden Augenblick wieder gesprengt durch die Konkurrenz unter den Arbeitern selbst.
+  en: This organisation of the proletarians into a class, and, consequently into a political party, is continually being upset again by the competition between the workers themselves.
+  modern: This organizing of the proletariat into a class, and therefore into a political party, is constantly being disrupted again by competition among the workers themselves.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.43.2
+  kind: p
+  original: Aber sie ersteht immer wieder, stärker, fester, mächtiger.
+  en: But it ever rises up again, stronger, firmer, mightier.
+  modern: But it always rises again - stronger, more solid, more powerful.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.43.3
+  kind: p
+  original: Sie erzwingt die Anerkennung einzelner Interesse der Arbeiter in Gesetzesform, indem sie die Spaltungen der Bourgeoisie unter sich benutzt.
+  en: It compels legislative recognition of particular interests of the workers, by taking advantage of the divisions among the bourgeoisie itself.
+  modern: It forces legal recognition of particular worker interests, by taking advantage of the splits inside the bourgeoisie itself.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.43.4
+  kind: p
+  original: So die Zehnstundenbill in England.
+  en: Thus, the ten-hours' bill in England was carried.
+  modern: That is how, for example, the ten-hour bill was passed in England.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.44.1
+  kind: p
+  original: Die Kollisionen der alten Gesellschaft überhaupt fördern mannigfach den Entwicklungsgang des Proletariats.
+  en: Altogether collisions between the classes of the old society further, in many ways, the course of development of the proletariat.
+  modern: Altogether, the clashes between the old classes of society push the development of the proletariat forward in many ways.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.44.2
+  kind: p
+  original: 'Die Bourgeoisie befindet sich in fortwährendem Kampfe: anfangs gegen die Aristokratie; später gegen die Teile der Bourgeoisie selbst, deren Interessen mit dem Fortschritt der Industrie in Widerspruch geraten; stets gegen die Bourgeoisie aller auswärtigen Länder.'
+  en: The bourgeoisie finds itself involved in a constant battle. At first with the aristocracy; later on, with those portions of the bourgeoisie itself, whose interests have become antagonistic to the progress of industry; at all time with the bourgeoisie of foreign countries.
+  modern: 'The bourgeoisie finds itself in a constant fight: first with the aristocracy; then with sections of the bourgeoisie itself whose interests clash with the progress of industry; always with the bourgeoisie of foreign countries.'
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.44.3
+  kind: p
+  original: In allen diesen Kämpfen sieht sie sich genötigt, an das Proletariat zu appellieren, seine Hülfe in Anspruch zu nehmen und es so in die politische Bewegung hineinzureißen.
+  en: In all these battles, it sees itself compelled to appeal to the proletariat, to ask for help, and thus, to drag it into the political arena. The bourgeoisie itself, therefore, supplies the proletariat with its own elements of political and general education, in other words, it furnishes the proletariat with weapons for fighting the bourgeoisie.
+  modern: In all these fights, it is forced to call on the proletariat for help, and so it pulls the proletariat into the political arena. The bourgeoisie itself, therefore, hands the proletariat its own tools of political and general education - it hands the proletariat weapons to use against the bourgeoisie.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+  align: '2:2'
+  review: true
+  review_reason: 2 de sentence(s) matched to 2 en sentence(s)
+- id: I.44.4
+  kind: p
+  original: Sie selbst führt also dem Proletariat ihre eigenen Bildungselemente, d.h. Waffen gegen sich selbst, zu.
+  en: ''
+  joined_to: I.44.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  variants:
+  - ref: T26
+    editions: '1888'
+    reading: 'eingefügt: politischen und allgemeinen'
+    base_text: … dem Proletariat ihre eigenen ‸ Bildungselemente, d.h. Waffen gegen …
+  mew_page: '471'
+- id: I.45.1
+  kind: p
+  original: Es werden ferner, wie wir sahen, durch den Fortschritt der Industrie ganze Bestandteile der herrschenden Klasse ins Proletariat hinabgeworfen oder wenigstens in ihren Lebensbedingungen bedroht.
+  en: Further, as we have already seen, entire sections of the ruling class are, by the advance of industry, precipitated into the proletariat, or are at least threatened in their conditions of existence.
+  modern: 'More than that: as we have already seen, entire sections of the ruling classes are being driven down into the proletariat by the progress of industry, or are at least threatened with that fate.'
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.45.2
+  kind: p
+  original: Auch sie führen dem Proletariat eine Masse Bildungselemente zu.
+  en: These also supply the proletariat with fresh elements of enlightenment and progress.
+  modern: They too bring fresh enlightenment and progress into the proletariat.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T27
+    editions: '1888'
+    reading: Aufklärungs- und Fortschrittselemente
+    base_text: … Proletariat eine Masse Bildungselemente ‸ zu. …
+  mew_page: '471'
+- id: I.46.1
+  kind: p
+  original: In Zeiten endlich, wo der Klassenkampf sich der Entscheidung nähert, nimmt der Auflösungsprozeß innerhalb der herrschenden Klasse, innerhalb der ganzen alten Gesellschaft, einen so heftigen, so grellen Charakter an, daß ein kleiner Teil der herrschenden Klasse sich von ihr lossagt und sich der revolutionären Klasse anschließt, der Klasse, welche die Zukunft in ihren Händen trägt.
+  en: Finally, in times when the class struggle nears the decisive hour, the progress of dissolution going on within the ruling class, in fact within the whole range of old society, assumes such a violent, glaring character, that a small section of the ruling class cuts itself adrift, and joins the revolutionary class, the class that holds the future in its hands.
+  modern: Finally, as the class struggle nears its decisive moment, the process of breakdown inside the ruling class - and across the whole of society - takes on such a violent, visible form that a small section of the ruling class breaks away and joins the revolutionary class - the class that holds the future in its hands.
+  modern_status: seed
+  notes: ''
+  mew_page: '471'
+- id: I.46.2
+  kind: p
+  original: Wie daher früher ein Teil des Adels zur Bourgeoisie überging, so geht jetzt ein Teil der Bourgeoisie zum Proletariat über, und namentlich ein Teil dieser Bourgeoisideologen, welche zum theoretischen Verständnis der ganzen geschichtlichen Bewegung sich hinaufgearbeitet haben.
+  en: Just as, therefore, at an earlier period, a section of the nobility went over to the bourgeoisie, so now a portion of the bourgeoisie goes over to the proletariat, and in particular, a portion of the bourgeois ideologists, who have raised themselves to the level of comprehending theoretically the historical movement as a whole.
+  modern: Just as a section of the nobility at one point crossed over to the bourgeoisie, so now a section of the bourgeoisie crosses over to the proletariat. This is especially true for a section of the bourgeois thinkers who have reached the point of understanding the historical movement as a whole.
+  modern_status: seed
+  notes: ''
+  mew_page: 471-472
+- id: I.47.1
+  kind: p
+  original: Von allen Klassen, welche heutzutage der Bourgeoisie gegenüberstehen, ist nur das Proletariat eine wirklich revolutionäre Klasse.
+  en: Of all the classes that stand face to face with the bourgeoisie today, the proletariat alone is a really revolutionary class.
+  modern: Of all the classes that face the bourgeoisie today, only the proletariat is a truly revolutionary class.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.47.2
+  kind: p
+  original: Die übrigen Klassen verkommen und gehen unter mit der großen Industrie, das Proletariat ist ihr eigenstes Produkt.
+  en: The other classes decay and finally disappear in the face of Modern Industry; the proletariat is its special and essential product.
+  modern: The other classes decay and eventually disappear in the face of Modern Industry. The proletariat is its special and essential product.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.48.1
+  kind: p
+  original: Die Mittelstände, der kleine Industrielle, der kleine Kaufmann, der Handwerker, der Bauer, sie alle bekämpfen die Bourgeoisie, um ihre Existenz als Mittelstände vor dem Untergang zu sichern.
+  en: The lower middle class, the small manufacturer, the shopkeeper, the artisan, the peasant, all these fight against the bourgeoisie, to save from extinction their existence as fractions of the middle class.
+  modern: The lower middle class - the small manufacturer, the shopkeeper, the craftsman, the small farmer - all fight the bourgeoisie to save their existence as pieces of the middle class from extinction.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.48.2
+  kind: p
+  original: Sie sind also nicht revolutionär, sondern konservativ.
+  en: They are therefore not revolutionary, but conservative.
+  modern: They are not revolutionary. They are conservative.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.48.3
+  kind: p
+  original: Noch mehr, sie sind reaktionär, sie suchen das Rad der Geschichte zurückzudrehen.
+  en: Nay more, they are reactionary, for they try to roll back the wheel of history.
+  modern: 'More than that, they are reactionary: they try to turn back the wheel of history.'
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T28
+    editions: 1848, 1872, 1883
+    reading: 'eingefügt: denn'
+    base_text: … mehr, sie sind reaktionär ‸ , sie suchen das …
+  mew_page: '472'
+- id: I.48.4
+  kind: p
+  original: Sind sie revolutionär, so sind sie es im Hinblick auf den ihnen bevorstehenden Übergang ins Proletariat, so verteidigen sie nicht ihre gegenwärtigen, sondern ihre zukünftigen Interessen, so verlassen sie ihren eigenen Standpunkt, um sich auf den des Proletariats zu stellen. -
+  en: If by chance, they are revolutionary, they are only so in view of their impending transfer into the proletariat; they thus defend not their present, but their future interests, they desert their own standpoint to place themselves at that of the proletariat.
+  modern: If by chance they are revolutionary, it is only because they are about to be pushed down into the proletariat. In that case they defend not their present but their future interests. They give up their own position and take up the position of the proletariat.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.49.1
+  kind: p
+  original: Das Lumpenproletariat, diese passive Verfaulung der untersten Schichten der alten Gesellschaft, wird durch eine proletarische Revolution stellenweise in die Bewegung hineingeschleudert, seiner ganzen Lebenslage nach wird es bereitwilliger sein, sich zu reaktionären Umtrieben erkaufen zu lassen.
+  en: The "dangerous class", [lumpenproletariat] the social scum, that passively rotting mass thrown off by the lowest layers of the old society, may, here and there, be swept into the movement by a proletarian revolution; its conditions of life, however, prepare it far more for the part of a bribed tool of reactionary intrigue.
+  modern: The so-called "dangerous class," the social scum thrown off by the lowest layers of old society, may here and there get swept into the movement by a proletarian revolution. But the conditions of their life prepare them much more for the role of a paid tool of reactionary scheming.
+  modern_status: seed
+  notes: Moore avoids the German term. '[lumpenproletariat]' in the English column is an MIA insertion.
+  mew_page: '472'
+- id: I.50.1
+  kind: p
+  original: Die Lebensbedingungen der alten Gesellschaft sind schon vernichtet in den Lebensbedingungen des Proletariats.
+  en: In the condition of the proletariat, those of old society at large are already virtually swamped.
+  modern: In the conditions of the proletariat, the conditions of old society are already effectively wiped out.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.50.2
+  kind: p
+  original: Der Proletarier ist eigentumslos; sein Verhältnis zu Weib und Kindern hat nichts mehr gemein mit dem bürgerlichen Familienverhältnis; die moderne industrielle Arbeit, die moderne Unterjochung unter das Kapital, dieselbe in England wie in Frankreich, in Amerika wie in Deutschland, hat ihm allen nationalen Charakter abgestreift.
+  en: The proletarian is without property; his relation to his wife and children has no longer anything in common with the bourgeois family relations; modern industry labour, modern subjection to capital, the same in England as in France, in America as in Germany, has stripped him of every trace of national character.
+  modern: The proletarian has no property. Their relationship with their spouse and children has nothing in common with the bourgeois family. Modern industrial labor and modern subjection to capital - the same in England as in France, the same in America as in Germany - have stripped them of every trace of national character.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.50.3
+  kind: p
+  original: Die Gesetze, die Moral, die Religion sind für ihn ebenso viele bürgerliche Vorurteile, hinter denen sich ebenso viele bürgerliche Interessen verstecken.
+  en: Law, morality, religion, are to him so many bourgeois prejudices, behind which lurk in ambush just as many bourgeois interests.
+  modern: Law, morality, and religion, to them, are just so many bourgeois prejudices, with just as many bourgeois interests hiding behind them.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.51.1
+  kind: p
+  original: Alle früheren Klassen, die sich die Herrschaft eroberten, suchten ihre schon erworbene Lebensstellung zu sichern, indem sie die ganze Gesellschaft den Bedingungen ihres Erwerbs unterwarfen.
+  en: All the preceding classes that got the upper hand sought to fortify their already acquired status by subjecting society at large to their conditions of appropriation.
+  modern: Every ruling class before this tried to secure its newly won position by forcing the rest of society to live under its conditions of appropriation.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.51.2
+  kind: p
+  original: Die Proletarier können sich die gesellschaftlichen Produktivkräfte nur erobern, indem sie ihre eigene bisherige Aneignungsweise und damit die ganze bisherige Aneignungsweise abschaffen.
+  en: The proletarians cannot become masters of the productive forces of society, except by abolishing their own previous mode of appropriation, and thereby also every other previous mode of appropriation.
+  modern: The proletariat cannot gain control of the productive forces of society without abolishing its own current mode of appropriation, and by doing that, every previous mode of appropriation as well.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.51.3
+  kind: p
+  original: Die Proletarier haben nichts von dem Ihrigen zu sichern, sie haben alle bisherigen Privatsicherheiten und Privatversicherungen zu zerstören.
+  en: They have nothing of their own to secure and to fortify; their mission is to destroy all previous securities for, and insurances of, individual property.
+  modern: The proletariat has nothing of its own to secure and defend. Its mission is to destroy every previous safeguard of private property.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T29
+    editions: 1848, 1872, 1883
+    reading: bisherige Privatsicherheit
+    base_text: … haben alle bisherigen Privatsicherheiten ‸ und Privatversicherungen zu zerstören. …
+  mew_page: '472'
+- id: I.52.1
+  kind: p
+  original: Alle bisherigen Bewegungen waren Bewegungen von Minoritäten oder im Interesse von Minoritäten.
+  en: All previous historical movements were movements of minorities, or in the interest of minorities.
+  modern: All previous historical movements were movements of minorities, or movements serving the interests of minorities.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.52.2
+  kind: p
+  original: Die proletarische Bewegung ist die selbständige Bewegung der ungeheuren Mehrzahl im Interesse der ungeheuren Mehrzahl.
+  en: The proletarian movement is the self-conscious, independent movement of the immense majority, in the interest of the immense majority.
+  modern: The proletarian movement is the conscious, independent movement of the huge majority, in the interest of the huge majority.
+  modern_status: seed
+  notes: ''
+  mew_page: '472'
+- id: I.52.3
+  kind: p
+  original: Das Proletariat, die unterste Schicht der jetzigen Gesellschaft, kann sich nicht erheben, nicht aufrichten, ohne daß der ganze Überbau der Schichten, die die offizielle Gesellschaft bilden, in die Luft gesprengt wird.
+  en: The proletariat, the lowest stratum of our present society, cannot stir, cannot raise itself up, without the whole superincumbent strata of official society being sprung into the air.
+  modern: The proletariat - the lowest stratum of our current society - cannot lift itself up without blowing the whole structure of official society above it into the air.
+  modern_status: seed
+  notes: ''
+  mew_page: 472-473
+- id: I.53.1
+  kind: p
+  original: Obgleich nicht dem Inhalt, ist der Form nach der Kampf des Proletariats gegen die Bourgeoisie zunächst ein nationaler.
+  en: Though not in substance, yet in form, the struggle of the proletariat with the bourgeoisie is at first a national struggle.
+  modern: The fight of the proletariat against the bourgeoisie, though not in its substance, is at first national in form.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.53.2
+  kind: p
+  original: Das Proletariat eines jeden Landes muß natürlich zuerst mit seiner eigenen Bourgeoisie fertig werden.
+  en: The proletariat of each country must, of course, first of all settle matters with its own bourgeoisie.
+  modern: The proletariat of each country has to first of all settle matters with its own bourgeoisie.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.54.1
+  kind: p
+  original: Indem wir die allgemeinsten Phasen der Entwicklung des Proletariats zeichneten, verfolgten wir den mehr oder minder versteckten Bürgerkrieg innerhalb der bestehenden Gesellschaft bis zu dem Punkt, wo er in eine offene Revolution ausbricht und durch den gewaltsamen Sturz der Bourgeoisie das Proletariat seine Herrschaft begründet.
+  en: In depicting the most general phases of the development of the proletariat, we traced the more or less veiled civil war, raging within existing society, up to the point where that war breaks out into open revolution, and where the violent overthrow of the bourgeoisie lays the foundation for the sway of the proletariat.
+  modern: In describing these general phases of the development of the proletariat, we have traced the more or less hidden civil war raging inside existing society, up to the point where it breaks out into open revolution and the violent overthrow of the bourgeoisie lays the foundation for proletarian rule.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.55.1
+  kind: p
+  original: Alle bisherige Gesellschaft beruhte, wie wir gesehen haben, auf dem Gegensatz unterdrückender und unterdrückter Klassen.
+  en: Hitherto, every form of society has been based, as we have already seen, on the antagonism of oppressing and oppressed classes.
+  modern: Every form of society so far, as we have seen, has been based on the antagonism between oppressing and oppressed classes.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.55.2
+  kind: p
+  original: Um aber eine Klasse unterdrücken zu können, müssen ihr Bedingungen gesichert sein, innerhalb derer sie wenigstens ihre knechtische Existenz fristen kann.
+  en: But in order to oppress a class, certain conditions must be assured to it under which it can, at least, continue its slavish existence.
+  modern: But to oppress a class, certain conditions have to be guaranteed to it so it can at least keep on existing, even as a slave.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.55.3
+  kind: p
+  original: Der Leibeigene hat sich zum Mitglied der Kommune in der Leibeigenschaft herangearbeitet wie der Kleinbürger zum Bourgeois unter dem Joch des feudalistischen Absolutismus.
+  en: The serf, in the period of serfdom, raised himself to membership in the commune, just as the petty bourgeois, under the yoke of the feudal absolutism, managed to develop into a bourgeois.
+  modern: The serf, in the period of serfdom, was able to work their way up to membership in the commune. The small-time bourgeois, under feudal absolutism, was able to develop into a full bourgeois.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.55.4
+  kind: p
+  original: Der moderne Arbeiter dagegen, statt sich mit dem Fortschritt der Industrie zu heben, sinkt immer tiefer unter die Bedingungen seiner eigenen Klasse herab.
+  en: The modern labourer, on the contrary, instead of rising with the process of industry, sinks deeper and deeper below the conditions of existence of his own class.
+  modern: The modern worker, by contrast, instead of rising with the progress of industry, sinks deeper and deeper below the conditions of their own class.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.55.5
+  kind: p
+  original: Der Arbeiter wird zum Pauper, und der Pauperismus entwickelt sich noch schneller als Bevölkerung und Reichtum.
+  en: He becomes a pauper, and pauperism develops more rapidly than population and wealth.
+  modern: They become a pauper, and pauperism grows even faster than population or wealth.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T30
+    editions: 1848, 1872, 1883
+    reading: rascher
+    base_text: … entwickelt sich noch schneller ‸ als Bevölkerung und Reichtum. …
+  mew_page: '473'
+- id: I.56.1
+  kind: p
+  original: Es tritt hiermit offen hervor, daß die Bourgeoisie unfähig ist, noch länger die herrschende Klasse der Gesellschaft zu bleiben und die Lebensbedingungen ihrer Klasse der Gesellschaft als regelndes Gesetz aufzuzwingen.
+  en: And here it becomes evident, that the bourgeoisie is unfit any longer to be the ruling class in society, and to impose its conditions of existence upon society as an over-riding law.
+  modern: It becomes obvious that the bourgeoisie is no longer fit to be the ruling class or to impose its conditions on society as an overriding law.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.56.2
+  kind: p
+  original: Sie ist unfähig zu herrschen, weil sie unfähig ist, ihrem Sklaven die Existenz selbst innerhalb seiner Sklaverei zu sichern, weil sie gezwungen ist, ihn in eine Lage herabsinken zu lassen, wo sie ihn ernähren muß, statt von ihm ernährt zu werden.
+  en: It is unfit to rule because it is incompetent to assure an existence to its slave within his slavery, because it cannot help letting him sink into such a state, that it has to feed him, instead of being fed by him.
+  modern: It is unfit to rule because it cannot even guarantee its slave an existence within slavery. It cannot help letting them sink into a state where it has to feed them instead of being fed by them.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.56.3
+  kind: p
+  original: Die Gesellschaft kann nicht mehr unter ihr leben, d.h., ihr Leben ist nicht mehr verträglich mit der Gesellschaft.
+  en: Society can no longer live under this bourgeoisie, in other words, its existence is no longer compatible with society.
+  modern: Society can no longer live under the bourgeoisie. Its existence is no longer compatible with society's.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.57.1
+  kind: p
+  original: Die wesentliche Bedingung für die Existenz und für die Herrschaft der Bourgeoisklasse ist die Anhäufung des Reichtums in den Händen von Privaten, die Bildung und Vermehrung des Kapitals; die Bedingung des Kapitals ist die Lohnarbeit.
+  en: The essential conditions for the existence and for the sway of the bourgeois class is the formation and augmentation of capital; the condition for capital is wage-labour.
+  modern: The key condition for the bourgeois class to exist and to rule is the formation and accumulation of capital. The condition for capital is wage labor.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T31
+    editions: 1848, 1872, 1883
+    reading: wesentlichste
+    base_text: … Die wesentliche ‸ Bedingung für die Existenz …
+  mew_page: '473'
+- id: I.57.2
+  kind: p
+  original: Die Lohnarbeit beruht ausschließlich auf der Konkurrenz der Arbeiter unter sich.
+  en: Wage-labour rests exclusively on competition between the labourers.
+  modern: Wage labor rests entirely on competition between workers.
+  modern_status: seed
+  notes: ''
+  mew_page: '473'
+- id: I.57.3
+  kind: p
+  original: Der Fortschritt der Industrie, dessen willenloser und widerstandsloser Träger die Bourgeoisie ist, setzt an die Stelle der Isolierung der Arbeiter durch die Konkurrenz ihre revolutionäre Vereinigung durch die Assoziation.
+  en: The advance of industry, whose involuntary promoter is the bourgeoisie, replaces the isolation of the labourers, due to competition, by the revolutionary combination, due to association.
+  modern: The advance of industry, which the bourgeoisie carries forward without meaning to, replaces the isolation of workers caused by competition with their revolutionary combination through association.
+  modern_status: seed
+  notes: ''
+  mew_page: 473-474
+- id: I.57.4
+  kind: p
+  original: Mit der Entwicklung der großen Industrie wird also unter den Füßen der Bourgeoisie die Grundlage selbst hinweggezogen, worauf sie produziert und die Produkte sich aneignet.
+  en: The development of Modern Industry, therefore, cuts from under its feet the very foundation on which the bourgeoisie produces and appropriates products.
+  modern: So the development of Modern Industry cuts out the very ground the bourgeoisie stands on as it produces and takes possession.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T32
+    editions: 1848, 1872
+    reading: weggezogen
+    base_text: … die Grundlage selbst hinweggezogen ‸ , worauf sie produziert …
+  mew_page: '474'
+- id: I.57.5
+  kind: p
+  original: Sie produziert vor allem ihren eigenen Totengräber.
+  en: What the bourgeoisie therefore produces, above all, are its own grave-diggers.
+  modern: What the bourgeoisie produces, above all, is its own grave-diggers.
+  modern_status: seed
+  notes: ''
+  variants:
+  - ref: T33
+    editions: 1848, 1872
+    reading: ihre
+    base_text: … produziert vor allem ihren ‸ eigenen Totengräber. …
+  mew_page: '474'
+- id: I.57.6
+  kind: p
+  original: Ihr Untergang und der Sieg des Proletariats sind gleich unvermeidlich.
+  en: Its fall and the victory of the proletariat are equally inevitable.
+  modern: Its fall and the victory of the proletariat are equally inevitable.
+  modern_status: seed
+  notes: ''
+  mew_page: '474'

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The Communist Manifesto, verse by verse</title>
+<title>Modern Classics Library, verse by verse</title>
 <style>
   :root {
     --paper: #f7f3ec; --ink: #1d1b19; --muted: #6b645c; --rule: #ddd5c8;
@@ -21,7 +21,7 @@
   .bar { max-width: 1280px; margin: 0 auto; padding: 10px 16px; display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
   .brand { font-family: var(--sans); font-weight: 700; letter-spacing: .02em; margin-right: auto; font-size: 15px; }
   .brand span { color: var(--accent); }
-  select { max-width: 280px; }
+  select { max-width: 240px; }
   select, input[type=search] { font: 14px var(--sans); color: var(--ink); background: transparent; border: 1px solid var(--rule); border-radius: 6px; padding: 6px 8px; }
   input[type=search] { width: 180px; }
   .chips { display: flex; gap: 6px; flex-wrap: wrap; font-family: var(--sans); font-size: 13px; }
@@ -76,43 +76,51 @@
 <body>
 <header>
   <div class="bar">
-    <div class="brand">Manifesto <span>verse by verse</span></div>
+    <div class="brand">Classics <span>verse by verse</span></div>
+    <select id="work" aria-label="Work"></select>
     <select id="sec" aria-label="Section"></select>
     <div class="chips" id="chips"></div>
-    <input type="search" id="q" placeholder="Search all three columns" aria-label="Search">
+    <input type="search" id="q" placeholder="Search this work" aria-label="Search">
   </div>
 </header>
 <main id="main"></main>
-<footer>Generated from the YAML verse files by <code>scripts/build.py</code>. Cite verses as <i>CM I.12.3</i>; link one as <i>#I-12-3</i>. German: MEW via mlwerke.de. English: 1888 Moore/Engels, Marxists Internet Archive transcription. Modern column: community draft, CC BY-SA 4.0.</footer>
+<footer>Generated from the YAML verse files by <code>scripts/build.py</code>. Cite verses as <i>CM I.12.3</i> or <i>WLC II.4.2</i>; link one as <i>#CM-I-12-3</i>. Sources and licences for each work are in its SOURCES.md. Modern column: community draft, CC BY-SA 4.0.</footer>
 <script>
 const DATA = /*__DATA__*/[];
 const COLS = [
-  {key: "de", label: "German", on: true},
+  {key: "original", label: "Original", on: true},
   {key: "en", label: "English", on: true},
   {key: "modern", label: "Modern draft", on: true},
   {key: "notes", label: "Notes", on: false},
 ];
-const byId = {};
-DATA.forEach((s, si) => s.verses.forEach(v => { byId[v.id] = si; }));
 const $ = s => document.querySelector(s);
-const hid = id => String(id).replace(/\./g, "-");   // URL-safe hash form: I.23.2 -> #I-23-2
 const esc = s => (s || "").replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+// URL-safe hash: CM I.23.2 -> #CM-I-23-2
+const hid = (w, id) => w.prefix + "-" + String(id).replace(/\./g, "-");
+const index = {};   // "CM|I.23.2" -> [work index, section index]
+DATA.forEach((w, wi) => w.sections.forEach((s, si) => s.verses.forEach(v => { index[w.prefix + "|" + v.id] = [wi, si]; })));
+let cur = {w: 0, s: 0};
 
 function secLabel(s) {
-  if (s.section.startsWith("P")) return "Preface " + s.section.slice(1);
+  if (/^P\d{4}$/.test(s.section)) return (s.title_en.match(/^Introduction/i) ? "Introduction " : "Preface ") + s.section.slice(1);
   if (s.section === "0") return "Preamble";
-  if (s.section === "N") return "Notes by Engels";
+  if (s.section === "N") return "Author's notes";
   return s.section + ". " + s.title_en;
 }
-const sel = $("#sec");
-DATA.forEach((s, i) => { const o = document.createElement("option"); o.value = i; o.textContent = secLabel(s); sel.appendChild(o); });
-sel.onchange = () => { location.hash = hid(DATA[sel.value].verses[0].id); };
+const wsel = $("#work"), sel = $("#sec");
+DATA.forEach((w, i) => { const o = document.createElement("option"); o.value = i; o.textContent = `${w.prefix} · ${w.title}`; wsel.appendChild(o); });
+function fillSections(wi) {
+  sel.innerHTML = "";
+  DATA[wi].sections.forEach((s, i) => { const o = document.createElement("option"); o.value = i; o.textContent = secLabel(s); sel.appendChild(o); });
+}
+wsel.onchange = () => { const w = DATA[wsel.value]; location.hash = hid(w, w.sections[0].verses[0].id); };
+sel.onchange = () => { const w = DATA[wsel.value]; location.hash = hid(w, w.sections[sel.value].verses[0].id); };
 
 const chips = $("#chips");
 COLS.forEach(c => {
   const b = document.createElement("span");
   b.className = "chip" + (c.on ? " on" : ""); b.textContent = c.label;
-  b.onclick = () => { c.on = !c.on; b.classList.toggle("on", c.on); render(+sel.value, null); };
+  b.onclick = () => { c.on = !c.on; b.classList.toggle("on", c.on); render(cur.w, cur.s, null); };
   chips.appendChild(b);
 });
 
@@ -122,33 +130,33 @@ function groups(verses) {
   return out;
 }
 
-function fnLinks(v) {
+function colLabel(col, w, s) {
+  if (col.key === "en" && s.en_label) return s.en_label;
+  return (w.columns && w.columns[col.key]) || col.label;
+}
+
+function fnLinks(w, v) {
   return (v.footnotes || []).map(n => {
-    const target = Object.keys(byId).find(id => id === n + ".1.1" || id.startsWith(n + "."));
-    return target ? `<a class="fn" href="#${hid(target)}" title="Note by Engels">${esc(n)}</a>` : "";
+    const target = Object.keys(index).find(k => k === w.prefix + "|" + n + ".1.1") || Object.keys(index).find(k => k.startsWith(w.prefix + "|" + n + "."));
+    return target ? `<a class="fn" href="#${hid(w, target.split("|")[1])}" title="Note">${esc(n)}</a>` : "";
   }).join("");
 }
 
-function colLabel(col, s) {
-  if (col.key !== "en") return col.label;
-  return s.section.startsWith("P") && s.section !== "P1888" ? "English (later translation)" : "English 1888";
-}
-
-function cellFor(col, g, s) {
+function cellFor(col, g, w, s) {
   const head = g[0];
-  const lbl = `<span class="lbl">${colLabel(col, s)}</span>`;
-  if (col.key === "de") {
+  const lbl = `<span class="lbl">${esc(colLabel(col, w, s))}</span>`;
+  if (col.key === "original") {
     const lines = g.map(v => {
       const sub = g.length > 1 ? `<span class="sub">${esc(v.id.split(".").slice(-2).join("."))}</span>` : "";
-      const txt = v.de ? `<span class="${v.kind}">${esc(v.de)}</span>` : `<span class="empty">no German text</span>`;
-      const vars = (v.de_variants || []).map(x => `<div class="extra"><b>${esc(x.ref)}</b> ${esc(x.editions)}: ${esc(x.reading)} <i>at</i> “${esc(x.base_text)}”</div>`).join("");
-      return `<span class="ln">${sub}${txt}${fnLinks(v)}</span>${vars}`;
+      const txt = v.original ? `<span class="${v.kind}">${esc(v.original)}</span>` : `<span class="empty">no text in this column</span>`;
+      const vars = (v.variants || []).map(x => `<div class="extra"><b>${esc(x.ref)}</b> ${esc(x.editions)}: ${esc(x.reading)} <i>at</i> ${esc(x.base_text)}</div>`).join("");
+      return `<span class="ln">${sub}${txt}${fnLinks(w, v)}</span>${vars}`;
     }).join("");
     return `<div class="cell lines">${lbl}${lines}</div>`;
   }
   if (col.key === "en") {
     const t = head.en ? `<span class="${head.kind}">${esc(head.en)}</span>` : `<span class="empty">no English text in source</span>`;
-    const note = head.en_note ? `<div class="extra">${esc(head.en_note)}</div>` : "";
+    const note = g.map(v => v.en_note).filter(Boolean).map(n => `<div class="extra">${esc(n)}</div>`).join("");
     return `<div class="cell">${lbl}${t}${note}</div>`;
   }
   if (col.key === "modern") {
@@ -158,51 +166,59 @@ function cellFor(col, g, s) {
     return `<div class="cell">${lbl}${t}${rd}</div>`;
   }
   const bits = [];
-  g.forEach(v => { if (v.notes) bits.push(esc(v.notes)); if (v.note_edition) bits.push(`<i>${esc(v.note_edition)}</i>`); if (v.mew_page) bits.push(`MEW p. ${esc(String(v.mew_page))}`); });
+  g.forEach(v => { if (v.notes) bits.push(esc(v.notes)); if (v.note_edition) bits.push(`<i>${esc(v.note_edition)}</i>`); if (v.mew_page) bits.push(`MEW p. ${esc(String(v.mew_page))}`); if (v.discussion) bits.push(`<a href="${esc(v.discussion)}">discussion</a>`); });
   return `<div class="cell extra">${lbl}${bits.join("<br>")}</div>`;
 }
 
-function render(si, focusId) {
-  sel.value = si;
-  const s = DATA[si];
+function render(wi, si, focusId) {
+  if (wsel.value != wi || sel.options.length === 0 || cur.w !== wi) fillSections(wi);
+  cur = {w: wi, s: si};
+  wsel.value = wi; sel.value = si;
+  const w = DATA[wi], s = w.sections[si];
   const cols = COLS.filter(c => c.on);
-  const warn = s.original_language !== "de" && s.original_language !== "de (1888 notes) / de (1890 notes)"
-    ? `<div class="src warn">Original language: ${esc(s.original_language)}. Verse boundaries follow the ${s.anchor === "en" ? "English" : "German"} column.</div>` : "";
-  let h = `<div class="sechead"><h1>${esc(s.title_en)}</h1><div class="de">${esc(s.title_de)}</div>
-    <div class="src">German: ${esc(s.source_de)}<br>English: ${esc(s.source_en)}</div>${warn}</div>`;
-  h += `<div class="cols" style="--n:${cols.length}"><div class="colhead">Verse</div>${cols.map(c => `<div class="colhead">${colLabel(c, s)}</div>`).join("")}`;
+  const warn = s.anchor === "en" || /translation|^en|^fr/.test(s.original_language)
+    ? `<div class="src warn">Original language: ${esc(s.original_language)}. Verse boundaries follow the ${s.anchor === "en" ? "English" : "original-language"} column.</div>` : "";
+  let h = `<div class="sechead"><div class="src">${esc(w.prefix)} · ${esc(w.title)} (${esc(String(w.year))})</div><h1>${esc(s.title_en)}</h1><div class="de">${esc(s.title_original)}</div>
+    <div class="src">Original: ${esc(s.source_original)}<br>English: ${esc(s.source_en)}</div>${warn}</div>`;
+  h += `<div class="cols" style="--n:${cols.length}"><div class="colhead">Verse</div>${cols.map(c => `<div class="colhead">${esc(colLabel(c, w, s))}</div>`).join("")}`;
   groups(s.verses).forEach(g => {
-    const head = g[0];
     const flag = g.some(v => v.review) ? `<span class="flag" title="${esc(g.map(v => v.review_reason).filter(Boolean).join("; "))}">⚑</span>` : "";
-    const ids = g.map(v => `<a id="${esc(v.id)}" href="#${hid(v.id)}">${esc(v.id)}</a>`).join("");
-    h += `<div class="group"><div class="cell vid">${ids}${flag}</div>${cols.map(c => cellFor(c, g, s)).join("")}</div>`;
+    const ids = g.map(v => `<a id="${esc(hid(w, v.id))}" href="#${esc(hid(w, v.id))}">${esc(v.id)}</a>`).join("");
+    h += `<div class="group"><div class="cell vid">${ids}${flag}</div>${cols.map(c => cellFor(c, g, w, s)).join("")}</div>`;
   });
   h += `</div>`;
   $("#main").innerHTML = h;
   document.documentElement.style.setProperty("--hh", document.querySelector("header").offsetHeight + "px");
-  const first = s.verses[0].id;
-  const cur = focusId && document.getElementById(focusId); if (cur) cur.classList.add("cur");
-  if (focusId && focusId !== first) { if (cur) cur.scrollIntoView({block: "start"}); }
-  else window.scrollTo(0, 0);
+  const el = focusId && document.getElementById(focusId);
+  if (el) el.classList.add("cur");
+  if (el && focusId !== hid(w, s.verses[0].id)) el.scrollIntoView({block: "start"}); else window.scrollTo(0, 0);
 }
 
 function route() {
-  const id = decodeURIComponent(location.hash.slice(1)).replace(/-/g, ".");
-  if (id && id in byId) render(byId[id], id); else render(+sel.value || 0, null);
+  const raw = decodeURIComponent(location.hash.slice(1));
+  const m = raw.match(/^([A-Z]{2,6})-(.+)$/);
+  if (m) {
+    const key = m[1] + "|" + m[2].replace(/-/g, ".");
+    if (key in index) { const [wi, si] = index[key]; render(wi, si, raw); return; }
+    const wi = DATA.findIndex(w => w.prefix === m[1]);
+    if (wi >= 0) { render(wi, 0, null); return; }
+  }
+  render(cur.w, cur.s, null);
 }
 window.addEventListener("hashchange", route);
 
 $("#q").addEventListener("input", e => {
   const q = e.target.value.trim().toLowerCase();
   if (q.length < 3) { route(); return; }
-  const hits = [];
-  DATA.forEach(s => s.verses.forEach(v => {
-    const t = [v.de, v.en, v.modern].join("  ");
+  const w = DATA[cur.w], hits = [];
+  w.sections.forEach(s => s.verses.forEach(v => {
+    const t = [v.original, v.en, v.modern].join("  ");
     const i = t.toLowerCase().indexOf(q);
-    if (i >= 0) hits.push(`<a href="#${hid(v.id)}"><b>${esc(v.id)}</b>${esc(t.slice(Math.max(0, i - 50), i + 90))}</a>`);
+    if (i >= 0) hits.push(`<a href="#${hid(w, v.id)}"><b>${esc(w.prefix)} ${esc(v.id)}</b>${esc(t.slice(Math.max(0, i - 50), i + 90))}</a>`);
   }));
-  $("#main").innerHTML = `<div class="sechead"><h1>${hits.length} match${hits.length === 1 ? "" : "es"}</h1></div><div id="results">${hits.slice(0, 300).join("")}</div>`;
+  $("#main").innerHTML = `<div class="sechead"><h1>${hits.length} match${hits.length === 1 ? "" : "es"} in ${esc(w.prefix)}</h1></div><div id="results">${hits.slice(0, 300).join("")}</div>`;
 });
+fillSections(0);
 route();
 </script>
 </body>

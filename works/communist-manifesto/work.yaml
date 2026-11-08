@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: communist-manifesto
+prefix: CM                        # citation prefix: CM I.12.3
+title: Manifesto of the Communist Party
+title_original: Manifest der Kommunistischen Partei
+authors: [Karl Marx, Friedrich Engels]
+year: 1848
+original_language: de
+base_text: "German edition of 1890 (MEW 4), the last Engels saw through the press"
+order: 10                         # position in the library and the reader
+columns:
+  original: German (MEW, 1890 text)
+  en: English 1888 (Moore and Engels)
+  modern: Modern draft
+status: translating               # setting-up | translating | reviewing | released
+rights: Originals public domain. 1888 English public domain (MIA transcription CC BY-SA). Later preface translations unverified; see SOURCES.md.

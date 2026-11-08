@@ -1,0 +1,89 @@
+# Glossary of recurring and contested terms in Wage Labour and Capital (WLC).
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+# Terms shared with other works (Bourgeoisie, Proletariat, Aufhebung ...) are in works/communist-manifesto/glossary.yaml
+# until a shared library glossary is agreed.
+
+- term: Arbeit vs Arbeitskraft
+  de: Arbeit (1849) / Arbeitskraft (1891)
+  english_1902: labour / labour-power
+  literal: labour / the capacity to work
+  options: [labor-power, labor power, capacity to work, ability to work]
+  interim: labor-power
+  status: open
+  verses: [P1891.5.1, P1891.5.2, I.10.7, I.13.1, IV.9.1, IV.12.1]
+  note: The whole point of Engels's 1891 revision. In 1849 Marx wrote that the worker sells his labour; Engels changed it to labour-power about 30 times, and every change is recorded as a variant on its verse. Where Engels left "Arbeit" (IV.9.1, IV.12.1 "Geldpreis der Arbeit", "Preis der Arbeit"), the 1902 English still says labour-power. The modern draft should follow the German of 1891 and flag the 1849 reading in notes.
+
+- term: Bourgeois vs Kapitalist
+  de: Bourgeois (1849) / Kapitalist (1891)
+  english_1902: capitalist
+  literal: same
+  options: [capitalist, employer, owner]
+  interim: capitalist
+  status: open
+  verses: [I.8.2, I.9.6, I.11.2, I.11.4, I.15.7]
+  note: Another systematic 1891 change. "Employer" is clearer to a modern reader but loses the class meaning; prefer "capitalist" and save "employer" for the adaptation layer.
+
+- term: Arbeitslohn (nominell, reell, relativ)
+  de: nomineller, reeller, relativer Arbeitslohn
+  english_1902: nominal wages, real wages, relative wages
+  literal: same
+  options: [money wages, real wages, relative wages (share of the product)]
+  interim: nominal wages, real wages, relative wages, with a note on first use
+  status: open
+  verses: [IV.9.1, IV.10.1, IV.12.1, IV.14.1, IV.22.3]
+  note: The distinction carries the argument of instalment IV. "Relative wages" (the workers' share of what they produce) is the least familiar and needs a short gloss in the modern text itself, not only in notes.
+
+- term: Produktionskosten
+  de: Produktionskosten
+  english_1902: cost of production
+  literal: same
+  options: [cost of production, production costs]
+  interim: cost of production
+  status: interim
+  verses: [P1891.10.1, P1891.18.7, II.10.6]
+
+- term: aufgehäufte Arbeit
+  de: aufgehäufte Arbeit
+  english_1902: accumulated labour
+  literal: piled-up labour
+  options: [accumulated labor, stored-up labor, past labor]
+  interim: accumulated labor
+  status: open
+  verses: [III.1.2, III.15.1, III.16.1, IV.20.1]
+
+- term: Tauschwert
+  de: Tauschwert
+  english_1902: exchange value
+  literal: same
+  options: [exchange value]
+  interim: exchange value
+  status: interim
+  verses: [I.10.7, III.9.1, III.12.1]
+
+- term: Konkurrenz
+  de: Konkurrenz
+  english_1902: competition
+  literal: same
+  options: [competition]
+  interim: competition
+  status: decided
+  verses: [II.2.1, II.4.1, V.20.4]
+
+- term: Currency (Mark, Silbergroschen, Franc)
+  de: Mark (1891), Franc and Centime (1849 newspaper), Silbergroschen
+  english_1902: dollars (Lothrop); the MIA edition changed these to shillings and pounds
+  literal: the German units
+  options: [keep the German units with a note, convert to a modern currency]
+  interim: keep the German units in the translation; modern money belongs in the adaptation layer
+  status: interim
+  verses: [I.10.7, I.11.4, III.12.3, III.18.1]
+  note: The English column does not match the German amounts. Lothrop used dollars, MIA shillings, Engels Mark, the 1849 newspaper Franc (see the variants). Converting to 2026 dollars is exactly the kind of change that belongs in adaptations/, citing the verse.
+
+- term: Arbeiterhekatomben
+  de: ganze Arbeiterhekatomben
+  english_1902: whole hecatombs of workers
+  literal: mass sacrifices of workers
+  options: [hecatombs of workers, mass sacrifices of workers]
+  interim: hecatombs of workers, with a note
+  status: open
+  verses: [V.33.4]

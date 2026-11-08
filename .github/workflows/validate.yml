@@ -1,9 +1,10 @@
-name: validate and build
+name: validate
+
+# Every pull request: check the verse files and adaptations, and make sure the build still runs.
+# The rebuilt dist/ is uploaded as an artifact for reviewers; it is committed to main by publish.yml after merge.
 
 on:
   pull_request:
-  push:
-    branches: [main]
 
 permissions:
   contents: read
@@ -17,17 +18,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - name: Validate verse files
+      - name: Validate works and adaptations
         run: python scripts/validate.py
-      - name: Build reader, CSV, workbook and tables
+      - name: Build reader, CSV, workbooks and tables
         run: python scripts/build.py
-      - name: Fail if dist/ is out of date
-        if: github.event_name == 'pull_request'
-        run: |
-          git diff --quiet -- dist/ || {
-            echo "::warning::dist/ differs from the YAML. Run python scripts/build.py and commit, or let a maintainer rebuild on merge."
-          }
       - uses: actions/upload-artifact@v4
         with:
-          name: dist
+          name: dist-preview
           path: dist/

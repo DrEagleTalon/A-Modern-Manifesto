@@ -1,16 +1,16 @@
-title: "[VERSE] "
+title: "[WORK VERSE] "
 labels: ["interpretation"]
 body:
   - type: markdown
     attributes:
       value: |
-        Title the thread with the verse number, for example `[II.66.1] "in the hands of the State"`.
+        Title the thread with the work and verse, for example `[CM II.66.1] "in the hands of the State"`.
         The goal is not to win but to record the serious readings of a passage on the verse itself.
         Argue with positions, not people.
   - type: input
     id: verses
     attributes:
-      label: Verse number(s)
+      label: Work and verse number(s)
     validations:
       required: true
   - type: textarea
@@ -29,6 +29,6 @@ body:
     id: support
     attributes:
       label: Support
-      description: The German wording, other verses, other works by Marx or Engels, scholarship. Cite sources.
+      description: The original wording, other verses, other works in the library, scholarship. Cite sources.
     validations:
       required: true

@@ -1,0 +1,782 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: III
+title_original: Lohnarbeit und Kapital, Neue Rheinische Zeitung Nr. 266, 7. April 1849
+title_en: Instalment III (NRZ No. 266, 7 April 1849)
+author: Karl Marx
+date: 1849-04
+original_language: de
+anchor_language: de
+source_original: 'MEW 6, S. 397-423 (Dietz, Berlin) via mlwerke.de: text of Engels''s 1891 edition; 1849 newspaper readings attached as variants'
+source_en: Harriet E. Lothrop, Wage-Labor and Capital, New York Labor News Co., 1902 (public domain), in the Marxists Internet Archive edition (proofed by Alek Blain, 2006; CC BY-SA), which modernises some wording and currency
+verses:
+- id: III.0.1
+  kind: heading
+  original: '[III] Neue Rheinische Zeitung Nr. 266, 7. April 1849'
+  en: '[III] Neue Rheinische Zeitung No. 266, 7 April 1849'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: 'Editorial heading: the newspaper instalment. Not printed in the 1891 pamphlet.'
+- id: III.1.1
+  kind: p
+  original: Das Kapital besteht aus Rohstoffen, Arbeitsinstrumenten und Lebensmitteln aller Art, die verwandt werden, um neue Rohstoffe, neue Arbeitsinstrumente und neue Lebensmittel zu erzeugen.
+  en: Capital consists of raw materials, instruments of labour, and means of subsistence of all kinds, which are employed in producing new raw materials, new instruments, and new means of subsistence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T48
+    editions: 1849 (NRZ)
+    reading: 'vorangestellt: * Köln, 6. April'
+    base_text: ‸ Das Kapital besteht aus …
+  mew_page: '407'
+  en_note: 'Lothrop 1902, chapter 5: The Nature and Growth of Capital'
+- id: III.1.2
+  kind: p
+  original: Alle diese seine Bestandteile sind Geschöpfe der Arbeit, Produkte der Arbeit, aufgehäufte Arbeit.
+  en: All these components of capital are created by labour, products of labour, accumulated labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.1.3
+  kind: p
+  original: Aufgehäufte Arbeit, die als Mittel zu neuer Produktion dient, ist Kapital.
+  en: Accumulated labour that serves as a means to new production is capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.2.1
+  kind: p
+  original: So sagen die Ökonomen.
+  en: So say the economists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.3.1
+  kind: p
+  original: Was ist ein Negersklave?
+  en: What is a Negro slave?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.3.2
+  kind: p
+  original: Ein Mensch von der schwarzen Rasse.
+  en: A man of the black race.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.3.3
+  kind: p
+  original: Die eine Erklärung ist die andre wert.
+  en: The one explanation is worthy of the other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.4.1
+  kind: p
+  original: Ein Neger ist ein Neger.
+  en: A Negro is a Negro.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.4.2
+  kind: p
+  original: In bestimmten Verhältnissen wird er erst zum Sklaven.
+  en: Only under certain conditions does he become a slave.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.4.3
+  kind: p
+  original: Eine Baumwollspinnmaschine ist eine Maschine zum Baumwollspinnen.
+  en: A cotton-spinning machine is a machine for spinning cotton.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.4.4
+  kind: p
+  original: Nur in bestimmten Verhältnissen wird sie zu Kapital.
+  en: Only under certain conditions does it become capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.4.5
+  kind: p
+  original: Aus diesen Verhältnissen herausgerissen, ist sie so wenig Kapital, wie Gold an und für sich Geld oder der Zucker der Zuckerpreis ist.
+  en: Torn away from these conditions, it is as little capital as gold is itself money, or sugar is the price of sugar.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.5.1
+  kind: p
+  original: In der Produktion wirken die Menschen nicht allein auf die Natur, sondern auch aufeinander.
+  en: In the process of production, human beings work not only upon nature, but also upon one another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T49
+    editions: 1849 (NRZ)
+    reading: beziehen sich
+    base_text: … In der Produktion wirken ‸ die Menschen nicht allein …
+  - ref: T50
+    editions: 1849 (NRZ)
+    reading: 'fehlt: sondern auch aufeinander'
+    base_text: … Natur, sondern auch aufeinander ‸ . …
+  mew_page: '407'
+- id: III.5.2
+  kind: p
+  original: Sie produzieren nur, indem sie auf eine bestimmte Weise zusammenwirken und ihre Tätigkeiten gegeneinander austauschen.
+  en: They produce only by working together in a specified manner and reciprocally exchanging their activities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.5.3
+  kind: p
+  original: Um zu produzieren, treten sie in bestimmte Beziehungen und Verhältnisse zueinander, und nur innerhalb dieser gesellschaftlichen Beziehungen und Verhältnisse findet ihre Einwirkung auf die Natur, findet die Produktion statt.
+  en: In order to produce, they enter into definite connections and relations to one another, and only within these social connections and relations does their influence upon nature operate - i.e., does production take place.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T51
+    editions: 1849 (NRZ)
+    reading: ihre Beziehung zur
+    base_text: … ihre Einwirkung auf die ‸ Natur, findet die Produktion …
+  mew_page: '407'
+- id: III.6.1
+  kind: p
+  original: Je nach dem Charakter der Produktionsmittel werden natürlich diese gesellschaftlichen Verhältnisse, worin die Produzenten zueinander treten, die Bedingungen, unter welchen sie ihre Tätigkeiten austauschen und an dem Gesamtakt der Produktion teilnehmen, verschieden sein.
+  en: These social relations between the producers, and the conditions under which they exchange their activities and share in the total act of production, will naturally vary according to the character of the means of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: III.6.2
+  kind: p
+  original: Mit der Erfindung eines neuen Kriegsinstruments, des Feuergewehrs, änderte sich notwendig die ganze innere Organisation der Armee, verwandelten sich die Verhältnisse, innerhalb deren Individuen eine Armee bilden und als Armee wirken können, änderte sich auch das Verhältnis verschiedner Armeen zueinander.
+  en: With the discover of a new instrument of warfare, the firearm, the whole internal organization of the army was necessarily altered, the relations within which individuals compose an army and can work as an army were transformed, and the relation of different armies to another was likewise changed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 407-408
+- id: III.7.1
+  kind: p
+  original: Die gesellschaftlichen Verhältnisse, worin die Individuen produzieren, die gesellschaftlichen Produktionsverhältnisse ändern sich also, verwandeln sich mit der Veränderung und Entwicklung der materiellen Produktionsmittel, der Produktionskräfte.
+  en: We thus see that the social relations within which individuals produce, the social relations of production, are altered, transformed, with the change and development of the material means of production, of the forces of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.7.2
+  kind: p
+  original: Die Produktionsverhältnisse in ihrer Gesamtheit bilden das, was man die gesellschaftlichen Verhältnisse, die Gesellschaft nennt, und zwar eine Gesellschaft auf bestimmter, geschichtlicher Entwicklungsstufe, eine Gesellschaft mit eigentümlichem, unterscheidendem Charakter.
+  en: The relations of production in their totality constitute what is called the social relations, society, and, moreover, a society at a definite stage of historical development, a society with peculiar, distinctive characteristics.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.7.3
+  kind: p
+  original: Die antike Gesellschaft, die feudale Gesellschaft, die bürgerliche Gesellschaft sind solche Gesamtheiten von Produktionsverhältnissen, deren jede zugleich eine besondre Entwicklungsstufe in der Geschichte der Menschheit bezeichnet.
+  en: Ancient society, feudal society, bourgeois (or capitalist) society, are such totalities of relations of production, each of which denotes a particular stage of development in the history of mankind.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.8.1
+  kind: p
+  original: Auch das Kapital ist ein gesellschaftliches Produktionsverhältnis.
+  en: Capital also is a social relation of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.8.2
+  kind: p
+  original: Es ist ein bürgerliches Produktionsverhältnis, ein Produktionsverhältnis der bürgerlichen Gesellschaft.
+  en: It is a bourgeois relation of production, a relation of production of bourgeois society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.8.3
+  kind: p
+  original: Die Lebensmittel, die Arbeitsinstrumente, die Rohstoffe woraus das Kapital besteht, sind sie nicht unter gegebnen gesellschaftlichen Bedingungen, in bestimmten gesellschaftlichen Verhältnissen hervorgebracht und aufgehäuft worden?
+  en: The means of subsistence, the instruments of labour, the raw materials, of which capital consists - have they not been produced and accumulated under given social conditions, within definite special relations?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.8.4
+  kind: p
+  original: Werden sie nicht unter gegebnen gesellschaftlichen Bedingungen, in bestimmten gesellschaftlichen Verhältnissen zu neuer Produktion verwandt?
+  en: Are they not employed for new production, under given special conditions, within definite social relations?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.8.5
+  kind: p
+  original: Und macht nicht eben dieser bestimmte gesellschaftliche Charakter die zu neuer Produktion dienenden Produkte zu Kapital?
+  en: And does not just the definite social character stamp the products which serve for new production as capital?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.9.1
+  kind: p
+  original: Das Kapital besteht nicht nur aus Lebensmitteln, Arbeitsinstrumenten und Rohstoffen, nicht nur aus materiellen Produkten; es besteht ebensosehr aus Tauschwerten.
+  en: Capital consists not only of means of subsistence, instruments of labour, and raw materials, not only as material products; it consists just as much of exchange values.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.9.2
+  kind: p
+  original: Alle Produkte, woraus es besteht, sind Waren.
+  en: All products of which it consists are commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.9.3
+  kind: p
+  original: Das Kapital ist also nicht nur eine Summe von materiellen Produkten, es ist eine Summe von Waren, von Tauschwerten, von gesellschaftlichen Größen.
+  en: Capital, consequently, is not only a sum of material products, it is a sum of commodities, of exchange values, of social magnitudes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.10.1
+  kind: p
+  original: Das Kapital bleibt dasselbe, ob wir an die Stelle von Wolle Baumwolle, an die Stelle von Getreide Reis, an die Stelle von Eisenbahnen Dampfschiffe setzen, vorausgesetzt nur, daß die Baumwolle, der Reis, die Dampfschiffe - der Leib des Kapitals - denselben Tauschwert haben, denselben Preis wie die Wolle, das Getreide, die Eisenbahnen, worin es sich vorher verkörperte.
+  en: Capital remains the same whether we put cotton in the place of wool, rice in the place of wheat, steamships in the place of railroads, provided only that the cotton, the rice, the steamships - the body of capital - have the same exchange value, the same price, as the wool, the wheat, the railroads, in which it was previously embodied.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.10.2
+  kind: p
+  original: Der Körper des Kapitals kann sich beständig verwandeln, ohne daß das Kapital die geringste Veränderung erlitte.
+  en: The bodily form of capital may transform itself continually, while capital does not suffer the least alteration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.11.1
+  kind: p
+  original: Aber wenn jedes Kapital eine Summe von Waren, d.h. von Tauschwerten ist, so ist noch nicht jede Summe von Waren, von Tauschwerten Kapital.
+  en: But though every capital is a sum of commodities - i.e., of exchange values - it does not follow that every sum of commodities, of exchange values, is capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: III.12.1
+  kind: p
+  original: Jede Summe von Tauschwerten ist ein Tauschwert.
+  en: Every sum of exchange values is an exchange value.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.12.2
+  kind: p
+  original: Jeder einzelne Tauschwert ist eine Summe von Tauschwerten.
+  en: Each particular exchange value is a sum of exchange values.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.12.3
+  kind: p
+  original: Z.B. ein Haus, das 1.000 Mark wert ist, ist ein Tauschwert von 1.000 Mark.
+  en: 'For example: a house worth 1,000 pounds is an exchange value of 1,000 pounds: a piece of paper worth one penny is a sum of exchange values of 100 1/100ths of a penny.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: III.12.4
+  kind: p
+  original: Ein Stück Papier, das 1 Pfennig wert ist, ist eine Summe von Tauschwerten von 100 / 100 Pfennigen.
+  en: ''
+  joined_to: III.12.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  variants:
+  - ref: T52
+    editions: 1849 (NRZ)
+    reading: 'hier und im folgenden: Centime'
+    base_text: … Papier, das 1 Pfennig ‸ wert ist, ist eine …
+  mew_page: '409'
+- id: III.12.5
+  kind: p
+  original: Produkte, die gegen andre austauschbar sind, sind Waren.
+  en: Products which are exchangeable for others are commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.12.6
+  kind: p
+  original: Das bestimmte Verhältnis, worin sie austauschbar sind, bildet ihren Tauschwert oder, in Geld ausgedrückt, ihren Preis.
+  en: The definite proportion in which they are exchangeable forms their exchange value, or, expressed in money, their price.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.12.7
+  kind: p
+  original: Die Masse dieser Produkte kann an ihrer Bestimmung, Ware zu sein oder einen Tauschwert darzustellen oder einen bestimmten Preis zu haben, nichts ändern.
+  en: The quantity of these products can have no effect on their character as commodities, as representing an exchange value, as having a certain price.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.12.8
+  kind: p
+  original: Ob ein Baum groß oder klein ist, er bleibt Baum.
+  en: Whether a tree be large or small, it remains a tree.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.12.9
+  kind: p
+  original: 'Ob wir das Eisen in Loten oder in Zentnern gegen andre Produkte austauschen, verändert dies seinen Charakter: Ware, Tauschwert zu sein?'
+  en: 'Whether we exchange iron in pennyweights or in hundredweights, for other products, does this alter its character: its being a commodity, or exchange value?'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.12.10
+  kind: p
+  original: Je nach der Masse ist es eine Ware von mehr oder minder Wert, von höhrem oder niedrigrem Preise.
+  en: According to the quantity, it is a commodity of greater or of lesser value, of higher or of lower price.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.13.1
+  kind: p
+  original: Wie nun wird eine Summe von Waren, von Tauschwerten zu Kapital?
+  en: How then does a sum of commodities, of exchange values, become capital?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.14.1
+  kind: p
+  original: Dadurch, daß sie als selbständige gesellschaftliche Macht, d.h. als die Macht eines Teils der Gesellschaft sich erhält und vermehrt durch den Austausch gegen die unmittelbare, lebendige Arbeitskraft.
+  en: Thereby, that as an independent social power - i.e., as the power of a part of society - it preserves itself and multiplies by exchange with direct, living labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T53
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … die unmittelbare, lebendige Arbeitskraft ‸ . …
+  mew_page: '409'
+- id: III.14.2
+  kind: p
+  original: Die Existenz einer Klasse, die nichts besitzt als die Arbeitsfähigkeit, ist eine notwendige Voraussetzung des Kapitals.
+  en: The existence of a class which possesses nothing but the ability to work is a necessary presupposition of capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.15.1
+  kind: p
+  original: Die Herrschaft der aufgehäuften, vergangnen, vergegenständlichten Arbeit über die unmittelbare, lebendige Arbeit macht die aufgehäufte Arbeit erst zum Kapital.
+  en: It is only the dominion of past, accumulated, materialized labour over immediate living labour that stamps the accumulated labour with the character of capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.16.1
+  kind: p
+  original: Das Kapital besteht nicht darin, daß aufgehäufte Arbeit der lebendigen Arbeit als Mittel zu neuer Produktion dient.
+  en: Capital does not consist in the fact that accumulated labour serves living labour as a means for new production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.16.2
+  kind: p
+  original: Es besteht darin, daß die lebendige Arbeit der aufgehäuften Arbeit als Mittel dient, ihren Tauschwert zu erhalten und zu vermehren.
+  en: It consists in the fact that living labour serves accumulated labour as the means of preserving and multiplying its exchange value.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.17.1
+  kind: p
+  original: Was geht vor in dem Austausch zwischen Kapitalist und Lohnarbeiter?
+  en: What is it that takes place in the exchange between the capitalist and the wage-labourer?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T54
+    editions: 1849 (NRZ)
+    reading: Kapital
+    base_text: … dem Austausch zwischen Kapitalist ‸ und Lohnarbeiter? …
+  - ref: T55
+    editions: 1849 (NRZ)
+    reading: Lohnarbeit
+    base_text: … zwischen Kapitalist und Lohnarbeiter ‸ ? …
+  mew_page: '409'
+  en_note: 'Lothrop 1902, chapter 6: Relation of Wage-Labour to Capital'
+- id: III.17.2
+  kind: p
+  original: Der Arbeiter erhält im Austausch gegen seine Arbeitskraft Lebensmittel, aber der Kapitalist erhält im Austausch gegen seine Lebensmittel Arbeit, die produktive Tätigkeit des Arbeiters, die schöpferische Kraft, wodurch der Arbeiter nicht nur ersetzt, was er verzehrt, sondern der aufgehäuften Arbeit einen größern Wert gibt, als sie vorher besaß.
+  en: The labourer receives means of subsistence in exchange for his labour-power; the capitalist receives, in exchange for his means of subsistence, labour, the productive activity of the labourer, the creative force by which the worker not only replaces what he consumes, but also gives to the accumulated labour a greater value than it previously possessed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T56
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Austausch gegen seine Arbeitskraft ‸ Lebensmittel, aber der Kapitalist …
+  mew_page: '409'
+- id: III.17.3
+  kind: p
+  original: Der Arbeiter empfängt einen Teil der vorhandnen Lebensmittel vom Kapitalisten.
+  en: The labourer gets from the capitalist a portion of the existing means of subsistence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.17.4
+  kind: p
+  original: Wozu dienen ihm diese Lebensmittel?
+  en: For what purpose do these means of subsistence serve him?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.17.5
+  kind: p
+  original: Zur unmittelbaren Konsumtion.
+  en: For immediate consumption.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: III.17.6
+  kind: p
+  original: Sobald ich aber Lebensmittel konsumiere, gehen sie mir unwiederbringlich verloren, es sei denn, daß ich die Zeit, während welcher mich diese Mittel am Leben erhalten, benutze, um neue Lebensmittel zu produzieren, um während des Verzehrens an die Stelle der in der Konsumtion untergehenden Werte neue Werte durch meine Arbeit zu schaffen.
+  en: But as soon as I consume means of subsistence, they are irrevocably lost to me, unless I employ the time during which these means sustain my life in producing new means of subsistence, in creating by my labour new values in place of the values lost in consumption.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 409-410
+- id: III.17.7
+  kind: p
+  original: Aber eben diese reproduktive edle Kraft tritt der Arbeiter ja ab an das Kapital im Austausch gegen empfangne Lebensmittel.
+  en: But it is just this noble reproductive power that the labourer surrenders to the capitalist in exchange for means of subsistence received.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: III.17.8
+  kind: p
+  original: Er hat sie also für sich selbst verloren.
+  en: ''
+  joined_to: III.17.7
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '410'
+- id: III.18.1
+  kind: p
+  original: 'Nehmen wir ein Beispiel: Ein Pächter gibt seinem Taglöhner 5 Silbergroschen per Tag.'
+  en: Consequently, he has lost it for himself. Let us take an example.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.18.2
+  kind: p
+  original: Für die 5 Silbergroschen arbeitet dieser auf dem Felde des Pächters den Tag hindurch und sichert ihm so eine Einnahme von 10 Silbergroschen.
+  en: For one shilling a labourer works all day long in the fields of a farmer, to whom he thus secures a return of two shillings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.18.3
+  kind: p
+  original: Der Pächter erhält nicht nur die Werte ersetzt, die er an den Taglöhner abzutreten hat; er verdoppelt sie.
+  en: The farmer not only receives the replaced value which he has given to the day labourer, he has doubled it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.18.4
+  kind: p
+  original: Er hat also die 5 Silbergroschen, die er dem Taglöhner gab, auf eine fruchtbare, produktive Weise angewandt, konsumiert.
+  en: Therefore, he has consumed the one shilling that he gave to the day labourer in a fruitful, productive manner.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.18.5
+  kind: p
+  original: Er hat für die 5 Silbergroschen eben die Arbeit und Kraft des Taglöhners gekauft, welche Bodenprodukte von doppeltem Wert erzeugt und aus 5 Silbergroschen 10 Silbergroschen macht.
+  en: For the one shilling he has bought the labour-power of the day-labourer, which creates products of the soil of twice the value, and out of one shilling makes two.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.18.6
+  kind: p
+  original: Der Taglöhner dagegen erhält an der Stelle seiner Produktivkraft, deren Wirkungen er eben dem Pächter abgetreten hat, 5 Silbergroschen, die er gegen Lebensmittel austauscht, welche Lebensmittel er rascher oder langsamer konsumiert.
+  en: The day-labourer, on the contrary, receives in the place of his productive force, whose results he has just surrendered to the farmer, one shilling, which he exchanges for means of subsistence, which he consumes more or less quickly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.18.7
+  kind: p
+  original: Die 5 Silbergroschen sind also auf eine doppelte Weise konsumiert worden, reproduktiv für das Kapital, denn sie sind gegen eine Arbeitskraft ausgetauscht worden, die 10 Silbergroschen hervorbrachte, unproduktiv für den Arbeiter, denn sie sind gegen Lebensmittel ausgetauscht worden, die für immer verschwunden sind und deren Wert er nur wieder erhalten kann, indem er denselben Tausch mit dem Pächter wiederholt.
+  en: The one shilling has therefore been consumed in a double manner - reproductively for the capitalist, for it has been exchanged for labour-power, which brought forth two shillings; unproductively for the worker, for it has been exchanged for means of subsistence which are lost for ever, and whose value he can obtain again only by repeating the same exchange with the farmer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.18.8
+  kind: p
+  original: Das Kapital setzt also die Lohnarbeit, die Lohnarbeit setzt das Kapital voraus.
+  en: Capital therefore presupposes wage-labour; wage-labour presupposes capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.18.9
+  kind: p
+  original: Sie bedingen sich wechselseitig; sie bringen sich wechselseitig hervor.
+  en: They condition each other; each brings the other into existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.19.1
+  kind: p
+  original: Ein Arbeiter in einer Baumwollfabrik, produziert er nur Baumwollstoffe?
+  en: Does a worker in a cotton factory produce only cotton?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.19.2
+  kind: p
+  original: Nein, er produziert Kapital.
+  en: No. He produces capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.19.3
+  kind: p
+  original: Er produziert Werte, die von neuem dazu dienen, seine Arbeit zu kommandieren und vermittelst derselben neue Werte zu schaffen.
+  en: He produces values which serve anew to command his work and to create by means of it new values.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T57
+    editions: 1849 (NRZ)
+    reading: um
+    base_text: … Arbeit zu kommandieren und ‸ vermittelst derselben neue Werte …
+  mew_page: '410'
+- id: III.20.1
+  kind: p
+  original: Das Kapital kann sich nur vermehren, indem es sich gegen Arbeitskraft austauscht, indem es Lohnarbeit ins Leben ruft.
+  en: Capital can multiply itself only by exchanging itself for labour-power, by calling wage-labour into life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T58
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … es sich gegen Arbeitskraft ‸ austauscht, indem es Lohnarbeit …
+  mew_page: '410'
+- id: III.20.2
+  kind: p
+  original: Die Arbeitskraft des Lohnarbeiters kann sich nur gegen Kapital austauschen, indem sie das Kapital vermehrt, indem sie die Macht verstärkt, deren Sklavin sie ist.
+  en: The labour-power of the wage-labourer can exchange itself for capital only by increasing capital, by strengthening that very power whose slave it is.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T59
+    editions: 1849 (NRZ)
+    reading: Die Lohnarbeit
+    base_text: … Die Arbeitskraft des Lohnarbeiters ‸ kann sich nur gegen …
+  mew_page: '410'
+- id: III.20.3
+  kind: p
+  original: Vermehrung des Kapitals ist daher Vermehrung des Proletariats, d.h. der Arbeiterklasse.
+  en: Increase of capital, therefore, is increase of the proletariat, i.e., of the working class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T60
+    editions: 1849 (NRZ)
+    reading: Arbeiterklassen
+    base_text: … Proletariats, d.h. der Arbeiterklasse ‸ . …
+  mew_page: '410'
+- id: III.21.1
+  kind: p
+  original: Das Interesse des Kapitalisten und des Arbeiters ist also dasselbe, behaupten die Bourgeois und ihre Ökonomen.
+  en: And so, the bourgeoisie and its economists maintain that the interest of the capitalist and of the labourer is the same.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.21.2
+  kind: p
+  original: Und in der Tat!
+  en: And in fact, so they are!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: III.21.3
+  kind: p
+  original: Der Arbeiter geht zugrunde, wenn ihn das Kapital nicht beschäftigt.
+  en: The worker perishes if capital does not keep him busy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 410-411
+- id: III.21.4
+  kind: p
+  original: Das Kapital geht zu grunde, wenn es die Arbeitskraft nicht ausbeutet, und um sie auszubeuten, muß es sie kaufen.
+  en: Capital perishes if it does not exploit labour-power, which, in order to exploit, it must buy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T61
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … wenn es die Arbeitskraft ‸ nicht ausbeutet, und um …
+  mew_page: '411'
+- id: III.21.5
+  kind: p
+  original: Je rascher sich das zur Produktion bestimmte Kapital, das produktive Kapital, vermehrt, je blühender daher die Industrie ist, je mehr sich die Bourgeoisie bereichert, je besser das Geschäft geht, um so mehr Arbeiter braucht der Kapitalist, um so teurer verkauft sich der Arbeiter.
+  en: The more quickly the capital destined for production - the productive capital - increases, the more prosperous industry is, the more the bourgeoisie enriches itself, the better business gets, so many more workers does the capitalist need, so much the dearer does the worker sell himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: III.22.1
+  kind: p
+  original: Die unerläßliche Bedingung für eine passable Lage des Arbeiters ist also möglichst rasches Wachsen des produktiven Kapitals.
+  en: The fastest possible growth of productive capital is, therefore, the indispensable condition for a tolerable life to the labourer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: III.23.1
+  kind: p
+  original: Aber was ist Wachstum des produktiven Kapitals?
+  en: But what is growth of productive capital?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: III.23.2
+  kind: p
+  original: Wachstum der Macht der aufgehäuften Arbeit über die lebendige Arbeit.
+  en: Growth of the power of accumulated labour over living labour; growth of the rule of the bourgeoisie over the working class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: III.23.3
+  kind: p
+  original: Wachstum der Herrschaft der Bourgeoisie über die arbeitende Klasse.
+  en: ''
+  joined_to: III.23.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '411'
+- id: III.23.4
+  kind: p
+  original: Wenn die Lohnarbeit den sie beherrschenden fremden Reichtum, die ihr feindselige Macht, das Kapital, produziert, strömen ihr Beschäftigungs-, d.h. Lebensmittel von derselben zurück, unter der Bedingung, daß sie sich von neuem zu einem Teil des Kapitals macht, zum Hebel, der von neuem dasselbe in eine beschleunigte Bewegung des Anwachsens schleudert.
+  en: When wage-labour produces the alien wealth dominating it, the power hostile to it, capital, there flow back to it its means of employment - i.e., its means of subsistence, under the condition that it again become a part of capital, that is become again the lever whereby capital is to be forced into an accelerated expansive movement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: III.24.1
+  kind: p
+  original: 'Die Interessen des Kapitals und die Interessen der Arbeiter sind dieselben, heißt nur: Kapital und Lohnarbeit sind zwei Seiten eines und desselben Verhältnisses.'
+  en: 'To say that the interests of capital and the interests of the workers are identical, signifies only this: that capital and wage-labour are two sides of one and the same relation.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T61
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: '… die Interessen der Arbeiter ‸ sind dieselben, heißt nur: …'
+  mew_page: '411'
+- id: III.24.2
+  kind: p
+  original: Die eine bedingt die andre, wie der Wucherer und Verschwender sich wechselseitig bedingen.
+  en: The one conditions the other in the same way that the usurer and the borrower condition each other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: III.25.1
+  kind: p
+  original: Solange der Lohnarbeiter Lohnarbeiter ist, hängt sein Los vom Kapital ab.
+  en: As long as the wage-labourer remains a wage-labourer, his lot is dependent upon capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: III.25.2
+  kind: p
+  original: Das ist die vielgerühmte Gemeinsamkeit des Interesses von Arbeiter und Kapitalist.
+  en: That is what the boasted community of interests between worker and capitalists amounts to.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
