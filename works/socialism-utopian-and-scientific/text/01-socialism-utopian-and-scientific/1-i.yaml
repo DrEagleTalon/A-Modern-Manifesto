@@ -1,0 +1,1401 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: I
+title_original: I
+title_en: I
+author: Friedrich Engels
+date: 1880-01/03; revised 1882 and 1891
+original_language: de
+anchor_language: de
+source_original: MEW 19, S. 177-228 (Dietz, Berlin) via mlwerke.de; text of the fourth German edition (1891)
+source_en: Edward Aveling's authorised translation (London 1892), Charles H. Kerr reprint (Chicago 1908), Project Gutenberg ebook 39257 (public domain)
+verses:
+- id: I.0.1
+  kind: heading
+  original: I
+  en: I
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.1.1
+  kind: p
+  original: Der moderne Sozialismus ist seinem Inhalte nach zunächst das Erzeugnis der Anschauung, einerseits der in der heutigen Gesellschaft herrschenden Klassengegensätze von Besitzenden und Besitzlosen, Kapitalisten und Lohnarbeitern, andrerseits der in der Produktion herrschenden Anarchie.
+  en: Modern Socialism is, in its essence, the direct product of the recognition, on the one hand, of the class antagonisms, existing in the society of to-day, between proprietors and non-proprietors, between capitalists and wage-workers; on the other hand, of the anarchy existing in production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: I.1.2
+  kind: p
+  original: Aber seiner theoretischen Form nach erscheint er anfänglich als eine weitergetriebne, angeblich konsequentere Fortführung der von den großen französischen Aufklärern des 18. Jahrhunderts aufgestellten Grundsätze.
+  en: But, in its theoretical form, modern Socialism originally appears ostensibly as a more logical extension of the principles laid down by the great French philosophers of the eighteenth century.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: I.1.3
+  kind: p
+  original: Wie jede neue Theorie, mußte er zunächst anknüpfen an das vorgefundne Gedankenmaterial, sosehr auch seine Wurzel in den materiellen ökonomischen Tatsachen lag.
+  en: Like every new theory, modern Socialism had, at first, to connect itself with the intellectual stock-in-trade ready to its hand, however deeply its roots lay in material economic facts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: I.2.1
+  kind: p
+  original: Die großen Männer, die in Frankreich die Köpfe für die kommende Revolution klärten, traten selbst äußerst revolutionär auf.
+  en: The great men, who in France prepared men's minds for the coming revolution, were themselves extreme revolutionists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: I.2.2
+  kind: p
+  original: Sie erkannten keine äußere Autorität an, welcher Art sie auch sei.
+  en: They recognized no external authority of any kind whatever.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: I.2.3
+  kind: p
+  original: Religion, Naturanschauung, Gesellschaft, Staatsordnung, alles wurde der schonungslosesten Kritik unterworfen; alles sollte sein Dasein vor dem Richterstuhl der Vernunft rechtfertigen oder aufs Dasein verzichten.
+  en: Religion, natural science, society, political institutions, everything, was subjected to the most unsparing criticism; everything must justify its existence before the judgment-seat of reason, or give up existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: I.2.4
+  kind: p
+  original: Der denkende Verstand wurde als alleiniger Maßstab an alles angelegt.
+  en: Reason became the sole measure of everything.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: I.2.5
+  kind: p
+  original: Es war die Zeit, wo, wie Hegel sagt, die Welt auf den Kopf gestellt wurde, zuerst in dem Sinn, daß der menschliche Kopf und die durch sein Denken gefundnen Sätze den Anspruch machten, als Grundlage aller menschlichen Handlung und Vergesellschaftung zu gelten; dann aber später auch in dem weitern Sinn, daß die Wirklichkeit, die diesen Sätzen widersprach, in der Tat von oben bis unten umgekehrt wurde.
+  en: It was the time when, as Hegel says, the world stood upon its head; first, in the sense that the human head, and the principles arrived at by its thought, claimed to be the basis of all human action and association; but by and by, also, in the wider sense that the reality which was in contradiction to these principles had, in fact, to be turned upside down.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - I.N1
+  mew_page: 189-190
+- id: I.2.6
+  kind: p
+  original: Alle bisherigen Gesellschafts- und Staatsformen, alle altüberlieferten Vorstellungen wurden als unvernünftig in die Rumpelkammer geworfen; die Welt hatte sich bisher lediglich von Vorurteilen leiten lassen; alles Vergangne verdiente nur Mitleid und Verachtung.
+  en: 'Every form of society and government then existing, every old traditional notion was flung into the lumber-room as irrational: the world had hitherto allowed itself to be led solely by prejudices; everything in the past deserved only pity and contempt.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: I.2.7
+  kind: p
+  original: Jetzt erst brach das Tageslicht, das Reich der Vernunft an; von nun an sollte der Aberglaube, das Unrecht, das Privilegium und die Unterdrückung verdrängt werden durch die ewige Wahrheit, die ewige Gerechtigkeit, die in der Natur begründete Gleichheit und die unveräußerlichen Menschenrechte.
+  en: Now, for the first time, appeared the light of day, the kingdom of reason; henceforth superstition, injustice, privilege, oppression, were to be superseded by eternal truth, eternal Right, equality based on Nature and the inalienable rights of man.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: I.3.1
+  kind: p
+  original: Wir wissen jetzt, daß dies Reich der Vernunft weiter nichts war als das idealisierte Reich der Bourgeoisie; daß die ewige Gerechtigkeit ihre Verwirklichung fand in der Bourgeoisjustiz; daß die Gleichheit hinauslief auf die bürgerliche Gleichheit vor dem Gesetz; daß als eines der wesentlichsten Menschenrechte proklamiert wurde - das bürgerliche Eigentum; und daß der Vernunftstaat, der Rousseausche Gesellschaftsvertrag ins Leben trat und nur ins Leben treten konnte als bürgerliche, demokratische Republik.
+  en: We know to-day that this kingdom of reason was nothing more than the idealized kingdom of the bourgeoisie; that this eternal Right found its realization in bourgeois justice; that this equality reduced itself to bourgeois equality before the law; that bourgeois property was proclaimed as one of the essential rights of man; and that the government of reason, the Contrat Social of Rousseau, came into being, and only could come into being, as a democratic bourgeois republic.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: I.3.2
+  kind: p
+  original: So wenig wie alle ihre Vorgänger konnten die großen Denker des 18. Jahrhunderts hinaus über die Schranken, die ihnen ihre eigne Epoche gesetzt hatte.
+  en: The great thinkers of the eighteenth century could, no more than their predecessors, go beyond the limits imposed upon them by their epoch.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: I.4.1
+  kind: p
+  original: Aber neben dem Gegensatz von Feudaladel und dem als Vertreterin der gesamten übrigen Gesellschaft auftretenden Bürgertum bestand der allgemeine Gegensatz von Ausbeutern und Ausgebeuteten, von reichen Müßiggängern und arbeitenden Armen.
+  en: But, side by side with the antagonism of the feudal nobility and the burghers, who claimed to represent all the rest of society, was the general antagonism of exploiters and exploited, of rich idlers and poor workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: I.4.2
+  kind: p
+  original: War es doch gerade dieser Umstand, der es den Vertretern der Bourgeoisie möglich machte, sich als Vertreter nicht einer besondern Klasse, sondern der ganzen leidenden Menschheit hinzustellen.
+  en: It was this very circumstance that made it possible for the representatives of the bourgeoisie to put themselves forward as representing, not one special class, but the whole of suffering humanity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: I.4.3
+  kind: p
+  original: Noch mehr.
+  en: Still further.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: I.4.4
+  kind: p
+  original: 'Von seinem Ursprung an war das Bürgertum behaftet mit seinem Gegensatz: Kapitalisten können nicht bestehn ohne Lohnarbeiter, und im selben Verhältnis wie der mittelalterliche Zunftbürger sich zum modernen Bourgeois, im selben Verhältnis entwickelte sich auch der Zunftgeselle und nichtzünftige Taglöhner zum Proletarier.'
+  en: 'From its origin, the bourgeoisie was saddled with its antithesis: capitalists cannot exist without wage-workers, and, in the same proportion as the mediaeval burgher of the guild developed into the modern bourgeois, the guild journeyman and the day-laborer, outside the guilds, developed into the proletarian.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 190-191
+- id: I.4.5
+  kind: p
+  original: Und wenn auch im ganzen und großen das Bürgertum beanspruchen durfte, im Kampf mit dem Adel gleichzeitig die Interessen der verschiednen arbeitenden Klassen jener Zeit mit zu vertreten, so brachen doch, bei jeder großen bürgerlichen Bewegung, selbständige Regungen derjenigen Klasse hervor, die die mehr oder weniger entwickelte Vorgängerin des modernen Proletariats war.
+  en: And although, upon the whole, the bourgeoisie, in their struggle with the nobility, could claim to represent at the same time the interests of the different working-classes of that period, yet in every great bourgeois movement there were independent outbursts of that class which was the forerunner, more or less developed, of the modern proletariat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: I.4.6
+  kind: p
+  original: So in der deutschen Reformations- und der Bauernkriegszeit die Wiedertäufer und Thomas Münzer; in der großen englischen Revolution die Levellers; in der Großen Französischen Revolution Babeuf.
+  en: For example, at the time of the German reformation and the peasants' war, the Anabaptists and Thomas Muenzer; in the great English revolution, the Levellers; in the great French revolution, Baboeuf.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: I.4.7
+  kind: p
+  original: Neben diesen revolutionären Schilderhebungen einer noch unfertigen Klasse gingen entsprechende theoretische Kundgebungen; im 16. und 17. Jahrhundert utopische Schilderungen idealer Gesellschaftszustände; im 18. schon direkt kommunistische Theorien (Morelly und Mably).
+  en: There were theoretical enunciations corresponding with these revolutionary uprisings of a class not yet developed; in the sixteenth and seventeenth centuries, Utopian pictures of ideal social conditions; in the eighteenth, actual communistic theories (Morelly and Mably).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: I.5.1
+  kind: p
+  original: Die Forderung der Gleichheit wurde nicht mehr auf die politischen Rechte beschränkt, sie sollte sich auch auf die gesellschaftliche Lage der einzelnen erstrecken; nicht bloß die Klassenvorrechte sollten aufgehoben werden, sondern die Klassenunterschiede selbst.
+  en: The demand for equality was no longer limited to political rights; it was extended also to the social conditions of individuals. It was not simply class privileges that were to be abolished, but class distinctions themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.5.2
+  kind: p
+  original: Ein asketischer, allen Lebensgenuß verpönender, an Sparta anknüpfender Kommunismus war so die erste Erscheinungsform der neuen Lehre.
+  en: A Communism, ascetic, denouncing all the pleasures of life, Spartan, was the first form of the new teaching.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: I.5.3
+  kind: p
+  original: 'Dann folgten die drei großen Utopisten: Saint-Simon, bei dem die bürgerliche Richtung noch neben der proletarischen eine gewisse Geltung behielt; Fourier und Owen, der, im Lande der entwickeltsten kapitalistischen Produktion und unter dem Eindruck der durch diese erzeugten Gegensätze, seine Vorschläge zur Beseitigung der Klassenunterschiede in direkter Anknüpfung an den französischen Materialismus systematisch entwickelte.'
+  en: Then came the three great Utopians; Saint Simon, to whom the middle-class movement, side by side with the proletarian, still had a certain significance; Fourier; and Owen, who in the country where capitalist production was most developed, and under the influence of the antagonisms begotten of this, worked out his proposals for the removal of class distinction systematically and in direct relation to French materialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: I.6.1
+  kind: p
+  original: Allen dreien ist gemeinsam, daß sie nicht als Vertreter der Interessen des inzwischen historisch erzeugten Proletariats auftreten.
+  en: One thing is common to all three. Not one of them appears as a representative of the interests of that proletariat, which historical development had, in the meantime, produced.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s); regrouped by the ingest (see MOVE_EN)
+- id: I.6.2
+  kind: p
+  original: Wie die Aufklärer wollen sie nicht zunächst eine bestimmte Klasse, sondern sogleich die ganze Menschheit befreien.
+  en: Like the French philosophers, they do not claim to emancipate a particular class to begin with, but all humanity at once.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: I.6.3
+  kind: p
+  original: Wie jene wollen sie das Reich der Vernunft und der ewigen Gerechtigkeit einführen; aber ihr Reich ist himmelweit verschieden von dem der Aufklärer.
+  en: Like them, they wish to bring in the kingdom of reason and eternal justice, but this kingdom, as they see it, is as far as heaven from earth, from that of the French philosophers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: I.6.4
+  kind: p
+  original: Auch die nach den Grundsätzen dieser Aufklärer eingerichtete bürgerliche Welt ist unvernünftig und ungerecht und wandert daher ebensogut in den Topf des Verwerflichen wie der Feudalismus und alle früheren Gesellschaftszustände.
+  en: For, to our three social reformers, the bourgeois world, based upon the principles of these philosophers, is quite as irrational and unjust, and, therefore, finds its way in the dust-hole quite as readily as feudalism and all the earlier stages of society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: I.6.5
+  kind: p
+  original: Daß die wirkliche Vernunft und Gerechtigkeit bisher nicht in der Welt geherrscht haben, kommt nur daher, daß man sie nicht richtig erkannt hatte.
+  en: If pure reason and justice have not, hitherto, ruled the world, this has been the case only because men have not rightly understood them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: I.6.6
+  kind: p
+  original: Es fehlte eben der geniale einzelne Mann, der jetzt aufgetreten und der die Wahrheit erkannt hat; daß er jetzt aufgetreten, daß die Wahrheit grade jetzt erkannt worden ist, ist nicht ein aus dem Zusammenhang der geschichtlichen Entwicklung mit Notwendigkeit folgendes, unvermeidliches Ereignis, sondern ein reiner Glücksfall.
+  en: What was wanted was the individual man of genius, who has now arisen and who understands the truth. That he has now arisen, that the truth has now been clearly understood, is not an inevitable event, following of necessity in the chain of historical development, but a mere happy accident.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 191-192
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.6.7
+  kind: p
+  original: Er hätte ebensogut 500 Jahre früher geboren werden können und hätte dann der Menschheit 500 Jahre Irrtum, Kämpfe und Leiden erspart.
+  en: He might just as well have been born 500 years earlier, and might then have spared humanity 500 years of error, strife, and suffering.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: I.7.1
+  kind: p
+  original: Wir sahen, wie die französischen Philosophen des achtzehnten Jahrhunderts, die Vorbereiter der Revolution, an die Vernunft appellierten als einzige Richterin über alles, was bestand.
+  en: We saw how the French philosophers of the eighteenth century, the forerunners of the Revolution, appealed to reason as the sole judge of all that is.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: I.7.2
+  kind: p
+  original: Ein vernünftiger Staat, eine vernünftige Gesellschaft sollten hergestellt, alles, was der ewigen Vernunft widersprach, sollte ohne Barmherzigkeit beseitigt werden.
+  en: A rational government, rational society, were to be founded; everything that ran counter to eternal reason was to be remorselessly done away with.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: I.7.3
+  kind: p
+  original: Wir sahen ebenfalls, daß diese ewige Vernunft in Wirklichkeit nichts andres war als der idealisierte Verstand des eben damals zum Bourgeois sich fortentwickelnden Mittelbürgers.
+  en: We saw also that this eternal reason was in reality nothing but the idealized understanding of the eighteenth century citizen, just then evolving into the bourgeois.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: I.7.4
+  kind: p
+  original: Als nun die Französische Revolution diese Vernunftgesellschaft und diesen Vernunftstaat verwirklicht hatte, stellten sich daher die neuen Einrichtungen, so rationell sie auch waren gegenüber den früheren Zuständen, keineswegs als absolut vernünftige heraus.
+  en: The French Revolution had realized this rational society and government. But the new order of things, rational enough as compared with earlier conditions, turned out to be by no means absolutely rational.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.7.5
+  kind: p
+  original: Der Vernunftstaat war vollständig in die Brüche gegangen.
+  en: The State based upon reason completely collapsed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: I.7.6
+  kind: p
+  original: Der Rousseausche Gesellschaftsvertrag hatte seine Verwirklichung gefunden in der Schreckenszeit, aus der das an seiner eignen politischen Befähigung irre gewordne Bürgertum sich geflüchtet hatte zuerst in die Korruption des Direktoriums und schließlich unter den Schutz des napoleonischen Despotismus.
+  en: Rousseau's Contrat Social had found its realization in the Reign of Terror, from which the bourgeoisie, who had lost confidence in their own political capacity, had taken refuge first in the corruption of the Directorate, and, finally, under the wing of the Napoleonic despotism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: I.7.7
+  kind: p
+  original: Der verheißne ewige Friede war umgeschlagen in einen endlosen Eroberungskrieg.
+  en: The promised eternal peace was turned into an endless war of conquest.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: I.7.8
+  kind: p
+  original: Die Vernunftgesellschaft war nicht besser gefahren.
+  en: The society based upon reason had fared no better.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: I.7.9
+  kind: p
+  original: Der Gegensatz von reich und arm, statt sich aufzulösen in allgemeinen Wohlergehn, war verschärft worden durch die Beseitigung der ihn überbrückenden zünftigen und andren Privilegien und der ihn mildernden kirchlichen Wohltätigkeitsanstalten; die jetzt zur Wahrheit gewordne "Freiheit des Eigentums" von feudalen Fesseln stellte sich heraus, für den Kleinbürger und Kleinbauern, als die Freiheit, dies von der übermächtigen Konkurrenz des Großkapitals und des Großgrundbesitzes erdrückte kleine Eigentum an eben diese großen Herren zu verkaufen und so für den Kleinbürger und Kleinbauern sich zu verwandeln in die Freiheit vom Eigentum; der Aufschwung der Industrie auf kapitalistischer Grundlage erhob Armut und Elend der arbeitenden Massen zu einer Lebensbedingung der Gesellschaft.
+  en: The antagonism between rich and poor, instead of dissolving into general prosperity, had become intensified by the removal of the guild and other privileges, which had to some extent bridged it over, and by the removal of the charitable institutions of the Church. The "freedom of property" from feudal fetters, now veritably accomplished, turned out to be, for the small capitalists and small proprietors, the freedom to sell their small property, crushed under the overmastering competition of the large capitalists and landlords, to these great lords, and thus, as far as the small capitalists and peasant proprietors were concerned, became "freedom from property." The development of industry upon a capitalistic basis made poverty and misery of the working masses conditions of existence of society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: I.7.10
+  kind: p
+  original: Die bare Zahlung wurde mehr und mehr, nach Carlyles Ausdruck, das einzige Bindeglied der Gesellschaft.
+  en: Cash payment became more and more, in Carlyle's phrase, the sole nexus between man and man.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: I.7.11
+  kind: p
+  original: Die Zahl der Verbrechen nahm zu von Jahr zu Jahr.
+  en: The number of crimes increased from year to year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: I.7.12
+  kind: p
+  original: Waren die früher am hellen Tage sich ungescheut ergehenden feudalen Laster zwar nicht vernichtet, so doch vorläufig in den Hintergrund gedrängt, so schossen dafür die, bisher nur in der Stille gehegten, bürgerlichen Laster um so üppiger in die Blüte.
+  en: Formerly, the feudal vices had openly stalked about in broad daylight; though not eradicated, they were now at any rate thrust into the background. In their stead, the bourgeois vices, hitherto practiced in secret, began to blossom all the more luxuriantly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.7.13
+  kind: p
+  original: Der Handel entwickelte sich mehr und mehr zur Prellerei.
+  en: Trade became to a greater and greater extent cheating.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 192-193
+- id: I.7.14
+  kind: p
+  original: Die "Brüderlichkeit" der revolutionären Devise verwirklichte sich in den Schikanen und dem Neid des Konkurrenzkampfs.
+  en: The "fraternity" of the revolutionary motto was realized in the chicanery and rivalries of the battle of competition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.7.15
+  kind: p
+  original: An die Stelle der gewaltsamen Unterdrückung trat die Korruption, an die Stelle des Degens, als des ersten gesellschaftlichen Machthebels, das Geld.
+  en: Oppression by force was replaced by corruption; the sword, as the first social lever, by gold.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.7.16
+  kind: p
+  original: Das Recht der ersten Nacht ging über von den Feudalherren auf die bürgerlichen Fabrikanten.
+  en: The right of the first night was transferred from the feudal lords to the bourgeois manufacturers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.7.17
+  kind: p
+  original: Die Prostitution breitete sich aus in bisher unerhörtem Maß.
+  en: Prostitution increased to an extent never heard of.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.7.18
+  kind: p
+  original: Die Ehe selbst blieb nach wie vor gesetzlich anerkannte Form, offizieller Deckmantel der Prostitution, und ergänzte sich zudem durch reichlichen Ehebruch.
+  en: Marriage itself remained, as before, the legally recognized form, the official cloak of prostitution, and, moreover, was supplemented by rich crops of adultery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.7.19
+  kind: p
+  original: Kurzum, verglichen mit den prunkhaften Verheißungen der Aufklärer, erwiesen sich die durch den "Sieg der Vernunft" hergestellten gesellschaftlichen und politischen Einrichtungen als bitter enttäuschende Zerrbilder.
+  en: In a word, compared with the splendid promises of the philosophers, the social and political institutions born of the "triumph of reason" were bitterly disappointing caricatures.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.7.20
+  kind: p
+  original: Es fehlten nur noch die Leute, die diese Enttäuschung konstatierten, und diese kamen mit der Wende des Jahrhunderts.
+  en: All that was wanting was the men to formulate this disappointment, and they came with the turn of the century.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.7.21
+  kind: p
+  original: 1802 erschienen Saint-Simons Genfer Briefe; 1808 erschien Fouriers erstes Werk, obwohl die Grundlage seiner Theorie schon von 1799 datierte; am 1. Januar 1800 übernahm Robert Owen die Leitung von New Lanark.
+  en: In 1802 Saint Simon's Geneva letters appeared; in 1808 appeared Fourier's first work, although the groundwork of his theory dated from 1799; on January 1, 1800, Robert Owen undertook the direction of New Lanark.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.8.1
+  kind: p
+  original: Um diese Zeit aber war die kapitalistische Produktionsweise, und mit ihr der Gegensatz von Bourgeoisie und Proletariat, noch sehr unentwickelt.
+  en: At this time, however, the capitalist mode of production, and with it the antagonism between the bourgeoisie and the proletariat, was still very incompletely developed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.8.2
+  kind: p
+  original: Die große Industrie, in England eben erst entstanden, war in Frankreich noch unbekannt.
+  en: Modern Industry, which had just arisen in England, was still unknown in France.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.8.3
+  kind: p
+  original: Aber erst die große Industrie entwickelt einerseits die Konflikte, die eine Umwälzung der Produktionsweise, eine Beseitigung ihres kapitalistischen Charakters, zur zwingenden Notwendigkeit erheben - Konflikte nicht nur der von ihr erzeugten Klassen, sondern auch der von ihr geschaffnen Produktivkräfte und Austauschformen selbst -; und sie entwickelt andrerseits in eben diesen riesigen Produktivkräften auch die Mittel, diese Konflikte zu lösen.
+  en: But Modern Industry develops, on the one hand, the conflicts which make absolutely necessary a revolution in the mode of production, and the doing away with its capitalistic character--conflicts not only between the classes begotten of it, but also between the very productive forces and the forms of exchange created by it. And, on the other hand, it develops, in these very gigantic productive forces, the means of ending these conflicts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.8.4
+  kind: p
+  original: Waren also um 1800 die der neuen Gesellschaftsordnung entspringenden Konflikte erst im Werden begriffen, so gilt dies noch weit mehr von den Mitteln ihrer Lösung.
+  en: If, therefore, about the year 1800, the conflicts arising from the new social order were only just beginning to take shape, this holds still more fully as to the means of ending them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.8.5
+  kind: p
+  original: Hatten die besitzlosen Massen von Paris während der Schreckenszeit einen Augenblick die Herrschaft erobern und dadurch die bürgerliche Revolution, selbst gegen das Bürgertum, zum Siege führen können, so hatten sie damit nur bewiesen, wie unmöglich ihre Herrschaft unter den damaligen Verhältnissen auf die Dauer war.
+  en: The "have-nothing" masses of Paris, during the Reign of Terror, were able for a moment to gain the mastery, and thus to lead the bourgeois revolution to victory in spite of the bourgeoisie themselves. But, in doing so, they only proved how impossible it was for their domination to last under the conditions then obtaining.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.8.6
+  kind: p
+  original: Das sich aus diesen besitzlosen Massen eben erst als Stamm einer neuen Klasse absondernde Proletariat, noch ganz unfähig zu selbständiger politischer Aktion, stellte sich dar als unterdrückter, leidender Stand, dem in seiner Unfähigkeit, sich selbst zu helfen, höchstens von außen her, von oben herab Hülfe zu bringen war.
+  en: The proletariat, which then for the first time evolved itself from these "have-nothing" masses as the nucleus of a new class, as yet quite incapable of independent political action, appeared as an oppressed, suffering order, to whom, in its incapacity to help itself, help could, at best, be brought in from without, or down from above.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.9.1
+  kind: p
+  original: Diese geschichtliche Lage beherrschte auch die Stifter des Sozialismus.
+  en: This historical situation also dominated the founders of Socialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: I.9.2
+  kind: p
+  original: Dem unreifen Stand der kapitalistischen Produktion, der unreifen Klassenlage, entsprachen unreife Theorien.
+  en: To the crude conditions of capitalistic production and the crude class conditions corresponded crude theories.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 193-194
+- id: I.9.3
+  kind: p
+  original: Die Lösung der gesellschaftlichen Aufgaben, die in den unentwickelten ökonomischen Verhältnissen noch verborgen lag, sollte aus dem Kopfe erzeugt werden.
+  en: The solution of the social problems, which as yet lay hidden in undeveloped economic conditions, the Utopians attempted to evolve out of the human brain.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.9.4
+  kind: p
+  original: Die Gesellschaft bot nur Mißstände; diese zu beseitigen war Aufgabe der denkenden Vernunft.
+  en: Society presented nothing but wrongs; to remove these was the task of reason.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.9.5
+  kind: p
+  original: Es handelte sich darum, ein neues, vollkommneres System der gesellschaftlichen Ordnung zu erfinden und dies der Gesellschaft von außen her, durch Propaganda, womöglich durch das Beispiel von Musterexperimenten aufzuoktroyieren.
+  en: It was necessary, then, to discover a new and more perfect system of social order and to impose this upon society from without by propaganda, and, wherever it was possible, by the example of model experiments.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.9.6
+  kind: p
+  original: Diese neuen sozialen Systeme waren von vornherein zur Utopie verdammt; je weiter sie in ihren Einzelheiten ausgearbeitet wurden, desto mehr mußten sie in reine Phantasterei verlaufen.
+  en: These new social systems were foredoomed as Utopian; the more completely they were worked out in detail, the more they could not avoid drifting off into pure phantasies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.10.1
+  kind: p
+  original: Dies einmal festgestellt, halten wir uns bei dieser, jetzt ganz der Vergangenheit angehörigen Seite keinen Augenblick länger auf.
+  en: These facts once established, we need not dwell a moment longer upon this side of the question, now wholly belonging to the past.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.10.2
+  kind: p
+  original: Wir können es literarischen Kleinkrämern überlassen, an diesen, heute nur noch erheiternden Phantastereien feierlich herumzuklauben und die Überlegenheit ihrer eignen nüchternen Denkungsart geltend zu machen gegenüber solchem "Wahnwitz".
+  en: We can leave it to the literary small fry to solemnly quibble over these phantasies, which to-day only make us smile, and to crow over the superiority of their own bald reasoning, as compared with such "insanity."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.10.3
+  kind: p
+  original: Wir freuen uns lieber der genialen Gedankenkeime und Gedanken, die unter der phantastischen Hülle überall hervorbrechen und für die jene Philister blind sind.
+  en: For ourselves, we delight in the stupendously grand thoughts and germs of thought that everywhere break out through their phantastic covering, and to which these Philistines are blind.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.11.1
+  kind: p
+  original: Saint-Simon war ein Sohn der großen französischen Revolution, bei deren Ausbruch er noch nicht dreißig Jahre alt war.
+  en: Saint Simon was a son of the great French Revolution, at the outbreak of which he was not yet thirty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.11.2
+  kind: p
+  original: Die Revolution war der Sieg des dritten Standes, d.h. der großen, in der Produktion und im Handel tätigen Masse der Nation, über die bis dahin bevorrechteten müßigen Stände, Adel und Geistlichkeit.
+  en: The Revolution was the victory of the third estate, i.e., of the great masses of the nation, working in production and in trade, over the privileged idle classes, the nobles and the priests.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.11.3
+  kind: p
+  original: Aber der Sieg des dritten Standes hatte sich bald enthüllt als der ausschließliche Sieg eines kleinen Teils dieses Standes, als die Eroberung der politischen Macht durch die gesellschaftlich bevorrechtete Schicht desselben, die besitzende Bourgeoisie.
+  en: But the victory of the third estate soon revealed itself as exclusively the victory of a small part of this "estate," as the conquest of political power by the socially privileged section of it, i.e., the propertied bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.11.4
+  kind: p
+  original: Und zwar hatte sich diese Bourgeoisie noch während der Revolution rasch entwickelt vermittelst der Spekulation in dem konfiszierten und dann verkauften Grundbesitz des Adels und der Kirche sowie vermittelst des Betrugs an der Nation durch die Armeelieferanten.
+  en: And the bourgeoisie had certainly developed rapidly during the Revolution, partly by speculation in the lands of the nobility and of the Church, confiscated and afterwards put up for sale, and partly by frauds upon the nation by means of army contracts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.11.5
+  kind: p
+  original: Es war gerade die Herrschaft dieser Schwindler, die unter dem Direktorium Frankreich und die Revolution an den Rand des Untergangs brachte und damit Napoleon den Vorwand gab zu seinem Staatsstreich.
+  en: It was the domination of these swindlers that, under the Directorate, brought France to the verge of ruin, and thus gave Napoleon the pretext for his coup-d'etat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.11.6
+  kind: p
+  original: So nahm im Kopf Saint-Simons der Gegensatz von drittem Stand und bevorrechteten Ständen die Form an des Gegensatzes von "Arbeitern" und "Müßigen".
+  en: Hence, to Saint Simon the antagonism between the third estate and the privileged classes took the form of an antagonism between "workers" and "idlers."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.11.7
+  kind: p
+  original: Die Müßigen, das waren nicht nur die alten Bevorrechteten, sondern auch alle, die ohne Beteiligung an Produktion und Handel von Renten lebten.
+  en: The idlers were not merely the old privileged classes, but also all who, without taking any part in production or distribution, lived on their incomes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.11.8
+  kind: p
+  original: Und die "Arbeiter", das waren nicht nur die Lohnarbeiter, sondern auch die Fabrikanten, die Kaufleute, die Bankiers.
+  en: And the workers were not only the wage-workers, but also the manufacturers, the merchants, the bankers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: I.11.9
+  kind: p
+  original: Daß die Müßigen die Fähigkeit zur geistigen Leitung und politischen Herrschaft verloren, stand fest und war durch die Revolution endgültig besiegelt.
+  en: That the idlers had lost the capacity for intellectual leadership and political supremacy had been proved, and was by the Revolution finally settled.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 194-195
+- id: I.11.10
+  kind: p
+  original: Daß die Besitzlosen diese Fähigkeit nicht besaßen, das schien Saint-Simon bewiesen durch die Erfahrungen der Schreckenszeit.
+  en: That the non-possessing classes had not this capacity seemed to Saint Simon proved by the experiences of the Reign of Terror.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.11.11
+  kind: p
+  original: Wer aber sollte leiten und herrschen?
+  en: Then, who was to lead and command?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.11.12
+  kind: p
+  original: Nach Saint-Simon die Wissenschaft und die Industrie, beide zusammengehalten durch ein neues religiöses Band, bestimmt, die seit der Reformation gesprengte Einheit der religiösen Anschauungen wiederherzustellen, ein notwendig mystisches und streng hierarchisches "neues Christentum".
+  en: According to Saint Simon, science and industry, both united by a new religious bond, destined to restore that unity of religious ideas which had been lost since the time of the Reformation--a necessarily mystic and rigidly hierarchic "new Christianity."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.11.13
+  kind: p
+  original: Aber die Wissenschaft, das waren die Schulgelehrten, und die Industrie, das waren in erster Linie die aktiven Bourgeois, Fabrikanten, Kaufleute, Bankiers.
+  en: But science, that was the scholars; and industry, that was in the first place, the working bourgeois, manufacturers, merchants, bankers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.11.14
+  kind: p
+  original: Diese Bourgeois sollten sich zwar in eine Art öffentlicher Beamten, gesellschaftlicher Vertrauensleute, verwandeln, aber doch gegenüber den Arbeitern eine gebietende und auch ökonomisch bevorzugte Stellung behalten.
+  en: These bourgeoisie were certainly, intended by Saint Simon to transform themselves into a kind of public officials, of social trustees; but they were still to hold, vis-a-vis of the workers, a commanding and economically privileged position.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.11.15
+  kind: p
+  original: Namentlich sollten die Bankiers durch Regulierung des Kredits die gesamte gesellschaftliche Produktion zu regeln berufen sein.
+  en: The bankers especially were to be called upon to direct the whole of social production by the regulation of credit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.11.16
+  kind: p
+  original: Diese Auffassung entsprach ganz einer Zeit, wo in Frankreich die große Industrie und mit ihr der Gegensatz von Bourgeoisie und Proletariat eben erst im Entstehn war.
+  en: This conception was in exact keeping with a time in which Modern Industry in France and, with it, the chasm between bourgeoisie and proletariat was only just coming into existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.11.17
+  kind: p
+  original: 'Aber was Saint-Simon besonders betont, ist dies: Es sei ihm überall und immer zuerst zu tun um das Geschick "der zahlreichsten und ärmsten Klasse" (la classe la plus nombreuse et la plus pauvre).'
+  en: 'But what Saint Simon especially lays stress upon is this: what interests him first, and above all other things, is the lot of the class that is the most numerous and the most poor ("la classe la plus nombreuse et la plus pauvre").'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.12.1
+  kind: p
+  original: Saint-Simon stellt bereits in seinen Genfer Briefen den Satz auf, daß "alle Menschen arbeiten sollen".
+  en: Already, in his Geneva letters, Saint Simon lays down the proposition that "all men ought to work."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.13.1
+  kind: p
+  original: In derselben Schrift weiß er schon, daß die Schreckensherrschaft die Herrschaft der besitzlosen Massen war.
+  en: In the same work he recognizes also that the Reign of Terror was the reign of the non-possessing masses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.14.1
+  kind: p
+  original: '"Seht an", ruft er ihnen zu, "was sich in Frankreich ereignet hat zu der Zeit, als eure Kameraden dort geherrscht, sie haben die Hungersnot erzeugt."'
+  en: '"See," says he to them, "what happened in France at the time when your comrades held sway there; they brought about a famine."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.15.1
+  kind: p
+  original: Die Französische Revolution aber als einen Klassenkampf, und zwar nicht bloß zwischen Adel und Bürgertum, sondern zwischen Adel, Bürgertum und Besitzlosen aufzufassen, war im Jahr 1802 eine höchst geniale Entdeckung.
+  en: But to recognize the French Revolution as a class war, and not simply one between nobility and bourgeoisie, but between nobility, bourgeoisie, and the non-possessers, was, in the year 1802, a most pregnant discovery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.15.2
+  kind: p
+  original: 1816 erklärt er die Politik für die Wissenschaft von der Produktion und sagt voraus das gänzliche Aufgehn der Politik in der Ökonomie.
+  en: In 1816, he declares that politics is the science of production, and foretells the complete absorption of politics by economics.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: I.15.3
+  kind: p
+  original: Wenn hierin die Erkenntnis, daß die ökonomische Lage die Basis der politischen Einrichtungen ist, nur erst im Keime sich zeigt, so ist doch die Überführung der politischen Regierung über Menschen in eine Verwaltung von Dingen und eine Leitung von Produktionsprozessen, also die neuerdings mit so viel Lärm breitgetretne "Abschaffung des Staates" hier schon klar ausgesprochen.
+  en: The knowledge that economic conditions are the basis of political institutions appears here only in embryo. Yet what is here already very plainly expressed is the idea of the future conversion of political rule over men into an administration of things and a direction of processes of production--that is to say, the "abolition of the State," about which recently there has been so much noise.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.15.4
+  kind: p
+  original: Mit gleicher Überlegenheit über seine Zeitgenossen proklamiert er 1814, unmittelbar nach dem Einzug der Verbündeten in Paris, und noch 1815, während des Kriegs der hundert Tage, die Allianz Frankreichs mit England und in zweiter Linie beider Länder mit Deutschland als einzige Gewähr für die gedeihliche Entwicklung und den Frieden Europas.
+  en: Saint Simon shows the same superiority over his contemporaries, when in 1814, immediately after the entry of the allies into Paris, and again in 1815, during the Hundred Days' War, he proclaims the alliance of France with England, and then of both these countries with Germany, as the only guarantee for the prosperous development and peace of Europe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 195-196
+- id: I.15.5
+  kind: p
+  original: Allianz den Franzosen von 1815 predigen mit den Siegern von Waterloo, dazu gehörte in der Tat ebensoviel Mut wie geschichtlicher Fernblick.
+  en: To preach to the French in 1815 an alliance with the victors of Waterloo required as much courage as historical foresight.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: I.16.1
+  kind: p
+  original: Wenn wir bei Saint-Simon eine geniale Weite des Blicks entdecken, vermöge deren fast alle nicht streng ökonomischen Gedanken der späteren Sozialisten bei ihm im Keime enthalten sind, so finden wir bei Fourier eine echt französisch-geistreiche, aber darum nicht minder tief eindringende Kritik der bestehenden Gesellschaftszustände.
+  en: If in Saint Simon we find a comprehensive breadth of view, by virtue of which almost all the ideas of later Socialists, that are not strictly economic, are found in him in embryo, we find in Fourier a criticism of the existing conditions of society genuinely French and witty, but not upon that account any the less thorough.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: I.16.2
+  kind: p
+  original: Fourier nimmt die Bourgeoisie, ihre begeisterten Propheten von vor und ihre interessierten Lobhudler von nach der Revolution beim Wort.
+  en: Fourier takes the bourgeoisie, their inspired prophets before the Revolution, and their interested eulogists after it, at their own word.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: I.16.3
+  kind: p
+  original: Er deckt die materielle und moralische Misere der bürgerlichen Welt unbarmherzig auf; er hält daneben sowohl die gleißenden Versprechungen der frühern Aufklärer von der Gesellschaft, in der nur die Vernunft herrschen werde, von der alles beglückenden Zivilisation, von der grenzenlosen menschlichen Vervollkommnungsfähigkeit, wie auch die schönfärbenden Redensarten der gleichzeitigen Bourgeois-Ideologen; er weist nach, wie der hochtönendsten Phrase überall die erbärmlichste Wirklichkeit entspricht, und überschüttet dies rettungslose Fiasko der Phrase mit beißendem Spott.
+  en: He lays bare remorsely the material and moral misery of the bourgeois world. He confronts it with the earlier philosophers' dazzling promises of a society in which reason alone should reign, of a civilization in which happiness should be universal, of an illimitable human perfectibility, and with the rose-colored phraseology of the bourgeois ideologists of his time. He points out how everywhere the most pitiful reality corresponds with the most high-sounding phrases, and he overwhelms this hopeless fiasco of phrases with his mordant sarcasm.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: I.16.4
+  kind: p
+  original: Fourier ist nicht nur Kritiker, seine ewig heitre Natur macht ihn zum Satiriker, und zwar zu einem der größten Satiriker aller Zeiten.
+  en: Fourier is not only a critic; his imperturbably serene nature makes him a satirist, and assuredly one of the greatest satirists of all time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: I.16.5
+  kind: p
+  original: Die mit dem Niedergang der Revolution emporblühende Schwindelspekulation ebenso wie die allgemeine Krämerhaftigkeit des damaligen französischen Handels schildert er ebenso meisterhaft wie ergötzlich.
+  en: He depicts, with equal power and charm, the swindling speculations that blossomed out upon the downfall of the Revolution, and the shopkeeping spirit prevalent in, and characteristic of, French commerce at that time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: I.16.6
+  kind: p
+  original: Noch meisterhafter ist seine Kritik der bürgerlichen Gestaltung der Geschlechtsverhältnisse und der Stellung des Weibes in der bürgerlichen Gesellschaft.
+  en: Still more masterly is his criticism of the bourgeois form of the relations between the sexes, and the position of woman in bourgeois society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: I.16.7
+  kind: p
+  original: Er spricht es zuerst aus, daß in einer gegebnen Gesellschaft der Grad der weiblichen Emanzipation das natürliche Maß der allgemeinen Emanzipation ist.
+  en: He was the first to declare that in any given society the degree of woman's emancipation is the natural measure of the general emancipation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: I.16.8
+  kind: p
+  original: Am großartigsten aber erscheint Fourier in seiner Auffassung der Geschichte der Gesellschaft.
+  en: But Fourier is at his greatest in his conception of the history of society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: I.16.9
+  kind: p
+  original: 'Er teilt ihren ganzen bisherigen Verlauf in vier Entwicklungsstufen: Wildheit, Patriarchat, Barbarei, Zivilisation, welch letztere mit der jetzt sogenannten bürgerlichen Gesellschaft, also mit der seit dem 16. Jahrhundert eingeführten Gesellschaftsordnung zusammenfällt, und weist nach, "daß die zivilisierte Ordnung jedes Laster, welches die Barbarei auf eine einfache Weise ausübt, zu einer zusammengesetzten, doppelsinnigen, zweideutigen, heuchlerischen Daseinsweise erhebt" daß die Zivilisation sich in einem "fehlerhaften Kreislauf" bewegt, in Widersprüchen, die sie stets neu erzeugt, ohne sie überwinden zu können, so daß sie stets das Gegenteil erreicht von dem, was sie erreichen will oder erlangen zu wollen vorgibt.'
+  en: He divides its whole course, thus far, into four stages of evolution--savagery, barbarism, the patriarchate, civilization. This last is identical with the so-called civil, or bourgeois, society of to-day--i.e., with the social order that came in with the sixteenth century. He proves "that the civilized stage raises every vice practiced by barbarism in a simple fashion, into a form of existence, complex, ambiguous, equivocal, hypocritical"--that civilization moves in "a vicious circle," in contradictions which it constantly reproduces without being able to solve them; hence it constantly arrives at the very opposite to that which it wants to attain, or pretends to want to attain, so that, e.g., "under civilization poverty is born of superabundance itself."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 196-197
+  align: '2:3'
+  review: true
+  review_reason: 2 de sentence(s) matched to 3 en sentence(s); regrouped by the ingest (see REGROUP)
+- id: I.16.10
+  kind: p
+  original: So daß z.B. "in der Zivilisation die Armut aus dem Überfluß selbst entspringt".
+  en: ''
+  joined_to: I.16.9
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '197'
+- id: I.17.1
+  kind: p
+  original: Fourier, wie man sieht, handhabt die Dialektik mit derselben Meisterschaft wie sein Zeitgenosse Hegel.
+  en: Fourier, as we see, uses the dialectic method in the same masterly way as his contemporary Hegel.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: I.17.2
+  kind: p
+  original: Mit gleicher Dialektik hebt er hervor, gegenüber dem Gerede von der unbegrenzten menschlichen Vervollkommnungsfähigkeit, daß jede geschichtliche Phase ihren aufsteigenden, aber auch ihren absteigenden Ast hat, und wendet diese Anschauungsweise auch auf die Zukunft der gesamten Menschheit an.
+  en: Using these same dialectics, he argues, against the talk about illimitable human perfectibility that every historical phase has its period of ascent and also its period of descent, and he applies this observation to the future of the whole human race.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: I.17.3
+  kind: p
+  original: Wie Kant den künftigen Untergang der Erde in die Naturwissenschaft, führt Fourier den künftigen Untergang der Menschheit in die Geschichtsbetrachtung ein.
+  en: As Kant introduced into natural science the idea of the ultimate destruction of the earth, Fourier introduced into historical science that of the ultimate destruction of the human race.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: I.18.1
+  kind: p
+  original: Während in Frankreich der Orkan der Revolution das Land ausfegte, ging in England eine stillere, aber darum nicht minder gewaltige Umwälzung vor sich.
+  en: Whilst in France the hurricane of the Revolution swept over the land, in England a quieter, but not on that account less tremendous, revolution was going on.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: I.18.2
+  kind: p
+  original: Der Dampf und die neue Werkzeugmaschinerie verwandelten die Manufaktur in die moderne große Industrie und revolutionierten damit die ganze Grundlage der bürgerlichen Gesellschaft.
+  en: Steam and the new tool-making machinery were transforming manufacture into modern industry, and thus revolutionizing the whole foundation of bourgeois society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: I.18.3
+  kind: p
+  original: Der schläfrige Entwicklungsgang der Manufakturzeit verwandelte sich in eine wahre Sturm- und Drangperiode der Produktion.
+  en: The sluggish march of development of the manufacturing period changed into a veritable storm and stress period of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: I.18.4
+  kind: p
+  original: Mit stets wachsender Schnelligkeit vollzog sich die Scheidung der Gesellschaft in große Kapitalisten und besitzlose Proletarier, zwischen denen, statt des frühern stabilen Mittelstandes, jetzt eine unstete Masse von Handwerkern und Kleinhändlern eine schwankende Existenz führte, der fluktuierendste Teil der Bevölkerung.
+  en: With constantly increasing swiftness the splitting-up of society into large capitalists and non-possessing proletarians went on. Between these, instead of the former stable middle-class, an unstable mass of artisans and small shopkeepers, the most fluctuating portion of the population, now led a precarious existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.18.5
+  kind: p
+  original: Noch war die neue Produktionsweise erst im Anfang ihres aufsteigenden Asts; noch war sie die normale, regelrechte, die unter den Umständen einzig mögliche Produktionsweise.
+  en: The new mode of production was, as yet, only at the beginning of its period of ascent; as yet it was the normal, regular method of production--the only one possible under existing conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: I.18.6
+  kind: p
+  original: 'Aber schon damals erzeugte sie schreiende soziale Mißstände: Zusammendrängung einer heimatlosen Bevölkerung in den schlechtesten Wohnstätten großer Städte - Lösung aller hergebrachten Bande des Herkommens, der patriarchalischen Unterordnung, der Familie - Überarbeit besonders der Weiber und Kinder in schreckenerregendem Maß - massenhafte Entsittlichung der plötzlich in ganz neue Verhältnisse, vom Land in die Stadt, vom Ackerbau in die Industrie, aus stabilen in täglich wechselnde unsichere Lebensbedingungen geworfnen arbeitenden Klasse.'
+  en: Nevertheless, even then it was producing crying social abuses--the herding together of a homeless population in the worst quarters of the large towns; the loosening of all traditional moral bonds, of patriarchal subordination, of family relations; overwork, especially of women and children, to a frightful extent; complete demoralization of the working-class, suddenly flung into altogether new conditions, from the country into the town, from agriculture into modern industry, from stable conditions of existence into insecure ones that changed from day to day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: I.18.7
+  kind: p
+  original: Da trat ein neunundzwanzigjähriger Fabrikant als Reformator auf, ein Mann von bis zur Erhabenheit kindlicher Einfachheit des Charakters und zugleich ein geborner Lenker von Menschen wie wenige.
+  en: At this juncture there came forward as a reformer a manufacturer 29 years old--a man of almost sublime, childlike simplicity of character, and at the same time one of the few born leaders of men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: I.18.8
+  kind: p
+  original: Robert Owen hatte sich die Lehre der materialistischen Aufklärer angeeignet, daß der Charakter des Menschen das Produkt sei einerseits der angebornen Organisation und andrerseits der den Menschen während seiner Lebenszeit, besonders aber während der Entwicklungsperiode umgebenden Umstände.
+  en: 'Robert Owen had adopted the teaching of the materialistic philosophers: that man''s character is the product, on the one hand, of heredity, on the other, of the environment of the individual during his lifetime, and especially during his period of development.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 197-198
+- id: I.18.9
+  kind: p
+  original: In der industriellen Revolution sahen die meisten seiner Standesgenossen nur Verwirrung und Chaos, gut im trüben zu fischen und sich rasch zu bereichern.
+  en: In the industrial revolution most of his class saw only chaos and confusion, and the opportunity of fishing in these troubled waters and making large fortunes quickly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.18.10
+  kind: p
+  original: Er sah in ihr die Gelegenheit, seinen Lieblingssatz in Anwendung und damit Ordnung in das Chaos zu bringen.
+  en: He saw in it the opportunity of putting into practice his favorite theory, and so of bringing order out of chaos.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.18.11
+  kind: p
+  original: Er hatte es schon in Manchester als Dirigent über fünfhundert Arbeiter einer Fabrik erfolgreich versucht, von 1800 bis 1829 leitete er die große Baumwollspinnerei von New Lanark in Schottland als dirigierender Associé in demselben Sinn, nur mit größrer Freiheit des Handelns und mit einem Erfolg, der ihm europäischen Ruf eintrug.
+  en: He had already tried it with success, as superintendent of more than five hundred men in a Manchester factory. From 1800 to 1829, he directed the great cotton mill at New Lanark, in Scotland, as managing partner, along the same lines, but with greater freedom of action and with a success that made him a European reputation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.18.12
+  kind: p
+  original: Eine allmählich auf 2.500 Köpfe anwachsende, ursprünglich aus den gemischtesten und größtenteils stark demoralisierten Elementen sich zusammensetzende Bevölkerung wandelte er um in eine vollständige Musterkolonie, in der Trunkenheit, Polizei, Strafrichter, Prozesse, Armenpflege, Wohltätigkeitsbedürfnis unbekannte Dinge waren.
+  en: A population, originally consisting of the most diverse and, for the most part, very demoralized elements, a population that gradually grew to 2,500, he turned into a model colony, in which drunkenness, police, magistrates, lawsuits, poor laws, charity, were unknown.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.18.13
+  kind: p
+  original: Und zwar einfach dadurch, daß er die Leute in menschenwürdigere Umstände versetzte und namentlich die heranwachsende Generation sorgfältig erziehen ließ.
+  en: And all this simply by placing the people in conditions worthy of human beings, and especially by carefully bringing up the rising generation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.18.14
+  kind: p
+  original: Er war der Erfinder der Kleinkinderschulen und führte sie hier zuerst ein.
+  en: He was the founder of infant schools, and introduced them first at New Lanark.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.18.15
+  kind: p
+  original: Vom zweiten Lebensjahr an kamen die Kinder in die Schule, wo sie sich so gut unterhielten, daß sie kaum wieder heimzubringen waren.
+  en: At the age of two the children came to school, where they enjoyed themselves so much that they could scarcely be got home again.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.18.16
+  kind: p
+  original: Während seine Konkurrenten 13-14 Stunden täglich arbeiten ließen, wurde in New Lanark nur 10 1 / 2 Stunden gearbeitet.
+  en: Whilst his competitors worked their people thirteen or fourteen hours a day, in New Lanark the working-day was only ten and a half hours.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.18.17
+  kind: p
+  original: Als eine Baumwollkrisis zu viermonatlichem Stillstand zwang, wurde den feiernden Arbeitern der volle Lohn fortbezahlt.
+  en: When a crisis in cotton stopped work for four months, his workers received their full wages all the time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.18.18
+  kind: p
+  original: Und dabei hatte das Etablissement seinen Wert mehr als verdoppelt und bis zuletzt den Eigentümern reichlichen Gewinn abgeworfen.
+  en: And with all this the business more than doubled in value, and to the last yielded large profits to its proprietors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.19.1
+  kind: p
+  original: Mit alledem war Owen nicht zufrieden.
+  en: In spite of all this, Owen was not content.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.19.2
+  kind: p
+  original: Die Existenz, die er seinen Arbeitern geschaffen, war in seinen Augen noch lange keine menschenwürdige; "die Leute waren meine Sklaven"; die verhältnismäßig günstigen Umstände, in die er sie versetzt, waren noch weit entfernt davon, eine allseitige rationelle Entwicklung des Charakters und des Verstandes, geschweige eine freie Lebenstätigkeit zu gestatten.
+  en: The existence which he secured for his workers was, in his eyes, still far from being worthy of human beings. "The people were slaves at my mercy." The relatively favorable conditions in which he had placed them were still far from allowing a rational development of the character and of the intellect in all directions, much less of the free exercise of all their faculties.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: I.20.1
+  kind: p
+  original: '"Und doch produzierte der arbeitende Teil dieser 2.500 Menschen ebensoviel wirklichen Reichtum für die Gesellschaft, wie kaum ein halbes Jahrhundert vorher eine Bevölkerung von 600.000 erzeugen konnte.'
+  en: '"And yet, the working part of this population of 2,500 persons was daily producing as much real wealth for society as, less than half a century before, it would have required the working part of a population of 600,000 to create.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.20.2
+  kind: p
+  original: 'Ich frug mich: Was wird aus der Differenz zwischen dem von 2.500 Personen verzehrten Reichtum und demjenigen, den die 600.000 hätten verzehren müssen?"'
+  en: I asked myself, what became of the difference between the wealth consumed by 2,500 persons and that which would have been consumed by 600,000?"
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+  en_note: Aveling's 1892 English attaches note I.N2 here.
+- id: I.21.1
+  kind: p
+  original: Die Antwort war klar.
+  en: The answer was clear.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: I.21.2
+  kind: p
+  original: Er war verwandt worden, um den Besitzern des Etablissements 5% Zinsen vom Anlagekapital und außerdem noch mehr als 300.000 Pfd.St. (6.000.000 M.) Gewinn abzuwerfen.
+  en: It had been used to pay the proprietors of the establishment 5 per cent. on the capital they had laid out, in addition to over £300,000 clear profit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 198-199
+- id: I.21.3
+  kind: p
+  original: Und was von New Lanark, galt in noch höherem Maß von allen Fabriken Englands.
+  en: And that which held for New Lanark held to a still greater extent for all the factories in England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.22.1
+  kind: p
+  original: '"Ohne diesen neuen, durch die Maschinen geschaffnen Reichtum hätten die Kriege zum Sturz Napoleons und zur Aufrechterhaltung der aristokratischen Gesellschaftsprinzipien nicht durchgeführt werden können.'
+  en: '"If this new wealth had not been created by machinery, imperfectly as it has been applied, the wars of Europe, in opposition to Napoleon, and to support the aristocratic principles of society, could not have been maintained.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.22.2
+  kind: p
+  original: Und doch war diese neue Macht die Schöpfung der arbeitenden Klasse."
+  en: And yet this new power was the creation of the working-classes."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - I.N2
+  - I.E1
+  mew_page: '199'
+- id: I.23.1
+  kind: p
+  original: Ihr gehörten daher auch die Früchte.
+  en: To them, therefore, the fruits of this new power belonged.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.23.2
+  kind: p
+  original: Die neuen gewaltigen Produktivkräfte, bisher nur der Bereicherung einzelner und der Knechtung der Massen dienend, boten für Owen die Grundlage zu einer gesellschaftlichen Neubildung und waren dazu bestimmt, als gemeinsames Eigentum aller nur für die gemeinsame Wohlfahrt aller zu arbeiten.
+  en: The newly-created gigantic productive forces, hitherto used only to enrich individuals and to enslave the masses, offered to Owen the foundations for a reconstruction of society; they were destined, as the common property of all, to be worked for the common good of all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.24.1
+  kind: p
+  original: Auf solche rein geschäftsmäßige Weise, als Frucht sozusagen der kaufmännischen Berechnung, entstand der Owensche Kommunismus.
+  en: Owen's Communism was based upon this purely business foundation, the outcome, so to say, of commercial calculation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.24.2
+  kind: p
+  original: Denselben auf das Praktische gerichteten Charakter behält er durchweg.
+  en: Throughout, it maintained this practical character.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.24.3
+  kind: p
+  original: So schlug Owen 1823 Hebung des irischen Elends durch kommunistische Kolonien vor und legte vollständige Berechnungen, über Anlagekosten, jährliche Auslagen und voraussichtliche Erträge bei.
+  en: Thus, in 1823, Owen proposed the relief of the distress in Ireland by Communist colonies, and drew up complete estimates of costs of founding them, yearly expenditure, and probable revenue.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.24.4
+  kind: p
+  original: So ist in seinem definitiven Zukunftsplan die technische Ausarbeitung der Einzelheiten, einschließlich Grundriß, Aufriß und Ansicht aus der Vogelperspektive, mit solcher Sachkenntnis durchgeführt, daß, die Owensche Methode der Gesellschaftsreform einmal zugegeben, sich gegen die Detaileinrichtung selbst vom fachmännischen Standpunkt nur wenig sagen läßt.
+  en: And in his definite plan for the future, the technical working out of details is managed with such practical knowledge--ground plan, front and side and bird's-eye views all included--that the Owen method of social reform once accepted, there is from the practical point of view little to be said against the actual arrangement of details.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.25.1
+  kind: p
+  original: Der Fortschritt zum Kommunismus war der Wendepunkt in Owens Leben.
+  en: His advance in the direction of Communism was the turning-point in Owen's life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.25.2
+  kind: p
+  original: Solange er als bloßer Philanthrop aufgetreten, hatte er nichts geerntet als Reichtum, Beifall, Ehre und Ruhm.
+  en: As long as he was simply a philanthropist, he was rewarded with nothing but wealth, applause, honor, and glory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.25.3
+  kind: p
+  original: Er war der populärste Mann in Europa.
+  en: He was the most popular man in Europe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.25.4
+  kind: p
+  original: Nicht nur seine Standesgenossen, auch Staatsmänner und Fürsten hörten ihm beifällig zu.
+  en: Not only men of his own class, but statesmen and princes listened to him approvingly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.25.5
+  kind: p
+  original: Als er aber mit seinen kommunistischen Theorien hervortrat, wendete sich das Blatt.
+  en: But when he came out with his Communist theories, that was quite another thing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.25.6
+  kind: p
+  original: 'Drei große Hindernisse waren es, die ihm vor allem den Weg zur gesellschaftlichen Reform zu versperren schienen: das Privateigentum, die Religion und die gegenwärtige Form der Ehe.'
+  en: 'Three great obstacles seemed to him especially to block the path to social reform: private property, religion, the present form of marriage.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.25.7
+  kind: p
+  original: 'Er wußte, was ihm bevorstand, wenn er sie angriff: die allgemeine Ächtung durch die offizielle Gesellschaft, der Verlust seiner ganzen sozialen Stellung.'
+  en: He knew what confronted him if he attacked these--outlawry, excommunication from official society, the loss of his whole social position.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: I.25.8
+  kind: p
+  original: Aber er ließ sich nicht abhalten, sie rücksichtslos anzugreifen, und es geschah, wie er vorhergesehn.
+  en: But nothing of this prevented him from attacking them without fear of consequences, and what he had foreseen happened.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 199-200
+- id: I.25.9
+  kind: p
+  original: Verbannt aus der offiziellen Gesellschaft, totgeschwiegen von der Presse, verarmt durch fehlgeschlagne kommunistische Versuche in Amerika, in denen er sein ganzes Vermögen geopfert, wandte er sich direkt an die Arbeiterklasse und blieb in ihrer Mitte noch dreißig Jahre tätig.
+  en: Banished from official society, with a conspiracy of silence against him in the press, ruined by his unsuccessful Communist experiments in America, in which he sacrificed all his fortune, he turned directly to the working-class and continued working in their midst for thirty years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: I.25.10
+  kind: p
+  original: Alle gesellschaftlichen Bewegungen, alle wirklichen Fortschritte, die in England im Interesse der Arbeiter zustande gekommen, knüpfen sich an den Namen Owen.
+  en: Every social movement, every real advance in England on behalf of the workers links itself on to the name of Robert Owen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: I.25.11
+  kind: p
+  original: So setzte er 1819, nach fünfjähriger Anstrengung, das erste Gesetz zur Beschränkung der Weiber- und Kinderarbeit in den Fabriken durch.
+  en: He forced through in 1819, after five years' fighting, the first law limiting the hours of labor of women and children in factories.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: I.25.12
+  kind: p
+  original: So präsidierte er dem ersten Kongreß, auf dem die Trades Unions von ganz England sich in eine einzige große Gewerksgenossenschaft vereinigten.
+  en: He was president of the first Congress at which all the Trade Unions of England united in a single great trade association.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: I.25.13
+  kind: p
+  original: So führte er als Übergangsmaßregeln zur vollständig kommunistischen Einrichtung der Gesellschaft einerseits die Kooperativgesellschaften ein (Konsum- und Produktivgenossenschaften), die seitdem wenigstens den praktischen Beweis geliefert haben, daß sowohl der Kaufmann wie der Fabrikant sehr entbehrliche Personen sind; andrerseits die Arbeitsbasars, Anstalten zum Austausch von Arbeitsprodukten vermittelst eines Arbeitspapiergelds, dessen Einheit die Arbeitsstunde bildete; Anstalten, die notwendig scheitern mußten, die aber die weit spätere Proudhonsche Tauschbank vollständig antizipierten, sich indes grade dadurch von dieser unterschieden, daß sie nicht das Universalheilmittel aller gesellschaftlichen Übel, sondern nur einen ersten Schritt zu einer weit radikalern Umgestaltung der Gesellschaft darstellten.
+  en: He introduced as transition measures to the complete communistic organization of society, on the one hand, cooperative societies for retail trade and production. These have since that time, at least, given practical proof that the merchant and the manufacturer are socially quite unnecessary. On the other hand, he introduced labor bazaars for the exchange of the products of labor through the medium of labor-notes, whose unit was a single hour of work; institutions necessarily doomed to failure, but completely anticipating Proudhon's bank of exchange of a much later period, and differing entirely from this in that it did not claim to be the panacea for all social ills, but only a first step towards a much more radical revolution of society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: I.26.1
+  kind: p
+  original: Die Anschauungsweise der Utopisten hat die sozialistischen Vorstellungen des 19. Jahrhunderts lange beherrscht und beherrscht sie zum Teil noch.
+  en: The Utopians' mode of thought has for a long time governed the socialist ideas of the nineteenth century, and still governs some of them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: I.26.2
+  kind: p
+  original: Ihr huldigten noch bis vor ganz kurzer Zeit alle französischen und englischen Sozialisten, ihr gehört auch der frühere deutsche Kommunismus mit Einschluß Weitlings an.
+  en: Until very recently all French and English Socialists did homage to it. The earlier German Communism, including that of Weitling, was of the same school.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.26.3
+  kind: p
+  original: Der Sozialismus ist ihnen allen der Ausdruck der absoluten Wahrheit, Vernunft und Gerechtigkeit und braucht nur entdeckt zu werden, um durch eigne Kraft die Welt zu erobern; da die absolute Wahrheit unabhängig ist von Zeit, Raum und menschlicher geschichtlicher Entwicklung, so ist es bloßer Zufall, wann und wo sie entdeckt wird.
+  en: To all these Socialism is the expression of absolute truth, reason, and justice, and has only to be discovered to conquer all the world by virtue of its own power. And as absolute truth is independent of time, space, and of the historical development of man, it is a mere accident when and where it is discovered.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.26.4
+  kind: p
+  original: Dabei ist dann die absolute Wahrheit, Vernunft und Gerechtigkeit wieder bei jedem Schulstifter verschieden; und da bei jedem die besondre Art der absoluten Wahrheit, Vernunft und Gerechtigkeit wieder bedingt ist durch seinen subjektiven Verstand, seine Lebensbedingungen, sein Maß von Kenntnissen und Denkschulung, so ist in diesem Konflikt absoluter Wahrheiten keine andre Lösung möglich, als daß sie sich aneinander abschleißen.
+  en: With all this, absolute truth, reason, and justice are different with the founder of each different school. And as each one's special kind of absolute truth, reason, and justice is again conditioned by his subjective understanding, his conditions of existence, the measure of his knowledge and his intellectual training, there is no other ending possible in this conflict of absolute truths than that they shall be mutually exclusive one of the other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.26.5
+  kind: p
+  original: Dabei konnte dann nichts andres herauskommen als eine Art von eklektischem Durchschnitts-Sozialismus, wie er in der Tat bis heute in den Köpfen der meisten sozialistischen Arbeiter in Frankreich und England herrscht, eine äußerst mannigfaltige Schattierungen zulassende Mischung aus den weniger Anstoß erregenden kritischen Auslassungen, ökonomischen Lehrsätzen und gesellschaftlichen Zukunftsvorstellungen der verschiednen Sektenstifter, eine Mischung, die sich um so leichter bewerkstelligt, je mehr den einzelnen Bestandteilen im Strom der Debatte die scharfen Ecken der Bestimmtheit abgeschliffen sind wie runden Kieseln im Bach.
+  en: Hence, from this nothing could come but a kind of eclectic, average Socialism, which, as a matter of fact, has up to the present time dominated the minds of most of the socialist workers in France and England. Hence, a mish-mash allowing of the most manifold shades of opinion; a mish-mash of such critical statements, economic theories, pictures of future society by the founders of different sects, as excite a minimum of opposition; a mish-mash which is the more easily brewed the more the definite sharp edges of the individual constituents are rubbed down in the stream of debate, like rounded pebbles in a brook.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 200-201
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.26.6
+  kind: p
+  original: Um aus dem Sozialismus eine Wissenschaft zu machen, mußte er erst auf einen realen Boden gestellt werden.
+  en: To make a science of Socialism, it had first to be placed upon a real basis.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: I.N1.1.1
+  kind: note
+  original: 'Folgendes ist die Stelle über die Französische Revolution: "Der Gedanke, der Begriff des Rechts machte sich mit einem Male geltend, und dagegen konnte das alte Gerüst des Unrechts keinen Widerstand leisten.'
+  en: 'This is the passage on the French Revolution: "Thought, the concept of law, all at once made itself felt, and against this the old scaffolding of wrong could make no stand.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.N1.1.2
+  kind: note
+  original: Im Gedanken des Rechts ist also jetzt eine Verfassung errichtet worden, und auf diesem Grunde sollte nunmehr alles basiert sein.
+  en: In this conception of law, therefore, a constitution has now been established, and henceforth everything must be based upon this.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.N1.1.3
+  kind: note
+  original: Solange die Sonne am Firmament steht und die Planeten um sie kreisen, war das noch nicht gesehen worden, daß der Mensch sich auf den Kopf, das ist auf den Gedanken stellt und die Wirklichkeit nach diesem erbaut.
+  en: Since the sun had been in the firmament, and the planets circled round him, the sight had never been seen of man standing upon his head--i.e., on the Idea--and building reality after this image.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.N1.1.4
+  kind: note
+  original: Anaxagoras hatte zuerst gesagt, daß der Nûs, die Vernunft, die Welt regiert; nun aber erst ist der Mensch dazugekommen, zu erkennen, daß der Gedanke die geistige Wirklichkeit regieren solle.
+  en: Anaxagoras first said that the Nous, reason, rules the world; but now, for the first time, had man come to recognize that the Idea must rule the mental reality.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.N1.1.5
+  kind: note
+  original: Es war dieses somit ein herrlicher Sonnenaufgang.
+  en: And this was a magnificent sunrise.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.N1.1.6
+  kind: note
+  original: Alle denkenden Wesen haben diese Epoche mitgefeiert.
+  en: All thinking Beings have participated in celebrating this holy day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.N1.1.7
+  kind: note
+  original: Eine erhabene Rührung hat in jener Zeit geherrscht, ein Enthusiasmus des Geistes hat die Welt durchschauert, als sei es zur Versöhnung des Göttlichen mit der Welt nun erst gekommen."
+  en: A sublime emotion swayed men at that time, an enthusiasm of reason pervaded the world, as if now had come the reconciliation of the Divine Principle with the world."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.N1.1.8
+  kind: note
+  original: (Hegel, "Philosophie der Geschichte", 1840, S. 535.)
+  en: '[Hegel: "Philosophy of History," 1840, p. 535.]'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.N1.1.9
+  kind: note
+  original: '- Sollte es nicht hohe Zeit sein, gegen solche gemeingefährliche Umsturzlehren des weiland Professor Hegel das Sozialistengesetz in Bewegung zu setzen?'
+  en: Is it not high time to set the anti-Socialist law in action against such teachings, subversive and to the common danger, by the late Professor Hegel?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.N2.1.1
+  kind: note
+  original: 'Aus: "The Revolution in Mind and Practice", einer an alle "roten Republikaner, Kommunisten und Sozialisten Europas" gerichteten und der französischen provisorischen Regierung 1848, aber auch "der Königin Viktoria und ihren verantwortlichen Ratgebern" zugesandten Denkschrift.'
+  en: From "The Revolution in Mind and Practice," p. 21, a memorial addressed to all the "red Republicans, Communists and Socialists of Europe," and sent to the provisional government of France, 1848, and also "to Queen Victoria and her responsible advisers."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.E1.1.1
+  kind: note
+  original: ''
+  en: Note, l. c., p. 70.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: Aveling's 1892 English only; MEW has no note here

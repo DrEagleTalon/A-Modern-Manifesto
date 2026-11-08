@@ -81,7 +81,7 @@
   original_language: de
   tier: A
   priority: 6
-  stage: sourced
+  stage: ready
   sources:
     original: ["mlwerke:me19/me19_177.htm..me19_228.htm"]
     english: ["gutenberg:Socialism--Utopian-and-Scientific_39257", "mia:en/archive/marx/works/1880/soc-utop/"]

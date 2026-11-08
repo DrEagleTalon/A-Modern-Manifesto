@@ -1,0 +1,2267 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: III
+title_original: III
+title_en: III
+author: Friedrich Engels
+date: 1880-01/03; revised 1882 and 1891
+original_language: de
+anchor_language: de
+source_original: MEW 19, S. 177-228 (Dietz, Berlin) via mlwerke.de; text of the fourth German edition (1891)
+source_en: Edward Aveling's authorised translation (London 1892), Charles H. Kerr reprint (Chicago 1908), Project Gutenberg ebook 39257 (public domain)
+verses:
+- id: III.0.1
+  kind: heading
+  original: III
+  en: III
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.1.1
+  kind: p
+  original: Die materialistische Anschauung der Geschichte geht von dem Satz aus, daß die Produktion, und nächst der Produktion der Austausch ihrer Produkte, die Grundlage aller Gesellschaftsordnung ist; daß in jeder geschichtlich auftretenden Gesellschaft die Verteilung der Produkte, und mit ihr die soziale Gliederung in Klassen oder Stände, sich danach richtet, was und wie produziert und wie das Produzierte ausgetauscht wird.
+  en: The materialist conception of history starts from the proposition that the production of the means to support human life and, next to production, the exchange of things produced, is the basis of all social structure; that in every society that has appeared in history, the manner in which wealth is distributed and society divided into classes or orders, is dependent upon what is produced, how it is produced, and how the products are exchanged.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '210'
+- id: III.1.2
+  kind: p
+  original: Hiernach sind die letzten Ursachen aller gesellschaftlichen Veränderungen und politischen Umwälzungen zu suchen nicht in den Köpfen der Menschen, in ihrer zunehmenden Einsicht in die ewige Wahrheit und Gerechtigkeit, sondern in Veränderungen der Produktions- und Austauschweise; sie sind zu suchen nicht in der Philosophie, sondern in der Ökonomie der betreffenden Epoche.
+  en: From this point of view the final causes of all social changes and political revolutions are to be sought, not in men's brains, not in man's better insight into eternal truth and justice, but in changes in the modes of production and exchange. They are to be sought, not in the philosophy, but in the economics of each particular epoch.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '210'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.1.3
+  kind: p
+  original: Die erwachende Einsicht, daß die bestehenden gesellschaftlichen Einrichtungen unvernünftig und ungerecht sind, daß Vernunft Unsinn, Wohltat Plage geworden, ist nur ein Anzeichen davon, daß in den Produktionsmethoden und Austauschformen in aller Stille Veränderungen vor sich gegangen sind, zu denen die auf frühere ökonomische Bedingungen, zugeschnittne gesellschaftliche Ordnung nicht mehr stimmt.
+  en: The growing perception that existing social institutions are unreasonable and unjust, that reason has become unreason, and right wrong, is only proof that in the modes of production and exchange changes have silently taken place, with which the social order, adapted to earlier economic conditions, is no longer in keeping.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '210'
+- id: III.1.4
+  kind: p
+  original: Damit ist zugleich gesagt, daß die Mittel zur Beseitigung der entdeckten Mißstände ebenfalls in den veränderten Produktionsverhältnissen selbst - mehr oder minder entwickelt - vorhanden sein müssen.
+  en: From this it also follows that the means of getting rid of the incongruities that have been brought to light, must also be present, in a more or less developed condition, within the changed modes of production themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '210'
+- id: III.1.5
+  kind: p
+  original: Diese Mittel sind nicht etwa aus dem Kopfe zu erfinden, sondern vermittelst des Kopfes in den vorliegenden materiellen Tatsachen der Produktion zu entdecken.
+  en: These means are not to be invented by deduction from fundamental principles, but are to be discovered in the stubborn facts of the existing system of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '210'
+- id: III.2.1
+  kind: p
+  original: Wie steht es nun hiernach mit dem modernen Sozialismus?
+  en: What is, then, the position of modern Socialism in this connection?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '210'
+- id: III.3.1
+  kind: p
+  original: Die bestehende Gesellschaftsordnung - das ist nun so ziemlich allgemein zugegeben - ist geschaffen worden von der jetzt herrschenden Klasse, der Bourgeoisie.
+  en: The present structure of society--this is now pretty generally conceded--is the creation of the ruling class of to-day, of the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '210'
+- id: III.3.2
+  kind: p
+  original: Die der Bourgeoisie eigentümliche Produktionsweise, seit Marx mit dem Namen kapitalistische Produktionsweise bezeichnet, war unverträglich mit den lokalen und ständischen Privilegien wie mit den gegenseitigen persönlichen Banden der feudalen Ordnung; die Bourgeoisie zerschlug die feudale Ordnung und stellte auf ihren Trümmern die bürgerliche Gesellschaftsverfassung her, das Reich der freien Konkurrenz, der Freizügigkeit, der Gleichberechtigung der Warenbesitzer und wie die bürgerlichen Herrlichkeiten alle heißen.
+  en: The mode of production peculiar to the bourgeoisie, known, since Marx, as the capitalist mode of production, was incompatible with the feudal system, with the privileges it conferred upon individuals, entire social ranks and local corporations, as well as with the hereditary ties of subordination which constituted the framework of its social organization. The bourgeoisie broke up the feudal system and built upon its ruins the capitalist order of society, the kingdom of free competition, of personal liberty, of the equality, before the law, of all commodity owners, of all the rest of the capitalist blessings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 210-211
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.3.3
+  kind: p
+  original: Die kapitalistische Produktionsweise konnte sich jetzt frei entfalten.
+  en: Thenceforward the capitalist mode of production could develop in freedom.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: III.3.4
+  kind: p
+  original: Die unter der Leitung der Bourgeoisie herausgearbeiteten Produktionsverhältnisse entwickelten sich, seit der Dampf und die neue Werkzeugmaschinerie die alte Manufaktur in die große Industrie umgewandelt, mit bisher unerhörter Schnelligkeit und in bisher unerhörtem Maße.
+  en: Since steam, machinery, and the making of machines by machinery transformed the older manufacture into modern industry, the productive forces evolved under the guidance of the bourgeoisie developed with a rapidity and in a degree unheard of before.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: 1878 (Anti-Dühring)
+    reading: 'Im "Anti-Dühring": Produktivkräfte'
+    base_text: … der Bourgeoisie herausgearbeiteten Produktionsverhältnisse ‸ entwickelten sich, seit der …
+  mew_page: '211'
+- id: III.3.5
+  kind: p
+  original: Aber wie ihrerzeit die Manufaktur und das unter ihrer Einwirkung weiterentwickelte Handwerk mit den feudalen Fesseln der Zünfte in Konflikt kam, so kommt die große Industrie in ihrer volleren Ausbildung in Konflikt mit den Schranken, in denen die kapitalistische Produktionsweise sie eingeengt hält.
+  en: But just as the older manufacture, in its time, and handicraft, becoming more developed under its influence, had come into collision with the feudal trammels of the guilds, so now modern industry, in its more complete development, comes into collision with the bounds within which the capitalistic mode of production holds it confined.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: III.3.6
+  kind: p
+  original: Die neuen Produktionskräfte sind der bürgerlichen Form ihrer Ausnutzung bereits über den Kopf gewachsen; und dieser Konflikt zwischen Produktivkräften und Produktionsweise ist nicht ein in den Köpfen der Menschen entstandner Konflikt, wie etwa der der menschlichen Erbsünde mit der göttlichen Gerechtigkeit, sondern er besteht in den Tatsachen, objektiv, außer uns, unabhängig vom Wollen oder Laufen selbst derjenigen Menschen, die ihn herbeigeführt.
+  en: The new productive forces have already outgrown the capitalistic mode of using them. And this conflict between productive forces and modes of production is not a conflict engendered in the mind of man, like that between original sin and divine justice. It exists, in fact, objectively, outside us, independently of the will and actions even of the men that have brought it on.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.3.7
+  kind: p
+  original: Der moderne Sozialismus ist weiter nichts als der Gedankenreflex dieses tatsächlichen Konflikts, seine ideelle Rückspiegelung in den Köpfen zunächst der Klasse, die direkt unter ihm leidet, der Arbeiterklasse.
+  en: Modern Socialism is nothing but the reflex, in thought, of this conflict in fact; its ideal reflection in the minds, first, of the class directly suffering under it, the working-class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: III.4.1
+  kind: p
+  original: Worin besteht nun dieser Konflikt?
+  en: Now, in what does this conflict consist?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: III.5.1
+  kind: p
+  original: 'Vor der kapitalistischen Produktion, also im Mittelalter, bestand allgemeiner Kleinbetrieb auf Grundlage des Privateigentums der Arbeiter an ihren Produktionsmitteln: der Ackerbau der kleinen, freien oder hörigen Bauern, das Handwerk der Städte.'
+  en: Before capitalistic production, i.e., in the Middle Ages, the system of petty industry obtained generally, based upon the private property of the laborers in their means of production; in the country, the agriculture of the small peasant, freeman or serf; in the towns, the handicrafts organized in guilds.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: III.5.2
+  kind: p
+  original: Die Arbeitsmittel - Land, Ackergerät, Werkstatt, Handwerkszeug - waren Arbeitsmittel des einzelnen, nur für den Einzelgebrauch berechnet, also notwendig kleinlich, zwerghaft, beschränkt.
+  en: The instruments of labor--land, agricultural implements, the workshop, the tool--were the instruments of labor of single individuals, adapted for the use of one worker, and, therefore, of necessity, small, dwarfish, circumscribed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: III.5.3
+  kind: p
+  original: Aber sie gehörten eben deshalb auch in der Regel dem Produzenten selbst.
+  en: But, for this very reason they belonged, as a rule, to the producer himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: III.5.4
+  kind: p
+  original: Diese zersplitterten, engen Produktionsmittel zu konzentrieren, auszuweiten, sie in die mächtig wirkenden Produktionshebel der Gegenwart umzuwandeln, war gerade die historische Rolle der kapitalistischen Produktionsweise und ihrer Trägerin, der Bourgeoisie.
+  en: To concentrate these scattered, limited means of production, to enlarge them, to turn them into the powerful levers of production of the present day--this was precisely the historic role of capitalist production and of its upholder, the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: III.5.5
+  kind: p
+  original: 'Wie sie dies seit dem 15. Jahrhundert auf den drei Stufen: der einfachen Kooperation, der Manufaktur und der großen Industrie, geschichtlich durchgeführt, hat Marx im vierten Abschnitt des "Kapital" ausführlich geschildert.'
+  en: In the fourth section of "Capital" Marx has explained in detail, how since the fifteenth century this has been historically worked out through the three phases of simple co-operation, manufacture, and modern industry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 211-212
+- id: III.5.6
+  kind: p
+  original: Aber die Bourgeoisie, wie dort ebenfalls nachgewiesen, konnte jene beschränkten Produktionsmittel nicht in gewaltige Produktionskräfte verwandeln, ohne sie aus Produktionsmitteln des einzelnen in gesellschaftliche, nur von einer Gesamtheit von Menschen anwendbare Produktionsmittel zu verwandeln.
+  en: But the bourgeoisie, as is also shown there, could not transform these puny means of production into mighty productive forces, without transforming them, at the same time, from means of production of the individual into social means of production only workable by a collectivity of men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.5.7
+  kind: p
+  original: An die Stelle des Spinnrads, des Handwebestuhls, des Schmiedehammers trat die Spinnmaschine, der mechanische Webstuhl, der Dampfhammer; an die Stelle der Einzelwerkstatt die das Zusammenwirken von Hunderten und Tausenden gebietende Fabrik.
+  en: The spinning-wheel, the handloom, the blacksmith's hammer, were replaced by the spinning-machine, the power-loom, the steam-hammer; the individual workshop, by the factory implying the co-operation of hundreds and thousands of workmen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.5.8
+  kind: p
+  original: Und wie die Produktionsmittel, so verwandelte sich die Produktion selbst aus einer Reihe von Einzelhandlungen in eine Reihe gesellschaftlicher Akte und die Produkte aus Produkten einzelner in gesellschaftliche Produkte.
+  en: In like manner, production itself changed from a series of individual into a series of social acts, and the products from individual to social products.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.5.9
+  kind: p
+  original: Das Garn, das Gewebe, die Metallwaren, die jetzt aus der Fabrik kamen, waren das gemeinsame Produkt vieler Arbeiter, durch deren Hände sie der Reihe nach gehn mußten, ehe sie fertig wurden.
+  en: The yarn, the cloth, the metal articles that now came out of the factory were the joint product of many workers through whose hands they had successively to pass before they were ready.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.5.10
+  kind: p
+  original: 'Kein einzelner konnte von ihnen sagen: Das habe ich gemacht, das ist mein Produkt.'
+  en: 'No one person could say of them: "I made that; this is my product."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.6.1
+  kind: p
+  original: Wo aber die naturwüchsige, planlos allmählich entstandne Teilung der Arbeit innerhalb der Gesellschaft Grundform der Produktion ist, da drückt sie den Produkten die Form von Waren auf, deren gegenseitiger Austausch, Kauf und Verkauf, die einzelnen Produzenten in den Stand setzt, ihre mannigfachen Bedürfnisse zu befriedigen.
+  en: But where, in a given society, the fundamental form of production is that spontaneous division of labor which creeps in gradually and not upon any preconceived plan, there the products take on the form of commodities, whose mutual exchange, buying and selling, enable the individual producers to satisfy their manifold wants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.6.2
+  kind: p
+  original: Und dies war im Mittelalter der Fall.
+  en: And this was the case in the Middle Ages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.6.3
+  kind: p
+  original: Der Bauer z.B. verkaufte Ackerbauprodukte an den Handwerker und kaufte dafür von diesem Handwerkserzeugnisse.
+  en: The peasant, e.g., sold to the artisan agricultural products and bought from him the products of handicraft.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.6.4
+  kind: p
+  original: In diese Gesellschaft von Einzelproduzenten, Warenproduzenten, schob sich nun die neue Produktionsweise ein.
+  en: Into this society of individual producers, of commodity-producers, the new mode of production thrust itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.6.5
+  kind: p
+  original: Mitten in die naturwüchsige, planlose Teilung der Arbeit, wie sie in der ganzen Gesellschaft herrschte, stellte sie die planmäßige Teilung der Arbeit, wie sie in der einzelnen Fabrik organisiert war; neben die Einzelproduktion trat die gesellschaftliche Produktion.
+  en: In the midst of the old division of labor, grown up spontaneously and upon no definite plan, which had governed the whole of society, now arose division of labor upon a definite plan, as organized in the factory; side by side with individual production appeared social production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.6.6
+  kind: p
+  original: Die Produkte beider wurden auf demselben Markt verkauft, also zu wenigstens annähernd gleichen Preisen.
+  en: The products of both were sold in the same market, and, therefore, at prices at least approximately equal.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: III.6.7
+  kind: p
+  original: Aber die planmäßige Organisation war mächtiger als die naturwüchsige Arbeitsteilung; die gesellschaftlich arbeitenden Fabriken stellten ihre Erzeugnisse wohlfeiler her als die vereinzelten Kleinproduzenten.
+  en: But organization upon a definite plan was stronger than spontaneous division of labor. The factories working with the combined social forces of a collectivity of individuals produced their commodities far more cheaply than the individual small producers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.6.8
+  kind: p
+  original: Die Einzelproduktion erlag auf einem Gebiet nach dem andern, die gesellschaftliche Produktion revolutionierte die ganze alte Produktionsweise.
+  en: Individual production succumbed in one department after another. Socialized production revolutionized all the old methods of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.6.9
+  kind: p
+  original: Aber dieser ihr revolutionärer Charakter wurde so wenig erkannt, daß sie im Gegenteil eingeführt wurde als Mittel zur Hebung und Fö rderung der Warenproduktion.
+  en: But its revolutionary character was, at the same time, so little recognized, that it was, on the contrary, introduced as a means of increasing and developing the production of commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 212-213
+- id: III.6.10
+  kind: p
+  original: 'Sie entstand in direkter Anknüpfung an bestimmte, bereits vorgefundne Hebel der Warenproduktion und des Warenaustausches: Kaufmannskapital, Handwerk, Lohnarbeit.'
+  en: When it arose, it found ready-made, and made liberal use of, certain machinery for the production and exchange of commodities; merchants' capital, handicraft, wage-labor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: III.6.11
+  kind: p
+  original: Indem sie selbst auftrat als eine neue Form der Warenproduktion, blieben die Aneignungsformen der Warenproduktion auch für sie in voller Geltung.
+  en: Socialized production thus introducing itself as a new form of the production of commodities, it was a matter of course that under it the old forms of appropriation remained in full swing, and were applied to its products as well.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: III.7.1
+  kind: p
+  original: In der Warenproduktion, wie sie sich im Mittelalter entwickelt hatte, konnte die Frage gar nicht entstehn, wem das Erzeugnis der Arbeit gehören solle.
+  en: In the mediaeval stage of evolution of the production of commodities, the question as to the owner of the product of labor could not arise.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: III.7.2
+  kind: p
+  original: Der einzelne Produzent hatte es, in der Regel, aus ihm gehörendem, oft selbsterzeugtem Rohstoff, mit eignen Arbeitsmitteln und mit eigner Handarbeit oder der seiner Familie hergestellt.
+  en: The individual producer, as a rule, had, from raw material belonging to himself, and generally his own handiwork, produced it with his own tools, by the labor of his own hands or of his family.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: III.7.3
+  kind: p
+  original: Es brauchte gar nicht erst von ihm angeeignet zu werden, es gehörte ihm ganz von selbst.
+  en: There was no need for him to appropriate the new product. It belonged wholly to him, as a matter of course.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.7.4
+  kind: p
+  original: Das Eigentum am Produkte beruhte also auf eigner Arbeit.
+  en: His property in the product was, therefore, based upon his own labor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: III.7.5
+  kind: p
+  original: 'Selbst wo fremde Hülfe gebraucht ward, blieb diese in der Regel Nebensache und erhielt häufig außer dem Lohn noch andre Vergütung: Der zünftige Lehrling und Geselle arbeiteten weniger wegen der Kost und des Lohns als wegen ihrer eignen Ausbildung zur Meisterschaft.'
+  en: Even where external help was used, this was, as a rule, of little importance, and very generally was compensated by something other than wages. The apprentices and journeymen of the guilds worked less for board and wages than for education, in order that they might become master craftsmen themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.7.6
+  kind: p
+  original: Da kam die Konzentration der Produktionsmittel in großen Werkstätten und Manufakturen, ihre Verwandlung in tatsächlich gesellschaftliche Produktionsmittel.
+  en: Then came the concentration of the means of production and of the producers in large workshops and manufactories, their transformation into actual socialized means of production and socialized producers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: III.7.7
+  kind: p
+  original: Aber die gesellschaftlichen Produktionsmittel und Produkte wurden behandelt, als wären sie nach wie vor die Produktionsmittel und Produkte einzelner.
+  en: But the socialized producers and means of production and their products were still treated, after this change, just as they had been before, i.e., as the means of production and the products of individuals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: III.7.8
+  kind: p
+  original: Hatte bisher der Besitzer der Arbeitsmittel sich das Produkt angeeignet, weil es in der Regel sein eignes Produkt und fremde Hülfsarbeit die Ausnahme war, so fuhr jetzt der Besitzer der Arbeitsmittel fort, sich das Produkt anzueignen, obwohl es nicht mehr sein Produkt war, sondern ausschließlich Produkt fremder Arbeit.
+  en: Hitherto, the owner of the instruments of labor had himself appropriated the product, because, as a rule, it was his own product and the assistance of others was the exception. Now the owner of the instruments of labor always appropriated to himself the product, although it was no longer his product but exclusively the product of the labor of others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.7.9
+  kind: p
+  original: So wurden also die nunmehr gesellschaftlich erzeugten Produkte angeeignet nicht von denen, die die Produktionsmittel wirklich in Bewegung gesetzt und die Produkte wirklich erzeugt hatten, sondern vom Kapitalisten.
+  en: Thus, the products now produced socially were not appropriated by those who had actually set in motion the means of production and actually produced the commodities, but by the capitalists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: III.7.10
+  kind: p
+  original: Produktionsmittel und Produktion sind wesentlich gesellschaftlich geworden.
+  en: The means of production, and production itself, had become in essence socialized.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: III.7.11
+  kind: p
+  original: Aber sie werden unterworfen einer Aneignungsform, die die Privatproduktion einzelner zur Voraussetzung hat, wobei also jeder sein eignes Produkt besitzt und zu Markte bringt.
+  en: But they were subjected to a form of appropriation which presupposes the private production of individuals, under which, therefore, every one owns his own product and brings it to market.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: III.7.12
+  kind: p
+  original: Die Produktionsweise wird dieser Aneignungsform unterworfen, obwohl sie deren Voraussetzung aufhebt.
+  en: The mode of production is subjected to this form of appropriation, although it abolishes the conditions upon which the latter rests.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - III.N1
+  mew_page: '213'
+- id: III.7.13
+  kind: p
+  original: In diesem Widerspruch, der der neuen Produktionsweise ihren kapitalistischen Charakter verleiht, liegt die ganze Kollision der Gegenwart bereits im Keim.
+  en: This contradiction, which gives to the new mode of production its capitalistic character, contains the germ of the whole of the social antagonisms of to-day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 213-214
+- id: III.7.14
+  kind: p
+  original: Je mehr die neue Produktionsweise auf allen entscheidenden Produktionsfeldern und in allen ökonomisch entscheidenden Ländern zur Herrschaft kam und damit die Einzelproduktion bis auf unbedeutende Reste verdrängte, desto greller mußte auch an den Tag treten die Unverträglichkeit von gesellschaftlicher Produktion und kapitalistischer Aneignung.
+  en: The greater the mastery obtained by the new mode of production over all important fields of production and in all manufacturing countries, the more it reduced individual production to an insignificant residuum, the more clearly was brought out the incompatibility of socialized production with capitalistic appropriation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.8.1
+  kind: p
+  original: Die ersten Kapitalisten fanden, wie gesagt, die Form der Lohnarbeit bereits vor.
+  en: The first capitalists found, as we have said, alongside of other forms of labor, wage-labor ready-made for them on the market.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.8.2
+  kind: p
+  original: Aber Lohnarbeit als Ausnahme, als Nebenbeschäftigung, als Aushülfe, als Durchgangspunkt.
+  en: But it was exceptional, complementary, accessory, transitory wage-labor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.8.3
+  kind: p
+  original: Der Landarbeiter, der zeitweise taglöhnern ging, hatte seine paar Morgen eignes Land, von denen allein er zur Not leben konnte.
+  en: The agricultural laborer, though, upon occasion, he hired himself out by the day, had a few acres of his own land on which he could at all events live at a pinch.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.8.4
+  kind: p
+  original: Die Zunftordnungen sorgten dafür, daß der Geselle von heute in den Meister von morgen überging.
+  en: The guilds were so organized that the journeyman of to-day became the master of to-morrow.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.8.5
+  kind: p
+  original: Sobald aber die Produktionsmittel in gesellschaftliche verwandelt und in den Händen von Kapitalisten konzentriert wurden, änderte sich dies.
+  en: But all this changed, as soon as the means of production became socialized and concentrated in the hands of capitalists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.8.6
+  kind: p
+  original: Das Produktionsmittel wie das Produkt des kleinen Einzelproduzenten wurde mehr und mehr wertlos; es blieb ihm nichts übrig, als zum Kapitalisten auf Lohn zu gehn.
+  en: The means of production, as well as the product of the individual producer became more and more worthless; there was nothing left for him but to turn wage-worker under the capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.8.7
+  kind: p
+  original: Die Lohnarbeit, früher Ausnahme und Aushülfe, wurde Regel und Grundform der ganzen Produktion; früher Nebenbeschäftigung, wurde sie jetzt ausschließliche Tätigkeit des Arbeiters.
+  en: Wage-labor, aforetime the exception and accessory, now became the rule and basis of all production; aforetime complementary, it now became the sole remaining function of the worker.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.8.8
+  kind: p
+  original: Der zeitweilige Lohnarbeiter verwandelte sich in den lebenslänglichen.
+  en: The wage-worker for a time became a wage-worker for life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.8.9
+  kind: p
+  original: Die Menge der lebenslänglichen Lohnarbeiter wurde zudem kolossal vermehrt durch den gleichzeitigen Zusammenbruch der feudalen Ordnung, Auflösung der Gefolgschaften der Feudalherren, Vertreibung von Bauern aus ihren Hofstellen etc. Die Scheidung war vollzogen zwischen den in den Händen der Kapitalisten konzentrierten Produktionsmitteln hier und den auf den Besitz von nichts als ihrer Arbeitskraft reduzierten Produzenten dort.
+  en: The number of these permanent wage-workers was further enormously increased by the breaking-up of the feudal system that occurred at the same time, by the disbanding of the retainers of the feudal lords, the eviction of the peasants from their homesteads, etc. The separation was made complete between the means of production concentrated in the hands of the capitalists on the one side, and the producers, possessing nothing but their labor-power, on the other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.8.10
+  kind: p
+  original: Der Widerspruch zwischen gesellschaftlicher Produktion und kapitalistischer Aneignung tritt an den Tag als Gegensatz von Proletariat und Bourgeoisie.
+  en: The contradiction between socialized production and capitalistic appropriation manifested itself as the antagonism of proletariat and bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.9.1
+  kind: p
+  original: Wir sahen, daß die kapitalistische Produktionsweise sich einschob in eine Gesellschaft von Warenproduzenten, Einzelproduzenten, deren gesellschaftlicher Zusammenhang vermittelt wurde durch den Austausch ihrer Produkte.
+  en: We have seen that the capitalistic mode of production thrust its way into a society of commodity-producers, of individual producers, whose social bond was the exchange of their products.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.9.2
+  kind: p
+  original: Aber jede auf Warenproduktion beruhende Gesellschaft hat das Eigentümliche, daß in ihr die Produzenten die Herrschaft über ihre eignen gesellschaftlichen Beziehungen verloren haben.
+  en: 'But every society, based upon the production of commodities, has this peculiarity: that the producers have lost control over their own social inter-relations.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.9.3
+  kind: p
+  original: Jeder produziert für sich mit seinen zufälligen Produktionsmitteln und für sein besondres Austauschbedürfnis.
+  en: Each man produces for himself with such means of production as he may happen to have, and for such exchange as he may require to satisfy his remaining wants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: III.9.4
+  kind: p
+  original: Keiner weiß, wieviel von seinem Artikel auf den Markt kommt, wieviel davon überhaupt gebraucht wird, keiner weiß, ob sein Einzelprodukt einen wirklichen Bedarf vorfindet, ob er seine Kosten herausschlagen oder überhaupt wird verkaufen können.
+  en: No one knows how much of his particular article is coming on the market, nor how much of it will be wanted. No one knows whether his individual product will meet an actual demand, whether he will be able to make good his cost of production or even to sell his commodity at all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 214-215
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.9.5
+  kind: p
+  original: Es herrscht Anarchie der gesellschaftlichen Produktion.
+  en: Anarchy reigns in socialized production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.9.6
+  kind: p
+  original: Aber die Warenproduktion, wie jede andere Produktionsform, hat ihre eigentümlichen, inhärenten, von ihr untrennbaren Gesetze; und diese Gesetze setzen sich durch, trotz der Anarchie, in ihr, durch sie.
+  en: But the production of commodities, like every other form of production, has its peculiar inherent laws inseparable from it; and these laws work, despite anarchy, in and through anarchy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.9.7
+  kind: p
+  original: Sie kommen zum Vorschein in der einzigen, fortbestehenden Form des gesellschaftlichen Zusammenhangs, im Austausch, und machen sich geltend gegenüber den einzelnen Produzenten als Zwangsgesetze der Konkurrenz.
+  en: They reveal themselves in the only persistent form of social inter-relations, i.e., in exchange, and here they affect the individual producers as compulsory laws of competition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.9.8
+  kind: p
+  original: Sie sind diesen Produzenten also anfangs selbst unbekannt und müssen erst durch lange Erfahrung nach und nach von ihnen entdeckt werden.
+  en: They are, at first, unknown to these producers themselves, and have to be discovered by them gradually and as the result of experience.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.9.9
+  kind: p
+  original: Sie setzen sich also durch, ohne die Produzenten und gegen die Produzenten, als blindwirkende Naturgesetze ihrer Produktionsform.
+  en: They work themselves out, therefore, independently of the producers, and in antagonism to them, as inexorable natural laws of their particular form of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.9.10
+  kind: p
+  original: Das Produkt beherrscht die Produzenten.
+  en: The product governs the producers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.10.1
+  kind: p
+  original: In der mittelalterlichen Gesellschaft, namentlich in den ersten Jahrhunderten, war die Produktion wesentlich auf den Selbstgebrauch gerichtet.
+  en: In mediaeval society especially in the earlier centuries, production was essentially directed towards satisfying the wants of the individual.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.10.2
+  kind: p
+  original: Sie befriedigte vorwiegend nur die Bedürfnisse des Produzenten und seiner Familie.
+  en: It satisfied, in the main, only the wants of the producer and his family.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.10.3
+  kind: p
+  original: Wo, wie auf dem Lande, persönliche Abhängigkeitsverhältnisse bestanden, trug sie auch bei zur Befriedigung der Bedürfnisse des Feudalherrn.
+  en: Where relations of personal dependence existed, as in the country, it also helped to satisfy the wants of the feudal lord.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.10.4
+  kind: p
+  original: Hierbei fand also kein Austausch statt, die Produkte nahmen daher auch nicht den Charakter von Waren an.
+  en: In all this there was, therefore, no exchange; the products, consequently, did not assume the character of commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.10.5
+  kind: p
+  original: Die Familie des Bauern produzierte fast alles, was sie brauchte, Geräte und Kleider nicht minder als Lebensmittel.
+  en: 'The family of the peasant produced almost everything they wanted: clothes and furniture, as well as means of subsistence.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.10.6
+  kind: p
+  original: Erst als sie dahin kam, einen Überschuß über ihren eignen Bedarf und über die dem Feudalherrn geschuldeten Naturalabgaben zu produzieren, erst da produzierte sie auch Waren; dieser Überschuß, in den gesellschaftlichen Austausch geworfen, zum Verkauf ausgeboten, wurde Ware.
+  en: Only when it began to produce more than was sufficient to supply its own wants and the payments in kind to the feudal lord, only then did it also produce commodities. This surplus, thrown into socialized exchange and offered for sale, became commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.10.7
+  kind: p
+  original: Die städtischen Handwerker mußten allerdings schon gleich anfangs für den Austausch produzieren.
+  en: The artisans of the towns, it is true, had from the first to produce for exchange.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.10.8
+  kind: p
+  original: Aber auch sie erarbeiteten den größten Teil ihres Eigenbedarfs selbst; sie hatten Gärten und kleine Felder; sie schickten ihr Vieh in den Gemeindewald, der ihnen zudem Nutzholz und Feuerung lieferte, die Frauen spannen Flachs, Wolle usw.
+  en: But they, also, themselves supplied the greatest part of their own individual wants. They had gardens and plots of land. They turned their cattle out into the communal forest, which, also, yielded them timber and firing. The women spun flax, wool, and so forth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+  align: '1:4'
+  review: true
+  review_reason: 1 de sentence(s) matched to 4 en sentence(s); regrouped by the ingest (see MOVE_EN)
+- id: III.10.9
+  kind: p
+  original: Die Produktion zum Zweck des Austausches, die Warenproduktion, war erst im Entstehn.
+  en: Production for the purpose of exchange, production of commodities, was only in its infancy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: III.10.10
+  kind: p
+  original: Daher beschränkter Austausch, beschränkter Markt, stabile Produktionsweise, lokaler Abschluß nach außen, lokale Vereinigung nach innen; die Mark auf dem Lande, die Zunft in der Stadt.
+  en: Hence, exchange was restricted, the market narrow, the methods of production stable; there was local exclusiveness without, local unity within; the mark in the country, in the town, the guild.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - III.N2
+  mew_page: '215'
+- id: III.11.1
+  kind: p
+  original: Mit der Erweiterung der Warenproduktion aber, und namentlich mit dem Auftreten der kapitalistischen Produktionsweise, traten auch die bisher schlummernden Gesetze der Warenproduktion offner und mächtiger in Wirksamkeit.
+  en: But with the extension of the production of commodities, and especially with the introduction of the capitalist mode of production, the laws of commodity-production, hitherto latent, came into action more openly and with greater force.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 215-216
+- id: III.11.2
+  kind: p
+  original: Die alten Verbände wurden gelockert, die alten Abschließungsschranken durchbrochen, die Produzenten mehr und mehr in unabhängige, vereinzelte Warenproduzenten verwandelt.
+  en: The old bonds were loosened, the old exclusive limits broken through, the producers were more and more turned into independent, isolated producers of commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.11.3
+  kind: p
+  original: Die Anarchie der gesellschaftlichen Produktion trat an den Tag und wurde mehr und mehr auf die Spitze getrieben.
+  en: It became apparent that the production of society at large was ruled by absence of plan, by accident, by anarchy; and this anarchy grew to greater and greater height.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.11.4
+  kind: p
+  original: 'Das Hauptwerkzeug aber, womit die kapitalistische Produktionsweise diese Anarchie in der gesellschaftlichen Produktion steigerte, war das gerade Gegenteil der Anarchie: die steigende Organisation der Produktion, als gesellschaftlicher, in jedem einzelnen Produktionsetablissement.'
+  en: But the chief means by aid of which the capitalist mode of production intensified this anarchy of socialized production, was the exact opposite of anarchy. It was the increasing organization of production, upon a social basis, in every individual productive establishment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.11.5
+  kind: p
+  original: Mit diesem Hebel machte sie der alten friedlichen Stabilität ein Ende.
+  en: By this, the old, peaceful, stable condition of things was ended.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.11.6
+  kind: p
+  original: Wo sie in einem Industriezweig eingeführt wurde, litt sie keine ältre Methode des Betriebs neben sich.
+  en: Wherever this organization of production was introduced into a branch of industry, it brooked no other method of production by its side.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: III.11.7
+  kind: p
+  original: Wo sie sich des Handwerks bemächtigte, vernichtete sie das alte Handwerk.
+  en: ''
+  joined_to: III.11.6
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '216'
+- id: III.11.8
+  kind: p
+  original: Das Arbeitsfeld wurde ein Kampfplatz.
+  en: The field of labor became a battle-ground.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.11.9
+  kind: p
+  original: Die großen geographischen Entdeckungen und die ihnen folgenden Kolonisierungen vervielfältigten das Absatzgebiet und beschleunigten die Verwandlung des Handwerks in die Manufaktur.
+  en: The great geographical discoveries, and the colonization following upon them, multiplied markets and quickened the transformation of handicraft into manufacture.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.11.10
+  kind: p
+  original: Nicht nur brach der Kampf aus zwischen den einzelnen Lokalproduzenten; die lokalen Kämpfe wuchsen ihrerseits an zu nationalen, den Handelskriegen des 17. und 18. Jahrhunderts.
+  en: The war did not simply break out between the individual producers of particular localities. The local struggles begat in their turn national conflicts, the commercial wars of the seventeenth and the eighteenth centuries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.11.11
+  kind: p
+  original: Die große Industrie endlich und die Herstellung des Weltmarkts haben den Kampf universell gemacht und gleichzeitig ihm eine unerhörte Heftigkeit gegeben.
+  en: Finally, modern industry and the opening of the world-market made the struggle universal, and at the same time gave it an unheard-of virulence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.11.12
+  kind: p
+  original: Zwischen einzelnen Kapitalisten wie zwischen ganzen Industrien und ganzen Ländern entscheidet die Gunst der natürlichen oder geschaffnen Produktionsbedingungen über die Existenz.
+  en: Advantages in natural or artificial conditions of production now decide the existence or non-existence of individual capitalists, as well as of whole industries and countries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.11.13
+  kind: p
+  original: Der Unterliegende wird schonungslos beseitigt.
+  en: He that falls is remorselessly cast aside.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.11.14
+  kind: p
+  original: Es ist der Darwinsche Kampf ums Einzeldasein, aus der Natur mit potenzierter Wut übertragen in die Gesellschaft.
+  en: It is the Darwinian struggle of the individual for existence transferred from Nature to society with intensified violence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.11.15
+  kind: p
+  original: Der Naturstandpunkt des Tiers erscheint als Gipfelpunkt der menschlichen Entwicklung.
+  en: The conditions of existence natural to the animal appear as the final term of human development.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.11.16
+  kind: p
+  original: Der Widerspruch zwischen gesellschaftlicher Produktion und kapitalistischer Aneignung stellt sich nun dar als Gegensatz zwischen der Organisation der Produktion in der einzelnen Fabrik und der Anarchie der Produktion in der ganzen Gesellschaft.
+  en: The contradiction between socialized production and capitalistic appropriation now presents itself as an antagonism between the organization of production in the individual workshop and the anarchy of production in society generally.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.12.1
+  kind: p
+  original: In diesen beiden Erscheinungsformen des ihr durch ihren Ursprung immanenten Widerspruchs bewegt sich die kapitalistische Produktionsweise, beschreibt sie auswegslos jenen "fehlerhaften Kreislauf", den schon Fourier an ihr entdeckte.
+  en: The capitalistic mode of production moves in these two forms of the antagonism immanent to it from its very origin. It is never able to get out of that "vicious circle," which Fourier had already discovered.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.12.2
+  kind: p
+  original: Was Fourier allerdings zu seiner Zeit noch nicht sehn konnte, ist, daß sich dieser Kreislauf allmählich verengert, daß die Bewegung vielmehr eine Spirale darstellt und ihr Ende erreichen muß, wie die der Planeten, durch Zusammenstoß mit dem Zentrum.
+  en: What Fourier could not, indeed, see in his time is, that this circle is gradually narrowing; that the movement becomes more and more a spiral, and must come to an end, like the movement of the planets, by collision with the center.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: III.12.3
+  kind: p
+  original: Es ist die treibende Kraft der gesellschaftlichen Anarchie der Produktion, die die große Mehrzahl der Menschen mehr und mehr in Proletarier verwandelt, und es sind wieder die Proletariermassen, die schließlich der Produktionsanarchie ein Ende machen werden.
+  en: It is the compelling force of anarchy in the production of society at large that more and more completely turns the great majority of men into proletarians; and it is the masses of the proletariat again who will finally put an end to anarchy in production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 216-217
+- id: III.12.4
+  kind: p
+  original: Es ist die treibende Kraft der sozialen Produktionsanarchie, die die unendliche Vervollkommnungsfähigkeit der Maschinen der großen Industrie in ein Zwangsgebot verwandelt für jeden einzelnen industriellen Kapitalisten, seine Maschinerie mehr und mehr zu vervollkommnen, bei Strafe des Untergangs.
+  en: It is the compelling force of anarchy in social production that turns the limitless perfectibility of machinery under modern industry into a compulsory law by which every individual industrial capitalist must perfect his machinery more and more, under penalty of ruin.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+- id: III.13.1
+  kind: p
+  original: Aber Vervollkommnung der Maschinerie, das heißt Überflüssigmachung von Menschenarbeit.
+  en: But the perfecting of machinery is making human labor superfluous.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+- id: III.13.2
+  kind: p
+  original: Wenn die Einführung und Vermehrung der Maschinerie Verdrängung von Millionen von Handarbeitern durch wenige Maschinenarbeiter bedeutet, so bedeutet Verbesserung der Maschinerie Verdrängung von mehr und mehr Maschinenarbeitern selbst und in letzter Instanz Erzeugung einer das durchschnittliche Beschäftigungsbedürfnis des Kapitals überschreitenden Anzahl disponibler Lohnarbeiter, einer vollständigen industriellen Reservearmee, wie ich sie schon 1845 nannte, disponibel für die Zeiten, wo die Industrie mit Hochdruck arbeitet, aufs Pflaster geworfen durch den notwendig folgenden Krach, zu allen Zeiten ein Bleigewicht an den Füßen der Arbeiterklasse in ihrem Existenzkampf mit dem Kapital, ein Regulator zur Niederhaltung des Arbeitslohns auf dem dem kapitalistischen Bedürfnis angemeßnen niedrigen Niveau.
+  en: If the introduction and increase of machinery means the displacement of millions of manual, by a few machine-workers, improvement in machinery means the displacement of more and more of the machine-workers themselves. It means, in the last instance, the production of a number of available wage-workers in excess of the average needs of capital, the formation of a complete industrial reserve army, as I called it in 1845, available at the times when industry is working at high pressure, to be cast out upon the street when the inevitable crash comes, a constant dead weight upon the limbs of the working-class in its struggle for existence with capital, a regulator for the keeping of wages down to the low level that suits the interests of capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - III.N3
+  mew_page: '217'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.13.3
+  kind: p
+  original: 'So geht es zu, daß die Maschinerie, um mit Marx zu reden, das machtvollste Kriegsmittel des Kapitals gegen die Arbeiterklasse wird, daß das Arbeitsmittel dem Arbeiter fortwährend das Lebensmittel aus der Hand schlägt, daß das eigne Produkt des Arbeiters sich verwandelt in ein Werkzeug zur Knechtung des Arbeiters. [Siehe: Karl Marx, "Das Kapital. Erster Band", in: Karl Marx, Friedrich Engels, Werke, Bd. 23, S. 459 und 511 ]'
+  en: Thus it comes about, to quote Marx, that machinery becomes the most powerful weapon in the war of capital against the working-class; that the instruments of labor constantly tear the means of subsistence out of the hands of the laborer; that the very product of the worker is turned into an instrument for his subjugation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+  review: true
+  review_reason: length/anchor mismatch, check the match
+- id: III.13.4
+  kind: p
+  original: So kommt es, daß die Ökonomisierung der Arbeitsmittel von vornherein zugleich rücksichtsloseste Verschwendung der Arbeitskraft und Raub an den normalen Voraussetzungen der Arbeitsfunktion wird; daß die Maschinerie, das gewaltigste Mittel zur Verkürzung der Arbeitszeit, umschlägt in das unfehlbarste Mittel, alle Lebenszeit des Arbeiters und seiner Familie in disponible Arbeitszeit für die Verwertung des Kapitals zu verwandeln; so kommt es, daß die Überarbeitung der einen die Voraussetzung wird für die Beschäftigungslosigkeit der andern und daß die große Industrie, die den ganzen Erdkreis nach neuen Konsumenten abjagt, zu Hause die Konsumtion der Massen auf ein Hungerminimum beschränkt und sich damit den eignen innern Markt untergräbt.
+  en: Thus it comes about that the economizing of the instruments of labor becomes at the same time, from the outset, the most reckless waste of labor-power, and robbery based upon the normal conditions under which labor functions; that machinery, "the most powerful instrument for shortening labor-time, becomes the most unfailing means for placing every moment of the laborer's time and that of his family at the disposal of the capitalist for the purpose of expanding the value of his capital" ("Capital," American edition, p. 445). Thus it comes about that over-work of some becomes the preliminary condition for the idleness of others, and that modern industry, which hunts after new consumers over the whole world, forces the consumption of the masses at home down to a starvation minimum, and in doing thus destroys its own home market.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.13.5
+  kind: p
+  original: '"Das Gesetz, welches die relative Surpluspopulation oder industrielle Reservearmee stets mit Umfang und Energie der Kapitalakkumulation in Gleichgewicht hält, schmiedet den Arbeiter fester an das Kapital als den Prometheus die Keile des Hephästos an den Felsen.'
+  en: '"The law that always equilibrates the relative surplus population, or industrial reserve army, to the extent and energy of accumulation, this law rivets the laborer to capital more firmly than the wedges of Vulcan did Prometheus to the rock.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 217-218
+- id: III.13.6
+  kind: p
+  original: Es bedingt eine der Akkumulation von Kapital entsprechende Akkumulation von Elend.
+  en: It establishes an accumulation of misery, corresponding with accumulation of capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.13.7
+  kind: p
+  original: Die Akkumulation von Reichtum auf dem einen Pol ist also zugleich Akkumulation von Elend, Arbeitsqual, Sklaverei, Unwissenheit, Bestialisierung und moralischer Degradation auf dem Gegenpol, d.h. auf Seite der Klasse, die ihr eigenes Produkt als Kapital produziert."
+  en: Accumulation of wealth at one pole is, therefore, at the same time, accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation, at the opposite pole, i.e., on the side of the class that produces its own product in the form of capital."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.13.8
+  kind: p
+  original: (Marx, "Kapital", S. 671.)
+  en: (Marx' "Capital" Vol. I [Kerr & Co.]. p. 709.)
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.13.9
+  kind: p
+  original: Und von der kapitalistischen Produktionsweise eine andre Verteilung der Produkte erwarten hieße verlangen, die Elektroden einer Batterie sollten das Wasser unzersetzt lassen, solange sie mit der Batterie in Verbindung stehn, und nicht am positiven Pol Sauerstoff entwickeln und am negativen Wasserstoff.
+  en: And to expect any other division of the products from the capitalistic mode of production is the same as expecting the electrodes of a battery not to decompose acidulated water, not to liberate oxygen at the positive, hydrogen at the negative pole, so long as they are connected with the battery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.14.1
+  kind: p
+  original: Wir sahen, wie die aufs höchste gesteigerte Verbesserungsfähigkeit der modernen Maschinerie, vermittelst der Anarchie der Produktion in der Gesellschaft, sich verwandelt in ein Zwangsgebot für den einzelnen industriellen Kapitalisten, seine Maschinerie stets zu verbessern, ihre Produktionskraft stets zu erhöhn.
+  en: We have seen that the ever-increasing perfectibility of modern machinery is, by the anarchy of social production, turned into a compulsory law that forces the individual industrial capitalist always to improve his machinery always to increase its productive force.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.14.2
+  kind: p
+  original: In ein ebensolches Zwangsgebot verwandelt sich für ihn die bloße faktische Möglichkeit, seinen Produktionsbereich zu erweitern.
+  en: The bare possibility of extending the field of production is transformed for him into a similar compulsory law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.14.3
+  kind: p
+  original: Die enorme Ausdehnungskraft der großen Industrie, gegen die diejenige der Gase ein wahres Kinderspiel ist, tritt uns jetzt vor die Augen als ein qualitatives und quantitatives Ausdehnungsbedürfnis, das jedes Gegendrucks spottet.
+  en: The enormous expansive force of modern industry, compared with which that of gases is mere child's play, appears to us now as a necessity for expansion, both qualitative and quantitative, that laughs at all resistance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.14.4
+  kind: p
+  original: Der Gegendruck wird gebildet durch die Konsumtion, den Absatz, die Märkte für die Produkte der großen Industrie.
+  en: Such resistance is offered by consumption, by sales, by the markets for the products of modern industry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.14.5
+  kind: p
+  original: Aber die Ausdehnungsfähigkeit der Märkte, extensive wie intensive, wird beherrscht zunächst durch ganz andre, weit weniger energisch wirkende Gesetze.
+  en: But the capacity for extension, extensive and intensive, of the markets is primarily governed by quite different laws, that work much less energetically.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.14.6
+  kind: p
+  original: Die Ausdehnung der Märkte kann nicht Schritt halten mit der Ausdehnung der Produktion.
+  en: The extension of the markets can not keep pace with the extension of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.14.7
+  kind: p
+  original: Die Kollision wird unvermeidlich, und da sie keine Lösung erzeugen kann, solange sie nicht die kapitalistische Produktionsweise selbst sprengt, wird sie periodisch.
+  en: The collision becomes inevitable, and as this cannot produce any real solution so long as it does not break in pieces the capitalist mode of production, the collisions become periodic.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.14.8
+  kind: p
+  original: Die kapitalistische Produktion erzeugt einen neuen "fehlerhaften Kreislauf".
+  en: Capitalist production has begotten another "vicious circle."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.15.1
+  kind: p
+  original: In der Tat, seit 1825, wo die erste allgemeine Krisis ausbrach, geht die ganze industrielle und kommerzielle Welt, die Produktion und der Austausch sämtlicher zivilisierten Völker und ihrer mehr oder weniger barbarischen Anhängsel, so ziemlich alle zehn Jahre einmal aus den Fugen.
+  en: As a matter of fact, since 1825, when the first general crisis broke out, the whole industrial and commercial world, production and exchange among all civilized peoples and their more or less barbaric hangers-on, are thrown out of joint about once every ten years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: III.15.2
+  kind: p
+  original: Der Verkehr stockt, die Märkte sind überfüllt, die Produkte liegen da, ebenso massenhaft wie unabsetzbar, das bare Geld wird unsichtbar, der Kredit verschwindet, die Fabriken stehn still, die arbeitenden Massen ermangeln der Lebensmittel, weil sie zuviel Lebensmittel produziert haben.
+  en: Commerce is at a stand-still, the markets are glutted, products accumulate, as multitudinous as they are unsaleable, hard cash disappears, credit vanishes, factories are closed, the mass of the workers are in want of the means of subsistence, because they have produced too much of the means of subsistence; bankruptcy follows upon bankruptcy, execution upon execution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 218-219
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: III.15.3
+  kind: p
+  original: Bankerott folgt auf Bankerott, Zwangsverkauf auf Zwangsverkauf.
+  en: ''
+  joined_to: III.15.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '219'
+- id: III.15.4
+  kind: p
+  original: Jahrelang dauert die Stockung, Produktivkräfte wie Produkte werden massenhaft vergeudet und zerstört, bis die aufgehäuften Warenmassen unter größrer oder geringrer Entwertung endlich abfließen, bis Produktion und Austausch allmählich wieder in Gang kommen.
+  en: The stagnation lasts for years; productive forces and products are wasted and destroyed wholesale, until the accumulated mass of commodities finally filter off, more or less depreciated in value, until production and exchange gradually begin to move again.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: III.15.5
+  kind: p
+  original: Nach und nach beschleunigt sich die Gangart, fällt in Trab, der industrielle Trab geht über in Galopp, und dieser steigert sich wieder bis zur zügellosen Karriere einer vollständigen industriellen, kommerziellen, kreditlichen und spekulativen Steeple-chase, um endlich nach den halsbrechendsten Sprüngen wieder anzulangen im Graben des Krachs.
+  en: Little by little the pace quickens. It becomes a trot. The industrial trot breaks into a canter, the canter in turn grows into the headlong gallop of a perfect steeplechase of industry, commercial credit, and speculation, which finally, after breakneck leaps, ends where it began--in the ditch of a crisis.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.15.6
+  kind: p
+  original: Und so immer von neuem.
+  en: And so over and over again.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: III.15.7
+  kind: p
+  original: Das haben wir nun seit 1825 volle fünfmal erlebt und erleben es in diesem Augenblick (1877) zum sechsten Mal.
+  en: We have now, since the year 1825, gone through this five times, and at the present moment (1877) we are going through it for the sixth time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: III.15.8
+  kind: p
+  original: 'Und der Charakter dieser Krisen ist so scharf ausgeprägt, daß Fourier sie alle traf, als er die erste bezeichnete als: crise pléthorique, Krisis aus Überfluß.'
+  en: And the character of these crises is so clearly defined that Fourier hit all of them off, when he described the first as "crise plethorique," a crisis from plethora.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: III.16.1
+  kind: p
+  original: In den Krisen kommt der Widerspruch zwischen gesellschaftlicher Produktion und kapitalistischer Aneignung zum gewaltsamen Ausbruch.
+  en: In these crises, the contradiction between socialized production and capitalist appropriation ends in a violent explosion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: III.16.2
+  kind: p
+  original: 'Der Warenumlauf ist momentan vernichtet: das Zirkulationsmittel, das Geld, wird Zirkulationshindernis; alle Gesetze der Warenproduktion und Warenzirkulation werden auf den Kopf gestellt.'
+  en: The circulation of commodities is, for the time being, stopped. Money, the means of circulation, becomes a hindrance to circulation. All the laws of production and circulation of commodities are turned upside down.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.16.3
+  kind: p
+  original: 'Die ökonomische Kollision hat ihren Höhepunkt erreicht: Die Produktionsweise rebelliert gegen die Austauschweise.'
+  en: The economic collision has reached its apogee. The mode of production is in rebellion against the mode of exchange.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.17.1
+  kind: p
+  original: Die Tatsache, daß die gesellschaftliche Organisation der Produktion innerhalb der Fabrik sich zu dem Punkt entwickelt hat, wo sie unverträglich geworden ist mit der neben und über ihr bestehenden Anarchie der Produktion in der Gesellschaft - diese Tatsache wird den Kapitalisten selbst handgreiflich gemacht durch die gewaltsame Konzentration der Kapitale, die sich während der Krisen vollzieht vermittelst des Ruins vieler großen und noch mehr kleiner Kapitalisten.
+  en: The fact that the socialized organization of production within the factory has developed so far that it has become incompatible with the anarchy of production in society, which exists side by side with and dominates it, is brought home to the capitalists themselves by the violent concentration of capital that occurs during crises, through the ruin of many large, and a still greater number of small, capitalists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: III.17.2
+  kind: p
+  original: Der gesamte Mechanismus der kapitalistischen Produktionsweise versagt unter dem Druck der von ihr selbst erzeugten Produktivkräfte.
+  en: The whole mechanism of the capitalist mode of production breaks down under the pressure of the productive forces, its own creations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: III.17.3
+  kind: p
+  original: Sie kann diese Masse von Produktionsmitteln nicht mehr alle in Kapital verwandeln; sie liegen brach, und ebendeshalb muß auch die industrielle Reservearmee brachliegen.
+  en: It is no longer able to turn all this mass of means of production into capital. They lie fallow, and for that very reason the industrial reserve army must also lie fallow.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.17.4
+  kind: p
+  original: Produktionsmittel, Lebensmittel, disponible Arbeiter, alle Elemente der Produktion und des allgemeinen Reichtums sind im Überfluß vorhanden.
+  en: Means of production, means of subsistence, available laborers, all the elements of production and of general wealth, are present in abundance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: III.17.5
+  kind: p
+  original: Aber "der Überfluß wird Quelle der Not und des Mangels" (Fourier), weil er es gerade ist, der die Verwandlung der Produktions- und Lebensmittel in Kapital verhindert.
+  en: But "abundance becomes the source of distress and want" (Fourier), because it is the very thing that prevents the transformation of the means of production and subsistence into capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: III.17.6
+  kind: p
+  original: Denn in der kapitalistischen Gesellschaft können die Produktionsmittel nicht in Tätigkeit treten, es sei denn, sie hätten sich zuvor in Kapital, in Mittel zur Ausbeutung menschlicher Arbeitskraft verwandelt.
+  en: For in capitalistic society the means of production can only function when they have undergone a preliminary transformation into capital, into the means of exploiting human labor-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 219-220
+- id: III.17.7
+  kind: p
+  original: Wie ein Gespenst steht die Notwendigkeit der Kapitaleigenschaft der Produktions- und Lebensmittel zwischen ihnen und den Arbeitern.
+  en: The necessity of this transformation into capital of the means of production and subsistence stands like a ghost between these and the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: III.17.8
+  kind: p
+  original: Sie allein verhindert das Zusammentreten der sachlichen und der persönlichen Hebel der Produktion; sie allein verbietet den Produktionsmitteln, zu fungieren, den Arbeitern, zu arbeiten und zu leben.
+  en: It alone prevents the coming together of the material and personal levers of production; it alone forbids the means of production to function, the workers to work and live.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: III.17.9
+  kind: p
+  original: Einesteils also wird die kapitalistische Produktionsweise ihrer eignen Unfähigkeit zur ferneren Verwaltung dieser Produktivkräfte überführt.
+  en: On the one hand, therefore, the capitalistic mode of production stands convicted of its own incapacity to further direct these productive forces.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: III.17.10
+  kind: p
+  original: Andrerseits drängen diese Produktivkräfte selbst mit steigender Macht nach Aufhebung des Widerspruchs, nach ihrer Erlösung von ihrer Eigenschaft als Kapital, nach tatsächlicher Anerkennung ihres Charakters als gesellschaftlicher Produktivkräfte.
+  en: On the other, these productive forces themselves, with increasing energy, press forward to the removal of the existing contradiction, to the abolition of their quality as capital, to the practical recognition of their character as social productive forces.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: III.18.1
+  kind: p
+  original: Es ist dieser Gegendruck der gewaltig anwachsenden Produktivkräfte gegen ihre Kapitaleigenschaft, dieser steigende Zwang zur Anerkennung ihrer gesellschaftlichen Natur, der die Kapitalistenklasse selbst nötigt, mehr und mehr, soweit dies innerhalb des Kapitalverhältnisses überhaupt möglich, sie als gesellschaftliche Produktivkräfte zu behandeln.
+  en: This rebellion of the productive forces, as they grow more and more powerful, against their quality as capital, this stronger and stronger command that their social character shall be recognized, forces the capitalist class itself to treat them more and more as social productive forces, so far as this is possible under capitalist conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: III.18.2
+  kind: p
+  original: Sowohl die industrielle Hochdruckperiode mit ihrer schrankenlosen Kreditaufblähung, wie der Krach selbst durch den Zusammenbruch großer kapitalistischer Etablissements, treiben zu derjenigen Form der Vergesellschaftung größter Massen von Produktionsmitteln, die uns in den verschiednen Arten von Aktiengesellschaften gegenübertritt.
+  en: The period of industrial high pressure, with its unbounded inflation of credit, not less than the crash itself, by the collapse of great capitalist establishments, tends to bring about that form of the socialization of great masses of means of production, which we meet with in the different kinds of joint-stock companies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: III.18.3
+  kind: p
+  original: Manche dieser Produktions- und Verkehrsmittel sind von vornherein so kolossal, daß sie, wie die Eisenbahnen, jede andere Form kapitalistischer Ausbeutung ausschließen.
+  en: Many of these means of production and of distribution are, from the outset, so colossal, that, like the railroads, they exclude all other forms of capitalistic exploitation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: III.18.4
+  kind: p
+  original: Auf einer gewissen Entwicklungsstufe genügt auch diese Form nicht mehr; die inländischen Großproduzenten eines und desselben Industriezweigs vereinigen sich zu einem "Trust", einer Vereinigung zum Zweck der Regulierung der Produktion; sie bestimmen das zu produzierende Gesamtquantum, verteilen es unter sich und erzwingen so den im voraus festgesetzten Verkaufspreis.
+  en: At a further stage of evolution this form also becomes insufficient. The producers on a large scale in a particular branch of industry in a particular country unite in a "Trust," a union for the purpose of regulating production. They determine the total amount to be produced, parcel it out among themselves, and thus enforce the selling price fixed beforehand.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.18.5
+  kind: p
+  original: 'Da solche Trusts aber bei der ersten schlechten Geschäftszeit meist aus dem Leim gehn, treiben sie eben dadurch zu einer noch konzentrierteren Vergesellschaftung: Der ganze Industriezweig verwandelt sich in eine einzige große Aktiengesellschaft, die inländische Konkurrenz macht dem inländischen Monopol dieser einen Gesellschaft Platz; wie dies noch 1890 mit der englischen Alkaliproduktion geschehen, die jetzt, nach Verschmelzung sämtlicher 48 großen Fabriken, in der Hand einer einzigen, einheitlich geleiteten Gesellschaft mit einem Kapital von 120 Millionen Mark betrieben wird.'
+  en: But trusts of this kind, as soon as business becomes bad, are generally liable to break up, and, on this very account, compel a yet greater concentration of association. The whole of the particular industry is turned into one gigantic joint-stock company; internal competition gives place to the internal monopoly of this one company. This has happened in 1890 with the English alkali production, which is now, after the fusion of 48 large works, in the hands of one company, conducted upon a single plan, and with a capital of L6,000,000.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.19.1
+  kind: p
+  original: In den Trusts schlägt die freie Konkurrenz um ins Monopol, kapituliert die planlose Produktion der kapitalistischen Gesellschaft vor der planmäßigen Produktion der hereinbrechenden sozialistischen Gesellschaft.
+  en: In the trusts, freedom of competition changes into its very opposite--into monopoly; and the production without any definite plan of capitalistic society capitulates to the production upon a definite plan of the invading socialistic society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 220-221
+- id: III.19.2
+  kind: p
+  original: Allerdings zunächst noch zu Nutz und Frommen der Kapitalisten.
+  en: Certainly this is so far still to the benefit and advantage of the capitalists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: III.19.3
+  kind: p
+  original: Hier aber wird die Ausbeutung so handgreiflich, daß sie zusammenbrechen muß.
+  en: But in this case the exploitation is so palpable that it must break down.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: III.19.4
+  kind: p
+  original: Kein Volk würde eine durch Trusts geleitete Produktion, eine so unverhüllte Ausbeutung der Gesamtheit durch eine kleine Bande von Kuponabschneidern sich gefallen lassen.
+  en: No nation will put up with production conducted by trusts, with so barefaced an exploitation of the community by a small band of dividend-mongers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: III.20.1
+  kind: p
+  original: So oder so, mit oder ohne Trusts, muß schließlich der offizielle Repräsentant der kapitalistischen Gesellschaft, der Staat, die Leitung der Produktion übernehmen.
+  en: In any case, with trusts or without, the official representative of capitalist society--the State--will ultimately have to undertake the direction of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - III.N4
+  mew_page: '221'
+- id: III.20.2
+  kind: p
+  original: 'Diese Notwendigkeit der Verwandlung in Staatseigentum tritt zuerst hervor bei den großen Verkehrsanstalten: Post, Telegraphen, Eisenbahnen.'
+  en: This necessity for conversion into State-property is felt first in the great institutions for intercourse and communication--the postoffice, the telegraphs, the railways.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: III.21.1
+  kind: p
+  original: Wenn die Krisen die Unfähigkeit der Bourgeoisie zur fernern Verwaltung der modernen Produktivkräfte aufdeckten, so zeigt die Verwandlung der großen Produktions- und Verkehrsanstalten in Aktiengesellschaften, Trusts und Staatseigentum die Entbehrlichkeit der Bourgeoisie für jenen Zweck.
+  en: If the crisis demonstrate the incapacity of the bourgeoisie for managing any longer modern productive forces, the transformation of the great establishments for production and distribution into joint-stock companies, trusts, and State property, show how unnecessary the bourgeoisie are for that purpose.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: III.21.2
+  kind: p
+  original: Alle gesellschaftlichen Funktionen des Kapitalisten werden jetzt von besoldeten Angestellten versehn.
+  en: All the social functions of the capitalist are now performed by salaried employees.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: III.21.3
+  kind: p
+  original: Der Kapitalist hat keine gesellschaftliche Tätigkeit mehr, außer Revenueneinstreichen, Kuponsabschneiden und Spielen an der Börse, wo die verschiednen Kapitalisten untereinander sich ihr Kapital abnehmen.
+  en: The capitalist has no further social function than that of pocketing dividends, tearing off coupons, and gambling on the Stock Exchange, where the different capitalists despoil one another of their capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 221-222
+- id: III.21.4
+  kind: p
+  original: Hat die kapitalistische Produktionsweise zuerst Arbeiter verdrängt, so verdrängt sie jetzt die Kapitalisten und verweist sie, ganz wie die Arbeiter, in die überflüssige Bevölkerung, wenn auch zunächst noch nicht in die industrielle Reservearmee.
+  en: At first the capitalistic mode of production forces out the workers. Now it forces out the capitalists, and reduces them, just as it reduced the workers, to the ranks of the surplus population, although not immediately into those of the industrial reserve army.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.22.1
+  kind: p
+  original: Aber weder die Verwandlung in Aktiengesellschaften und Trusts noch die in Staatseigentum hebt die Kapitaleigenschaft der Produktivkräfte auf.
+  en: But the transformation, either into joint-stock companies and trusts, or into State-ownership does not do away with the capitalistic nature of the productive forces.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.22.2
+  kind: p
+  original: Bei den Aktiengesellschaften und Trusts liegt dies auf der Hand.
+  en: In the joint-stock companies and trusts this is obvious.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.22.3
+  kind: p
+  original: Und der moderne Staat ist wieder nur die Organisation, welche sich die bürgerliche Gesellschaft gibt, um die allgemeinen äußern Bedingungen der kapitalistischen Produktionsweise aufrechtzuerhalten gegen Übergriffe sowohl der Arbeiter wie der einzelnen Kapitalisten.
+  en: And the modern State, again, is only the organization that bourgeois society takes on in order to support the external conditions of the capitalist mode of production against the encroachments, as well of the workers as of individual capitalists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.22.4
+  kind: p
+  original: Der moderne Staat, was auch seine Form, ist eine wesentlich kapitalistische Maschine, Staat der Kapitalisten, der ideelle Gesamtkapitalist.
+  en: The modern State, no matter what its form, is essentially a capitalist machine, the state of the capitalists, the ideal personification of the total national capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.22.5
+  kind: p
+  original: Je mehr Produktivkräfte er in sein Eigentum übernimmt, desto mehr wird er wirklicher Gesamtkapitalist, desto mehr Staatsbürger beutet er aus.
+  en: The more it proceeds to the taking over of productive forces, the more does it actually become the national capitalist, the more citizens does it exploit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.22.6
+  kind: p
+  original: Die Arbeiter bleiben Lohnarbeiter, Proletarier.
+  en: The workers remain wage-workers--proletarians.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.22.7
+  kind: p
+  original: Das Kapitalverhältnis wird nicht aufgehoben, es wird vielmehr auf die Spitze getrieben.
+  en: The capitalist relation is not done away with. It is rather brought to a head.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.22.8
+  kind: p
+  original: Aber auf der Spitze schlägt es um.
+  en: But, brought to a head, it topples over.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.22.9
+  kind: p
+  original: Das Staatseigentum an den Produktivkräften ist nicht Lösung des Konflikts, aber es birgt in sich das formelle Mittel, die Handhabe der Lösung.
+  en: State-ownership of the productive forces is not the solution of the conflict, but concealed within it are the technical conditions that form the elements of that solution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.23.1
+  kind: p
+  original: Diese Lösung kann nur darin liegen, daß die gesellschaftliche Natur der modernen Produktivkräfte tatsächlich anerkannt, daß also die Produktions-, Aneignungs- und Austauschweise in Einklang gesetzt wird mit dem gesellschaftlichen Charakter der Produktionsmittel.
+  en: This solution can only consist in the practical recognition of the social nature of the modern forces of production, and therefore in the harmonizing the modes of production, appropriation, and exchange with the socialized character of the means of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.23.2
+  kind: p
+  original: Und dies kann nur dadurch geschehn, daß die Gesellschaft offen und ohne Umwege Besitz ergreift von den jeder andren Leitung außer der ihrigen entwachsenen Produktivkräften.
+  en: And this can only come about by society openly and directly taking possession of the productive forces which have outgrown all control except that of society as a whole.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.23.3
+  kind: p
+  original: Damit wird der gesellschaftliche Charakter der Produktionsmittel und Produkte, der sich heute gegen die Produzenten selbst kehrt, der die Produktions- und Austauschweise periodisch durchbricht und sich nur als blind wirkendes Naturgesetz gewalttätig und zerstörend durchsetzt, von den Produzenten mit vollem Bewußtsein zur Geltung gebracht und verwandelt sich aus einer Ursache der Störung und des periodischen Zusammenbruchs in den mächtigsten Hebel der Produktion selbst.
+  en: The social character of the means of production and of the products to-day reacts against the producers, periodically disrupts all production and exchange, acts only like a law of Nature working blindly, forcibly, destructively. But with the taking over by society of the productive forces, the social character of the means of production and of the products will be utilized by the producers with a perfect understanding of its nature, and instead of being a source of disturbance and periodical collapse, will become the most powerful lever of production itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.24.1
+  kind: p
+  original: 'Die gesellschaftlich wirksamen Kräfte wirken ganz wie die Naturkräfte: blindlings, gewaltsam, zerstörend, solange wir sie nicht erkennen und nicht mit ihnen rechnen.'
+  en: 'Active social forces work exactly like natural forces: blindly, forcibly, destructively, so long as we do not understand, and reckon with, them.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.24.2
+  kind: p
+  original: Haben wir sie aber einmal erkannt, ihre Tätigkeit, ihre Richtungen, ihre Wirkungen begriffen, so hängt es nur von uns ab, sie mehr und mehr unserm Willen zu unterwerfen und vermittelst ihrer unsre Zwecke zu erreichen.
+  en: But when once we understand them, when once we grasp their action, their direction, their effects, it depends only upon ourselves to subject them more and more to our own will, and by means of them to reach our own ends.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: III.24.3
+  kind: p
+  original: Und ganz besonders gilt dies von den heutigen gewaltigen Produktivkräften.
+  en: And this holds quite especially of the mighty productive forces of to-day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 222-223
+- id: III.24.4
+  kind: p
+  original: Solange wir uns hartnäckig weigern, ihre Natur und ihren Charakter zu verstehn - und gegen dies Verständnis sträubt sich die kapitalistische Produktionsweise und ihre Verteidiger -, solange wirken diese Kräfte sich aus, trotz uns, gegen uns, solange beherrschen sie uns, wie wir das ausführlich dargestellt haben.
+  en: As long as we obstinately refuse to understand the nature and the character of these social means of action--and this understanding goes against the grain of the capitalist mode of production and its defenders--so long these forces are at work in spite of us, in opposition to us, so long they master us, as we have shown above in detail.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '223'
+- id: III.24.5
+  kind: p
+  original: Aber einmal in ihrer Natur begriffen, können sie in den Händen der assoziierten Produzenten aus dämonischen Herrschern in willige Diener verwandelt werden.
+  en: But when once their nature is understood, they can, in the hands of the producers working together, be transformed from master demons into willing servants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '223'
+- id: III.24.6
+  kind: p
+  original: Es ist der Unterschied zwischen der zerstörenden Gewalt der Elektrizität im Blitze des Gewitters und der gebändigten Elektrizität des Telegraphen und des Lichtbogens; der Unterschied der Feuersbrunst und des im Dienst des Menschen wirkenden Feuers.
+  en: The difference is as that between the destructive force of electricity in the lightning of the storm, and electricity under command in the telegraph and the voltaic arc; the difference between a conflagration, and fire working in the service of man.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '223'
+- id: III.24.7
+  kind: p
+  original: Mit dieser Behandlung der heutigen Produktivkräfte nach ihrer endlich erkannten Natur tritt an die Stelle der gesellschaftlichen Produktionsanarchie eine gesellschaftlich-planmäßige Regelung der Produktion nach den Bedürfnissen der Gesamtheit wie jedes einzelnen.
+  en: With this recognition at last of the real nature of the productive forces of to-day, the social anarchy of production gives place to a social regulation of production upon a definite plan, according to the needs of the community and of each individual.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '223'
+- id: III.24.8
+  kind: p
+  original: 'Damit wird die kapitalistische Aneignungsweise, in der das Produkt zuerst den Produzenten, dann aber auch den Aneigner knechtet, ersetzt durch die in der Natur der modernen Produktionsmittel selbst begründete Aneignungsweise der Produkte: einerseits direkt gesellschaftliche Aneignung als Mittel zur Erhaltung und Erweiterung der Produktion, andrerseits direkt individuelle Aneignung als Lebens- und Genußmittel.'
+  en: Then the capitalist mode of appropriation, in which the product enslaves first the producer and then the appropriator, is replaced by the mode of appropriation of the products that is based upon the nature of the modern means of production; upon the one hand, direct social appropriation, as means to the maintenance and extension of production--on the other, direct individual appropriation, as means of subsistence and of enjoyment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '223'
+- id: III.25.1
+  kind: p
+  original: Indem die kapitalistische Produktionsweise mehr und mehr die große Mehrzahl der Bevölkerung in Proletarier verwandelt, schafft sie die Macht, die diese Umwälzung, bei Strafe des Untergangs, zu vollziehn genötigt ist.
+  en: Whilst the capitalist mode of production more and more completely transforms the great majority of the population into proletarians, it creates the power which, under penalty of its own destruction, is forced to accomplish this revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '223'
+- id: III.25.2
+  kind: p
+  original: Indem sie mehr und mehr auf Verwandlung der großen vergesellschafteten Produktionsmittel in Staatseigentum drängt, zeigt sie selbst den Weg an zur Vollziehung der Umwälzung.
+  en: Whilst it forces on more and more the transformation of the vast means of production, already socialized, into State property, it shows itself the way to accomplishing this revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '223'
+- id: III.25.3
+  kind: p
+  original: Das Proletariat ergreift die Staatsgewalt und verwandelt die Produktionsmittel zunächst in Staatseigentum.
+  en: The proletariat seizes political power and turns the means of production into State property.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '223'
+- id: III.25.4
+  kind: p
+  original: Aber damit hebt es sich selbst als Proletariat, damit hebt es alle Klassenunterschiede und Klassengegensätze auf und damit auch den Staat als Staat.
+  en: But in doing this, it abolishes itself as proletariat, abolishes all class distinctions and class antagonisms, abolishes also the State as State.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '223'
+- id: III.25.5
+  kind: p
+  original: Die bisherige, sich in Klassengegensätzen bewegende Gesellschaft hatte den Staat nötig, d.h. eine Organisation der jedesmaligen ausbeutenden Klasse zur Aufrechterhaltung ihrer äußern Produktionsbedingungen, also namentlich zur gewaltsamen Niederhaltung der ausgebeuteten Klasse in den durch die bestehende Produktionsweise gegebnen Bedingungen der Unterdrückung (Sklaverei, Leibeigenschaft oder Hörigkeit, Lohnarbeit).
+  en: Society thus far, based upon class antagonisms, had need of the State. That is, of an organization of the particular class which was pro tempore the exploiting class, an organization for the purpose of preventing any interference from without with the existing conditions of production, and therefore, especially, for the purpose of forcibly keeping the exploited classes in the condition of oppression corresponding with the given mode of production (slavery, serfdom, wage-labor).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '223'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.25.6
+  kind: p
+  original: 'Der Staat war der offizielle Repräsentant der ganzen Gesellschaft, ihre Zusammenfassung in einer sichtbaren Körperschaft, aber er war dies nur, insofern er der Staat derjenigen Klasse war, welche selbst für ihre Zeit die ganze Gesellschaft vertrat: im Altertum Staat der sklavenhaltenden Staatsbürger, im Mittelalter des Feudaladels, in unsrer Zeit der Bourgeoisie.'
+  en: The State was the official representative of society as a whole; the gathering of it together into a visible embodiment. But it was this only in so far as it was the State of that class which itself represented, for the time being, society as a whole; in ancient times, the State of slave-owning citizens; in the middle ages, the feudal lords; in our own time, the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 223-224
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.25.7
+  kind: p
+  original: Indem er endlich tatsächlich Repräsentant der ganzen Gesellschaft wird, macht er sich selbst überflüssig.
+  en: When at last it becomes the real representative of the whole of society, it renders itself unnecessary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+- id: III.25.8
+  kind: p
+  original: Sobald es keine Gesellschaftsklasse mehr in der Unterdrückung zu halten gibt, sobald mit der Klassenherrschaft und dem in der bisherigen Anarchie der Produktion begründeten Kampf ums Einzeldasein auch die daraus entspringenden Kollisionen und Exzesse beseitigt sind, gibt es nichts mehr zu reprimieren, das eine besondre Repressionsgewalt, einen Staat, nötig machte.
+  en: As soon as there is no longer any social class to be held in subjection; as soon as class rule, and the individual struggle for existence based upon our present anarchy in production, with the collisions and excesses arising from these, are removed, nothing more remains to be repressed, and a special repressive force, a State, is no longer necessary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+- id: III.25.9
+  kind: p
+  original: Der erste Akt, worin der Staat wirklich als Repräsentant der ganzen Gesellschaft auftritt - die Besitzergreifung der Produktionsmittel im Namen der Gesellschaft, ist zugleich sein letzter selbständiger Akt als Staat.
+  en: The first act by virtue of which the State really constitutes itself the representative of the whole of society--the taking possession of the means of production in the name of society--this is, at the same time, its last independent act as a State.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+- id: III.25.10
+  kind: p
+  original: Das Eingreifen einer Staatsgewalt in gesellschaftliche Verhältnisse wird auf einem Gebiete nach dem andern überflüssig und schläft dann von selbst ein.
+  en: State interference in social relations becomes, in one domain after another, superfluous, and then dies out of itself; the government of persons is replaced by the administration of things, and by the conduct of processes of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: III.25.11
+  kind: p
+  original: An die Stelle der Regierung über Personen tritt die Verwaltung von Sachen und die Leitung von Produktionsprozessen.
+  en: ''
+  joined_to: III.25.10
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '224'
+- id: III.25.12
+  kind: p
+  original: Der Staat wird nicht "abgeschafft", er stirbt ab.
+  en: The State is not "abolished." It dies out.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.25.13
+  kind: p
+  original: Hieran ist die Phrase vom "freien Volksstaat" zu messen, also sowohl nach ihrer zeitweiligen agitatorischen Berechtigung wie nach ihrer endgültigen wissenschaftlichen Unzulänglichkeit; hieran ebenfalls die Forderung der sogenannten Anarchisten, der Staat solle von heute auf morgen abgeschafft werden.
+  en: This gives the measure of the value of the phrase "a free State," both as to its justifiable use at times by agitators, and as to its ultimate scientific insufficiency; and also of the demands of the so-called anarchists for the abolition of the State out of hand.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+- id: III.26.1
+  kind: p
+  original: Die Besitzergreifung der sämtlichen Produktionsmittel durch die Gesellschaft hat, seit dem geschichtlichen Auftreten der kapitalistischen Produktionsweise, einzelnen wie ganzen Sekten öfters mehr oder weniger unklar als Zukunftsideal vorgeschwebt.
+  en: Since the historical appearance of the capitalist mode of production, the appropriation by society of all the means of production has often been dreamed of, more or less vaguely, by individuals, as well as by sects, as the ideal of the future.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+- id: III.26.2
+  kind: p
+  original: Aber sie konnte erst möglich, erst geschichtliche Notwendigkeit werden, als die tatsächlichen Bedingungen ihrer Durchführung vorhanden waren.
+  en: But it could become possible, could become a historical necessity, only when the actual conditions for its realization were there.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+- id: III.26.3
+  kind: p
+  original: Sie, wie jeder andre gesellschaftliche Fortschritt, wird ausführbar nicht durch die gewonnene Einsicht, daß das Dasein der Klassen der Gerechtigkeit, der Gleichheit etc. widerspricht, nicht durch den bloßen Willen, diese Klassen abzuschaffen, sondern durch gewisse neue ökonomische Bedingungen.
+  en: Like every other social advance, it becomes practicable, not by men understanding that the existence of classes is in contradiction to justice, equality, etc., not by the mere willingness to abolish these classes, but by virtue of certain new economic conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+- id: III.26.4
+  kind: p
+  original: Die Spaltung der Gesellschaft in eine ausbeutende und eine ausgebeutete, eine herrschende und eine unterdrückte Klasse war die notwendige Folge der früheren geringen Entwicklung der Produktion.
+  en: The separation of society into an exploiting and an exploited class, a ruling and an oppressed class, was the necessary consequence of the deficient and restricted development of production in former times.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+- id: III.26.5
+  kind: p
+  original: Solange die gesellschaftliche Gesamtarbeit nur einen Ertrag liefert, der das zur notdürftigen Existenz aller Erforderliche nur um wenig übersteigt, solange also die Arbeit alle oder fast alle Zeit der großen Mehrzahl der Gesellschaftsglieder in Anspruch nimmt, solange teilt sich diese Gesellschaft notwendig in Klassen.
+  en: So long as the total social labor only yields a produce which but slightly exceeds that barely necessary for the existence of all; so long, therefore, as labor engages all or almost all the time of the great majority of the members of society--so long, of necessity, this society is divided into classes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '224'
+- id: III.26.6
+  kind: p
+  original: 'Neben der ausschließlich der Arbeit frönenden großen Mehrheit bildet sich eine von direkt-produktiver Arbeit befreite Klasse, die die gemeinsamen Angelegenheiten der Gesellschaft besorgt: Arbeitsleitung, Staatsgeschäfte, Justiz, Wissenschaften, Künste usw. Es ist also das Gesetz der Arbeitstellung, das der Klassenteilung zugrunde liegt.'
+  en: Side by side with the great majority, exclusively bond slaves to labor, arises a class freed from directly productive labor, which looks after the general affairs of society; the direction of labor, State business, law, science, art, etc. It is, therefore, the law of division of labor that lies at the basis of the division into classes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 224-225
+- id: III.26.7
+  kind: p
+  original: Aber das hindert nicht, daß diese Einteilung in Klassen nicht durch Gewalt und Raub, List und Betrug durchgesetzt worden und daß die herrschende Klasse, einmal im Sattel, nie verfehlt hat, ihre Herrschaft auf Kosten der arbeitenden Klasse zu befestigen und die gesellschaftliche Leitung umzuwandeln in gesteigerte Ausbeutung der Massen.
+  en: But this does not prevent this division into classes from being carried out by means of violence and robbery, trickery and fraud. It does not prevent the ruling class, once having the upper hand, from consolidating its power at the expense of the working-class, from turning their social leadership into an intensified exploitation of the masses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.27.1
+  kind: p
+  original: Aber wenn hiernach die Einteilung in Klassen eine gewisse geschichtliche Berechtigung hat, so hat sie eine solche doch nur für einen gegebnen Zeitraum, für gegebne gesellschaftliche Bedingungen.
+  en: But if, upon this showing, division into classes has a certain historical justification, it has this only for a given period, only under given social conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+- id: III.27.2
+  kind: p
+  original: Sie gründete sich auf die Unzulänglichkeit der Produktion; sie wird weggefegt werden durch die volle Entfaltung der modernen Produktivkräfte.
+  en: It was based upon the insufficiency of production. It will be swept away by the complete development of modern productive forces.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.27.3
+  kind: p
+  original: Und in der Tat hat die Abschaffung der gesellschaftlichen Klassen zur Voraussetzung einen geschichtlichen Entwicklungsgrad, auf dem das Bestehn nicht bloß dieser oder jener bestimmten herrschenden Klasse, sondern einer herrschenden Klasse überhaupt, also des Klassenunterschieds selbst, ein Anachronismus geworden, veraltet ist.
+  en: And, in fact, the abolition of classes in society presupposes a degree of historical evolution, at which the existence, not simply of this or that particular ruling class, but of any ruling class at all, and, therefore, the existence of class distinction itself has become an obsolete anachronism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+- id: III.27.4
+  kind: p
+  original: Sie hat also zur Voraussetzung einen Höhegrad der Entwicklung der Produktion, auf dem Aneignung der Produktionsmittel und Produkte und damit der politischen Herrschaft, des Monopols der Bildung und der geistigen Leitung durch eine besondre Gesellschaftsklasse nicht nur überflüssig, sondern auch ökonomisch, politisch und intellektuell ein Hindernis der Entwicklung geworden ist.
+  en: It presupposes, therefore, the development of production carried out to a degree at which appropriation of the means of production and of the products, and, with this, of political domination, of the monopoly of culture, and of intellectual leadership by a particular class of society, has become not only superfluous, but economically, politically, intellectually a hindrance to development.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+- id: III.27.5
+  kind: p
+  original: Dieser Punkt ist jetzt erreicht.
+  en: This point is now reached.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+- id: III.27.6
+  kind: p
+  original: Ist der politische und intellektuelle Bankerott der Bourgeoisie ihr selbst kaum noch ein Geheimnis, so wiederholt sich ihr ökonomischer Bankerott regelmäßig alle zehn Jahre.
+  en: Their political and intellectual bankruptcy is scarcely any longer a secret to the bourgeoisie themselves. Their economic bankruptcy recurs regularly every ten years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.27.7
+  kind: p
+  original: In jeder Krise erstickt die Gesellschaft unter der Wucht ihrer eignen, für sie unverwendbaren Produktivkräfte und Produkte und steht hülflos vor dem absurden Widerspruch, daß die Produzenten nichts zu konsumieren haben, weil es an Konsumenten fehlt.
+  en: In every crisis, society is suffocated beneath the weight of its own productive forces and products, which it cannot use, and stands helpless, face to face with the absurd contradiction that the producers have nothing to consume, because consumers are wanting.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+- id: III.27.8
+  kind: p
+  original: Die Expansionskraft der Produktionsmittel sprengt die Bande, die die kapitalistische Produktionsweise ihr angelegt.
+  en: The expansive force of the means of production bursts the bonds that the capitalist mode of production had imposed upon them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+- id: III.27.9
+  kind: p
+  original: Ihre Befreiung aus diesen Banden ist die einzige Vorbedingung einer ununterbrochnen, stets rascher fortschreitenden Entwicklung der Produktivkräfte und damit einer praktisch schrankenlosen Steigerung der Produktion selbst.
+  en: Their deliverance from these bonds is the one precondition for an unbroken, constantly-accelerated development of the productive forces, and therewith for a practically unlimited increase of production itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+- id: III.27.10
+  kind: p
+  original: Damit nicht genug.
+  en: Nor is this all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+- id: III.27.11
+  kind: p
+  original: Die gesellschaftliche Aneignung der Produktionsmittel beseitigt nicht nur die jetzt bestehende künstliche Hemmung der Produktion, sondern auch die positive Vergeudung und Verheerung von Produktivkräften und Produkten, die gegenwärtig die unvermeidliche Begleiterin der Produktion ist und ihren Höhepunkt in den Krisen erreicht.
+  en: The socialized appropriation of the means of production does away, not only with the present artificial restrictions upon production, but also with the positive waste and devastation of productive forces and products that are at the present time the inevitable concomitants of production, and that reach their height in the crises.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '225'
+- id: III.27.12
+  kind: p
+  original: Sie setzt ferner eine Masse von Produktionsmitteln und Produkten für die Gesamtheit frei durch Beseitigung der blödsinnigen Luxusverschwendung der jetzt herrschenden Klassen und ihrer politischen Repräsentanten.
+  en: Further, it sets free for the community at large a mass of means of production and of products, by doing away with the senseless extravagance of the ruling classes of to-day, and their political representatives.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 225-226
+- id: III.27.13
+  kind: p
+  original: Die Möglichkeit, vermittelst der gesellschaftlichen Produktion allen Gesellschaftsgliedern eine Existenz zu sichern, die nicht nur materiell vollkommen ausreichend ist und von Tag zu Tag reicher wird, sondern die ihnen auch die vollständige freie Ausbildung und Betätigung ihrer körperlichen und geistigen Anlagen garantiert, diese Möglichkeit ist jetzt zum ersten Male da, aber sie ist da.
+  en: The possibility of securing for every member of society, by means of socialized production, an existence not only fully sufficient materially, and becoming day by day more full, but an existence guaranteeing to all the free development and exercise of their physical and mental faculties--this possibility is now for the first time here, but it is here.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - III.N5
+  mew_page: '226'
+- id: III.28.1
+  kind: p
+  original: Mit der Besitzergreifung der Produktionsmittel durch die Gesellschaft ist die Warenproduktion beseitigt und damit die Herrschaft des Produkts über die Produzenten.
+  en: With the seizing of the means of production by society, production of commodities is done away with, and, simultaneously, the mastery of the product over the producer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '226'
+- id: III.28.2
+  kind: p
+  original: Die Anarchie innerhalb der gesellschaftlichen Produktion wird ersetzt durch planmäßige bewußte Organisation.
+  en: Anarchy in social production is replaced by systematic, definite organization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '226'
+- id: III.28.3
+  kind: p
+  original: Der Kampf ums Einzeldasein hört auf.
+  en: The struggle for individual existence disappears.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '226'
+- id: III.28.4
+  kind: p
+  original: Damit erst scheidet der Mensch, in gewissem Sinn, endgültig aus dem Tierreich, tritt aus tierischen Daseinsbedingungen in wirklich menschliche.
+  en: Then for the first time, man, in a certain sense, is finally marked off from the rest of the animal kingdom, and emerges from mere animal conditions of existence into really human ones.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '226'
+- id: III.28.5
+  kind: p
+  original: Der Umkreis der die Menschen umgebenden Lebensbedingungen, der die Menschen bis jetzt beherrschte, tritt jetzt unter die Herrschaft und Kontrolle der Menschen, die zum ersten Male bewußte, wirkliche Herren der Natur, weil und indem sie Herren ihrer eignen Vergesellschaftung werden.
+  en: The whole sphere of the conditions of life which environ man, and which have hitherto ruled man, now comes under the dominion and control of man, who for the first time becomes the real, conscious lord of Nature, because he has now become master of his own social organization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '226'
+- id: III.28.6
+  kind: p
+  original: Die Gesetze ihres eignen gesellschaftlichen Tuns, die ihnen bisher als fremde, sie beherrschende Naturgesetze gegenüberstanden, werden dann von den Menschen mit voller Sachkenntnis angewandt und damit beherrscht.
+  en: The laws of his own social action, hitherto standing face to face with man as laws of Nature foreign to, and dominating, him, will then be used with full understanding, and so mastered by him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '226'
+- id: III.28.7
+  kind: p
+  original: Die eigne Vergesellschaftung der Menschen, die ihnen bisher als von Natur und Geschichte aufgenötigt gegenüberstand, wird jetzt ihre freie Tat.
+  en: Man's own social organization, hitherto confronting him as a necessity imposed by Nature and history, now becomes the result of his own free action.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '226'
+- id: III.28.8
+  kind: p
+  original: Die objektiven, fremden Mächte, die bisher die Geschichte beherrschten, treten unter die Kontrolle der Menschen selbst.
+  en: The extraneous objective forces that have hitherto governed history, pass under the control of man himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '226'
+- id: III.28.9
+  kind: p
+  original: Erst von da an werden die Menschen ihre Geschichte mit vollem Bewußtsein selbst machen, erst von da an werden die von ihnen in Bewegung gesetzten gesellschaftlichen Ursachen vorwiegend und in stets steigendem Maß auch die von ihnen gewollten Wirkungen haben.
+  en: Only from that time will man himself, more and more consciously, make his own history--only from that time will the social causes set in movement by him have, in the main and in a constantly growing measure, the results intended by him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '226'
+- id: III.28.10
+  kind: p
+  original: Es ist der Sprung der Menschheit aus dem Reich der Notwendigkeit in das Reich der Freiheit.
+  en: It is the ascent of man from the kingdom of necessity to the kingdom of freedom.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '226'
+- id: III.29.1
+  kind: p
+  original: 'Fassen wir zum Schluß unsern Entwicklungsgang kurz zusammen:'
+  en: Let us briefly sum up our sketch of historical evolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.30.1
+  kind: p
+  original: 'I. Mittelalterliche Gesellschaft: Kleine Einzelproduktion.'
+  en: I. Mediaeval Society.--Individual production on a small scale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.30.2
+  kind: p
+  original: Produktionsmittel für den Einzelgebrauch zugeschnitten, daher urwüchsig-unbehülflich, kleinlich, von zwerghafter Wirkung.
+  en: Means of production adapted for individual use; hence primitive, ungainly, petty, dwarfed in action.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.30.3
+  kind: p
+  original: Produktion für den unmittelbaren Verbrauch, sei es des Produzenten selbst, sei es seines Feudalherrn.
+  en: Production for immediate consumption, either of the producer himself or of his feudal lord.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.30.4
+  kind: p
+  original: 'Nur da, wo ein Überschuß der Produktion über diesen Verbrauch stattfindet, wird dieser Überschuß zum Verkauf ausgeboten und verfällt dem Austausch: Warenproduktion also erst im Entstehn; aber schon jetzt enthält sie in sich, im Keim, die Anarchie in der gesellschaftlichen Produktion.'
+  en: Only where an excess of production over this consumption occurs is such excess offered for sale, enters into exchange. Production of commodities, therefore, only in its infancy. But already it contains within itself, in embryo, anarchy in the production of society at large.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.31.1
+  kind: p
+  original: 'II. Kapitalistische Revolution: Umwandlung der Industrie zuerst vermittelst der einfachen Kooperation und der Manufaktur, Konzentration der bisher zerstreuten Produktionsmittel in großen Werkstätten, damit ihre Verwandlung aus Produktionsmittel des einzelnen in gesellschaftliche - eine Verwandlung, die die Form des Austausches im ganzen und großen nicht berührt.'
+  en: II. Capitalist Revolution.--Transformation of industry, at first by means of simple co-operation and manufacture. Concentration of the means of production, hitherto scattered, into great workshops. As a consequence, their transformation from individual to social means of production--a transformation which does not, on the whole, affect the form of exchange.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.31.2
+  kind: p
+  original: Die alten Aneignungsformen bleiben in Kraft.
+  en: The old forms of appropriation remain in force.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.31.3
+  kind: p
+  original: 'Der Kapitalist tritt auf: In seiner Eigenschaft als Eigentümer der Produktionsmittel eignet er sich auch die Produkte an und macht sie zu Waren.'
+  en: The capitalist appears. In his capacity as owner of the means of production, he also appropriates the products and turns them into commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.31.4
+  kind: p
+  original: 'Die Produktion ist ein gesellschaftlicher Akt geworden; der Austausch und mit ihm die Aneignung bleiben individuelle Akte, Akte des einzelnen: Das gesellschaftliche Produkt wird angeeignet vom Einzelkapitalisten.'
+  en: Production has become a social act. Exchange and appropriation continue to be individual acts, the acts of individuals. The social product is appropriated by the individual capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.31.5
+  kind: p
+  original: Grundwiderspruch, aus dem alle Widersprüche entspringen, in denen die heutige Gesellschaft sich bewegt und die die große Industrie offen an den Tag bringt.
+  en: Fundamental contradiction, whence arise all the contradictions in which our present day society moves, and which modern industry brings to light.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.31.6
+  kind: p
+  original: A. Scheidung des Produzenten von den Produktionsmitteln.
+  en: A. Severance of the producer from the means of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.31.7
+  kind: p
+  original: Verurteilung des Arbeiters zu lebenslänglicher Lohnarbeit.
+  en: Condemnation of the worker to wage-labor for life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.31.8
+  kind: p
+  original: Gegensatz von Proletariat und Bourgeoisie.
+  en: Antagonism between the proletariat and the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.31.9
+  kind: p
+  original: B. Wachsendes Hervortreten und steigende Wirksamkeit der Gesetze, die die Warenproduktion beherrschen.
+  en: B. Growing predominance and increasing effectiveness of the laws governing the production of commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.31.10
+  kind: p
+  original: Zügelloser Konkurrenzkampf.
+  en: Unbridled competition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.31.11
+  kind: p
+  original: Widerspruch der gesellschaftlichen Organisation in der einzelnen Fabrik und der gesellschaftlichen Anarchie in der Gesamtproduktion.
+  en: Contradiction between socialized organization in the individual factory and social anarchy in production as a whole.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.31.12
+  kind: p
+  original: 'C. Einerseits Vervollkommnung der Maschinerie, durch die Konkurrenz zum Zwangsgebot für jeden einzelnen Fabrikanten gemacht und gleichbedeutend mit stets steigender Außerdienstsetzung von Arbeitern: industrielle Reservearmee.'
+  en: C. On the one hand, perfecting of machinery, made by competition compulsory for each individual manufacturer, and complemented by a constantly growing displacement of laborers. Industrial reserve-army.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.31.13
+  kind: p
+  original: Andrerseits schrankenlose Ausdehnung der Produktion, ebenfalls Zwangsgesetz der Konkurrenz für jeden Fabrikanten.
+  en: On the other hand, unlimited extension of production, also compulsory under competition, for every manufacturer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '227'
+- id: III.31.14
+  kind: p
+  original: 'Von beiden Seiten unerhörte Entwicklung der Produktivkräfte, Überschuß des Angebots über die Nachfrage, Überproduktion, Überfüllung der Märkte, zehnjährige Krisen, fehlerhafter Kreislauf: Überfluß hier, von Produktionsmitteln und Produkten - Überfluß dort, von Arbeitern ohne Beschäftigung und ohne Existenzmittel; aber diese beiden Hebel der Produktion und gesellschaftlichen Wohlstands können nicht zusammentreten, weil die kapitalistische Form der Produktion den Produktivkräften verbietet, zu wirken, den Produkten, zu zirkulieren, es sei denn, sie hätten sich zuvor in Kapital verwandelt: was gerade ihr eigner Überfluß verhindert.'
+  en: 'On both sides, unheard of development of productive forces, excess of supply over demand, over-production, glutting of the markets, crises every ten years, the vicious circle: excess here, of means of production and products--excess there, of laborers, without employment and without means of existence. But these two levers of production and of social well-being are unable to work together, because the capitalist form of production prevents the productive forces from working and the products from circulating, unless they are first turned into capital--which their very superabundance prevents.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 227-228
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.31.15
+  kind: p
+  original: 'Der Widerspruch hat sich gesteigert zum Widersinn: Die Produktionsweise rebelliert gegen die Austauschform.'
+  en: The contradiction has grown into an absurdity. The mode of production rises in rebellion against the form of exchange.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.31.16
+  kind: p
+  original: Die Bourgeoisie ist überführt der Unfähigkeit, ihre eignen gesellschaftlichen Produktivkräfte fernerhin zu leiten.
+  en: The bourgeoisie are convicted of incapacity further to manage their own social productive forces.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+- id: III.31.17
+  kind: p
+  original: D. Teilweise Anerkennung des gesellschaftlichen Charakters der Produktivkräfte, den Kapitalisten selbst aufgenötigt.
+  en: D. Partial recognition of the social character of the productive forces forced upon the capitalists themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+- id: III.31.18
+  kind: p
+  original: Aneignung der großen Produktions- und Verkehrsorganismen, erst durch Aktiengesellschaften, später durch Trusts, sodann durch den Staat.
+  en: Taking over of the great institutions for production and communication, first by joint-stock companies, later on by trusts, then by the State.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+- id: III.31.19
+  kind: p
+  original: Die Bourgeoisie erweist sich als überflüssige Klasse; alle ihre gesellschaftlichen Funktionen werden jetzt erfüllt durch besoldete Angestellte.
+  en: The bourgeoisie demonstrated to be a superfluous class. All its social functions are now performed by salaried employees.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.32.1
+  kind: p
+  original: 'III. Proletarische Revolution, Auflösung der Widersprüche: Das Proletariat ergreift die öffentliche Gewalt und verwandelt kraft dieser Gewalt, die den Händen der Bourgeoisie entgleitenden gesellschaftlichen Produktionsmittel in öffentliches Eigentum.'
+  en: III. Proletarian Revolution.--Solution of the contradictions. The proletariat seizes the public power, and by means of this transforms the socialized means of production, slipping from the hands of the bourgeoisie, into public property.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.32.2
+  kind: p
+  original: Durch diesen Akt befreit es die Produktionsmittel von ihrer bisherigen Kapitaleigenschaft und gibt ihrem gesellschaftlichen Charakter volle Freiheit, sich durchzusetzen.
+  en: By this act the proletariat frees the means of production from the character of capital they have thus far borne, and gives their socialized character complete freedom to work itself out.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+- id: III.32.3
+  kind: p
+  original: Eine gesellschaftliche Produktion nach vorherbestimmtem Plan wird nunmehr möglich.
+  en: Socialized production upon a predetermined plan becomes henceforth possible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+- id: III.32.4
+  kind: p
+  original: Die Entwicklung der Produktion macht die fernere Existenz verschiedner Gesellschaftsklassen zu einem Anachronismus.
+  en: The development of production makes the existence of different classes of society thenceforth an anachronism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+- id: III.32.5
+  kind: p
+  original: In dem Maß, wie die Anarchie der gesellschaftlichen Produktion schwindet, schläft auch die politische Autorität des Staats ein.
+  en: In proportion as anarchy in social production vanishes, the political authority of the State dies out.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+- id: III.32.6
+  kind: p
+  original: Die Menschen, endlich Herren ihrer eignen Art der Vergesellschaftung, werden damit zugleich Herren der Natur, Herren ihrer selbst - frei.
+  en: Man, at last the master of his own form of social organization, becomes at the same time the lord over Nature, his own master--free.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+- id: III.33.1
+  kind: p
+  original: Diese weltbefreiende Tat durchzuführen ist der geschichtliche Beruf des modernen Proletariats.
+  en: To accomplish this act of universal emancipation is the historical mission of the modern proletariat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+- id: III.33.2
+  kind: p
+  original: Ihre geschichtlichen Bedingungen, und damit ihre Natur selbst, zu ergründen und so der zur Aktion berufnen, heute unterdrückten Klasse die Bedingungen und die Natur ihrer eignen Aktion zum Bewußtsein zu bringen ist die Aufgabe des theoretischen Ausdrucks der proletarischen Bewegung, des wissenschaftlichen Sozialismus.
+  en: To thoroughly comprehend the historical conditions and thus the very nature of this act, to impart to the now oppressed proletarian class a full knowledge of the conditions and of the meaning of the momentous act it is called upon to accomplish, this is the task of the theoretical expression of the proletarian movement, scientific Socialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '228'
+- id: III.N1.1.1
+  kind: note
+  original: Es braucht hier nicht auseinandergesetzt zu werden, daß, wenn auch die Aneignungsform dieselbe bleibt, der Charakter der Aneignung durch den oben geschilderten Vorgang nicht minder revolutioniert wird als die Produktion.
+  en: It is hardly necessary in this connection to point out, that, even if the form of appropriation remains the same, the character of the appropriation is just as much revolutionized as production is by the changes described above.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N1.1.2
+  kind: note
+  original: Ob ich mir mein eignes Produkt aneigne oder das Produkt andrer, das sind natürlich zwei sehr verschiedne Arten von Aneignung.
+  en: It is, of course, a very different matter whether I appropriate to myself my own product or that of another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N1.1.3
+  kind: note
+  original: 'Nebenbei: die Lohnarbeit, in der die ganze kapitalistische Produktionsweise bereits im Keime steckt, ist sehr alt; vereinzelt und zerstreut ging sie jahrhundertelang her neben der Sklaverei.'
+  en: Note in passing that wage-labor, which contains the whole capitalistic mode of production in embryo, is very ancient; in a sporadic, scattered form it existed for centuries alongside of slave-labor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N1.1.4
+  kind: note
+  original: Aber zur kapitalistischen Produktionsweise entfalten konnte sich der Keim erst, als die geschichtlichen Vorbedingungen hergestellt waren.
+  en: But the embryo could duly develop into the capitalistic mode of production only when the necessary historical preconditions had been furnished.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N2.1.1
+  kind: note
+  original: Siehe Anhang am Schluß. [ "Die Mark" ]
+  en: See Appendix.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N3.1.1
+  kind: note
+  original: '"Lage der arbeitenden Klasse in England", S. 109'
+  en: '"The Condition of the Working-Class in England" (Sonnenschein & Co.), p. 84.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N4.1.1
+  kind: note
+  original: Ich sage, muß.
+  en: I say "have to."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N4.1.2
+  kind: note
+  original: Denn nur in dem Falle, daß die Produktions- oder Verkehrsmittel der Leitung durch Aktiengesellschaften wirklich entwachsen sind, daß also die Verstaatlichung ökonomisch unabweisbar geworden, nur in diesem Falle bedeutet sie, auch wenn der heutige Staat sie vollzieht, einen ökonomischen Fortschritt, die Erreichung einer neuen Vorstufe zur Besitzergreifung aller Produktivkräfte durch die Gesellschaft selbst.
+  en: For only when the means of production and distribution have actually outgrown the form of management by joint-stock companies, and when, therefore, the taking them over by the State has become economically inevitable, only then--even if it is the State of to-day that effects this--is there an economic advance, the attainment of another step preliminary to the taking over of all productive forces by society itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N4.1.3
+  kind: note
+  original: Es ist aber neuerdings, seit Bismarck sich aufs Verstaatlichen geworfen, ein gewisser falscher Sozialismus aufgetreten und hie und da sogar in einige Wohldienerei ausgeartet, der jede Verstaatlichung, selbst die Bismarcksche, ohne weiteres für sozialistisch erklärt.
+  en: But of late, since Bismarck went in for State-ownership of industrial establishments, a kind of spurious Socialism has arisen, degenerating, now and again, into something of flunkeyism, that without more ado declares all State-ownership, even of the Bismarckian sort, to be socialistic.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N4.1.4
+  kind: note
+  original: Allerdings, wäre die Verstaatlichung des Tabaks sozialistisch, so zählten Napoleon und Metternich mit unter den Gründern des Sozialismus.
+  en: Certainly, if the taking over by the State of the tobacco industry is socialistic, then Napoleon and Metternich must be numbered among the founders of Socialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N4.1.5
+  kind: note
+  original: Wenn der belgische Staat aus ganz alltäglichen politischen und finanziellen Gründen seine Haupteisenbahnen selbst baute, wenn Bismarck ohne jede ökonomische Notwendigkeit die Hauptbahnlinien Preußens verstaatlichte, einfach, um sie für den Kriegsfall besser einrichten und ausnützen zu können, um die Eisenbahnbeamten zu Regierungsstimmvieh zu erziehn und hauptsächlich, um sich eine neue, von Parlamentsbeschlüssen unabhängige Einkommensquelle zu verschaffen - so waren das keineswegs sozialistische Schritte, direkt oder indirekt, bewußt oder unbewußt.
+  en: If the Belgian State, for quite ordinary political and financial reasons, itself constructed its chief railway lines; if Bismarck, not under any economic compulsion, took over for the State the chief Prussian lines, simply to be the better able to have them in hand in case of war, to bring up the railway employees as voting cattle for the Government, and especially to create for himself a new source of income independent of parliamentary votes--this was, in no sense, a socialistic measure, directly or indirectly, consciously or unconsciously.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N4.1.6
+  kind: note
+  original: Sonst wären auch die königliche Seehandlung, die königliche Porzellanmanufaktur und sogar der Kompanieschneider beim Militär sozialistische Einrichtungen oder gar die unter Friedrich Wilhelm III. in den dreißiger Jahren alles Ernstes von einem Schlaumeier vorgeschlagene Verstaatlichung der - Bordelle.
+  en: Otherwise, the Royal Maritime Company, the Royal porcelain manufacture, and even the regimental tailor of the army would also be socialistic institutions, or even, as was seriously proposed by a sly dog in Frederick William III.'s reign, the taking over by the State of the brothels.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N5.1.1
+  kind: note
+  original: Ein paar Zahlen mögen eine annähernde Vorstellung geben von der enormen Expansionskraft der modernen Produktionsmittel, selbst unter dem kapitalistischen Druck.
+  en: A few figures may serve to give an approximate idea of the enormous expansive force of the modern means of production, even under capitalist pressure.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N5.1.2
+  kind: note
+  original: 'Nach der Berechnung von Giffen betrug der Gesamtreichtum von Großbritannien und Irland in runder Zahl: 1814 2200 Millionen Pfd. St. = 44 Milliarden Mark.'
+  en: According to Mr. Giffen, the total wealth of Great Britain and Ireland amounted, in round numbers, in 1814 to £2,200,000,000.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N5.1.3
+  kind: note
+  original: 1865 6100 Millionen Pfd. St. = 122 Milliarden Mark.
+  en: 1865 to £6,100,000,000.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  review: true
+  review_reason: length/anchor mismatch, check the match
+- id: III.N5.1.4
+  kind: note
+  original: 1875 8500 Millionen Pfd. St. = 170 Milliarden Mark.
+  en: 1875 to £8,500,000,000.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  review: true
+  review_reason: length/anchor mismatch, check the match
+- id: III.N5.2.1
+  kind: note
+  original: Was die Verheerung von Produktionsmitteln und Produkten in den Krisen betrifft, so wurde auf dem 2. Kongreß deutscher Industrieller, Berlin, 21. Februar 1878, der Gesamtverlust allein der deutschen Eisenindustrie im letzten Krach auf 455 Millionen Mark berechnet.
+  en: As an instance of the squandering of means of production and of products during a crisis, the total loss in the German iron industry alone, in the crisis of 1873-78, was given at the second German Industrial Congress (Berlin, February 21, 1878) as £22,750,000.
+  modern: ''
+  modern_status: empty
+  notes: ''

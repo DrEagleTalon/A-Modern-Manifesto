@@ -1,0 +1,114 @@
+# Glossary of recurring and contested terms in Socialism: Utopian and Scientific (SUS).
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+# Terms shared with other works (Bourgeoisie, Proletariat, Produktivkräfte ...) are in
+# works/communist-manifesto/glossary.yaml until a shared library glossary is agreed.
+
+- term: Aneignung
+  de: Aneignung, aneignen; kapitalistische Aneignung
+  english_1892: appropriation, appropriate
+  literal: taking as one's own
+  options: [appropriation, taking ownership, taking possession]
+  interim: appropriation
+  status: open
+  verses: [III.7.12, III.8.10, III.11.16, III.16.1, III.31.4]
+  note: The key word of chapter III. "Socialized production and capitalist appropriation" is the contradiction the whole chapter turns on. "Appropriation" is accurate but abstract; a modern draft may need to say "who owns what is made" in places, but should keep one fixed term so the argument stays visible.
+
+- term: gesellschaftliche Produktion
+  de: gesellschaftliche Produktion, gesellschaftlich arbeitende Fabriken, Vergesellschaftung
+  english_1892: socialized production, social production
+  literal: social production
+  options: [social production, socialized production, collective production]
+  interim: social production
+  status: open
+  verses: [III.6.7, III.8.10, III.11.16, III.16.1]
+  note: Aveling uses "socialized" where Engels has the plain adjective "gesellschaftlich". In modern English "socialized" suggests state ownership, which is the opposite of Engels's point here (production done jointly by many workers inside capitalism). Prefer "social production" and keep "socialized" for Vergesellschaftung.
+
+- term: Produktionsweise
+  de: Produktionsweise, Produktions- und Austauschweise
+  english_1892: mode of production, modes of production and exchange
+  literal: way of producing
+  options: [mode of production, way of producing]
+  interim: mode of production
+  status: interim
+  verses: [III.1.2, III.3.2, III.7.12]
+  note: A technical term across the library. Keep "mode of production" and explain once in a note rather than varying it.
+
+- term: Warenproduktion
+  de: Warenproduktion, Ware
+  english_1892: production of commodities, commodity
+  literal: production of goods for sale
+  options: [commodity production, production for the market, production for sale]
+  interim: commodity production
+  status: open
+  verses: [III.6.9, III.10.9, III.11.1]
+  note: Same term as in Capital. "Commodity" in everyday English means raw materials traded in bulk; the first use should say "goods made for sale".
+
+- term: Anarchie der Produktion
+  de: Anarchie der gesellschaftlichen Produktion
+  english_1892: anarchy in (socialized) production
+  literal: anarchy of social production
+  options: [anarchy of production, unplanned production, chaos in production]
+  interim: anarchy of production
+  status: open
+  verses: [III.9.5, III.11.4, III.30.4]
+  note: Engels means production without any overall plan, not the political doctrine. Anarchist readers will notice the word; a note should make the sense clear without swapping the term out.
+
+- term: Bürgertum vs Bourgeoisie
+  de: Bürgertum, Bourgeoisie, Mittelstand
+  english_1892: burghers, middle-class, bourgeoisie
+  literal: burghers / bourgeoisie / middle estate
+  options: [bourgeoisie, middle class, burghers, townspeople]
+  interim: bourgeoisie (Bourgeoisie); burghers (Bürgertum before 1789); middle class only for Mittelstand
+  status: open
+  verses: [I.4.1, I.4.4, I.18.4, I.11.3]
+  note: Engels's own English in P1892 says "middle-class" for the bourgeoisie throughout, which in modern English means something else. In the chapters Aveling varies. The modern draft should not use "middle class" for the capitalist class.
+
+- term: stirbt ab
+  de: Der Staat wird nicht "abgeschafft", er stirbt ab; schläft dann von selbst ein
+  english_1892: The State is not "abolished." It dies out.
+  literal: dies off, withers away
+  options: [dies out, withers away, dies away]
+  interim: withers away
+  status: open
+  verses: [III.25.10, III.25.12, III.32.5]
+  note: The most quoted line of the book. "Withers away" is the established phrase in English since the 1930s; Aveling's "dies out" is older and closer to the German. Traditions read it very differently; that reading belongs in commentary/, but the translation choice is a glossary decision.
+
+- term: Verwaltung von Sachen
+  de: An die Stelle der Regierung über Personen tritt die Verwaltung von Sachen
+  english_1892: the government of persons is replaced by the administration of things
+  literal: administration of things
+  options: [administration of things, managing things instead of governing people]
+  interim: administration of things
+  status: interim
+  verses: [III.25.11, I.15.3]
+  note: Engels credits the idea to Saint-Simon (I.15.3). Keep the phrase, since readers will search for it.
+
+- term: naturwüchsig
+  de: naturwüchsig
+  english_1892: spontaneous, grown up spontaneously
+  literal: grown naturally, unplanned
+  options: [spontaneous, unplanned, grown up on its own]
+  interim: unplanned
+  status: open
+  verses: [III.6.5, III.6.7, II.1.3]
+  note: A hard word throughout Marx and Engels. In III it means arising without anyone planning it, the opposite of "planmäßig"; in II.1.3 the Greeks are "born natural dialecticians". The modern draft may need different words in the two places.
+
+- term: Mehrwert
+  de: Mehrwert
+  english_1892: surplus-value
+  literal: added value
+  options: [surplus value]
+  interim: surplus value
+  status: decided
+  verses: [II.11.7, II.11.8, II.12.1]
+  note: Fixed term across the library. Drop the hyphen in the modern draft.
+
+- term: Reich der Notwendigkeit, Reich der Freiheit
+  de: Sprung der Menschheit aus dem Reiche der Notwendigkeit in das Reich der Freiheit
+  english_1892: the ascent of man from the kingdom of necessity to the kingdom of freedom
+  literal: leap of humanity from the realm of necessity into the realm of freedom
+  options: [leap from the realm of necessity to the realm of freedom]
+  interim: leap of humanity from the realm of necessity into the realm of freedom
+  status: open
+  verses: [III.28.10]
+  note: Aveling's "ascent of man" loses "Sprung" (leap) and "Menschheit" (humanity). Follow the German.

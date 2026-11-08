@@ -1,0 +1,287 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: P1882
+title_original: Vorwort zur ersten Auflage [in deutscher Sprache (1882)]
+title_en: Preface to the first German edition (1882)
+author: Friedrich Engels
+date: '1882-09-21'
+original_language: de
+anchor_language: de
+source_original: MEW 19, S. 177-228 (Dietz, Berlin) via mlwerke.de; text of the fourth German edition (1891)
+source_en: 'None: Aveling''s 1892 English does not include this preface'
+verses:
+- id: P1882.0.1
+  kind: heading
+  original: Vorwort zur ersten Auflage [in deutscher Sprache (1882)]
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1882.1.1
+  kind: p
+  original: 'Die nachfolgende Schrift ist entstanden aus drei Kapiteln meiner Arbeit: "Herrn E. Dührings Umwälzung der Wissenschaft", Leipzig 1878.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.1.2
+  kind: p
+  original: Ich stellte sie für meinen Freund Paul Lafargue zusammen zur Übersetzung ins Französische und fügte einige weitre Ausführungen hinzu.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.1.3
+  kind: p
+  original: 'Die von mir durchgesehene französische Übersetzung erschien zuerst in der "Revue socialiste" und sodann selbständig unter dem Titel: "Socialisme utopique et socialisme scientifique", Paris 1880, Eine nach der französischen Übersetzung ausgeführte Übertragung ins Polnische ist soeben in Genf erschienen und führt den Titel: "Socyjalizm utopijny a naukowy".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.1.4
+  kind: p
+  original: Imprimerie de l'Aurore, Genève 1882.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.2.1
+  kind: p
+  original: Der überraschende Erfolg der Lafargueschen Übersetzung in den Ländern französischer Zunge und namentlich in Frankreich selbst mußte mir die Frage aufdrängen, ob nicht eine deutsche Separatausgabe dieser drei Kapitel ebenfalls von Nutzen sein werde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.2.2
+  kind: p
+  original: Da teilte mir die Redaktion des Züricher "Sozialdemokrat" mit, daß innerhalb der deutschen sozialdemokratischen Partei allgemein das Verlangen nach Herausgabe neuer Propagandabroschüren erhoben werde, und frug mich, ob ich nicht jene drei Kapitel dazu bestimmen wolle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.2.3
+  kind: p
+  original: Ich war damit selbstredend einverstanden und stellte meine Arbeit zur Verfügung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.3.1
+  kind: p
+  original: Aber sie war ursprünglich gar nicht für die unmittelbare Volkspropaganda geschrieben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.3.2
+  kind: p
+  original: Wie sollte eine zunächst rein wissenschaftliche Arbeit sich dazu eignen?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.3.3
+  kind: p
+  original: Welche Änderungen in Form und Inhalt waren nötig?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.4.1
+  kind: p
+  original: Was die Form angeht, so konnten nur die vielen Fremdwörter Bedenken erregen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.4.2
+  kind: p
+  original: Aber schon Lassalle war in seinen Reden und Propagandaschriften durchaus nicht sparsam mit Fremdwörtern, und man hat sich meines Wissens nicht darüber beklagt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.4.3
+  kind: p
+  original: Seit jener Zeit haben unsre Arbeiter weit mehr und weit regelmäßiger Zeitungen gelesen und sind dadurch im selben Grad mehr mit Fremdwörtern vertraut worden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '186'
+- id: P1882.4.4
+  kind: p
+  original: Ich habe mich darauf beschränkt, alle unnötigen Fremdwörter zu entfernen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 186-187
+- id: P1882.4.5
+  kind: p
+  original: Bei den unvermeidlichen habe ich auf Beifügung sogenannter erklärender Übersetzungen verzichtet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '187'
+- id: P1882.4.6
+  kind: p
+  original: Die unvermeidlichen Fremdwörter, meist allgemein angenommene wissenschaftlich-technische Ausdrücke, wären eben nicht unvermeidlich, wenn sie übersetzbar wären.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '187'
+- id: P1882.4.7
+  kind: p
+  original: Die Übersetzung verfälscht also den Sinn; statt zu erklären, verwirrt sie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '187'
+- id: P1882.4.8
+  kind: p
+  original: Mündliche Auskunft hilft da weit mehr.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '187'
+- id: P1882.5.1
+  kind: p
+  original: Der Inhalt dagegen, glaube ich behaupten zu können, wird den deutschen Arbeitern wenig Schwierigkeiten machen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '187'
+- id: P1882.5.2
+  kind: p
+  original: Schwierig ist überhaupt nur der dritte Abschnitt, aber den Arbeitern, deren allgemeine Lebensbedingungen er zusammenfaßt, weit weniger als den "gebildeten" Bourgeois.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '187'
+- id: P1882.5.3
+  kind: p
+  original: Bei den zahlreichen erläuternden Zusätzen, die ich hier gemacht, habe ich in der Tat weniger an die Arbeiter gedacht als an "gebildete" Leser; Leute etwa, wie der Herr Abgeordnete von Eynern, der Herr Geheimrat Heinrich von Sybel und andere Treitschkes, beherrscht von dem unwiderstehlichen Drang, ihre grauenhafte Unkenntnis und ihren daraus begreiflichen kolossalen Mißverstand des Sozialismus immer aufs neue schwarz auf weiß zum besten zu geben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '187'
+- id: P1882.5.4
+  kind: p
+  original: Wenn Don Quijote seine Lanze gegen Windmühlen einlegt, so ist das seines Amtes und in seiner Rolle; dem Sancho Pansa aber können wir so etwas unmöglich erlauben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '187'
+- id: P1882.6.1
+  kind: p
+  original: Solche Leser werden sich auch wundern, in einer skizzierten Entwicklungsgeschichte des Sozialismus auf die Kant-Laplacesche Kosmogonie, auf die moderne Naturwissenschaft und Darwin, auf die klassische deutsche Philosophie und Hegel zu stoßen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '187'
+- id: P1882.6.2
+  kind: p
+  original: 'Aber der wissenschaftliche Sozialismus ist nun einmal ein wesentlich deutsches Produkt und konnte nur bei der Nation entstehn, deren klassische Philosophie die Tradition der bewußten Dialektik lebendig erhalten hatte: in Deutschland.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - P1882.N1
+  mew_page: '187'
+- id: P1882.6.3
+  kind: p
+  original: Die materialistische Geschichtsanschauung und ihre spezielle Anwendung auf den modernen Klassenkampf zwischen Proletariat und Bourgeoisie war nur möglich vermittelst der Dialektik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 187-188
+- id: P1882.6.4
+  kind: p
+  original: Und wenn die Schulmeister der deutschen Bourgeoisie die Erinnerung an die großen deutschen Philosophen und die von ihnen getragne Dialektik ertränkt haben im Sumpf eines öden Eklektizismus, so sehr, daß wir die moderne Naturwissenschaft anzurufen genötigt sind als Zeugin für die Bewährung der Dialektik in der Wirklichkeit - wir deutschen Sozialisten sind stolz darauf, daß wir abstammen nicht nur von Saint-Simon, Fourier und Owen, sondern auch von Kant, Fichte und Hegel.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1882.7.1
+  kind: signature
+  original: London, 21.September 1882
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1882.8.1
+  kind: signature
+  original: Friedrich Engels
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1882.N1.1.1
+  kind: note
+  original: '"In Deutschland" ist ein Schreibfehler.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1882.N1.1.2
+  kind: note
+  original: 'Es muß heißen: "bei Deutschen".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1882.N1.1.3
+  kind: note
+  original: Denn so unumgänglich einerseits die deutsche Dialektik war bei der Genesis des wissenschaftlichen Sozialismus, ebenso unumgänglich dabei waren die entwickelten ökonomischen und politischen Verhältnisse Englands und Frankreichs.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1882.N1.1.4
+  kind: note
+  original: 'Die, anfangs der vierziger Jahre noch weit mehr als heute, zurückgebliebne ökonomische und politische Entwicklungsstufe Deutschlands konnte höchstens sozialistische Karikaturen erzeugen (vgl. "Kommun. Manifest", III, l.c: "Der deutsche oder ''wahre'' Sozialismus").'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1882.N1.1.5
+  kind: note
+  original: Erst indem die in England und Frankreich erzeugten ökonomischen und politischen Zustände der deutsch-dialektischen Kritik unterworfen wurden, erst da konnte ein wirkliches Resultat gewonnen werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1882.N1.1.6
+  kind: note
+  original: Nach dieser Seite hin ist also der wissenschaftliche Sozialismus kein ausschließlich deutsches, sondern ebensosehr ein internationales Produkt. [ Diese Fußnote wurde von Engels in der dritten deutschen Auflage von 1883 eingefügt. ]
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
