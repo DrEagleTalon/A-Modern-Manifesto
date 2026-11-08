@@ -1,0 +1,42 @@
+name: Translation proposal
+description: Suggest a modern rendering for one or more verses
+title: "[VERSE] "
+labels: ["translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Put the verse number in the title, for example `[I.12.3]` or `[II.65.1-II.65.2]`.
+        Read docs/translation-principles.md first. Work from the German.
+  - type: input
+    id: verses
+    attributes:
+      label: Verse number(s)
+      placeholder: I.12.3
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed modern text
+      description: One line per verse, starting with the verse number.
+      placeholder: "I.12.3  Modern state power is nothing but a committee that manages the common business of the whole bourgeois class."
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: What the German says, where the 1888 English or the current draft goes wrong, which glossary terms apply.
+    validations:
+      required: true
+  - type: dropdown
+    id: german
+    attributes:
+      label: Did you work from the German?
+      options:
+        - Yes, I read German
+        - Partly, with a dictionary or tool
+        - No, this is a style suggestion on the English only
+    validations:
+      required: true

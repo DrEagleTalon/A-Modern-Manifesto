@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Argue about what a passage means
+    url: https://github.com/DrEagleTalon/A-Modern-Manifesto/discussions/categories/interpretation
+    about: Interpretation debates go to Discussions, titled with the verse number.
+  - name: Settle a recurring term
+    url: https://github.com/DrEagleTalon/A-Modern-Manifesto/discussions/categories/glossary
+    about: Glossary decisions, for example how to render Aufhebung or Bourgeoisie.

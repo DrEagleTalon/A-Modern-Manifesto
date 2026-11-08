@@ -1,482 +1,68 @@
-# A Modern Manifesto
+# A Modern Scholarly Translation of the Communist Manifesto
 
-*An open-source, modern-language rewrite of the Communist Manifesto by Karl Marx and Friedrich Engels, February 1848.*
+An open, verse-numbered parallel edition of the *Manifest der Kommunistischen Partei* (Marx and Engels, 1848) with every preface Marx and Engels wrote for it. Each sentence of the German original is a numbered verse. Beside it sit the 1888 English translation that Engels edited, a modern English draft, and notes. Anyone can propose a better rendering, argue about what a passage means, or fix a source error, and every one of those conversations points back to a verse number.
 
-This project aims to preserve the intellectual and historical depth of the original text while making it readable and relevant to contemporary working-class readers. Work includes line-by-line reinterpretation, comparison with the original German and the 1888 English translation, and collaborative revision and critique.
+The goal is a translation that a reader today can pick up and understand, without losing what the authors actually wrote. Where the world has changed since 1848, or where readers disagree about what a line means, that goes in the notes and in recorded readings. The text itself stays faithful.
 
-This is not a simplification project. It is a clarity project.
+## What a verse looks like
 
----
+`CM I.23.2` (Section I, paragraph 23, sentence 2):
 
-**Original source information**
+| | |
+|---|---|
+| **German** | Sie hat enorme Städte geschaffen, sie hat die Zahl der städtischen Bevölkerung gegenüber der ländlichen in hohem Grade vermehrt und so einen bedeutenden Teil der Bevölkerung dem Idiotismus des Landlebens entrissen. |
+| **English 1888** | It has created enormous cities, has greatly increased the urban population as compared with the rural, and has thus rescued a considerable part of the population from the idiocy of rural life. |
+| **Modern draft** | It has built enormous urban centers, hugely increased the urban population relative to the rural one, and pulled a large part of the population out of the isolation of rural life. |
+| **Notes** | *Idiotismus* is not "idiocy". See the glossary entry and Hal Draper's argument for "isolation". |
 
-- Written: Late 1847
-- First Published: February 1848
-- Source: Marx/Engels Selected Works, Vol. One, Progress Publishers, Moscow, 1969, pp. 98-137
-- Translated: Samuel Moore in cooperation with Frederick Engels, 1888
-- Transcribed: by Zodiac and Brian Baggins
-- Proofed and corrected against the 1888 English Edition by Andy Blunden, 2004
-- Copyleft: Marxists Internet Archive (marxists.org) 1987, 2000, 2010. Permission is granted to distribute this document under the terms of the Creative Commons Attribution-Share-Alike License.
+## What is in the repository
 
----
+```
+text/                      master files, one YAML file per section (this is what you edit)
+  00-prefaces/             1872, 1882, 1883, 1888, 1890, 1892, 1893
+  01-manifesto/            0 preamble, I-IV, and Engels's footnotes
+  verse-ids.lock           every verse id ever issued; ids are frozen
+glossary/terms.yaml        key terms, how Moore rendered them, open decisions
+docs/cruxes.md             contested passages, with verse numbers, to start discussions from
+dist/                      generated: CSV, Excel workbook, Markdown tables, HTML reader
+scripts/                   validate.py, build.py, and the one-time ingest pipeline
+sources/raw, sources/clean the exact files the parallel text was built from (see SOURCES.md)
+sources/                   reference library kept from the start of the project
+manifesto/                 the original modern rewrite (A-Modern-Manifesto.md, formerly this README) and the MIA source text
+```
 
-## Contents
+Open `dist/site/index.html` in a browser for the parallel reader, or `dist/manifesto-parallel.xlsx` if you prefer a spreadsheet. Both are rebuilt from `text/` by `python scripts/build.py`.
 
-- [Preamble](#preamble)
-- [I. Bourgeois and Proletarians](#i-bourgeois-and-proletarians)
-- [II. Proletarians and Communists](#ii-proletarians-and-communists)
-- [III. Socialist and Communist Literature](#iii-socialist-and-communist-literature)
-  - [1. Reactionary Socialism](#1-reactionary-socialism)
-    - [A. Feudal Socialism](#a-feudal-socialism)
-    - [B. Petty-Bourgeois Socialism](#b-petty-bourgeois-socialism)
-    - [C. German, or "True," Socialism](#c-german-or-true-socialism)
-  - [2. Conservative, or Bourgeois, Socialism](#2-conservative-or-bourgeois-socialism)
-  - [3. Critical-Utopian Socialism and Communism](#3-critical-utopian-socialism-and-communism)
-- [IV. The Position of the Communists Toward the Various Existing Opposition Parties](#iv-the-position-of-the-communists-toward-the-various-existing-opposition-parties)
+## Current state (v0.1)
 
----
+| | |
+|---|---|
+| Verses | 730 (7 prefaces, preamble, Sections I-IV, Engels's notes) |
+| German | complete, MEW text of the 1890 edition, with 1848/1872/1883/1888 variants attached to verses |
+| English 1888 | complete for the Manifesto and the 1888 preface; other prefaces carry a later reference translation (see SOURCES.md) |
+| Modern draft | 446 verses seeded from the original rewrite in `manifesto/A-Modern-Manifesto.md`, a paraphrase of the 1888 English. None of it has been checked against the German yet, so all of it is marked `seed` |
+| Alignment checks | 40 verses flagged `review: true` where the German and English sentence boundaries do not line up one to one |
 
-## Preamble
+The prefaces have no modern draft yet. That is the easiest place for a new contributor to start, since the passages are short and self-contained.
 
-A ghost is haunting Europe - the ghost of communism.
+## How to help
 
-Every major power in old Europe has joined forces to try to crush it: pope and tsar, kings and ministers, reformers and police alike.
+Read [CONTRIBUTING.md](CONTRIBUTING.md). In short:
 
-Where is the opposition that hasn't been labeled "communist" by those in power?
+- **Translate**: pick verses, write or improve the `modern` field working from the German, open a pull request with the verse numbers in the title.
+- **Debate**: open a Discussion titled with the verse number, for example `[II.66.1] "in the hands of the State"`. When a debate produces distinct readings, they get recorded on the verse.
+- **Check**: work through the verses flagged `review: true`, or proofread the German and English against facsimiles of the 1848 and 1888 editions.
 
-And where is the opposition that hasn't thrown that same accusation at others more radical than itself?
+The house rules for translation choices are in [docs/translation-principles.md](docs/translation-principles.md). The numbering rules are in [VERSIFICATION.md](VERSIFICATION.md).
 
-Two things are clear from this:
+## Citing
 
-First, communism is already recognized by all major powers as a real force.
+Cite verses as `CM I.12.3` for the Manifesto, `CM P1872.2.6` for a preface, `CM N2.1.3` for one of Engels's notes. A verse number always points at the same German sentence, in every release.
 
-Second, it is time for communists to stop hiding. They must openly state what they believe, what they want, and what direction they are moving in - and answer the myths and fears about communism with a clear declaration of their own.
+## Prior work
 
-With that purpose, communists from different countries have come together and written this manifesto, to be shared across languages and nations.
+Hal Draper's *The Adventures of the Communist Manifesto* (1994, reissued by Haymarket 2020) set the 1848 German, Helen Macfarlane's 1850 English, the 1888 English and his own new translation side by side, paragraph by paragraph. This project does the same kind of work in the open, at sentence level, with the arguments kept alongside the text.
 
----
+## License
 
-## I. Bourgeois and Proletarians
-
-The history of every society up to this point is the history of class struggle.
-
-Free people and slaves, nobles and commoners, lords and serfs, guild masters and journeymen - in short, oppressors and oppressed - have always stood against each other. Their conflict has been constant, sometimes hidden and sometimes open, and it has ended either in the revolutionary remaking of society or in the shared ruin of the classes in conflict.
-
-In earlier periods of history, society was divided into many ranks and layers. Ancient Rome had patricians, knights, plebeians, and slaves. The Middle Ages had feudal lords, vassals, guild masters, journeymen, apprentices, and serfs. And within nearly all of these groups, there were still further divisions.
-
-Modern bourgeois society, which grew out of the ruins of feudal society, has not done away with class conflict. It has only created new classes, new forms of oppression, and new forms of struggle in place of the old ones.
-
-But our time - the age of the bourgeoisie - has one distinctive feature: it has simplified class conflict. More and more, society is splitting into two hostile camps, into two great classes directly facing each other: the bourgeoisie and the proletariat.
-
-From the serfs of the Middle Ages came the chartered townspeople of the first cities. From these townspeople, the first elements of the bourgeoisie developed.
-
-The discovery of the Americas and the rounding of the Cape of Good Hope opened new territory for the rising bourgeoisie. The markets of the East Indies and China, the colonization of the Americas, trade with those colonies, and the growth of currency and goods in circulation gave commerce, shipping, and industry a push nothing in history had matched. This accelerated the revolutionary forces already eating away at feudalism.
-
-The old feudal system of production, where industry was locked down by closed guilds, could no longer keep up with the demands of the new markets. The manufacturing system took its place. The guild masters were shoved aside by the manufacturing middle class. The old division of labor between competing guilds collapsed, replaced by the division of labor inside a single workshop.
-
-Markets kept growing. Demand kept rising. Even manufacturing was not enough. Then steam and machinery revolutionized production. Modern Industry replaced manufacturing, and the industrial middle class was replaced by industrial millionaires - the commanders of whole industrial armies - the modern bourgeoisie.
-
-Modern industry built the world market that the discovery of the Americas first opened up. This world market hugely expanded commerce, shipping, and long-distance communication. That expansion in turn fed back into industry. As industry, commerce, shipping, and railroads grew, the bourgeoisie grew with them, piling up capital and pushing every older class from the Middle Ages into the background.
-
-So the modern bourgeoisie is itself the product of a long process - a series of revolutions in how things are produced and exchanged.
-
-Each step in the bourgeoisie's rise brought a matching rise in its political power. It started as an oppressed class under the feudal nobility. In the medieval communes it became an armed, self-governing association - sometimes an independent urban republic, as in Italy and Germany, sometimes a taxable "third estate" under a monarchy, as in France. Later, during the age of manufacturing, it served either semi-feudal or absolute monarchs as a counterweight to the old nobility, and became the cornerstone of those great monarchies. Finally, once Modern Industry and the world market were in place, the bourgeoisie seized exclusive political power in the modern representative state. The executive of the modern state is nothing more than a committee for managing the shared business of the entire bourgeois class.
-
-Historically, the bourgeoisie has played a deeply revolutionary role.
-
-Wherever it has come to power, the bourgeoisie has destroyed every feudal, patriarchal, and idealized relationship. It has ripped apart the tangled feudal ties that bound people to their so-called "natural superiors." It has left no other connection between one person and another than bare self-interest and cold cash payment. It has drowned the most sacred ecstasies of religious devotion, chivalric honor, and middle-class sentiment in the icy water of selfish calculation. It has turned personal worth into exchange value. In place of countless chartered freedoms that people had fought for, it has set up one freedom: free trade. In short, it has replaced exploitation hidden behind religious and political illusions with exploitation that is open, shameless, direct, and brutal.
-
-The bourgeoisie has stripped the halo off every profession that was once respected and admired. It has turned the doctor, the lawyer, the priest, the poet, and the scientist into its paid wage laborers.
-
-The bourgeoisie has torn away the sentimental veil over the family and reduced the family bond to a pure money bond.
-
-The bourgeoisie has shown how the raw strength that reactionaries admire so much in the Middle Ages actually went hand in hand with laziness and stagnation. It has been the first to prove what human effort can accomplish. It has built wonders that dwarf the Egyptian pyramids, Roman aqueducts, and Gothic cathedrals. It has led expeditions that make every earlier migration or crusade look small.
-
-The bourgeoisie cannot exist without constantly revolutionizing the tools of production, and along with them the relationships of production and all of society. Every earlier industrial class needed the opposite - to preserve the old methods unchanged. But constant revolution in production, uninterrupted disturbance of every social condition, and permanent uncertainty and upheaval are what set the bourgeois age apart from every earlier one. All fixed, frozen relationships, with their ancient and respected prejudices and opinions, are swept away. All new relationships grow outdated before they can harden. Everything solid melts into air. Everything sacred is made profane. And at last, people are forced to face, with clear eyes, the real conditions of their lives and their actual relationships with each other.
-
-The need for an ever-expanding market chases the bourgeoisie across the whole surface of the globe. It has to put down roots everywhere, settle everywhere, build connections everywhere.
-
-Through its exploitation of the world market, the bourgeoisie has given a global character to production and consumption in every country. To the horror of reactionaries, it has pulled the national ground right out from under industry's feet. Old national industries have been destroyed, or are being destroyed daily. They are pushed aside by new industries whose adoption becomes a life-or-death matter for every developed nation - industries that no longer use local raw materials but pull them in from the most distant parts of the earth, and whose products are consumed not only at home but in every corner of the world. In place of old needs met by domestic production, we find new needs that can only be satisfied with goods from distant lands and climates. In place of the old national isolation and self-sufficiency, we have traffic and exchange in every direction - a universal interdependence of nations. And the same thing happens in intellectual production as in material production. The works of individual nations become shared property. National narrowness and prejudice become more and more impossible. Out of the many national and local literatures arises a world literature.
-
-Through the rapid improvement of every tool of production, and through massively easier communication, the bourgeoisie pulls every nation, even the most tradition-bound, into modern industrial life. The cheap price of its goods is the heavy artillery with which it batters down every wall, and forces even the most stubborn opposition to foreigners to surrender. It forces every nation, under threat of extinction, to adopt the bourgeois way of producing. It forces them to introduce what it calls civilization - that is, to become bourgeois themselves. In a word, it creates a world in its own image.
-
-The bourgeoisie has put the countryside under the rule of the cities. It has built enormous urban centers, hugely increased the urban population relative to the rural one, and pulled a large part of the population out of the isolation of rural life. Just as it has made the country depend on the city, it has made less industrialized and still-agrarian countries depend on the industrialized ones - peasant nations on bourgeois nations, the East on the West.
-
-The bourgeoisie keeps chipping away at the scattered state of population, production, and property. It has concentrated production, and it has concentrated property in a few hands. The unavoidable result of this was political centralization. Independent or loosely linked provinces, each with its own interests, laws, governments, and tax systems, have been lumped together into single nations - one government, one set of laws, one national class interest, one border, one set of customs duties.
-
-In barely a hundred years of rule, the bourgeoisie has built up more massive and colossal productive forces than every preceding generation combined. The forces of nature harnessed for human use, machinery, chemistry applied to industry and agriculture, steam shipping, railways, the electric telegraph, entire continents cleared for farming, rivers made navigable, whole populations conjured out of the ground - what earlier century could even have imagined that so much productive power was sleeping inside social labor?
-
-So we see: the means of production and exchange that the bourgeoisie built itself on were first developed inside feudal society. At a certain point, these means of production and exchange outgrew the feudal conditions under which they had been produced and traded. The feudal way of organizing agriculture and manufacturing, feudal property relations - they stopped fitting the productive forces that had already developed. They became so many chains. They had to be broken. They were broken.
-
-In their place came free competition, with a matching social and political order - the economic and political rule of the bourgeois class.
-
-Something similar is happening now, in front of our eyes. Modern bourgeois society, with its relations of production, exchange, and property - a society that has summoned up such gigantic forces of production and exchange - is like the sorcerer who can no longer control the underworld powers he has called up with his spell. For decades now, the history of industry and commerce has been the history of the revolt of modern productive forces against modern conditions of production - against the property relations that keep the bourgeoisie in place. Consider the commercial crises that come back on a regular cycle, each time threatening the entire bourgeois order more seriously. In these crises a huge portion not just of existing products, but of already-built productive capacity, is periodically destroyed. In these crises an epidemic breaks out that earlier ages would have found absurd - the epidemic of overproduction. Society suddenly finds itself thrown back into a kind of temporary barbarism. It looks as if a famine or a devastating war has cut off the supply of basic necessities. Industry and commerce seem to have collapsed. And why? Because there is too much civilization, too much food, too much industry, too much commerce. The productive forces society has built are no longer serving the development of bourgeois property - they have grown too powerful for it. They are chained up by it, and the moment they overcome those chains they throw the whole bourgeois order into disorder and threaten the existence of bourgeois property itself. Bourgeois conditions are too narrow to hold the wealth they produce. And how does the bourgeoisie respond to these crises? On one hand, by destroying huge amounts of productive capacity. On the other, by conquering new markets and exploiting old ones more thoroughly. That is, by setting the stage for bigger and more destructive crises, and by weakening the tools that could have prevented them.
-
-The weapons the bourgeoisie used to beat feudalism into the ground are now turned against the bourgeoisie itself.
-
-But the bourgeoisie has not just forged the weapons that will kill it. It has also called into being the people who will wield those weapons - the modern working class - the proletariat.
-
-As the bourgeoisie - that is, capital - grows, so does the proletariat, the modern working class. They are a class of laborers who live only as long as they can find work, and who can only find work as long as their labor adds to capital. These workers, who have to sell themselves piece by piece, are a commodity like any other article of commerce. And so they are subject to every shift of competition and every swing of the market.
-
-Because of extensive mechanization and division of labor, the work of the proletariat has lost all individual character. It has lost any charm for the worker. They become an appendage of the machine, and what the machine demands of them is only the simplest, most repetitive, easiest-to-learn movement. So the cost of producing a worker is reduced almost entirely to the means of subsistence they need to keep themselves alive and raise the next generation. But the price of a commodity - including the commodity of labor - equals the cost of producing it. So as the work gets more unbearable, the wage goes down. And more than that: as mechanization and division of labor increase, the total burden of work also increases, whether through longer hours, more work demanded in the same time, or faster machinery.
-
-Modern industry has turned the small workshop of the patriarchal master into the huge factory of the industrial capitalist. Masses of workers, packed into the factory, are organized like soldiers. As privates in the industrial army, they are placed under a full hierarchy of officers and sergeants. They are not just enslaved by the bourgeois class and the bourgeois state. They are enslaved every day and every hour by the machine, by the foreman, and above all by the individual bourgeois manufacturer. The more openly this tyranny declares that profit is its only goal, the more petty, the more hateful, the more enraging it becomes.
-
-The less physical skill and strength a job requires - in other words, the more modern industry develops - the more the labor of men is replaced by the labor of women and children. Age and sex no longer have any distinctive social meaning inside the working class. All are tools of labor, more or less expensive depending on age and sex.
-
-As soon as workers are paid their wages in cash by the manufacturer, other sections of the bourgeoisie swoop in on them - the landlord, the shopkeeper, the pawnbroker, and so on.
-
-The lower layers of the middle class - small business owners, retail shopkeepers, retired tradesmen, craftsmen, and small farmers - are gradually sunk into the proletariat. Partly because their small amount of capital is not enough to run a modern business and gets crushed in competition with big capitalists. Partly because their specialized skills are made worthless by new methods. So the proletariat is recruited from every layer of the population.
-
-The proletariat goes through several stages. From the moment it is born, its struggle with the bourgeoisie begins. At first the fight is carried on by individual workers, then by the workers of a single factory, then by the workers of a single trade in a single town, against the individual bourgeois who directly exploits them. Their attacks are not yet aimed at the bourgeois conditions of production - they are aimed at the tools of production themselves. They smash the foreign goods competing with their labor. They smash machinery. They set factories on fire. They try to force their way back to the lost position of the medieval craftsman.
-
-At this stage, workers are still a scattered, uncoordinated mass spread across the whole country, divided by competition with each other. When they do come together into more organized bodies, it is not yet from their own initiative - it is because the bourgeoisie, to pursue its own political goals, has to mobilize the entire proletariat and can still do so for a while. At this stage, the proletariat is not fighting its own enemies - it is fighting the enemies of its enemies: the leftover supporters of absolute monarchy, the big landowners, the non-industrial bourgeoisie, the small business owners. So the whole historical movement gets concentrated in the hands of the bourgeoisie. Every victory won this way is a victory for the bourgeoisie.
-
-But as industry develops, the proletariat does not just grow in numbers. It becomes concentrated in bigger groups. Its strength grows, and it begins to feel that strength. The different interests and living conditions inside the proletariat get more and more equalized as machinery wipes out the distinctions between kinds of labor and pushes wages almost everywhere down to the same low level. Growing competition between capitalists, and the resulting commercial crises, make wages more and more unstable. The constant, accelerating improvement of machinery makes workers' livelihoods more and more precarious. The clashes between individual workers and individual bourgeois start to look more and more like clashes between two classes. At that point, workers begin to form combinations - unions - against the bourgeoisie. They club together to protect their wages. They set up permanent organizations to be ready for the next flare-up. Here and there the fight breaks out into riots.
-
-Sometimes the workers win, but only for a time. The real fruit of these battles is not the immediate result. It is the ever-expanding union of the workers. That union is helped along by the improved communication created by modern industry, which puts workers in different places in touch with each other. And all it took was that contact to pull together the many local struggles, all of them with the same character, into a single national struggle between classes. And every class struggle is a political struggle. The union that took the townspeople of the Middle Ages centuries to achieve on bad roads, modern workers, thanks to railways, achieve in a few years.
-
-This organizing of the proletariat into a class, and therefore into a political party, is constantly being disrupted again by competition among the workers themselves. But it always rises again - stronger, more solid, more powerful. It forces legal recognition of particular worker interests, by taking advantage of the splits inside the bourgeoisie itself. That is how, for example, the ten-hour bill was passed in England.
-
-Altogether, the clashes between the old classes of society push the development of the proletariat forward in many ways. The bourgeoisie finds itself in a constant fight: first with the aristocracy; then with sections of the bourgeoisie itself whose interests clash with the progress of industry; always with the bourgeoisie of foreign countries. In all these fights, it is forced to call on the proletariat for help, and so it pulls the proletariat into the political arena. The bourgeoisie itself, therefore, hands the proletariat its own tools of political and general education - it hands the proletariat weapons to use against the bourgeoisie.
-
-More than that: as we have already seen, entire sections of the ruling classes are being driven down into the proletariat by the progress of industry, or are at least threatened with that fate. They too bring fresh enlightenment and progress into the proletariat.
-
-Finally, as the class struggle nears its decisive moment, the process of breakdown inside the ruling class - and across the whole of society - takes on such a violent, visible form that a small section of the ruling class breaks away and joins the revolutionary class - the class that holds the future in its hands. Just as a section of the nobility at one point crossed over to the bourgeoisie, so now a section of the bourgeoisie crosses over to the proletariat. This is especially true for a section of the bourgeois thinkers who have reached the point of understanding the historical movement as a whole.
-
-Of all the classes that face the bourgeoisie today, only the proletariat is a truly revolutionary class. The other classes decay and eventually disappear in the face of Modern Industry. The proletariat is its special and essential product. The lower middle class - the small manufacturer, the shopkeeper, the craftsman, the small farmer - all fight the bourgeoisie to save their existence as pieces of the middle class from extinction. They are not revolutionary. They are conservative. More than that, they are reactionary: they try to turn back the wheel of history. If by chance they are revolutionary, it is only because they are about to be pushed down into the proletariat. In that case they defend not their present but their future interests. They give up their own position and take up the position of the proletariat.
-
-The so-called "dangerous class," the social scum thrown off by the lowest layers of old society, may here and there get swept into the movement by a proletarian revolution. But the conditions of their life prepare them much more for the role of a paid tool of reactionary scheming.
-
-In the conditions of the proletariat, the conditions of old society are already effectively wiped out. The proletarian has no property. Their relationship with their spouse and children has nothing in common with the bourgeois family. Modern industrial labor and modern subjection to capital - the same in England as in France, the same in America as in Germany - have stripped them of every trace of national character. Law, morality, and religion, to them, are just so many bourgeois prejudices, with just as many bourgeois interests hiding behind them.
-
-Every ruling class before this tried to secure its newly won position by forcing the rest of society to live under its conditions of appropriation. The proletariat cannot gain control of the productive forces of society without abolishing its own current mode of appropriation, and by doing that, every previous mode of appropriation as well. The proletariat has nothing of its own to secure and defend. Its mission is to destroy every previous safeguard of private property.
-
-All previous historical movements were movements of minorities, or movements serving the interests of minorities. The proletarian movement is the conscious, independent movement of the huge majority, in the interest of the huge majority. The proletariat - the lowest stratum of our current society - cannot lift itself up without blowing the whole structure of official society above it into the air.
-
-The fight of the proletariat against the bourgeoisie, though not in its substance, is at first national in form. The proletariat of each country has to first of all settle matters with its own bourgeoisie.
-
-In describing these general phases of the development of the proletariat, we have traced the more or less hidden civil war raging inside existing society, up to the point where it breaks out into open revolution and the violent overthrow of the bourgeoisie lays the foundation for proletarian rule.
-
-Every form of society so far, as we have seen, has been based on the antagonism between oppressing and oppressed classes. But to oppress a class, certain conditions have to be guaranteed to it so it can at least keep on existing, even as a slave. The serf, in the period of serfdom, was able to work their way up to membership in the commune. The small-time bourgeois, under feudal absolutism, was able to develop into a full bourgeois. The modern worker, by contrast, instead of rising with the progress of industry, sinks deeper and deeper below the conditions of their own class. They become a pauper, and pauperism grows even faster than population or wealth. It becomes obvious that the bourgeoisie is no longer fit to be the ruling class or to impose its conditions on society as an overriding law. It is unfit to rule because it cannot even guarantee its slave an existence within slavery. It cannot help letting them sink into a state where it has to feed them instead of being fed by them. Society can no longer live under the bourgeoisie. Its existence is no longer compatible with society's.
-
-The key condition for the bourgeois class to exist and to rule is the formation and accumulation of capital. The condition for capital is wage labor. Wage labor rests entirely on competition between workers. The advance of industry, which the bourgeoisie carries forward without meaning to, replaces the isolation of workers caused by competition with their revolutionary combination through association. So the development of Modern Industry cuts out the very ground the bourgeoisie stands on as it produces and takes possession. What the bourgeoisie produces, above all, is its own grave-diggers. Its fall and the victory of the proletariat are equally inevitable.
-
----
-
-## II. Proletarians and Communists
-
-What is the relationship between the communists and the proletariat as a whole?
-
-Communists do not form a separate party opposed to other working-class parties.
-
-They have no interests separate from the interests of the proletariat as a whole.
-
-They do not set up any sectarian principles of their own to shape or mold the proletarian movement.
-
-Communists are distinguished from other working-class parties only by these two things. First, in the national struggles of workers in different countries, they point out and bring forward the shared interests of the entire proletariat, regardless of nationality. Second, at every stage of the struggle between the working class and the bourgeoisie, they always and everywhere represent the interests of the movement as a whole.
-
-So, in practice, communists are the most advanced and most committed section of the working-class parties of every country - the section that pushes all the others forward. In theory, they have the advantage over the rest of the proletariat of clearly understanding the direction of the march, the conditions, and the ultimate general results of the proletarian movement.
-
-The immediate aim of the communists is the same as that of every other working-class party: the shaping of the proletariat into a class, the overthrow of bourgeois supremacy, and the proletariat's winning of political power.
-
-The theoretical conclusions of the communists are not based on ideas or principles invented or discovered by some would-be universal reformer. They simply express, in general terms, the actual relationships that arise out of an existing class struggle - a historical movement playing out right in front of us. The abolition of existing property relations is not in itself unique to communism.
-
-Property relations have been constantly changing throughout history as historical conditions change.
-
-The French Revolution, for example, abolished feudal property in favor of bourgeois property.
-
-What distinguishes communism is not the abolition of property in general, but the abolition of bourgeois property. Modern bourgeois private property is the final and most complete expression of a system of producing and appropriating goods that is based on class antagonism - on the exploitation of the many by the few.
-
-In this sense, the theory of the communists can be summed up in one sentence: abolition of private property.
-
-We communists have been accused of wanting to abolish the right to personally earn and own property as the fruit of a person's own labor - the property that is supposedly the foundation of all personal freedom, activity, and independence.
-
-Hard-won, self-earned, personal property! Do you mean the property of the small craftsman or the small farmer - a form of property that existed before the bourgeois form? There is no need for us to abolish it. The development of modern industry has already destroyed most of it, and is destroying more of it every day.
-
-Or do you mean modern bourgeois private property?
-
-But does wage labor actually create any property for the worker? Not a bit. It creates capital - that is, the kind of property that exploits wage labor, and which can only grow by producing new wage labor to be freshly exploited. Property, in its current form, is based on the antagonism between capital and wage labor. Let us look at both sides of that antagonism.
-
-To be a capitalist is to have not just a personal position but a social position in production. Capital is a collective product. It can only be set in motion by the combined action of many people - in fact, in the last analysis, by the combined action of every member of society.
-
-So capital is not a personal power. It is a social power.
-
-So when capital is converted into common property - into the property of every member of society - personal property is not being transformed into social property. Only the social character of the property is being changed. It loses its class character.
-
-Now let us look at wage labor.
-
-The average price of wage labor is the minimum wage - that is, the amount of means of subsistence a worker absolutely needs to stay alive as a worker. So what the wage worker takes for themselves through their labor just barely keeps them alive. We have no intention at all of abolishing this personal appropriation of the products of labor - an appropriation that keeps people alive and reproducing, and that leaves no surplus to command the labor of others. All we want to abolish is the miserable character of that appropriation - the condition where the worker lives only to add to capital, and is allowed to live only so long as the ruling class finds it useful.
-
-In bourgeois society, living labor is just a means of increasing accumulated labor. In communist society, accumulated labor is just a means of widening, enriching, and supporting the existence of the worker.
-
-In bourgeois society, then, the past dominates the present. In communist society, the present dominates the past. In bourgeois society, capital is independent and has individuality, while the living person is dependent and has no individuality.
-
-And the abolition of this state of things is called by the bourgeoisie the abolition of individuality and freedom. And rightly so. What we are aiming at is clearly the abolition of bourgeois individuality, bourgeois independence, and bourgeois freedom.
-
-By "freedom," under current bourgeois conditions of production, what is meant is free trade, free buying and selling.
-
-But once buying and selling goes away, free buying and selling goes with it. All this talk about free buying and selling, and all the other grand slogans of the bourgeoisie about freedom in general, only has any meaning - if it has any at all - in contrast with restricted buying and selling, with the closed merchant guilds of the Middle Ages. It has no meaning against the communist abolition of buying and selling, of bourgeois conditions of production, and of the bourgeoisie itself.
-
-You are horrified that we want to do away with private property. But in your current society, private property is already done away with for nine-tenths of the population. Private property exists for the few only because it does not exist for those nine-tenths. So what you are really accusing us of is wanting to do away with a form of property whose very existence depends on the huge majority having no property at all.
-
-In one word, you accuse us of wanting to do away with your property. Yes. That is exactly what we intend.
-
-From the moment labor can no longer be turned into capital, money, or rent - into a social power that can be monopolized - that is, from the moment individual property can no longer be turned into bourgeois property, into capital - you say individuality disappears.
-
-So you have to admit that by "individual" you mean nothing other than the bourgeois - the middle-class owner of property. That kind of person must, in fact, be swept out of the way and made impossible.
-
-Communism takes from no one the ability to appropriate the products of society. All it does is take away the ability to use that appropriation to command the labor of others.
-
-It has been objected that once private property is abolished all work will stop, and universal laziness will take over.
-
-By that logic, bourgeois society should long ago have gone to ruin through sheer idleness - because those of its members who work get nothing, and those who get anything do not work. This objection is really just another way of stating the tautology: there can be no wage labor once there is no capital.
-
-All the objections thrown at the communist way of producing and appropriating material products have also been thrown at the communist way of producing and appropriating intellectual products. Just as the disappearance of class property looks to the bourgeois like the disappearance of production itself, the disappearance of class culture looks to him like the disappearance of all culture.
-
-That culture whose loss he grieves is, for the huge majority, nothing but training to act like a machine.
-
-But do not argue with us so long as you apply to our proposed abolition of bourgeois property the standard of your bourgeois ideas of freedom, culture, law, and so on. Your very ideas are just the product of the conditions of your bourgeois production and bourgeois property - just as your legal system is the will of your class turned into law for everyone, a will whose essential character and direction are determined by the economic conditions of your class's existence.
-
-The selfish misreading that makes you turn the social forms arising from your current mode of production and form of property into eternal laws of nature and reason - historical relations that arise and disappear in the course of production - this is the same misreading every earlier ruling class has made. What you clearly see in the case of ancient property, what you admit in the case of feudal property, you of course cannot admit in the case of your own bourgeois form of property.
-
-Abolition of the family! Even the most radical people flare up at this shocking proposal from the communists.
-
-But on what foundation does the current family - the bourgeois family - rest? On capital, on private profit. In its fully developed form, this family exists only among the bourgeoisie. Its counterpart is the practical absence of family life among the proletariat, and public prostitution.
-
-The bourgeois family will vanish as a matter of course when its counterpart vanishes, and both will vanish with the vanishing of capital.
-
-Do you accuse us of wanting to stop the exploitation of children by their parents? To this crime we plead guilty.
-
-But, you will say, we destroy the most sacred of relationships when we replace home education with social education.
-
-And your education - is it not also social, shaped by the social conditions under which you educate, by the direct or indirect intervention of society through schools and so on? The communists did not invent social involvement in education. They simply want to change the character of that involvement, and to pull education out from under the influence of the ruling class.
-
-The bourgeois clichés about the family and education, about the sacred bond of parent and child, become more disgusting the more Modern Industry tears every family tie among the proletariat apart and turns their children into mere articles of commerce and tools of labor.
-
-"But you communists want to introduce community of women," screams the entire bourgeoisie in chorus.
-
-The bourgeois sees his wife as nothing more than a tool of production. He hears that the tools of production are to be held in common, and naturally concludes that the status of "held in common" must apply to women too.
-
-He does not even suspect that the real point is to do away with the status of women as mere tools of production.
-
-And really, nothing is more ridiculous than the outraged virtue of our bourgeois about an "official community of women" that the communists are supposedly about to introduce. Communists have no need to introduce a community of women. It has existed for almost as long as history.
-
-Our bourgeois, not satisfied with having the wives and daughters of their workers available to them, not to mention common prostitutes, take the greatest pleasure in seducing each other's wives.
-
-Bourgeois marriage is in reality a system of wives held in common. So at most, what the communists could be accused of is wanting to introduce, in place of a hidden and hypocritical community of women, an openly legal one. Beyond that, it is obvious that with the abolition of the current system of production, the community of women that grows out of that system - that is, prostitution, both public and private - will also disappear.
-
-Communists are also accused of wanting to abolish countries and nationalities.
-
-The workers have no country. You cannot take from them what they do not have. Since the proletariat first has to gain political supremacy, rise to be the leading class of the nation, and constitute itself as the nation, it is in that sense still national - though not in the bourgeois sense of the word.
-
-National differences and hostilities between peoples are fading away more and more every day - due to the development of the bourgeoisie, to freedom of commerce, to the world market, to the uniformity of production and the living conditions that come with it.
-
-The rise of the proletariat will make them vanish even faster. United action, at least of the leading industrialized countries, is one of the first conditions for the emancipation of the proletariat.
-
-As the exploitation of one individual by another is ended, the exploitation of one nation by another will also be ended. As the antagonism between classes inside a nation fades, the hostility of one nation toward another will come to an end.
-
-The charges leveled at communism from a religious, philosophical, or generally ideological standpoint are not worth serious examination.
-
-Does it really take deep insight to understand that people's ideas, views, and conceptions - in a word, their consciousness - change along with every change in the material conditions of their existence, in their social relationships, and in their social life?
-
-What else does the history of ideas prove, except that intellectual production changes as material production changes? The ruling ideas of each age have always been the ideas of its ruling class.
-
-When people talk about ideas that revolutionize society, they are just expressing the fact that inside the old society the elements of a new one have been created, and that the dissolution of the old ideas keeps pace with the dissolution of the old conditions of existence.
-
-When the ancient world was in its death throes, the ancient religions were overcome by Christianity. When Christian ideas were overcome in the 18th century by rationalist ideas, feudal society was fighting its last battle against the then-revolutionary bourgeoisie. The ideas of religious liberty and freedom of conscience were just the expression of the rule of free competition in the realm of knowledge.
-
-"Undoubtedly," it will be said, "religious, moral, philosophical, and legal ideas have been modified over the course of historical development. But religion, morality, philosophy, political science, and law always survived those changes."
-
-"There are, besides, eternal truths - Freedom, Justice, and so on - that are common to every state of society. But communism abolishes eternal truths. It abolishes all religion and all morality instead of reconstituting them on a new basis. So it acts in contradiction to all past historical experience."
-
-What does this accusation come down to? The history of all past society has been the history of developing class antagonisms - antagonisms that took different forms in different periods.
-
-But whatever form they took, one fact is common to every past age: the exploitation of one part of society by another. No wonder, then, that the social consciousness of past ages, despite all its variety, moves within certain common frames, or general ideas, that cannot fully disappear except with the total disappearance of class antagonisms.
-
-The communist revolution is the most radical break with traditional property relations. No wonder its development involves the most radical break with traditional ideas.
-
-But enough with the bourgeois objections to communism.
-
-We have seen that the first step in the revolution by the working class is to raise the proletariat to the position of ruling class - to win the battle of democracy.
-
-The proletariat will use its political supremacy to take, step by step, all capital from the bourgeoisie, to centralize all tools of production in the hands of the state - that is, in the hands of the proletariat organized as the ruling class - and to increase the total productive forces as quickly as possible.
-
-Of course, in the beginning, this can only be done through forceful attacks on property rights and on the conditions of bourgeois production - through measures that will seem economically insufficient and unsustainable, but which in the course of the movement outgrow themselves, require further attacks on the old social order, and become unavoidable as a way of fully revolutionizing the mode of production.
-
-These measures will of course be different in different countries.
-
-Still, in the most advanced countries the following will be pretty generally applicable:
-
-1. Abolition of private ownership of land, and use of all rents from land for public purposes.
-2. A heavy progressive or graduated income tax.
-3. Abolition of all right of inheritance.
-4. Confiscation of the property of all emigrants and rebels.
-5. Centralization of credit in the hands of the state, through a national bank with state capital and an exclusive monopoly.
-6. Centralization of the means of communication and transport in the hands of the state.
-7. Extension of factories and tools of production owned by the state. Bringing unused lands under cultivation. Improvement of the soil in general according to a common plan.
-8. Equal obligation of all to labor. Establishment of industrial armies, especially for agriculture.
-9. Combination of agriculture with manufacturing. Gradual abolition of the distinction between town and countryside, through a more even distribution of the population across the country.
-10. Free education for all children in public schools. Abolition of child factory labor in its current form. Combination of education with industrial production, and so on.
-
-When, in the course of development, class distinctions have disappeared, and all production has been concentrated in the hands of a vast association of the whole nation, the public power will lose its political character. Political power, properly speaking, is just the organized power of one class for oppressing another. If the proletariat, during its fight with the bourgeoisie, is forced by circumstances to organize itself as a class, and if through a revolution it makes itself the ruling class and, as the ruling class, sweeps away by force the old conditions of production, then, along with those conditions, it will have swept away the conditions for the existence of class antagonism and of classes in general - and will thereby have abolished its own supremacy as a class.
-
-In place of the old bourgeois society, with its classes and class antagonisms, we will have an association in which the free development of each is the condition for the free development of all.
-
----
-
-## III. Socialist and Communist Literature
-
-### 1. Reactionary Socialism
-
-#### A. Feudal Socialism
-
-Because of their historical position, the aristocracies of France and England took it on themselves to write pamphlets attacking modern bourgeois society. In the French revolution of July 1830, and in the English reform agitation, these aristocracies got beaten again by the upstart bourgeoisie they hated. A serious political contest was out of the question from then on. All that was left was a literary fight. But even in literature the old slogans of the restoration period had become impossible.
-
-To win sympathy, the aristocracy had to pretend to lose sight of its own interests and to frame its complaint against the bourgeoisie purely in the interest of the exploited working class. So the aristocracy got its revenge by writing biting satires against its new master, and by whispering dark prophecies of a coming catastrophe in his ear.
-
-That is how feudal socialism arose: half lament, half lampoon; half echo of the past, half warning of the future; sometimes striking the bourgeoisie at the heart with sharp, witty criticism, but always ridiculous in its effect, because it was totally incapable of understanding the direction of modern history.
-
-To rally the people to them, the aristocrats waved the proletarian beggar's bag like a banner. But whenever the people went along with them, they saw the old feudal coat of arms on the aristocrats' backs, and deserted with loud, disrespectful laughter.
-
-One section of the French royalist ultras, along with the "Young England" group of conservative reformers, put on this spectacle.
-
-When they insisted that their way of exploiting was different from the bourgeoisie's, the feudalists conveniently forgot that they had exploited under completely different, now outdated conditions. When they said that the modern proletariat never existed under their rule, they forgot that the modern bourgeoisie is the necessary offspring of their own social form.
-
-For the rest, they barely concealed the reactionary character of their criticism. Their main accusation against the bourgeoisie amounted to this: that under the bourgeois order a class was being created that was destined to tear the old order up root and branch.
-
-What they really accused the bourgeoisie of was not so much that it created a proletariat, but that it created a revolutionary proletariat.
-
-In practical politics, then, they joined in every attempt to crush the working class. And in ordinary life, despite all their high-flown talk, they stooped to pick up the golden apples dropped from the tree of industry - bartering truth, love, and honor for a trade in wool, beet-sugar, and potato liquor.
-
-Just as the parson has always walked hand in hand with the landlord, so clerical socialism has walked hand in hand with feudal socialism.
-
-Nothing is easier than giving Christian self-denial a socialist tinge. Has not Christianity railed against private property, against marriage, against the state? Has it not preached, in their place, charity and poverty, celibacy and mortification of the flesh, monastic life and the Mother Church? Christian socialism is just the holy water with which the priest blesses the aristocrat's heartburn.
-
-#### B. Petty-Bourgeois Socialism
-
-The feudal aristocracy was not the only class the bourgeoisie ruined - not the only class whose conditions of existence shriveled and died in the atmosphere of modern bourgeois society. The medieval townspeople and small peasant owners were the forerunners of the modern bourgeoisie. In countries that are only slightly developed industrially and commercially, these two classes still drag on alongside the rising bourgeoisie.
-
-In countries where modern civilization is fully developed, a new class of petty bourgeoisie has formed. It floats between the proletariat and the bourgeoisie, constantly renewing itself as a supplement to bourgeois society. But its individual members are constantly being hurled down into the proletariat by competition. As modern industry develops, they see the moment approaching when they will disappear entirely as a distinct section of modern society, to be replaced, in manufacturing, agriculture, and commerce, by supervisors, foremen, and shop clerks.
-
-In countries like France, where peasants make up far more than half the population, it was natural that writers who sided with the proletariat against the bourgeoisie would use the standpoint of the peasant and the petty bourgeois when criticizing the bourgeois order, and would take up the fight for the working class from that in-between position. This is how petty-bourgeois socialism arose. Sismondi was the head of this school, both in France and in England.
-
-This school of socialism dissected the contradictions in modern production with sharp precision. It exposed the hypocritical apologies of the economists. It proved beyond doubt the disastrous effects of machinery and division of labor, the concentration of capital and land in a few hands, overproduction and crises. It pointed out the inevitable ruin of the small bourgeois and the peasant, the misery of the proletariat, the anarchy in production, the crying inequalities in how wealth is distributed, the industrial war of extermination between nations, the breakdown of old moral ties, old family relations, old nationalities.
-
-But in its positive program, this kind of socialism aims either to restore the old means of production and exchange - along with the old property relations and the old society - or else to cram the modern means of production and exchange back into the framework of the old property relations that they have already blown up. In either case, it is both reactionary and utopian.
-
-Its final pronouncements are: corporate guilds for manufacturing, patriarchal relations in agriculture.
-
-In the end, when stubborn historical facts had cleared away all the intoxicating self-deception, this form of socialism ended in a miserable fit of the blues.
-
-#### C. German, or "True," Socialism
-
-The socialist and communist literature of France, which arose under the pressure of a ruling bourgeoisie and was the expression of the fight against that power, was imported into Germany at a time when the German bourgeoisie had just begun its own fight against feudal absolutism.
-
-German philosophers, would-be philosophers, and clever wits eagerly seized on this literature, forgetting that when these writings emigrated from France to Germany, French social conditions did not emigrate along with them. In contact with German social conditions, this French literature lost all its immediate practical meaning and took on a purely literary character. For the German philosophers of the eighteenth century, the demands of the first French Revolution meant no more than the demands of "Practical Reason" in general. The voice of the revolutionary French bourgeoisie was, in their eyes, the law of pure Will - of Will as it was supposed to be, of true human Will in general.
-
-The work of the German literary class consisted entirely in bringing the new French ideas into harmony with their own ancient philosophical conscience - or rather, in annexing the French ideas without abandoning their own philosophical point of view.
-
-This annexation happened the same way a foreign language is annexed: by translation.
-
-It is well known how the monks used to write silly lives of Catholic saints on top of manuscripts that had originally contained the classical works of ancient pagan authors. The German literary class did the reverse with secular French literature. They wrote their philosophical nonsense underneath the French original. For example, under the French criticism of the economic functions of money, they wrote "Alienation of Humanity." Under the French criticism of the bourgeois state they wrote "Dethronement of the Category of the General," and so on.
-
-Sticking these philosophical phrases onto the back of French historical criticism, they called the result "Philosophy of Action," "True Socialism," "German Science of Socialism," "Philosophical Foundation of Socialism," and so on.
-
-The French socialist and communist literature was, in this way, completely castrated. And since it no longer, in the hands of the German, expressed the struggle of one class against another, the German felt proud of having overcome "French one-sidedness" and of representing, not true demands, but the demands of truth - not the interests of the proletariat, but the interests of Human Nature, of Man in general, who belongs to no class, has no reality, and exists only in the foggy world of philosophical fantasy.
-
-This German socialism, which took its schoolboy task so seriously and solemnly, and which hawked its poor stock with such showy self-importance, gradually lost its pedantic innocence.
-
-The fight of the German - and especially the Prussian - bourgeoisie against feudal aristocracy and absolute monarchy, in other words the liberal movement, became more serious.
-
-This gave "True" Socialism the long-awaited chance to confront the political movement with its socialist demands, to hurl traditional curses against liberalism, against representative government, against bourgeois competition, bourgeois freedom of the press, bourgeois legislation, bourgeois liberty and equality. It preached to the masses that they had nothing to gain and everything to lose from this bourgeois movement. German socialism conveniently forgot that the French criticism it was a silly echo of assumed the existence of modern bourgeois society - with its matching economic conditions and matching political constitution - the very things the pending fight in Germany was about trying to achieve.
-
-To the absolute governments, with their following of parsons, professors, country squires, and officials, it served as a welcome scarecrow against the threatening bourgeoisie.
-
-It was a sweet finish after the bitter pills of floggings and bullets that these same governments were dosing the German working-class uprisings with at the same time.
-
-While this "True" Socialism was serving the governments as a weapon against the German bourgeoisie, at the same time it directly represented a reactionary interest - the interest of the German philistines. In Germany, the petty bourgeois class, a holdover from the sixteenth century that has kept popping up again under various forms ever since, is the real social basis of the existing order.
-
-To preserve this class is to preserve the existing order in Germany. The industrial and political supremacy of the bourgeoisie threatens it with certain destruction - on one hand from the concentration of capital, on the other from the rise of a revolutionary proletariat. "True" Socialism seemed to kill these two birds with one stone. It spread like an epidemic.
-
-The robe of speculative cobwebs, embroidered with rhetorical flowers, drenched in the dew of sickly sentiment - this transcendental robe in which the German socialists wrapped their dry "eternal truths" - made their product sell wonderfully among such an audience. And for its part, German socialism came more and more to see its true calling: being the bombastic representative of the petty-bourgeois philistine.
-
-It proclaimed the German nation to be the model nation, and the German petty philistine to be the typical human being. To every villainous meanness of this model man, it gave a hidden, higher, "socialist" interpretation - the exact opposite of its real character. It went so far as to directly oppose the "brutally destructive" tendency of communism, and to proclaim its lofty, above-it-all contempt for all class struggles. With very few exceptions, all the so-called socialist and communist publications circulating in Germany at the time belonged to this foul and draining literature.
-
-### 2. Conservative, or Bourgeois, Socialism
-
-A part of the bourgeoisie wants to fix social grievances in order to secure the continued existence of bourgeois society.
-
-This section includes economists, philanthropists, humanitarians, improvers of the condition of the working class, organizers of charity, members of societies for the prevention of cruelty to animals, temperance fanatics, and hole-and-corner reformers of every imaginable kind. This form of socialism has also been worked out into complete systems.
-
-Proudhon's *Philosophy of Poverty* is one example of this form.
-
-The socialist bourgeois wants all the benefits of modern social conditions without the struggles and dangers that necessarily come with them. They want the existing state of society minus its revolutionary and disintegrating elements. They want a bourgeoisie without a proletariat. The bourgeoisie naturally imagines the world in which it rules to be the best one possible, and bourgeois socialism develops this comfortable idea into various more or less complete systems. In calling on the proletariat to carry out such a system, and to march straight into the social New Jerusalem, it really just demands that the proletariat stay within the bounds of existing society, while dropping all its hateful ideas about the bourgeoisie.
-
-A second, more practical but less systematic form of this kind of socialism tried to discredit every revolutionary movement in the eyes of the working class. It argued that no mere political reform, but only a change in the material conditions of existence, in economic relations, could really help them. By "changes in material conditions," though, this form of socialism does not mean the abolition of bourgeois relations of production - something only a revolution could accomplish. It means administrative reforms based on the continued existence of those relations. Reforms, that is, that do not affect the relations between capital and labor at all, and that at best reduce the cost and simplify the paperwork of bourgeois government.
-
-Bourgeois socialism finds its real voice only when it becomes pure slogan.
-
-Free trade - for the benefit of the working class. Protective tariffs - for the benefit of the working class. Prison reform - for the benefit of the working class. That is the last word, and the only seriously meant word, of bourgeois socialism.
-
-It sums up to the phrase: the bourgeois is a bourgeois - for the benefit of the working class.
-
-### 3. Critical-Utopian Socialism and Communism
-
-We are not talking here about the literature which, in every great modern revolution, has always given voice to the demands of the proletariat - like the writings of Babeuf and others.
-
-The first direct attempts of the proletariat to achieve its own ends, made in times of mass excitement when feudal society was being overthrown, necessarily failed. They failed because of the then-undeveloped state of the proletariat, and because the economic conditions for its emancipation did not yet exist. Those conditions still had to be produced, and only the coming bourgeois age could produce them. The revolutionary literature that accompanied these first movements of the proletariat necessarily had a reactionary character. It preached universal self-denial and social leveling in its crudest form.
-
-The socialist and communist systems in the real sense - those of Saint-Simon, Fourier, Owen, and others - arise in the early, undeveloped period of the struggle between proletariat and bourgeoisie described above (see Section I, "Bourgeois and Proletarians").
-
-The founders of these systems do see the class antagonisms, as well as the decomposing elements in the prevailing form of society. But the proletariat, still in its infancy, appears to them as a class without any historical initiative or independent political movement of its own.
-
-Since the development of class antagonism keeps pace with the development of industry, the economic situation as they find it does not yet offer the material conditions for the emancipation of the proletariat. So they look for a new social science, new social laws, that are supposed to create those conditions.
-
-Historical action is to give way to their personal inventive action. Historically created conditions of emancipation are to be replaced by imaginary ones. The gradual, spontaneous self-organization of the proletariat is to be replaced by an organization of society specially designed by these inventors. Future history, in their eyes, resolves itself into the propaganda and the practical carrying-out of their social plans.
-
-In designing their plans, they are conscious of caring chiefly for the interests of the working class, as the most suffering class. For them, the proletariat only exists as the most suffering class.
-
-The undeveloped state of the class struggle, and their own social surroundings, cause socialists of this kind to consider themselves far above all class antagonisms. They want to improve the condition of every member of society, even the most privileged. So they habitually appeal to society at large, without regard to class - in fact, preferably to the ruling class. How can people, they think, once they understand the system, fail to see in it the best possible plan of the best possible state of society?
-
-So they reject all political action, and especially all revolutionary action. They want to reach their goals by peaceful means. They try, through small experiments that are necessarily doomed to fail, and through the force of example, to pave the way for the new social gospel.
-
-These fantastic pictures of future society, painted at a time when the proletariat is still in a very undeveloped state and still has only a fantastic conception of its own position, correspond with the first instinctive yearnings of that class for a general remaking of society.
-
-But these socialist and communist writings also contain a critical element. They attack every principle of existing society. So they are full of the most valuable materials for the enlightenment of the working class. The practical measures they propose - such as the abolition of the distinction between town and country, the abolition of the family, the abolition of industry being run for the account of private individuals, the abolition of the wage system, the proclamation of social harmony, the conversion of the functions of the state into a mere supervision of production - all these proposals point only to the disappearance of class antagonisms that were, at that time, only just emerging, and that in these writings are recognized only in their earliest, indistinct, and undefined forms. So these proposals are purely utopian in character.
-
-The significance of Critical-Utopian Socialism and Communism stands in inverse relation to historical development. As the modern class struggle develops and takes definite shape, this fantastic standing apart from the fight - these fantastic attacks on the fight - lose all practical value and all theoretical justification. So although the originators of these systems were revolutionary in many respects, their disciples have in every case turned into mere reactionary sects. They hold fast to the original views of their masters in opposition to the progressive historical development of the proletariat. So they try, consistently, to dull the class struggle and to reconcile the class antagonisms. They still dream of the experimental realization of their social utopias - of founding isolated model communities, of establishing "Home Colonies," of setting up a "Little Icaria" - pocket editions of the New Jerusalem. To make all these castles in the air real, they have to appeal to the feelings and the pocketbooks of the bourgeois. Gradually they sink into the category of the reactionary conservative socialists described above, differing from them only by more systematic pedantry, and by their fanatical and superstitious belief in the miraculous effects of their social science.
-
-So they violently oppose all political action by the working class. Such action, to them, can only come from blind disbelief in the new gospel.
-
-The Owenites in England and the Fourierists in France oppose the Chartists and the labor-reform movement, respectively.
-
----
-
-## IV. The Position of the Communists Toward the Various Existing Opposition Parties
-
-Section II made clear the relationship of the communists to the existing working-class parties, such as the Chartists in England and the Agrarian Reformers in America.
-
-The communists fight for the immediate aims, for the short-term interests of the working class. But inside the movement of the present, they also represent and take care of the future of that movement. In France, the communists ally with the Social Democrats against the conservative and radical bourgeoisie - while reserving the right to take a critical position toward phrases and illusions handed down from the great Revolution.
-
-In Switzerland they support the Radicals, without losing sight of the fact that this party contains antagonistic elements - partly Democratic Socialists in the French sense, partly radical bourgeois.
-
-In Poland they support the party that insists on an agrarian revolution as the first condition of national emancipation - the party that stirred up the Cracow insurrection of 1846.
-
-In Germany they fight alongside the bourgeoisie whenever it acts in a revolutionary way, against absolute monarchy, the feudal landed gentry, and the petty bourgeoisie.
-
-But they never stop, for a single moment, working to instill into the working class the clearest possible recognition of the hostile antagonism between bourgeoisie and proletariat. They do this so that the German workers can immediately turn against the bourgeoisie, as so many weapons, the social and political conditions that the bourgeoisie must inevitably introduce along with its rule - and so that, after the fall of the reactionary classes in Germany, the fight against the bourgeoisie itself can immediately begin.
-
-The communists focus chiefly on Germany, because that country is on the eve of a bourgeois revolution that is bound to be carried out under more advanced conditions of European civilization, and with a much more developed proletariat, than either the English revolution of the seventeenth century or the French revolution of the eighteenth. The bourgeois revolution in Germany will therefore be only the prelude to a proletarian revolution that immediately follows.
-
-In short, the communists everywhere support every revolutionary movement against the existing social and political order of things.
-
-In all these movements they bring to the front, as the leading question in each, the property question - no matter what degree of development it has reached at the time.
-
-Finally, they work everywhere for the union and agreement of the democratic parties of all countries.
-
-The communists refuse to hide their views and aims. They openly declare that their ends can only be reached by the forcible overthrow of all existing social conditions. Let the ruling classes tremble at a communist revolution. The proletarians have nothing to lose but their chains. They have a world to win.
-
----
-
-## **WORKERS OF ALL COUNTRIES, UNITE!**
+Translations, notes, glossary and documentation: [CC BY-SA 4.0](LICENSE). Scripts: MIT ([LICENSE-CODE](LICENSE-CODE)). The German and the 1888 English are in the public domain; see [SOURCES.md](SOURCES.md) for the status of each transcription and of the later preface translations.

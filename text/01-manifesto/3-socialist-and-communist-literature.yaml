@@ -1,0 +1,1127 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: III
+title_de: Sozialistische und kommunistische Literatur
+title_en: Socialist and Communist Literature
+author: Karl Marx and Friedrich Engels
+date: 1848-02
+original_language: de
+anchor_language: de
+source_de: MEW 4, S. 459-493 (Dietz, Berlin), text of the 1890 German edition, the last edited by Engels, via mlwerke.de; 1848/1872/1883/1888 variants from MEW's apparatus
+source_en: Samuel Moore and Friedrich Engels, English edition of 1888; Marxists Internet Archive transcription proofed against the 1888 edition by Andy Blunden (2004), CC BY-SA
+source_modern: Seeded from A Modern Manifesto (Yusuf Talan Saunders), a paraphrase of the 1888 English; not yet checked against the German
+verses:
+- id: III.0.1
+  kind: heading
+  de: III. Sozialistische und kommunistische Literatur
+  en: III. Socialist and Communist Literature
+  modern: III. Socialist and Communist Literature
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: III.1.1
+  kind: heading
+  de: 1. Der reaktionäre Sozialismus
+  en: 1. Reactionary Socialism
+  modern: 1. Reactionary Socialism
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: III.2.1
+  kind: heading
+  de: a) Der feudale Sozialismus
+  en: A. Feudal Socialism
+  modern: A. Feudal Socialism
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: III.3.1
+  kind: p
+  de: Die französische und englische Aristokratie war ihrer geschichtlichen Stellung nach dazu berufen, Pamphlete gegen die moderne bürgerliche Gesellschaft zu schreiben.
+  en: Owing to their historical position, it became the vocation of the aristocracies of France and England to write pamphlets against modern bourgeois society.
+  modern: Because of their historical position, the aristocracies of France and England took it on themselves to write pamphlets attacking modern bourgeois society.
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: III.3.2
+  kind: p
+  de: In der französischen Junirevolution von 1830, in der englischen Reformbewegung war sie noch einmal dem verhaßten Emporkömmling erlegen.
+  en: In the French Revolution of July 1830, and in the English reform agitation, these aristocracies again succumbed to the hateful upstart.
+  modern: In the French revolution of July 1830, and in the English reform agitation, these aristocracies got beaten again by the upstart bourgeoisie they hated.
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: III.3.3
+  kind: p
+  de: Von einem ernsten politischen Kampfe konnte nicht mehr die Rede sein.
+  en: Thenceforth, a serious political struggle was altogether out of the question.
+  modern: A serious political contest was out of the question from then on.
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: III.3.4
+  kind: p
+  de: Nur der literarische Kampf blieb ihr übrig.
+  en: A literary battle alone remained possible.
+  modern: All that was left was a literary fight.
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: III.3.5
+  kind: p
+  de: Aber auch auf dem Gebiete der Literatur waren die alten Redensarten der Restaurationszeit unmöglich geworden.
+  en: But even in the domain of literature the old cries of the restoration period had become impossible.
+  modern: But even in literature the old slogans of the restoration period had become impossible.
+  modern_status: seed
+  notes: ''
+  footnotes:
+  - N4
+  mew_page: '482'
+- id: III.3.6
+  kind: p
+  de: Um Sympathie zu erregen, mußte die Aristokratie scheinbar ihre Interessen aus dem Auge verlieren und nur im Interesse der exploitierten Arbeiterklasse ihren Anklageakt gegen die Bourgeoisie formulieren.
+  en: In order to arouse sympathy, the aristocracy was obliged to lose sight, apparently, of its own interests, and to formulate their indictment against the bourgeoisie in the interest of the exploited working class alone.
+  modern: To win sympathy, the aristocracy had to pretend to lose sight of its own interests and to frame its complaint against the bourgeoisie purely in the interest of the exploited working class.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T53
+    editions: 1848, 1872, 1883
+    reading: den Augen
+    base_text: verlieren und nur im Interesse …
+  - ref: T54
+    editions: '1848'
+    reading: 'eingefügt: noch'
+    base_text: im Interesse der exploitierten Arbeiterklasse …
+  mew_page: 482-483
+- id: III.3.7
+  kind: p
+  de: Sie bereitete so die Genugtuung vor, Schmählieder auf ihren neuen Herrscher zu singen und mehr oder minder unheilschwangere Prophezeiungen ihm ins Ohr raunen zu dürfen.
+  en: Thus, the aristocracy took their revenge by singing lampoons on their new masters and whispering in his ears sinister prophesies of coming catastrophe.
+  modern: So the aristocracy got its revenge by writing biting satires against its new master, and by whispering dark prophecies of a coming catastrophe in his ear.
+  modern_status: seed
+  notes: ''
+  mew_page: '483'
+- id: III.4.1
+  kind: p
+  de: Auf diese Art entstand der feudalistische Sozialismus, halb Klagelied, halb Pasquill, halb Rückhall der Vergangenheit, halb Dräuen der Zukunft, mitunter die Bourgeoisie ins Herz treffend durch bitteres, geistreich zerreißendes Urteil, stets komisch wirkend durch gänzliche Unfähigkeit, den Gang der modernen Geschichte zu begreifen.
+  en: 'In this way arose feudal Socialism: half lamentation, half lampoon; half an echo of the past, half menace of the future; at times, by its bitter, witty and incisive criticism, striking the bourgeoisie to the very heart''s core; but always ludicrous in its effect, through total incapacity to comprehend the march of modern history.'
+  modern: 'That is how feudal socialism arose: half lament, half lampoon; half echo of the past, half warning of the future; sometimes striking the bourgeoisie at the heart with sharp, witty criticism, but always ridiculous in its effect, because it was totally incapable of understanding the direction of modern history.'
+  modern_status: seed
+  notes: ''
+  mew_page: '483'
+- id: III.5.1
+  kind: p
+  de: Den proletarischen Bettelsack schwenkten sie als Fahne in der Hand, um das Volk hinter sich her zu versammeln.
+  en: The aristocracy, in order to rally the people to them, waved the proletarian alms-bag in front for a banner.
+  modern: To rally the people to them, the aristocrats waved the proletarian beggar's bag like a banner.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T55
+    editions: 1848, 1872
+    reading: Bettlersack
+    base_text: schwenkten sie als Fahne in …
+  mew_page: '483'
+- id: III.5.2
+  kind: p
+  de: Sooft es ihnen aber folgte, erblickte es auf ihrem Hintern die alten feudalen Wappen und verlief sich mit lautem und unehrerbietigem Gelächter.
+  en: But the people, so often as it joined them, saw on their hindquarters the old feudal coats of arms, and deserted with loud and irreverent laughter.
+  modern: But whenever the people went along with them, they saw the old feudal coat of arms on the aristocrats' backs, and deserted with loud, disrespectful laughter.
+  modern_status: seed
+  notes: ''
+  mew_page: '483'
+- id: III.6.1
+  kind: p
+  de: Ein Teil der französischen Legitimisten und das Junge England gaben dies Schauspiel zum besten.
+  en: One section of the French Legitimists and "Young England" exhibited this spectacle.
+  modern: One section of the French royalist ultras, along with the "Young England" group of conservative reformers, put on this spectacle.
+  modern_status: seed
+  notes: ''
+  mew_page: '483'
+- id: III.7.1
+  kind: p
+  de: Wenn die Feudalen beweisen, daß ihre Weise der Ausbeutung anders gestaltet war als die bürgerliche Ausbeutung, so vergessen sie nur, daß sie unter gänzlich verschiedenen und jetzt überlebten Umständen und Bedingungen ausbeuteten.
+  en: In pointing out that their mode of exploitation was different to that of the bourgeoisie, the feudalists forget that they exploited under circumstances and conditions that were quite different and that are now antiquated.
+  modern: When they insisted that their way of exploiting was different from the bourgeoisie's, the feudalists conveniently forgot that they had exploited under completely different, now outdated conditions.
+  modern_status: seed
+  notes: ''
+  mew_page: '483'
+- id: III.7.2
+  kind: p
+  de: Wenn sie nachweisen, daß unter ihrer Herrschaft nicht das moderne Proletariat existiert hat, so vergessen sie nur, daß eben die moderne Bourgeoisie ein notwendiger Sprößling ihrer Gesellschaftsordnung war.
+  en: In showing that, under their rule, the modern proletariat never existed, they forget that the modern bourgeoisie is the necessary offspring of their own form of society.
+  modern: When they said that the modern proletariat never existed under their rule, they forgot that the modern bourgeoisie is the necessary offspring of their own social form.
+  modern_status: seed
+  notes: ''
+  mew_page: '483'
+- id: III.8.1
+  kind: p
+  de: Übrigens verheimlichen sie den reaktionären Charakter ihrer Kritik so wenig, daß ihre Hauptanklage gegen die Bourgeoisie eben darin besteht, unter ihrem Regime entwickle sich eine Klasse, welche die ganze alte Gesellschaftsordnung in die Luft sprengen werde.
+  en: For the rest, so little do they conceal the reactionary character of their criticism that their chief accusation against the bourgeois amounts to this, that under the bourgeois régime a class is being developed which is destined to cut up root and branch the old order of society.
+  modern: 'For the rest, they barely concealed the reactionary character of their criticism. Their main accusation against the bourgeoisie amounted to this: that under the bourgeois order a class was being created that was destined to tear the old order up root and branch.'
+  modern_status: seed
+  notes: ''
+  mew_page: '483'
+- id: III.9.1
+  kind: p
+  de: Sie werfen der Bourgeoisie mehr noch vor, daß sie ein revolutionäres Proletariat, als daß sie überhaupt ein Proletariat erzeugt.
+  en: What they upbraid the bourgeoisie with is not so much that it creates a proletariat as that it creates a revolutionary proletariat.
+  modern: What they really accused the bourgeoisie of was not so much that it created a proletariat, but that it created a revolutionary proletariat.
+  modern_status: seed
+  notes: ''
+  mew_page: '483'
+- id: III.10.1
+  kind: p
+  de: In der politischen Praxis nehmen sie daher an allen Gewaltmaßregeln gegen die Arbeiterklasse teil, und im gewöhnlichen Leben bequemen sie sich, allen ihren aufgeblähten Redensarten zum Trotz die goldnen Äpfel aufzulesen und Treue, Liebe, Ehre mit dem Schacher in Schafswolle, Runkelrüben und Schnaps zu vertauschen.
+  en: In political practice, therefore, they join in all coercive measures against the working class; and in ordinary life, despite their high-falutin phrases, they stoop to pick up the golden apples dropped from the tree of industry, and to barter truth, love, and honour, for traffic in wool, beetroot-sugar, and potato spirits.
+  modern: In practical politics, then, they joined in every attempt to crush the working class. And in ordinary life, despite all their high-flown talk, they stooped to pick up the golden apples dropped from the tree of industry - bartering truth, love, and honor for a trade in wool, beet-sugar, and potato liquor.
+  modern_status: seed
+  notes: ''
+  footnotes:
+  - N5
+  de_variants:
+  - ref: T56
+    editions: '1888'
+    reading: 'eingefügt: Äpfel, die vom Baum der Industrie abgefallen sind,'
+    base_text: aufzulesen und Treue, Liebe, Ehre …
+  mew_page: '483'
+- id: III.11.1
+  kind: p
+  de: Wie der Pfaffe immer Hand in Hand ging mit dem Feudalen, so der pfäffische Sozialismus mit dem feudalistischen.
+  en: As the parson has ever gone hand in hand with the landlord, so has Clerical Socialism with Feudal Socialism.
+  modern: Just as the parson has always walked hand in hand with the landlord, so clerical socialism has walked hand in hand with feudal socialism.
+  modern_status: seed
+  notes: ''
+  mew_page: '483'
+- id: III.12.1
+  kind: p
+  de: Nichts leichter, als dem christlichen Asketismus einen sozialistischen Anstrich zu geben.
+  en: Nothing is easier than to give Christian asceticism a Socialist tinge.
+  modern: Nothing is easier than giving Christian self-denial a socialist tinge.
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+- id: III.12.2
+  kind: p
+  de: Hat das Christentum nicht auch gegen das Privateigentum, gegen die Ehe, gegen die Staat geeifert?
+  en: Has not Christianity declaimed against private property, against marriage, against the State?
+  modern: Has not Christianity railed against private property, against marriage, against the state?
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+- id: III.12.3
+  kind: p
+  de: Hat es nicht die Wohltätigkeit und den Bettel, das Zölibat und die Fleischesertötung, das Zellenleben und die Kirche an ihrer Stelle gepredigt?
+  en: Has it not preached in the place of these, charity and poverty, celibacy and mortification of the flesh, monastic life and Mother Church?
+  modern: Has it not preached, in their place, charity and poverty, celibacy and mortification of the flesh, monastic life and the Mother Church?
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T57
+    editions: '1848'
+    reading: ihre
+    base_text: Stelle gepredigt? …
+  mew_page: '484'
+- id: III.12.4
+  kind: p
+  de: Der christliche Sozialismus ist nur das Weihwasser, womit der Pfaffe den Ärger des Aristokraten einsegnet.
+  en: Christian Socialism is but the holy water with which the priest consecrates the heart-burnings of the aristocrat.
+  modern: Christian socialism is just the holy water with which the priest blesses the aristocrat's heartburn.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T58
+    editions: '1848'
+    reading: heilige
+    base_text: Sozialismus ist nur das Weihwasser, …
+  mew_page: '484'
+- id: III.13.1
+  kind: heading
+  de: b) Kleinbürgerlicher Sozialismus
+  en: B. Petty-Bourgeois Socialism
+  modern: B. Petty-Bourgeois Socialism
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+- id: III.14.1
+  kind: p
+  de: Die feudale Aristokratie ist nicht die einzige Klasse, welche durch die Bourgeoisie gestürzt wurde, deren Lebensbedingungen in der modernen bürgerlichen Gesellschaft verkümmerten und abstarben.
+  en: The feudal aristocracy was not the only class that was ruined by the bourgeoisie, not the only class whose conditions of existence pined and perished in the atmosphere of modern bourgeois society.
+  modern: The feudal aristocracy was not the only class the bourgeoisie ruined - not the only class whose conditions of existence shriveled and died in the atmosphere of modern bourgeois society.
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+- id: III.14.2
+  kind: p
+  de: Das mittelalterliche Pfahlbürgertum und der kleine Bauernstand waren die Vorläufer der modernen Bourgeoisie.
+  en: The medieval burgesses and the small peasant proprietors were the precursors of the modern bourgeoisie.
+  modern: The medieval townspeople and small peasant owners were the forerunners of the modern bourgeoisie.
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+- id: III.14.3
+  kind: p
+  de: In den weniger industriell und kommerziell entwickelten Ländern vegetiert diese Klasse noch fort neben der aufkommenden Bourgeoisie.
+  en: In those countries which are but little developed, industrially and commercially, these two classes still vegetate side by side with the rising bourgeoisie.
+  modern: In countries that are only slightly developed industrially and commercially, these two classes still drag on alongside the rising bourgeoisie.
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+- id: III.15.1
+  kind: p
+  de: In den Ländern, wo sich die moderne Zivilisation entwickelt hat, hat sich eine neue Kleinbürgerschaft gebildet, die zwischen dem Proletariat und der Bourgeoisie schwebt und als ergänzender Teil der bürgerlichen Gesellschaft stets von neuem sich bildet, deren Mitglieder aber beständig durch die Konkurrenz ins Proletariat hinabgeschleudert werden, ja selbst mit der Entwicklung der großen Industrie einen Zeitpunkt herannahen sehen, wo sie als selbständiger Teil der modernen Gesellschaft gänzlich verschwinden und im Handel, in der Manufaktur, in der Agrikultur durch Arbeitsaufseher und Domestiken ersetzt werden.
+  en: In countries where modern civilisation has become fully developed, a new class of petty bourgeois has been formed, fluctuating between proletariat and bourgeoisie, and ever renewing itself as a supplementary part of bourgeois society. The individual members of this class, however, are being constantly hurled down into the proletariat by the action of competition, and, as modern industry develops, they even see the moment approaching when they will completely disappear as an independent section of modern society, to be replaced in manufactures, agriculture and commerce, by overlookers, bailiffs and shopmen.
+  modern: In countries where modern civilization is fully developed, a new class of petty bourgeoisie has formed. It floats between the proletariat and the bourgeoisie, constantly renewing itself as a supplement to bourgeois society. But its individual members are constantly being hurled down into the proletariat by competition. As modern industry develops, they see the moment approaching when they will disappear entirely as a distinct section of modern society, to be replaced, in manufacturing, agriculture, and commerce, by supervisors, foremen, and shop clerks.
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.16.1
+  kind: p
+  de: In Ländern wie Frankreich, wo die Bauernklasse weit mehr als die Hälfte der Bevölkerung ausmacht, war es natürlich, daß Schriftsteller, die für das Proletariat gegen die Bourgeoisie auftraten, an ihre Kritik des Bourgeoisregimes den kleinbürgerlichen und kleinbäuerlichen Maßstab anlegten und die Partei der Arbeiter vom Standpunkt des Kleinbürgertums ergriffen.
+  en: In countries like France, where the peasants constitute far more than half of the population, it was natural that writers who sided with the proletariat against the bourgeoisie should use, in their criticism of the bourgeois régime, the standard of the peasant and petty bourgeois, and from the standpoint of these intermediate classes, should take up the cudgels for the working class.
+  modern: In countries like France, where peasants make up far more than half the population, it was natural that writers who sided with the proletariat against the bourgeoisie would use the standpoint of the peasant and the petty bourgeois when criticizing the bourgeois order, and would take up the fight for the working class from that in-between position.
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+- id: III.16.2
+  kind: p
+  de: Es bildete sich so der kleinbürgerliche Sozialismus.
+  en: Thus arose petty-bourgeois Socialism.
+  modern: This is how petty-bourgeois socialism arose.
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+- id: III.16.3
+  kind: p
+  de: Sismondi ist das Haupt dieser Literatur nicht nur für Frankreich, sondern auch für England.
+  en: Sismondi was the head of this school, not only in France but also in England.
+  modern: Sismondi was the head of this school, both in France and in England.
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+- id: III.17.1
+  kind: p
+  de: Dieser Sozialismus zergliederte höchst scharfsinnig die Widersprüche in den modernen Produktionsverhältnissen.
+  en: This school of Socialism dissected with great acuteness the contradictions in the conditions of modern production.
+  modern: This school of socialism dissected the contradictions in modern production with sharp precision.
+  modern_status: seed
+  notes: ''
+  mew_page: '484'
+- id: III.17.2
+  kind: p
+  de: Er enthüllte die gleisnerischen Beschönigungen der Ökonomen.
+  en: It laid bare the hypocritical apologies of economists.
+  modern: It exposed the hypocritical apologies of the economists.
+  modern_status: seed
+  notes: ''
+  mew_page: 484-485
+- id: III.17.3
+  kind: p
+  de: Er wies unwiderleglich die zerstörenden Wirkungen der Maschinerie und der Teilung der Arbeit nach, die Konzentration der Kapitalien und des Grundbesitzes, die Überproduktion, die Krisen, den notwendigen Untergang der kleinen Bürger und Bauern, das Elend des Proletariats, die Anarchie in der Produktion, die schreienden Mißverhältnisse in der Verteilung des Reichtums, den industriellen Vernichtungskrieg der Nationen untereinander, die Auflösung der alten Sitten, der alten Familienverhältnisse, der alten Nationalitäten.
+  en: It proved, incontrovertibly, the disastrous effects of machinery and division of labour; the concentration of capital and land in a few hands; overproduction and crises; it pointed out the inevitable ruin of the petty bourgeois and peasant, the misery of the proletariat, the anarchy in production, the crying inequalities in the distribution of wealth, the industrial war of extermination between nations, the dissolution of old moral bonds, of the old family relations, of the old nationalities.
+  modern: It proved beyond doubt the disastrous effects of machinery and division of labor, the concentration of capital and land in a few hands, overproduction and crises. It pointed out the inevitable ruin of the small bourgeois and the peasant, the misery of the proletariat, the anarchy in production, the crying inequalities in how wealth is distributed, the industrial war of extermination between nations, the breakdown of old moral ties, old family relations, old nationalities.
+  modern_status: seed
+  notes: ''
+  mew_page: '485'
+- id: III.18.1
+  kind: p
+  de: Seinem posititiven Gehalte nach will jedoch dieser Sozialismus entweder die alten Produktions- und Verkehrsmittel wiederherstellen und mit ihnen die alten Eigentumsverhältnisse und die alte Gesellschaft, oder er will die modernen Produktions- und Verkehrsmittel in den Rahmen der alten Eigentumsverhältnisse, die von ihnen gesprengt wurden, gesprengt werden mußten, gewaltsam wieder einsperren.
+  en: In its positive aims, however, this form of Socialism aspires either to restoring the old means of production and of exchange, and with them the old property relations, and the old society, or to cramping the modern means of production and of exchange within the framework of the old property relations that have been, and were bound to be, exploded by those means.
+  modern: But in its positive program, this kind of socialism aims either to restore the old means of production and exchange - along with the old property relations and the old society - or else to cram the modern means of production and exchange back into the framework of the old property relations that they have already blown up.
+  modern_status: seed
+  notes: ''
+  mew_page: '485'
+- id: III.18.2
+  kind: p
+  de: In beiden Fällen ist er reaktionär und utopisch zugleich.
+  en: In either case, it is both reactionary and Utopian.
+  modern: In either case, it is both reactionary and utopian.
+  modern_status: seed
+  notes: ''
+  mew_page: '485'
+- id: III.18.3
+  kind: p
+  de: Zunftwesen in der Manufaktur und patriarchalische Wirtschaft auf dem Lande, das sind seine letzten Worte.
+  en: 'Its last words are: corporate guilds for manufacture; patriarchal relations in agriculture.'
+  modern: 'Its final pronouncements are: corporate guilds for manufacturing, patriarchal relations in agriculture.'
+  modern_status: seed
+  notes: ''
+  mew_page: '485'
+- id: III.19.1
+  kind: p
+  de: In ihrer weiteren Entwicklung hat sich diese Richtung in einen feigen Katzenjammer verlaufen.
+  en: Ultimately, when stubborn historical facts had dispersed all intoxicating effects of self-deception, this form of Socialism ended in a miserable fit of the blues.
+  modern: In the end, when stubborn historical facts had cleared away all the intoxicating self-deception, this form of socialism ended in a miserable fit of the blues.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T59
+    editions: '1888'
+    reading: 'lautet dieser Satz: Schließlich, als die hartnäckigen geschichtlichen Tatsachen jeden Rausch des Selbstbetrugs verscheucht hatten, artete diese Form des Sozialismus in einen erbärmlichen Katzenjammer aus.'
+    base_text: . …
+  mew_page: '485'
+- id: III.20.1
+  kind: heading
+  de: c) Der deutsche oder "wahre" Sozialismus
+  en: C. German or "True" Socialism
+  modern: C. German, or "True," Socialism
+  modern_status: seed
+  notes: ''
+  mew_page: '485'
+- id: III.21.1
+  kind: p
+  de: Die sozialistische und kommunistische Literatur Frankreichs, die unter dem Druck einer herrschenden Bourgeoisie entstand und der literarische Ausdruck des Kampfes gegen diese Herrschaft ist, wurde nach Deutschland eingeführt zu einer Zeit, wo die Bourgeoisie soeben ihren Kampf gegen den feudalen Absolutismus begann.
+  en: The Socialist and Communist literature of France, a literature that originated under the pressure of a bourgeoisie in power, and that was the expressions of the struggle against this power, was introduced into Germany at a time when the bourgeoisie, in that country, had just begun its contest with feudal absolutism.
+  modern: The socialist and communist literature of France, which arose under the pressure of a ruling bourgeoisie and was the expression of the fight against that power, was imported into Germany at a time when the German bourgeoisie had just begun its own fight against feudal absolutism.
+  modern_status: seed
+  notes: ''
+  mew_page: '485'
+- id: III.22.1
+  kind: p
+  de: Deutsche Philosophen, Halbphilosophen und Schöngeister bemächtigten sich gierig dieser Literatur und vergaßen nur, daß bei der Einwanderung jener Schriften aus Frankreich die französischen Lebensverhältnisse nicht gleichzeitig nach Deutschland eingewandert waren.
+  en: German philosophers, would-be philosophers, and beaux esprits (men of letters), eagerly seized on this literature, only forgetting, that when these writings immigrated from France into Germany, French social conditions had not immigrated along with them.
+  modern: German philosophers, would-be philosophers, and clever wits eagerly seized on this literature, forgetting that when these writings emigrated from France to Germany, French social conditions did not emigrate along with them.
+  modern_status: seed
+  notes: ''
+  mew_page: '485'
+- id: III.22.2
+  kind: p
+  de: Den deutschen Verhältnissen gegenüber verlor die französische Literatur alle unmittelbar praktische Bedeutung und nahm ein rein literarisches Aussehen an.
+  en: In contact with German social conditions, this French literature lost all its immediate practical significance and assumed a purely literary aspect.
+  modern: In contact with German social conditions, this French literature lost all its immediate practical meaning and took on a purely literary character.
+  modern_status: seed
+  notes: ''
+  mew_page: '485'
+- id: III.22.3
+  kind: p
+  de: Als müßige Spekulation über die Verwirklichung des menschlichen Wesens mußte sie erscheinen.
+  en: Thus, to the German philosophers of the Eighteenth Century, the demands of the first French Revolution were nothing more than the demands of "Practical Reason" in general, and the utterance of the will of the revolutionary French bourgeoisie signified, in their eyes, the laws of pure Will, of Will as it was bound to be, of true human Will generally.
+  modern: For the German philosophers of the eighteenth century, the demands of the first French Revolution meant no more than the demands of "Practical Reason" in general. The voice of the revolutionary French bourgeoisie was, in their eyes, the law of pure Will - of Will as it was supposed to be, of true human Will in general.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T60
+    editions: '1848'
+    reading: 'eingefügt: über die wahre Gesellschaft'
+    base_text: über die Verwirklichung des menschlichen …
+  mew_page: '485'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: III.22.4
+  kind: p
+  de: So hatten für die deutschen Philosophen des 18. Jahrhunderts die Forderungen der ersten französischen Revolution nur den Sinn, Forderungen der "praktischen Vernunft" im allgemeinen zu sein, und die Willensäußerungen der französischen Bourgeoisie bedeuteten in ihren Augen die Gesetze des reinen Willens, des Willens, wie er sein muß, des wahrhaft menschlichen Willens.
+  en: ''
+  joined_to: III.22.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: 485-486
+- id: III.23.1
+  kind: p
+  de: Die ausschließliche Arbeit der deutschen Literaten bestand darin, die neuen französischen Ideen mit ihrem alten philosophischen Gewissen in Einklang zu setzen oder vielmehr von ihrem philosophischen Standpunkte aus die französischen Ideen sich anzueignen.
+  en: The work of the German literati consisted solely in bringing the new French ideas into harmony with their ancient philosophical conscience, or rather, in annexing the French ideas without deserting their own philosophic point of view.
+  modern: The work of the German literary class consisted entirely in bringing the new French ideas into harmony with their own ancient philosophical conscience - or rather, in annexing the French ideas without abandoning their own philosophical point of view.
+  modern_status: seed
+  notes: ''
+  mew_page: '486'
+- id: III.24.1
+  kind: p
+  de: Diese Aneignung geschah in derselben Weise, wodurch man sich überhaupt eine fremde Sache aneignet, durch die Übersetzung.
+  en: This annexation took place in the same way in which a foreign language is appropriated, namely, by translation.
+  modern: 'This annexation happened the same way a foreign language is annexed: by translation.'
+  modern_status: seed
+  notes: ''
+  mew_page: '486'
+- id: III.25.1
+  kind: p
+  de: Es ist bekannt, wie die Mönche Manuskripte, worauf die klassischen Werke der alten Heidenzeit verzeichnet waren, mit abgeschmackten katholischen Heiligengeschichten überschrieben.
+  en: It is well known how the monks wrote silly lives of Catholic Saints over the manuscripts on which the classical works of ancient heathendom had been written.
+  modern: It is well known how the monks used to write silly lives of Catholic saints on top of manuscripts that had originally contained the classical works of ancient pagan authors.
+  modern_status: seed
+  notes: ''
+  mew_page: '486'
+- id: III.25.2
+  kind: p
+  de: Die deutschen Literaten gingen umgekehrt mit der profanen französischen Literatur um.
+  en: The German literati reversed this process with the profane French literature.
+  modern: The German literary class did the reverse with secular French literature.
+  modern_status: seed
+  notes: ''
+  mew_page: '486'
+- id: III.25.3
+  kind: p
+  de: Sie schrieben ihren philosophischen Unsinn hinter das französische Original.
+  en: They wrote their philosophical nonsense beneath the French original.
+  modern: They wrote their philosophical nonsense underneath the French original.
+  modern_status: seed
+  notes: ''
+  mew_page: '486'
+- id: III.25.4
+  kind: p
+  de: Z.B. hinter die französische Kritik der Geldverhältnisse schrieben sie "Entäußerung des menschlichen Wesens", hinter die französische Kritik des Bourgeoisstaates schrieben sie "Aufhebung der Herrschaft des abstrakten Allgemeinen" usw.
+  en: For instance, beneath the French criticism of the economic functions of money, they wrote "Alienation of Humanity", and beneath the French criticism of the bourgeois state they wrote "Dethronement of the Category of the General", and so forth.
+  modern: For example, under the French criticism of the economic functions of money, they wrote "Alienation of Humanity." Under the French criticism of the bourgeois state they wrote "Dethronement of the Category of the General," and so on.
+  modern_status: seed
+  notes: ''
+  mew_page: '486'
+- id: III.26.1
+  kind: p
+  de: Die Unterschiebung dieser philosophischen Redensarten unter die französischen Entwicklungen tauften sie "Philosophie der Tat", "wahrer Sozialismus", "deutsche Wissenschaft des Sozialismus", usw.
+  en: The introduction of these philosophical phrases at the back of the French historical criticisms, they dubbed "Philosophy of Action", "True Socialism", "German Science of Socialism", "Philosophical Foundation of Socialism", and so on.
+  modern: Sticking these philosophical phrases onto the back of French historical criticism, they called the result "Philosophy of Action," "True Socialism," "German Science of Socialism," "Philosophical Foundation of Socialism," and so on.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T61
+    editions: '1848'
+    reading: Diese
+    base_text: Unterschiebung dieser philosophischen Redensarten unter …
+  - ref: T62
+    editions: '1848'
+    reading: ihrer
+    base_text: philosophischen Redensarten unter die französischen …
+  mew_page: '486'
+- id: III.27.1
+  kind: p
+  de: Die französische sozialistisch-kommunistische Literatur wurde so förmlich entmannt.
+  en: The French Socialist and Communist literature was thus completely emasculated.
+  modern: The French socialist and communist literature was, in this way, completely castrated.
+  modern_status: seed
+  notes: ''
+  mew_page: '486'
+- id: III.27.2
+  kind: p
+  de: Und da sie in der Hand des Deutschen aufhörte, den Kampf einer Klasse gegen die andre auszudrücken, so war der Deutsche sich bewußt, die "französische Einseitigkeit" überwunden, statt wahrer Bedürfnisse das Bedürfnis der Wahrheit und statt der Interessen des Proletariers die Interessen des menschlichen Wesens, des Menschen überhaupt vertreten zu haben, des Menschen, der keiner Klasse, der überhaupt nicht der Wirklichkeit, der nur dem Dunsthimmel der philosophischen Phantasie angehört.
+  en: And, since it ceased in the hands of the German to express the struggle of one class with the other, he felt conscious of having overcome "French one-sidedness" and of representing, not true requirements, but the requirements of Truth; not the interests of the proletariat, but the interests of Human Nature, of Man in general, who belongs to no class, has no reality, who exists only in the misty realm of philosophical fantasy.
+  modern: And since it no longer, in the hands of the German, expressed the struggle of one class against another, the German felt proud of having overcome "French one-sidedness" and of representing, not true demands, but the demands of truth - not the interests of the proletariat, but the interests of Human Nature, of Man in general, who belongs to no class, has no reality, and exists only in the foggy world of philosophical fantasy.
+  modern_status: seed
+  notes: ''
+  mew_page: '486'
+- id: III.28.1
+  kind: p
+  de: Dieser deutsche Sozialismus, der seine unbeholfenen Schulübungen so ernst und feierlich nahm und so marktschreierisch ausposaunte, verlor indes nach und nach seine pedantische Unschuld.
+  en: This German socialism, which took its schoolboy task so seriously and solemnly, and extolled its poor stock-in-trade in such a mountebank fashion, meanwhile gradually lost its pedantic innocence.
+  modern: This German socialism, which took its schoolboy task so seriously and solemnly, and which hawked its poor stock with such showy self-importance, gradually lost its pedantic innocence.
+  modern_status: seed
+  notes: ''
+  mew_page: '486'
+- id: III.29.1
+  kind: p
+  de: Der Kampf der deutschen, namentlich der preußischen Bourgeoisie gegen die Feudalen und das absolute Königtum, mit einem Wort, die liberale Bewegung wurde ernsthafter.
+  en: The fight of the Germans, and especially of the Prussian bourgeoisie, against feudal aristocracy and absolute monarchy, in other words, the liberal movement, became more earnest.
+  modern: The fight of the German - and especially the Prussian - bourgeoisie against feudal aristocracy and absolute monarchy, in other words the liberal movement, became more serious.
+  modern_status: seed
+  notes: ''
+  mew_page: '486'
+- id: III.30.1
+  kind: p
+  de: Dem "wahren" Sozialismus war so erwünschte Gelegenheit geboten, der politischen Bewegung die sozialistische Forderung gegenüberzustellen, die überlieferten Anatheme gegen den Liberalismus, gegen den Repräsentativstaat, gegen die bürgerliche Konkurrenz, bürgerliche Preßfreiheit, bürgerliches Recht, bürgerliche Freiheit und Gleichheit zu schleudern und der Volksmasse vorzupredigen, wie sie bei dieser bürgerlichen Bewegung nichts zu gewinnen, vielmehr alles zu verlieren habe.
+  en: By this, the long-wished for opportunity was offered to "True" Socialism of confronting the political movement with the Socialist demands, of hurling the traditional anathemas against liberalism, against representative government, against bourgeois competition, bourgeois freedom of the press, bourgeois legislation, bourgeois liberty and equality, and of preaching to the masses that they had nothing to gain, and everything to lose, by this bourgeois movement.
+  modern: This gave "True" Socialism the long-awaited chance to confront the political movement with its socialist demands, to hurl traditional curses against liberalism, against representative government, against bourgeois competition, bourgeois freedom of the press, bourgeois legislation, bourgeois liberty and equality. It preached to the masses that they had nothing to gain and everything to lose from this bourgeois movement.
+  modern_status: seed
+  notes: ''
+  mew_page: '487'
+- id: III.30.2
+  kind: p
+  de: Der deutsche Sozialismus vergaß rechtzeitig, daß die französische Kritik, deren geistloses Echo er war, die moderne bürgerliche Gesellschaft mit den entsprechenden materiellen Lebensbedingungen und der angemessenen politischen Konstitution vorausgesetzt, lauter Voraussetzungen, um deren Erkämpfung es sich erst in Deutschland handelte.
+  en: German Socialism forgot, in the nick of time, that the French criticism, whose silly echo it was, presupposed the existence of modern bourgeois society, with its corresponding economic conditions of existence, and the political constitution adapted thereto, the very things whose attainment was the object of the pending struggle in Germany.
+  modern: German socialism conveniently forgot that the French criticism it was a silly echo of assumed the existence of modern bourgeois society - with its matching economic conditions and matching political constitution - the very things the pending fight in Germany was about trying to achieve.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T63
+    editions: '1848'
+    reading: voraussetzt
+    base_text: ', lauter Voraussetzungen, um deren …'
+  mew_page: '487'
+- id: III.31.1
+  kind: p
+  de: Er diente den deutschen absoluten Regierungen mit ihrem Gefolge von Pfaffen, Schulmeistern, Krautjunkern und Bürokraten als erwünschte Vogelscheuche gegen die drohend aufstrebende Bourgeoisie.
+  en: To the absolute governments, with their following of parsons, professors, country squires, and officials, it served as a welcome scarecrow against the threatening bourgeoisie.
+  modern: To the absolute governments, with their following of parsons, professors, country squires, and officials, it served as a welcome scarecrow against the threatening bourgeoisie.
+  modern_status: seed
+  notes: ''
+  mew_page: '487'
+- id: III.32.1
+  kind: p
+  de: Er bildete die süßliche Ergänzung zu den bitteren Peitschenhieben und Flintenkugeln, womit dieselben Regierungen die deutschen Arbeiteraufstände bearbeiteten.
+  en: It was a sweet finish, after the bitter pills of flogging and bullets, with which these same governments, just at that time, dosed the German working-class risings.
+  modern: It was a sweet finish after the bitter pills of floggings and bullets that these same governments were dosing the German working-class uprisings with at the same time.
+  modern_status: seed
+  notes: ''
+  mew_page: '487'
+- id: III.33.1
+  kind: p
+  de: Ward der "wahre" Sozialismus dergestalt eine Waffe in der Hand der Regierungen gegen die deutsche Bourgeoisie, so vertrat er auch unmittelbar ein reaktionäres Interesse, das Interesse der deutschen Pfahlbürgerschaft.
+  en: While this "True" Socialism thus served the government as a weapon for fighting the German bourgeoisie, it, at the same time, directly represented a reactionary interest, the interest of German Philistines.
+  modern: While this "True" Socialism was serving the governments as a weapon against the German bourgeoisie, at the same time it directly represented a reactionary interest - the interest of the German philistines.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T64
+    editions: '1888'
+    reading: Philister
+    base_text: . …
+  mew_page: '487'
+- id: III.33.2
+  kind: p
+  de: In Deutschland bildet das vom 16. Jahrhundert her überlieferte und seit der Zeit in verschiedener Form hier immer neu wieder auftauchende Kleinbürgertum die eigentliche Grundlage der bestehenden Zustände.
+  en: In Germany, the petty-bourgeois class, a relic of the sixteenth century, and since then constantly cropping up again under the various forms, is the real social basis of the existing state of things.
+  modern: In Germany, the petty bourgeois class, a holdover from the sixteenth century that has kept popping up again under various forms ever since, is the real social basis of the existing order.
+  modern_status: seed
+  notes: ''
+  mew_page: '487'
+- id: III.34.1
+  kind: p
+  de: Seine Erhaltung ist die Erhaltung der bestehenden deutschen Zustände.
+  en: To preserve this class is to preserve the existing state of things in Germany.
+  modern: To preserve this class is to preserve the existing order in Germany.
+  modern_status: seed
+  notes: ''
+  mew_page: '487'
+- id: III.34.2
+  kind: p
+  de: Von der industriellen und politischen Herrschaft der Bourgeoisie fürchtet es den sichern Untergang, einerseits infolge der Konzentration des Kapitals, andrerseits durch das Aufkommen eines revolutionären Proletariats.
+  en: The industrial and political supremacy of the bourgeoisie threatens it with certain destruction - on the one hand, from the concentration of capital; on the other, from the rise of a revolutionary proletariat.
+  modern: The industrial and political supremacy of the bourgeoisie threatens it with certain destruction - on one hand from the concentration of capital, on the other from the rise of a revolutionary proletariat.
+  modern_status: seed
+  notes: ''
+  mew_page: '487'
+- id: III.34.3
+  kind: p
+  de: Der "wahre" Sozialismus schien ihm beide Fliegen mit einer Klappe zu schlagen.
+  en: '"True" Socialism appeared to kill these two birds with one stone.'
+  modern: '"True" Socialism seemed to kill these two birds with one stone.'
+  modern_status: seed
+  notes: ''
+  mew_page: '487'
+- id: III.34.4
+  kind: p
+  de: Er verbreitete sich wie eine Epidemie.
+  en: It spread like an epidemic.
+  modern: It spread like an epidemic.
+  modern_status: seed
+  notes: ''
+  mew_page: '487'
+- id: III.35.1
+  kind: p
+  de: Das Gewand, gewirkt aus spekulativem Spinnweb, überstickt mit schöngeistigen Redeblumen, durchtränkt von liebesschwülem Gemütstau, dies überschwengliche Gewand, worin die deutschen Sozialisten ihre paar knöchernen "ewigen Wahrheiten" einhüllten, vermehrte nur den Absatz ihrer Ware bei diesem Publikum.
+  en: The robe of speculative cobwebs, embroidered with flowers of rhetoric, steeped in the dew of sickly sentiment, this transcendental robe in which the German Socialists wrapped their sorry "eternal truths", all skin and bone, served to wonderfully increase the sale of their goods amongst such a public.
+  modern: The robe of speculative cobwebs, embroidered with rhetorical flowers, drenched in the dew of sickly sentiment - this transcendental robe in which the German socialists wrapped their dry "eternal truths" - made their product sell wonderfully among such an audience.
+  modern_status: seed
+  notes: ''
+  mew_page: '487'
+- id: III.36.1
+  kind: p
+  de: Seinerseits erkannte der deutsche Sozialismus immer mehr seinen Beruf, der hochtrabende Vertreter dieser Pfahlbürgerschaft zu sein.
+  en: And on its part German Socialism recognised, more and more, its own calling as the bombastic representative of the petty-bourgeois Philistine.
+  modern: 'And for its part, German socialism came more and more to see its true calling: being the bombastic representative of the petty-bourgeois philistine.'
+  modern_status: seed
+  notes: ''
+  mew_page: '487'
+- id: III.37.1
+  kind: p
+  de: Er proklamierte die deutsche Nation als die normale Nation und den deutschen Spießbürger als den Normalmenschen.
+  en: It proclaimed the German nation to be the model nation, and the German petty Philistine to be the typical man.
+  modern: It proclaimed the German nation to be the model nation, and the German petty philistine to be the typical human being.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T65
+    editions: '1888'
+    reading: deutschen kleinen Philister
+    base_text: als den Normalmenschen. …
+  mew_page: '488'
+- id: III.37.2
+  kind: p
+  de: Er gab jeder Niederträchtigkeit desselben einen verborgenen, höheren, sozialistischen Sinn, worin sie ihr Gegenteil bedeutete.
+  en: To every villainous meanness of this model man, it gave a hidden, higher, Socialistic interpretation, the exact contrary of its real character.
+  modern: To every villainous meanness of this model man, it gave a hidden, higher, "socialist" interpretation - the exact opposite of its real character.
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+- id: III.37.3
+  kind: p
+  de: Er zog die letzte Konsequenz, indem er direkt gegen die "rohdestruktive" Richtung des Kommunismus auftrat und seine unparteiische Erhabenheit über alle Klassenkämpfe verkündete.
+  en: It went to the extreme length of directly opposing the "brutally destructive" tendency of Communism, and of proclaiming its supreme and impartial contempt of all class struggles.
+  modern: It went so far as to directly oppose the "brutally destructive" tendency of communism, and to proclaim its lofty, above-it-all contempt for all class struggles.
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+- id: III.37.4
+  kind: p
+  de: Mit sehr wenigen Ausnahmen gehört alles, was in Deutschland von angeblich sozialistischen und kommunistischen Schriften zirkuliert, in den Bereich dieser schmutzigen, entnervenden Literatur.
+  en: With very few exceptions, all the so-called Socialist and Communist publications that now (1847) circulate in Germany belong to the domain of this foul and enervating literature.
+  modern: With very few exceptions, all the so-called socialist and communist publications circulating in Germany at the time belonged to this foul and draining literature.
+  modern_status: seed
+  notes: ''
+  footnotes:
+  - N6
+  mew_page: '488'
+- id: III.38.1
+  kind: heading
+  de: 2. Der konservative oder Bourgeoissozialismus
+  en: 2. Conservative or Bourgeois Socialism
+  modern: 2. Conservative, or Bourgeois, Socialism
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+- id: III.39.1
+  kind: p
+  de: Ein Teil der Bourgeoisie wünscht den sozialen Mißständen abzuhelfen, um den Bestand der bürgerlichen Gesellschaft zu sichern.
+  en: A part of the bourgeoisie is desirous of redressing social grievances in order to secure the continued existence of bourgeois society.
+  modern: A part of the bourgeoisie wants to fix social grievances in order to secure the continued existence of bourgeois society.
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+- id: III.40.1
+  kind: p
+  de: 'Es gehören hierher: Ökonomisten, Philantrophen, Humanitäre, Verbesserer der Lage der arbeitenden Klassen, Wohltätigkeitsorganisierer, Abschaffer der Tierquälerei, Mäßigkeitsvereinsstifter, Winkelreformer der buntscheckigsten Art.'
+  en: To this section belong economists, philanthropists, humanitarians, improvers of the condition of the working class, organisers of charity, members of societies for the prevention of cruelty to animals, temperance fanatics, hole-and-corner reformers of every imaginable kind.
+  modern: This section includes economists, philanthropists, humanitarians, improvers of the condition of the working class, organizers of charity, members of societies for the prevention of cruelty to animals, temperance fanatics, and hole-and-corner reformers of every imaginable kind.
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+- id: III.40.2
+  kind: p
+  de: Und auch zu ganzen Systemen ist dieser Bourgeoissozialismus ausgearbeitet worden.
+  en: This form of socialism has, moreover, been worked out into complete systems.
+  modern: This form of socialism has also been worked out into complete systems.
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+- id: III.41.1
+  kind: p
+  de: Als Beispiel führen wir Proudhons "Philosophie de la misère" an.
+  en: We may cite Proudhon's Philosophie de la Misère as an example of this form.
+  modern: Proudhon's *Philosophy of Poverty* is one example of this form.
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+- id: III.42.1
+  kind: p
+  de: Die sozialistischen Bourgeois wollen die Lebensbedingungen der modernen Gesellschaft ohne die notwendig daraus hervor gehenden Kämpfe und Gefahren.
+  en: The Socialistic bourgeois want all the advantages of modern social conditions without the struggles and dangers necessarily resulting therefrom.
+  modern: The socialist bourgeois wants all the benefits of modern social conditions without the struggles and dangers that necessarily come with them.
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+- id: III.42.2
+  kind: p
+  de: Sie wollen die bestehende Gesellschaft mit Abzug der sie revolutionierenden und sie auflösenden Elemente.
+  en: They desire the existing state of society, minus its revolutionary and disintegrating elements.
+  modern: They want the existing state of society minus its revolutionary and disintegrating elements.
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+- id: III.42.3
+  kind: p
+  de: Sie wollen die Bourgeoisie ohne das Proletariat.
+  en: They wish for a bourgeoisie without a proletariat.
+  modern: They want a bourgeoisie without a proletariat.
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+- id: III.42.4
+  kind: p
+  de: Die Bourgeoisie stellt sich die Welt, worin sie herrscht, natürlich als die beste Welt vor.
+  en: The bourgeoisie naturally conceives the world in which it is supreme to be the best; and bourgeois Socialism develops this comfortable conception into various more or less complete systems.
+  modern: The bourgeoisie naturally imagines the world in which it rules to be the best one possible, and bourgeois socialism develops this comfortable idea into various more or less complete systems.
+  modern_status: seed
+  notes: ''
+  mew_page: '488'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: III.42.5
+  kind: p
+  de: Der Bourgeoissozialismus arbeitet diese tröstliche Vorstellung zu einem halben oder ganzen System aus.
+  en: ''
+  joined_to: III.42.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '488'
+- id: III.42.6
+  kind: p
+  de: Wenn er das Proletariat auffordert, seine Systeme zu verwirklichen und in das neue Jerusalem einzugehen, so verlangt er im Grunde nur, daß es in der jetzigen Gesellschaft stehenbleibe, aber seine gehässigen Vorstellungen von derselben abstreife.
+  en: In requiring the proletariat to carry out such a system, and thereby to march straightway into the social New Jerusalem, it but requires in reality, that the proletariat should remain within the bounds of existing society, but should cast away all its hateful ideas concerning the bourgeoisie.
+  modern: In calling on the proletariat to carry out such a system, and to march straight into the social New Jerusalem, it really just demands that the proletariat stay within the bounds of existing society, while dropping all its hateful ideas about the bourgeoisie.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T66
+    editions: 1848, 1872, 1883
+    reading: ', um'
+    base_text: in das neue Jerusalem einzugehen, …
+  mew_page: '488'
+- id: III.43.1
+  kind: p
+  de: Eine zweite, weniger systematische, nur mehr praktische Form dieses Sozialismus suchte der Arbeiterklasse jede revolutionäre Bewegung zu verleiden, durch den Nachweis, wie nicht diese oder jene politische Veränderung, sondern nur eine Veränderung der materiellen Lebensverhältnisse, der ökonomischen Verhältnisse ihr von Nutzen sein könne.
+  en: A second, and more practical, but less systematic, form of this Socialism sought to depreciate every revolutionary movement in the eyes of the working class by showing that no mere political reform, but only a change in the material conditions of existence, in economical relations, could be of any advantage to them.
+  modern: A second, more practical but less systematic form of this kind of socialism tried to discredit every revolutionary movement in the eyes of the working class. It argued that no mere political reform, but only a change in the material conditions of existence, in economic relations, could really help them.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T67
+    editions: 1848, 1872, 1883
+    reading: und
+    base_text: mehr praktische Form dieses Sozialismus …
+  mew_page: '489'
+- id: III.43.2
+  kind: p
+  de: Unter Veränderung der materiellen Lebensverhältnisse versteht dieser Sozialismus aber keineswegs Abschaffung der bürgerlichen Produktionsverhältnisse, die nur auf revolutionärem Wege möglich ist, sondern administrative Verbesserungen, die auf dem Boden dieser Produktionsverhältnisse vor sich gehen, also an dem Verhältnis von Kapital und Lohnarbeit nichts ändern, sondern im besten Fall der Bourgeoisie die Kosten ihrer Herrschaft vermindern und ihren Staatshaushalt vereinfachen.
+  en: By changes in the material conditions of existence, this form of Socialism, however, by no means understands abolition of the bourgeois relations of production, an abolition that can be affected only by a revolution, but administrative reforms, based on the continued existence of these relations; reforms, therefore, that in no respect affect the relations between capital and labour, but, at the best, lessen the cost, and simplify the administrative work, of bourgeois government.
+  modern: By "changes in material conditions," though, this form of socialism does not mean the abolition of bourgeois relations of production - something only a revolution could accomplish. It means administrative reforms based on the continued existence of those relations. Reforms, that is, that do not affect the relations between capital and labor at all, and that at best reduce the cost and simplify the paperwork of bourgeois government.
+  modern_status: seed
+  notes: ''
+  mew_page: '489'
+- id: III.44.1
+  kind: p
+  de: Seinen entsprechenden Ausdruck erreicht der Bourgeoisiesozialismus erst da, wo er zur bloßen rednerischen Figur wird.
+  en: Bourgeois Socialism attains adequate expression when, and only when, it becomes a mere figure of speech.
+  modern: Bourgeois socialism finds its real voice only when it becomes pure slogan.
+  modern_status: seed
+  notes: ''
+  mew_page: '489'
+- id: III.45.1
+  kind: p
+  de: Freier Handel! im Interesse der arbeitenden Klasse; Schutzzölle! im Interesse der arbeitenden Klasse; Zellengefängnisse! im Interesse der arbeitenden Klasse; das ist das letzte, das einzige ernstgemeinte Wort des Bourgeoisiesozialismus.
+  en: 'Protective duties: for the benefit of the working class. Prison Reform: for the benefit of the working class. This is the last word and the only seriously meant word of bourgeois socialism.'
+  modern: Free trade - for the benefit of the working class. Protective tariffs - for the benefit of the working class. Prison reform - for the benefit of the working class. That is the last word, and the only seriously meant word, of bourgeois socialism.
+  modern_status: seed
+  notes: ''
+  mew_page: '489'
+  align: '1:3'
+  review: true
+  review_reason: extra en sentence with no de counterpart; 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.46.1
+  kind: p
+  de: Der Sozialismus der Bourgeoisie besteht eben in der Behauptung, daß die Bourgeois Bourgeois sind - im Interesse der arbeitenden Klasse.
+  en: 'It is summed up in the phrase: the bourgeois is a bourgeois - for the benefit of the working class.'
+  modern: 'It sums up to the phrase: the bourgeois is a bourgeois - for the benefit of the working class.'
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T68
+    editions: '1848'
+    reading: Ihr Sozialismus
+    base_text: besteht eben in der Behauptung, …
+  mew_page: '489'
+- id: III.47.1
+  kind: heading
+  de: 3. Der kritisch-utopistische Sozialismus oder Kommunismus
+  en: 3. Critical-Utopian Socialism and Communism
+  modern: 3. Critical-Utopian Socialism and Communism
+  modern_status: seed
+  notes: ''
+  mew_page: '489'
+- id: III.48.1
+  kind: p
+  de: Wir reden hier nicht von der Literatur, die in allen großen modernen Revolutionen die Forderungen des Proletariats aussprach.
+  en: We do not here refer to that literature which, in every great modern revolution, has always given voice to the demands of the proletariat, such as the writings of Babeuf and others.
+  modern: We are not talking here about the literature which, in every great modern revolution, has always given voice to the demands of the proletariat - like the writings of Babeuf and others.
+  modern_status: seed
+  notes: ''
+  mew_page: '489'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: III.48.2
+  kind: p
+  de: (Schriften Babeufs etc.)
+  en: ''
+  joined_to: III.48.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '489'
+- id: III.49.1
+  kind: p
+  de: Die ersten Versuche des Proletariats, in einer Zeit allgemeiner Aufregung, in der Periode des Umsturzes der feudalen Gesellschaft direkt sein eigenes Klasseninteresse durchzusetzen, scheiterten notwendig an der unentwickelten Gestalt des Proletariats selbst wie an dem Mangel der materiellen Bedingungen seiner Befreiung, die eben erst das Produkt der bürgerliche Epoche sind.
+  en: The first direct attempts of the proletariat to attain its own ends, made in times of universal excitement, when feudal society was being overthrown, necessarily failed, owing to the then undeveloped state of the proletariat, as well as to the absence of the economic conditions for its emancipation, conditions that had yet to be produced, and could be produced by the impending bourgeois epoch alone.
+  modern: The first direct attempts of the proletariat to achieve its own ends, made in times of mass excitement when feudal society was being overthrown, necessarily failed. They failed because of the then-undeveloped state of the proletariat, and because the economic conditions for its emancipation did not yet exist. Those conditions still had to be produced, and only the coming bourgeois age could produce them.
+  modern_status: seed
+  notes: ''
+  mew_page: '489'
+- id: III.49.2
+  kind: p
+  de: Die revolutionäre Literatur, welche diese ersten Bewegungen des Proletariats begleitete, ist dem Inhalt nach notwendig reaktionär.
+  en: The revolutionary literature that accompanied these first movements of the proletariat had necessarily a reactionary character.
+  modern: The revolutionary literature that accompanied these first movements of the proletariat necessarily had a reactionary character.
+  modern_status: seed
+  notes: ''
+  mew_page: '489'
+- id: III.49.3
+  kind: p
+  de: Sie lehrt einen allgemeinen Asketismus und eine rohe Gleichmacherei.
+  en: It inculcated universal asceticism and social levelling in its crudest form.
+  modern: It preached universal self-denial and social leveling in its crudest form.
+  modern_status: seed
+  notes: ''
+  mew_page: '489'
+- id: III.50.1
+  kind: p
+  de: Die eigentlich sozialistischen und kommunistischen Systeme, die Systeme St.-Simons, Fouriers, Owens usw., tauchen auf in der ersten, unentwickelten Periode des Kampfes zwischen Proletariat und Bourgeoisie, die wir oben dargestellt haben.
+  en: The Socialist and Communist systems, properly so called, those of Saint-Simon, Fourier, Owen, and others, spring into existence in the early undeveloped period, described above, of the struggle between proletariat and bourgeoisie (see Section I. Bourgeois and Proletarians).
+  modern: The socialist and communist systems in the real sense - those of Saint-Simon, Fourier, Owen, and others - arise in the early, undeveloped period of the struggle between proletariat and bourgeoisie described above (see Section I, "Bourgeois and Proletarians").
+  modern_status: seed
+  notes: ''
+  mew_page: 489-490
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: III.50.2
+  kind: p
+  de: (Siehe Bourgeoisie und Proletariat.)
+  en: ''
+  joined_to: III.50.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '490'
+- id: III.51.1
+  kind: p
+  de: Die Erfinder dieser Systeme sehen zwar den Gegensatz der Klassen wie die Wirksamkeit der auflösenden Elemente in der herrschenden Gesellschaft selbst.
+  en: The founders of these systems see, indeed, the class antagonisms, as well as the action of the decomposing elements in the prevailing form of society.
+  modern: The founders of these systems do see the class antagonisms, as well as the decomposing elements in the prevailing form of society.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.51.2
+  kind: p
+  de: Aber sie erblicken auf der Seite des Proletariats keine geschichtliche Selbsttätigkeit, keine ihm eigentümliche politische Bewegung.
+  en: But the proletariat, as yet in its infancy, offers to them the spectacle of a class without any historical initiative or any independent political movement.
+  modern: But the proletariat, still in its infancy, appears to them as a class without any historical initiative or independent political movement of its own.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.52.1
+  kind: p
+  de: Da die Entwicklung des Klassengegensatzes gleichen Schritt hält mit der Entwicklung der Industrie, finden sie ebensowenig die materiellen Bedingungen zur Befreiung des Proletariats vor und suchen nach einer sozialen Wissenschaft, nach sozialen Gesetzen, um diese Bedingungen zu schaffen.
+  en: Since the development of class antagonism keeps even pace with the development of industry, the economic situation, as they find it, does not as yet offer to them the material conditions for the emancipation of the proletariat. They therefore search after a new social science, after new social laws, that are to create these conditions.
+  modern: Since the development of class antagonism keeps pace with the development of industry, the economic situation as they find it does not yet offer the material conditions for the emancipation of the proletariat. So they look for a new social science, new social laws, that are supposed to create those conditions.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.53.1
+  kind: p
+  de: An die Stelle der gesellschaftlichen Tätigkeit muß ihre persönlich erfinderische Tätigkeit treten, an die Stelle der geschichtlichen Bedingungen der Befreiung phantastische, an die Stelle der allmählich vor sich gehenden Organisation des Proletariats zur Klasse eine eigens ausgeheckte Organisation der Gesellschaft.
+  en: Historical action is to yield to their personal inventive action; historically created conditions of emancipation to fantastic ones; and the gradual, spontaneous class organisation of the proletariat to an organisation of society especially contrived by these inventors.
+  modern: Historical action is to give way to their personal inventive action. Historically created conditions of emancipation are to be replaced by imaginary ones. The gradual, spontaneous self-organization of the proletariat is to be replaced by an organization of society specially designed by these inventors.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.53.2
+  kind: p
+  de: Die kommende Weltgeschichte löst sich für sie auf in die Propaganda und die praktische Ausführung ihrer Gesellschaftspläne.
+  en: Future history resolves itself, in their eyes, into the propaganda and the practical carrying out of their social plans.
+  modern: Future history, in their eyes, resolves itself into the propaganda and the practical carrying-out of their social plans.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.54.1
+  kind: p
+  de: Sie sind sich zwar bewußt, in ihren Plänen hauptsächlich das Interesse der arbeitenden Klasse als der leidendsten Klasse zu vertreten.
+  en: In the formation of their plans, they are conscious of caring chiefly for the interests of the working class, as being the most suffering class.
+  modern: In designing their plans, they are conscious of caring chiefly for the interests of the working class, as the most suffering class.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.54.2
+  kind: p
+  de: Nur unter diesem Gesichtspunkt der leidendsten Klasse existiert das Proletariat für sie.
+  en: Only from the point of view of being the most suffering class does the proletariat exist for them.
+  modern: For them, the proletariat only exists as the most suffering class.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.55.1
+  kind: p
+  de: Die unentwickelte Form des Klassenkampfes wie ihre eigene Lebenslage bringen es aber mit sich, daß sie weit über jenen Klassengegensatz erhaben zu sein glauben.
+  en: The undeveloped state of the class struggle, as well as their own surroundings, causes Socialists of this kind to consider themselves far superior to all class antagonisms.
+  modern: The undeveloped state of the class struggle, and their own social surroundings, cause socialists of this kind to consider themselves far above all class antagonisms.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.55.2
+  kind: p
+  de: Sie wollen die Lebenslage aller Gesellschaftsglieder, auch der bestgestellten, verbessern.
+  en: They want to improve the condition of every member of society, even that of the most favoured.
+  modern: They want to improve the condition of every member of society, even the most privileged.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.55.3
+  kind: p
+  de: Sie appellieren daher fortwährend an die ganze Gesellschaft ohne Unterschied, ja vorzugsweise an die herrschende Klasse.
+  en: Hence, they habitually appeal to society at large, without the distinction of class; nay, by preference, to the ruling class.
+  modern: So they habitually appeal to society at large, without regard to class - in fact, preferably to the ruling class.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.55.4
+  kind: p
+  de: Man braucht ihr System ja nur zu verstehen, um es als den bestmöglichen Plan der bestmöglichen Gesellschaft anzuerkennen.
+  en: For how can people, when once they understand their system, fail to see in it the best possible plan of the best possible state of society?
+  modern: How can people, they think, once they understand the system, fail to see in it the best possible plan of the best possible state of society?
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.56.1
+  kind: p
+  de: Sie verwerfen daher alle politische, namentlich alle revolutionäre Aktion, sie wollen ihr Ziel auf friedlichem Wege erreichen und versuchen, durch kleine, natürlich fehlschlagende Experimente, durch die Macht des Beispiels dem neuen gesellschaftlichen Evangelium Bahn zu brechen.
+  en: Hence, they reject all political, and especially all revolutionary action; they wish to attain their ends by peaceful means, necessarily doomed to failure, and by the force of example, to pave the way for the new social Gospel.
+  modern: So they reject all political action, and especially all revolutionary action. They want to reach their goals by peaceful means. They try, through small experiments that are necessarily doomed to fail, and through the force of example, to pave the way for the new social gospel.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.57.1
+  kind: p
+  de: Die phantastische Schilderung der zukünftigen Gesellschaft entspringt in einer Zeit, wo das Proletariat noch höchst unentwickelt ist, also selbst noch phantastisch seine eigene Stellung auffaßt, seinem ersten ahnungsvollen Drängen nach einer allgemeinen Umgestaltung der Gesellschaft.
+  en: Such fantastic pictures of future society, painted at a time when the proletariat is still in a very undeveloped state and has but a fantastic conception of its own position, correspond with the first instinctive yearnings of that class for a general reconstruction of society.
+  modern: These fantastic pictures of future society, painted at a time when the proletariat is still in a very undeveloped state and still has only a fantastic conception of its own position, correspond with the first instinctive yearnings of that class for a general remaking of society.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T69
+    editions: '1848'
+    reading: Diese
+    base_text: phantastische Schilderung der zukünftigen Gesellschaft …
+  - ref: T70
+    editions: 1848, 1888
+    reading: entspricht
+    base_text: in einer Zeit, wo das …
+  mew_page: '490'
+- id: III.58.1
+  kind: p
+  de: Die sozial[istisch}en und kommunistischen Schriften bestehen aber auch aus kritischen Elementen.
+  en: But these Socialist and Communist publications contain also a critical element.
+  modern: But these socialist and communist writings also contain a critical element.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.58.2
+  kind: p
+  de: Sie greifen alle Grundlagen der bestehenden Gesellschaft an.
+  en: They attack every principle of existing society.
+  modern: They attack every principle of existing society.
+  modern_status: seed
+  notes: ''
+  mew_page: '490'
+- id: III.58.3
+  kind: p
+  de: Sie haben daher höchst wertvolles Material zur Aufklärung der Arbeiter geliefert.
+  en: Hence, they are full of the most valuable materials for the enlightenment of the working class.
+  modern: So they are full of the most valuable materials for the enlightenment of the working class.
+  modern_status: seed
+  notes: ''
+  mew_page: 490-491
+- id: III.58.4
+  kind: p
+  de: Ihre positiven Sätze über die zukünftige Gesellschaft, z.B. Aufhebung des Gegensatzes zwischen Stadt und Land, der Familie, des Privaterwerbs, der Lohnarbeit, die Verkündigung der gesellschaftlichen Harmonie, die Verwandlung des Staates in eine bloße Verwaltung der Produktion - alle diese ihre Sätze drücken bloß das Wegfallen des Klassengegensatzes aus, der eben erst sich zu entwickeln beginnt, den sie nur noch in seiner ersten gestaltlosen Unbestimmtheit kennen.
+  en: The practical measures proposed in them - such as the abolition of the distinction between town and country, of the family, of the carrying on of industries for the account of private individuals, and of the wage system, the proclamation of social harmony, the conversion of the function of the state into a mere superintendence of production - all these proposals point solely to the disappearance of class antagonisms which were, at that time, only just cropping up, and which, in these publications, are recognised in their earliest indistinct and undefined forms only.
+  modern: The practical measures they propose - such as the abolition of the distinction between town and country, the abolition of the family, the abolition of industry being run for the account of private individuals, the abolition of the wage system, the proclamation of social harmony, the conversion of the functions of the state into a mere supervision of production - all these proposals point only to the disappearance of class antagonisms that were, at that time, only just emerging, and that in these writings are recognized only in their earliest, indistinct, and undefined forms.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T71
+    editions: '1848'
+    reading: von
+    base_text: Stadt und Land, der Familie, …
+  mew_page: '491'
+- id: III.58.5
+  kind: p
+  de: Diese Sätze selbst haben daher noch einen rein utopistischen Sinn.
+  en: These proposals, therefore, are of a purely Utopian character.
+  modern: So these proposals are purely utopian in character.
+  modern_status: seed
+  notes: ''
+  mew_page: '491'
+- id: III.59.1
+  kind: p
+  de: Die Bedeutung des kritisch-utopistischen Sozialismus oder Kommunismus steht im umgekehrten Verhältnis zur geschichtlichen Entwicklung.
+  en: The significance of Critical-Utopian Socialism and Communism bears an inverse relation to historical development.
+  modern: The significance of Critical-Utopian Socialism and Communism stands in inverse relation to historical development.
+  modern_status: seed
+  notes: ''
+  mew_page: '491'
+- id: III.59.2
+  kind: p
+  de: In demselben Maße, worin der Klassenkampf sich entwickelt und gestaltet, verliert diese phantastische Erhebung über denselben, diese phantastische Bekämpfung desselben allen praktischen Wert, alle theoretische Berechtigung.
+  en: In proportion as the modern class struggle develops and takes definite shape, this fantastic standing apart from the contest, these fantastic attacks on it, lose all practical value and all theoretical justification.
+  modern: As the modern class struggle develops and takes definite shape, this fantastic standing apart from the fight - these fantastic attacks on the fight - lose all practical value and all theoretical justification.
+  modern_status: seed
+  notes: ''
+  mew_page: '491'
+- id: III.59.3
+  kind: p
+  de: Waren daher die Urheber dieser Systeme auch in vieler Beziehung revolutionär, so bilden ihre Schüler jedesmal reaktionäre Sekten.
+  en: Therefore, although the originators of these systems were, in many respects, revolutionary, their disciples have, in every case, formed mere reactionary sects.
+  modern: So although the originators of these systems were revolutionary in many respects, their disciples have in every case turned into mere reactionary sects.
+  modern_status: seed
+  notes: ''
+  mew_page: '491'
+- id: III.59.4
+  kind: p
+  de: Sie halten die alten Anschauungen der Meister fest gegenüber der geschichtlichen Fortentwicklung des Proletariats.
+  en: They hold fast by the original views of their masters, in opposition to the progressive historical development of the proletariat.
+  modern: They hold fast to the original views of their masters in opposition to the progressive historical development of the proletariat.
+  modern_status: seed
+  notes: ''
+  mew_page: '491'
+- id: III.59.5
+  kind: p
+  de: Sie suchen daher konsequent den Klassenkampf wieder abzustumpfen und die Gegensätze zu vermitteln.
+  en: They, therefore, endeavour, and that consistently, to deaden the class struggle and to reconcile the class antagonisms.
+  modern: So they try, consistently, to dull the class struggle and to reconcile the class antagonisms.
+  modern_status: seed
+  notes: ''
+  mew_page: '491'
+- id: III.59.6
+  kind: p
+  de: Sie träumen noch immer die versuchsweise Verwirklichung ihrer gesellschaftlichen Utopien, Stiftung einzelner Phalanstere, Gründung von Home-Kolonien, Errichtung eines kleinen Ikariens - Duodezausgabe des neuen Jerusalems -, und zum Aufbau aller dieser spanischen Schlösser müssen sie an die Philanthropie der bürgerlichen Herzen und Geldsäcke appellieren.
+  en: They still dream of experimental realisation of their social Utopias, of founding isolated "phalansteres", of establishing "Home Colonies", or setting up a "Little Icaria" - duodecimo editions of the New Jerusalem - and to realise all these castles in the air, they are compelled to appeal to the feelings and purses of the bourgeois.
+  modern: They still dream of the experimental realization of their social utopias - of founding isolated model communities, of establishing "Home Colonies," of setting up a "Little Icaria" - pocket editions of the New Jerusalem. To make all these castles in the air real, they have to appeal to the feelings and the pocketbooks of the bourgeois.
+  modern_status: seed
+  notes: ''
+  footnotes:
+  - N7
+  mew_page: '491'
+- id: III.59.7
+  kind: p
+  de: Allmählich fallen sie in die Kategorie der oben geschilderten reaktionären oder konservativen Sozialisten und unterscheiden sich nur noch von ihnen durch mehr systematische Pedanterie, durch den fanatischen Aberglauben an die Wunderwirkungen ihrer sozialen Wissenschaft.
+  en: By degrees, they sink into the category of the reactionary [or] conservative Socialists depicted above, differing from these only by more systematic pedantry, and by their fanatical and superstitious belief in the miraculous effects of their social science.
+  modern: Gradually they sink into the category of the reactionary conservative socialists described above, differing from them only by more systematic pedantry, and by their fanatical and superstitious belief in the miraculous effects of their social science.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T72
+    editions: '1848'
+    reading: mehr
+    base_text: von ihnen durch mehr systematische …
+  mew_page: '491'
+- id: III.60.1
+  kind: p
+  de: Sie treten daher mit Erbitterung aller politischen Bewegung der Arbeiter entgegen, die nur aus blindem Unglauben an das neue Evangelium hervorgehen konnte.
+  en: They, therefore, violently oppose all political action on the part of the working class; such action, according to them, can only result from blind unbelief in the new Gospel.
+  modern: So they violently oppose all political action by the working class. Such action, to them, can only come from blind disbelief in the new gospel.
+  modern_status: seed
+  notes: ''
+  mew_page: '491'
+- id: III.61.1
+  kind: p
+  de: Die Owenisten in England, die Fourieristen in Frankreich reagieren dort gegen die Chartisten, hier gegen die Reformisten.
+  en: The Owenites in England, and the Fourierists in France, respectively, oppose the Chartists and the Réformistes.
+  modern: The Owenites in England and the Fourierists in France oppose the Chartists and the labor-reform movement, respectively.
+  modern_status: seed
+  notes: ''
+  mew_page: '492'

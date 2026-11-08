@@ -1,0 +1,1214 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: II
+title_de: Proletarier und Kommunisten
+title_en: Proletarians and Communists
+author: Karl Marx and Friedrich Engels
+date: 1848-02
+original_language: de
+anchor_language: de
+source_de: MEW 4, S. 459-493 (Dietz, Berlin), text of the 1890 German edition, the last edited by Engels, via mlwerke.de; 1848/1872/1883/1888 variants from MEW's apparatus
+source_en: Samuel Moore and Friedrich Engels, English edition of 1888; Marxists Internet Archive transcription proofed against the 1888 edition by Andy Blunden (2004), CC BY-SA
+source_modern: Seeded from A Modern Manifesto (Yusuf Talan Saunders), a paraphrase of the 1888 English; not yet checked against the German
+verses:
+- id: II.0.1
+  kind: heading
+  de: II. Proletarier und Kommunisten
+  en: II. Proletarians and Communists
+  modern: II. Proletarians and Communists
+  modern_status: seed
+  notes: ''
+  mew_page: '474'
+- id: II.1.1
+  kind: p
+  de: In welchem Verhältnis stehen die Kommunisten zu den Proletariern überhaupt?
+  en: In what relation do the Communists stand to the proletarians as a whole?
+  modern: What is the relationship between the communists and the proletariat as a whole?
+  modern_status: seed
+  notes: ''
+  mew_page: '474'
+- id: II.2.1
+  kind: p
+  de: Die Kommunisten sind keine besondere Partei gegenüber den andern Arbeiterparteien.
+  en: The Communists do not form a separate party opposed to the other working-class parties.
+  modern: Communists do not form a separate party opposed to other working-class parties.
+  modern_status: seed
+  notes: ''
+  mew_page: '474'
+- id: II.3.1
+  kind: p
+  de: Sie haben keine von den Interessen des ganzen Proletariats getrennten Interessen.
+  en: They have no interests separate and apart from those of the proletariat as a whole.
+  modern: They have no interests separate from the interests of the proletariat as a whole.
+  modern_status: seed
+  notes: ''
+  mew_page: '474'
+- id: II.4.1
+  kind: p
+  de: Sie stellen keine besonderen Prinzipien auf, wonach sie die proletarische Bewegung modeln wollen.
+  en: They do not set up any sectarian principles of their own, by which to shape and mould the proletarian movement.
+  modern: They do not set up any sectarian principles of their own to shape or mold the proletarian movement.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T34
+    editions: '1888'
+    reading: sektiererischen
+    base_text: Prinzipien auf, wonach sie die …
+  mew_page: '474'
+- id: II.5.1
+  kind: p
+  de: Die Kommunisten unterscheiden sich von den übrigen proletarischen Parteien nur dadurch, daß sie einerseits in den verschiedenen nationalen Kämpfen der Proletarier die gemeinsamen, von der Nationalität unabhängigen Interessen des gesamten Proletariats hervorheben und zur Geltung bringen, andrerseits dadurch, daß sie in den verschiedenen Entwicklungsstufen, welche der Kampf zwischen Proletariat und Bourgeoisie durchläuft, stets das Interesse der Gesamtbewegung vertreten.
+  en: 'The Communists are distinguished from the other working-class parties by this only: 1. In the national struggles of the proletarians of the different countries, they point out and bring to the front the common interests of the entire proletariat, independently of all nationality. 2. In the various stages of development which the struggle of the working class against the bourgeoisie has to pass through, they always and everywhere represent the interests of the movement as a whole.'
+  modern: Communists are distinguished from other working-class parties only by these two things. First, in the national struggles of workers in different countries, they point out and bring forward the shared interests of the entire proletariat, regardless of nationality. Second, at every stage of the struggle between the working class and the bourgeoisie, they always and everywhere represent the interests of the movement as a whole.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T35
+    editions: 1848, 1872, 1883
+    reading: einerseits sie
+    base_text: in den verschiedenen nationalen Kämpfen …
+  mew_page: '474'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.6.1
+  kind: p
+  de: Die Kommunisten sind also praktisch der entschiedenste, immer weitertreibende Teil der Arbeiterparteien aller Länder; sie haben theoretisch vor der übrigen Masse des Proletariats die Einsicht in die Bedingungen, den Gang und die allgemeinen Resultate der proletarischen Bewegung voraus.
+  en: The Communists, therefore, are on the one hand, practically, the most advanced and resolute section of the working-class parties of every country, that section which pushes forward all others; on the other hand, theoretically, they have over the great mass of the proletariat the advantage of clearly understanding the line of march, the conditions, and the ultimate general results of the proletarian movement.
+  modern: So, in practice, communists are the most advanced and most committed section of the working-class parties of every country - the section that pushes all the others forward. In theory, they have the advantage over the rest of the proletariat of clearly understanding the direction of the march, the conditions, and the ultimate general results of the proletarian movement.
+  modern_status: seed
+  notes: ''
+  mew_page: '474'
+- id: II.7.1
+  kind: p
+  de: 'Der nächste Zweck der Kommunisten ist derselbe wie der aller übrigen proletarischen Parteien: Bildung des Proletariats zur Klasse, Sturz der Bourgeoisherrschaft, Eroberung der politischen Macht durch das Proletariat.'
+  en: 'The immediate aim of the Communists is the same as that of all other proletarian parties: formation of the proletariat into a class, overthrow of the bourgeois supremacy, conquest of political power by the proletariat.'
+  modern: 'The immediate aim of the communists is the same as that of every other working-class party: the shaping of the proletariat into a class, the overthrow of bourgeois supremacy, and the proletariat''s winning of political power.'
+  modern_status: seed
+  notes: ''
+  mew_page: '474'
+- id: II.7.2
+  kind: p
+  de: Die theoretischen Sätze der Kommunisten beruhen keineswegs auf Ideen, auf Prinzipien, die von diesem oder jenem Weltverbesserer erfunden oder entdeckt sind.
+  en: The theoretical conclusions of the Communists are in no way based on ideas or principles that have been invented, or discovered, by this or that would-be universal reformer.
+  modern: The theoretical conclusions of the communists are not based on ideas or principles invented or discovered by some would-be universal reformer.
+  modern_status: seed
+  notes: ''
+  mew_page: '474'
+- id: II.8.1
+  kind: p
+  de: Sie sind nur allgemeine Ausdrücke tatsächlicher Verhältnisse eines existierenden Klassenkampfes, einer unter unseren Augen vor sich gehenden geschichtlichen Bewegung.
+  en: They merely express, in general terms, actual relations springing from an existing class struggle, from a historical movement going on under our very eyes.
+  modern: They simply express, in general terms, the actual relationships that arise out of an existing class struggle - a historical movement playing out right in front of us.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.8.2
+  kind: p
+  de: Die Abschaffung bisheriger Eigentumsverhältnisse ist nichts den Kommunismus eigentümlich Bezeichnendes.
+  en: The abolition of existing property relations is not at all a distinctive feature of communism.
+  modern: The abolition of existing property relations is not in itself unique to communism.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T36
+    editions: 1872, 1883
+    reading: dem
+    base_text: Kommunismus eigentümlich Bezeichnendes. …
+  mew_page: '475'
+- id: II.9.1
+  kind: p
+  de: Alle Eigentumsverhältnisse waren einem beständigen geschichtlichen Wandel, einer beständigen geschichtlichen Veränderung unterworfen.
+  en: All property relations in the past have continually been subject to historical change consequent upon the change in historical conditions.
+  modern: Property relations have been constantly changing throughout history as historical conditions change.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.10.1
+  kind: p
+  de: Die Französische Revolution z.B. schaffte das Feudaleigentum zugunsten des bürgerlichen ab.
+  en: The French Revolution, for example, abolished feudal property in favour of bourgeois property.
+  modern: The French Revolution, for example, abolished feudal property in favor of bourgeois property.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.11.1
+  kind: p
+  de: Was den Kommunismus auszeichnet, ist nicht die Abschaffung des Eigentums überhaupt, sondern die Abschaffung des bürgerlichen Eigentums.
+  en: The distinguishing feature of Communism is not the abolition of property generally, but the abolition of bourgeois property.
+  modern: What distinguishes communism is not the abolition of property in general, but the abolition of bourgeois property.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.12.1
+  kind: p
+  de: Aber das moderne bürgerliche Privateigentum ist der letzte und vollendetste Ausdruck der Erzeugung und Aneignung der Produkte, die auf Klassengegensätzen, auf der Ausbeutung der einen durch die andern beruht.
+  en: But modern bourgeois private property is the final and most complete expression of the system of producing and appropriating products, that is based on class antagonisms, on the exploitation of the many by the few.
+  modern: Modern bourgeois private property is the final and most complete expression of a system of producing and appropriating goods that is based on class antagonism - on the exploitation of the many by the few.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T37
+    editions: 1848, 1872, 1883
+    reading: 'eingefügt: die'
+    base_text: auf der Ausbeutung der einen …
+  - ref: T38
+    editions: '1888'
+    reading: Mehrheit
+    base_text: durch die andern beruht. …
+  mew_page: '475'
+- id: II.13.1
+  kind: p
+  de: 'In diesem Sinn können die Kommunisten ihre Theorie in dem einen Ausdruck: Aufhebung des Privateigentums, zusammenfassen.'
+  en: 'In this sense, the theory of the Communists may be summed up in the single sentence: Abolition of private property.'
+  modern: 'In this sense, the theory of the communists can be summed up in one sentence: abolition of private property.'
+  modern_status: seed
+  notes: 'Aufhebung, not Abschaffung. See glossary: Aufhebung.'
+  mew_page: '475'
+- id: II.14.1
+  kind: p
+  de: Man hat uns Kommunisten vorgeworfen, wir wollten das persönlich erworbene, selbsterarbeitete Eigentum abschaffen; das Eigentum, welches die Grundlage aller persönlichen Freiheit, Tätigkeit und Selbständigkeit bilde.
+  en: We Communists have been reproached with the desire of abolishing the right of personally acquiring property as the fruit of a man's own labour, which property is alleged to be the groundwork of all personal freedom, activity and independence.
+  modern: We communists have been accused of wanting to abolish the right to personally earn and own property as the fruit of a person's own labor - the property that is supposedly the foundation of all personal freedom, activity, and independence.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.15.1
+  kind: p
+  de: Erarbeitetes, erworbenes, selbstverdientes Eigentum!
+  en: Hard-won, self-acquired, self-earned property!
+  modern: Hard-won, self-earned, personal property!
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.15.2
+  kind: p
+  de: Sprecht ihr von dem kleinbürgerlichen, kleinbäuerlichen Eigentum, welches dem bürgerlichen Eigentum vorherging?
+  en: Do you mean the property of petty artisan and of the small peasant, a form of property that preceded the bourgeois form?
+  modern: Do you mean the property of the small craftsman or the small farmer - a form of property that existed before the bourgeois form?
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.15.3
+  kind: p
+  de: Wir brauchen es nicht abzuschaffen, die Entwicklung der Industrie hat es abgeschafft und schafft es täglich ab.
+  en: There is no need to abolish that; the development of industry has to a great extent already destroyed it, and is still destroying it daily.
+  modern: There is no need for us to abolish it. The development of modern industry has already destroyed most of it, and is destroying more of it every day.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.16.1
+  kind: p
+  de: Oder sprecht ihr vom modernen bürgerlichen Privateigentum?
+  en: Or do you mean the modern bourgeois private property?
+  modern: Or do you mean modern bourgeois private property?
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.17.1
+  kind: p
+  de: Schafft aber die Lohnarbeit, die Arbeit des Proletariers ihm Eigentum?
+  en: But does wage-labour create any property for the labourer?
+  modern: But does wage labor actually create any property for the worker? Not a bit.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.17.2
+  kind: p
+  de: Keineswegs.
+  en: Not a bit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: II.17.3
+  kind: p
+  de: Sie schafft das Kapital, d.h. das Eigentum, welches die Lohnarbeit ausbeutet, welches sich nur unter der Bedingung vermehren kann, daß es neue Lohnarbeit erzeugt, um sie von neuem auszubeuten.
+  en: It creates capital, i.e., that kind of property which exploits wage-labour, and which cannot increase except upon condition of begetting a new supply of wage-labour for fresh exploitation.
+  modern: It creates capital - that is, the kind of property that exploits wage labor, and which can only grow by producing new wage labor to be freshly exploited.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.17.4
+  kind: p
+  de: Das Eigentum in seiner heutigen Gestalt bewegt sich in dem Gegensatz von Kapital und Lohnarbeit.
+  en: Property, in its present form, is based on the antagonism of capital and wage labour.
+  modern: Property, in its current form, is based on the antagonism between capital and wage labor.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.17.5
+  kind: p
+  de: Betrachten wir die beiden Seiten dieses Gegensatzes.
+  en: Let us examine both sides of this antagonism.
+  modern: Let us look at both sides of that antagonism.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.18.1
+  kind: p
+  de: Kapitalist sein, heißt nicht nur eine rein persönliche, sondern eine gesellschaftliche Stellung in der Produktion einzunehmen.
+  en: To be a capitalist, is to have not only a purely personal, but a social status in production.
+  modern: To be a capitalist is to have not just a personal position but a social position in production.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.18.2
+  kind: p
+  de: Das Kapital ist ein gemeinschaftliches Produkt und kann nur durch eine gemeinsame Tätigkeit vieler Mitglieder, ja in letzter Instanz nur durch die gemeinsame Tätigkeit aller Mitglieder der Gesellschaft in Bewegung gesetzt werden.
+  en: Capital is a collective product, and only by the united action of many members, nay, in the last resort, only by the united action of all members of society, can it be set in motion.
+  modern: Capital is a collective product. It can only be set in motion by the combined action of many people - in fact, in the last analysis, by the combined action of every member of society.
+  modern_status: seed
+  notes: ''
+  mew_page: '475'
+- id: II.19.1
+  kind: p
+  de: Das Kapital ist also keine persönliche, es ist eine gesellschaftliche Macht.
+  en: Capital is therefore not only personal; it is a social power.
+  modern: So capital is not a personal power. It is a social power.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.20.1
+  kind: p
+  de: Wenn also das Kapital in ein gemeinschaftliches, allen Mitgliedern der Gesellschaft angehöriges Eigentum verwandelt wird, so verwandelt sich nicht persönliches Eigentum in gesellschaftliches.
+  en: When, therefore, capital is converted into common property, into the property of all members of society, personal property is not thereby transformed into social property.
+  modern: So when capital is converted into common property - into the property of every member of society - personal property is not being transformed into social property.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.20.2
+  kind: p
+  de: Nur der gesellschaftliche Charakter des Eigentums verwandelt sich.
+  en: It is only the social character of the property that is changed.
+  modern: Only the social character of the property is being changed.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.20.3
+  kind: p
+  de: Er verliert seinen Klassencharakter.
+  en: It loses its class character.
+  modern: It loses its class character.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.21.1
+  kind: p
+  de: 'Kommen wir zur Lohnarbeit:'
+  en: Let us now take wage-labour.
+  modern: Now let us look at wage labor.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.22.1
+  kind: p
+  de: Der Durchschnittspreis der Lohnarbeit ist das Minimum des Arbeitslohnes, d.h. die Summe der Lebensmittel, die notwendig sind, um den Arbeiter als Arbeiter am Leben zu erhalten.
+  en: The average price of wage-labour is the minimum wage, i.e., that quantum of the means of subsistence which is absolutely requisite to keep the labourer in bare existence as a labourer.
+  modern: The average price of wage labor is the minimum wage - that is, the amount of means of subsistence a worker absolutely needs to stay alive as a worker.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.22.2
+  kind: p
+  de: Was also der Lohnarbeiter durch seine Tätigkeit sich aneignet, reicht bloß dazu hin, um sein nacktes Leben wieder zu erzeugen.
+  en: What, therefore, the wage-labourer appropriates by means of his labour, merely suffices to prolong and reproduce a bare existence.
+  modern: So what the wage worker takes for themselves through their labor just barely keeps them alive.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.22.3
+  kind: p
+  de: Wir wollen diese persönliche Aneignung der Arbeitsprodukte zur Wiedererzeugung des unmittelbaren Lebens keineswegs abschaffen, eine Aneignung, die keinen Reinertrag übrigläßt, der Macht über fremde Arbeit geben könnte.
+  en: We by no means intend to abolish this personal appropriation of the products of labour, an appropriation that is made for the maintenance and reproduction of human life, and that leaves no surplus wherewith to command the labour of others.
+  modern: We have no intention at all of abolishing this personal appropriation of the products of labor - an appropriation that keeps people alive and reproducing, and that leaves no surplus to command the labor of others.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.22.4
+  kind: p
+  de: Wir wollen nur den elenden Charakter dieser Aneignung aufheben, worin der Arbeiter nur lebt, um das Kapital zu vermehren, nur so weit lebt, wie es das Interesse der herrschenden Klasse erheischt.
+  en: All that we want to do away with is the miserable character of this appropriation, under which the labourer lives merely to increase capital, and is allowed to live only in so far as the interest of the ruling class requires it.
+  modern: All we want to abolish is the miserable character of that appropriation - the condition where the worker lives only to add to capital, and is allowed to live only so long as the ruling class finds it useful.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.23.1
+  kind: p
+  de: In der bürgerlichen Gesellschaft ist die lebendige Arbeit nur ein Mittel, die aufgehäufte Arbeit zu vermehren.
+  en: In bourgeois society, living labour is but a means to increase accumulated labour.
+  modern: In bourgeois society, living labor is just a means of increasing accumulated labor.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.23.2
+  kind: p
+  de: In der kommunistischen Gesellschaft ist die aufgehäufte Arbeit nur ein Mittel, um den Lebensprozeß der Arbeiter zu erweitern, zu bereichern, zu befördern.
+  en: In Communist society, accumulated labour is but a means to widen, to enrich, to promote the existence of the labourer.
+  modern: In communist society, accumulated labor is just a means of widening, enriching, and supporting the existence of the worker.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.24.1
+  kind: p
+  de: In der bürgerlichen Gesellschaft herrscht also die Vergangenheit über die Gegenwart, in der kommunistischen die Gegenwart über die Vergangenheit.
+  en: In bourgeois society, therefore, the past dominates the present; in Communist society, the present dominates the past.
+  modern: In bourgeois society, then, the past dominates the present. In communist society, the present dominates the past.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.24.2
+  kind: p
+  de: In der bürgerlichen Gesellschaft ist das Kapital selbständig und persönlich, während das tätige Individuum unselbständig und unpersönlich ist.
+  en: In bourgeois society capital is independent and has individuality, while the living person is dependent and has no individuality.
+  modern: In bourgeois society, capital is independent and has individuality, while the living person is dependent and has no individuality.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.25.1
+  kind: p
+  de: Und die Aufhebung dieses Verhältnisses nennt die Bourgeoisie Aufhebung der Persönlichkeit und Freiheit!
+  en: And the abolition of this state of things is called by the bourgeois, abolition of individuality and freedom!
+  modern: And the abolition of this state of things is called by the bourgeoisie the abolition of individuality and freedom.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.25.2
+  kind: p
+  de: Und mit Recht.
+  en: And rightly so.
+  modern: And rightly so.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.25.3
+  kind: p
+  de: Es handelt sich allerdings um die Aufhebung der Bourgeois-Persönlichkeit, -Selbständigkeit und -Freiheit.
+  en: The abolition of bourgeois individuality, bourgeois independence, and bourgeois freedom is undoubtedly aimed at.
+  modern: What we are aiming at is clearly the abolition of bourgeois individuality, bourgeois independence, and bourgeois freedom.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.26.1
+  kind: p
+  de: Unter Freiheit versteht man innerhalb der jetzigen bürgerlichen Produktionsverhältnisse den freien Handel, den freien Kauf und Verkauf.
+  en: By freedom is meant, under the present bourgeois conditions of production, free trade, free selling and buying.
+  modern: By "freedom," under current bourgeois conditions of production, what is meant is free trade, free buying and selling.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.27.1
+  kind: p
+  de: Fällt aber der Schacher, so fällt auch der freie Schacher.
+  en: But if selling and buying disappears, free selling and buying disappears also.
+  modern: But once buying and selling goes away, free buying and selling goes with it.
+  modern_status: seed
+  notes: ''
+  mew_page: '476'
+- id: II.27.2
+  kind: p
+  de: Die Redensarten vom freien Schacher, wie alle übrigen Freiheitsbravaden unserer Bourgeoisie, haben überhaupt nur einen Sinn gegenüber dem gebundenen Schacher, gegenüber dem geknechteten Bürger des Mittelalters, nicht aber gegenüber der kommunistischen Aufhebung des Schachers, der bürgerlichen Produktionsverhältnisse und der Bourgeoisie selbst.
+  en: This talk about free selling and buying, and all the other "brave words" of our bourgeois about freedom in general, have a meaning, if any, only in contrast with restricted selling and buying, with the fettered traders of the Middle Ages, but have no meaning when opposed to the Communistic abolition of buying and selling, of the bourgeois conditions of production, and of the bourgeoisie itself.
+  modern: All this talk about free buying and selling, and all the other grand slogans of the bourgeoisie about freedom in general, only has any meaning - if it has any at all - in contrast with restricted buying and selling, with the closed merchant guilds of the Middle Ages. It has no meaning against the communist abolition of buying and selling, of bourgeois conditions of production, and of the bourgeoisie itself.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T40
+    editions: '1848'
+    reading: Bourgeois
+    base_text: ', haben überhaupt nur einen …'
+  mew_page: '476'
+- id: II.28.1
+  kind: p
+  de: Ihr entsetzt euch darüber, daß wir das Privateigentum aufheben wollen.
+  en: You are horrified at our intending to do away with private property.
+  modern: You are horrified that we want to do away with private property.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.28.2
+  kind: p
+  de: Aber in eurer bestehenden Gesellschaft ist das Privateigentum für neun Zehntel ihrer Mitglieder aufgehoben, es existiert gerade dadurch, daß es für neun Zehntel nicht existiert.
+  en: But in your existing society, private property is already done away with for nine-tenths of the population; its existence for the few is solely due to its non-existence in the hands of those nine-tenths.
+  modern: But in your current society, private property is already done away with for nine-tenths of the population. Private property exists for the few only because it does not exist for those nine-tenths.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.28.3
+  kind: p
+  de: Ihr werft uns also vor, daß wir ein Eigentum aufheben wollen, welches die Eigentumslosigkeit der ungeheuren Mehrzahl der Gesellschaft als notwendige Bedingung voraussetzt.
+  en: You reproach us, therefore, with intending to do away with a form of property, the necessary condition for whose existence is the non-existence of any property for the immense majority of society.
+  modern: So what you are really accusing us of is wanting to do away with a form of property whose very existence depends on the huge majority having no property at all.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.29.1
+  kind: p
+  de: Ihr werft uns mit einem Worte vor, daß wir euer Eigentum aufheben wollen.
+  en: In one word, you reproach us with intending to do away with your property.
+  modern: In one word, you accuse us of wanting to do away with your property. Yes.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.29.2
+  kind: p
+  de: Allerdings, das wollen wir.
+  en: Precisely so; that is just what we intend.
+  modern: That is exactly what we intend.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.30.1
+  kind: p
+  de: Von dem Augenblick an, wo die Arbeit nicht mehr in Kapital, Geld, Grundrente, kurz, in eine monopolisierbare gesellschaftliche Macht verwandelt werden kann, d.h. von dem Augenblick, wo das persönliche Eigentum nicht mehr in bürgerliches umschlagen kann, von dem Augenblick an erklärt ihr, die Person sei aufgehoben.
+  en: From the moment when labour can no longer be converted into capital, money, or rent, into a social power capable of being monopolised, i.e., from the moment when individual property can no longer be transformed into bourgeois property, into capital, from that moment, you say, individuality vanishes.
+  modern: From the moment labor can no longer be turned into capital, money, or rent - into a social power that can be monopolized - that is, from the moment individual property can no longer be turned into bourgeois property, into capital - you say individuality disappears.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.31.1
+  kind: p
+  de: Ihr gesteht also, daß ihr unter der Person niemanden anders versteht als den Bourgeois, den bürgerlichen Eigentümer.
+  en: You must, therefore, confess that by "individual" you mean no other person than the bourgeois, than the middle-class owner of property.
+  modern: So you have to admit that by "individual" you mean nothing other than the bourgeois - the middle-class owner of property.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.31.2
+  kind: p
+  de: Und diese Person soll allerdings aufgehoben werden.
+  en: This person must, indeed, be swept out of the way, and made impossible.
+  modern: That kind of person must, in fact, be swept out of the way and made impossible.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.32.1
+  kind: p
+  de: Der Kommunismus nimmt keinem die Macht, sich gesellschaftliche Produkte anzueignen, er nimmt nur die Macht, sich durch diese Aneignung fremde Arbeit zu unterjochen.
+  en: Communism deprives no man of the power to appropriate the products of society; all that it does is to deprive him of the power to subjugate the labour of others by means of such appropriations.
+  modern: Communism takes from no one the ability to appropriate the products of society. All it does is take away the ability to use that appropriation to command the labor of others.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.33.1
+  kind: p
+  de: Man hat eingewendet, mit der Aufhebung des Privateigentums werde alle Tätigkeit aufhören, und eine allgemeine Faulheit einreißen.
+  en: It has been objected that upon the abolition of private property, all work will cease, and universal laziness will overtake us.
+  modern: It has been objected that once private property is abolished all work will stop, and universal laziness will take over.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.34.1
+  kind: p
+  de: Hiernach müßte die bürgerliche Gesellschaft längst an der Trägheit zugrunde gegangen sein; denn die in ihr arbeiten, erwerben nicht, und die in ihr erwerben, arbeiten nicht.
+  en: According to this, bourgeois society ought long ago to have gone to the dogs through sheer idleness; for those of its members who work, acquire nothing, and those who acquire anything do not work.
+  modern: By that logic, bourgeois society should long ago have gone to ruin through sheer idleness - because those of its members who work get nothing, and those who get anything do not work.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.34.2
+  kind: p
+  de: Das ganze Bedenken läuft auf die Tautologie hinaus, daß es keine Lohnarbeit mehr gibt, sobald es kein Kapital mehr gibt.
+  en: 'The whole of this objection is but another expression of the tautology: that there can no longer be any wage-labour when there is no longer any capital.'
+  modern: 'This objection is really just another way of stating the tautology: there can be no wage labor once there is no capital.'
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.35.1
+  kind: p
+  de: Alle Einwürfe, die gegen die kommunistische Aneignungs- und Produktionsweise der materiellen Produkte gerichtet werden, sind ebenso auf die Aneignung und Produktion der geistigen Produkte ausgedehnt worden.
+  en: All objections urged against the Communistic mode of producing and appropriating material products, have, in the same way, been urged against the Communistic mode of producing and appropriating intellectual products.
+  modern: All the objections thrown at the communist way of producing and appropriating material products have also been thrown at the communist way of producing and appropriating intellectual products.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.35.2
+  kind: p
+  de: Wie für den Bourgeois das Aufhören des Klasseneigentums das Aufhören der Produktion selbst ist, so ist für ihn das Aufhören der Klassenbildung identisch mit dem Aufhören der Bildung überhaupt.
+  en: Just as, to the bourgeois, the disappearance of class property is the disappearance of production itself, so the disappearance of class culture is to him identical with the disappearance of all culture.
+  modern: Just as the disappearance of class property looks to the bourgeois like the disappearance of production itself, the disappearance of class culture looks to him like the disappearance of all culture.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.36.1
+  kind: p
+  de: Die Bildung, deren Verlust er bedauert, ist für die enorme Mehrzahl die Heranbildung zur Maschine.
+  en: That culture, the loss of which he laments, is, for the enormous majority, a mere training to act as a machine.
+  modern: That culture whose loss he grieves is, for the huge majority, nothing but training to act like a machine.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+- id: II.37.1
+  kind: p
+  de: Aber streitet nicht mit uns, indem ihr an euren bürgerlichen Vorstellungen von Freiheit, Bildung, Recht usw. die Abschaffung des bürgerlichen Eigentums meßt.
+  en: But don't wrangle with us so long as you apply, to our intended abolition of bourgeois property, the standard of your bourgeois notions of freedom, culture, law, &c. Your very ideas are but the outgrowth of the conditions of your bourgeois production and bourgeois property, just as your jurisprudence is but the will of your class made into a law for all, a will whose essential character and direction are determined by the economical conditions of existence of your class.
+  modern: But do not argue with us so long as you apply to our proposed abolition of bourgeois property the standard of your bourgeois ideas of freedom, culture, law, and so on. Your very ideas are just the product of the conditions of your bourgeois production and bourgeois property - just as your legal system is the will of your class turned into law for everyone, a will whose essential character and direction are determined by the economic conditions of your class's existence.
+  modern_status: seed
+  notes: ''
+  mew_page: '477'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: II.37.2
+  kind: p
+  de: Eure Ideen selbst sind Erzeugnisse der bürgerlichen Produktions- und Eigentumsverhältnisse, wie euer Recht nur der zum Gesetz erhobene Wille eurer Klasse ist, ein Wille, dessen Inhalt gegeben ist in den materiellen Lebensbedingungen eurer Klasse.
+  en: ''
+  joined_to: II.37.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '477'
+- id: II.38.1
+  kind: p
+  de: Die interessierte Vorstellung, worin ihr eure Produktions- und Eigentumsverhältnisse aus geschichtlichen, in dem Lauf der Produktion vorübergehenden Verhältnissen in ewige Natur- und Vernunftgesetze verwandelt, teilt ihr mit allen untergegangenen herrschenden Klassen.
+  en: The selfish misconception that induces you to transform into eternal laws of nature and of reason, the social forms springing from your present mode of production and form of property - historical relations that rise and disappear in the progress of production - this misconception you share with every ruling class that has preceded you.
+  modern: The selfish misreading that makes you turn the social forms arising from your current mode of production and form of property into eternal laws of nature and reason - historical relations that arise and disappear in the course of production - this is the same misreading every earlier ruling class has made.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.38.2
+  kind: p
+  de: Was ihr für das antike Eigentum begreift, was ihr für das feudale Eigentum begreift, dürft ihr nicht mehr begreifen für das bürgerliche Eigentum.-
+  en: What you see clearly in the case of ancient property, what you admit in the case of feudal property, you are of course forbidden to admit in the case of your own bourgeois form of property.
+  modern: What you clearly see in the case of ancient property, what you admit in the case of feudal property, you of course cannot admit in the case of your own bourgeois form of property.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.39.1
+  kind: p
+  de: Aufhebung der Familie!
+  en: Abolition [Aufhebung] of the family!
+  modern: Abolition of the family!
+  modern_status: seed
+  notes: Aufhebung, not Abschaffung. '[Aufhebung]' in the English column is an MIA insertion. See glossary.
+  mew_page: '478'
+- id: II.39.2
+  kind: p
+  de: Selbst die Radikalsten ereifern sich über diese schändliche Absicht der Kommunisten.
+  en: Even the most radical flare up at this infamous proposal of the Communists.
+  modern: Even the most radical people flare up at this shocking proposal from the communists.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.40.1
+  kind: p
+  de: Worauf beruht die gegenwärtige, die bürgerliche Familie?
+  en: On what foundation is the present family, the bourgeois family, based?
+  modern: But on what foundation does the current family - the bourgeois family - rest?
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.40.2
+  kind: p
+  de: Auf dem Kapital, auf dem Privaterwerb.
+  en: On capital, on private gain.
+  modern: On capital, on private profit.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.40.3
+  kind: p
+  de: Vollständig entwickelt existiert sie nur für die Bourgeoisie; aber sie findet ihre Ergänzung in der erzwungenen Familienlosigkeit der Proletarier und der öffentlichen Prostitution.
+  en: In its completely developed form, this family exists only among the bourgeoisie. But this state of things finds its complement in the practical absence of the family among the proletarians, and in public prostitution.
+  modern: In its fully developed form, this family exists only among the bourgeoisie. Its counterpart is the practical absence of family life among the proletariat, and public prostitution.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.41.1
+  kind: p
+  de: Die Familie der Bourgeois fällt natürlich weg mit dem Wegfallen dieser ihrer Ergänzung, und beide verschwinden mit dem Verschwinden des Kapitals.
+  en: The bourgeois family will vanish as a matter of course when its complement vanishes, and both will vanish with the vanishing of capital.
+  modern: The bourgeois family will vanish as a matter of course when its counterpart vanishes, and both will vanish with the vanishing of capital.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T41
+    editions: '1848'
+    reading: des
+    base_text: Bourgeois fällt natürlich weg mit …
+  mew_page: '478'
+- id: II.42.1
+  kind: p
+  de: Werft ihr uns vor, daß wir die Ausbeutung der Kinder durch ihre Eltern aufheben wollen?
+  en: Do you charge us with wanting to stop the exploitation of children by their parents?
+  modern: Do you accuse us of wanting to stop the exploitation of children by their parents?
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.42.2
+  kind: p
+  de: Wir gestehen dieses Verbrechen ein.
+  en: To this crime we plead guilty.
+  modern: To this crime we plead guilty.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.43.1
+  kind: p
+  de: Aber, sagt ihr, wir heben die trautesten Verhältnisse auf, indem wir an die Stelle der häuslichen Erziehung die gesellschaftliche setzen.
+  en: But, you say, we destroy the most hallowed of relations, when we replace home education by social.
+  modern: But, you will say, we destroy the most sacred of relationships when we replace home education with social education.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.44.1
+  kind: p
+  de: Und ist nicht auch eure Erziehung durch die Gesellschaft bestimmt?
+  en: And your education!
+  modern: And your education - is it not also social, shaped by the social conditions under which you educate, by the direct or indirect intervention of society through schools and so on? The communists did not invent social involvement in education.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.44.2
+  kind: p
+  de: Durch die gesellschaftlichen Verhältnisse, innerhalb derer ihr erzieht, durch die direktere oder indirektere Einmischung der Gesellschaft, vermittelst der Schule usw.?
+  en: Is not that also social, and determined by the social conditions under which you educate, by the intervention direct or indirect, of society, by means of schools, &c.?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  de_variants:
+  - ref: T42
+    editions: '1848'
+    reading: deren
+    base_text: ihr erzieht, durch die direktere …
+  mew_page: '478'
+- id: II.44.3
+  kind: p
+  de: Die Kommunisten erfinden nicht die Einwirkung der Gesellschaft auf die Erziehung; sie verändern nur ihren Charakter, sie entreißen die Erziehung dem Einfluß der herrschenden Klasse.
+  en: The Communists have not invented the intervention of society in education; they do but seek to alter the character of that intervention, and to rescue education from the influence of the ruling class.
+  modern: They simply want to change the character of that involvement, and to pull education out from under the influence of the ruling class.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.45.1
+  kind: p
+  de: Die bürgerlichen Redensarten über Familie und Erziehung, über das traute Verhältnis von Eltern und Kindern werden um so ekelhafter, je mehr infolge der großen Industrie alle Familienbande für die Proletarier zerrissen und die Kinder in einfache Handelsartikel und Arbeitsinstrumente verwandelt werden.
+  en: The bourgeois clap-trap about the family and education, about the hallowed co-relation of parents and child, becomes all the more disgusting, the more, by the action of Modern Industry, all the family ties among the proletarians are torn asunder, and their children transformed into simple articles of commerce and instruments of labour.
+  modern: The bourgeois clichés about the family and education, about the sacred bond of parent and child, become more disgusting the more Modern Industry tears every family tie among the proletariat apart and turns their children into mere articles of commerce and tools of labor.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.46.1
+  kind: p
+  de: Aber ihr Kommunisten wollt die Weibergemeinschaft einführen, schreit uns die ganze Bourgeoisie im Chor entgegen.
+  en: But you Communists would introduce community of women, screams the bourgeoisie in chorus.
+  modern: '"But you communists want to introduce community of women," screams the entire bourgeoisie in chorus.'
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.47.1
+  kind: p
+  de: Der Bourgeois sieht in seiner Frau ein bloßes Produktionsinstrument.
+  en: The bourgeois sees his wife a mere instrument of production.
+  modern: The bourgeois sees his wife as nothing more than a tool of production.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.47.2
+  kind: p
+  de: Er hört, daß die Produktionsinstrumente gemeinschaftlich ausgebeutet werden sollen, und kann sich natürlich nichts anderes denken, als daß das Los der Gemeinschaftlichkeit die Weiber gleichfalls treffen wird.
+  en: He hears that the instruments of production are to be exploited in common, and, naturally, can come to no other conclusion that the lot of being common to all will likewise fall to the women.
+  modern: He hears that the tools of production are to be held in common, and naturally concludes that the status of "held in common" must apply to women too.
+  modern_status: seed
+  notes: ''
+  mew_page: '478'
+- id: II.48.1
+  kind: p
+  de: Er ahnt nicht, daß es sich eben darum handelt, die Stellung der Weiber als bloßer Produktionsinstrumente aufzuheben.
+  en: He has not even a suspicion that the real point aimed at is to do away with the status of women as mere instruments of production.
+  modern: He does not even suspect that the real point is to do away with the status of women as mere tools of production.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.49.1
+  kind: p
+  de: Übrigens ist nichts lächerlicher als das hochmoralische Entsetzen unserer Bourgeois über die angebliche offizielle Weibergemeinschaft der Kommunisten.
+  en: For the rest, nothing is more ridiculous than the virtuous indignation of our bourgeois at the community of women which, they pretend, is to be openly and officially established by the Communists.
+  modern: And really, nothing is more ridiculous than the outraged virtue of our bourgeois about an "official community of women" that the communists are supposedly about to introduce.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.49.2
+  kind: p
+  de: Die Kommunisten brauchen die Weibergemeinschaft nicht einzuführen, sie hat fast immer existiert.
+  en: The Communists have no need to introduce community of women; it has existed almost from time immemorial.
+  modern: Communists have no need to introduce a community of women. It has existed for almost as long as history.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.50.1
+  kind: p
+  de: Unsre Bourgeois, nicht zufrieden damit, daß ihnen die Weiber und Töchter ihrer Proletarier zur Verfügung stehen, von der offiziellen Prostitution gar nicht zu sprechen, finden ein Hauptvergnügen darin, ihre Ehefrauen wechselseitig zu verführen.
+  en: Our bourgeois, not content with having wives and daughters of their proletarians at their disposal, not to speak of common prostitutes, take the greatest pleasure in seducing each other's wives.
+  modern: Our bourgeois, not satisfied with having the wives and daughters of their workers available to them, not to mention common prostitutes, take the greatest pleasure in seducing each other's wives.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.51.1
+  kind: p
+  de: Die bürgerliche Ehe ist in Wirklichkeit die Gemeinschaft der Ehefrauen.
+  en: Bourgeois marriage is, in reality, a system of wives in common and thus, at the most, what the Communists might possibly be reproached with is that they desire to introduce, in substitution for a hypocritically concealed, an openly legalised community of women.
+  modern: Bourgeois marriage is in reality a system of wives held in common. So at most, what the communists could be accused of is wanting to introduce, in place of a hidden and hypocritical community of women, an openly legal one.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: II.51.2
+  kind: p
+  de: Man könnte höchstens den Kommunisten vorwerfen, daß sie an Stelle einer heuchlerisch versteckten eine offizielle, offenherzige Weibergemeinschaft einführen wollten.
+  en: ''
+  joined_to: II.51.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  de_variants:
+  - ref: T43
+    editions: 1848, 1872
+    reading: 'eingefügt: der'
+    base_text: Stelle einer heuchlerisch versteckten eine …
+  - ref: T44
+    editions: '1848'
+    reading: wollen
+    base_text: . …
+  mew_page: '479'
+- id: II.51.3
+  kind: p
+  de: Es versteht sich übrigens von selbst, daß mit Aufhebung der jetzigen Produktionsverhältnisse auch die aus ihnen hervorgehende Weibergemeinschaft, d.h. die offizielle und nichtoffizielle Prostitution, verschwindet.
+  en: For the rest, it is self-evident that the abolition of the present system of production must bring with it the abolition of the community of women springing from that system, i.e., of prostitution both public and private.
+  modern: Beyond that, it is obvious that with the abolition of the current system of production, the community of women that grows out of that system - that is, prostitution, both public and private - will also disappear.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.52.1
+  kind: p
+  de: Den Kommunisten ist ferner vorgeworfen worden, sie wollten das Vaterland, die Nationalität abschaffen.
+  en: The Communists are further reproached with desiring to abolish countries and nationality.
+  modern: Communists are also accused of wanting to abolish countries and nationalities.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.52.2
+  kind: p
+  de: Die Arbeiter haben kein Vaterland.
+  en: The working men have no country.
+  modern: The workers have no country.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.52.3
+  kind: p
+  de: Man kann ihnen nicht nehmen, was sie nicht haben.
+  en: We cannot take from them what they have not got.
+  modern: You cannot take from them what they do not have.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.52.4
+  kind: p
+  de: Indem das Proletariat zunächst sich die politische Herrschaft erobern, sich zur nationalen Klasse erheben, sich selbst als Nation konstituieren muß, ist es selbst noch national, wenn auch keineswegs im Sinne der Bourgeoisie.
+  en: Since the proletariat must first of all acquire political supremacy, must rise to be the leading class of the nation, must constitute itself the nation, it is so far, itself national, though not in the bourgeois sense of the word.
+  modern: Since the proletariat first has to gain political supremacy, rise to be the leading class of the nation, and constitute itself as the nation, it is in that sense still national - though not in the bourgeois sense of the word.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T45
+    editions: '1888'
+    reading: zur führenden Klasse der Nation
+    base_text: erheben, sich selbst als Nation …
+  mew_page: '479'
+- id: II.53.1
+  kind: p
+  de: Die nationalen Absonderungen und Gegensätze der Völker verschwinden mehr und mehr schon mit der Entwicklung der Bourgeoisie, mit der Handelsfreiheit, dem Weltmarkt, der Gleichförmigkeit der industriellen Produktion und der ihr entsprechenden Lebensverhältnisse.
+  en: National differences and antagonism between peoples are daily more and more vanishing, owing to the development of the bourgeoisie, to freedom of commerce, to the world market, to uniformity in the mode of production and in the conditions of life corresponding thereto.
+  modern: National differences and hostilities between peoples are fading away more and more every day - due to the development of the bourgeoisie, to freedom of commerce, to the world market, to the uniformity of production and the living conditions that come with it.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.54.1
+  kind: p
+  de: Die Herrschaft des Proletariats wird sie noch mehr verschwinden machen.
+  en: The supremacy of the proletariat will cause them to vanish still faster.
+  modern: The rise of the proletariat will make them vanish even faster.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.54.2
+  kind: p
+  de: Vereinigte Aktion, wenigstens der zivilisierten Länder, ist eine der ersten Bedingungen seiner Befreiung.
+  en: United action, of the leading civilised countries at least, is one of the first conditions for the emancipation of the proletariat.
+  modern: United action, at least of the leading industrialized countries, is one of the first conditions for the emancipation of the proletariat.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.55.1
+  kind: p
+  de: In dem Maße, wie die Exploitation des einen Individuums durch das andere aufgehoben wird, wird die Exploitation einer Nation durch die andere aufgehoben.
+  en: In proportion as the exploitation of one individual by another will also be put an end to, the exploitation of one nation by another will also be put an end to.
+  modern: As the exploitation of one individual by another is ended, the exploitation of one nation by another will also be ended.
+  modern_status: seed
+  notes: ''
+  mew_page: '479'
+- id: II.55.2
+  kind: p
+  de: Mit dem Gegensatz der Klassen im Innern der Nation fällt die feindliche Stellung der Nationen gegeneinander.
+  en: In proportion as the antagonism between classes within the nation vanishes, the hostility of one nation to another will come to an end.
+  modern: As the antagonism between classes inside a nation fades, the hostility of one nation toward another will come to an end.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T46
+    editions: '1848'
+    reading: Nationen
+    base_text: fällt die feindliche Stellung der …
+  mew_page: '479'
+- id: II.56.1
+  kind: p
+  de: Die Anklagen gegen den Kommunismus, die von religiösen, philosophischen und ideologischen Gesichtspunkten überhaupt erhoben werden, verdienen keine ausführlichere Erörterung.
+  en: The charges against Communism made from a religious, a philosophical and, generally, from an ideological standpoint, are not deserving of serious examination.
+  modern: The charges leveled at communism from a religious, philosophical, or generally ideological standpoint are not worth serious examination.
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.57.1
+  kind: p
+  de: Bedarf es tiefer Einsicht, um zu begreifen, daß mit den Lebensverhältnissen der Menschen, mit ihren gesellschaftlichen Beziehungen, mit ihrem gesellschaftlichen Dasein, auch ihre Vorstellungen, Anschauungen und Begriffe, mit einem Worte auch ihr Bewußtsein sich ändert?
+  en: Does it require deep intuition to comprehend that man's ideas, views, and conception, in one word, man's consciousness, changes with every change in the conditions of his material existence, in his social relations and in his social life?
+  modern: Does it really take deep insight to understand that people's ideas, views, and conceptions - in a word, their consciousness - change along with every change in the material conditions of their existence, in their social relationships, and in their social life?
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.58.1
+  kind: p
+  de: Was beweist die Geschichte der Ideen anders, als daß die geistige Produktion sich mit der materiellen umgestaltet?
+  en: What else does the history of ideas prove, than that intellectual production changes its character in proportion as material production is changed?
+  modern: What else does the history of ideas prove, except that intellectual production changes as material production changes?
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.58.2
+  kind: p
+  de: Die herrschenden Ideen einer Zeit waren stets nur die Ideen der herrschenden Klasse.
+  en: The ruling ideas of each age have ever been the ideas of its ruling class.
+  modern: The ruling ideas of each age have always been the ideas of its ruling class.
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.59.1
+  kind: p
+  de: Man spricht von Ideen, welche eine ganze Gesellschaft revolutionieren; man spricht damit nur die Tatsache aus, daß sich innerhalb der alten Gesellschaft die Elemente einer neuen gebildet haben, daß mit der Auflösung der alten Lebensverhältnisse die Auflösung der alten Ideen gleichen Schritt hält.
+  en: When people speak of the ideas that revolutionise society, they do but express that fact that within the old society the elements of a new one have been created, and that the dissolution of the old ideas keeps even pace with the dissolution of the old conditions of existence.
+  modern: When people talk about ideas that revolutionize society, they are just expressing the fact that inside the old society the elements of a new one have been created, and that the dissolution of the old ideas keeps pace with the dissolution of the old conditions of existence.
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.60.1
+  kind: p
+  de: Als die alte Welt im Untergehen begriffen war, wurden die alten Religionen von der christlichen Religion besiegt.
+  en: When the ancient world was in its last throes, the ancient religions were overcome by Christianity.
+  modern: When the ancient world was in its death throes, the ancient religions were overcome by Christianity.
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.60.2
+  kind: p
+  de: Als die christlichen Ideen im 18. Jahrhundert den Aufklärungsideen unterlagen, rang die feudale Gesellschaft ihren Todeskampf mit der damals revolutionären Bourgeoisie.
+  en: When Christian ideas succumbed in the 18th century to rationalist ideas, feudal society fought its death battle with the then revolutionary bourgeoisie.
+  modern: When Christian ideas were overcome in the 18th century by rationalist ideas, feudal society was fighting its last battle against the then-revolutionary bourgeoisie.
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.60.3
+  kind: p
+  de: Die Ideen der Gewissens- und Religionsfreiheit sprachen nur die Herrschaft der freien Konkurrenz auf dem Gebiete des Wissens aus.
+  en: The ideas of religious liberty and freedom of conscience merely gave expression to the sway of free competition within the domain of knowledge.
+  modern: The ideas of religious liberty and freedom of conscience were just the expression of the rule of free competition in the realm of knowledge.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T47
+    editions: '1848'
+    reading: Gewissens
+    base_text: aus. …
+  mew_page: '480'
+- id: II.61.1
+  kind: p
+  de: '"Aber", wird man sagen, "religiöse, moralische, philosophische, politische, rechtliche Ideen usw. modifizieren sich allerdings im Lauf der geschichtlichen Entwicklung.'
+  en: '"Undoubtedly," it will be said, "religious, moral, philosophical, and juridical ideas have been modified in the course of historical development.'
+  modern: '"Undoubtedly," it will be said, "religious, moral, philosophical, and legal ideas have been modified over the course of historical development.'
+  modern_status: seed
+  notes: II.61.1 to II.61.4 voice an objector, in quotation marks. The authors' reply starts at II.62.1.
+  mew_page: '480'
+- id: II.61.2
+  kind: p
+  de: Die Religion, die Moral, die Philosophie, die Politik, das Recht erhielten sich stets in diesem Wechsel.
+  en: But religion, morality, philosophy, political science, and law, constantly survived this change."
+  modern: But religion, morality, philosophy, political science, and law always survived those changes."
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.61.3
+  kind: p
+  de: Es gibt zudem ewige Wahrheiten, wie Freiheit, Gerechtigkeit usw., die allen gesellschaftlichen Zuständen gemeinsam sind.
+  en: '"There are, besides, eternal truths, such as Freedom, Justice, etc., that are common to all states of society.'
+  modern: '"There are, besides, eternal truths - Freedom, Justice, and so on - that are common to every state of society.'
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.61.4
+  kind: p
+  de: Der Kommunismus aber schafft die ewigen Wahrheiten ab, er schafft die Religion ab, die Moral, statt sie neu zu gestalten, er widerspricht also allen bisherigen geschichtlichen Entwicklungen."
+  en: But Communism abolishes eternal truths, it abolishes all religion, and all morality, instead of constituting them on a new basis; it therefore acts in contradiction to all past historical experience."
+  modern: But communism abolishes eternal truths. It abolishes all religion and all morality instead of reconstituting them on a new basis. So it acts in contradiction to all past historical experience."
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.62.1
+  kind: p
+  de: Worauf reduziert sich diese Anklage?
+  en: What does this accusation reduce itself to?
+  modern: What does this accusation come down to?
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.62.2
+  kind: p
+  de: Die Geschichte der ganzen bisherigen Gesellschaft bewegte sich in Klassengegensätzen, die in den verschiedensten Epochen verschieden gestaltet waren.
+  en: The history of all past society has consisted in the development of class antagonisms, antagonisms that assumed different forms at different epochs.
+  modern: The history of all past society has been the history of developing class antagonisms - antagonisms that took different forms in different periods.
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.62.3
+  kind: p
+  de: Welche Form sie aber auch immer angenommen, die Ausbeutung des einen Teils der Gesellschaft durch den andern ist eine allen vergangenen Jahrhunderten gemeinsame Tatsache.
+  en: But whatever form they may have taken, one fact is common to all past ages, viz., the exploitation of one part of society by the other.
+  modern: 'But whatever form they took, one fact is common to every past age: the exploitation of one part of society by another.'
+  modern_status: seed
+  notes: ''
+  mew_page: '480'
+- id: II.62.4
+  kind: p
+  de: Kein Wunder daher, daß das gesellschaftliche Bewußtsein aller Jahrhunderte, aller Mannigfaltigkeit und Verschiedenheit zum Trotz, in gewissen gemeinsamen Formen sich bewegt, in Bewußtseinsformen, die nur mit dem gänzlichen Verschwinden des Klassengegensatzes sich vollständig auflösen.
+  en: No wonder, then, that the social consciousness of past ages, despite all the multiplicity and variety it displays, moves within certain common forms, or general ideas, which cannot completely vanish except with the total disappearance of class antagonisms.
+  modern: No wonder, then, that the social consciousness of past ages, despite all its variety, moves within certain common frames, or general ideas, that cannot fully disappear except with the total disappearance of class antagonisms.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T48
+    editions: 1848, 1872, 1883
+    reading: Formen
+    base_text: Bewußtseinsformen, die nur mit dem …
+  mew_page: 480-481
+- id: II.63.1
+  kind: p
+  de: Die kommunistische Revolution ist das radikalste Brechen mit den überlieferten Eigentumsverhältnissen; kein Wunder, daß in ihrem Entwicklungsgange am radikalsten mit den überlieferten Ideen gebrochen wird.
+  en: The Communist revolution is the most radical rupture with traditional property relations; no wonder that its development involved the most radical rupture with traditional ideas.
+  modern: The communist revolution is the most radical break with traditional property relations. No wonder its development involves the most radical break with traditional ideas.
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+- id: II.64.1
+  kind: p
+  de: Doch lassen wir die Einwürfe der Bourgeoisie gegen den Kommunismus.
+  en: But let us have done with the bourgeois objections to Communism.
+  modern: But enough with the bourgeois objections to communism.
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+- id: II.65.1
+  kind: p
+  de: Wir sahen schon oben, daß der erste Schritt in der Arbeiterrevolution die Erhebung des Proletariats zur herrschenden Klasse, die Erkämpfung der Demokratie ist.
+  en: We have seen above, that the first step in the revolution by the working class is to raise the proletariat to the position of ruling class to win the battle of democracy.
+  modern: We have seen that the first step in the revolution by the working class is to raise the proletariat to the position of ruling class - to win the battle of democracy.
+  modern_status: seed
+  notes: 'See glossary: Erkämpfung der Demokratie, and docs/cruxes.md.'
+  mew_page: '481'
+- id: II.66.1
+  kind: p
+  de: Das Proletariat wird seine politische Herrschaft dazu benutzen, der Bourgeoisie nach und nach alles Kapital zu entreißen, alle Produktionsinstrumente in den Händen des Staats, d.h. des als herrschende Klasse organisierten Proletariats, zu zentralisieren und die Masse der Produktionskräfte möglichst rasch zu vermehren.
+  en: The proletariat will use its political supremacy to wrest, by degree, all capital from the bourgeoisie, to centralise all instruments of production in the hands of the State, i.e., of the proletariat organised as the ruling class; and to increase the total productive forces as rapidly as possible.
+  modern: The proletariat will use its political supremacy to take, step by step, all capital from the bourgeoisie, to centralize all tools of production in the hands of the state - that is, in the hands of the proletariat organized as the ruling class - and to increase the total productive forces as quickly as possible.
+  modern_status: seed
+  notes: Read with P1872.2.6 (the Commune and the ready-made state machinery). See docs/cruxes.md.
+  mew_page: '481'
+- id: II.67.1
+  kind: p
+  de: Es kann dies natürlich zunächst nur geschehen vermittelst despotischer Eingriffe in das Eigentumsrecht und in die bürgerlichen Produktionsverhältnisse, durch Maßregeln also, die ökonomisch unzureichend und unhaltbar erscheinen, die aber im Lauf der Bewegung über sich selbst hinaustreiben und als Mittel zur Umwälzung der ganzen Produktionsweise unvermeidlich sind.
+  en: Of course, in the beginning, this cannot be effected except by means of despotic inroads on the rights of property, and on the conditions of bourgeois production; by means of measures, therefore, which appear economically insufficient and untenable, but which, in the course of the movement, outstrip themselves, necessitate further inroads upon the old social order, and are unavoidable as a means of entirely revolutionising the mode of production.
+  modern: Of course, in the beginning, this can only be done through forceful attacks on property rights and on the conditions of bourgeois production - through measures that will seem economically insufficient and unsustainable, but which in the course of the movement outgrow themselves, require further attacks on the old social order, and become unavoidable as a way of fully revolutionizing the mode of production.
+  modern_status: seed
+  notes: The 1888 English adds 'necessitate further inroads upon the old social order', which is not in the German.
+  mew_page: '481'
+- id: II.68.1
+  kind: p
+  de: Diese Maßregeln werden natürlich je nach den verschiedenen Ländern verschieden sein.
+  en: These measures will, of course, be different in different countries.
+  modern: These measures will of course be different in different countries.
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+- id: II.69.1
+  kind: p
+  de: 'Für die fortgeschrittensten Länder werden jedoch die folgenden ziemlich allgemein in Anwendung kommen können:'
+  en: Nevertheless, in most advanced countries, the following will be pretty generally applicable.
+  modern: 'Still, in the most advanced countries the following will be pretty generally applicable:'
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+- id: II.70.1
+  kind: p
+  de: 1. Expropriation des Grundeigentums und Verwendung der Grundrente zu Staatsausgaben.
+  en: 1. Abolition of property in land and application of all rents of land to public purposes.
+  modern: 1. Abolition of private ownership of land, and use of all rents from land for public purposes.
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+- id: II.71.1
+  kind: p
+  de: 2. Starke Progressivsteuer.
+  en: 2. A heavy progressive or graduated income tax.
+  modern: 2. A heavy progressive or graduated income tax.
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+- id: II.72.1
+  kind: p
+  de: 3. Abschaffung des Erbrechts.
+  en: 3. Abolition of all rights of inheritance.
+  modern: 3. Abolition of all right of inheritance.
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+- id: II.73.1
+  kind: p
+  de: 4. Konfiskation des Eigentums aller Emigranten und Rebellen.
+  en: 4. Confiscation of the property of all emigrants and rebels.
+  modern: 4. Confiscation of the property of all emigrants and rebels.
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+- id: II.74.1
+  kind: p
+  de: 5. Zentralisation des Kredits in den Händen des Staats durch eine Nationalbank mit Staatskapital und ausschließlichem Monopol.
+  en: 5. Centralisation of credit in the hands of the state, by means of a national bank with State capital and an exclusive monopoly.
+  modern: 5. Centralization of credit in the hands of the state, through a national bank with state capital and an exclusive monopoly.
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+- id: II.75.1
+  kind: p
+  de: 6. Zentralisation des Transportwesens in den Händen des Staats.
+  en: 6. Centralisation of the means of communication and transport in the hands of the State.
+  modern: 6. Centralization of the means of communication and transport in the hands of the state.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T49
+    editions: '1848'
+    reading: alles
+    base_text: Transportwesens in den Händen des …
+  mew_page: '481'
+- id: II.76.1
+  kind: p
+  de: 7. Vermehrung der Nationalfabriken, Produktionsinstrumente, Urbarmachung und Verbesserung aller Ländereien nach einem gemeinschaftlichen Plan.
+  en: 7. Extension of factories and instruments of production owned by the State; the bringing into cultivation of waste-lands, and the improvement of the soil generally in accordance with a common plan.
+  modern: 7. Extension of factories and tools of production owned by the state. Bringing unused lands under cultivation. Improvement of the soil in general according to a common plan.
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+- id: II.77.1
+  kind: p
+  de: 8. Gleicher Arbeitszwang für alle, Errichtung industrieller Armeen, besonders für den Ackerbau.
+  en: 8. Equal liability of all to work. Establishment of industrial armies, especially for agriculture.
+  modern: 8. Equal obligation of all to labor. Establishment of industrial armies, especially for agriculture.
+  modern_status: seed
+  notes: ''
+  mew_page: '481'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.78.1
+  kind: p
+  de: 9. Vereinigung des Betriebs von Ackerbau und Industrie, Hinwirken auf die allmähliche Beseitigung des Unterschieds von Stadt und Land.
+  en: 9. Combination of agriculture with manufacturing industries; gradual abolition of all the distinction between town and country by a more equable distribution of the populace over the country.
+  modern: 9. Combination of agriculture with manufacturing. Gradual abolition of the distinction between town and countryside, through a more even distribution of the population across the country.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T50
+    editions: '1848'
+    reading: Gegensatzes
+    base_text: von Stadt und Land. …
+  mew_page: '481'
+- id: II.79.1
+  kind: p
+  de: 10. Öffentliche und unentgeltliche Erziehung aller Kinder.
+  en: 10. Free education for all children in public schools.
+  modern: 10. Free education for all children in public schools.
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: II.79.2
+  kind: p
+  de: Beseitigung der Fabrikarbeit der Kinder in ihrer heutigen Form.
+  en: Abolition of children's factory labour in its present form.
+  modern: Abolition of child factory labor in its current form.
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: II.79.3
+  kind: p
+  de: Vereinigung der Erziehung mit der materiellen Produktion usw.
+  en: Combination of education with industrial production, &c, &c.
+  modern: Combination of education with industrial production, and so on.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T51
+    editions: 1848, 1872, 1883
+    reading: usw., usw.
+    base_text: ' …'
+  mew_page: '482'
+- id: II.80.1
+  kind: p
+  de: Sind im Laufe der Entwicklung die Klassenunterschiede verschwunden und ist alle Produktion in den Händen der assoziierten Individuen konzentriert, so verliert die öffentliche Gewalt den politischen Charakter.
+  en: When, in the course of development, class distinctions have disappeared, and all production has been concentrated in the hands of a vast association of the whole nation, the public power will lose its political character.
+  modern: When, in the course of development, class distinctions have disappeared, and all production has been concentrated in the hands of a vast association of the whole nation, the public power will lose its political character.
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: II.80.2
+  kind: p
+  de: Die politische Gewalt im eigentlichen Sinne ist die organisierte Gewalt einer Klasse zur Unterdrückung einer andern.
+  en: Political power, properly so called, is merely the organised power of one class for oppressing another.
+  modern: Political power, properly speaking, is just the organized power of one class for oppressing another.
+  modern_status: seed
+  notes: ''
+  mew_page: '482'
+- id: II.80.3
+  kind: p
+  de: Wenn das Proletariat im Kampfe gegen die Bourgeoisie sich notwendig zur Klasse vereint, durch eine Revolution sich zur herrschenden Klasse macht und als herrschende Klasse gewaltsam die alten Produktionsverhältnisse aufhebt, so hebt es mit diesen Produktionsverhältnissen die Existenzbedingungen des Klassengegensatzes, die Klassen überhaupt, und damit seine eigene Herrschaft als Klasse auf.
+  en: If the proletariat during its contest with the bourgeoisie is compelled, by the force of circumstances, to organise itself as a class, if, by means of a revolution, it makes itself the ruling class, and, as such, sweeps away by force the old conditions of production, then it will, along with these conditions, have swept away the conditions for the existence of class antagonisms and of classes generally, and will thereby have abolished its own supremacy as a class.
+  modern: If the proletariat, during its fight with the bourgeoisie, is forced by circumstances to organize itself as a class, and if through a revolution it makes itself the ruling class and, as the ruling class, sweeps away by force the old conditions of production, then, along with those conditions, it will have swept away the conditions for the existence of class antagonism and of classes in general - and will thereby have abolished its own supremacy as a class.
+  modern_status: seed
+  notes: ''
+  de_variants:
+  - ref: T52
+    editions: '1848'
+    reading: der
+    base_text: Klassen überhaupt, und damit seine …
+  mew_page: '482'
+- id: II.81.1
+  kind: p
+  de: An die Stelle der alten bürgerlichen Gesellschaft mit ihren Klassen und Klassengegensätzen tritt eine Assoziation, worin die freie Entwicklung eines jeden die Bedingung für die freie Entwicklung aller ist.
+  en: In place of the old bourgeois society, with its classes and class antagonisms, we shall have an association, in which the free development of each is the condition for the free development of all.
+  modern: In place of the old bourgeois society, with its classes and class antagonisms, we will have an association in which the free development of each is the condition for the free development of all.
+  modern_status: seed
+  notes: One online copy of MEW drops 'die Bedingung für' from this sentence; see SOURCES.md.
+  mew_page: '482'

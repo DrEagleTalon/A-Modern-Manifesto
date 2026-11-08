@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you cite this edition, cite the verse number (for example CM I.12.3) and this release."
+title: "The Communist Manifesto: A Modern Scholarly Translation (parallel German, 1888 English and modern English)"
+type: dataset
+version: 0.1.0
+date-released: 2026-11-07
+license: CC-BY-SA-4.0
+authors:
+  - name: "Yusuf Talan Saunders and contributors"
+repository-code: "https://github.com/DrEagleTalon/A-Modern-Manifesto"
+references:
+  - type: book
+    title: "Manifest der Kommunistischen Partei"
+    authors:
+      - family-names: Marx
+        given-names: Karl
+      - family-names: Engels
+        given-names: Friedrich
+    year: 1848

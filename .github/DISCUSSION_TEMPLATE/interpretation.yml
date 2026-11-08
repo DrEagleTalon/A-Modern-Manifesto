@@ -1,0 +1,34 @@
+title: "[VERSE] "
+labels: ["interpretation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Title the thread with the verse number, for example `[II.66.1] "in the hands of the State"`.
+        The goal is not to win but to record the serious readings of a passage on the verse itself.
+        Argue with positions, not people.
+  - type: input
+    id: verses
+    attributes:
+      label: Verse number(s)
+    validations:
+      required: true
+  - type: textarea
+    id: reading
+    attributes:
+      label: The reading you are putting forward
+      description: How you read the passage, and how that would gloss or render it.
+    validations:
+      required: true
+  - type: input
+    id: tradition
+    attributes:
+      label: Tradition or school (as its own adherents name it)
+      placeholder: e.g. council communist, Marxist-Leninist, anarchist communist, Islamic socialist
+  - type: textarea
+    id: support
+    attributes:
+      label: Support
+      description: The German wording, other verses, other works by Marx or Engels, scholarship. Cite sources.
+    validations:
+      required: true

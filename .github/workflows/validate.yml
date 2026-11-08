@@ -1,0 +1,33 @@
+name: validate and build
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Validate verse files
+        run: python scripts/validate.py
+      - name: Build reader, CSV, workbook and tables
+        run: python scripts/build.py
+      - name: Fail if dist/ is out of date
+        if: github.event_name == 'pull_request'
+        run: |
+          git diff --quiet -- dist/ || {
+            echo "::warning::dist/ differs from the YAML. Run python scripts/build.py and commit, or let a maintainer rebuild on merge."
+          }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist/

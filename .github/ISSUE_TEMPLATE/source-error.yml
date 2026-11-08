@@ -1,0 +1,31 @@
+name: Source or alignment error
+description: A wrong word in the German or 1888 English, a bad sentence split, or a misaligned verse
+title: "[VERSE] source: "
+labels: ["source"]
+body:
+  - type: input
+    id: verses
+    attributes:
+      label: Verse number(s)
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong
+      options:
+        - German text differs from the printed edition
+        - 1888 English differs from the printed edition
+        - Sentence split in the wrong place
+        - German and English are matched to the wrong verse
+        - Footnote, variant or page number wrong
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Edition, page, and a link or photo of the facsimile if you have one. Changes to the `de` or `en` fields need this.
+    validations:
+      required: true

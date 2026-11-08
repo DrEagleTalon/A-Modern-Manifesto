@@ -1,0 +1,209 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: N
+title_de: Anmerkungen von Engels
+title_en: Notes by Engels
+author: Friedrich Engels
+date: 1888/1890
+original_language: en (1888 notes) / de (1890 notes)
+anchor_language: de
+source_de: MEW 4 footnotes. Notes marked 'zur englischen Ausgabe von 1888' are MEW's German translation of Engels's English
+source_en: Marxists Internet Archive. 1890 notes in English are later translations
+verses:
+- id: N1.1.1
+  kind: note
+  de: Unter Bourgeoisie wird die Klasse der modernen Kapitalisten verstanden, die Besitzer der gesellschaftlichen Produktionsmittel sind und Lohnarbeit ausnutzen.
+  en: By bourgeoisie is meant the class of modern capitalists, owners of the means of social production and employers of wage labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N1.1.2
+  kind: note
+  de: Unter Proletariat die Klasse der modernen Lohnarbeiter, die, da sie keine eigenen Produktionsmittel besitzen, darauf angewiesen sind, ihre Arbeitskraft zu verkaufen, um leben zu können.
+  en: By proletariat, the class of modern wage labourers who, having no means of production of their own, are reduced to selling their labour power in order to live.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N2.1.1
+  kind: note
+  de: Das heißt, genau gesprochen, die schriftlich überlieferte Geschichte.
+  en: That is, all written history.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N2.1.2
+  kind: note
+  de: 1847 war die Vorgeschichte der Gesellschaft, die gesellschaftliche Organisation, die aller niedergeschriebenen Geschichte vorausging, noch so gut wie unbekannt.
+  en: In 1847, the pre-history of society, the social organisation existing previous to recorded history, all but unknown.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N2.1.3
+  kind: note
+  de: Seitdem hat Haxthausen das Gemeineigentum am Boden in Rußland entdeckt, Maurer hat es nachgewiesen als die gesellschaftliche Grundlage, wovon alle deutschen Stämme geschichtlich ausgingen, und allmählich fand man, daß Dorfgemeinden mit gemeinsamem Bodenbesitz die Urform der Gesellschaft waren von Indien bis Irland.
+  en: Since then, August von Haxthausen (1792-1866) discovered common ownership of land in Russia, Georg Ludwig von Maurer proved it to be the social foundation from which all Teutonic races started in history, and, by and by, village communities were found to be, or to have been, the primitive form of society everywhere from India to Ireland.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N2.1.4
+  kind: note
+  de: Schließlich wurde die innere Organisation dieser urwüchsigen kommunistischen Gesellschaft in ihrer typischen Form bloßgelegt durch Morgans krönende Entdeckung der wahren Natur der Gens und ihrer Stellung im Stamm.
+  en: The inner organisation of this primitive communistic society was laid bare, in its typical form, by Lewis Henry Morgan's (1818-1861) crowning discovery of the true nature of the gens and its relation to the tribe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N2.1.5
+  kind: note
+  de: Mit der Auflösung dieser ursprünglichen Gemeinwesen beginnt die Spaltung der Gesellschaft in besondre und schließlich einander entgegengesetzte Klassen.
+  en: With the dissolution of the primeval communities, society begins to be differentiated into separate and finally antagonistic classes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N2.1.6
+  kind: note
+  de: Ich habe versucht, diesen Auflösungsprozeß in "Der Ursprung der Familie, des Privateigenthums und des Staates" zu verfolgen; 2. Auflage, Stuttgart 1886.
+  en: I have attempted to retrace this dissolution in The Origin of the Family, Private Property, and the State, second edition, Stuttgart, 1886.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N3.1.1
+  kind: note
+  de: '"Kommune" nannten sich die in Frankreich entstehenden Städte, sogar bevor sie ihren feudalen Herrn und Meistern lokale Selbstverwaltung und politische Rechte als "Dritter Stand" abzuringen vermochten.'
+  en: '"Commune" was the name taken in France by the nascent towns even before they had conquered from their feudal lords and masters local self-government and political rights as the "Third Estate."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N3.1.2
+  kind: note
+  de: Allgemein gesprochen haben wir hier als typisches Land für die ökonomische Entwicklung der Bourgeoisie England, für ihre politische Entwicklung Frankreich angeführt.
+  en: Generally speaking, for the economical development of the bourgeoisie, England is here taken as the typical country, for its political development, France.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N3.2.1
+  kind: note
+  de: So nannten die Städtebürger Italiens und Frankreichs ihr städtisches Gemeinwesen, nachdem sie die ersten Selbstverwaltungsrechte ihren Feudalherren abgekauft oder abgezwungen hatten.
+  en: This was the name given their urban communities by the townsmen of Italy and France, after they had purchased or conquered their initial rights of self-government from their feudal lords.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur deutschen Ausgabe von 1890
+- id: N4.1.1
+  kind: note
+  de: Gemeint ist nicht die englische Restaurationszeit 1660-1689, sondern die französische Restaurationszeit 1814-1830.
+  en: Not the English Restoration (1660-1689), but the French Restoration (1814-1830).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N5.1.1
+  kind: note
+  de: Dies bezieht sich hauptsächlich auf Deutschland, wo der Landadel und das Junkertum einen großen Teil ihrer Güter auf eigene Rechnung durch ihre Verwalter bewirtschaften lassen und daneben noch Großproduzenten von Rübenzucker und Kartoffelschnaps sind.
+  en: This applies chiefly to Germany, where the landed aristocracy and squirearchy have large portions of their estates cultivated for their own account by stewards, and are, moreover, extensive beetroot-sugar manufacturers and distillers of potato spirits.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe 1888
+- id: N5.1.2
+  kind: note
+  de: Die reicheren englischen Aristokraten sind noch nicht so weit heruntergekommen; aber auch sie wissen, wie man das Sinken der Rente wettmachen kann durch die Hergabe ihres Namens an mehr oder weniger zweifelhafte Gründer von Aktiengesellschaften.
+  en: The wealthier British aristocracy are, as yet, rather above that; but they, too, know how to make up for declining rents by lending their names to floaters or more or less shady joint-stock companies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe 1888
+- id: N6.1.1
+  kind: note
+  de: Der Revolutionssturm von 1848 hat diese gesamte schäbige Richtung weggefegt und ihren Trägern die Lust benommen, noch weiter in Sozialismus zu machen.
+  en: The revolutionary storm of 1848 swept away this whole shabby tendency and cured its protagonists of the desire to dabble in socialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur deutschen Ausgabe von 1890
+- id: N6.1.2
+  kind: note
+  de: Hauptvertreter und klassischer Typus dieser Richtung ist Herr Karl Grün.
+  en: The chief representative and classical type of this tendency is Mr Karl Gruen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur deutschen Ausgabe von 1890
+- id: N7.1.1
+  kind: note
+  de: Phalanstere war die Bezeichnung für die von Charles Fourier geplanten sozialistischen Kolonien; Ikarien nannte Cabet seine Utopie und später seine kommunistische Kolonie in Amerika.
+  en: Phalanstéres were Socialist colonies on the plan of Charles Fourier; Icaria was the name given by Cabet to his Utopia and, later on, to his American Communist colony.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N7.2.1
+  kind: note
+  de: Home-Kolonien (Kolonien im Inland) nennt Owen seine kommunistischen Mustergesellschaften.
+  en: '"Home Colonies" were what Owen called his Communist model societies.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur deutschen Ausgabe von 1890
+- id: N7.2.2
+  kind: note
+  de: Phalanstere war der Name der von Fourier geplanten gesellschaftlichen Paläste.
+  en: Phalanstéres was the name of the public palaces planned by Fourier.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur deutschen Ausgabe von 1890
+- id: N7.2.3
+  kind: note
+  de: Ikarien hieß das utopische Phantasieland, dessen kommunistische Einrichtung Cabet schilderte.
+  en: Icaria was the name given to the Utopian land of fancy, whose Communist institutions Cabet portrayed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur deutschen Ausgabe von 1890
+- id: N8.1.1
+  kind: note
+  de: Die Partei, die damals im Parlament von Ledru-Rollin, in der Literatur von Louis Blanc und in der Tagespresse von der "Réforme" vertreten wurde.
+  en: The party then represented in Parliament by Ledru-Rollin, in literature by Louis Blanc, in the daily press by the Réforme.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N8.1.2
+  kind: note
+  de: Der Name "Sozialdemokratie" bedeutete bei diesen ihren Erfindern eine Sektion der demokratischen oder republikanischen Partei mit mehr oder weniger sozialistischer Färbung.
+  en: The name of Social-Democracy signifies, with these its inventors, a section of the Democratic or Republican Party more or less tinged with socialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur englischen Ausgabe von 1888
+- id: N8.2.1
+  kind: note
+  de: Die damals sich sozialistisch-demokratisch nennende Partei in Frankreich war die durch Ledru-Rollin politisch und durch Louis Blanc literarisch vertretene; sie war also himmelweit verschieden von der heutigen deutschen Sozialdemokratie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Anmerkung von Engels zur deutschen Ausgabe von 1890
+  en_note: No English text of this note in the source used
+  align: '1:0'
+  review: true
+  review_reason: 1 de sentence(s) matched to 0 en sentence(s)
+- id: E1.1.1
+  kind: note
+  de: ''
+  en: Guild-master, that is, a full member of a guild, a master within, not a head of a guild.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: Engels, 1888 English Edition
+  en_note: 'English-only note: Engels explains the English word ''guild-master''; the German text needs no note (Zunftbürger)'

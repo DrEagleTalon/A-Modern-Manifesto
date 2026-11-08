@@ -152,3 +152,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Parallel edition: the generated reader, CSV, workbook and tables in dist/ are committed on purpose
+!dist
+!dist/**
+!/dist/site/
