@@ -1,0 +1,145 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q4
+title_original: '4. Frage: Wie ist das Proletariat entstanden?'
+title_en: Question 4
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q4.0.1
+  kind: heading
+  original: '4. Frage: Wie ist das Proletariat entstanden?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.1.1
+  kind: p
+  original: 'Antwort: Das Proletariat ist entstanden durch die industrielle Revolution, welche in der letzten Hälfte des vorigen Jahrhunderts in England vor sich ging und welche sich seitdem in allen zivilisierten Ländern der Welt wiederholt hat.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.1.2
+  kind: p
+  original: Diese industrielle Revolution wurde herbeigeführt durch die Erfindung der Dampfmaschine, der verschiedenen Spinnmaschinen, des mechanischen Webstuhls und einer ganzen Reihe anderer mechanischer Vorrichtungen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.1.3
+  kind: p
+  original: Diese Maschinen, welche sehr teuer waren und also nur von großen Kapitalisten angeschafft werden konnten, veränderten die ganze bisherige Weise der Produktion und verdrängten die bisherigen Arbeiter, indem die Maschinen die Waren wohlfeiler und besser lieferten, als die Arbeiter sie mit ihren unvollkommenen Spinnrädern und Webstühlen herstellen konnten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.2.1
+  kind: p
+  original: Diese Maschinen lieferten dadurch die Industrie gänzlich in die Hände der großen Kapitalisten und machten das wenige Eigentum der Arbeiter (Werkzeuge, Wegstühle usw.) völlig wertlos, so daß die Kapitalisten bald alles in ihre Hände bekamen und die Arbeiter nichts übrigbehielten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.2.2
+  kind: p
+  original: Damit war in der Verfertigung von Kleidungsstoffen das Fabriksystem eingeführt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.2.3
+  kind: p
+  original: '- Als der Anstoß zur Einführung der Maschinerie und des Fabriksystems einmal gegeben war, wurde dieses System auch sehr bald auf alle übrigen Industriezweige, namentlich auf die Zeug- und Buchdruckerei, die Töpferei, die Metallwarenindustrie angewandt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.2.4
+  kind: p
+  original: Die Arbeit wurde immer mehr unter die einzelnen Arbeiter geteilt, so daß der Arbeiter, der früher ein ganzes Stück Arbeit gemacht hatte, jetzt nur einen Teil dieses Stücks machte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.3.1
+  kind: p
+  original: Diese Teilung der Arbeit machte es möglich, daß die Produkte schneller und daher wohlfeiler geliefert werden konnten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.3.2
+  kind: p
+  original: Sie reduzierte die Tätigkeit eines jeden Arbeiters auf einen sehr einfachen, jeden Augenblick wiederholten, mechanischen Handgriff, der nicht nur ebensogut, sondern noch viel besser durch eine Maschine gemacht werden konnte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.3.3
+  kind: p
+  original: Auf diese Weise gerieten alle diese Industriezweige, einer nach dem anderen, unter die Herrschaft der Dampfkraft, der Maschinerie und des Fabriksystems, gerade wie die Spinnerei und Weberei.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.3.4
+  kind: p
+  original: Damit gerieten sie aber zugleich vollständig in die Hände der großen Kapitalisten, und den Arbeitern wurde auch hier der letzte Rest von Selbständigkeit entzogen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.3.5
+  kind: p
+  original: Allmählich gerieten außer der eigentlichen Manufaktur auch die Handwerke mehr und mehr unter die Herrschaft des Fabriksystems, indem auch hier große Kapitalisten durch Anlegung großer Ateliers, bei denen viele Kosten gespart werden und die Arbeit ebenfalls sehr geteilt werden kann, die kleinen Meister mehr und mehr verdrängten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.4.1
+  kind: p
+  original: So sind wir jetzt dahin gekommen, daß in den zivilisierten Ländern fast alle Arbeitszweige fabrikmäßig betrieben werden, daß in fast allen Arbeitszweigen das Handwerk und die Manufaktur durch die große Industrie verdrängt worden sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.4.2
+  kind: p
+  original: '- Dadurch ist der bisherige Mittelstand, besonders die kleinen Handwerksmeister, mehr und mehr ruiniert, die frühere Lage der Arbeiter gänzlich umgewälzt und zwei neue, allmählich alle übrigen verschlingenden Klassen geschaffen worden, nämlich:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.5.1
+  kind: p
+  original: 1. Die Klasse der großen Kapitalisten, welche in allen zivilisierten Ländern schon jetzt fast ausschließlich im Besitz aller Lebensmittel und der zur Erzeugung der Lebensmittel nötigen Rohstoffe und Instrumente (Maschinen, Fabriken) sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.5.2
+  kind: p
+  original: Dies ist die Klasse der Bourgeois oder die Bourgeoisie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.6.1
+  kind: p
+  original: 2. Die Klasse der gänzlich Besitzlosen, welche darauf angewiesen sind, den Bourgeois ihre Arbeit zu verkaufen, um dafür die zu ihrem Unterhalt nötigen Lebensmittel zu erhalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q4.6.2
+  kind: p
+  original: Diese Klasse heißt die Klasse der Proletarier oder das Proletariat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

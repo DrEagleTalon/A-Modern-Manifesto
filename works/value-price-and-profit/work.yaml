@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: value-price-and-profit
+prefix: VPP                       # citation prefix: VPP VII.1.2
+title: Value, Price and Profit
+title_original: Value, Price and Profit
+authors: [Karl Marx]
+year: 1865
+original_language: en
+base_text: "Eleanor Marx's 1898 edition of the paper Marx read in English to the General Council of the International, June 1865"
+order: 30
+columns:
+  original: English original (1865, ed. 1898)
+  en: ""                          # no historical translation: the original is English
+  modern: Modern draft
+status: ready
+rights: Public domain. MIA transcription CC BY-SA. See SOURCES.md.

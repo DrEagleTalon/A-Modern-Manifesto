@@ -1,0 +1,6 @@
+# Fetched 2026-11-08 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+- file: raw/en/gutenberg_23428.txt
+  role: english
+  url: https://raw.githubusercontent.com/GITenberg/The-Conquest-of-Bread_23428/master/23428.txt
+  bytes: 459155
+  sha256: e76d17c1cdbe37a8c3bdb9e924016c1964fb97767fb5e3445521ab0f7e34e214

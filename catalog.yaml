@@ -1,0 +1,315 @@
+# The library's work list. One entry per planned work, in queue order (`priority`, lowest first).
+# scripts/build.py turns this into the "Works" table in README.md; scripts/validate.py checks it.
+#
+# stage: planned     on the list, sources not yet located
+#        sourced     raw files found and listed under `sources` (URLs below), not yet versified
+#        versified   verse files and lock exist in works/<id>/; alignment checks may still be open
+#        ready       SOURCES.md, glossary and cruxes written; open for the modern rewrite
+#        translating modern draft under way (some verses draft or reviewed)
+#        released    modern draft reviewed and released
+# tier:  A original and an English translation both public domain
+#        B original public domain; historical English needs checking or does not exist
+#        C still under copyright: commentary and adaptations only
+#
+# Sources use raw.githubusercontent.com mirrors so automated runs can fetch them:
+#   mlwerke: https://raw.githubusercontent.com/wertform/mlwerke.de/HEAD/me/<file>      (MEW, German)
+#   mia:     https://raw.githubusercontent.com/MARX-EBOOKS/marx-ebooks.github.io/HEAD/<path>  (Marxists Internet Archive)
+#   gutenberg: https://raw.githubusercontent.com/GITenberg/<repo>/master/<n>.txt      (Project Gutenberg)
+
+- id: communist-manifesto
+  prefix: CM
+  title: Manifesto of the Communist Party
+  authors: [Karl Marx, Friedrich Engels]
+  year: 1848
+  original_language: de
+  tier: A
+  priority: 1
+  stage: translating
+
+- id: wage-labour-and-capital
+  prefix: WLC
+  title: Wage Labour and Capital
+  authors: [Karl Marx]
+  year: 1849
+  original_language: de
+  tier: A
+  priority: 2
+  stage: ready
+
+- id: value-price-and-profit
+  prefix: VPP
+  title: Value, Price and Profit
+  authors: [Karl Marx]
+  year: 1865
+  original_language: en
+  tier: A
+  priority: 3
+  stage: ready
+  sources:
+    original: ["mia:en/archive/marx/works/1865/value-price-profit/ (preface, ch01-ch03)"]
+  notes: Written and delivered in English; no translation column. MEW's German is an editorial translation and is left out.
+
+- id: principles-of-communism
+  prefix: PC
+  title: Principles of Communism
+  authors: [Friedrich Engels]
+  year: 1847
+  original_language: de
+  tier: B
+  priority: 4
+  stage: ready
+  sources:
+    original: ["mlwerke:me04/me04_361.htm"]
+  notes: No public-domain English (Sweezy 1952 is protected), so the modern column is translated straight from the German.
+
+- id: iww-preamble
+  prefix: IWW
+  title: Preamble of the Industrial Workers of the World
+  authors: [Industrial Workers of the World]
+  year: 1908
+  original_language: en
+  tier: A
+  priority: 5
+  stage: planned
+  notes: Very short; both the 1905 and 1908 versions, the 1908 as base. Source still to locate on a reachable mirror.
+
+- id: socialism-utopian-and-scientific
+  prefix: SUS
+  title: "Socialism: Utopian and Scientific"
+  authors: [Friedrich Engels]
+  year: 1880
+  original_language: de
+  tier: A
+  priority: 6
+  stage: sourced
+  sources:
+    original: ["mlwerke:me19/me19_177.htm..me19_228.htm"]
+    english: ["gutenberg:Socialism--Utopian-and-Scientific_39257", "mia:en/archive/marx/works/1880/soc-utop/"]
+  notes: German text of 1891 (4th edition); English by Edward Aveling, 1892, with Engels's special introduction.
+
+- id: conquest-of-bread
+  prefix: CB
+  title: The Conquest of Bread
+  authors: [Peter Kropotkin]
+  year: 1892
+  original_language: fr
+  tier: A
+  priority: 7
+  stage: planned
+  sources:
+    english: ["gutenberg:The-Conquest-of-Bread_23428"]
+  notes: English fetched to works/conquest-of-bread/sources/; French original (La Conquête du pain) still to locate on a reachable mirror; needs French sentence rules.
+
+- id: anarchy-malatesta
+  prefix: AN
+  title: Anarchy
+  authors: [Errico Malatesta]
+  year: 1891
+  original_language: it
+  tier: A
+  priority: 8
+  stage: planned
+  sources:
+    english: ["gutenberg:Anarchy_40365"]
+  notes: English fetched to works/anarchy-malatesta/sources/; Italian original (L'Anarchia) still to locate; needs Italian sentence rules.
+
+- id: god-and-the-state
+  prefix: GAS
+  title: God and the State
+  authors: [Mikhail Bakunin]
+  year: 1882
+  original_language: fr
+  tier: A
+  priority: 9
+  stage: planned
+  sources:
+    english: ["gutenberg:God-and-the-State_36568"]
+  notes: English fetched to works/god-and-the-state/sources/; English by Benjamin Tucker, 1883. French original still to locate.
+
+- id: civil-war-in-france
+  prefix: CWF
+  title: The Civil War in France
+  authors: [Karl Marx]
+  year: 1871
+  original_language: en
+  tier: A
+  priority: 10
+  stage: sourced
+  sources:
+    original: ["mia:en/archive/marx/works/1871/civil-war-france/"]
+    german: ["mlwerke:me17/me17_319.htm"]
+  notes: Written in English. Engels's 1891 introduction and the German translation (by Engels) can sit beside it.
+
+- id: anarchism-and-other-essays
+  prefix: AOE
+  title: Anarchism and Other Essays
+  authors: [Emma Goldman]
+  year: 1910
+  original_language: en
+  tier: A
+  priority: 11
+  stage: sourced
+  sources:
+    original: ["gutenberg:Anarchism-and-Other-Essays_2162"]
+
+- id: mutual-aid
+  prefix: MA
+  title: "Mutual Aid: A Factor of Evolution"
+  authors: [Peter Kropotkin]
+  year: 1902
+  original_language: en
+  tier: A
+  priority: 12
+  stage: sourced
+  sources:
+    original: ["gutenberg:Mutual-Aid--A-Factor-of-Evolution_4341"]
+
+- id: state-and-revolution
+  prefix: SR
+  title: The State and Revolution
+  authors: [Vladimir Lenin]
+  year: 1917
+  original_language: ru
+  tier: B
+  priority: 13
+  stage: planned
+  sources:
+    original: ["mia:ru/VIL-UAIO/33 (Lenin, PSS 5th ed., vol. 33)"]
+  notes: Needs Russian sentence rules and a check of the 1919 English translations.
+
+- id: eighteenth-brumaire
+  prefix: EB
+  title: The Eighteenth Brumaire of Louis Bonaparte
+  authors: [Karl Marx]
+  year: 1852
+  original_language: de
+  tier: A
+  priority: 14
+  stage: sourced
+  sources:
+    original: ["mlwerke:me08/me08_111.htm..me08_194.htm"]
+    english: ["gutenberg:The-Eighteenth-Brumaire-of-Louis-Bonaparte_1346"]
+  notes: English by Daniel De Leon, 1898.
+
+- id: critique-of-the-gotha-programme
+  prefix: CGP
+  title: Critique of the Gotha Programme
+  authors: [Karl Marx]
+  year: 1875
+  original_language: de
+  tier: B
+  priority: 15
+  stage: sourced
+  sources:
+    original: ["mlwerke:me19/me19_013.htm"]
+  notes: Check early English translations; otherwise translate from the German.
+
+- id: origin-of-the-family
+  prefix: OF
+  title: The Origin of the Family, Private Property and the State
+  authors: [Friedrich Engels]
+  year: 1884
+  original_language: de
+  tier: A
+  priority: 16
+  stage: sourced
+  sources:
+    original: ["mlwerke:me21/me21_025.htm..me21_152.htm"]
+    english: ["gutenberg:The-Origin-of-the-Family-Private-Property-and-the-State_33111"]
+  notes: English by Ernest Untermann, 1902.
+
+- id: woman-and-socialism
+  prefix: WAS
+  title: Woman and Socialism
+  authors: [August Bebel]
+  year: 1879
+  original_language: de
+  tier: A
+  priority: 17
+  stage: planned
+  sources:
+    english: ["gutenberg:Woman-and-Socialism_47244"]
+  notes: English fetched to works/woman-and-socialism/sources/; English by Meta Stern, 1910 (from the 50th German edition). German original still to locate.
+
+- id: poverty-of-philosophy
+  prefix: POP
+  title: The Poverty of Philosophy
+  authors: [Karl Marx]
+  year: 1847
+  original_language: fr
+  tier: A
+  priority: 18
+  stage: planned
+  notes: French original and Quelch's 1900 English still to locate on a reachable mirror.
+
+- id: condition-of-the-working-class
+  prefix: CWC
+  title: The Condition of the Working Class in England
+  authors: [Friedrich Engels]
+  year: 1845
+  original_language: de
+  tier: A
+  priority: 19
+  stage: sourced
+  sources:
+    original: ["mlwerke:me02/me02_225.htm..me02_486.htm"]
+    english: ["gutenberg:The-Condition-of-the-Working-Class-in-England-in-1844with-a-Preface-written-in-1892_17306"]
+  notes: Long. English by Florence Kelley Wischnewetzky, 1887.
+
+- id: german-ideology
+  prefix: GI
+  title: The German Ideology
+  authors: [Karl Marx, Friedrich Engels]
+  year: 1846
+  original_language: de
+  tier: B
+  priority: 20
+  stage: planned
+  sources:
+    original: ["mlwerke:me03/me03_009.htm and following"]
+  notes: Long and fragmentary; English translations from the 1930s onward need checking.
+
+- id: mass-strike
+  prefix: MS
+  title: The Mass Strike, the Political Party and the Trade Unions
+  authors: [Rosa Luxemburg]
+  year: 1906
+  original_language: de
+  tier: B
+  priority: 21
+  stage: planned
+  notes: German original and the 1925 Lavin English still to locate.
+
+- id: reform-or-revolution
+  prefix: ROR
+  title: Reform or Revolution
+  authors: [Rosa Luxemburg]
+  year: 1899
+  original_language: de
+  tier: B
+  priority: 22
+  stage: planned
+  notes: German original still to locate; English (1937) needs checking.
+
+- id: imperialism
+  prefix: IMP
+  title: "Imperialism, the Highest Stage of Capitalism"
+  authors: [Vladimir Lenin]
+  year: 1917
+  original_language: ru
+  tier: B
+  priority: 23
+  stage: planned
+  sources:
+    original: ["mia:ru/VIL-UAIO/27 (Lenin, PSS 5th ed., vol. 27)"]
+
+- id: abc-of-communist-anarchism
+  prefix: ABC
+  title: "Now and After: The ABC of Communist Anarchism"
+  authors: [Alexander Berkman]
+  year: 1929
+  original_language: en
+  tier: A
+  priority: 24
+  stage: planned
+  notes: Public domain in the US since 1 January 2025. Source still to locate on a reachable mirror.

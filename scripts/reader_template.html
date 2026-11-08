@@ -244,7 +244,7 @@ function render(wi, si, focusId) {
   cur = {w: wi, s: si};
   wsel.value = wi; sel.value = si;
   const w = DATA[wi], s = w.sections[si];
-  const cols = COLS.filter(c => c.on && !c.row);
+  const cols = COLS.filter(c => c.on && !c.row && !(c.key === "en" && w.columns && w.columns.en === ""));
   const showC = isOn("commentary");
   const ents = showC ? visibleEntries(w) : [];
   const warn = s.anchor === "en" || /translation|^en|^fr/.test(s.original_language)

@@ -1,0 +1,6 @@
+# Fetched 2026-11-08 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+- file: raw/de/me19_013.htm
+  role: original
+  url: https://raw.githubusercontent.com/wertform/mlwerke.de/HEAD/me/me19/me19_013.htm
+  bytes: 56371
+  sha256: 9d4ace1581c476b4d458b1d904571aa8a711105beaaf23d78d433d0501ae82f9

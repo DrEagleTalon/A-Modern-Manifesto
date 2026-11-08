@@ -13,6 +13,7 @@ Contributors never edit dist/. It is regenerated from works/*/text/**.yaml:
 """
 import csv
 import json
+import re
 from pathlib import Path
 
 import yaml
@@ -119,10 +120,11 @@ def write_md(meta, docs, out):
         f = Path(d["_file"])
         fn = f"{f.parent.name}-{f.stem}.md"
         lab = labels(meta, d)
-        lines = [f"# {meta['prefix']} {d['section']} · {d['title_en']}", "", f"*{d['title_original']}*", "",
+        has_en = bool(lab.get("en", "English"))
+        head = f"| Verse | {lab.get('original', 'Original')} | " + (f"{lab.get('en')} | " if has_en else "") + f"{lab.get('modern', 'Modern draft')} | Notes |"
+        lines = [f"# {meta['prefix']} {d['section']} · {d['title_en'] or d['title_original']}", "", f"*{d['title_original']}*", "",
                  f"Original: {d['source_original']}  ", f"English: {d['source_en']}", "",
-                 f"| Verse | {lab.get('original', 'Original')} | {lab.get('en', 'English')} | {lab.get('modern', 'Modern draft')} | Notes |",
-                 "|---|---|---|---|---|"]
+                 head, "|---|---|---|---|" + ("---|" if has_en else "")]
         for v in d["verses"]:
             en = f"(see {v['joined_to']})" if v.get("joined_to") else v["en"]
             mo = "" if v.get("joined_to") else v["modern"]
@@ -130,7 +132,8 @@ def write_md(meta, docs, out):
             if v.get("footnotes"):
                 note = (note + " Author notes: " + ", ".join(v["footnotes"])).strip()
             flag = " ⚑" if v.get("review") else ""
-            lines.append(f"| <a id=\"{v['id']}\"></a>**{v['id']}**{flag} | {md_cell(v['original'])} | {md_cell(en)} | {md_cell(mo)} | {md_cell(note)} |")
+            en_cell = f" {md_cell(en)} |" if has_en else ""
+            lines.append(f"| <a id=\"{v['id']}\"></a>**{v['id']}**{flag} | {md_cell(v['original'])} |{en_cell} {md_cell(mo)} | {md_cell(note)} |")
         (md / fn).write_text("\n".join(lines) + "\n", encoding="utf-8")
         index.append(f"- [{d['section']} · {d['title_en']}]({fn})")
     (md / "README.md").write_text("\n".join(index) + "\n", encoding="utf-8")
@@ -256,6 +259,36 @@ def write_index(works):
     (DIST / "README.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+STAGES = {"planned": "⏳ planned", "sourced": "📦 sourced", "versified": "🔢 versified", "ready": "✅ ready for rewrite",
+          "translating": "📝 translating", "released": "📗 released"}
+LANG = {"de": "German", "en": "English", "fr": "French", "it": "Italian", "ru": "Russian", "zh": "Chinese"}
+
+
+def write_readme_catalog(works):
+    """Replace the block between the catalog markers in README.md with the live work list."""
+    cat = yaml.safe_load((ROOT / "catalog.yaml").read_text(encoding="utf-8")) or []
+    live = {m["prefix"]: (m, docs) for m, docs in works}
+    rows = ["| # | Work | Author | Cite as | Original | Rights | Stage | Progress |", "|---|---|---|---|---|---|---|---|"]
+    for e in sorted(cat, key=lambda x: x.get("priority", 999)):
+        title = f"{e['title']} ({e['year']})"
+        if e["prefix"] in live:
+            title = f"[{title}](works/{e['id']})"
+            st = stats(live[e["prefix"]][1])
+            done = st["draft"] + st["reviewed"]
+            prog = f"{st['verses']} verses · {st['seed']} seeded · {done} drafted · {st['review_flags']} alignment checks"
+        else:
+            prog = ""
+        rows.append(f"| {e.get('priority', '')} | {title} | {', '.join(e['authors'])} | `{e['prefix']}` | "
+                    f"{LANG.get(e['original_language'], e['original_language'])} | {e['tier']} | {STAGES.get(e['stage'], e['stage'])} | {prog} |")
+    block = "\n".join(rows)
+    readme = ROOT / "README.md"
+    txt = readme.read_text(encoding="utf-8")
+    new = re.sub(r"<!-- catalog:start -->.*?<!-- catalog:end -->",
+                 lambda m: "<!-- catalog:start -->\n" + block + "\n<!-- catalog:end -->", txt, flags=re.S)
+    if new != txt:
+        readme.write_text(new, encoding="utf-8")
+
+
 def main():
     DIST.mkdir(exist_ok=True)
     works = load()
@@ -271,6 +304,7 @@ def main():
         print(f"{meta['prefix']:>4}: {s['verses']} verses | {s['seed']} seed | {s['draft']} draft | {s['reviewed']} reviewed | {s['review_flags']} alignment checks")
     write_site(works, trads, entries, renders)
     write_index(works)
+    write_readme_catalog(works)
 
 
 if __name__ == "__main__":

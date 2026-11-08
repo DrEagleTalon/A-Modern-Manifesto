@@ -1,0 +1,26 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q23
+title_original: '23. Frage: Wie wird sie sich zu den bestehenden Religionen verhalten?'
+title_en: Question 23
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q23.0.1
+  kind: heading
+  original: '23. Frage: Wie wird sie sich zu den bestehenden Religionen verhalten?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q23.1.1
+  kind: p
+  original: '- bleibt'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

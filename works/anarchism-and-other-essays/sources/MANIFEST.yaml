@@ -1,0 +1,6 @@
+# Fetched 2026-11-08 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+- file: raw/en/gutenberg_2162.txt
+  role: original
+  url: https://raw.githubusercontent.com/GITenberg/Anarchism-and-Other-Essays_2162/master/2162.txt
+  bytes: 431916
+  sha256: afc77c738938fcbfcd646c95ce78e0d528378cabe0decaad4f65cf1bc4a6f96f

@@ -1,0 +1,33 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q2
+title_original: '2. Frage: Was ist das Proletariat?'
+title_en: Question 2
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q2.0.1
+  kind: heading
+  original: '2. Frage: Was ist das Proletariat?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q2.1.1
+  kind: p
+  original: 'Antwort: Das Proletariat ist diejenige Klasse der Gesellschaft, welche ihren Lebensunterhalt einzig und allein aus dem Verkauf ihrer Arbeit und nicht aus dem Profit irgendeines Kapitals zieht; deren Wohl und Wehe, deren Leben und Tod, deren ganze Existenz von der Nachfrage nach Arbeit, also von dem Wechsel der guten und schlechten Geschäftszeiten, von den Schwankungen einer zügellosen Konkurrenz abhängt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q2.1.2
+  kind: p
+  original: Das Proletariat oder die Klasse der Proletarier ist, mit einem Worte, die arbeitende Klasse des neunzehnten Jahrhunderts.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

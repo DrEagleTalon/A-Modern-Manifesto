@@ -1,0 +1,6 @@
+# Fetched 2026-11-08 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+- file: raw/en/gutenberg_4341.txt
+  role: original
+  url: https://raw.githubusercontent.com/GITenberg/Mutual-Aid--A-Factor-of-Evolution_4341/master/4341.txt
+  bytes: 596875
+  sha256: c2640f9c77ac28808e593b9cd3b31c2370592977ecd74eb8e1a446e661896130

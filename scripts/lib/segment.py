@@ -54,6 +54,14 @@ def split_sentences(text: str, lang: str):
     rest = text[start:].strip()
     if rest:
         out.append(rest)
+    # a "sentence" with no letters or digits (a stray quote mark or dash) belongs to the one before
+    tidy = []
+    for s in out:
+        if tidy and not re.search(r"[0-9A-Za-zÄÖÜäöüß]", s):
+            tidy[-1] = tidy[-1] + " " + s
+        else:
+            tidy.append(s)
+    out = tidy
     # list items like "1. Expropriation ..." keep the number with the item
     merged = []
     for s in out:

@@ -2,6 +2,8 @@
 
 Which works come next, and what can legally go into a public repository. Copyright, more than length, decides the order.
 
+The live queue is [`catalog.yaml`](../catalog.yaml): every work's priority, citation prefix, rights tier, stage and source locations. The table in the main README is generated from it on every build. This page explains the reasoning behind the tiers; when the two disagree, `catalog.yaml` wins.
+
 **This is a working guide, not legal advice.** "PD" means public domain in the United States, where GitHub hosts the repository. Every entry marked *check* needs its specific edition verified before the full text goes in. A translation has its own copyright, separate from the original.
 
 ## Tier A: original and an English translation both public domain

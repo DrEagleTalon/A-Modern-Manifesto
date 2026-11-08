@@ -51,7 +51,12 @@ def _blocks(html: str):
 
 
 def parse_mew(path: Path, signature_re=r"^(London|Karl Marx|Friedrich Engels|F\. Engels)"):
-    raw = Path(path).read_text(encoding="latin-1").replace("\r", "")
+    data = Path(path).read_bytes()
+    try:                                   # most mlwerke pages are Latin-1, some are UTF-8
+        raw = data.decode("utf-8")
+    except UnicodeDecodeError:
+        raw = data.decode("latin-1")
+    raw = raw.replace("\r", "")
     html = _mark(raw)
     paras, notes, variants = [], {}, {}
     state, cur_note = "pre", None
@@ -105,7 +110,7 @@ def parse_mew(path: Path, signature_re=r"^(London|Karl Marx|Friedrich Engels|F\.
 INSERTION = re.compile(r"\s*\[(?!\d+\])[^\[\]]{3,}\]")
 
 
-def parse_mia(path: Path):
+def parse_mia(path: Path, keep_classes=()):
     """Paragraphs of a marxists.org work page. Drops navigation, MIA footnotes and
     MIA's square-bracket editorial insertions (returned separately so they can be logged)."""
     html = Path(path).read_text(encoding="utf-8", errors="replace").replace("﻿", "")
@@ -118,7 +123,7 @@ def parse_mia(path: Path):
         tag, attr, inner = m.group(1).lower(), m.group(2), m.group(3)
         cls = re.search(r'class="([^"]+)"', attr)
         cls = cls.group(1) if cls else ""
-        if cls in ("title", "footer", "information"):
+        if cls in ("title", "footer", "information", "skip", "toc", "link") and cls not in keep_classes:
             continue
         text = BeautifulSoup(inner, "html.parser").get_text(" ")
         text = re.sub(r"\s+", " ", text.replace("\xa0", " ")).strip()
@@ -127,6 +132,9 @@ def parse_mia(path: Path):
         for ins in INSERTION.findall(text):
             removed.append(ins.strip())
         text = INSERTION.sub("", text)
+        text = re.sub(r"“\s+", "“", re.sub(r"\s+”", "”", text))      # MIA pads curly quotes with spaces
+        text = re.sub(r'([.!?,;]) "(?=\s|$)', r'\1"', text)                # ...wages. " -> ...wages."
+        text = re.sub(r'(^|[\s:(])" (?=[A-Za-z])', r'\1"', text)            # : " The -> : "The
         text = re.sub(r"\s+([,.;:!?)])", r"\1", text).replace("“", '"').replace("”", '"').replace("’", "'").replace(" – ", " - ")
         kind = "heading" if tag.startswith("h") else ("signature" if cls == "sig" else "p")
         if tag == "h4" and text.lower().startswith("by "):

@@ -41,10 +41,30 @@ def para_sentences(text, lang, kind):
     return split_sentences(text, lang)
 
 
-def build_section(sid, prefix, anchor, A_paras, B_paras, note_prefix="", review_cost=6.0, ratio=None, para0_heading=True, pids=None, para_beads=None, flat=False, band=80):
-    """A_paras/B_paras: list of {kind, text}. Returns list of verse dicts and owner map."""
-    a_lang = anchor
-    b_lang = "en" if anchor == "de" else "de"
+def build_section(sid, prefix, anchor, A_paras, B_paras, note_prefix="", review_cost=6.0, ratio=None, para0_heading=True, pids=None, para_beads=None, flat=False, band=80, lang_a=None, lang_b=None, single=False):
+    """A_paras/B_paras: list of {kind, text}. Returns list of verse dicts and owner map.
+
+    `anchor` says which side is the original: "de" means A is the original-language text (whatever the
+    language), "en" means A is the English. `lang_a` / `lang_b` choose the sentence-splitting rules when the
+    original is not German (for example lang_a="en" for a work Marx wrote in English). With single=True the
+    work has no second column: verses are numbered and nothing is aligned or flagged."""
+    a_lang = lang_a or anchor
+    b_lang = lang_b or ("en" if anchor == "de" else "de")
+    if single:
+        verses, n = [], 0
+        for i, p in enumerate(A_paras):
+            if pids is not None:
+                pid = pids[i]
+            elif i == 0 and p["kind"] == "heading" and para0_heading:
+                pid = f"{prefix}.0"
+            else:
+                n += 1
+                pid = f"{prefix}.{n}"
+            for k, sent in enumerate(para_sentences(p["text"], a_lang, p["kind"]), start=1):
+                d = {"id": f"{pid}.{k}", "kind": p["kind"], "_de_raw": sent if anchor == "de" else "", "_en_raw": sent if anchor == "en" else ""}
+                d["de"], d["en"] = clean_text(d["_de_raw"]), clean_text(d["_en_raw"])
+                verses.append(d)
+        return verses, {}
     la = sum(len(strip(p["text"])) for p in A_paras) or 1
     lb = sum(len(strip(p["text"])) for p in B_paras) or 1
     ratio = ratio or lb / la

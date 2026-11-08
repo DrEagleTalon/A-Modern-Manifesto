@@ -1,0 +1,6 @@
+# Fetched 2026-11-08 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+- file: raw/en/gutenberg_36568.txt
+  role: english
+  url: https://raw.githubusercontent.com/GITenberg/God-and-the-State_36568/master/36568.txt
+  bytes: 211801
+  sha256: 9f8aca8864ac783f89ebf19d99740779ea52433dee7e20532dcbdc739f0ea85d

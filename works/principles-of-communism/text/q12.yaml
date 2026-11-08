@@ -1,0 +1,75 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q12
+title_original: '12. Frage: Was waren die weiteren Folgen der industriellen Revolution?'
+title_en: Question 12
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q12.0.1
+  kind: heading
+  original: '12. Frage: Was waren die weiteren Folgen der industriellen Revolution?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q12.1.1
+  kind: p
+  original: 'Antwort: Die große Industrie schuf in der Dampfmaschine und den übrigen Maschinen die Mittel, die industrielle Produktion in kurzer Zeit und mit wenig Kosten ins unendliche zu vermehren.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q12.1.2
+  kind: p
+  original: Die aus dieser großen Industrie notwendig hervorgehende freie Konkurrenz nahm bei dieser Leichtigkeit der Produktion sehr bald einen äußerst heftigen Charakter an; eine Menge Kapitalisten warfen sich auf die Industrie, und in kurzer Zeit wurde mehr produziert, als gebraucht werden konnte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q12.1.3
+  kind: p
+  original: Die Folge davon war, daß die fabrizierten Waren nicht verkauft werden konnten und daß eine sogenannte Handelskrisis eintrat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q12.1.4
+  kind: p
+  original: Die Fabriken mußten stillstehen, die Fabrikanten machten Bankerott, und die Arbeiter kamen außer Brot.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q12.1.5
+  kind: p
+  original: Das größte Elend trat überall ein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q12.1.6
+  kind: p
+  original: Nach einiger Zeit waren die überflüssigen Produkte verkauft, die Fabriken fingen wieder an zu arbeiten, der Lohn stieg, und allmählich gingen die Geschäfte wieder besser als je.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q12.1.7
+  kind: p
+  original: Aber nicht lange, so waren wieder zuviel Waren produziert, und eine neue Krisis trat ein, die gerade wieder denselben Verlauf nahm wie die vorige.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q12.1.8
+  kind: p
+  original: So hat seit dem Anfang dieses Jahrhunderts der Zustand der Industrie fortwährend zwischen Epochen der Prosperität und Epochen der Krise geschwankt, und fast regelmäßig alle fünf bis sieben Jahre ist eine solche Krisis eingetreten, welche jedesmal mit dem größten Elend der Arbeiter, mit allgemeiner revolutionärer Aufregung und mit der größten Gefahr für den ganzen bestehenden Zustand verknüpft war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

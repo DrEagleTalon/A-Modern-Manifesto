@@ -1,0 +1,579 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: XIV
+title_original: XIV. The Struggle Between Capital and Labour and its Results
+title_en: XIV. The Struggle Between Capital and Labour and its Results
+author: Karl Marx
+date: 1865-06
+original_language: en
+anchor_language: en
+source_original: Karl Marx, Value, Price and Profit, ed. Eleanor Marx Aveling (London 1898), public domain; Marxists Internet Archive transcription (proofed by Brandon Poole, 2009; CC BY-SA)
+source_en: 'None needed: the original is in English'
+verses:
+- id: XIV.0.1
+  kind: heading
+  original: XIV. The Struggle Between Capital and Labour and its Results
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.1.1
+  kind: p
+  original: 1. Having shown that the periodical resistance on the part of the working men against a reduction of wages, and their periodical attempts at getting a rise of wages, are inseparable from the wages system, and dictated by the very fact of labour being assimilated to commodities, and therefore subject to the laws, regulating the general movement of prices; having furthermore, shown that a general rise of wages would result in a fall in the general rate of profit, but not affect the average prices of commodities, or their values, the question now ultimately arises, how far, in this incessant struggle between capital and labour, the latter is likely to prove successful.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.2.1
+  kind: p
+  original: I might answer by a generalization, and say that, as with all other commodities, so with labour, its market price will, in the long run, adapt itself to its value; that, therefore, despite all the ups and downs, and do what he may, the working man will, on an average, only receive the value of his labour, which resolves into the value of his labouring power, which is determined by the value of the necessaries required for its maintenance and reproduction, which value of necessaries finally is regulated by the quantity of labour wanted to produce them.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.3.1
+  kind: p
+  original: But there are some peculiar features which distinguish the value of the labouring power, or the value of labour, from the values of all other commodities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.3.2
+  kind: p
+  original: The value of the labouring power is formed by two elements -- the one merely physical, the other historical or social.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.3.3
+  kind: p
+  original: Its ultimate limit is determined by the physical element, that is to say, to maintain and reproduce itself, to perpetuate its physical existence, the working class must receive the necessaries absolutely indispensable for living and multiplying.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.3.4
+  kind: p
+  original: The value of those indispensable necessaries forms, therefore, the ultimate limit of the value of labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.3.5
+  kind: p
+  original: On the other hand, the length of the working day is also limited by ultimate, although very elastic boundaries.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.3.6
+  kind: p
+  original: Its ultimate limit is given by the physical force of the labouring man.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.3.7
+  kind: p
+  original: If the daily exhaustion of his vital forces exceeds a certain degree, it cannot be exerted anew, day by day.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.4.1
+  kind: p
+  original: However, as I said, this limit is very elastic.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.4.2
+  kind: p
+  original: A quick succession of unhealthy and short-lived generations will keep the labour market as well supplied as a series of vigorous and long-lived generations.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.4.3
+  kind: p
+  original: Besides this mere physical element, the value of labour is in every country determined by a traditional standard of life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.4.4
+  kind: p
+  original: It is not mere physical life, but it is the satisfaction of certain wants springing from the social conditions in which people are placed and reared up.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.4.5
+  kind: p
+  original: The English standard of life may be reduced to the Irish standard; the standard of life of a German peasant to that of a Livonian peasant.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.4.6
+  kind: p
+  original: The important part which historical tradition and social habitude play in this respect, you may learn from Mr. Thornton's work on over-population, where he shows that the average wages in different agricultural districts of England still nowadays differ more or less according to the more or less favourable circumstances under which the districts have emerged from the state of serfdom.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.5.1
+  kind: p
+  original: This historical or social element, entering into the value of labour, may be expanded, or contracted, or altogether extinguished, so that nothing remains but the physical limit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.5.2
+  kind: p
+  original: During the time of the anti-Jacobin war, undertaken, as the incorrigible tax-eater and sinecurist, old George Rose, used to say, to save the comforts of our holy religion from the inroads of the French infidels, the honest English farmers, so tenderly handled in a former chapter of ours, depressed the wages of the agricultural labourers even beneath that mere physical minimum, but made up by Poor Laws the remainder necessary for the physical perpetuation of the race.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.5.3
+  kind: p
+  original: This was a glorious way to convert the wages labourer into a slave, and Shakespeare's proud yeoman into a pauper.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.6.1
+  kind: p
+  original: By comparing the standard wages or values of labour in different countries, and by comparing them in different historical epochs of the same country, you will find that the value of labour itself is not a fixed but a variable magnitude, even supposing the values of all other commodities to remain constant.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.7.1
+  kind: p
+  original: A similar comparison would prove that not only the market rates of profit change, but its average rates.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.8.1
+  kind: p
+  original: But as to profits, there exists no law which determines their minimum.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.8.2
+  kind: p
+  original: We cannot say what is the ultimate limit of their decrease.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.8.3
+  kind: p
+  original: And why cannot we fix that limit?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.8.4
+  kind: p
+  original: Because, although we can fix the minimum of wages, we cannot fix their maximum.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.9.1
+  kind: p
+  original: We can only say that, the limits of the working day being given, the maximum of profit corresponds to the physical minimum of wages; and that wages being given, the maximum of profit corresponds to such a prolongation of the working day as is compatible with the physical forces of the labourer.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.9.2
+  kind: p
+  original: The maximum of profit is therefore limited by the physical minimum of wages and the physical maximum of the working day.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.9.3
+  kind: p
+  original: It is evident that between the two limits of the maximum rate of profit and immense scale of variations is possible.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.9.4
+  kind: p
+  original: The fixation of its actual degree is only settled by the continuous struggle between capital and labour, the capitalist constantly tending to reduce wages to their physical minimum, and to extend the working day to its physical maximum, while the working man constantly presses in the opposite direction.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.10.1
+  kind: p
+  original: The matter resolves itself into a question of the respective powers of the combatants.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.11.1
+  kind: p
+  original: 2. As to the limitation of the working day in England, as in all other countries, it has never been settled except by legislative interference.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.11.2
+  kind: p
+  original: Without the working men's continuous pressure from without that interference would never have taken place.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.11.3
+  kind: p
+  original: But at all events, the result was not to be attained by private settlement between the working men and the capitalists.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.11.4
+  kind: p
+  original: This very necessity of general political action affords the proof that in its merely economical action capital is the stronger side.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.12.1
+  kind: p
+  original: As to the limits of the value of labour, its actual settlement always depends upon supply and demand, I mean the demand for labour on the part of capital, and the supply of labour by the working men.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.12.2
+  kind: p
+  original: In colonial countries the law of supply and demand favours the working man.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.12.3
+  kind: p
+  original: Hence the relatively high standard of wages in the United States.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.12.4
+  kind: p
+  original: Capital may there try its utmost.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.12.5
+  kind: p
+  original: It cannot prevent the labour market from being continuously emptied by the continuous conversion of wages labourers into independent, self-sustaining peasants.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.12.6
+  kind: p
+  original: The position of a wages labourer is for a very large part of the American people but a probational state, which they are sure to leave within a longer or shorter term.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.12.7
+  kind: p
+  original: To mend this colonial state of things the paternal British Government accepted for some time what is called the modern colonization theory, which consists in putting an artificial high price upon colonial land, in order to prevent the too quick conversion of the wages labourer into the independent peasant.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.13.1
+  kind: p
+  original: But let us now come to old civilized countries, in which capital domineers over the whole process of production.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.13.2
+  kind: p
+  original: Take, for example, the rise in England of agricultural wages from 1849 to 1859.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.13.3
+  kind: p
+  original: What was its consequence?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.13.4
+  kind: p
+  original: The farmers could not, as our friend Weston would have advised them, raise the value of wheat, nor even its market prices.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.13.5
+  kind: p
+  original: They had, on the contrary, to submit to their fall.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.13.6
+  kind: p
+  original: But during these eleven years they introduced machinery of all sorts, adopted more scientific methods, converted part of arable land into pasture, increased the size of farms, and with this the scale of production, and by these and other processes diminishing the demand for labour by increasing its productive power, made the agricultural population again relatively redundant.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.13.7
+  kind: p
+  original: This is the general method in which a reaction, quicker or slower, of capital against a rise of wages takes place in old, settled countries.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.13.8
+  kind: p
+  original: Ricardo has justly remarked that machinery is in constant competition with labour, and can often be only introduced when the price of labour has reached a certain height, but the appliance of machinery is but one of the many methods for increasing the productive powers of labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.13.9
+  kind: p
+  original: The very same development which makes common labour relatively redundant simplifies, on the other hand, skilled labour, and thus depreciates it.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.14.1
+  kind: p
+  original: The same law obtains in another form.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.14.2
+  kind: p
+  original: With the development of the productive powers of labour the accumulation of capital will be accelerated, even despite a relatively high rate of wages.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.14.3
+  kind: p
+  original: Hence, one might infer, as Adam Smith, in whose days modern industry was still in its infancy, did infer, that the accelerated accumulation of capital must turn the balance in favour of the working man, by securing a growing demand for his labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.14.4
+  kind: p
+  original: From this same standpoint many contemporary writers have wondered that English capital having grown in that last twenty years so much quicker than English population, wages should not have been more enhanced.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.14.5
+  kind: p
+  original: But simultaneously with the progress of accumulation there takes place a progressive change in the composition of capital.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.14.6
+  kind: p
+  original: That part of the aggregate capital which consists of fixed capital, machinery, raw materials, means of production in all possible forms, progressively increases as compared with the other part of capital, which is laid out in wages or in the purchase of labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.14.7
+  kind: p
+  original: This law has been stated in a more or less accurate manner by Mr. Barton, Ricardo, Sismondi, Professor Richard Jones, Professor Ramsey, Cherbuilliez, and others.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.15.1
+  kind: p
+  original: If the proportion of these two elements of capital was originally one to one, it will, in the progress of industry, become five to one, and so forth.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.15.2
+  kind: p
+  original: If of a total capital of 600, 300 is laid out in instruments, raw materials, and so forth, and 300 in wages, the total capital wants only to be doubled to create a demand for 600 working men instead of for 300.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.15.3
+  kind: p
+  original: But if of a capital of 600, 500 is laid out in machinery, materials, and so forth and 100 only in wages, the same capital must increase from 600 to 3,600 in order to create a demand for 600 workmen instead of 300.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.15.4
+  kind: p
+  original: In the progress of industry the demand for labour keeps, therefore, no pace with the accumulation of capital.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.15.5
+  kind: p
+  original: It will still increase, but increase in a constantly diminishing ratio as compared with the increase of capital.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.16.1
+  kind: p
+  original: These few hints will suffice to show that the very development of modern industry must progressively turn the scale in favour of the capitalist against the working man, and that consequently the general tendency of capitalistic production is not to raise, but to sink the average standard of wages, or to push the value of labour more or less to its minimum limit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.16.2
+  kind: p
+  original: Such being the tendency of things in this system, is this saying that the working class ought to renounce their resistance against the encroachments of capital, and abandon their attempts at making the best of the occasional chances for their temporary improvement?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.16.3
+  kind: p
+  original: If they did, they would be degraded to one level mass of broken wretches past salvation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.16.4
+  kind: p
+  original: I think I have shown that their struggles for the standard of wages are incidents inseparable from the whole wages system, that in 99 cases out of 100 their efforts at raising wages are only efforts at maintaining the given value of labour, and that the necessity of debating their price with the capitalist is inherent to their condition of having to sell themselves as commodities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.16.5
+  kind: p
+  original: By cowardly giving way in their everyday conflict with capital, they would certainly disqualify themselves for the initiating of any larger movement.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.17.1
+  kind: p
+  original: At the same time, and quite apart from the general servitude involved in the wages system, the working class ought not to exaggerate to themselves the ultimate working of these everyday struggles.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.17.2
+  kind: p
+  original: They ought not to forget that they are fighting with effects, but not with the causes of those effects; that they are retarding the downward movement, but not changing its direction; that they are applying palliatives, not curing the malady.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.17.3
+  kind: p
+  original: They ought, therefore, not to be exclusively absorbed in these unavoidable guerilla fights incessantly springing up from the never ceasing encroachments of capital or changes of the market.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.17.4
+  kind: p
+  original: They ought to understand that, with all the miseries it imposes upon them, the present system simultaneously engenders the material conditions and the social forms necessary for an economical reconstruction of society.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.17.5
+  kind: p
+  original: 'Instead of the conservative motto: "A fair day''s wage for a fair day''s work!" they ought to inscribe on their banner the revolutionary watchword: "Abolition of the wages system!"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.18.1
+  kind: p
+  original: 'After this very long and, I fear, tedious exposition, which I was obliged to enter into to do some justice to the subject matter, I shall conclude by proposing the following resolutions:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.19.1
+  kind: p
+  original: Firstly.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.19.2
+  kind: p
+  original: A general rise in the rate of wages would result in a fall of the general rate of profit, but, broadly speaking, not affect the prices of commodities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.20.1
+  kind: p
+  original: Secondly.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.20.2
+  kind: p
+  original: The general tendency of capitalist production is not to raise, but to sink the average standard of wages.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.21.1
+  kind: p
+  original: Thirdly.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.21.2
+  kind: p
+  original: Trades Unions work well as centers of resistance against the encroachments of capital.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.21.3
+  kind: p
+  original: They fail partially from an injudicious use of their power.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XIV.21.4
+  kind: p
+  original: They fail generally from limiting themselves to a guerilla war against the effects of the existing system, instead of simultaneously trying to change it, instead of using their organized forces as a lever for the final emancipation of the working class that is to say the ultimate abolition of the wages system.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

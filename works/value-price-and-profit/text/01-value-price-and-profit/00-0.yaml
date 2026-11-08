@@ -1,0 +1,96 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: '0'
+title_original: Preliminary
+title_en: Preliminary
+author: Karl Marx
+date: 1865-06
+original_language: en
+anchor_language: en
+source_original: Karl Marx, Value, Price and Profit, ed. Eleanor Marx Aveling (London 1898), public domain; Marxists Internet Archive transcription (proofed by Brandon Poole, 2009; CC BY-SA)
+source_en: 'None needed: the original is in English'
+verses:
+- id: 0.0.1
+  kind: heading
+  original: Preliminary
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.1.1
+  kind: p
+  original: CITIZENS,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.2.1
+  kind: p
+  original: Before entering into the subject-matter, allow me to make a few preliminary remarks.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.2.2
+  kind: p
+  original: There reigns now on the Continent a real epidemic of strikes, and a general clamour for a rise of wages.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.2.3
+  kind: p
+  original: The question will turn up at our Congress.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.2.4
+  kind: p
+  original: You, as the head of the International Association, ought to have settled convictions upon this paramount question.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.2.5
+  kind: p
+  original: For my own part, I considered it therefore my duty to enter fully into the matter, even at the peril of putting your patience to a severe test.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.3.1
+  kind: p
+  original: Another preliminary remark I have to make in regard to Citizen Weston.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.3.2
+  kind: p
+  original: He has not only proposed to you, but has publicly defended, in the interest of the working class, as he thinks, opinions he knows to be most unpopular with the working class.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.3.3
+  kind: p
+  original: Such an exhibition of moral courage all of us must highly honour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.3.4
+  kind: p
+  original: I hope that, despite the unvarnished style of my paper, at its conclusion he will find me agreeing with what appears to me the just idea lying at the bottom of his theses, which, however, in their present form, I cannot but consider theoretically false and practically dangerous.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.4.1
+  kind: p
+  original: I shall now at once proceed to the business before us.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

@@ -13,14 +13,40 @@ The library has four layers, kept apart so the original is never weighed down:
 
 In the reader, renderings and commentary are off until you switch them on, and you can filter commentary by tradition and by kind.
 
-## Works in the library
+## Works
 
-| Work | Cite as | Original | Historical English | State |
-|---|---|---|---|---|
-| [Manifesto of the Communist Party](works/communist-manifesto) (1848), with all seven prefaces | `CM I.12.3` | German, MEW (1890 text) | Moore and Engels, 1888 | 730 verses; modern draft seeded from *A Modern Manifesto* |
-| [Wage Labour and Capital](works/wage-labour-and-capital) (1849), with Engels's 1891 introduction | `WLC II.4.2` | German, MEW (1891 text, 1849 readings as variants) | Lothrop, 1902 | 565 verses; modern draft not started |
+Every work planned for the library, in queue order, and how far along it is. **Ready for rewrite** means the text is sourced, numbered, documented and open for the modern draft. This table is generated from [`catalog.yaml`](catalog.yaml) by `scripts/build.py`; a scheduled job takes the next planned work off the list twice a day.
 
-The queue of works and the copyright status of each is in [docs/roadmap.md](docs/roadmap.md). Live progress per work is in `dist/README.md`.
+<!-- catalog:start -->
+| # | Work | Author | Cite as | Original | Rights | Stage | Progress |
+|---|---|---|---|---|---|---|---|
+| 1 | [Manifesto of the Communist Party (1848)](works/communist-manifesto) | Karl Marx, Friedrich Engels | `CM` | German | A | 📝 translating | 730 verses · 446 seeded · 0 drafted · 40 alignment checks |
+| 2 | [Wage Labour and Capital (1849)](works/wage-labour-and-capital) | Karl Marx | `WLC` | German | A | ✅ ready for rewrite | 565 verses · 0 seeded · 0 drafted · 42 alignment checks |
+| 3 | [Value, Price and Profit (1865)](works/value-price-and-profit) | Karl Marx | `VPP` | English | A | ✅ ready for rewrite | 765 verses · 0 seeded · 0 drafted · 0 alignment checks |
+| 4 | [Principles of Communism (1847)](works/principles-of-communism) | Friedrich Engels | `PC` | German | B | ✅ ready for rewrite | 233 verses · 0 seeded · 0 drafted · 0 alignment checks |
+| 5 | Preamble of the Industrial Workers of the World (1908) | Industrial Workers of the World | `IWW` | English | A | ⏳ planned |  |
+| 6 | Socialism: Utopian and Scientific (1880) | Friedrich Engels | `SUS` | German | A | 📦 sourced |  |
+| 7 | The Conquest of Bread (1892) | Peter Kropotkin | `CB` | French | A | ⏳ planned |  |
+| 8 | Anarchy (1891) | Errico Malatesta | `AN` | Italian | A | ⏳ planned |  |
+| 9 | God and the State (1882) | Mikhail Bakunin | `GAS` | French | A | ⏳ planned |  |
+| 10 | The Civil War in France (1871) | Karl Marx | `CWF` | English | A | 📦 sourced |  |
+| 11 | Anarchism and Other Essays (1910) | Emma Goldman | `AOE` | English | A | 📦 sourced |  |
+| 12 | Mutual Aid: A Factor of Evolution (1902) | Peter Kropotkin | `MA` | English | A | 📦 sourced |  |
+| 13 | The State and Revolution (1917) | Vladimir Lenin | `SR` | Russian | B | ⏳ planned |  |
+| 14 | The Eighteenth Brumaire of Louis Bonaparte (1852) | Karl Marx | `EB` | German | A | 📦 sourced |  |
+| 15 | Critique of the Gotha Programme (1875) | Karl Marx | `CGP` | German | B | 📦 sourced |  |
+| 16 | The Origin of the Family, Private Property and the State (1884) | Friedrich Engels | `OF` | German | A | 📦 sourced |  |
+| 17 | Woman and Socialism (1879) | August Bebel | `WAS` | German | A | ⏳ planned |  |
+| 18 | The Poverty of Philosophy (1847) | Karl Marx | `POP` | French | A | ⏳ planned |  |
+| 19 | The Condition of the Working Class in England (1845) | Friedrich Engels | `CWC` | German | A | 📦 sourced |  |
+| 20 | The German Ideology (1846) | Karl Marx, Friedrich Engels | `GI` | German | B | ⏳ planned |  |
+| 21 | The Mass Strike, the Political Party and the Trade Unions (1906) | Rosa Luxemburg | `MS` | German | B | ⏳ planned |  |
+| 22 | Reform or Revolution (1899) | Rosa Luxemburg | `ROR` | German | B | ⏳ planned |  |
+| 23 | Imperialism, the Highest Stage of Capitalism (1917) | Vladimir Lenin | `IMP` | Russian | B | ⏳ planned |  |
+| 24 | Now and After: The ABC of Communist Anarchism (1929) | Alexander Berkman | `ABC` | English | A | ⏳ planned |  |
+<!-- catalog:end -->
+
+Copyright tiers (A, B, C) are explained in [docs/roadmap.md](docs/roadmap.md).
 
 ## What a verse looks like
 

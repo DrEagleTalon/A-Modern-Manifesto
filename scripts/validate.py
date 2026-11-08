@@ -278,6 +278,45 @@ def check_commentary(works, errors):
     return n_c, n_r
 
 
+CATALOG = ROOT / "catalog.yaml"
+STAGES = ["planned", "sourced", "versified", "ready", "translating", "released"]
+
+
+def check_catalog(prefixes, errors):
+    """catalog.yaml lists every work; stages agree with what is actually in works/."""
+    if not CATALOG.exists():
+        errors.append("catalog.yaml is missing")
+        return
+    cat = yaml.safe_load(CATALOG.read_text(encoding="utf-8")) or []
+    seen_p, seen_id = set(), set()
+    for e in cat:
+        where = f"catalog.yaml {e.get('id')}"
+        for k in ("id", "prefix", "title", "authors", "year", "original_language", "tier", "priority", "stage"):
+            if k not in e:
+                errors.append(f"{where}: missing '{k}'")
+        if e.get("prefix") in seen_p or e.get("id") in seen_id:
+            errors.append(f"{where}: duplicate id or prefix")
+        seen_p.add(e.get("prefix"))
+        seen_id.add(e.get("id"))
+        if e.get("stage") not in STAGES:
+            errors.append(f"{where}: stage must be one of {STAGES}")
+        if e.get("tier") not in ("A", "B", "C"):
+            errors.append(f"{where}: tier must be A, B or C")
+        has_text = (WORKS / str(e.get("id")) / "work.yaml").exists()
+        versified = e.get("stage") in STAGES[2:]
+        if versified and not has_text:
+            errors.append(f"{where}: stage '{e.get('stage')}' but works/{e.get('id')}/work.yaml does not exist")
+        if has_text and not versified:
+            errors.append(f"{where}: works/{e.get('id')} is versified, so stage should be versified or later")
+        if has_text and prefixes.get(e.get("prefix")) != e.get("id"):
+            errors.append(f"{where}: prefix {e.get('prefix')} does not match works/{e.get('id')}/work.yaml")
+        if e.get("stage") == "sourced" and not (WORKS / str(e.get("id")) / "sources" / "MANIFEST.yaml").exists():
+            errors.append(f"{where}: stage 'sourced' needs works/{e.get('id')}/sources/MANIFEST.yaml (run scripts/fetch_sources.py)")
+    for p, wid in prefixes.items():
+        if p not in seen_p:
+            errors.append(f"works/{wid} ({p}) is not listed in catalog.yaml")
+
+
 def main(argv):
     errors, warnings = [], []
     index, prefixes, works = {}, {}, {}
@@ -295,6 +334,7 @@ def main(argv):
         total += len(order)
     check_adaptations(index, errors)
     n_c, n_r = check_commentary(works, errors)
+    check_catalog(prefixes, errors)
     for w in warnings:
         print("warning:", w)
     for e in errors:

@@ -1,0 +1,75 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q5
+title_original: '5. Frage: Unter welchen Bedingungen findet dieser Verkauf der Arbeit der Proletarier an die Bourgeois statt?'
+title_en: Question 5
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q5.0.1
+  kind: heading
+  original: '5. Frage: Unter welchen Bedingungen findet dieser Verkauf der Arbeit der Proletarier an die Bourgeois statt?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q5.1.1
+  kind: p
+  original: 'Antwort: Die Arbeit ist eine Ware wie jede andere, und ihr Preis wird daher genau nach denselben Gesetzen bestimmt werden wie der jeder anderen Ware.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q5.1.2
+  kind: p
+  original: Der Preis einer Ware unter der Herrschaft der großen Industrie oder der freien Konkurrenz, was, wie wir sehen werden, auf eins hinauskommt, ist aber im Duchschnitt immer gleich den Produktionskosten dieser Ware.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q5.1.3
+  kind: p
+  original: Der Preis der Arbeit ist also ebenfalls gleich den Produktionskosten der Arbeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q5.2.1
+  kind: p
+  original: Die Produktionskosten der Arbeit bestehen aber in gerade soviel Lebensmitteln, als nötig sind, um den Arbeiter in den Stand zun setzen, arbeitsfähig zu bleiben und die Arbeiterklasse nicht aussterben zu lassen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q5.2.2
+  kind: p
+  original: Der Arbeiter wird also für seine Arbeit nicht mehr erhalten, als zu diesem Zwecke nötig ist; der Preis der Arbeit oder der Lohn wird also das Niedrigste, das Minimum sein, was zum Lebensunterhalt nötig ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q5.2.3
+  kind: p
+  original: Da die Geschäftszeiten aber bald schlechter, bald besser sind, so wird er bald mehr, bald weniger bekommen, gerade wie der Fabrikant bald mehr, bald weniger für seine Ware bekommt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q5.2.4
+  kind: p
+  original: Aber ebenso wie der Fabrikant im Durchschnitt der guten und schlechten Geschäftszeiten doch nicht mehr und nicht weniger für seine Ware erhält als seine Produktionskosten, ebenso wird der Arbeiter im Durchschnitt auch nicht mehr und nicht weniger als eben dies Minimum erhalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q5.2.5
+  kind: p
+  original: Dies ökonomische Gesetz des Arbeitslohns wird aber um so strenger durchgeführt werden, je mehr die große Industrie sich aller Arbeitszweige bemächtigt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

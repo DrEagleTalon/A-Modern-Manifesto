@@ -1,0 +1,54 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q14
+title_original: '14. Frage: Welcher Art wird diese neue Gesellschaftsordnung sein müssen?'
+title_en: Question 14
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q14.0.1
+  kind: heading
+  original: '14. Frage: Welcher Art wird diese neue Gesellschaftsordnung sein müssen?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q14.1.1
+  kind: p
+  original: 'Antwort: Sie wird vor allen Dingen den Betrieb der Industrie und aller Produktionszweige überhaupt aus den Händen der einzelnen, einander Konkurrenz machenden Individuen nehmen und dafür alle diese Produktionszweige durch die ganze Gesellschaft, d.h. für gemeinschaftliche Rechnung, nach gemeinschaftlichem Plan und unter Beteiligung aller Mitglieder der Gesellschaft, betreiben lassen müssen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q14.1.2
+  kind: p
+  original: Sie wird also die Konkurrenz aufheben und die Assoziation an ihre Stelle setzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q14.1.3
+  kind: p
+  original: Da nun der Betrieb der Industrie durch einzelne das Privateigentum zur notwendigen Folge hatte und die Konkurrenz weiter nichts ist als die Art und Weise des Betriebs der Industrie durch einzelne Privateigentümer, so ist das Privateigentum vom einzelnen Betrieb der Industrie und der Konkurrenz nicht zu trennen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q14.1.4
+  kind: p
+  original: Das Privateigentum wird also ebenfalls abgeschafft werden müssen, und an seine Stelle wird die gemeinsame Benutzung aller Produktionsinstrumente und die Verteilung aller Produkte nach gemeinsamer Übereinkunft oder die sogenannte Gütergemeinschaft treten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q14.1.5
+  kind: p
+  original: Die Abschaffung des Privateigentums ist sogar die kürzeste und bezeichnendste Zusammenfassung der aus der Entwicklung der Industrie notwendig hervorgehenden Umgestaltung der gesamten Gesellschaftsordnung und wird daher mit Recht von den Kommunisten als Hauptforderung hervorgehoben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

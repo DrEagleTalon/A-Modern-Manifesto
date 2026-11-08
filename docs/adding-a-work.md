@@ -6,7 +6,18 @@ Adding a work is a one-time job for someone comfortable with Python. After it is
 
 Find it in [roadmap.md](roadmap.md). Decide which edition is the base text (for Marx and Engels, usually the last edition they revised) and confirm that the original, and any historical English translation you plan to include, are in the public domain in the United States. Write down why. That reasoning goes into the work's `SOURCES.md`.
 
-## 2. Make the folder
+## 2. Fetch the sources
+
+If the work is in [`catalog.yaml`](../catalog.yaml) with its `sources:` filled in, one command downloads the exact files and records their checksums:
+
+```
+python scripts/fetch_sources.py <work-id> --list   # show what it will fetch
+python scripts/fetch_sources.py <work-id>
+```
+
+That writes `works/<work-id>/sources/raw/` and `sources/MANIFEST.yaml`. Set the catalog `stage` to `sourced`. If the work is not in the catalog yet, add an entry first (the validator refuses works that are missing from it).
+
+## 3. Make the folder
 
 ```
 works/<work-id>/
@@ -38,15 +49,18 @@ status: setting-up
 rights: Public domain.
 ```
 
-## 3. Get the sources
+## 4. Where the sources come from
+
+`fetch_sources.py` reads from these mirrors. If you add a source by hand, use the same places:
+
 
 - **Marx and Engels in German:** MEW via the mlwerke.de mirror (`github.com/wertform/mlwerke.de`, path `me/meNN/meNN_PPP.htm`). Compare against a second copy if you can. One mirror of the Manifesto had a word dropped from its most famous sentence.
 - **English:** Marxists Internet Archive pages (mirrored at `github.com/MARX-EBOOKS/marx-ebooks.github.io`), Project Gutenberg (`github.com/GITenberg`), and archive.org scans of the original printings for checking.
-- Save the raw files in `sources/raw/` and record their SHA-256 in `SOURCES.md`.
+- Raw files live in `sources/raw/` and are never edited. `MANIFEST.yaml` holds their SHA-256; copy the relevant lines into `SOURCES.md`.
 
-## 4. Write the ingest script
+## 5. Write the ingest script
 
-Copy `works/wage-labour-and-capital/ingest/build_verses.py` and adapt it. The shared library does the heavy lifting:
+Copy the closest existing ingest and adapt it: `works/wage-labour-and-capital/ingest/build_verses.py` for a German original with a historical English translation, `works/value-price-and-profit/ingest/build_verses.py` for an English original, `works/principles-of-communism/ingest/build_verses.py` for a German original with no public-domain English. The shared library does the heavy lifting:
 
 | Module | What it does |
 |---|---|
@@ -63,7 +77,7 @@ Choices you make in the script:
 
 Run it, then read the flagged verses (`review: true`). Fix what the script can fix; leave the rest flagged for contributors.
 
-## 5. Freeze the numbering
+## 6. Freeze the numbering
 
 ```
 python scripts/validate.py --init-lock <work-id>
@@ -73,6 +87,6 @@ python scripts/build.py
 
 The lock file makes the verse ids permanent. From now on nobody runs the ingest script again; the YAML is the source of truth.
 
-## 6. Write the docs and open the pull request
+## 7. Write the docs and open the pull request
 
-Fill in `SOURCES.md` (editions, licences, repairs, checksums), start `glossary.yaml` with the terms that will recur, list the hard passages in `cruxes.md`, add the work to the table in the top-level README and mark it done in `roadmap.md`.
+Fill in `SOURCES.md` (editions, licences, repairs, checksums), start `glossary.yaml` with the terms that will recur, list the hard passages in `cruxes.md`, and set the work's `stage` in `catalog.yaml` to `ready`. The README table updates itself on the next build.
