@@ -71,7 +71,7 @@
   tier: A
   priority: 5
   stage: planned
-  notes: Very short; both the 1905 and 1908 versions, the 1908 as base. Source still to locate on a reachable mirror.
+  notes: "Very short; both the 1905 and 1908 versions, the 1908 as base. Source still to locate on a reachable mirror. blocked: no sources listed here, so scripts/fetch_sources.py has nothing to fetch; add the 1905 and 1908 texts from a reachable mirror first."
 
 - id: socialism-utopian-and-scientific
   prefix: SUS
