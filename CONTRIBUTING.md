@@ -9,6 +9,8 @@ You do not need to know Git to help. You do need to say which verse you are talk
 | Suggest a better modern rendering of a verse or two | Open an issue with the **Translation proposal** form, or edit the YAML on GitHub and open a pull request |
 | Argue about what a passage means | Start a Discussion in **Interpretation**, titled `[CM I.12.3] short subject` |
 | Settle how a recurring term is translated | Start a Discussion in **Glossary**, then update the work's `glossary.yaml` |
+| Add your tradition's footnotes, explanations or critique | Write an entry in `commentary/<tradition>/` (see `docs/commentary-guide.md`) |
+| Translate passages the way your tradition would | Add verses to `renderings/<tradition>/` |
 | Write a modern pamphlet based on a work | See `adaptations/README.md` |
 | Add a new work to the library | See `docs/adding-a-work.md` |
 | Report a wrong word, a typo, or a bad alignment | Open an issue with the **Source or alignment error** form |
@@ -27,14 +29,9 @@ Each verse in `works/<work>/text/**/*.yaml` looks like this:
   modern_status: draft    # see the status ladder below
   notes: ''               # short translator notes; long arguments go to Discussions
   discussion: https://github.com/<owner>/<repo>/discussions/12   # optional
-  readings:               # optional, see "Recording interpretations"
-  - tradition: ...
-    rendering: ...
-    argument: ...
-    proposed_by: '@handle'
 ```
 
-Fields you normally edit: `modern`, `modern_status`, `notes`, `discussion`, `readings`.
+Fields you normally edit: `modern`, `modern_status`, `notes`, `discussion`.
 
 Fields you should not edit without a source: `original` and `en`. They are transcriptions of printed editions. `original` is the text in the work's original language (German for Marx and Engels, Russian for Lenin), and the work's `work.yaml` says which edition each column comes from. A change needs a facsimile page or an edition reference in the pull request.
 
@@ -62,17 +59,17 @@ Read [docs/translation-principles.md](docs/translation-principles.md) first. The
 3. Use the glossary term. If you disagree with the glossary, argue it in the glossary discussion instead of quietly using a different word.
 4. Plain modern English, readable aloud. No slang that will date in five years.
 
-## Recording interpretations
+## Interpretations, alternative translations and commentary
 
-People read these texts differently, and some lines carry real weight in arguments between tendencies: in the Manifesto, the state in CM II.66.1, democracy in CM II.65.1, the family in CM II.39.1, the nation in CM II.52.2. This project does not pretend those arguments are settled.
+People read these texts differently, and some lines carry real weight in arguments between tendencies: in the Manifesto, the state in CM II.66.1, democracy in CM II.65.1, the family in CM II.39.1, the nation in CM II.52.2. This project does not pretend those arguments are settled, and it does not let any of them win inside the shared text.
 
-The rule is:
+- The `modern` field in `works/` holds the single rendering that is most faithful to the original. Short, neutral translator notes go in `notes`.
+- A tradition's own way of translating a passage goes in `renderings/<tradition>/<work>.yaml`.
+- Footnotes, explanations, background, application today, critique, and later theory that extends or supersedes a passage go in `commentary/<tradition>/<work>.yaml`.
 
-- The `modern` field holds the single rendering that is most faithful to the original. It is not where an interpretation wins.
-- When a Discussion surfaces readings that differ in substance, each one is added to the verse's `readings` list with the tradition or school it comes from, how it would render or gloss the line, and the argument in a sentence or two. Name the tradition as its own adherents would name it.
-- A reading needs a source or a clear argument, and the Discussion link. Readings are not ranked.
+Read [docs/commentary-guide.md](docs/commentary-guide.md) for the kinds of entry and the rules, and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-If a reading shows that the original genuinely supports two translations, say so in `notes` and pick the more literal one for `modern`.
+If the original genuinely supports two translations, say so in `notes` and pick the more literal one for `modern`.
 
 ## Pull requests
 
@@ -83,13 +80,13 @@ If a reading shows that the original genuinely supports two translations, say so
 
 ## Discussions
 
-Recommended categories: **Interpretation**, **Glossary**, **Translation choices**, **Sources**, **General**. Title every thread with the verse number or glossary term in square brackets so search works: `[CM I.18.5] "All that is solid melts into air"`, `[WLC glossary] Arbeitskraft`.
+Categories: **Start here**, **Interpretation**, **Translation choices**, **Glossary**, **Traditions**, **Commentary review**, **Library proposals**, **Adaptations**, plus Announcements, General and Polls. Title every thread with the verse number or glossary term in square brackets so search works: `[CM I.18.5] "All that is solid melts into air"`, `[WLC glossary] Arbeitskraft`.
 
-When a thread reaches a conclusion, someone opens a pull request that writes it into the verse (`modern`, `notes`, or `readings`) and links the thread in `discussion`.
+When a thread reaches a conclusion, someone opens a pull request that writes it up (in the verse's `modern` or `notes`, or as a commentary entry or rendering) and links the thread. Categories, labels and search tips are in [docs/discussions.md](docs/discussions.md).
 
 ## Conduct
 
-Argue with positions, not people. Comrades from different tendencies are expected to disagree here and to keep working on the same text afterward. Personal attacks, sectarian baiting and harassment get a warning and then a ban.
+Argue with positions, not people. Comrades from different tendencies are expected to disagree here and to keep working on the same text afterward. The full rules are in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## Setup for the scripts
 

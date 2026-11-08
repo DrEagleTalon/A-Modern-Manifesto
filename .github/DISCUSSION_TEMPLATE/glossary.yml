@@ -1,0 +1,25 @@
+title: "[WORK glossary] "
+labels: ["glossary"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Glossary**: settle how a recurring term is translated across a work, or across the library.
+        Title: `[CM glossary] Aufhebung` or `[library glossary] Bourgeoisie`.
+  - type: input
+    id: term
+    attributes:
+      label: Term in the original
+    validations:
+      required: true
+  - type: input
+    id: verses
+    attributes:
+      label: Verses where it matters most
+      placeholder: CM II.13.1, CM II.39.1
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed rendering and reasons
+    validations:
+      required: true

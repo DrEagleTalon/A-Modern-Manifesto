@@ -1,11 +1,17 @@
-# Modern Classics Library
+# Left Classics
 
-An open, crowdsourced effort to make the classic texts of the socialist, communist and anarchist movements readable by working people today, without changing what the authors actually said.
+**The socialist, communist and anarchist classics, verse by verse, in plain English.**
 
-The library has two layers:
+Marx, Engels, Lenin, Luxemburg, Kropotkin, Malatesta and the rest, made readable for working people today without changing what they said, and open to every tradition on the left to explain, translate and argue about them in the open.
 
-1. **Translations** (`works/`). Every sentence of the original is a numbered verse. Beside it sit a historical English translation and a modern English draft, plus notes. The modern draft is faithful: plain words, same argument.
-2. **Adaptations** (`adaptations/`). Short pamphlets for today ("Who Profits From Your Work?") that use modern examples, modern money and modern workplaces. They say openly that they adapt, and they cite the verses they draw on, so any reader can check the original.
+The library has four layers, kept apart so the original is never weighed down:
+
+1. **Translations** (`works/`). Every sentence of the original is a numbered verse. Beside it sit a historical English translation and one shared modern English draft. The shared draft is faithful: plain words, same argument, no side taken.
+2. **Renderings** (`renderings/`). A tradition's own translation of the passages where it would translate differently: a Maoist rendering, an anarchist rendering, and so on.
+3. **Commentary** (`commentary/`). Each tradition's footnotes, explanations, background, application today, critique, and later theory that extends or supersedes a passage, each tied to a verse, a section or a whole work.
+4. **Adaptations** (`adaptations/`). Short pamphlets for today ("Who Profits From Your Work?") with modern examples and modern money, citing the verses they draw on so any reader can check the original.
+
+In the reader, renderings and commentary are off until you switch them on, and you can filter commentary by tradition and by kind.
 
 ## Works in the library
 
@@ -29,13 +35,13 @@ The queue of works and the copyright status of each is in [docs/roadmap.md](docs
 
 ## How contributing works
 
-You only ever edit YAML files in a work's `text/` folder (plus its `glossary.yaml`). The scripts do the rest:
+You only ever edit YAML: a work's `text/` and `glossary.yaml`, or your tradition's files in `commentary/` and `renderings/`. The scripts do the rest:
 
-- `scripts/validate.py` checks every change: verse numbers frozen, statuses valid, glossary and adaptation citations pointing at real verses.
+- `scripts/validate.py` checks every change: verse numbers frozen, statuses valid, and every verse cited by a glossary, commentary entry, rendering or adaptation actually exists.
 - `scripts/build.py` regenerates everything in `dist/`: per-work CSV, Excel workbook and Markdown tables, and the HTML reader for the whole library.
 - When a change is merged to `main`, GitHub Actions rebuilds `dist/`, commits it, and publishes the reader to GitHub Pages. Nobody edits `dist/` by hand.
 
-Start with [CONTRIBUTING.md](CONTRIBUTING.md). Numbering rules: [VERSIFICATION.md](VERSIFICATION.md). House style: [docs/translation-principles.md](docs/translation-principles.md). Adding a new work: [docs/adding-a-work.md](docs/adding-a-work.md).
+Start with [CONTRIBUTING.md](CONTRIBUTING.md). Then, depending on what you want to do: numbering rules in [VERSIFICATION.md](VERSIFICATION.md), house style in [docs/translation-principles.md](docs/translation-principles.md), commentary and renderings in [docs/commentary-guide.md](docs/commentary-guide.md), Discussions and labels in [docs/discussions.md](docs/discussions.md), adding a new work in [docs/adding-a-work.md](docs/adding-a-work.md). Everyone follows the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Repository layout
 
@@ -49,6 +55,9 @@ works/<work>/              one folder per work
   verse-ids.lock           every verse id ever issued; ids never change
   sources/                 the exact raw files the text was built from
   ingest/                  the one-time script that created the numbering
+renderings/<tradition>/    a tradition's alternative translations of chosen verses
+commentary/<tradition>/    a tradition's footnotes, explanations, critique and later theory
+traditions.yaml            the traditions recognised, named as their adherents name them
 adaptations/               modern pamphlets, each citing the verses it uses
 scripts/                   validate.py, build.py, reader template, shared lib/
 dist/                      generated reading copies (do not edit)
@@ -60,6 +69,10 @@ sources/                   the project's reference library from before the restr
 ## Prior work
 
 Hal Draper's *The Adventures of the Communist Manifesto* (1994) set the 1848 German, the 1850 and 1888 English and his own translation side by side. This library does that kind of work in the open, at sentence level, across many works, with the arguments kept beside the text.
+
+## Find this project
+
+GitHub topics: marxism, socialism, communism, anarchism, leftism, political-education, communist-manifesto, karl-marx, translation, open-source-translation.
 
 ## License
 

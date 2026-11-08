@@ -1,0 +1,37 @@
+# Seed entries showing the format. "general" is for textual history and scholarship that does not argue for a tendency.
+
+tradition: general
+work: WLC
+maintainers: []
+
+entries:
+  - id: engels-labour-to-labour-power
+    kind: development
+    relation: revises
+    targets: ["WLC"]
+    by: ["WLC P1891.5.1", "WLC P1891.5.2"]
+    title: Engels revised the whole text in 1891 so that workers sell labour-power, not labour
+    body: |
+      Engels explains that his changes all turn on one point: in the original the worker sells his labour to the
+      capitalist, in the revised text his labour-power (WLC P1891.5.1, WLC P1891.5.2). He made the change because Marx
+      worked out the distinction only later, in the 1850s, and in Capital. Each change is recorded as an 1849 variant
+      on its verse, for example WLC I.13.1.
+    sources:
+      - "Engels, Introduction to Wage Labour and Capital (1891), MEW 22, pp. 202-209"
+    see_also: ["WLC I.13.1", "WLC IV.9.1"]
+    authors: ["seed entry"]
+    status: proposed
+
+  - id: unfinished-plan
+    kind: context
+    targets: ["WLC I.4.1"]
+    title: Marx announced three parts; only the first was published
+    body: |
+      Marx promised to treat the relation of wage labour to capital, the ruin of the middle classes, and the
+      commercial subjugation of the bourgeois classes of the other European nations by England (WLC I.4.1). The
+      series broke off after the fifth instalment. Engels gives the reason: the Russian invasion of Hungary and the
+      uprisings of spring 1849, which led to the paper itself being shut down on 19 May 1849 (WLC P1891.1.3).
+    sources:
+      - "Engels, Introduction to Wage Labour and Capital (1891)"
+    authors: ["seed entry"]
+    status: proposed

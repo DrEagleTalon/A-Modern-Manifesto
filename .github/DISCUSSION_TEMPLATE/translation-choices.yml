@@ -1,0 +1,27 @@
+title: "[WORK VERSE] "
+labels: ["translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Translation choices** for the shared modern draft. For a tradition's own alternative wording, see `renderings/` instead.
+        Title: `[WLC I.13.1] labour-power or ability to work?`
+  - type: input
+    id: verses
+    attributes:
+      label: Work and verse(s)
+    validations:
+      required: true
+  - type: textarea
+    id: options
+    attributes:
+      label: The options
+      description: The original wording, the historical English, the current draft, and what you propose.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+    validations:
+      required: true

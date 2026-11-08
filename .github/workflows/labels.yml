@@ -1,0 +1,30 @@
+name: labels
+
+# Keeps repository labels in step with .github/labels.yml, works/*/work.yaml and traditions.yaml.
+# Adding a work or a tradition therefore adds its label automatically after merge.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/labels.yml"
+      - "traditions.yaml"
+      - "works/*/work.yaml"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - run: python scripts/sync_labels.py ${{ github.repository }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

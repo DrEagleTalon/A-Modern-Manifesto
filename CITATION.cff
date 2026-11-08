@@ -1,13 +1,13 @@
 cff-version: 1.2.0
 message: "Cite the work prefix and verse number (for example CM I.12.3 or WLC I.13.1) and this release."
-title: "Modern Classics Library: verse-numbered parallel editions and modern translations of socialist, communist and anarchist classics"
+title: "Left Classics: the socialist, communist and anarchist classics, verse by verse, in plain English"
 type: dataset
-version: 0.2.0
+version: 0.3.0
 date-released: 2026-11-07
 license: CC-BY-SA-4.0
 authors:
   - name: "Yusuf Talan Saunders and contributors"
-repository-code: "https://github.com/DrEagleTalon/A-Modern-Manifesto"
+repository-code: "https://github.com/DrEagleTalon/left-classics"
 references:
   - type: book
     title: "Manifest der Kommunistischen Partei"

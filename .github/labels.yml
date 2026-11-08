@@ -1,0 +1,72 @@
+# Labels used on issues, pull requests and Discussions.
+# Work labels ("work: CM") and tradition labels ("tradition: anarchist communist") are generated automatically
+# from works/*/work.yaml and traditions.yaml by scripts/sync_labels.py. Only the fixed labels live here.
+
+# What kind of commentary entry (matches `kind` in commentary/)
+- name: "kind: footnote"
+  color: "c5def5"
+  description: "gloss: a short note on a word or phrase"
+- name: "kind: translation note"
+  color: "c5def5"
+  description: "translation: an argument for rendering a word or passage differently"
+- name: "kind: explanation"
+  color: "c5def5"
+  description: "exegesis: what a passage, section or whole work means"
+- name: "kind: background"
+  color: "c5def5"
+  description: "context: history needed to understand the passage"
+- name: "kind: today"
+  color: "c5def5"
+  description: "application: how the idea applies to present conditions and organizing"
+- name: "kind: critique"
+  color: "c5def5"
+  description: "critique: where a tradition thinks the text is wrong"
+- name: "kind: later theory"
+  color: "c5def5"
+  description: "development: extended, revised or superseded by later thought"
+
+# What the thread or pull request is about
+- name: translation
+  color: "0e8a16"
+  description: "The shared modern draft of a work"
+- name: rendering
+  color: "0e8a16"
+  description: "A tradition's alternative translation in renderings/"
+- name: commentary
+  color: "0e8a16"
+  description: "An entry in commentary/"
+- name: glossary
+  color: "0e8a16"
+  description: "How a recurring term is translated"
+- name: adaptation
+  color: "0e8a16"
+  description: "A modern pamphlet in adaptations/"
+- name: source
+  color: "d93f0b"
+  description: "Original or historical English differs from the printed edition"
+- name: alignment
+  color: "d93f0b"
+  description: "Verses matched to the wrong sentence, or a review flag"
+- name: new work
+  color: "5319e7"
+  description: "Proposal or setup of a new work in the library"
+- name: tooling
+  color: "5319e7"
+  description: "Scripts, reader, workflows"
+
+# State of a contribution
+- name: needs German reader
+  color: "fbca04"
+  description: "Needs someone who reads the original language to check it"
+- name: needs tradition review
+  color: "fbca04"
+  description: "Waiting for a maintainer of the tradition concerned"
+- name: disputed
+  color: "b60205"
+  description: "Contested; see the Discussion before merging"
+- name: good first issue
+  color: "7057ff"
+  description: "Small, self-contained, good for a first contribution"
+- name: help wanted
+  color: "008672"
+  description: "Extra hands welcome"

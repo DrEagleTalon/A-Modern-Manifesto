@@ -1,34 +1,48 @@
 title: "[WORK VERSE] "
-labels: ["interpretation"]
+labels: ["commentary"]
 body:
   - type: markdown
     attributes:
       value: |
+        **Interpretation**: what a passage means, argued from a tradition or from the text itself.
         Title the thread with the work and verse, for example `[CM II.66.1] "in the hands of the State"`.
-        The goal is not to win but to record the serious readings of a passage on the verse itself.
-        Argue with positions, not people.
+        When the thread settles, someone writes it up as an entry in `commentary/<tradition>/` and links this thread.
+        Argue with positions, not people. Read CODE_OF_CONDUCT.md.
   - type: input
     id: verses
     attributes:
-      label: Work and verse number(s)
+      label: Work and verse(s)
+      placeholder: CM II.66.1
     validations:
       required: true
-  - type: textarea
-    id: reading
+  - type: dropdown
+    id: kind
     attributes:
-      label: The reading you are putting forward
-      description: How you read the passage, and how that would gloss or render it.
+      label: What kind of point is this?
+      options:
+        - Explanation (what it means)
+        - Background (history needed to understand it)
+        - Today (how it applies now)
+        - Critique (where the text is wrong)
+        - Later theory (extended, revised or superseded since)
+        - Footnote (a word or phrase)
     validations:
       required: true
   - type: input
     id: tradition
     attributes:
-      label: Tradition or school (as its own adherents name it)
-      placeholder: e.g. council communist, Marxist-Leninist, anarchist communist, Islamic socialist
+      label: Tradition you are writing from (as its adherents name it), or "none"
+      placeholder: anarchist-communist, marxist-leninist, maoist, general ...
+  - type: textarea
+    id: reading
+    attributes:
+      label: Your reading
+    validations:
+      required: true
   - type: textarea
     id: support
     attributes:
       label: Support
-      description: The original wording, other verses, other works in the library, scholarship. Cite sources.
+      description: The original wording, other verses, other works, scholarship. Cite sources.
     validations:
       required: true

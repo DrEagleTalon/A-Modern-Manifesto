@@ -8,6 +8,7 @@ Contributors never edit dist/. It is regenerated from works/*/text/**.yaml:
   dist/<work>/<work>.csv                 every verse of the work, one row each
   dist/<work>/<work>.xlsx                one sheet per section, for spreadsheet users
   dist/<work>/md/*.md                    parallel tables GitHub renders in the browser
+  dist/<work>/commentary.md              every commentary entry and rendering for the work, by verse
   dist/site/index.html                   single-file parallel reader for the whole library
 """
 import csv
@@ -18,6 +19,10 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 WORKS = ROOT / "works"
+COMMENTARY = ROOT / "commentary"
+RENDERINGS = ROOT / "renderings"
+KIND_LABEL = {"gloss": "Footnote", "translation": "Translation note", "exegesis": "Explanation", "context": "Background",
+              "application": "Today", "critique": "Critique", "development": "Later theory"}
 DIST = ROOT / "dist"
 
 COLS = ["id", "section", "kind", "original", "en", "modern", "modern_status", "joined_to", "notes",
@@ -142,7 +147,77 @@ def stats(docs):
     }
 
 
-def write_site(works):
+def load_layers():
+    trads = {t["slug"]: t for t in yaml.safe_load((ROOT / "traditions.yaml").read_text(encoding="utf-8")) or []}
+    entries, renders = [], []
+    for f in sorted(COMMENTARY.glob("*/*.yaml")) if COMMENTARY.exists() else []:
+        doc = yaml.safe_load(f.read_text(encoding="utf-8")) or {}
+        for e in doc.get("entries", []) or []:
+            e = dict(e)
+            e["tradition"] = doc["tradition"]
+            e["ref"] = f"{doc['tradition']}:{e['id']}"
+            e["file"] = f.relative_to(ROOT).as_posix()
+            entries.append(e)
+    for f in sorted(RENDERINGS.glob("*/*.yaml")) if RENDERINGS.exists() else []:
+        doc = yaml.safe_load(f.read_text(encoding="utf-8")) or {}
+        doc["file"] = f.relative_to(ROOT).as_posix()
+        renders.append(doc)
+    return trads, entries, renders
+
+
+def entries_for(prefix, entries):
+    return [e for e in entries if any(str(t).split(" ")[0] == prefix for t in e.get("targets", []))]
+
+
+def target_sort_key(t, order, sections):
+    parts = str(t).split(" ", 1)
+    if len(parts) == 1:
+        return (-2, 0)
+    ref = parts[1].split("-")[0]
+    if ref in order:
+        return (order[ref], 0)
+    return (min((i for v, i in order.items() if v.split(".")[0] == ref), default=-1), -1)
+
+
+def write_commentary_md(meta, docs, trads, entries, renders, out):
+    order = {v["id"]: i for i, v in enumerate(vv for d in docs for vv in d["verses"])}
+    mine = entries_for(meta["prefix"], entries)
+    mine.sort(key=lambda e: min(target_sort_key(t, order, None) for t in e["targets"] if str(t).startswith(meta["prefix"])))
+    lines = [f"# Commentary on {meta['title']} ({meta['prefix']})", "",
+             "Generated from `commentary/` and `renderings/`. Each tradition writes in its own files; see docs/commentary-guide.md.", ""]
+    if not mine:
+        lines.append("_No commentary yet._")
+    for e in mine:
+        t = trads.get(e["tradition"], {}).get("name", e["tradition"])
+        kind = KIND_LABEL.get(e["kind"], e["kind"])
+        if e["kind"] == "development":
+            kind += f" ({e.get('relation')})"
+        lines += [f"## {', '.join(e['targets'])} · {e['title']}", "",
+                  f"**{t}** · {kind} · status: {e.get('status')} · `{e['ref']}`", ""]
+        if e.get("responds_to"):
+            lines += [f"Responds to `{e['responds_to']}`.", ""]
+        lines += [e["body"].strip(), ""]
+        if e.get("by"):
+            lines += ["By: " + "; ".join(map(str, e["by"])), ""]
+        if e.get("sources"):
+            lines += ["Sources:"] + [f"- {x}" for x in e["sources"]] + [""]
+        if e.get("see_also"):
+            lines += ["See also: " + ", ".join(map(str, e["see_also"])), ""]
+        if e.get("discussion"):
+            lines += [f"[Discussion]({e['discussion']})", ""]
+    rs = [r for r in renders if r.get("work") == meta["prefix"]]
+    if rs:
+        lines += ["# Renderings by tradition", ""]
+        for r in rs:
+            lines += [f"## {trads.get(r['tradition'], {}).get('name', r['tradition'])}", "", r.get("principles", "").strip(), "",
+                      "| Verse | Rendering | Note |", "|---|---|---|"]
+            for v in r.get("verses", []):
+                lines.append(f"| {v['verse']} | {md_cell(v['text'])} | {md_cell(v.get('note', ''))} |")
+            lines.append("")
+    (out / "commentary.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def write_site(works, trads, entries, renders):
     out = DIST / "site"
     out.mkdir(parents=True, exist_ok=True)
     data = []
@@ -157,10 +232,16 @@ def write_site(works):
                 "original_language": d["original_language"], "anchor": d["anchor_language"],
                 "verses": [{k: v[k] for k in v if k in COLS} for v in d["verses"]],
             } for d in docs],
+            "commentary": [{k: e[k] for k in e if k != "file"} for e in entries_for(meta["prefix"], entries)],
+            "renderings": {r["tradition"]: {"principles": r.get("principles", ""),
+                                             "verses": {str(v["verse"]): v for v in r.get("verses", [])}}
+                           for r in renders if r.get("work") == meta["prefix"]},
         })
+    library = {"works": data, "traditions": [{k: t[k] for k in ("slug", "code", "name", "description")} for t in trads.values()],
+               "kinds": KIND_LABEL}
     tpl = (ROOT / "scripts" / "reader_template.html").read_text(encoding="utf-8")
-    payload = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
-    (out / "index.html").write_text(tpl.replace("/*__DATA__*/[]", payload), encoding="utf-8")
+    payload = json.dumps(library, ensure_ascii=False, default=str).replace("</", "<\\/")
+    (out / "index.html").write_text(tpl.replace("/*__DATA__*/{}", payload), encoding="utf-8")
 
 
 def write_index(works):
@@ -178,15 +259,17 @@ def write_index(works):
 def main():
     DIST.mkdir(exist_ok=True)
     works = load()
+    trads, entries, renders = load_layers()
     for meta, docs in works:
         out = DIST / meta["id"]
         out.mkdir(parents=True, exist_ok=True)
         write_csv(meta, docs, out)
         write_xlsx(meta, docs, out)
         write_md(meta, docs, out)
+        write_commentary_md(meta, docs, trads, entries, renders, out)
         s = stats(docs)
         print(f"{meta['prefix']:>4}: {s['verses']} verses | {s['seed']} seed | {s['draft']} draft | {s['reviewed']} reviewed | {s['review_flags']} alignment checks")
-    write_site(works)
+    write_site(works, trads, entries, renders)
     write_index(works)
 
 

@@ -46,6 +46,8 @@ Plain, serious, spoken English. Readable aloud at a meeting. No academic jargon 
 
 Modern examples, today's money, today's workplaces and updated statistics belong in `adaptations/`, never in the `modern` column. A reader of the modern draft must be able to trust that it says what the original says.
 
+The same goes for interpretation. A tradition's reading of a passage belongs in `commentary/`, and its preferred wording in `renderings/` (see [commentary-guide.md](commentary-guide.md)). The shared draft takes no side.
+
 ## 10. Notes
 
 `notes` is for short, sourced remarks: what a term meant in 1848, a variant reading between editions, a historical reference, a cross-reference to another verse. Arguments longer than a few sentences go to a Discussion and the note links to it.

@@ -1,0 +1,95 @@
+# Traditions recognised in commentary/ and renderings/.
+#
+# A tradition is named the way its own adherents name it. To add one, open a pull request that adds an entry
+# here, with at least one maintainer who belongs to that tradition. Descriptions are one neutral sentence;
+# adherents may rewrite their own. `code` is the short form used in labels and entry references.
+
+- slug: general
+  code: gen
+  name: General (no particular tradition)
+  description: "Textual history, editions, translation scholarship and historical background that does not argue for a tendency."
+
+- slug: classical-marxist
+  code: cm
+  name: Classical Marxist
+  description: "Reads Marx and Engels on their own terms and in their own period, before the later schools."
+
+- slug: marxist-leninist
+  code: ml
+  name: Marxist-Leninist
+  description: "Marxism as developed by Lenin and the Communist International, with the vanguard party and the socialist state at its centre."
+
+- slug: maoist
+  code: mlm
+  name: Marxist-Leninist-Maoist
+  description: "Marxism-Leninism as developed by Mao Zedong, including protracted people's war, the mass line and continued class struggle under socialism."
+
+- slug: trotskyist
+  code: trot
+  name: Trotskyist
+  description: "Marxism as developed by Trotsky and the Fourth International, including permanent revolution and the critique of Soviet bureaucracy."
+
+- slug: left-communist
+  code: leftcom
+  name: Left communist
+  description: "Communist currents that broke with the Third International from the left, including the Italian and German-Dutch lefts."
+
+- slug: council-communist
+  code: council
+  name: Council communist
+  description: "Working-class self-government through workers' councils rather than parties or the state."
+
+- slug: autonomist
+  code: auto
+  name: Autonomist Marxist
+  description: "Marxism centred on the self-activity of workers independent of parties and unions, from Italian operaismo onward."
+
+- slug: anarchist-communist
+  code: ancom
+  name: Anarchist communist
+  description: "A stateless, classless society organised through free federation and distribution according to need."
+
+- slug: anarcho-syndicalist
+  code: ansyn
+  name: Anarcho-syndicalist
+  description: "Revolutionary unions as both the means of struggle and the structure of a free society."
+
+- slug: libertarian-socialist
+  code: libsoc
+  name: Libertarian socialist
+  description: "Broad anti-authoritarian socialism, including social ecology and municipalism."
+
+- slug: democratic-socialist
+  code: demsoc
+  name: Democratic socialist
+  description: "Socialism pursued through democratic, including electoral, means."
+
+- slug: eco-socialist
+  code: eco
+  name: Eco-socialist
+  description: "Socialism that treats ecological limits and the metabolic rift as central."
+
+- slug: marxist-feminist
+  code: fem
+  name: Marxist and socialist feminist
+  description: "Class analysis joined with the analysis of gender, reproductive labour and the family."
+
+- slug: black-radical
+  code: black
+  name: Black radical tradition
+  description: "Black Marxist and Black radical thought on race, slavery, racial capitalism and liberation."
+
+- slug: anti-colonial
+  code: anticol
+  name: Anti-colonial and Third World Marxist
+  description: "Analysis from the colonised world: imperialism, national liberation, dependency and unequal exchange."
+
+- slug: islamic-socialist
+  code: islam
+  name: Islamic socialist (Islamic left)
+  description: "Readings grounded in Islamic ethics and law that oppose exploitation, usury and empire."
+
+- slug: christian-socialist
+  code: christ
+  name: Christian socialist and liberation theology
+  description: "Readings grounded in Christian teaching and the preferential option for the poor."

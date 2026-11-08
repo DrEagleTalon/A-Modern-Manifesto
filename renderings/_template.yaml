@@ -1,0 +1,15 @@
+# Copy to renderings/<tradition-slug>/<work-id>.yaml (for example renderings/maoist/communist-manifesto.yaml).
+# A rendering is a tradition's own modern translation of the verses where it would translate differently
+# from the shared modern draft. List only the verses that differ. Full guide: docs/commentary-guide.md
+
+tradition: maoist                     # a slug from traditions.yaml
+work: CM                              # the work's citation prefix
+maintainers: ["@your-github-handle"]
+principles: |
+  Two or three sentences: what this rendering does differently from the shared modern draft, and why.
+
+verses:
+  - verse: II.66.1                    # a verse id in this work, without the prefix
+    text: Your modern rendering of this one verse.
+    note: Why it differs from the shared draft. Cite the original wording and your sources.
+    status: draft                     # draft | reviewed

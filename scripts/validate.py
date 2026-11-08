@@ -124,7 +124,8 @@ def check_work(wdir, meta, docs, errors, warnings, update_lock=False, init_lock=
                     errors.append(f"{rel(g)} '{entry.get('term')}': verse {ref} does not exist")
             if entry.get("status") not in ("open", "interim", "decided"):
                 errors.append(f"{rel(g)} '{entry.get('term')}': status must be open, interim or decided")
-    return set(seen)
+    sections = {str(d.get('section')) for _, d in docs} | {v.split('.')[0] for v in order}
+    return order, sections
 
 
 def check_adaptations(index, errors):
@@ -139,9 +140,147 @@ def check_adaptations(index, errors):
                 errors.append(f"{md.relative_to(ROOT)}: cites {prefix} {vid}, which does not exist")
 
 
+# ------------------------------------------------------------------ commentary and renderings
+
+COMMENTARY = ROOT / "commentary"
+RENDERINGS = ROOT / "renderings"
+TRADITIONS = ROOT / "traditions.yaml"
+KINDS_C = {"gloss", "translation", "exegesis", "context", "application", "critique", "development"}
+RELATIONS = {"extends", "revises", "supersedes"}
+STATUS_C = {"proposed", "accepted", "disputed", "retired"}
+STATUS_R = {"draft", "reviewed"}
+SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+TARGET = re.compile(r"^([A-Z]{2,6})(?: ([^\s-]+)(?:-([^\s]+))?)?$")
+
+
+def resolve_target(t, works):
+    """'CM' (whole work), 'CM II' (section), 'CM II.66.1' (verse), 'CM II.65.1-II.81.1' (range)."""
+    m = TARGET.match(str(t).strip())
+    if not m or m.group(1) not in works:
+        return f"unknown work in '{t}'"
+    w = works[m.group(1)]
+    a, b = m.group(2), m.group(3)
+    if a is None:
+        return None
+    if b is None and "." not in a:
+        return None if a in w["sections"] else f"no section '{a}' in {m.group(1)}"
+    for x in (a, b):
+        if x is not None and x not in w["order"]:
+            return f"no verse {m.group(1)} {x}"
+    if b is not None and w["order"][b] < w["order"][a]:
+        return f"range '{t}' runs backwards"
+    return None
+
+
+def load_traditions(errors):
+    if not TRADITIONS.exists():
+        errors.append("traditions.yaml is missing")
+        return {}
+    trads, codes = {}, set()
+    for t in yaml.safe_load(TRADITIONS.read_text(encoding="utf-8")) or []:
+        for k in ("slug", "code", "name", "description"):
+            if not t.get(k):
+                errors.append(f"traditions.yaml: entry {t.get('slug', '?')} missing '{k}'")
+        if t.get("slug") in trads or t.get("code") in codes:
+            errors.append(f"traditions.yaml: duplicate slug or code for {t.get('slug')}")
+        trads[t.get("slug")] = t
+        codes.add(t.get("code"))
+    return trads
+
+
+def check_commentary(works, errors):
+    trads = load_traditions(errors)
+    by_prefix = {p: w["id"] for p, w in works.items()}
+    entries, n_c, n_r = {}, 0, 0
+    files = [f for f in sorted(COMMENTARY.glob("*/*.yaml"))] if COMMENTARY.exists() else []
+    # pass 1: collect ids so responds_to / see_also can point anywhere
+    loaded = []
+    for f in files:
+        rel = f.relative_to(ROOT)
+        doc = yaml.safe_load(f.read_text(encoding="utf-8")) or {}
+        trad, work = doc.get("tradition"), str(doc.get("work", ""))
+        if trad != f.parent.name:
+            errors.append(f"{rel}: tradition '{trad}' must match its folder '{f.parent.name}'")
+        if trad not in trads:
+            errors.append(f"{rel}: tradition '{trad}' is not in traditions.yaml")
+        if f.stem == "_library":
+            if work != "*":
+                errors.append(f"{rel}: _library.yaml must have work: \"*\"")
+        elif work not in by_prefix or by_prefix[work] != f.stem:
+            errors.append(f"{rel}: work '{work}' must be the prefix of works/{f.stem}")
+        for e in doc.get("entries", []) or []:
+            key = f"{trad}:{e.get('id')}"
+            if not SLUG.match(str(e.get("id", ""))):
+                errors.append(f"{rel}: entry id '{e.get('id')}' must be lower-case words joined by hyphens")
+            if key in entries:
+                errors.append(f"{rel}: duplicate entry id {key}")
+            entries[key] = rel
+            loaded.append((rel, trad, e))
+    for rel, trad, e in loaded:
+        n_c += 1
+        where = f"{rel} {e.get('id')}"
+        if e.get("kind") not in KINDS_C:
+            errors.append(f"{where}: kind must be one of {sorted(KINDS_C)}")
+        for k in ("title", "body", "targets", "authors", "status"):
+            if not e.get(k):
+                errors.append(f"{where}: missing '{k}'")
+        if e.get("status") not in STATUS_C:
+            errors.append(f"{where}: status must be one of {sorted(STATUS_C)}")
+        for t in e.get("targets", []) or []:
+            msg = resolve_target(t, works)
+            if msg:
+                errors.append(f"{where}: target {msg}")
+        if e.get("kind") == "development":
+            if e.get("relation") not in RELATIONS:
+                errors.append(f"{where}: development entries need relation: extends | revises | supersedes")
+            if not e.get("by"):
+                errors.append(f"{where}: development entries need `by` (what extends, revises or supersedes it)")
+        elif "relation" in e:
+            errors.append(f"{where}: `relation` is only for development entries")
+        refs = list(e.get("see_also", []) or []) + list(e.get("by", []) or [])
+        if e.get("responds_to"):
+            refs.append(e["responds_to"])
+        for r in refs:
+            r = str(r)
+            if re.match(r"^[a-z0-9-]+:[a-z0-9-]+$", r):
+                if r not in entries:
+                    errors.append(f"{where}: refers to entry {r}, which does not exist")
+            elif TARGET.match(r.split(" ")[0] if " " not in r else r) and r.split(" ")[0] in works:
+                msg = resolve_target(r, works)
+                if msg:
+                    errors.append(f"{where}: reference {msg}")
+            # anything else is a free-text source (a book outside the library), allowed
+    rfiles = sorted(RENDERINGS.glob("*/*.yaml")) if RENDERINGS.exists() else []
+    for f in rfiles:
+        rel = f.relative_to(ROOT)
+        doc = yaml.safe_load(f.read_text(encoding="utf-8")) or {}
+        trad, work = doc.get("tradition"), str(doc.get("work", ""))
+        if trad != f.parent.name or trad not in trads:
+            errors.append(f"{rel}: tradition '{trad}' must match its folder and be in traditions.yaml")
+        if work not in by_prefix or by_prefix[work] != f.stem:
+            errors.append(f"{rel}: work '{work}' must be the prefix of works/{f.stem}")
+            continue
+        if not doc.get("principles"):
+            errors.append(f"{rel}: say in `principles` how this rendering differs from the shared draft")
+        seen = set()
+        for v in doc.get("verses", []) or []:
+            n_r += 1
+            vid = str(v.get("verse", ""))
+            if vid not in works[work]["order"]:
+                errors.append(f"{rel}: no verse {work} {vid}")
+            if vid in seen:
+                errors.append(f"{rel}: verse {vid} rendered twice")
+            seen.add(vid)
+            if not v.get("text"):
+                errors.append(f"{rel} {vid}: empty text")
+            if v.get("status") not in STATUS_R:
+                errors.append(f"{rel} {vid}: status must be draft or reviewed")
+    return n_c, n_r
+
+
 def main(argv):
     errors, warnings = [], []
-    index, prefixes = {}, {}
+    index, prefixes, works = {}, {}, {}
     init_target = argv[argv.index("--init-lock") + 1] if "--init-lock" in argv else None
     total = 0
     for wdir, meta, docs in load_works():
@@ -149,16 +288,19 @@ def main(argv):
         if p in prefixes:
             errors.append(f"citation prefix {p} used by both {prefixes[p]} and {wdir.name}")
         prefixes[p] = wdir.name
-        ids = check_work(wdir, meta, docs, errors, warnings,
-                         update_lock="--update-lock" in argv, init_lock=(init_target == wdir.name))
-        index[p] = ids
-        total += len(ids)
+        order, sections = check_work(wdir, meta, docs, errors, warnings,
+                                     update_lock="--update-lock" in argv, init_lock=(init_target == wdir.name))
+        index[p] = set(order)
+        works[p] = {"id": wdir.name, "order": {v: i for i, v in enumerate(order)}, "sections": sections}
+        total += len(order)
     check_adaptations(index, errors)
+    n_c, n_r = check_commentary(works, errors)
     for w in warnings:
         print("warning:", w)
     for e in errors:
         print("ERROR:", e)
-    print(f"{len(index)} work(s), {total} verses checked, {len(errors)} error(s), {len(warnings)} warning(s)")
+    print(f"{len(index)} work(s), {total} verses, {n_c} commentary entries, {n_r} rendered verses checked: "
+          f"{len(errors)} error(s), {len(warnings)} warning(s)")
     return 1 if errors else 0
 
 

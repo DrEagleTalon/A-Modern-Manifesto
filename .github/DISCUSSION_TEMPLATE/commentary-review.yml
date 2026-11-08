@@ -1,0 +1,33 @@
+title: "[tradition:entry-id] "
+labels: ["commentary"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Commentary review**: questions, corrections or objections about a specific commentary entry.
+        Title it with the entry reference, for example `[general:idiotismus-is-isolation]`.
+        To disagree from another tradition, the usual answer is a new entry in *your* tradition's file with `responds_to`. This thread is for checking facts, sources and fairness.
+  - type: input
+    id: entry
+    attributes:
+      label: Entry reference (tradition:id)
+    validations:
+      required: true
+  - type: dropdown
+    id: issue
+    attributes:
+      label: What is the concern?
+      options:
+        - A fact or source is wrong or missing
+        - It misstates what the original says
+        - It misrepresents another tradition
+        - It is filed under the wrong kind
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details and sources
+    validations:
+      required: true
