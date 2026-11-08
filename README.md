@@ -26,7 +26,7 @@ Every work planned for the library, in queue order, and how far along it is. **R
 | 4 | [Principles of Communism (1847)](works/principles-of-communism) | Friedrich Engels | `PC` | German | B | ✅ ready for rewrite | 233 verses · 0 seeded · 0 drafted · 0 alignment checks |
 | 5 | Preamble of the Industrial Workers of the World (1908) | Industrial Workers of the World | `IWW` | English | A | ⏳ planned |  |
 | 6 | [Socialism: Utopian and Scientific (1880)](works/socialism-utopian-and-scientific) | Friedrich Engels | `SUS` | German | A | ✅ ready for rewrite | 867 verses · 0 seeded · 0 drafted · 83 alignment checks |
-| 7 | The Conquest of Bread (1892) | Peter Kropotkin | `CB` | French | A | ⏳ planned |  |
+| 7 | [The Conquest of Bread (1892)](works/conquest-of-bread) | Peter Kropotkin | `CB` | French | A | ✅ ready for rewrite | 2770 verses · 0 seeded · 0 drafted · 0 alignment checks |
 | 8 | Anarchy (1891) | Errico Malatesta | `AN` | Italian | A | ⏳ planned |  |
 | 9 | God and the State (1882) | Mikhail Bakunin | `GAS` | French | A | ⏳ planned |  |
 | 10 | The Civil War in France (1871) | Karl Marx | `CWF` | English | A | 📦 sourced |  |

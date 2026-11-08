@@ -95,10 +95,10 @@
   original_language: fr
   tier: A
   priority: 7
-  stage: planned
+  stage: ready
   sources:
     english: ["gutenberg:The-Conquest-of-Bread_23428"]
-  notes: English fetched to works/conquest-of-bread/sources/; French original (La Conquête du pain) still to locate on a reachable mirror; needs French sentence rules.
+  notes: "English-only build from the 1906 translation with the 1913 preface (Gutenberg 23428-8.txt, added by hand beside the fetched ASCII file); the English sets the verses for now. French original (La Conquête du pain) still to locate on a reachable mirror, and needs French sentence rules; it then fills the original column without renumbering."
 
 - id: anarchy-malatesta
   prefix: AN

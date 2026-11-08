@@ -1,0 +1,938 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: X
+title_original: Chapter X. Agreeable Work
+title_en: Chapter X. Agreeable Work
+author: Peter Kropotkin
+date: 1892 (French); English 1906
+original_language: fr
+anchor_language: en
+source_original: Not yet in this repository. Kropotkin's French, La Conquête du pain (Paris 1892), is still to be located on a reachable mirror.
+source_en: 'Anonymous English translation (London: Chapman and Hall, 1906) with Kropotkin''s preface of 1913, Vanguard Press printing (New York 1926), Project Gutenberg ebook 23428 (public domain)'
+verses:
+- id: X.0.1
+  kind: heading
+  original: ''
+  en: Chapter X. Agreeable Work
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.1.1
+  kind: heading
+  original: ''
+  en: I
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.2.1
+  kind: p
+  original: ''
+  en: When Socialists maintain that a society, freed from the rule of the capitalists, would make work agreeable, and would suppress all repugnant and unhealthy drudgery, they are laughed at.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.2.2
+  kind: p
+  original: ''
+  en: And yet even to-day we can see the striking progress that is being made in this direction; and wherever this progress has been achieved, employers congratulate themselves on the economy of energy obtained thereby.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.3.1
+  kind: p
+  original: ''
+  en: It is evident that a factory could be made as healthy and pleasant as a scientific laboratory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.3.2
+  kind: p
+  original: ''
+  en: And it is no less evident that it would be advantageous to make it so.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.3.3
+  kind: p
+  original: ''
+  en: In a spacious and well-ventilated factory the work is better; it is easy to introduce many small ameliorations, of which each represents an economy of time or of manual labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.3.4
+  kind: p
+  original: ''
+  en: And if most of the workshops we know are foul and unhealthy, it is because the workers are of no account in the organization of factories, and because the most absurd waste of human energy is the distinctive feature of the present industrial organization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.4.1
+  kind: p
+  original: ''
+  en: Nevertheless, now and again, we already find, even now, some factories so well managed that it would be a real pleasure to work in them, if the work, be it well understood, were not to last more than four or five hours a day, and if every one had the possibility of varying it according to his tastes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.5.1
+  kind: p
+  original: ''
+  en: There are immense works, which I know, in one of the Midland counties, unfortunately consecrated to engines of war.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.5.2
+  kind: p
+  original: ''
+  en: They are perfect as regards sanitary and intelligent organization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.5.3
+  kind: p
+  original: ''
+  en: They occupy fifty English acres of land, fifteen of which are roofed with glass.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.5.4
+  kind: p
+  original: ''
+  en: The pavement of fire-proof bricks is as clean as that of a miner's cottage, and the glass roof is carefully cleaned by a gang of workmen who do nothing else.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.5.5
+  kind: p
+  original: ''
+  en: In these works are forged steel ingots or blooms weighing as much as twenty tons; and when you stand thirty feet from the immense furnace, whose flames have a temperature of more than a thousand degrees, you do not guess its presence save when its great doors open to let out a steel monster.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.5.6
+  kind: p
+  original: ''
+  en: And the monster is handled by only three or four workmen, who now here, now there, open a tap causing immense cranes to move one way or another by the pressure of water.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.6.1
+  kind: p
+  original: ''
+  en: You enter these works expecting to hear the deafening noise of stampers, and you find that there are no stampers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.6.2
+  kind: p
+  original: ''
+  en: The immense hundred-ton guns and the crank-shafts of transatlantic steamers are forged by hydraulic pressure, and the worker has but to turn a tap to give shape to the immense mass of steel, which makes a far more homogeneous metal, without crack or flaw, of the blooms, whatever be their thickness.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.7.1
+  kind: p
+  original: ''
+  en: I expected an infernal grating, and I saw machines which cut blocks of steel thirty feet long with no more noise than is needed to cut cheese.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.7.2
+  kind: p
+  original: ''
+  en: And when I expressed my admiration to the engineer who showed us round, he answered--
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.8.1
+  kind: p
+  original: ''
+  en: '"A mere question of economy!'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.8.2
+  kind: p
+  original: ''
+  en: This machine, that planes steel, has been in use for forty-two years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.8.3
+  kind: p
+  original: ''
+  en: It would not have lasted ten years if its parts, badly adjusted, 'interfered' and creaked at each movement of the plane!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.9.1
+  kind: p
+  original: ''
+  en: '"And the blast-furnaces?'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.9.2
+  kind: p
+  original: ''
+  en: It would be a waste to let heat escape instead of utilizing it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.9.3
+  kind: p
+  original: ''
+  en: Why roast the founders, when heat lost by radiation represents tons of coal?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.10.1
+  kind: p
+  original: ''
+  en: '"The stampers that made buildings shake five leagues off were also waste.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.10.2
+  kind: p
+  original: ''
+  en: Is it not better to forge by pressure than by impact, and it costs less--there is less loss.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.11.1
+  kind: p
+  original: ''
+  en: '"In these works, light, cleanliness, the space allotted to each bench, are but a simple question of economy.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.11.2
+  kind: p
+  original: ''
+  en: Work is better done when you can see what you do, and have elbow-room.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.12.1
+  kind: p
+  original: ''
+  en: '"It is true," he said, "we were very cramped before coming here.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.12.2
+  kind: p
+  original: ''
+  en: Land is so expensive in the vicinity of large towns--landlords are so grasping!"
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.13.1
+  kind: p
+  original: ''
+  en: It is even so in mines.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.13.2
+  kind: p
+  original: ''
+  en: We know what mines are like nowadays from Zola's descriptions and from newspaper reports.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.13.3
+  kind: p
+  original: ''
+  en: 'But the mine of the future will be well ventilated, with a temperature as easily regulated as that of a library; there will be no horses doomed to die below the earth: underground traction will be carried on by means of an automatic cable put into motion at the pit''s mouth.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.13.4
+  kind: p
+  original: ''
+  en: Ventilators will be always working, and there will never be explosions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.13.5
+  kind: p
+  original: ''
+  en: This is no dream, such a mine is already to be seen in England; I went down it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.13.6
+  kind: p
+  original: ''
+  en: Here again the excellent organization is simply a question of economy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.13.7
+  kind: p
+  original: ''
+  en: The mine of which I speak, in spite of its immense depth (466 yards), has an output of a thousand tons of coal a day, with only two hundred miners--five tons a day per each worker, whereas the average for the two thousand pits in England at the time I visited this mine in the early 'nineties, was hardly three hundred tons a year per man.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.14.1
+  kind: p
+  original: ''
+  en: If necessary, it would be easy to multiply examples proving that as regards the material organization Fourier's dream was not a Utopia.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.15.1
+  kind: p
+  original: ''
+  en: This question has, however, been so frequently discussed in Socialist newspapers that public opinion should already be educated on this point.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.15.2
+  kind: p
+  original: ''
+  en: Factory, forge and mine can be as healthy and magnificent as the finest laboratories in modern universities, and the better the organization the more will man's labour produce.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.16.1
+  kind: p
+  original: ''
+  en: If it be so, can we doubt that work will become a pleasure and a relaxation in a society of equals, in which "hands" will not be compelled to sell themselves to toil, and to accept work under any conditions?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.16.2
+  kind: p
+  original: ''
+  en: Repugnant tasks will disappear, because it is evident that these unhealthy conditions are harmful to society as a whole.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.16.3
+  kind: p
+  original: ''
+  en: Slaves can submit to them, but free men will create new conditions, and their work will be pleasant and infinitely more productive.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.16.4
+  kind: p
+  original: ''
+  en: The exceptions of to-day will be the rule of to-morrow.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.17.1
+  kind: p
+  original: ''
+  en: The same will come to pass as regards domestic work, which to-day society lays on the shoulders of that drudge of humanity--woman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.18.1
+  kind: heading
+  original: ''
+  en: II
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.19.1
+  kind: p
+  original: ''
+  en: A society regenerated by the Revolution will make domestic slavery disappear--this last form of slavery, perhaps the most tenacious, because it is also the most ancient.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.19.2
+  kind: p
+  original: ''
+  en: Only it will not come about in the way dreamt of by Phalansterians, nor in the manner often imagined by authoritarian Communists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.20.1
+  kind: p
+  original: ''
+  en: Phalansteries are repugnant to millions of human beings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.20.2
+  kind: p
+  original: ''
+  en: The most reserved man certainly feels the necessity of meeting his fellows for the purpose of common work, which becomes the more attractive the more he feels himself a part of an immense whole.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.20.3
+  kind: p
+  original: ''
+  en: But it is not so for the hours of leisure, reserved for rest and intimacy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.20.4
+  kind: p
+  original: ''
+  en: The phalanstery and the familystery do not take this into account, or else they endeavour to supply this need by artificial groupings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.21.1
+  kind: p
+  original: ''
+  en: A phalanstery, which is in fact nothing but an immense hotel, can please some, and even all at a certain period of their life, but the great mass prefers family life (family life of the future, be it understood).
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.21.2
+  kind: p
+  original: ''
+  en: They prefer isolated apartments, Anglo-Saxons even going as far as to prefer houses of from six to eight rooms, in which the family, or an agglomeration of friends, can live apart.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.21.3
+  kind: p
+  original: ''
+  en: Sometimes a phalanstery is a necessity, but it would be hateful, were it the general rule.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.21.4
+  kind: p
+  original: ''
+  en: Isolation, alternating with time spent in society, is the normal desire of human nature.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.21.5
+  kind: p
+  original: ''
+  en: This is why one of the greatest tortures in prison is the impossibility of isolation, much as solitary confinement becomes torture in its turn, when not alternated with hours of social life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.22.1
+  kind: p
+  original: ''
+  en: As to considerations of economy, which are sometimes laid stress on in favour of phalansteries, they are those of a petty tradesman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.22.2
+  kind: p
+  original: ''
+  en: The most important economy, the only reasonable one, is to make life pleasant for all, because the man who is satisfied with his life produces infinitely more than the man who curses his surroundings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - X.N8
+- id: X.23.1
+  kind: p
+  original: ''
+  en: Other Socialists reject the phalanstery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.23.2
+  kind: p
+  original: ''
+  en: 'But when you ask them how domestic work can be organized, they answer: "Each can do ''his own work.'''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.23.3
+  kind: p
+  original: ''
+  en: My wife manages the house; the wives of bourgeois will do as much."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.23.4
+  kind: p
+  original: ''
+  en: 'And if it is a bourgeois playing at Socialism who speaks, he will add, with a gracious smile to his wife: "Is it not true, darling, that you would do without a servant in the Socialist society?'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.23.5
+  kind: p
+  original: ''
+  en: You would work like the wife of our good comrade Paul or the wife of John the carpenter?"
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.24.1
+  kind: p
+  original: ''
+  en: Servant or wife, man always reckons on woman to do the house-work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.25.1
+  kind: p
+  original: ''
+  en: But woman, too, at last claims her share in the emancipation of humanity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.25.2
+  kind: p
+  original: ''
+  en: She no longer wants to be the beast of burden of the house.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.25.3
+  kind: p
+  original: ''
+  en: She considers it sufficient work to give many years of her life to the rearing of her children.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.25.4
+  kind: p
+  original: ''
+  en: She no longer wants to be the cook, the mender, the sweeper of the house!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.25.5
+  kind: p
+  original: ''
+  en: And, owing to American women taking the lead in obtaining their claims, there is a general complaint of the dearth of women who will condescend to domestic work in the United States.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.25.6
+  kind: p
+  original: ''
+  en: My lady prefers art, politics, literature, or the gaming tables; as to the work-girls, they are few, those who consent to submit to apron-slavery, and servants are only found with difficulty in the States.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.25.7
+  kind: p
+  original: ''
+  en: Consequently, the solution, a very simple one, is pointed out by life itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.25.8
+  kind: p
+  original: ''
+  en: Machinery undertakes three-quarters of the household cares.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.26.1
+  kind: p
+  original: ''
+  en: You black your boots, and you know how ridiculous this work is.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.26.2
+  kind: p
+  original: ''
+  en: What can be more stupid than rubbing a boot twenty or thirty times with a brush?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.26.3
+  kind: p
+  original: ''
+  en: A tenth of the European population must be compelled to sell itself in exchange for a miserable shelter and insufficient food, and woman must consider herself a slave, in order that millions of her sex should go through this performance every morning.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.27.1
+  kind: p
+  original: ''
+  en: But hairdressers have already machines for brushing glossy or woolly heads of hair.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.27.2
+  kind: p
+  original: ''
+  en: Why should we not apply, then, the same principle to the other extremity?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.27.3
+  kind: p
+  original: ''
+  en: So it has been done, and nowadays the machine for blacking boots is in general use in big American and European hotels.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.27.4
+  kind: p
+  original: ''
+  en: Its use is spreading outside hotels.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.27.5
+  kind: p
+  original: ''
+  en: In large English schools, where the pupils are boarding in the houses of the teachers, it has been found easier to have one single establishment which undertakes to brush a thousand pairs of boots every morning.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.28.1
+  kind: p
+  original: ''
+  en: As to washing up!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.28.2
+  kind: p
+  original: ''
+  en: Where can we find a housewife who has not a horror of this long and dirty work, that is usually done by hand, solely because the work of the domestic slave is of no account.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.29.1
+  kind: p
+  original: ''
+  en: In America they do better.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.29.2
+  kind: p
+  original: ''
+  en: There are already a number of cities in which hot water is conveyed to the houses as cold water is in Europe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.29.3
+  kind: p
+  original: ''
+  en: Under these conditions the problem was a simple one, and a woman--Mrs. Cochrane--solved it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.29.4
+  kind: p
+  original: ''
+  en: Her machine washes twelve dozen plates or dishes, wipes them and dries them, in less than three minutes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.29.5
+  kind: p
+  original: ''
+  en: A factory in Illinois manufactures these machines and sells them at a price within reach of the average middle-class purse.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.29.6
+  kind: p
+  original: ''
+  en: And why should not small households send their crockery to an establishment as well as their boots?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.29.7
+  kind: p
+  original: ''
+  en: It is even probable that the two functions, brushing and washing up, will be undertaken by the same association.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.30.1
+  kind: p
+  original: ''
+  en: Cleaning, rubbing the skin off your hands when washing and wringing linen; sweeping floors and brushing carpets, thereby raising clouds of dust which afterwards occasion much trouble to dislodge from the places where they have settled down, all this work is still done because woman remains a slave, but it tends to disappear as it can be infinitely better done by machinery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.30.2
+  kind: p
+  original: ''
+  en: Machines of all kinds will be introduced into households, and the distribution of motor-power in private houses will enable people to work them without muscular effort.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.31.1
+  kind: p
+  original: ''
+  en: Such machines cost little to manufacture.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.31.2
+  kind: p
+  original: ''
+  en: If we still pay very much for them, it is because they are not in general use, and chiefly because an exorbitant tax is levied upon every machine by the gentlemen who wish to live in grand style and who have speculated on land, raw material, manufacture, sale, patents, and duties.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.32.1
+  kind: p
+  original: ''
+  en: But emancipation from domestic toil will not be brought about by small machines only.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.32.2
+  kind: p
+  original: ''
+  en: Households are emerging from their present state of isolation; they begin to associate with other households to do in common what they did separately.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.33.1
+  kind: p
+  original: ''
+  en: In fact, in the future we shall not have a brushing machine, a machine for washing up plates, a third for washing linen, and so on, in each house.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.33.2
+  kind: p
+  original: ''
+  en: To the future, on the contrary, belongs the common heating apparatus that sends heat into each room of a whole district and spares the lighting of fires.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.33.3
+  kind: p
+  original: ''
+  en: It is already so in a few American cities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.33.4
+  kind: p
+  original: ''
+  en: A great central furnace supplies all houses and all rooms with hot water, which circulates in pipes; and to regulate the temperature you need only turn a tap.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.33.5
+  kind: p
+  original: ''
+  en: And should you care to have a blazing fire in any particular room you can light the gas specially supplied for heating purposes from a central reservoir.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.33.6
+  kind: p
+  original: ''
+  en: All the immense work of cleaning chimneys and keeping up fires--and woman knows what time it takes--is disappearing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.34.1
+  kind: p
+  original: ''
+  en: Candles, lamps, and even gas have had their day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.34.2
+  kind: p
+  original: ''
+  en: There are entire cities in which it is sufficient to press a button for light to burst forth, and, indeed, it is a simple question of economy and of knowledge to give yourself the luxury of electric light.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.34.3
+  kind: p
+  original: ''
+  en: And lastly, also in America, they speak of forming societies for the almost complete suppression of household work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.34.4
+  kind: p
+  original: ''
+  en: It would only be necessary to create a department for every block of houses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.34.5
+  kind: p
+  original: ''
+  en: A cart would come to each door and take the boots to be blacked, the crockery to be washed up, the linen to be washed, the small things to be mended (if it were worth while), the carpets to be brushed, and the next morning would bring back the things entrusted to it, all well cleaned.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.34.6
+  kind: p
+  original: ''
+  en: A few hours later your hot coffee and your eggs done to a nicety would appear on your table.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.34.7
+  kind: p
+  original: ''
+  en: It is a fact that between twelve and two o'clock there are more than twenty million Americans and as many Englishmen who eat roast beef or mutton, boiled pork, potatoes and a seasonable vegetable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.34.8
+  kind: p
+  original: ''
+  en: And at the lowest figure eight million fires burn during two or three hours to roast this meat and cook these vegetables; eight million women spend their time preparing a meal which, taking all households, represents at most a dozen different dishes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.35.1
+  kind: p
+  original: ''
+  en: '"Fifty fires burn," wrote an American woman the other day, "where one would suffice!"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.35.2
+  kind: p
+  original: ''
+  en: Dine at home, at your own table, with your children, if you like; but only think yourself, why should these fifty women waste their whole morning to prepare a few cups of coffee and a simple meal!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.35.3
+  kind: p
+  original: ''
+  en: Why fifty fires, when two people and one single fire would suffice to cook all these pieces of meat and all these vegetables?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.35.4
+  kind: p
+  original: ''
+  en: Choose your own beef or mutton to be roasted if you are particular.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.35.5
+  kind: p
+  original: ''
+  en: Season the vegetables to your taste if you prefer a particular sauce!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.35.6
+  kind: p
+  original: ''
+  en: But have a single kitchen with a single fire and organize it as beautifully as you are able to.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.36.1
+  kind: p
+  original: ''
+  en: Why has woman's work never been of any account?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.36.2
+  kind: p
+  original: ''
+  en: Why in every family are the mother and three or four servants obliged to spend so much time at what pertains to cooking?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.36.3
+  kind: p
+  original: ''
+  en: Because those who want to emancipate mankind have not included woman in their dream of emancipation, and consider it beneath their superior masculine dignity to think "of those kitchen arrangements," which they have put on the shoulders of that drudge--woman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.37.1
+  kind: p
+  original: ''
+  en: To emancipate woman, is not only to open the gates of the university, the law courts, or the parliaments to her, for the "emancipated" woman will always throw her domestic toil on to another woman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.37.2
+  kind: p
+  original: ''
+  en: To emancipate woman is to free her from the brutalizing toil of kitchen and washhouse; it is to organize your household in such a way as to enable her to rear her children, if she be so minded, while still retaining sufficient leisure to take her share of social life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.38.1
+  kind: p
+  original: ''
+  en: It will come.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.38.2
+  kind: p
+  original: ''
+  en: As we have said, things are already improving.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.38.3
+  kind: p
+  original: ''
+  en: Only let us fully understand that a revolution, intoxicated with the beautiful words, Liberty, Equality, Solidarity, would not be a revolution if it maintained slavery at home.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.38.4
+  kind: p
+  original: ''
+  en: Half humanity subjected to the slavery of the hearth would still have to rebel against the other half.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.N8.1.1
+  kind: note
+  original: ''
+  en: It seems that the Communists of Young Icaria had understood the importance of a free choice in their daily relations apart from work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.N8.1.2
+  kind: note
+  original: ''
+  en: The ideal of religious Communists has always been to have meals in common; it is by meals in common that early Christians manifested their adhesion to Christianity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.N8.1.3
+  kind: note
+  original: ''
+  en: Communion is still a vestige of it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.N8.1.4
+  kind: note
+  original: ''
+  en: Young Icarians had given up this religious tradition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.N8.1.5
+  kind: note
+  original: ''
+  en: They dined in a common dining room, but at small separate tables, at which they sat according to the attractions of the moment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.N8.1.6
+  kind: note
+  original: ''
+  en: The Communists of Anama have each their house and dine at home, while taking their provisions at will at the communal stores.
+  modern: ''
+  modern_status: empty
+  notes: ''

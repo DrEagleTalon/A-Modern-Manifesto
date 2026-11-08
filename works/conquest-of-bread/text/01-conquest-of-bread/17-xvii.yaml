@@ -1,0 +1,2132 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: XVII
+title_original: Chapter XVII. Agriculture
+title_en: Chapter XVII. Agriculture
+author: Peter Kropotkin
+date: 1892 (French); English 1906
+original_language: fr
+anchor_language: en
+source_original: Not yet in this repository. Kropotkin's French, La Conquête du pain (Paris 1892), is still to be located on a reachable mirror.
+source_en: 'Anonymous English translation (London: Chapman and Hall, 1906) with Kropotkin''s preface of 1913, Vanguard Press printing (New York 1926), Project Gutenberg ebook 23428 (public domain)'
+verses:
+- id: XVII.0.1
+  kind: heading
+  original: ''
+  en: Chapter XVII. Agriculture
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.1.1
+  kind: heading
+  original: ''
+  en: I
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.2.1
+  kind: p
+  original: ''
+  en: Political Economy has often been reproached with drawing all its deductions from the decidedly false principle, that the only incentive capable of forcing a man to augment his power of production is personal interest in its narrowest sense.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.3.1
+  kind: p
+  original: ''
+  en: The reproach is perfectly true; so true that epochs of great industrial discoveries and true progress in industry are precisely those in which the happiness of all was inspiring men, and in which personal enrichment was least thought of.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.3.2
+  kind: p
+  original: ''
+  en: The great investigators in science and the great inventors aimed, above all, at giving greater freedom of mankind.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.3.3
+  kind: p
+  original: ''
+  en: And if Watt, Stephenson, Jacquard, etc., could have only foreseen what a state of misery their sleepless nights would bring to the workers, they certainly would have burned their designs and broken their models.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.4.1
+  kind: p
+  original: ''
+  en: Another principle that pervades Political Economy is just as false.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.4.2
+  kind: p
+  original: ''
+  en: It is the tacit admission, common to all economists, that if there is often over-production in certain branches, a society will nevertheless never have sufficient products to satisfy the wants of all, and that consequently the day will never come when nobody will be forced to sell his labour in exchange for wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.4.3
+  kind: p
+  original: ''
+  en: This tacit admission is found at the basis of all theories and all the so-called "laws" taught by economists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.5.1
+  kind: p
+  original: ''
+  en: And yet it is certain that the day when any civilized association of individuals would ask itself, what are the needs of all, and the means of satisfying them, it would see that, in industry, as in agriculture, it already possesses sufficient to provide abundantly for all needs, on condition that it knows how to apply these means to satisfy real needs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.6.1
+  kind: p
+  original: ''
+  en: That this is true as regards industry no one can contest.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.6.2
+  kind: p
+  original: ''
+  en: Indeed, it suffices to study the processes already in use to extract coals and ore, to obtain steel and work it, to manufacture on a great scale what is used for clothing, etc., in order to perceive that we could already increase our production fourfold or more, and yet use for that less work than we are using now.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.7.1
+  kind: p
+  original: ''
+  en: We go further.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.7.2
+  kind: p
+  original: ''
+  en: 'We assert that agriculture is in the same position: those who cultivate the soil, like the manufacturers, already could increase their production, not only fourfold but tenfold, and they can put it into practice as soon as they feel the need of it,--as soon as a socialist organization of work will be established instead of the present capitalistic one.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.8.1
+  kind: p
+  original: ''
+  en: Each time agriculture is spoken of, men imagine a peasant bending over the plough, throwing badly assorted corn haphazard into the ground and waiting anxiously for what the good or bad season will bring forth; they think of a family working from morn to night and reaping as reward a rude bed, dry bread, and coarse beverage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.8.2
+  kind: p
+  original: ''
+  en: In a word, they picture "the savages" of La Bruyère.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.9.1
+  kind: p
+  original: ''
+  en: And for these men, ground down to such a misery, the utmost relief that society proposes, is to reduce their taxes or their rent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.9.2
+  kind: p
+  original: ''
+  en: But even most social reformers do not care to imagine a cultivator standing erect, taking leisure, and producing by a few hours' work per day sufficient food to nourish, not only his own family, but a hundred men more at the least.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.9.3
+  kind: p
+  original: ''
+  en: In their most glowing dreams of the future Socialists do not go beyond American extensive culture, which, after all, is but the infancy of agricultural art.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.10.1
+  kind: p
+  original: ''
+  en: But the thinking agriculturist has broader ideas to-day--his conceptions are on a far grander scale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.10.2
+  kind: p
+  original: ''
+  en: He only asks for a fraction of an acre in order to produce sufficient vegetables for a family; and to feed twenty-five horned beasts he needs no more space than he formerly required to feed one; his aim is to make his own soil, to defy seasons and climate, to warm both air and earth around the young plant; to produce, in a word, on one acre what he used to gather from fifty acres, and that without any excessive fatigue--by greatly reducing, on the contrary, the total of former labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.10.3
+  kind: p
+  original: ''
+  en: He knows that we will be able to feed everybody by giving to the culture of the fields no more time than what each can give with pleasure and joy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.11.1
+  kind: p
+  original: ''
+  en: This is the present tendency of agriculture.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.12.1
+  kind: p
+  original: ''
+  en: While scientific men, led by Liebig, the creator of the chemical theory of agriculture, often got on the wrong tack in their love of mere theories, unlettered agriculturists opened up new roads to prosperity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.12.2
+  kind: p
+  original: ''
+  en: Market-gardeners of Paris, Troyes, Rouen, Scotch and English gardeners, Flemish and Lombardian farmers, peasants of Jersey, Guernsey, and farmers on the Scilly Isles have opened up such large horizons that the mind hesitates to grasp them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.12.3
+  kind: p
+  original: ''
+  en: While up till lately a family of peasants needed at least seventeen to twenty acres to live on the produce of the soil--and we know how peasants live--we can now no longer say what is the minimum area on which all that is necessary to a family can be grown, even including articles of luxury, if the soil is worked by means of intensive culture.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.13.1
+  kind: p
+  original: ''
+  en: Twenty years ago it could already be asserted that a population of thirty million individuals could live very well, without importing anything, on what could be grown in Great Britain.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.13.2
+  kind: p
+  original: ''
+  en: But now, when we see the progress recently made in France, in Germany, in England, and when we contemplate the new horizons which open before us, we can say that in cultivating the earth as it is already cultivated in many places, even on poor soils, fifty or sixty million inhabitants to the territory of Great Britain would still be a very feeble proportion to what man could extract from the soil.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.14.1
+  kind: p
+  original: ''
+  en: In any case (as we are about to demonstrate) we may consider it as absolutely proved that if to-morrow Paris and the two departments of Seine and of Seine-et-Oise organized themselves as an Anarchist commune, in which all worked with their hands, and if the entire universe refused to send them a single bushel of wheat, a single head of cattle, a single basket of fruit, and left them only the territory of the two departments, they could not only produce all the corn, meat, and vegetables necessary for themselves, but also vegetables and fruit which are now articles of luxury, in sufficient quantities for all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.15.1
+  kind: p
+  original: ''
+  en: And, in addition, we affirm that the sum total of this labour would be far less than that expended at present to feed these people with corn harvested in Auvergne and Russia, with vegetables produced a little everywhere by extensive agriculture, and with fruit grown in the South.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.16.1
+  kind: p
+  original: ''
+  en: It is self-evident that we in nowise desire all exchange to be suppressed, nor that each region should strive to produce that which will only grow in its climate by a more or less artificial culture.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.16.2
+  kind: p
+  original: ''
+  en: But we care to draw attention to the fact that the theory of exchange, such as is understood to-day, is strangely exaggerated--that exchange is often useless and even harmful.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.16.3
+  kind: p
+  original: ''
+  en: We assert, moreover, that people have never had a right conception of the immense labour of Southern wine growers, nor that of Russian and Hungarian corn growers, whose excessive labour could also be very much reduced if they adopted intensive culture, instead of their present system of extensive agriculture.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.17.1
+  kind: heading
+  original: ''
+  en: II
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.18.1
+  kind: p
+  original: ''
+  en: It would be impossible to quote here the mass of facts on which we base our assertions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.18.2
+  kind: p
+  original: ''
+  en: We are therefore obliged to refer our readers who want further information to another book, "Fields, Factories, and Workshops."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - XVII.N11
+- id: XVII.18.3
+  kind: p
+  original: ''
+  en: Above all we earnestly invite those who are interested in the question to read several excellent works published in France and elsewhere, and of which we give a list at the close of this book.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - XVII.N12
+- id: XVII.18.4
+  kind: p
+  original: ''
+  en: As to the inhabitants of large towns, who have as yet no real notion of what agriculture can be, we advise them to explore the surrounding market-gardens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.18.5
+  kind: p
+  original: ''
+  en: They need but observe and question the market-gardeners, and a new world will be open to them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.18.6
+  kind: p
+  original: ''
+  en: They will then be able to see what European agriculture may be in the twentieth century; and they will understand with what force the social revolution will be armed when we know the secret of taking everything we need from the soil.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.19.1
+  kind: p
+  original: ''
+  en: A few facts will suffice to show that our assertions are in no way exaggerated.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.19.2
+  kind: p
+  original: ''
+  en: We only wish them to be preceded by a few general remarks.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.20.1
+  kind: p
+  original: ''
+  en: We know in what a wretched condition European agriculture is.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.20.2
+  kind: p
+  original: ''
+  en: If the cultivator of the soil is not plundered by the landowner, he is robbed by the State.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.20.3
+  kind: p
+  original: ''
+  en: If the State taxes him moderately, the money-lender enslaves him by means of promissory notes, and soon turns him into the simple tenant of soil belonging in reality to a financial company.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.20.4
+  kind: p
+  original: ''
+  en: The landlord, the State, and the banker thus plunders the cultivator by means of rent, taxes, and interest.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.20.5
+  kind: p
+  original: ''
+  en: The sum varies in each country, but it never falls below the quarter, very often the half of the raw produce.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.20.6
+  kind: p
+  original: ''
+  en: In France and in Italy agriculturists paid the State quite recently as much as 44 per cent. of the gross produce.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.21.1
+  kind: p
+  original: ''
+  en: Moreover, the share of the owner and of State always goes on increasing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.21.2
+  kind: p
+  original: ''
+  en: As soon as the cultivator has obtained more plentiful crops by prodigies of labour, invention, or initiative, the tribute he will owe to the landowner, the State, and the banker will augment in proportion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.21.3
+  kind: p
+  original: ''
+  en: If he doubles the number of bushels reaped per acre, rent will be doubled, and taxes too, and the State will take care to raise them still more if the prices go up.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.21.4
+  kind: p
+  original: ''
+  en: And so on.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.21.5
+  kind: p
+  original: ''
+  en: In short, everywhere the cultivator of the soil works twelve to sixteen hours a day; these three vultures take from him everything he might lay by; they rob him everywhere of what would enable him to improve his culture.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.21.6
+  kind: p
+  original: ''
+  en: This is why agriculture progresses so slowly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.22.1
+  kind: p
+  original: ''
+  en: The cultivator can only occasionally make some progress, in some exceptional regions, under quite exceptional circumstances, following upon a quarrel between the three vampires.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.22.2
+  kind: p
+  original: ''
+  en: And yet we have said nothing about the tribute every cultivator pays to the manufacturer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.22.3
+  kind: p
+  original: ''
+  en: Every machine, every spade, every barrel of chemical manure, is sold to him at three or four times its real cost.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.22.4
+  kind: p
+  original: ''
+  en: Nor let us forget the middleman, who levies the lion's share of the earth's produce.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.23.1
+  kind: p
+  original: ''
+  en: This is why, during all this century of invention and progress, agriculture has only improved from time to time on very limited areas.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.24.1
+  kind: p
+  original: ''
+  en: Happily there have always been small oases, neglected for some time by the vulture; and here we learn what intensive agriculture can produce for mankind.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.24.2
+  kind: p
+  original: ''
+  en: Let us mention a few examples.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.25.1
+  kind: p
+  original: ''
+  en: In the American prairies (which, however, only yield meagre spring wheat crops, from 7 to 15 bushels acre, and even these are often marred by periodical droughts), 500 men, working only during eight months, produce the annual food of 50,000 people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.25.2
+  kind: p
+  original: ''
+  en: With all the improvements of the last three years, one man's yearly labour (300 days) yields, delivered in Chicago as flour, the yearly food of 250 men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.25.3
+  kind: p
+  original: ''
+  en: 'Here the result is obtained by a great economy in manual labour: on those vast plains, ploughing, harvesting, thrashing, are organized in almost military fashion.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.25.4
+  kind: p
+  original: ''
+  en: There is no useless running to and fro, no loss of time--all is done with parade-like precision.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.26.1
+  kind: p
+  original: ''
+  en: This is agriculture on a large scale--extensive agriculture, which takes the soil from nature without seeking to improve it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.26.2
+  kind: p
+  original: ''
+  en: When the earth has yielded all it can, they leave it; they seek elsewhere for a virgin soil, to be exhausted in its turn.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.26.3
+  kind: p
+  original: ''
+  en: But here is also "intensive" agriculture, which is already worked, and will be more and more so, by machinery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.26.4
+  kind: p
+  original: ''
+  en: Its object is to cultivate a limited space well, to manure, to improve, to concentrate work, and to obtain the largest crop possible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.26.5
+  kind: p
+  original: ''
+  en: This kind of culture spreads every year, and whereas agriculturists in the south of France and on the fertile plains of western America are content with an average crop of 11 to 15 bushels per acre by extensive culture, they reap regularly 39, even 55, and sometimes 60 bushels per acre in the north of France.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.26.6
+  kind: p
+  original: ''
+  en: The annual consumption of a man is thus obtained from less than a quarter of an acre.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.27.1
+  kind: p
+  original: ''
+  en: And the more intense the culture is, the less work is expended to obtain a bushel of wheat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.27.2
+  kind: p
+  original: ''
+  en: Machinery replaces man at the preliminary work and for the improvements needed by the land--such as draining, clearing of stones--which will double the crops in future, once and for ever.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.27.3
+  kind: p
+  original: ''
+  en: Sometimes nothing but keeping the soil free of weeds, without manuring, allows an average soil to yield excellent crops from year to year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.27.4
+  kind: p
+  original: ''
+  en: It has been done for forty years in succession at Rothamstead, in Hertfordshire.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.28.1
+  kind: p
+  original: ''
+  en: However, let us not write an agricultural romance, but be satisfied with a crop of 44 bushels per acre.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.28.2
+  kind: p
+  original: ''
+  en: That needs no exceptional soil, but merely a rational culture; and let us see what it means.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.29.1
+  kind: p
+  original: ''
+  en: The 3,600,000 individuals who inhabit the two departments of Seine and Seine-et-Oise consume yearly for their food a little less than 22 million bushels of cereals, chiefly wheat; and in our hypothesis they would have to cultivate, in order to obtain this crop, 494,200 acres out of the 1,507,300 acres which they possess.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.29.2
+  kind: p
+  original: ''
+  en: It is evident they would not cultivate them with spades.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.29.3
+  kind: p
+  original: ''
+  en: That would need too much time--96 work-days of 5 hours per acre.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.29.4
+  kind: p
+  original: ''
+  en: It would be preferable to improve the soil once for all--to drain what needed draining, to level what needed levelling, to clear the soil of stones, were it even necessary to spend 5 million days of 5 hours in this preparatory work--an average of 10 work-days to each acre.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.30.1
+  kind: p
+  original: ''
+  en: Then they would plough with the steam-digger, which would take one and three-fifths of a day per acre, and they would give another one and three-fifths of a day for working with the double plough.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.30.2
+  kind: p
+  original: ''
+  en: Seeds would be sorted by steam instead of taken haphazard, and they would be carefully sown in rows instead of being thrown to the four winds.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.30.3
+  kind: p
+  original: ''
+  en: Now all this work would not take 10 days of 5 hours per acre if the work were done under good conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.30.4
+  kind: p
+  original: ''
+  en: But if 10 million work-days are given to good culture during 3 or 4 years, the result will be that later on crops of 44 to 55 bushels per acre will be obtained by only working half the time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.31.1
+  kind: p
+  original: ''
+  en: Fifteen million work-days will thus have been spent to give bread to a population of 3,600,000 inhabitants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.31.2
+  kind: p
+  original: ''
+  en: And the work would be such that everyone could do it without having muscles of steel, or without having even worked the ground before.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.31.3
+  kind: p
+  original: ''
+  en: The initiative and the general distribution of work would come from those who know the soil.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.31.4
+  kind: p
+  original: ''
+  en: As to the work itself, there is no townsman of either sex so enfeebled as to be incapable of looking after machines and of contributing his share to agrarian work after a few hours' apprenticeship.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.32.1
+  kind: p
+  original: ''
+  en: Well, when we consider that in the present chaos there are, in a city like Paris, without counting the unemployed of the upper classes, there are always about 100,000 workmen out of work in their several trades, we see that the power lost in our present organization would alone suffice to give, with a rational culture, all the bread that is necessary for the three or four million inhabitants of the two departments.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.33.1
+  kind: p
+  original: ''
+  en: We repeat, this is no fancy dream, and we have not yet spoken of the truly intensive agriculture.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.33.2
+  kind: p
+  original: ''
+  en: We have not depended upon the wheat (obtained in three years by Mr. Hallett) of which one grain, replanted, produced 5,000 or 6,000, and occasionally 10,000 grains, which would give the wheat necessary for a family of five individuals on an area of 120 square yards.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.33.3
+  kind: p
+  original: ''
+  en: On the contrary, we have only mentioned what is being already achieved by numerous farmers in France, England, Belgium, etc., and what might be done to-morrow with the experience and knowledge acquired already by practice on a large scale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.34.1
+  kind: p
+  original: ''
+  en: But without a revolution, neither to-morrow, nor after to-morrow will see it done, because it is not to the interest of landowners and capitalists; and because peasants who would find their profit in it have neither the knowledge nor the money, nor the time to obtain what is necessary to go ahead.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.35.1
+  kind: p
+  original: ''
+  en: The society of to-day has not yet reached this stage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.35.2
+  kind: p
+  original: ''
+  en: But let Parisians proclaim an Anarchist Commune, and they will of necessity come to it, because they will not be foolish enough to continue making luxurious toys (which Vienna, Warsaw, and Berlin make as well already), and to run the risk of being left without bread.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.36.1
+  kind: p
+  original: ''
+  en: Moreover, agricultural work, by the help of machinery, would soon become the most attractive and the most joyful of all occupations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.37.1
+  kind: p
+  original: ''
+  en: '"We have had enough jewelery and enough dolls'' clothes," they would say; "it is high time for the workers to recruit their strength in agriculture, to go in search of vigour, of impressions of nature, of the joy of life, that they have forgotten in the dark factories of the suburbs."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.38.1
+  kind: p
+  original: ''
+  en: In the Middle Ages it was Alpine pasture lands, rather than guns, which allowed the Swiss to shake off lords and kings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.38.2
+  kind: p
+  original: ''
+  en: Modern agriculture will allow a city in revolt to free itself from the combined bourgeois forces.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.39.1
+  kind: heading
+  original: ''
+  en: III
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.40.1
+  kind: p
+  original: ''
+  en: We have seen how the three and one-half million inhabitants of the two departments round Paris could find ample bread by cultivating only a third of their territory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.40.2
+  kind: p
+  original: ''
+  en: Let us now pass on to cattle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.41.1
+  kind: p
+  original: ''
+  en: Englishmen, who eat much meat, consume on an average a little less than 220 pounds a year per adult.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.41.2
+  kind: p
+  original: ''
+  en: Supposing all meats consumed were oxen, that makes a little less than the third of an ox.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.41.3
+  kind: p
+  original: ''
+  en: An ox a year for five individuals (including children) is already a sufficient ration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.41.4
+  kind: p
+  original: ''
+  en: For three and one-half million inhabitants this would make an annual consumption of 700,000 head of cattle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.42.1
+  kind: p
+  original: ''
+  en: To-day, with the pasture system, we need at least five million acres to nourish 660,000 head of cattle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.42.2
+  kind: p
+  original: ''
+  en: This makes nine acres per each head of horned cattle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.42.3
+  kind: p
+  original: ''
+  en: Nevertheless, with prairies moderately watered by spring water (as recently done on thousands of acres in the southwest of France), one and one-fourth million acres already suffice.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.42.4
+  kind: p
+  original: ''
+  en: But if intensive culture is practiced, and beet-root is grown for fodder, you only need a quarter of that area, that is to say, about 310,000 acres.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.42.5
+  kind: p
+  original: ''
+  en: And if we have recourse to maize and practice ensilage (the compression of fodder while green) like Arabs, we obtain fodder on an area of 217,500 acres.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.43.1
+  kind: p
+  original: ''
+  en: In the environs of Milan, where sewer water is used to irrigate the fields, fodder for two to three horned cattle per each acre is obtained on an area of 22,000 acres; and on a few favoured fields, up to 177 tons of hay to the 10 acres have been cropped, the yearly provender of 36 milch cows.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.43.2
+  kind: p
+  original: ''
+  en: Nearly nine acres per head of cattle are needed under the pasture system, and only two and one-half acres for nine oxen or cows under the new system.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.43.3
+  kind: p
+  original: ''
+  en: These are the opposite extremes in modern agriculture.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.44.1
+  kind: p
+  original: ''
+  en: In Guernsey, on a total of 9,884 acres utilized, nearly half (4,695 acres) are covered with cereals and kitchen-gardens; only 5,189 acres remain as meadows.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.44.2
+  kind: p
+  original: ''
+  en: On these 5,189 acres, 1,480 horses, 7,260 head of cattle, 900 sheep, and 4,200 pigs are fed, which makes more than three head of cattle per two acres, without reckoning the sheep or the pigs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.44.3
+  kind: p
+  original: ''
+  en: It is needless to add that the fertility of the soil is made by seaweed and chemical manures.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.45.1
+  kind: p
+  original: ''
+  en: Returning to our three and one-half million inhabitants belonging to Paris and its environs, we see that the land necessary for the rearing of cattle comes down from five million acres to 197,000.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.45.2
+  kind: p
+  original: ''
+  en: Well, then, let us not stop at the lowest figures, let us take those of ordinary intensive culture; let us liberally add to the land necessary for smaller cattle which must replace some of the horned beasts and allow 395,000 acres for the rearing of cattle--494,000 if you like, on the 1,013,000 acres remaining after bread has been provided for the people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.46.1
+  kind: p
+  original: ''
+  en: Let us be generous and give five million work-days to put this land into a productive state.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.47.1
+  kind: p
+  original: ''
+  en: After having therefore employed in the course of a year twenty million work-days, half of which are for permanent improvements, we shall have bread and meat assured to us, without including all the extra meat obtainable in the shape of fowls, pigs, rabbits, etc.; without taking into consideration that a population provided with excellent vegetables and fruit consumes less meat than Englishmen, who supplement their poor supply of vegetables by animal food.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.47.2
+  kind: p
+  original: ''
+  en: Now, how much do twenty million work-days of five hours make per inhabitant?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.47.3
+  kind: p
+  original: ''
+  en: Very little indeed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.47.4
+  kind: p
+  original: ''
+  en: A population of three and one-half millions must have at least 1,200,000 adult men, and as many women capable of work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.47.5
+  kind: p
+  original: ''
+  en: Well, then, to give bread and meat to all, it would need only seventeen half-days of work a year per man.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.47.6
+  kind: p
+  original: ''
+  en: Add three million work-days, or double that number if you like, in order to obtain milk.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.47.7
+  kind: p
+  original: ''
+  en: 'That will make twenty-five work-days of five hours in all--nothing more than a little pleasureable country exercise--to obtain the three principal products: bread, meat, and milk.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.47.8
+  kind: p
+  original: ''
+  en: The three products which, after housing, cause daily anxiety to nine-tenths of mankind.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.48.1
+  kind: p
+  original: ''
+  en: And yet--let us not tire of repeating--these are not fancy dreams.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.48.2
+  kind: p
+  original: ''
+  en: We have only told what is, what been, obtained by experience on a large scale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.48.3
+  kind: p
+  original: ''
+  en: Agriculture could be reorganized in this way to-morrow if property laws and general ignorance did not offer opposition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.49.1
+  kind: p
+  original: ''
+  en: The day Paris has understood that to know what you eat and how it is produced, is a question of public interest; the day when everybody will have understood that this question is infinitely more important than all the parliamentary debates of the present times--on that day the Revolution will be an accomplished fact.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.49.2
+  kind: p
+  original: ''
+  en: Paris will take possession of the two departments and cultivate them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.49.3
+  kind: p
+  original: ''
+  en: And then the Parisian worker, after having laboured a third of his existence in order to buy bad and insufficient food, will produce it himself, under his walls, within the enclosure of his forts (if they still exist), and in a few hours of healthy and attractive work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.50.1
+  kind: p
+  original: ''
+  en: And now we pass on to fruit and vegetables.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.50.2
+  kind: p
+  original: ''
+  en: Let us go outside Paris and visit the establishment of a market-gardener who accomplishes wonders (ignored by learned economists) at a few miles from the academies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.51.1
+  kind: p
+  original: ''
+  en: Let us visit, suppose, M. Ponce, the author of a work on market-gardening, who makes no secret of what the earth yields him, and who has published it all along.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.52.1
+  kind: p
+  original: ''
+  en: M. Ponce, and especially his workmen, work like niggers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.52.2
+  kind: p
+  original: ''
+  en: It takes eight men to cultivate a plot a little less than three acres (2.7).
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.52.3
+  kind: p
+  original: ''
+  en: They work twelve and even fifteen hours a day, that is to say, three times more than is needed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.52.4
+  kind: p
+  original: ''
+  en: Twenty-four of them would not be too many.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.52.5
+  kind: p
+  original: ''
+  en: To which M. Ponce will probably answer that as he pays the terrible sum of £100 rent a year for his 2.7 acres of land, and £100 for manure bought in the barracks, he is obliged to exploit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.52.6
+  kind: p
+  original: ''
+  en: He would no doubt answer, "Being exploited, I exploit in my turn."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.52.7
+  kind: p
+  original: ''
+  en: His installation has also cost him £1,200, of which certainly more than half went as tribute to the idle barons of industry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.52.8
+  kind: p
+  original: ''
+  en: In reality, this establishment represents at most 3,000 work-days, probably much less.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.53.1
+  kind: p
+  original: ''
+  en: 'But let us examine his crops: nearly ten tons of carrots, nearly ten tons of onions, radishes, and small vegetables, 6,000 heads of cabbage, 3,000 heads of cauliflower, 5,000 baskets of tomatoes, 5,000 dozen of choice fruit, 154,000 salads; in short, a total of 123 tons of vegetables and fruit to 2.7 acres--120 yards long by 109 yards broad, which makes more than forty-four tons of vegetables to the acre.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.54.1
+  kind: p
+  original: ''
+  en: But a man does not eat more than 660 pounds of vegetables and fruit a year, and two and one-half acres of a market-garden yield enough vegetables and fruit to richly supply the table of 350 adults during the year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.54.2
+  kind: p
+  original: ''
+  en: Thus twenty-four persons employed a whole year in cultivating 2.7 acres of land, and only five working hours a day, would produce sufficient vegetables and fruit for 350 adults, which is equivalent at least to 500 individuals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.55.1
+  kind: p
+  original: ''
+  en: 'To put it another way: in cultivating like M. Ponce--and his results have already been surpassed--350 adults should each give a little more than 100 hours a year (103) to produce vegetables and fruit necessary for 500 people.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.56.1
+  kind: p
+  original: ''
+  en: Let us mention that such a production is not the exception.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.56.2
+  kind: p
+  original: ''
+  en: It takes place, under the walls of Paris, on an area of 2,220 acres, by 5,000 market-gardeners.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.56.3
+  kind: p
+  original: ''
+  en: Only these market-gardeners are reduced nowadays to a state of beasts of burden, in order to pay an average rent of £32 per acre.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.57.1
+  kind: p
+  original: ''
+  en: But do not these facts, which can be verified by every one, prove that 17,300 acres (of the 519,000 remaining to us) would suffice to give all necessary vegetables, as well as a liberal amount of fruit to the three and one-half million inhabitants of our two departments?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.58.1
+  kind: p
+  original: ''
+  en: As to the quantity of work necessary to produce these fruits and vegetables, it would amount to fifty million work-days of five hours (50 days per adult male), if we measure by the market-gardeners' standard of work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.58.2
+  kind: p
+  original: ''
+  en: But we could reduce this quantity if we had recourse to the process in vogue in Jersey and Guernsey.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.58.3
+  kind: p
+  original: ''
+  en: We must also remember that the Paris market-gardener is forced to work so hard because he mostly produces early season fruits, the high prices of which have to pay for fabulous rents, and that this system of culture entails more work than is necessary for growing the ordinary staple-food vegetables and fruit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.58.4
+  kind: p
+  original: ''
+  en: Besides, the market-gardeners of Paris, not having the means to make a great outlay on their gardens, and being obliged to pay heavily for glass, wood, iron, and coal, obtain their artificial heat out of manure, while it can be had at much less cost in hothouses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.59.1
+  kind: heading
+  original: ''
+  en: IV
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.60.1
+  kind: p
+  original: ''
+  en: The market-gardeners, we say, are forced to become machines and to renounce all joys of life in order to obtain their marvellous crops.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.60.2
+  kind: p
+  original: ''
+  en: But these hard grinders have rendered a great service to humanity in teaching us that the soil can be "made."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.60.3
+  kind: p
+  original: ''
+  en: They make it with old hot-beds of manure, which have already served to give the necessary warmth to young plants and to early fruit; and they make it in such great quantity that they are compelled to sell it in part, otherwise it would raise the level of their gardens by one inch every year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.60.4
+  kind: p
+  original: ''
+  en: They do it so well (so Barral teaches us, in his "Dictionary of Agriculture," in an article on market-gardeners) that in recent contracts, the market-gardener stipulates that he will carry away his soil with him when he leaves the bit of ground he is cultivating.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.60.5
+  kind: p
+  original: ''
+  en: Loam carried away on carts, with furniture and glass frames--that is the answer of practical cultivators to the learned treatises of a Ricardo, who represented rent as a means of equalizing the natural advantages of the soil.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.60.6
+  kind: p
+  original: ''
+  en: '"The soil is worth what the man is worth," that is the gardeners'' motto.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.61.1
+  kind: p
+  original: ''
+  en: And yet the market-gardeners of Paris and Rouen labour three times as hard to obtain the same results as their fellow-workers in Guernsey or in England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.61.2
+  kind: p
+  original: ''
+  en: Applying industry to agriculture, these last make their climate in addition to their soil, by means of the greenhouse.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.62.1
+  kind: p
+  original: ''
+  en: Fifty years ago the greenhouse was the luxury of the rich.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.62.2
+  kind: p
+  original: ''
+  en: It was kept to grow exotic plants for pleasure.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.62.3
+  kind: p
+  original: ''
+  en: But nowadays its use begins to be generalized.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.62.4
+  kind: p
+  original: ''
+  en: A tremendous industry has grown up lately in Guernsey and Jersey, where hundreds of acres are already covered with glass--to say nothing of the countless small greenhouses kept in every little farm garden.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.62.5
+  kind: p
+  original: ''
+  en: Acres and acres of greenhouses have lately been built also at Worthing (103 acres in 1912), in the suburbs of London, and in several other parts of England and Scotland.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.63.1
+  kind: p
+  original: ''
+  en: They are built of all qualities, beginning with those which have granite walls, down to those which represent mere shelters made in planks and glass frames, which cost, even now, with all the tribute paid to capitalists and middlemen, less than 3s. 6d. per square yard under glass.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.63.2
+  kind: p
+  original: ''
+  en: Most of them are heated for at least three of four months every year; but even the cool greenhouses, which are not heated at all, give excellent results--of course, not for growing grapes and tropical plants, but for potatoes, carrots, peas, tomatoes, and so on.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.64.1
+  kind: p
+  original: ''
+  en: In this way man emancipates himself from climate, and at the same time he avoids also the heavy work with the hot-beds, and he saves both in buying much less manure and in work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.64.2
+  kind: p
+  original: ''
+  en: Three men to the acre, each of them working less than sixty hours a week, produce on very small spaces what formerly required acres and acres of land.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.65.1
+  kind: p
+  original: ''
+  en: The result of all these recent conquests of culture is, that if one-half only of the adults of a city gave each about fifty half-days for the culture of the finest fruit and vegetables out of season, they would have all the year round an unlimited supply of that sort of fruit and vegetables for the whole population.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.66.1
+  kind: p
+  original: ''
+  en: But there is a still more important fact to notice.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.66.2
+  kind: p
+  original: ''
+  en: The greenhouse has nowadays a tendency to become a mere kitchen garden under glass.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.66.3
+  kind: p
+  original: ''
+  en: And when it is used to such a purpose, the simplest plank-and-glass unheated shelters already give fabulous crops--such as, for instance, 500 bushels of potatoes per acre as a first crop, ready by the end of April; after which a second and a third crop are obtained in the extremely high temperature which prevails in the summer under glass.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.67.1
+  kind: p
+  original: ''
+  en: I gave in my "Fields, Factories, and Workshops," most striking facts in this direction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.67.2
+  kind: p
+  original: ''
+  en: Sufficient to say here, that at Jersey, thirty-four men, with one trained gardener only, cultivate thirteen acres under glass, from which they obtain 143 tons of fruit and early vegetables, using for this extraordinary culture less than 1,000 tons of coal.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.68.1
+  kind: p
+  original: ''
+  en: And this is done now in Guernsey and Jersey on a very large scale, quite a number of steamers constantly plying between Guernsey and London, only to export the crops of the greenhouses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.69.1
+  kind: p
+  original: ''
+  en: Nowadays, in order to obtain that same crop of 500 bushels of potatoes, we must plough every year a surface of four acres, plant it, cultivate it, weed, it, and so on; whereas with the glass, even if we shall have to give perhaps, to start with, half a day's work per square yard in order to build the greenhouse--we shall save afterwards at least one-half, and probably three-quarters of the yearly labour required formerly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.70.1
+  kind: p
+  original: ''
+  en: These are facts, results which every one can verify himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.70.2
+  kind: p
+  original: ''
+  en: And these facts are already a hint as to what man could obtain from the earth if he treated it with intelligence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.71.1
+  kind: heading
+  original: ''
+  en: V
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.72.1
+  kind: p
+  original: ''
+  en: In all the above we have reasoned upon what already withstood the test of experience.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.72.2
+  kind: p
+  original: ''
+  en: Intensive culture of the fields, irrigated meadows, the hot-house, and finally the kitchen garden under glass are realities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.72.3
+  kind: p
+  original: ''
+  en: Moreover, the tendency is to extend and to generalize these methods of culture, because they allow of obtaining more produce with less work and with more certainty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.73.1
+  kind: p
+  original: ''
+  en: In fact, after having studied the most simple glass shelters of Guernsey, we affirm that, taking all in all, far less work is expended for obtaining potatoes under glass in April, than in growing them in the open air, which requires digging a space four times as large, watering it, weeding it, etc. Work is likewise economized in employing a perfected tool or machine, even when an initial expense had to be incurred to buy the tool.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.74.1
+  kind: p
+  original: ''
+  en: Complete figures concerning the culture of common vegetables under glass are still wanting.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.74.2
+  kind: p
+  original: ''
+  en: This culture is of recent origin, and is only carried out on small areas.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.74.3
+  kind: p
+  original: ''
+  en: But we have already figures concerning the fifty years old culture of early season grapes, and these figures are conclusive.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.75.1
+  kind: p
+  original: ''
+  en: In the north of England, on the Scotch frontier, where coal only costs 3s. a ton at the pit's mouth, they have long since taken to growing hot-house grapes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.75.2
+  kind: p
+  original: ''
+  en: Thirty years ago these grapes, ripe in January, were sold by the grower at 20s. per pound and resold at 40s. per pound for Napoleon III.'s table.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.75.3
+  kind: p
+  original: ''
+  en: To-day the same grower sells them at only 2s. 6d. per pound.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.75.4
+  kind: p
+  original: ''
+  en: He tells us so himself in a horticultural journal.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.75.5
+  kind: p
+  original: ''
+  en: The fall in the prices is caused by the tons and tons of grapes arriving in January to London and Paris.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.76.1
+  kind: p
+  original: ''
+  en: Thanks to the cheapness of coal and an intelligent culture, grapes from the north travel now southwards, in a contrary direction to ordinary fruit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.76.2
+  kind: p
+  original: ''
+  en: They cost so little that in May, English and Jersey grapes are sold at 1s. 8d. per pound by the gardeners, and yet this price, like that of 40s. thirty years ago, is only kept up by slack production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.77.1
+  kind: p
+  original: ''
+  en: In March, Belgium grapes are sold at from 6d. to 8d., while in October, grapes cultivated in immense quantities--under glass, and with a little artificial heating in the environs of London--are sold at the same price as grapes bought by the pound in the vineyards of Switzerland and the Rhine, that is to say, for a few halfpence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.77.2
+  kind: p
+  original: ''
+  en: Yet they still cost two-thirds too much, by reason of the excessive rent of the soil and the cost of installation and heating, on which the gardener pays a formidable tribute to the manufacturer and the middleman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.77.3
+  kind: p
+  original: ''
+  en: This being understood, we may say that it costs "next to nothing" to have delicious grapes under the latitude of, and in our misty London in autumn.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.77.4
+  kind: p
+  original: ''
+  en: In one of the suburbs, for instance, a wretched glass and plaster shelter, nine feet ten inches long by six and one-half feet wide, resting against our cottage, gave us about fifty pounds of grapes of an exquisite flavour in October, for nine consecutive years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.77.5
+  kind: p
+  original: ''
+  en: The crop came from a Hamburg vine-stalk, six year old.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.77.6
+  kind: p
+  original: ''
+  en: And the shelter was so bad that the rain came through.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.77.7
+  kind: p
+  original: ''
+  en: At night the temperature was always that of outside.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.77.8
+  kind: p
+  original: ''
+  en: It was evidently not heated, for it would have been as useless as heating the street!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.77.9
+  kind: p
+  original: ''
+  en: 'And the care which was given was: pruning the vine, half an hour every year; and bringing a wheel-barrowful of manure, which was thrown over the stalk of the vine, planted in red clay outside the shelter.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.78.1
+  kind: p
+  original: ''
+  en: On the other hand, if we estimate the amount of care given to the vine on the borders of the Rhine of Lake Leman, the terraces constructed stone upon stone on the slopes of the hills, the transport of manure and also of earth to a height of two or three hundred feet, we come to the conclusion that on the whole the expenditure of work necessary to cultivate vines is more considerable in Switzerland or on the banks of the Rhine than it is under glass in London suburbs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.79.1
+  kind: p
+  original: ''
+  en: This may seem paradoxical, because it is generally believed that vines grow of themselves in the south of Europe, and that the vine-grower's work costs nothing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.79.2
+  kind: p
+  original: ''
+  en: But gardeners and horticulturists, far from contradicting us, confirm our assertions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.79.3
+  kind: p
+  original: ''
+  en: '"The most advantageous culture in England is vine culture," wrote a practical gardener, editor of the "English Journal of Horticulture" in the Nineteenth Century.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.79.4
+  kind: p
+  original: ''
+  en: Prices speak eloquently for themselves, as we know.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.80.1
+  kind: p
+  original: ''
+  en: Translating these facts into communist language, we may assert that the man or woman who takes twenty hours a year from his leisure time to give some little care--very pleasant in the main--to two or three vine-stalks sheltered by simple glass under any European climate, will gather as many grapes as their family and friends can eat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.80.2
+  kind: p
+  original: ''
+  en: And that applies not only to vines, but to all fruit trees.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.81.1
+  kind: p
+  original: ''
+  en: The Commune that will put the processes of intensive culture into practice on a large scale will have all possible vegetables, indigenous or exotic, and all desirable fruits, without employing more than about ten hours a year per inhabitant.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.82.1
+  kind: p
+  original: ''
+  en: In fact, nothing would be easier than to verify the above statements by direct experiment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.82.2
+  kind: p
+  original: ''
+  en: Suppose 100 acres of a light loam (such as we have at Worthing) are transformed into a number of market gardens, each one with its glass houses for the rearing of the seedlings and young plants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.82.3
+  kind: p
+  original: ''
+  en: Suppose also that fifty more acres are covered with glass houses, and the organization of the whole is left to practical experienced French maraîchers, and Guernsey or Worthing greenhouse gardeners.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.83.1
+  kind: p
+  original: ''
+  en: In basing the maintenance of these 150 acres on the Jersey average, requiring the work of three men per acre under glass--which makes less than 8,600 hours of work a year--it would need about 1,300,000 hours for the 150 acres.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.83.2
+  kind: p
+  original: ''
+  en: Fifty competent gardeners could give five hours a day to this work, and the rest would be simply done by people who, without being gardeners by profession, would soon learn how to use a spade, and to handle the plants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.83.3
+  kind: p
+  original: ''
+  en: But this work would yield at least--we have seen it in a preceding chapter--all necessaries and articles of luxury in the way of fruit and vegetables for at least 40,000 or 50,000 people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.83.4
+  kind: p
+  original: ''
+  en: Let us admit that among this number there are 13,500 adults, willing to work at the kitchen garden; then, each one would have to give 100 hours a year distributed over the whole year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.83.5
+  kind: p
+  original: ''
+  en: These hours of work would become hours of recreation spent among friends and children in beautiful gardens, more beautiful probably than those of the legendary Semiramis.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.84.1
+  kind: p
+  original: ''
+  en: This is the balance sheet of the labour to be spent in order to be able to eat to satiety fruit which we are deprived of to-day, and to have vegetables in abundance, now so scrupulously rationed out by the housewife, when she has to reckon each half-penny which must go to enrich capitalists and landowners.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - XVII.N13
+- id: XVII.85.1
+  kind: p
+  original: ''
+  en: If only humanity had the consciousness of what it CAN, and if that consciousness only gave it the power to WILL!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.86.1
+  kind: p
+  original: ''
+  en: If it only knew that cowardice of the spirit is the rock on which all revolutions have stranded until now.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.87.1
+  kind: heading
+  original: ''
+  en: VI
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.88.1
+  kind: p
+  original: ''
+  en: We can easily perceive the new horizons opening before the social revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.89.1
+  kind: p
+  original: ''
+  en: Each time we speak of revolution, the face of the worker who has seen children wanting food darkens and he asks--"What of bread?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.89.2
+  kind: p
+  original: ''
+  en: Will there be sufficient, if everyone eats according to his appetite?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.89.3
+  kind: p
+  original: ''
+  en: What if the peasants, ignorant tools of reaction, starve our towns as the black bands did in France in 1793--what shall we do?"
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.90.1
+  kind: p
+  original: ''
+  en: Let them do their worst.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.90.2
+  kind: p
+  original: ''
+  en: The large cities will have to do without them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.91.1
+  kind: p
+  original: ''
+  en: At what, then, should the hundreds of thousands of workers, who are asphyxiated to-day in small workshops and factories, be employed on the day they regain their liberty?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.91.2
+  kind: p
+  original: ''
+  en: Will they continue to shut themselves up in factories after the Revolution?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.91.3
+  kind: p
+  original: ''
+  en: Will they continue to make luxurious toys for export when they see their stock or corn getting exhausted, meat becoming scarce, and vegetables disappearing without being replaced?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.92.1
+  kind: p
+  original: ''
+  en: Evidently not!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.92.2
+  kind: p
+  original: ''
+  en: They will leave the town and go into the fields!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.92.3
+  kind: p
+  original: ''
+  en: Aided by a machinery which will enable the weakest of us to put a shoulder to the wheel, they will carry revolution into previously enslaved culture as they will have carried it into institutions and ideas.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.93.1
+  kind: p
+  original: ''
+  en: Hundreds of acres will be covered with glass, and men, and women with delicate fingers, will foster the growth of young plants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.93.2
+  kind: p
+  original: ''
+  en: Hundreds of other acres will be ploughed by steam, improved by manures, or enriched by artificial soil obtained by the pulverization of rocks.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.93.3
+  kind: p
+  original: ''
+  en: Happy crowds of occasional labourers will cover these acres with crops, guided in the work and experiments partly by those who know agriculture, but especially by the great and practical spirit of a people roused from long slumber and illumined by that bright beacon--the happiness of all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.94.1
+  kind: p
+  original: ''
+  en: And in two or three months the early crops will receive the most pressing wants, and provide food for a people who, after so many centuries of expectation, will at least be able to appease their hunger and eat according to their appetite.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.95.1
+  kind: p
+  original: ''
+  en: In the meanwhile, popular genius, the genius of a nation which revolts and knows its wants, will work at experimenting with new processes of culture that we already catch a glimpse of, and that only need the baptism of experience to become universal.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.95.2
+  kind: p
+  original: ''
+  en: Light will be experimented with--that unknown agent of culture which makes barley ripen in forty-five days under the latitude of Yakutsk; light, concentrated or artificial, will rival heat in hastening the growth of plants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.95.3
+  kind: p
+  original: ''
+  en: A Mouchot of the future will invent a machine to guide the rays of the sun and make them work, so that we shall no longer seek sun-heat stored in coal in the depths of the earth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.95.4
+  kind: p
+  original: ''
+  en: They will experiment the watering of the soil with cultures of micro-organisms--a rational idea, conceived but yesterday, which will permit us to give to the soil those little living beings, necessary to feed the rootlets, to decompose and assimilate the component parts of the soil.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.96.1
+  kind: p
+  original: ''
+  en: They will experiment....
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.96.2
+  kind: p
+  original: ''
+  en: But let us stop here, or we shall enter into the realm of fancy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.96.3
+  kind: p
+  original: ''
+  en: Let us remain in the reality of acquired facts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.96.4
+  kind: p
+  original: ''
+  en: With the processes of culture in use, applied on a large scale, and already victorious in the struggle against industrial competition, we can give ourselves ease and luxury in return for agreeable work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.96.5
+  kind: p
+  original: ''
+  en: The near future will show what is practical in the processes that recent scientific discoveries give us a glimpse of.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.96.6
+  kind: p
+  original: ''
+  en: Let us limit ourselves at present to opening up the new path that consists in the study of the needs of man, and the means of satisfying them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.97.1
+  kind: p
+  original: ''
+  en: The only thing that may be wanting to the Revolution is the boldness of initiative.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.98.1
+  kind: p
+  original: ''
+  en: With our minds already narrowed in our youth and enslaved by the past in our mature age, we hardly dare to think.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.98.2
+  kind: p
+  original: ''
+  en: If a new idea is mentioned--before venturing on an opinion of our own, we consult musty books a hundred years old, to know what ancient masters thought on the subject.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.99.1
+  kind: p
+  original: ''
+  en: It is not food that will fail, if boldness of thought and initiative are not wanting to the revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.100.1
+  kind: p
+  original: ''
+  en: Of all the great days of the French Revolution, the most beautiful, the greatest, was the one on which delegates who had come from all parts of France to Paris, worked all with the spade to plane the ground of the Champ de Mars, preparing it for the fête of the Federation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.101.1
+  kind: p
+  original: ''
+  en: 'That day France was united: animated by the new spirit, she had a vision of the future in the working in common of the soil.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.102.1
+  kind: p
+  original: ''
+  en: And it will again be by the working in common of the soil that the enfranchised societies will find their unity and will obliterate the hatred and oppression which has hitherto divided them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.103.1
+  kind: p
+  original: ''
+  en: Henceforth, able to conceive solidarity--that immense power which increases man's energy and creative forces a hundredfold--the new society will march to the conquest of the future with all the vigour of youth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.104.1
+  kind: p
+  original: ''
+  en: Ceasing to produce for unknown buyers, and looking in its midst for needs and tastes to be satisfied, society will liberally assure the life and ease of each of its members, as well as that moral satisfaction which work give when freely chosen and freely accomplished, and the joy of living without encroaching on the life of others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.105.1
+  kind: p
+  original: ''
+  en: Inspired by a new daring--born of the feeling of solidarity--all will march together to the conquest of the high joys of knowledge and artistic creation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.106.1
+  kind: p
+  original: ''
+  en: A society thus inspired will fear neither dissensions within nor enemies without.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.106.2
+  kind: p
+  original: ''
+  en: To the coalitions of the past it will oppose a new harmony, the initiative of each and all, the daring which springs from the awakening of a people's genius.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.107.1
+  kind: p
+  original: ''
+  en: Before such an irresistible force "conspiring kings" will be powerless.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.107.2
+  kind: p
+  original: ''
+  en: Nothing will remain for them but to bow before it, and to harness themselves to the chariot of humanity, rolling towards new horizons opened up by the Social Revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N11.1.1
+  kind: note
+  original: ''
+  en: A new enlarged edition of it has been published by Thomas Nelson and Sons in their "Shilling Library."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.1
+  kind: note
+  original: ''
+  en: Consult "La Répartition métrique des impôts," by A. Toubeau, two vols., published by Guillaumin in 1880.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.2
+  kind: note
+  original: ''
+  en: (We do not in the least agree with Toubeau's conclusions, but it is a real encyclopædia, indicating the sources which prove what can be obtained from the soil.)
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.3
+  kind: note
+  original: ''
+  en: '"La Culture maraîchere," by M. Ponce, Paris, 1869.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.4
+  kind: note
+  original: ''
+  en: '"Le Potager Gressent," Paris, 1885, an excellent practical work.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.5
+  kind: note
+  original: ''
+  en: '"Physiologie et culture du blé," by Risler, Paris, 1881.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.6
+  kind: note
+  original: ''
+  en: '"Le blé, sa culture intensive et extensive," by Lecouteux, Paris, 1883.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.7
+  kind: note
+  original: ''
+  en: '"La Cité Chinoise," by Eugène Simon.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.8
+  kind: note
+  original: ''
+  en: '"Le dictionnaire d''agriculture," by Barral (Hachette, editor).'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.9
+  kind: note
+  original: ''
+  en: '"The Rothamstead Experiments," by Wm. Fream, London, 1888--culture without manure, etc. (the "Field" office, editor).'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.10
+  kind: note
+  original: ''
+  en: '"Fields, Factories, and Workshops," by the author.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N12.1.11
+  kind: note
+  original: ''
+  en: (Thomas Nelson & Sons.)
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.1.1
+  kind: note
+  original: ''
+  en: Summing up the figures given on agriculture, figures proving that the inhabitants of the two departments of Seine and Seine-et-Oise can live perfectly well on their own territory by employing very little time annually to obtain food, we have:--
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.2.1
+  kind: note
+  original: ''
+  en: DEPARTMENTS OF SEINE AND SEINE-ET-OISE
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.3.1
+  kind: note
+  original: ''
+  en: 'Number of inhabitants in 1889: 3,900,000'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.4.1
+  kind: note
+  original: ''
+  en: 'Area in acres: 1,507,300'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.5.1
+  kind: note
+  original: ''
+  en: 'Average number of inhabitants per acre: 2.6'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.6.1
+  kind: note
+  original: ''
+  en: Areas to be cultivated to feed the inhabitants (in acres):--
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.7.1
+  kind: note
+  original: ''
+  en: 'Corn and Cereals: 494,000'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.8.1
+  kind: note
+  original: ''
+  en: 'Natural and artificial meadows: 494,000'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.9.1
+  kind: note
+  original: ''
+  en: 'Vegetables and fruit: from 17,300 to 25,000'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.10.1
+  kind: note
+  original: ''
+  en: 'Leaving a balance for houses, roads, parks, forests: 494,000'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.11.1
+  kind: note
+  original: ''
+  en: Quantity of annual work necessary to improve and cultivate the above surfaces in five-hour workdays:--
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.12.1
+  kind: note
+  original: ''
+  en: 'Cereals (culture and crop): 15,000,000'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.13.1
+  kind: note
+  original: ''
+  en: 'Meadows, milk, rearing of cattle: 10,000,000'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.14.1
+  kind: note
+  original: ''
+  en: 'Market-gardening culture, high-class fruit: 33,000,000'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.15.1
+  kind: note
+  original: ''
+  en: 'Extras: 12,000,000'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.16.1
+  kind: note
+  original: ''
+  en: 'Total: 70,000,000'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.17.1
+  kind: note
+  original: ''
+  en: If we suppose that only half of the able-bodied adults (men and women) are willing to work at agriculture, we see that 70 million work-days must be divided among 1,200,000 individuals, which gives us fifty-eight work-days of 5 hours for each of these workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.17.2
+  kind: note
+  original: ''
+  en: With that the population of the two departments would have all necessary bread, meat, milk, vegetables, and fruit, both for ordinary and even luxurious consumption.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.17.3
+  kind: note
+  original: ''
+  en: To-day a workman spends for the necessary food of his family (generally less than what is necessary) at least one-third of his 300 work-days a year, about 1,000 hours be it, instead of 290.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVII.N13.17.4
+  kind: note
+  original: ''
+  en: That is, he thus gives about 700 hours too much to fatten the idle and the would-be administrators, because he does not produce his own food, but buys it of middlemen, who in their turn buy it of peasants who exhaust themselves by working with bad tools, because, being robbed by the landowners and the State, they cannot procure better ones.
+  modern: ''
+  modern_status: empty
+  notes: ''

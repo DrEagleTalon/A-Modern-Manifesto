@@ -4,3 +4,9 @@
   url: https://raw.githubusercontent.com/GITenberg/The-Conquest-of-Bread_23428/master/23428.txt
   bytes: 459155
   sha256: e76d17c1cdbe37a8c3bdb9e924016c1964fb97767fb5e3445521ab0f7e34e214
+# Added by hand on 2026-11-08 from the same Gutenberg mirror: the ISO-8859-1 file keeps accents and the pound sign.
+- file: raw/en/gutenberg_23428-8.txt
+  role: english
+  url: https://raw.githubusercontent.com/GITenberg/The-Conquest-of-Bread_23428/master/23428-8.txt
+  bytes: 459159
+  sha256: 0ec40b2bc77e16b36caf80c37c0e6c2591a9c096629f26f4a2bd21a39917f137
