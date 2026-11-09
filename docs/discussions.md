@@ -60,7 +60,7 @@ The labels already exist on the repository, and the forms and workflows are in t
 2. On the repository's main page, the gear icon next to **About**: description "The socialist, communist and anarchist classics, verse by verse, in plain English", website `https://dreagletalon.github.io/left-classics/`, and the topics listed in the README.
 3. **Settings > Pages**: Source **GitHub Actions**.
 4. **Settings > Actions > General**: Workflow permissions **Read and write**.
-5. **Discussions**, pencil next to **Categories**: create the categories in the table above with exactly these names (the forms match on the name): **Start here**, **Interpretation**, **Translation choices**, **Glossary**, **Traditions**, **Commentary review**, **Library proposals**, **Adaptations**. Use the format shown in the table.
+5. **Discussions**, pencil next to **Categories**: create the categories in the table above with exactly these names, typed without the emoji (pick the emoji with the separate emoji button; the forms match on the name): **Start here**, **Interpretation**, **Translation choices**, **Glossary**, **Traditions**, **Commentary review**, **Library proposals**, **Adaptations**. Use the format shown in the table.
 6. Delete the default **Q&A**, **Ideas** and **Show and tell** categories (Start here and Library proposals replace them).
 7. Optional: create the sections Community, The texts, Traditions, Building the library, and drag the categories into them.
 8. Post the welcome message below in **Announcements** and pin it.
@@ -71,6 +71,6 @@ The labels already exist on the repository, and the forms and workflows are in t
 >
 > This is an open library of socialist, communist and anarchist classics, verse by verse: the original, a historical English translation, a plain modern English draft, and commentary from every tradition that wants to take part.
 >
-> New here? Ask anything in **Start here**. Want to help? Pick a `good first issue`, draft a few verses of a modern translation, or bring your tradition's reading of a passage to **Interpretation**.
+> New here? Ask anything in **Start here**. If you want to help, pick a `good first issue`, or try drafting a few verses of the modern translation. You can also bring your own tradition's reading of a passage to **Interpretation**.
 >
-> Three rules hold the place together. Cite the verse (`CM II.66.1`). Source your facts. Describe other traditions the way their own adherents would before you criticise them. The full code of conduct is in the repository.
+> A couple of ground rules. Cite the verse you're talking about (`CM II.66.1`) and back up your facts with a source. And before you criticise another tradition, describe it the way its own people would. The full code of conduct is in the repository.
