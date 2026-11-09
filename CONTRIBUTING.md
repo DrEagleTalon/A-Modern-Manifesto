@@ -1,6 +1,8 @@
 # Contributing
 
-You do not need to know Git to help. You do need to say which verse you are talking about, every time, with the work's prefix: `CM I.12.3`, `WLC II.4.2`. Verse numbers are how this project keeps hundreds of separate conversations attached to the right sentence.
+You do not need to know Git to help, and you do not need to know YAML either: [docs/editing-yaml.md](docs/editing-yaml.md) explains the file format in five minutes and lists free editors for Windows, Mac, Linux, iPhone and Android. Most edits can be made straight in the browser on GitHub.
+
+What you do need is to say which verse you are talking about, every time, with the work's prefix: `CM I.12.3`, `WLC II.4.2`. Verse numbers are how this project keeps hundreds of separate conversations attached to the right sentence.
 
 ## Ways in
 
