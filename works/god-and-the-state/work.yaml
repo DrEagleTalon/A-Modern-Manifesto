@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: god-and-the-state
+prefix: GAS                       # citation prefix: GAS 0.70.3
+title: God and the State
+title_original: Dieu et l'État
+authors: [Mikhail Bakunin]
+year: 1882
+original_language: fr
+base_text: "Benjamin Tucker's English translation of 1883 with the editors' preface of 1882, in the Mother Earth printing (New York, about 1916). The French original is still to come; until then the English sets the verses."
+order: 90
+columns:
+  original: French original (to come)
+  en: English 1883 (Benjamin Tucker; Mother Earth printing)
+  modern: Modern draft
+status: ready
+rights: Bakunin's text with its 1882 preface is public domain, and so is the 1883 English translation. See SOURCES.md.

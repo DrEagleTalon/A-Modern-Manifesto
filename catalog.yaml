@@ -121,10 +121,10 @@
   original_language: fr
   tier: A
   priority: 9
-  stage: planned
+  stage: ready
   sources:
     english: ["gutenberg:God-and-the-State_36568"]
-  notes: English fetched to works/god-and-the-state/sources/; English by Benjamin Tucker, 1883. French original still to locate.
+  notes: "English-only build from Benjamin Tucker's 1883 translation in the Mother Earth printing (Gutenberg 36568-8.txt, added by hand beside the fetched ASCII file); the English sets the verses for now. French original (Dieu et l'Etat, 1882) still to locate on a reachable mirror, and needs French sentence rules; it then fills the original column without renumbering."
 
 - id: civil-war-in-france
   prefix: CWF

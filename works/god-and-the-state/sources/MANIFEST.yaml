@@ -4,3 +4,9 @@
   url: https://raw.githubusercontent.com/GITenberg/God-and-the-State_36568/master/36568.txt
   bytes: 211801
   sha256: 9f8aca8864ac783f89ebf19d99740779ea52433dee7e20532dcbdc739f0ea85d
+# Added by hand on 2026-11-09 from the same Gutenberg mirror: the ISO-8859-1 file keeps the accents.
+- file: raw/en/gutenberg_36568-8.txt
+  role: english
+  url: https://raw.githubusercontent.com/GITenberg/God-and-the-State_36568/master/36568-8.txt
+  bytes: 211745
+  sha256: 9cd32118c44c291bb88c3645934976d5e0889f903175d528bfbd59a37185d1a1
