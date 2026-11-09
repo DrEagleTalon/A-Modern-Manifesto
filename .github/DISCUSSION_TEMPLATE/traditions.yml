@@ -1,0 +1,32 @@
+title: "[tradition] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Traditions**: introduce your tradition, volunteer as a maintainer of its commentary and renderings, or propose a tradition that is missing from `traditions.yaml`.
+        Name the tradition the way its own adherents do.
+  - type: input
+    id: name
+    attributes:
+      label: Tradition
+      placeholder: anarcho-syndicalist
+    validations:
+      required: true
+  - type: dropdown
+    id: purpose
+    attributes:
+      label: Purpose
+      options:
+        - Introduce this tradition and how it reads these texts
+        - Volunteer as a maintainer
+        - Propose adding a new tradition
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: For a new tradition, a one-sentence neutral description and two or three key texts or thinkers.
+    validations:
+      required: true

@@ -1,0 +1,257 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: XI
+title_original: XI. The Different Parts into which Surplus Value is Decomposed
+title_en: XI. The Different Parts into which Surplus Value is Decomposed
+author: Karl Marx
+date: 1865-06
+original_language: en
+anchor_language: en
+source_original: Karl Marx, Value, Price and Profit, ed. Eleanor Marx Aveling (London 1898), public domain; Marxists Internet Archive transcription (proofed by Brandon Poole, 2009; CC BY-SA)
+source_en: 'None needed: the original is in English'
+verses:
+- id: XI.0.1
+  kind: heading
+  original: XI. The Different Parts into which Surplus Value is Decomposed
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.1.1
+  kind: p
+  original: The surplus value, or that part of the total value of the commodity in which the surplus labour or unpaid labour of the working man is realized, I call profit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.1.2
+  kind: p
+  original: The whole of that profit is not pocketed by the employing capitalist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.1.3
+  kind: p
+  original: The monopoly of land enables the landlord to take one part of that surplus value, under the name of rent, whether the land is used for agricultural buildings or railways, or for any other productive purpose.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.1.4
+  kind: p
+  original: On the other hand, the very fact that the possession of the instruments of labour enables the employing capitalist to produce a surplus value, or, what comes to the same, to appropriate to himself a certain amount of unpaid labour, enables the owner of the means of labour, which he lends wholly or partly to the employing capitalist — enables, in one word, the money-lending capitalist to claim for himself under the name of interest another part of that surplus value, so that there remains to the employing capitalist as such only what is called industrial or commercial profit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.2.1
+  kind: p
+  original: By what laws this division of the total amount of surplus value amongst the three categories of people is regulated is a question quite foreign to our subject.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.2.2
+  kind: p
+  original: This much, however, results from what has been stated.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.3.1
+  kind: p
+  original: Rent, interest, and industrial profit are only different names for different parts of the surplus value of the commodity, or the unpaid labour enclosed in it, and they are equally derived from this source and from this source alone.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.3.2
+  kind: p
+  original: They are not derived from land as such or from capital as such, but land and capital enable their owners to get their respective shares out of the surplus value extracted by the employing capitalist from the labourer.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.3.3
+  kind: p
+  original: For the labourer himself it is a matter of subordinate importance whether that surplus value, the result of his surplus labour, or unpaid labour, is altogether pocketed by the employing capitalist, or whether the latter is obliged to pay portions of it, under the name of rent and interest, away to third parties.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.3.4
+  kind: p
+  original: Suppose the employing capitalist to use only his own capital and to be his own landlord, then the whole surplus value would go into his pocket.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.4.1
+  kind: p
+  original: It is the employing capitalist who immediately extracts from the labourer this surplus value, whatever part of it he may ultimately be able to keep for himself.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.4.2
+  kind: p
+  original: Upon this relation, therefore between the employing capitalist and the wages labourer the whole wages system and the whole present system of production hinge.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.4.3
+  kind: p
+  original: Some of the citizens who took part in our debate were, there, wrong in trying to mince matters, and to treat this fundamental relation between the employing capitalist and the working man as a secondary question, although they were right in stating that, under given circumstances, a rise of prices might affect in very unequal degrees the employing capitalist, the landlord, the moneyed capitalist, and, if you please, the tax-gatherer.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.5.1
+  kind: p
+  original: Another consequence follows from what has been stated.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.6.1
+  kind: p
+  original: That part of the value of the commodity which represents only the value of the raw materials, the machinery, in one word, the value of the means of production used up, forms no revenue at all, but replaces only capital.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.6.2
+  kind: p
+  original: But, apart from this, it is false that the other part of the value of the commodity which forms revenue, or may be spent in the form of wages, profits, rent, interest, is constituted by the value of wages, the value of rent, the value of profits, and so forth.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.6.3
+  kind: p
+  original: We shall, in the first instance, discard wages, and only treat industrial profits, interest, and rent.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.6.4
+  kind: p
+  original: We have just seen that the surplus value contained in the commodity, or that part of its value in which unpaid labour is realized, resolves itself into different fractions, bearing three different names.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.7.1
+  kind: p
+  original: But it would be quite the reverse of the truth to say that its value is composed of, or formed by, the addition of the independent values of these three constituents.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.8.1
+  kind: p
+  original: If one hour of labour realizes itself in a value of sixpence, if the working day of the labourer comprises twelve hours, if half of this time is unpaid labour, that surplus labour will add to the commodity a surplus value of three shillings, that is of value for which no equivalent has been paid.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.8.2
+  kind: p
+  original: This surplus value of three shillings constitutes the whole fund which the employing capitalist may divide, in whatever proportions, with the landlord and the money-lender.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.8.3
+  kind: p
+  original: The value of these three shillings constitutes the limit of the value they have to divide amongst them.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.8.4
+  kind: p
+  original: But it is not the employing capitalist who adds to the value of the commodity an arbitrary value for his profit, to which another value is added for the landlord, and so forth, so that the addition of these arbitrarily fixed values would constitute the total value.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.8.5
+  kind: p
+  original: You see, therefore, the fallacy of the popular notion, which confounds the decomposition of a given value into three parts, with the formation of that value by the addition of three independent values, thus converting the aggregate value, from which rent, profit, and interest are derived, into an arbitrary magnitude.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.9.1
+  kind: p
+  original: If the total profit realized by a capitalist is equal to 100 Pounds, we call this sum, considered as absolute magnitude, the amount of profit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.9.2
+  kind: p
+  original: But if we calculate the ratio which those 100 Pounds bear to the capital advanced, we call this relative magnitude, the rate of profit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.9.3
+  kind: p
+  original: It is evident that this rate of profit may be expressed in a double way.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.10.1
+  kind: p
+  original: Suppose 100 Pounds to be the capital advanced in wages.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.10.2
+  kind: p
+  original: If the surplus value created is also 100 Pounds — and this would show us that half the working day of the labourer consists of unpaid labour — and if we measured this profit by the value of the capital advanced in wages, we should say that the rate of profit amounted to one hundred percent, because the value advanced would be one hundred and the value realized would be two hundred.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.11.1
+  kind: p
+  original: If, on the other hand, we should not only consider the capital advanced in wages, but the total capital advanced, say, for example, 500 Pounds, of which 400 Pounds represented the value of raw materials, machinery, and so forth, we should say that the rate of profit amounted only to twenty percent, because the profit of one hundred would be but the fifth part of the total capital advanced.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.12.1
+  kind: p
+  original: The first mode of expressing the rate of profit is the only one which shows you the real ratio between paid and unpaid labour, the real degree of the exploitation (you must allow me this French word) of labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.12.2
+  kind: p
+  original: The other mode of expression is that in common use, and is, indeed, appropriate for certain purposes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.12.3
+  kind: p
+  original: At all events, it is very useful for concealing the degree in which the capitalist extracts gratuitous labour from the workman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.13.1
+  kind: p
+  original: In the remarks I have still to make I shall use the word profit for the whole amount of the surplus value extracted by the capitalist without any regard to the division of that surplus value between different parties, and in using the words rate of profit, I shall always measure profits by the value of the capital advanced in wages.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

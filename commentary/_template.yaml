@@ -1,0 +1,24 @@
+# Copy to commentary/<tradition-slug>/<work-id>.yaml (for example commentary/anarchist-communist/communist-manifesto.yaml).
+# One file per tradition per work. Entries about several works at once go in commentary/<tradition-slug>/_library.yaml
+# with `work: "*"`. Full guide: docs/commentary-guide.md
+
+tradition: anarchist-communist        # a slug from traditions.yaml
+work: CM                              # the work's citation prefix, or "*" in _library.yaml
+maintainers: ["@your-github-handle"]  # who reviews entries in this file for this tradition
+
+entries:
+  - id: short-unique-slug             # unique within this tradition; cited as anarchist-communist:short-unique-slug
+    kind: exegesis                    # gloss | translation | exegesis | context | application | critique | development
+    targets: ["CM II.66.1"]           # verse "CM II.66.1", range "CM II.65.1-II.81.1", section "CM II", whole work "CM"
+    title: One line saying what this entry argues
+    body: |
+      Plain prose. Cite the verses you rely on (CM II.66.1) and your sources.
+    # relation: supersedes            # development entries only: extends | revises | supersedes
+    # by: ["CM P1872.2.6"]            # development entries only: what extends, revises or supersedes it
+    sources:
+      - "Author, Title (year), chapter or page"
+    see_also: []                      # other verses or entries, e.g. "CM P1872.2.6" or "marxist-leninist:proletarian-state"
+    # responds_to: "marxist-leninist:proletarian-state"   # when answering another tradition's entry
+    authors: ["@your-github-handle"]
+    status: proposed                  # proposed | accepted | disputed | retired
+    # discussion: https://github.com/DrEagleTalon/left-classics/discussions/NN

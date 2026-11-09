@@ -1,0 +1,6 @@
+# Fetched 2026-11-08 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+- file: raw/en/gutenberg_47244.txt
+  role: english
+  url: https://raw.githubusercontent.com/GITenberg/Woman-and-Socialism_47244/master/47244.txt
+  bytes: 1189573
+  sha256: 8928f785988d134f7e5fc04a8df22b1d8646722e1908f038eea7d76f149a3a11

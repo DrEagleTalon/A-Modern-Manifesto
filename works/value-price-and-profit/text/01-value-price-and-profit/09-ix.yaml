@@ -1,0 +1,166 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: IX
+title_original: IX. Value of Labour
+title_en: IX. Value of Labour
+author: Karl Marx
+date: 1865-06
+original_language: en
+anchor_language: en
+source_original: Karl Marx, Value, Price and Profit, ed. Eleanor Marx Aveling (London 1898), public domain; Marxists Internet Archive transcription (proofed by Brandon Poole, 2009; CC BY-SA)
+source_en: 'None needed: the original is in English'
+verses:
+- id: IX.0.1
+  kind: heading
+  original: IX. Value of Labour
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.1.1
+  kind: p
+  original: We must now return to the expression, "value, or price of labour."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.1.2
+  kind: p
+  original: We have seen that, in fact, it is only the value of the labouring power, measured by the values of commodities necessary for its maintenance.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.1.3
+  kind: p
+  original: But since the workman receives his wages after his labour is performed, and knows, moreover, that what he actually gives to the capitalist is his labour, the value or price of his labouring power necessarily appears to him as the price or value of his labour itself.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.1.4
+  kind: p
+  original: If the price of his labouring power is three shillings, in which six hours of labour are realized, and if he works twelve hours, he necessarily considers these three shillings as the value or price of twelve hours of labour, although these twelve hours of labour realize themselves in a value of six shillings.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.1.5
+  kind: p
+  original: A double consequence flows from this.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.2.1
+  kind: p
+  original: Firstly.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.2.2
+  kind: p
+  original: The value or price of the labouring power takes the semblance of the price or value of labour itself, although, strictly speaking, value and price of labour are senseless terms.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.3.1
+  kind: p
+  original: Secondly.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.3.2
+  kind: p
+  original: Although one part only of the workman's daily labour is paid, while the other part is unpaid, and while that unpaid or surplus labour constitutes exactly the fund out of which surplus value or profit is formed, it seems as if the aggregate labour was paid labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.4.1
+  kind: p
+  original: This false appearance distinguishes wages labour from other historical forms of labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.4.2
+  kind: p
+  original: On the basis of the wages system even the unpaid labour seems to be paid labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.4.3
+  kind: p
+  original: With the slave, on the contrary, even that part of his labour which is paid appears to be unpaid.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.4.4
+  kind: p
+  original: Of course, in order to work the slave must live, and one part of his working day goes to replace the value of his own maintenance.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.4.5
+  kind: p
+  original: But since no bargain is struck between him and his master, and no acts of selling and buying are going on between the two parties, all his labour seems to be given away for nothing.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.5.1
+  kind: p
+  original: Take, on the other hand, the peasant serf, such as he, I might say, until yesterday existed in the whole of East of Europe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.5.2
+  kind: p
+  original: This peasant worked, for example, three days for himself on his own field or the field allotted to him, and the three subsequent days he performed compulsory and gratuitous labour on the estate of his lord.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.5.3
+  kind: p
+  original: Here, then, the paid and unpaid parts of labour were sensibly separated, separated in time and space; and our Liberals overflowed with moral indignation at the preposterous notion of making a man work for nothing.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.6.1
+  kind: p
+  original: In point of fact, however, whether a man works three days of the week for himself on his own field and three days for nothing on the estate of his lord, or whether he works in the factory or the workshop six hours daily for himself and six for his employer, comes to the same, although in the latter case the paid and unpaid portions of labour are inseparably mixed up with each other, and the nature of the whole transaction is completely masked by the intervention of a contract and the pay received at the end of the week.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.6.2
+  kind: p
+  original: The gratuitous labour appears to be voluntarily given in the one instance, and to be compulsory in the other.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.6.3
+  kind: p
+  original: That makes all the difference.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IX.7.1
+  kind: p
+  original: In using the word "value of labour," I shall only use it as a popular slang term for "value of labouring power."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

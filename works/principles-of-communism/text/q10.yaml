@@ -1,0 +1,47 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q10
+title_original: '10. Frage: Wodurch unterscheidet sich der Proletarier vom Manufakturarbeiter?'
+title_en: Question 10
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q10.0.1
+  kind: heading
+  original: '10. Frage: Wodurch unterscheidet sich der Proletarier vom Manufakturarbeiter?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q10.1.1
+  kind: p
+  original: 'Antwort: Der Manufakturarbeiter des sechzehnten bis achtzehnten Jahrhunderts hatte fast überall noch ein Produktionsinstrument in seinem Besitz, seinen Webstuhl, die Spinnräder für seine Familie, ein kleines Feld, das er in Nebenstunden bebaute.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q10.1.2
+  kind: p
+  original: Der Proletarier hat das alles nicht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q10.1.3
+  kind: p
+  original: Der Manufakturarbeiter lebt fast immer auf dem Lande und in mehr oder weniger patriarchalischen Verhältnissen mit seinem Gutsherrn oder Arbeitgeber; der Proletarier lebt meist in großen Städten und steht zu seinem Arbeitgeber in einem reinen Geldverhältnis.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q10.1.4
+  kind: p
+  original: Der Manufakturarbeiter wird durch die große Industrie aus seinen patriarchalischen Verhältnissen herausgerissen, verliert den Besitz, den er noch hatte, und wird dadurch selbst erst Proletarier.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

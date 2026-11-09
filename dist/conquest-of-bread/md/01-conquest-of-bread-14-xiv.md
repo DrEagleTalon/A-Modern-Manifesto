@@ -1,0 +1,104 @@
+# CB XIV · Chapter XIV. Consumption and Production
+
+*Chapter XIV. Consumption and Production*
+
+Original: Not yet in this repository. Kropotkin's French, La Conquête du pain (Paris 1892), is still to be located on a reachable mirror.  
+English: Anonymous English translation (London: Chapman and Hall, 1906) with Kropotkin's preface of 1913, Vanguard Press printing (New York 1926), Project Gutenberg ebook 23428 (public domain)
+
+| Verse | French original (to come) | English 1906 (anonymous translation; 1913 preface) | Modern draft | Notes |
+|---|---|---|---|---|
+| <a id="XIV.0.1"></a>**XIV.0.1** |  | Chapter XIV. Consumption and Production |  |  |
+| <a id="XIV.1.1"></a>**XIV.1.1** |  | I |  |  |
+| <a id="XIV.2.1"></a>**XIV.2.1** |  | Looking at society and its political organization from a different standpoint than that of all the authoritarian schools--for we start from a free individual to reach a free society, instead of beginning by the State to come down to the individual--we follow the same method in economic questions. |  |  |
+| <a id="XIV.2.2"></a>**XIV.2.2** |  | We study the needs of the individuals, and the means by which they satisfy them, before discussing Production, Exchange, Taxation, Government, and so on. |  |  |
+| <a id="XIV.2.3"></a>**XIV.2.3** |  | At first sight the difference may appear trifling, but in reality it upsets all the canons of official Political Economy. |  |  |
+| <a id="XIV.3.1"></a>**XIV.3.1** |  | If you open the works of any economist you will find that he begins with PRODUCTION, i. e., by the analysis of the means employed nowadays for the creation of wealth: division of labour, the factory, its machinery, the accumulation of capital. |  |  |
+| <a id="XIV.3.2"></a>**XIV.3.2** |  | From Adam Smith to Marx, all have proceeded along these lines. |  |  |
+| <a id="XIV.3.3"></a>**XIV.3.3** |  | Only in the latter parts of their books do they treat of CONSUMPTION, that is to say, of the means resorted to in our present Society to satisfy the needs of the individuals; and even there they confine themselves to explaining how riches are divided among those who vie with one another for their possession. |  |  |
+| <a id="XIV.4.1"></a>**XIV.4.1** |  | Perhaps you will say this is logical. |  |  |
+| <a id="XIV.4.2"></a>**XIV.4.2** |  | Before satisfying needs you must create the wherewithal to satisfy them. |  |  |
+| <a id="XIV.4.3"></a>**XIV.4.3** |  | But, before producing anything, must you not feel the need of it? |  |  |
+| <a id="XIV.4.4"></a>**XIV.4.4** |  | Was it not necessity that first drove man to hunt, to raise cattle, to cultivate land, to make implements, and later on to invent machinery? |  |  |
+| <a id="XIV.4.5"></a>**XIV.4.5** |  | Is it not the study of the needs that should govern production? |  |  |
+| <a id="XIV.4.6"></a>**XIV.4.6** |  | To say the least, it would therefore be quite as logical to begin by considering the needs, and afterwards to discuss how production is, and ought to be, organized, in order to satisfy these needs. |  |  |
+| <a id="XIV.5.1"></a>**XIV.5.1** |  | This is precisely what we mean to do. |  |  |
+| <a id="XIV.6.1"></a>**XIV.6.1** |  | But as soon as we look at Political Economy from this point of view, it entirely changes its aspect. |  |  |
+| <a id="XIV.6.2"></a>**XIV.6.2** |  | It ceases to be a simple description of facts, and becomes a science, and we may define this science as: "The study of the needs of mankind, and the means of satisfying them with the least possible waste of human energy". |  |  |
+| <a id="XIV.6.3"></a>**XIV.6.3** |  | Its true name should be, Physiology of Society. |  |  |
+| <a id="XIV.6.4"></a>**XIV.6.4** |  | It constitutes a parallel science to the physiology of plants and animals, which is the study of the needs of plants and animals, and of the most advantageous ways of satisfying them. |  |  |
+| <a id="XIV.6.5"></a>**XIV.6.5** |  | In the series of sociological sciences, the economy of human societies takes the place, occupied in the series of biological sciences by the physiology of organic bodies. |  |  |
+| <a id="XIV.7.1"></a>**XIV.7.1** |  | We say, here are human beings, united in a society. |  |  |
+| <a id="XIV.7.2"></a>**XIV.7.2** |  | All of them feel the need of living in healthy houses. |  |  |
+| <a id="XIV.7.3"></a>**XIV.7.3** |  | The savage's hut no longer satisfies them; they require a more or less comfortable solid shelter. |  |  |
+| <a id="XIV.7.4"></a>**XIV.7.4** |  | The question is, then: whether, taking the present capacity of men for production, every man can have a house of his own? and what is hindering him from having it? |  |  |
+| <a id="XIV.8.1"></a>**XIV.8.1** |  | And as soon as we ask this question, we see that every family in Europe could perfectly well have a comfortable house, such as are built in England, in Belgium, or in Pullman City, or else an equivalent set of rooms. |  |  |
+| <a id="XIV.8.2"></a>**XIV.8.2** |  | A certain number of days' work would suffice to build a pretty little airy house, well fitted up and lighted by electricity. |  |  |
+| <a id="XIV.9.1"></a>**XIV.9.1** |  | But nine-tenths of Europeans have never possessed a healthy house, because at all times common people have had to work day after day to satisfy the needs of their rulers, and have never had the necessary leisure or money to build, or to have built, the home of their dreams. |  |  |
+| <a id="XIV.9.2"></a>**XIV.9.2** |  | And they can have no houses, and will inhabit hovels as long as present conditions remain unchanged. |  |  |
+| <a id="XIV.10.1"></a>**XIV.10.1** |  | It is thus seen that our method is quite contrary to that of the economists, who immortalize the so-called laws of production, and, reckoning up the number of houses built every year, demonstrate by statistics, that as the number of the new-built houses is too small to meet all demands, nine-tenths of Europeans must live in hovels. |  |  |
+| <a id="XIV.11.1"></a>**XIV.11.1** |  | Let us pass on to food. |  |  |
+| <a id="XIV.11.2"></a>**XIV.11.2** |  | After having enumerated the benefits accruing from the division of labour, economists tell us the division of labour requires that some men should work at agriculture and others at manufacture. |  |  |
+| <a id="XIV.11.3"></a>**XIV.11.3** |  | Farmers producing so much, factories so much, exchange being carried on in such a way, they analyze the sale, the profit, the net gain or the surplus value, the wages, the taxes, banking, and so on. |  |  |
+| <a id="XIV.12.1"></a>**XIV.12.1** |  | But after having followed them so far, we are none the wiser, and if we ask them: "How is it that millions of human beings are in want of bread, when every family could grow sufficient wheat to feed ten, twenty, and even a hundred people annually?" they answer us by droning the same anthem--division of labour, wages, surplus value, capital, etc.--arriving at the same conclusion, that production is insufficient to satisfy all needs; a conclusion which, if true, does not answer the question: "Can or cannot man by his labour produce the bread he needs? |  |  |
+| <a id="XIV.12.2"></a>**XIV.12.2** |  | And if he cannot, what is it that hinders him?" |  |  |
+| <a id="XIV.13.1"></a>**XIV.13.1** |  | Here are 350 million Europeans. |  |  |
+| <a id="XIV.13.2"></a>**XIV.13.2** |  | They need so much bread, so much meat, wine, milk, eggs, and butter every year. |  |  |
+| <a id="XIV.13.3"></a>**XIV.13.3** |  | They need so many houses, so much clothing. |  |  |
+| <a id="XIV.13.4"></a>**XIV.13.4** |  | This is the minimum of their needs. |  |  |
+| <a id="XIV.13.5"></a>**XIV.13.5** |  | Can they produce all this? and if they can, will sufficient leisure be left them for art, science, and amusement?--in a word, for everything that is not comprised in the category of absolute necessities? |  |  |
+| <a id="XIV.13.6"></a>**XIV.13.6** |  | If the answer is in the affirmative,--What hinders them going ahead? |  |  |
+| <a id="XIV.13.7"></a>**XIV.13.7** |  | What must they do to remove the obstacles? |  |  |
+| <a id="XIV.13.8"></a>**XIV.13.8** |  | Is it time that is needed to achieve such a result? |  |  |
+| <a id="XIV.13.9"></a>**XIV.13.9** |  | Let them take it! |  |  |
+| <a id="XIV.13.10"></a>**XIV.13.10** |  | But let us not lose sight of the aim of production--the satisfaction of the needs of all. |  |  |
+| <a id="XIV.14.1"></a>**XIV.14.1** |  | If the most imperious needs of man remain unsatisfied now,--What must we do to increase the productivity of our work? |  |  |
+| <a id="XIV.14.2"></a>**XIV.14.2** |  | But is there no other cause? |  |  |
+| <a id="XIV.14.3"></a>**XIV.14.3** |  | Might it not be that production, having lost sight of the needs of man, has strayed in an absolutely wrong direction, and that its organization is at fault? |  |  |
+| <a id="XIV.14.4"></a>**XIV.14.4** |  | And as we can prove that such is the case, let us see how to reorganize production so as to really satisfy all needs. |  |  |
+| <a id="XIV.15.1"></a>**XIV.15.1** |  | This seems to us the only right way of facing things. |  |  |
+| <a id="XIV.15.2"></a>**XIV.15.2** |  | The only way that would allow of Political Economy becoming a science--the Science of Social Physiology. |  |  |
+| <a id="XIV.16.1"></a>**XIV.16.1** |  | It is evident that so long as science treats of production, as it is carried on at present by civilized nations, by Hindoo communes, or by savages, it can hardly state facts otherwise than the economists state them now; that is to say, as a simple descriptive chapter, analogous to the descriptive chapters of Zoology and Botany. |  |  |
+| <a id="XIV.16.2"></a>**XIV.16.2** |  | But if this chapter were written so as to throw some light on the economy of the energy that is necessary to satisfy human needs, the chapter would gain in precision, as well as in descriptive value. |  |  |
+| <a id="XIV.16.3"></a>**XIV.16.3** |  | It would clearly show the frightful waste of human energy under the present system, and it would prove that as long as this system exists, the needs of humanity will never be satisfied. |  |  |
+| <a id="XIV.17.1"></a>**XIV.17.1** |  | The point of view, we see, would be entirely changed. |  |  |
+| <a id="XIV.17.2"></a>**XIV.17.2** |  | Behind the loom that weaves so many yards of cloth, behind the steel-plate perforator, and behind the safe in which dividends are hoarded, we should see man, the artisan of production, more often than not excluded from the feast he has prepared for others. |  |  |
+| <a id="XIV.17.3"></a>**XIV.17.3** |  | We should also understand that the standpoint being wrong, the so-called "laws" of value and exchange are but a very false explanation of events, as they happen nowadays; and that things will come to pass very differently when production is organized in such a manner as to meet all needs of society. |  |  |
+| <a id="XIV.18.1"></a>**XIV.18.1** |  | II |  |  |
+| <a id="XIV.19.1"></a>**XIV.19.1** |  | There is not one single principle of Political Economy that does not change its aspect if you look at it from our point of view. |  |  |
+| <a id="XIV.20.1"></a>**XIV.20.1** |  | Take, for instance, over-production, a word which every day re-echoes in our ears. |  |  |
+| <a id="XIV.20.2"></a>**XIV.20.2** |  | Is there a single economist, academician, or candidate for academical honours, who has not supported arguments, proving that economic crises are due to over-production--that at a given moment more cotton, more cloth, more watches are produced than are needed! |  |  |
+| <a id="XIV.20.3"></a>**XIV.20.3** |  | Have we not, all of us, thundered against the rapacity of the capitalists who are obstinately bent on producing more than can possibly be consumed! |  |  |
+| <a id="XIV.21.1"></a>**XIV.21.1** |  | However, on careful examination all these reasonings prove unsound. |  |  |
+| <a id="XIV.21.2"></a>**XIV.21.2** |  | In fact, Is there one single commodity among those in universal use which is produced in greater quantity than need be. |  |  |
+| <a id="XIV.21.3"></a>**XIV.21.3** |  | Examine one by one all commodities sent out by countries exporting on a large scale, and you will see that nearly all are produced in insufficient quantities for the inhabitants of the countries exporting them. |  |  |
+| <a id="XIV.22.1"></a>**XIV.22.1** |  | It is not a surplus of wheat that the Russian peasant sends to Europe. |  |  |
+| <a id="XIV.22.2"></a>**XIV.22.2** |  | The most plentiful harvests of wheat and rye in European Russia only yield enough for the population. |  |  |
+| <a id="XIV.22.3"></a>**XIV.22.3** |  | And as a rule, the peasant deprives himself of what he actually needs when he sells his wheat or rye to pay rent and taxes. |  |  |
+| <a id="XIV.23.1"></a>**XIV.23.1** |  | It is not a surplus of coal that England sends to the four corners of the globe, because only three-quarters of a ton, per head of population, annually, remains for home domestic consumption, and millions of Englishmen are deprived of fire in the winter, or have only just enough to boil a few vegetables. |  |  |
+| <a id="XIV.23.2"></a>**XIV.23.2** |  | In fact, setting aside useless luxuries, there is in England, which exports more than any other country, one single commodity in universal use--cottons--whose production is sufficiently great to perhaps exceed the needs of the community. |  |  |
+| <a id="XIV.23.3"></a>**XIV.23.3** |  | Yet when we look upon the rags that pass for wearing apparel worn by over a third of the inhabitants of the United Kingdom, we are led to ask ourselves whether the cottons exported would not, on the whole, suit the real needs of the population? |  |  |
+| <a id="XIV.24.1"></a>**XIV.24.1** |  | As a rule it is not a surplus that is exported, though it may have been so originally. |  |  |
+| <a id="XIV.24.2"></a>**XIV.24.2** |  | The fable of the barefooted shoemaker is as true of nations as it was formerly of individual artisans. |  |  |
+| <a id="XIV.24.3"></a>**XIV.24.3** |  | We export the necessary commodities. |  |  |
+| <a id="XIV.24.4"></a>**XIV.24.4** |  | And we do so, because the workmen cannot buy with their wages what they have produced, and pay besides the rent and interest to the capitalist and the banker. |  |  |
+| <a id="XIV.25.1"></a>**XIV.25.1** |  | Not only does the ever-growing need of comfort remain unsatisfied, but the strict necessities of life are often wanting. |  |  |
+| <a id="XIV.25.2"></a>**XIV.25.2** |  | Therefore, "surplus production" does not exist, at least not in the sense given to it by the theorists of Political Economy. |  |  |
+| <a id="XIV.26.1"></a>**XIV.26.1** |  | Taking another point--all economists tell us that there is a well-proved law: "Man produces more than he consumes." |  |  |
+| <a id="XIV.26.2"></a>**XIV.26.2** |  | After he has lived on the proceeds of his toil, there remains a surplus. |  |  |
+| <a id="XIV.26.3"></a>**XIV.26.3** |  | Thus, a family of cultivators produces enough to feed several families, and so forth. |  |  |
+| <a id="XIV.27.1"></a>**XIV.27.1** |  | For us, this oft-repeated sentence has no sense. |  |  |
+| <a id="XIV.27.2"></a>**XIV.27.2** |  | If it meant that each generation leaves something to future generations, it would be true; thus, for example, a farmer plants a tree that will live, maybe, for thirty, forty, or a hundred years, and whose fruits will still be gathered by the farmer's grandchildren. |  |  |
+| <a id="XIV.27.3"></a>**XIV.27.3** |  | Or he clears a few acres of virgin soil, and we say that the heritage of future generations has been increased by that much. |  |  |
+| <a id="XIV.27.4"></a>**XIV.27.4** |  | Roads, bridges, canals, his house and his furniture are so much wealth bequeathed to succeeding generations. |  |  |
+| <a id="XIV.28.1"></a>**XIV.28.1** |  | But this is not what is meant. |  |  |
+| <a id="XIV.28.2"></a>**XIV.28.2** |  | We are told that the cultivator produces more than he need consume. |  |  |
+| <a id="XIV.28.3"></a>**XIV.28.3** |  | Rather should they say that, the State having always taken from him a large share of his produce for taxes, the priest for tithe, and the landlord for rent, a whole class of men has been created, who formerly consumed what they produced--save what was set aside for unforeseen accidents, or expenses incurred in afforestation, roads, etc.--but who to-day are compelled to live very poorly, from hand to mouth, the remainder having been taken from them by the State, the landlord, the priest, and the usurer. |  |  |
+| <a id="XIV.29.1"></a>**XIV.29.1** |  | Therefore we prefer to say: The agricultural labourer, the industrial worker and so on consume less than they produce,--because they are compelled to sell most of the produce of their labour and to be satisfied with but a small portion of it. |  |  |
+| <a id="XIV.30.1"></a>**XIV.30.1** |  | Let us also observe that if the needs of the individual are taken as the starting-point of our political economy, we cannot fail to reach Communism, an organization which enables us to satisfy all needs in the most thorough and economical way. |  |  |
+| <a id="XIV.30.2"></a>**XIV.30.2** |  | While if we start from our present method of production, and aim at gain and surplus value, without asking whether our production corresponds to the satisfaction of needs, we necessarily arrive at Capitalism, or at most at Collectivism--both being but two different forms of the present wages' system. |  |  |
+| <a id="XIV.31.1"></a>**XIV.31.1** |  | In fact, when we consider the needs of the individual and of society, and the means which man has resorted to in order to satisfy them during his varied phases of development, we see at once the necessity of systematizing our efforts, instead of producing haphazard as we do nowadays. |  |  |
+| <a id="XIV.31.2"></a>**XIV.31.2** |  | It becomes evident that the appropriation by a few of all riches not consumed, and transmitted from one generation to another, is not in the general interest. |  |  |
+| <a id="XIV.31.3"></a>**XIV.31.3** |  | And we see as a fact that owing to these methods the needs of three-quarters of society are not satisfied, so that the present waste of human strength in useless things is only the more criminal. |  |  |
+| <a id="XIV.32.1"></a>**XIV.32.1** |  | We discover, moreover, that the most advantageous use of all commodities would be, for each of them, to go, first, for satisfying those needs which are the most pressing: that, in other words, the so-called "value in use" of a commodity does not depend on a simple whim, as has often been affirmed, but on the satisfaction it brings to real needs. |  |  |
+| <a id="XIV.33.1"></a>**XIV.33.1** |  | Communism--that is to say, an organization which would correspond to a view of Consumption, Production, and Exchange, taken as a whole--therefore becomes the logical consequence of such a comprehension of things--the only one, in our opinion, that is really scientific. |  |  |
+| <a id="XIV.34.1"></a>**XIV.34.1** |  | A society that will satisfy the needs of all, and which will know how to organize production to answer to this aim will also have to make a clean sweep of several prejudices concerning industry, and first of all the theory often preached by economists--The Division of Labour theory--which we are going to discuss in the next chapter. |  |  |

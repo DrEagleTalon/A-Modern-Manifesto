@@ -1,0 +1,197 @@
+# Glossary of recurring and contested terms.
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+# Change an entry only after a [glossary] Discussion. Link the thread in `discussion`.
+
+- term: Bourgeoisie, Bourgeois
+  de: Bourgeoisie, Bourgeois, bürgerlich
+  moore_1888: bourgeoisie, bourgeois
+  literal: the class owning the means of production; bürgerlich also means "civil" or "middle-class"
+  options: [bourgeoisie, capitalist class, owning class]
+  interim: bourgeoisie
+  status: open
+  verses: [I.0.1, N1.1.1, I.5.1]
+  note: Engels defines both class terms in N1. Keeping "bourgeoisie" preserves a term readers will meet everywhere else in socialist writing; "capitalist class" is clearer to a first-time reader. A middle path is "bourgeoisie" with N1 surfaced early. Note that bürgerliche Gesellschaft can mean both "bourgeois society" and "civil society".
+
+- term: Proletarier, Proletariat
+  de: Proletarier, Proletariat
+  moore_1888: proletarians, proletariat, working class
+  literal: those who own no means of production and live by selling their labour power (N1.1.2)
+  options: [proletariat, working class, workers]
+  interim: proletariat where the German has it; workers where the German has Arbeiter
+  status: open
+  verses: [I.0.1, N1.1.2, IV.12.1]
+
+- term: Gespenst
+  de: Gespenst
+  moore_1888: spectre
+  literal: ghost, spectre, apparition
+  options: [specter, ghost, phantom]
+  interim: specter
+  status: open
+  verses: [0.1.1, 0.1.2, 0.5.1]
+
+- term: heilige Hetzjagd
+  de: zu einer heiligen Hetzjagd ... verbündet
+  moore_1888: entered into a holy alliance to exorcise
+  literal: allied in a holy hunt (a chase with hounds, a witch-hunt)
+  options: [united in a holy hunt, joined a holy witch-hunt, holy alliance]
+  interim: holy hunt
+  status: open
+  verses: [0.1.2]
+  note: Moore's "holy alliance" points at the 1815 Holy Alliance of monarchs; the German says hunt. "Witch-hunt" carries the sense to a modern reader.
+
+- term: bisherige Gesellschaft
+  de: aller bisherigen Gesellschaft
+  moore_1888: all hitherto existing society
+  literal: all society up to now
+  options: [all society so far, all society until now]
+  interim: all society so far
+  status: open
+  verses: [I.1.1, N2.1.1]
+  note: Engels's 1888 note N2 limits this to written history.
+
+- term: Stand, Stände, ständisch
+  de: Stand, Stände, das Ständische
+  moore_1888: orders, rank; "all that is solid"
+  literal: estate (in the feudal sense of the estates of the realm), rank
+  options: [estate, rank, order]
+  interim: estate
+  status: open
+  verses: [I.3.1, I.18.5]
+  note: I.18.5 "Alles Ständische und Stehende verdampft" literally says everything belonging to the estates and everything standing evaporates. Moore and Engels gave it the free and now famous rendering "All that is solid melts into air". Decide whether the modern text keeps the famous line with a note or restores the feudal-estates sense.
+
+- term: Pfahlbürger
+  de: Pfahlbürger, Pfahlbürgerschaft, Pfahlbürgertum
+  moore_1888: chartered burghers, burgesses; later "philistine" senses
+  literal: townsman with burgher rights (originally one living by the town palisade); by 1848 also a sneer for a narrow small-town philistine
+  options: [townsmen with charters, burghers, philistines]
+  interim: burghers (I) / philistines where the sneer is meant (III)
+  status: open
+  verses: [I.6.1, III.14.2, III.33.1, III.36.1]
+  note: The text uses the word in both senses. Check each verse.
+
+- term: Idiotismus des Landlebens
+  de: dem Idiotismus des Landlebens entrissen
+  moore_1888: rescued ... from the idiocy of rural life
+  literal: the privatised isolation of rural life
+  options: [isolation of rural life, narrow isolation of rural life]
+  interim: isolation of rural life
+  status: interim
+  verses: [I.23.2]
+  note: Hal Draper (The Adventures of the Communist Manifesto, 1994) argued that Idiotismus does not mean idiocy (Idiotie); here it carries the Greek sense of the idiotes, the private person cut off from public life. The 1888 rendering is the root of the claim that Marx despised peasants.
+
+- term: barbarisch, zivilisiert, Orient, Okzident
+  de: barbarische und halbbarbarische Länder; die zivilisierten; den Orient vom Okzident
+  moore_1888: barbarian and semi-barbarian countries; the civilised ones; the East on the West
+  literal: same
+  options: [translate literally with a note, put the terms in quotation marks]
+  interim: translate literally, add a note
+  status: open
+  verses: [I.22.1, I.22.2, I.22.3, I.23.3, IV.7.1]
+  note: Principle 4 applies, translate without sanitizing. The note should give the 19th-century usage and the anti-colonial critique of this framing (the text describes bourgeois expansion, and also adopts its vocabulary).
+
+- term: Lumpenproletariat
+  de: Lumpenproletariat
+  moore_1888: the "dangerous class", the social scum
+  literal: ragged proletariat, the declassed poor
+  options: [lumpenproletariat, the declassed, the underclass]
+  interim: lumpenproletariat with a note
+  status: open
+  verses: [I.49.1]
+  note: Moore avoided the German word; MIA inserts "[lumpenproletariat]". Whether and how the concept applies today is a live argument; record readings on the verse.
+
+- term: Aufhebung, aufheben vs Abschaffung, abschaffen
+  de: Aufhebung des Privateigentums; Aufhebung der Familie; Abschaffung des bürgerlichen Eigentums
+  moore_1888: abolition (for both words)
+  literal: aufheben = to cancel, to preserve, to lift to a higher level (Hegel's triple sense); abschaffen = to do away with
+  options: [abolition, abolition (aufheben) with note, transcendence, overcoming]
+  interim: abolition, plus a note on every Aufhebung verse
+  status: open
+  verses: [II.13.1, II.33.1, II.37.1, II.39.1, II.80.3]
+  note: The German uses two different words where the English has one. Keep them distinguishable, at least in notes.
+
+- term: Staatsgewalt, Ausschuß
+  de: Die moderne Staatsgewalt ist nur ein Ausschuß
+  moore_1888: The executive of the modern state is but a committee
+  literal: modern state power is only a committee
+  options: [the modern state's power, the government of the modern state]
+  interim: modern state power
+  status: open
+  verses: [I.12.3]
+
+- term: Erkämpfung der Demokratie
+  de: die Erhebung des Proletariats zur herrschenden Klasse, die Erkämpfung der Demokratie
+  moore_1888: to raise the proletariat to the position of ruling class, to win the battle of democracy
+  literal: the winning of democracy through struggle
+  options: [winning democracy, the battle for democracy]
+  interim: winning democracy through struggle
+  status: open
+  verses: [II.65.1]
+  note: Readers disagree on how far this equates proletarian rule with democracy. Record readings on the verse.
+
+- term: Staat, in den Händen des Staats
+  de: alle Produktionsinstrumente in den Händen des Staats, d.h. des als herrschende Klasse organisierten Proletariats, zu zentralisieren
+  moore_1888: to centralise all instruments of production in the hands of the State, i.e., of the proletariat organised as the ruling class
+  literal: same
+  options: [translate literally]
+  interim: translate literally
+  status: open
+  verses: [II.66.1, II.74.1, II.75.1, II.80.1, P1872.2.6]
+  note: Central to the argument between state-socialist and anarchist readings. Cross-reference P1872.2.6, where Marx and Engels say the Commune proved the working class cannot simply lay hold of the ready-made state machinery.
+
+- term: Vaterland
+  de: Die Arbeiter haben kein Vaterland
+  moore_1888: The working men have no country
+  literal: fatherland, homeland
+  options: [workers have no country, workers have no fatherland]
+  interim: workers have no country
+  status: open
+  verses: [II.52.2]
+
+- term: Mittelstand, Mittelstände
+  de: die bisherigen kleinen Mittelstände
+  moore_1888: the lower strata of the middle class
+  literal: the small intermediate strata (small manufacturers, shopkeepers, rentiers, artisans, peasants)
+  options: [small proprietors, the small middle strata, small business owners and independent producers]
+  interim: small proprietors
+  status: open
+  verses: [I.36.1, I.48.1]
+  note: Today "middle class" in American English usually means well-paid wage earners. In 1848 it meant small owners. Avoid "middle class" here or explain it.
+
+- term: Verkehr
+  de: Verkehr, Verkehrsmittel, Verkehrsweise
+  moore_1888: exchange, communication, intercourse
+  literal: traffic in the widest sense, trade, communication, social intercourse
+  options: [exchange, commerce, communication, trade and communication]
+  interim: decide per verse, note the German
+  status: open
+  verses: [I.11.1, I.21.2, I.26.1, I.26.2, I.28.2, III.18.1]
+
+- term: Gewalt, gewaltsam
+  de: politische Gewalt; öffentliche Gewalt; gewaltsamer Umsturz
+  moore_1888: political power; public power; forcible overthrow
+  literal: Gewalt means both power and violence
+  options: [power, force, violence]
+  interim: power for Gewalt as authority, force or violent for gewaltsam
+  status: open
+  verses: [II.80.1, II.80.2, IV.11.2]
+
+- term: Weibergemeinschaft
+  de: Weibergemeinschaft
+  moore_1888: community of women
+  literal: sharing of women in common
+  options: [community of women, holding women in common]
+  interim: holding women in common
+  status: open
+  verses: [II.46.1, II.49.1, II.49.2, II.51.2, II.51.3]
+  note: The passage answers a bourgeois accusation. The modern rendering must keep clear who is speaking in each verse.
+
+- term: Proletarier aller Länder, vereinigt euch!
+  de: Proletarier aller Länder, vereinigt euch!
+  moore_1888: Working Men of All Countries, Unite!
+  literal: Proletarians of all countries, unite!
+  options: ["Proletarians of all countries, unite!", "Workers of all countries, unite!", "Workers of the world, unite!"]
+  interim: Proletarians of all countries, unite!
+  status: open
+  verses: [IV.12.1, P1890.19.1]
+  note: '"Workers of the world, unite!" is the popular form and is not in either edition.'

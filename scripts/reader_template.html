@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Left Classics, verse by verse</title>
+<style>
+  :root {
+    --paper: #f7f3ec; --ink: #1d1b19; --muted: #6b645c; --rule: #ddd5c8;
+    --accent: #a4161a; --accent-soft: #f3dcdc; --flag: #9a6b00; --flag-soft: #fbf0d4;
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --paper: #171513; --ink: #ece6dc; --muted: #a39a8f; --rule: #3a342e;
+            --accent: #ff6b6b; --accent-soft: #3a1f1f; --flag: #e3b341; --flag-soft: #33290f; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--serif); line-height: 1.55; }
+  header { position: sticky; top: 0; z-index: 5; background: var(--paper); border-bottom: 1px solid var(--rule); }
+  .bar { max-width: 1280px; margin: 0 auto; padding: 10px 16px; display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
+  .brand { font-family: var(--sans); font-weight: 700; letter-spacing: .02em; margin-right: auto; font-size: 15px; }
+  .brand span { color: var(--accent); }
+  select { max-width: 210px; }
+  select, input[type=search] { font: 14px var(--sans); color: var(--ink); background: transparent; border: 1px solid var(--rule); border-radius: 6px; padding: 6px 8px; }
+  input[type=search] { width: 150px; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; font-family: var(--sans); font-size: 13px; }
+  .chip { border: 1px solid var(--rule); border-radius: 999px; padding: 3px 10px; cursor: pointer; user-select: none; }
+  .chip.on { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  main { max-width: 1280px; margin: 0 auto; padding: 8px 16px 80px; }
+  .sechead { padding: 22px 0 10px; border-bottom: 2px solid var(--ink); margin-bottom: 6px; }
+  .sechead h1 { font-size: 26px; margin: 0; font-weight: 600; }
+  .sechead .de { font-style: italic; color: var(--muted); margin-top: 2px; }
+  .sechead .src { font: 12px/1.45 var(--sans); color: var(--muted); margin-top: 10px; }
+  .sechead .warn { color: var(--flag); }
+  .cols { display: grid; grid-template-columns: 92px repeat(var(--n), minmax(0, 1fr)); gap: 0 22px; }
+  .colhead { font: 600 11px var(--sans); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); padding: 10px 0 6px; position: sticky; top: var(--hh, 52px); background: var(--paper); z-index: 2; }
+  .group { display: contents; }
+  .cell { padding: 9px 0; border-top: 1px solid var(--rule); }
+  .vid { font: 12px var(--sans); color: var(--muted); }
+  .vid a { color: inherit; text-decoration: none; display: block; padding-top: 2px; scroll-margin-top: calc(var(--hh, 52px) + 40px); }
+  .vid a:hover { color: var(--accent); }
+  .lines .ln { display: block; }
+  .lines .ln + .ln { margin-top: 6px; }
+  .lines .ln .sub { font: 10px var(--sans); color: var(--muted); margin-right: 4px; vertical-align: 2px; }
+  .heading { font-weight: 700; font-size: 1.08em; }
+  .signature { font-style: italic; color: var(--muted); }
+  .note { font-size: .95em; }
+  .empty { color: var(--muted); font-style: italic; font-size: .9em; }
+  .tag { font: 10px var(--sans); border-radius: 4px; padding: 1px 5px; margin-left: 4px; vertical-align: 2px; white-space: nowrap; }
+  .t-seed { background: var(--rule); color: var(--muted); }
+  .t-draft { background: var(--flag-soft); color: var(--flag); }
+  .t-reviewed, .t-settled { background: var(--accent-soft); color: var(--accent); }
+  .fn { font: 11px var(--sans); color: var(--accent); text-decoration: none; margin-left: 3px; vertical-align: 3px; }
+  .flag { color: var(--flag); cursor: help; font-family: var(--sans); font-size: 12px; margin-left: 4px; }
+  .extra { font: 12px/1.45 var(--sans); color: var(--muted); margin-top: 6px; }
+  .extra b { color: var(--ink); font-weight: 600; }
+  .lbl { display: none; }
+  .vid a.cur { background: var(--accent-soft); color: var(--accent); border-radius: 3px; outline: none; }
+  #results { font: 14px var(--sans); }
+  #results a { display: block; padding: 8px 0; border-top: 1px solid var(--rule); color: var(--ink); text-decoration: none; }
+  #results a b { color: var(--accent); margin-right: 8px; }
+  footer { font: 12px var(--sans); color: var(--muted); max-width: 1280px; margin: 0 auto; padding: 0 16px 40px; }
+  @media (max-width: 760px) {
+    header { position: static; }
+    .vid a { scroll-margin-top: 8px; }
+    .cols { display: block; }
+    .colhead { display: none; }
+    .group { display: block; border-top: 1px solid var(--ink); padding: 10px 0 4px; }
+    .cell { border: 0; padding: 4px 0 8px; }
+    .lbl { display: block; font: 600 10px var(--sans); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin-bottom: 1px; }
+    input[type=search] { width: 100%; order: 9; }
+    .sechead h1 { font-size: 22px; }
+  }
+  .filters { display: none; gap: 8px; flex-wrap: wrap; align-items: center; font: 13px var(--sans); color: var(--muted); max-width: 1280px; margin: 0 auto; padding: 0 16px 8px; }
+  .filters.on { display: flex; }
+  .comm { grid-column: 1 / -1; margin: 0 0 10px 114px; padding: 10px 14px; border-left: 3px solid var(--accent); background: var(--accent-soft); border-radius: 0 6px 6px 0; font: 14px/1.5 var(--sans); }
+  .comm + .comm { margin-top: -4px; }
+  .comm .meta { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-bottom: 3px; }
+  .comm .meta b { color: var(--accent); }
+  .comm h4 { margin: 0 0 4px; font: 600 14px var(--sans); }
+  .comm p { margin: 0 0 6px; white-space: pre-line; }
+  .comm .src { font-size: 12px; color: var(--muted); }
+  .secbox .comm { margin-left: 0; }
+  @media (max-width: 760px) { .comm { margin-left: 0; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <div class="brand">Left Classics <span>verse by verse</span></div>
+    <select id="work" aria-label="Work"></select>
+    <select id="sec" aria-label="Section"></select>
+    <div class="chips" id="chips"></div>
+    <input type="search" id="q" placeholder="Search this work" aria-label="Search">
+  </div>
+  <div class="filters" id="cfilters">Commentary from
+    <select id="ftrad" aria-label="Tradition"></select>
+    <select id="fkind" aria-label="Kind of entry"></select>
+  </div>
+  <div class="filters" id="rfilters">Rendering by
+    <select id="rtrad" aria-label="Rendering tradition"></select>
+  </div>
+</header>
+<main id="main"></main>
+<footer>Generated from the YAML files by <code>scripts/build.py</code>. Cite verses as <i>CM I.12.3</i> or <i>WLC II.4.2</i>; link one as <i>#CM-I-12-3</i>. Commentary and renderings come from each tradition's own files and are shown only when you switch them on. Sources and licences for each work are in its SOURCES.md.</footer>
+<script>
+const LIB = /*__DATA__*/{};
+const DATA = LIB.works || [];
+const TRADS = Object.fromEntries((LIB.traditions || []).map(t => [t.slug, t]));
+const KINDS = LIB.kinds || {};
+const COLS = [
+  {key: "original", label: "Original", on: true},
+  {key: "en", label: "English", on: true},
+  {key: "modern", label: "Modern draft", on: true},
+  {key: "rendering", label: "Rendering", on: false},
+  {key: "notes", label: "Notes", on: false},
+  {key: "commentary", label: "Commentary", on: false, row: true},
+];
+const $ = s => document.querySelector(s);
+const esc = s => (s || "").replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+const hid = (w, id) => w.prefix + "-" + String(id).replace(/\./g, "-");
+const index = {};
+DATA.forEach((w, wi) => w.sections.forEach((s, si) => s.verses.forEach(v => { index[w.prefix + "|" + v.id] = [wi, si]; })));
+let cur = {w: 0, s: 0};
+const isOn = k => COLS.find(c => c.key === k).on;
+
+function secLabel(s) {
+  if (/^P\d{4}$/.test(s.section)) return (s.title_en.match(/^Introduction/i) ? "Introduction " : "Preface ") + s.section.slice(1);
+  if (s.section === "0") return "Preamble";
+  if (s.section === "N") return "Author's notes";
+  return s.section + ". " + s.title_en;
+}
+const wsel = $("#work"), sel = $("#sec"), ftrad = $("#ftrad"), fkind = $("#fkind"), rtrad = $("#rtrad");
+DATA.forEach((w, i) => { const o = document.createElement("option"); o.value = i; o.textContent = `${w.prefix} · ${w.title}`; wsel.appendChild(o); });
+function opt(selEl, value, text) { const o = document.createElement("option"); o.value = value; o.textContent = text; selEl.appendChild(o); }
+function fillSections(wi) {
+  const w = DATA[wi];
+  sel.innerHTML = "";
+  w.sections.forEach((s, i) => opt(sel, i, secLabel(s)));
+  ftrad.innerHTML = ""; opt(ftrad, "", "all traditions");
+  [...new Set((w.commentary || []).map(e => e.tradition))].forEach(t => opt(ftrad, t, (TRADS[t] || {}).name || t));
+  fkind.innerHTML = ""; opt(fkind, "", "all kinds");
+  Object.entries(KINDS).forEach(([k, label]) => opt(fkind, k, label));
+  rtrad.innerHTML = "";
+  const rs = Object.keys(w.renderings || {});
+  if (!rs.length) opt(rtrad, "", "no renderings yet");
+  rs.forEach(t => opt(rtrad, t, (TRADS[t] || {}).name || t));
+}
+wsel.onchange = () => { const w = DATA[wsel.value]; location.hash = hid(w, w.sections[0].verses[0].id); };
+sel.onchange = () => { const w = DATA[wsel.value]; location.hash = hid(w, w.sections[sel.value].verses[0].id); };
+[ftrad, fkind, rtrad].forEach(x => x.onchange = () => render(cur.w, cur.s, null));
+
+const chips = $("#chips");
+COLS.forEach(c => {
+  const b = document.createElement("span");
+  b.className = "chip" + (c.on ? " on" : ""); b.textContent = c.label;
+  b.onclick = () => {
+    c.on = !c.on; b.classList.toggle("on", c.on);
+    $("#cfilters").classList.toggle("on", isOn("commentary"));
+    $("#rfilters").classList.toggle("on", isOn("rendering"));
+    render(cur.w, cur.s, null);
+  };
+  chips.appendChild(b);
+});
+
+function groups(verses) {
+  const out = [];
+  verses.forEach(v => { if (v.joined_to && out.length) out[out.length - 1].push(v); else out.push([v]); });
+  return out;
+}
+
+function colLabel(col, w, s) {
+  if (col.key === "en" && s.en_label) return s.en_label;
+  if (col.key === "rendering") return rtrad.value ? "Rendering: " + ((TRADS[rtrad.value] || {}).name || rtrad.value) : "Rendering";
+  return (w.columns && w.columns[col.key]) || col.label;
+}
+
+function fnLinks(w, v) {
+  return (v.footnotes || []).map(n => {
+    const target = Object.keys(index).find(k => k === w.prefix + "|" + n + ".1.1") || Object.keys(index).find(k => k.startsWith(w.prefix + "|" + n + "."));
+    return target ? `<a class="fn" href="#${hid(w, target.split("|")[1])}" title="Note">${esc(n)}</a>` : "";
+  }).join("");
+}
+
+function cellFor(col, g, w, s) {
+  const head = g[0];
+  const lbl = `<span class="lbl">${esc(colLabel(col, w, s))}</span>`;
+  if (col.key === "original") {
+    const lines = g.map(v => {
+      const sub = g.length > 1 ? `<span class="sub">${esc(v.id.split(".").slice(-2).join("."))}</span>` : "";
+      const txt = v.original ? `<span class="${v.kind}">${esc(v.original)}</span>` : `<span class="empty">no text in this column</span>`;
+      const vars = (v.variants || []).map(x => `<div class="extra"><b>${esc(x.ref)}</b> ${esc(x.editions)}: ${esc(x.reading)} <i>at</i> ${esc(x.base_text)}</div>`).join("");
+      return `<span class="ln">${sub}${txt}${fnLinks(w, v)}</span>${vars}`;
+    }).join("");
+    return `<div class="cell lines">${lbl}${lines}</div>`;
+  }
+  if (col.key === "en") {
+    const t = head.en ? `<span class="${head.kind}">${esc(head.en)}</span>` : `<span class="empty">no English text in source</span>`;
+    const note = g.map(v => v.en_note).filter(Boolean).map(n => `<div class="extra">${esc(n)}</div>`).join("");
+    return `<div class="cell">${lbl}${t}${note}</div>`;
+  }
+  if (col.key === "modern") {
+    const st = head.modern_status;
+    const t = head.modern ? `<span class="${head.kind}">${esc(head.modern)}</span><span class="tag t-${st}">${st}</span>` : `<span class="empty">not drafted yet</span>`;
+    return `<div class="cell">${lbl}${t}</div>`;
+  }
+  if (col.key === "rendering") {
+    const r = (w.renderings || {})[rtrad.value];
+    const hits = r ? g.map(v => r.verses[v.id]).filter(Boolean) : [];
+    if (!hits.length) return `<div class="cell">${lbl}<span class="empty">${r ? "same as the shared draft" : "no rendering chosen"}</span></div>`;
+    return `<div class="cell">${lbl}${hits.map(x => `<span>${esc(x.text)}</span><span class="tag t-${esc(x.status)}">${esc(x.status)}</span>${x.note ? `<div class="extra">${esc(x.note)}</div>` : ""}`).join("<br>")}</div>`;
+  }
+  const bits = [];
+  g.forEach(v => { if (v.notes) bits.push(esc(v.notes)); if (v.note_edition) bits.push(`<i>${esc(v.note_edition)}</i>`); if (v.mew_page) bits.push(`MEW p. ${esc(String(v.mew_page))}`); if (v.discussion) bits.push(`<a href="${esc(v.discussion)}">discussion</a>`); });
+  return `<div class="cell extra">${lbl}${bits.join("<br>")}</div>`;
+}
+
+// commentary: an entry belongs to a verse (or the first verse of a range), a section, or the whole work
+function entryAnchor(t, w) {
+  const parts = String(t).split(" ");
+  if (parts[0] !== w.prefix) return null;
+  if (parts.length === 1) return {type: "work"};
+  const first = parts[1].split("-")[0];
+  if (first.includes(".")) return {type: "verse", id: first, range: parts[1].includes("-") ? parts[1] : ""};
+  return {type: "section", id: first};
+}
+function visibleEntries(w) {
+  return (w.commentary || []).filter(e => (!ftrad.value || e.tradition === ftrad.value) && (!fkind.value || e.kind === fkind.value));
+}
+function commBox(e, onLabel) {
+  const t = (TRADS[e.tradition] || {}).name || e.tradition;
+  let kind = KINDS[e.kind] || e.kind;
+  if (e.kind === "development" && e.relation) kind += " · " + e.relation;
+  const by = (e.by || []).length ? `<div class="src">By: ${esc(e.by.join("; "))}</div>` : "";
+  const src = (e.sources || []).length ? `<div class="src">Sources: ${esc(e.sources.join("; "))}</div>` : "";
+  const resp = e.responds_to ? `<div class="src">Responds to ${esc(e.responds_to)}</div>` : "";
+  const disc = e.discussion ? ` · <a href="${esc(e.discussion)}">discussion</a>` : "";
+  return `<div class="comm"><div class="meta"><b>${esc(t)}</b> · ${esc(kind)}${onLabel ? " · on " + esc(onLabel) : ""} · ${esc(e.status)}${disc}</div><h4>${esc(e.title)}</h4><p>${esc((e.body || "").trim().replace(/\n(?!\n)/g, " "))}</p>${by}${resp}${src}</div>`;
+}
+
+function render(wi, si, focusId) {
+  if (cur.w !== wi || sel.options.length === 0) fillSections(wi);
+  cur = {w: wi, s: si};
+  wsel.value = wi; sel.value = si;
+  const w = DATA[wi], s = w.sections[si];
+  const cols = COLS.filter(c => c.on && !c.row && !(c.key === "en" && w.columns && w.columns.en === ""));
+  const showC = isOn("commentary");
+  const ents = showC ? visibleEntries(w) : [];
+  const warn = s.anchor === "en" || /translation|^en|^fr/.test(s.original_language)
+    ? `<div class="src warn">Original language: ${esc(s.original_language)}. Verse boundaries follow the ${s.anchor === "en" ? "English" : "original-language"} column.</div>` : "";
+  let secComm = "";
+  if (showC) {
+    const top = ents.filter(e => e.targets.some(t => { const a = entryAnchor(t, w); return a && (a.type === "work" || (a.type === "section" && a.id === s.section)); }));
+    if (top.length) secComm = `<div class="secbox">${top.map(e => commBox(e, e.targets.join(", "))).join("")}</div>`;
+  }
+  let h = `<div class="sechead"><div class="src">${esc(w.prefix)} · ${esc(w.title)} (${esc(String(w.year))})</div><h1>${esc(s.title_en)}</h1><div class="de">${esc(s.title_original)}</div>
+    <div class="src">Original: ${esc(s.source_original)}<br>English: ${esc(s.source_en)}</div>${warn}</div>${secComm}`;
+  h += `<div class="cols" style="--n:${cols.length}"><div class="colhead">Verse</div>${cols.map(c => `<div class="colhead">${esc(colLabel(c, w, s))}</div>`).join("")}`;
+  groups(s.verses).forEach(g => {
+    const flag = g.some(v => v.review) ? `<span class="flag" title="${esc(g.map(v => v.review_reason).filter(Boolean).join("; "))}">⚑</span>` : "";
+    const ids = g.map(v => `<a id="${esc(hid(w, v.id))}" href="#${esc(hid(w, v.id))}">${esc(v.id)}</a>`).join("");
+    let comm = "";
+    if (showC) {
+      const gid = new Set(g.map(v => v.id));
+      const mine = ents.filter(e => e.targets.some(t => { const a = entryAnchor(t, w); return a && a.type === "verse" && gid.has(a.id); }));
+      comm = mine.map(e => commBox(e, e.targets.filter(t => String(t).startsWith(w.prefix + " ")).join(", "))).join("");
+    }
+    const cnt = (w.commentary || []).filter(e => e.targets.some(t => { const a = entryAnchor(t, w); return a && a.type === "verse" && g.some(v => v.id === a.id); })).length;
+    const badge = !showC && cnt ? `<span class="flag" title="${cnt} commentary entr${cnt === 1 ? "y" : "ies"}: switch on Commentary">✎${cnt}</span>` : "";
+    h += `<div class="group"><div class="cell vid">${ids}${flag}${badge}</div>${cols.map(c => cellFor(c, g, w, s)).join("")}${comm}</div>`;
+  });
+  h += `</div>`;
+  $("#main").innerHTML = h;
+  document.documentElement.style.setProperty("--hh", document.querySelector("header").offsetHeight + "px");
+  const el = focusId && document.getElementById(focusId);
+  if (el) el.classList.add("cur");
+  if (el && focusId !== hid(w, s.verses[0].id)) el.scrollIntoView({block: "start"}); else window.scrollTo(0, 0);
+}
+
+function route() {
+  const raw = decodeURIComponent(location.hash.slice(1));
+  const m = raw.match(/^([A-Z]{2,6})-(.+)$/);
+  if (m) {
+    const key = m[1] + "|" + m[2].replace(/-/g, ".");
+    if (key in index) { const [wi, si] = index[key]; render(wi, si, raw); return; }
+    const wi = DATA.findIndex(w => w.prefix === m[1]);
+    if (wi >= 0) { render(wi, 0, null); return; }
+  }
+  render(cur.w, cur.s, null);
+}
+window.addEventListener("hashchange", route);
+
+$("#q").addEventListener("input", e => {
+  const q = e.target.value.trim().toLowerCase();
+  if (q.length < 3) { route(); return; }
+  const w = DATA[cur.w], hits = [];
+  w.sections.forEach(s => s.verses.forEach(v => {
+    const t = [v.original, v.en, v.modern].join("  ");
+    const i = t.toLowerCase().indexOf(q);
+    if (i >= 0) hits.push(`<a href="#${hid(w, v.id)}"><b>${esc(w.prefix)} ${esc(v.id)}</b>${esc(t.slice(Math.max(0, i - 50), i + 90))}</a>`);
+  }));
+  $("#main").innerHTML = `<div class="sechead"><h1>${hits.length} match${hits.length === 1 ? "" : "es"} in ${esc(w.prefix)}</h1></div><div id="results">${hits.slice(0, 300).join("")}</div>`;
+});
+fillSections(0);
+route();
+</script>
+</body>
+</html>

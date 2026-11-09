@@ -1,0 +1,194 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q18
+title_original: '18. Frage: Welchen Entwicklungsgang wird diese Revolution nehmen?'
+title_en: Question 18
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q18.0.1
+  kind: heading
+  original: '18. Frage: Welchen Entwicklungsgang wird diese Revolution nehmen?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.1.1
+  kind: p
+  original: 'Antwort: Sie wird vor allen Dingen eine demokratische Staatsverfassung und damit direkt oder indirekt die politische Herrschaft des Proletariats herstellen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.1.2
+  kind: p
+  original: Direkt in England, wo die Proletarier schon die Majorität des Volks ausmachen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.1.3
+  kind: p
+  original: Indirekt in Frankreich und Deutschland, wo die Majorität des Volkes nicht nur aus Proletariern, sondern auch aus kleinen Bauern und Bürgern besteht, welche eben erst im Übergang ins Proletariat begriffen sind und in allen ihren politischen Interessen mehr und mehr vom Proletariat abhängig werden und sich daher bald den Forderungen des Proletariats fügen müssen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.1.4
+  kind: p
+  original: Dies wird vielleicht einen zweiten Kampf kosten, der aber nur mit dem Siege des Proletariats endigen kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.2.1
+  kind: p
+  original: Die Demokratie würde dem Proletariat ganz nutzlos sein, wenn sie nicht sofort als Mittel zur Durchsetzung weiterer, direkt das Privateigentum angreifender und die Existenz des Proletariats sicherstellender Maßregeln benutzt würde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.2.2
+  kind: p
+  original: 'Die hauptsächlichsten dieser Maßregeln, wie sie sich schon jetzt als notwendige Folgen der bestehenden Verhältnisse ergeben, sind folgende:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.3.1
+  kind: p
+  original: 1. Beschränkung des Privateigentums durch Progressivsteuern, starke Erbschaftssteuern, Abschaffung der Erbschaft der Seitenlinien (Brüder, Neffen etc.), Zwangsanleihen pp.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.4.1
+  kind: p
+  original: 2. Allmähliche Expropriation der Grundeigentümer, Fabrikanten, Eisenbahnbesitzer und Schiffsreeder, teils durch Konkurrenz der Staatsindustrie, teils direkt gegen Entschädigung in Assignaten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.5.1
+  kind: p
+  original: 3. Konfiskation der Güter aller Emigranten und Rebellen gegen die Majorität des Volkes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.6.1
+  kind: p
+  original: 4. Organisation der Arbeit oder Beschäftigung der Proletarier auf den Nationalgütern, Fabriken und Werkstätten, wodurch die Konkurrenz der Arbeiter unter sich beseitigt und die Fabrikanten, solange sie noch bestehen, genötigt werden, denselben erhöhten Lohn zu zahlen wie der Staat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.7.1
+  kind: p
+  original: 5. Gleicher Arbeitszwang für alle Mitglieder der Gesellschaft bis zur vollständigen Aufhebung des Privateigentums.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.7.2
+  kind: p
+  original: Bildung industrieller Armeen, besonders für die Agrikultur.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.8.1
+  kind: p
+  original: 6. Zentralisierung des Kreditsystems und Geldhandels in den Händen des Staats durch eine Nationalbank mit Staatskapital und Unterdrückung aller Privatbanken und Bankiers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.9.1
+  kind: p
+  original: 7. Vermehrung der Nationalfabriken, Werkstätten, Eisenbahnen und Schiffe, Urbarmachung aller Ländereien und Verbesserung der schon urbar gemachten, in demselben Verhältnis, in welchem sich die der Nation zur Verfügung stehenden Kapitalien und Arbeiter vermehren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.10.1
+  kind: p
+  original: 8. Erziehung sämtlicher Kinder, von dem Augenblicke an, wo sie der ersten mütterlichen Pflege entbehren können, in Nationalanstalten und auf Nationalkosten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.10.2
+  kind: p
+  original: Erziehung und Fabrikation zusammen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.11.1
+  kind: p
+  original: 9. Errichtung großer Paläste auf den Nationalgütern als gemeinschaftliche Wohnungen für Gemeinden von Staatsbürgern, welche sowohl Industrie wie Ackerbau treiben und die Vorteile sowohl des städtischen wie des Landlebens in sich vereinigen, ohne die Einseitigkeiten und Nachteile beider Lebensweisen zu teilen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.12.1
+  kind: p
+  original: 10. Zerstörung aller ungesunden und schlecht gebauten Wohnungen und Stadtviertel.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.13.1
+  kind: p
+  original: 11. Gleiches Erbrecht für uneheliche wie für eheliche Kinder.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.14.1
+  kind: p
+  original: 12. Konzentration alles Transportwesens in den Händen der Nation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.15.1
+  kind: p
+  original: Alle diese Maßregeln können natürlich nicht mit einem Male durchgeführt werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.15.2
+  kind: p
+  original: Aber die eine wird immer die andre nach sich ziehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.15.3
+  kind: p
+  original: Ist einmal der erste radikale Angriff gegen das Privateigentum geschehen, so wird das Proletariat sich gezwungen sehen, immer weiter zu gehen, immer mehr alles Kapital, allen Ackerbau, alle Industrie, allen Transport, allen Austausch in den Händen des Staates zu konzentrieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.15.4
+  kind: p
+  original: Dahin arbeiten alle diese Maßregeln; und sie werden genau in demselben Verhältnis ausführbar werden und ihre zentralisierenden Konsequenzen entwickeln, in welchem die Produktivkräfte des Landes durch die Arbeit des Proletariats vervielfältigt werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q18.15.5
+  kind: p
+  original: Endlich, wenn alles Kapital, alle Produktion und aller Austausch in den Händen der Nation zusammengedrängt sind, ist das Privateigentum von selbst weggefallen, das Geld überflüssig geworden und die Produktion so weit vermehrt und die Menschen so weit verändert, daß auch die letzten Verkehrsformen der alten Gesellschaft fallen können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

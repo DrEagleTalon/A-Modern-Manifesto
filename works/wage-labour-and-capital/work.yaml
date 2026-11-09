@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: wage-labour-and-capital
+prefix: WLC                       # citation prefix: WLC II.4.2
+title: Wage Labour and Capital
+title_original: Lohnarbeit und Kapital
+authors: [Karl Marx, Friedrich Engels (1891 introduction and revisions)]
+year: 1849
+original_language: de
+base_text: "Engels's revised edition of 1891 (MEW 6); the 1849 newspaper text is recorded as variants"
+order: 20
+columns:
+  original: German (MEW, Engels's 1891 text)
+  en: English 1902 (Lothrop, MIA edition)
+  modern: Modern draft
+status: translating
+rights: Originals public domain. Lothrop's 1902 English public domain; MIA edition CC BY-SA. See SOURCES.md.

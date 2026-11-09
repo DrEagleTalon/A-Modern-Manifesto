@@ -1,0 +1,31 @@
+name: Source or alignment error
+description: A wrong word in the original or historical English, a bad sentence split, or a misaligned verse
+title: "[WORK VERSE] source: "
+labels: ["source"]
+body:
+  - type: input
+    id: verses
+    attributes:
+      label: Work and verse number(s)
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong
+      options:
+        - Original-language text differs from the printed edition
+        - Historical English differs from the printed edition
+        - Sentence split in the wrong place
+        - Original and English are matched to the wrong verse
+        - Footnote, variant or page number wrong
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Edition, page, and a link or photo of the facsimile if you have one. Changes to the `original` or `en` fields need this.
+    validations:
+      required: true

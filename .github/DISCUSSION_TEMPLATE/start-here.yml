@@ -1,0 +1,13 @@
+title: ""
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Start here**: new to theory, new to GitHub, or not sure where something goes? Ask anything. No question is too basic.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true

@@ -1,0 +1,208 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: IV
+title_original: IV. Supply and Demand
+title_en: IV. Supply and Demand
+author: Karl Marx
+date: 1865-06
+original_language: en
+anchor_language: en
+source_original: Karl Marx, Value, Price and Profit, ed. Eleanor Marx Aveling (London 1898), public domain; Marxists Internet Archive transcription (proofed by Brandon Poole, 2009; CC BY-SA)
+source_en: 'None needed: the original is in English'
+verses:
+- id: IV.0.1
+  kind: heading
+  original: IV. Supply and Demand
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.1.1
+  kind: p
+  original: Our friend Weston accepts the Latin proverb that "repetitio est mater studiorum," that is to say, that repetition is the mother of study, and consequently he repeated his original dogma again under the new form, that the contraction of currency, resulting from an enhancement of wages, would produce a diminution of capital, and so forth.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.1.2
+  kind: p
+  original: Having already dealt with his currency crotchet, I consider it quite useless to enter upon the imaginary consequences he fancies to flow from his imaginary currency mishap.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.1.3
+  kind: p
+  original: I shall proceed to at once reduce his one and the same dogma, repeated in so many different shapes, to its simplest theoretical form.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.2.1
+  kind: p
+  original: The uncritical way in which he has treated his subject will become evident from one single remark.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.2.2
+  kind: p
+  original: He pleads against a rise of wages or against high wages as the result of such a rise.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.2.3
+  kind: p
+  original: 'Now, I ask him: What are high wages and what are low wages?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.2.4
+  kind: p
+  original: Why constitute, for example, five shillings weekly low, and twenty shillings weekly high wages?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.2.5
+  kind: p
+  original: If five is low as compared with twenty, twenty is still lower as compared with two hundred.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.2.6
+  kind: p
+  original: If a man was to lecture on the thermometer, and commenced by declaiming on high and low degrees, he would impart no knowledge whatever.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.2.7
+  kind: p
+  original: He must first tell me how the freezing-point is found out, and how the boiling-point, and how these standard points are settled by natural laws, not by the fancy of the sellers or makers of thermometers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.2.8
+  kind: p
+  original: Now, in regard to wages and profits, Citizen Weston has not only failed to deduce such standard points from economical laws, but he has not even felt the necessity to look after them.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.2.9
+  kind: p
+  original: He satisfied himself with the acceptance of the popular slang terms of low and high as something having a fixed meaning, although it is self-evident that wages can only be said to be high or low as compared with a standard by which to measure their magnitudes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.3.1
+  kind: p
+  original: He will be unable to tell me why a certain amount of money is given for a certain amount of labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.3.2
+  kind: p
+  original: If he should answer me, "This was settled by the law of supply and demand," I should ask him, in the first instance, by what law supply and demand are themselves regulated.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.3.3
+  kind: p
+  original: And such an answer would at once put him out of court.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.3.4
+  kind: p
+  original: The relations between the supply and demand of labour undergo perpetual change, and with them the market prices of labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.3.5
+  kind: p
+  original: If the demand overshoots the supply wages rise; if the supply overshoots the demand wages sink, although it might in such circumstances be necessary to test the real state of demand and supply by a strike, for example, or any other method.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.3.6
+  kind: p
+  original: But if you accept supply and demand as the law regulating wages, it would be as childish as useless to declaim against a rise of wages, because, according to the supreme law you appeal to, a periodical rise of wages is quite as necessary and legitimate as a periodical fall of wages.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.3.7
+  kind: p
+  original: If you do not accept supply and demand as the law regulating wages, I again repeat the question, why a certain amount of money is given for a certain amount of labour?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.4.1
+  kind: p
+  original: 'But to consider matters more broadly: You would be altogether mistaken in fancying that the value of labour or any other commodity whatever is ultimately fixed by supply and demand.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.4.2
+  kind: p
+  original: Supply and demand regulate nothing but the temporary fluctuations of market prices.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.4.3
+  kind: p
+  original: They will explain to you why the market price of a commodity rises above or sinks below its value, but they can never account for the value itself.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.4.4
+  kind: p
+  original: Suppose supply and demand to equilibrate, or, as the economists call it, to cover each other.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.4.5
+  kind: p
+  original: Why, the very moment these opposite forces become equal they paralyze each other, and cease to work in the one or other direction.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.4.6
+  kind: p
+  original: At the moment when supply and demand equilibrate each other, and therefore cease to act, the market price of a commodity coincides with its real value, with the standard price round which its market prices oscillate.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.4.7
+  kind: p
+  original: In inquiring into the nature of that VALUE, we have therefore nothing at all to do with the temporary effects on market prices of supply and demand.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.4.8
+  kind: p
+  original: The same holds true of wages and of the prices of all other commodities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

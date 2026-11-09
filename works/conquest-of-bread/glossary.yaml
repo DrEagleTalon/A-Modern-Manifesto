@@ -1,0 +1,125 @@
+# Glossary of recurring and contested terms in The Conquest of Bread (CB).
+# The French original is not in the repository yet. The `french` field gives the term Kropotkin is
+# usually cited with; check it against the French text when that column is added.
+# english_1906 is the choice of the anonymous 1906 translation, which is the historical column here.
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+
+- term: well-being
+  french: l'aisance, l'aisance pour tous
+  english_1906: well-being, well-being for all, the right to well-being, comfort
+  literal: being comfortably off; having enough and some to spare
+  options: [well-being, a good life, comfort for all, enough for everyone]
+  interim: well-being
+  status: open
+  verses: [II.0.1, II.2.1, I.40.2, II.44.1]
+  note: The book's central demand, and the title of chapter II. Kropotkin sets "the right to well-being" against "the right to work" (II.44.1). "Well-being" now sounds like a health app; the modern draft should keep a fixed phrase so the contrast with "the right to work" stays sharp.
+
+- term: right to work
+  french: le droit au travail
+  english_1906: the right to work
+  literal: the right to be given a job
+  options: [the right to work, the right to a job]
+  interim: the right to work, in quotation marks where Kropotkin quotes it
+  status: open
+  verses: [I.40.3, II.40.1, II.41.1, II.44.1]
+  note: The slogan of 1848. Kropotkin uses it only to attack it, as a promise that ends in the national workshops. In US English "right to work" now names anti-union laws, the opposite sense. Needs a note at II.40.1.
+
+- term: Anarchist Communism
+  french: le communisme anarchiste
+  english_1906: Anarchist Communism, anarchist communism, Communism without government, the Communism of the Free
+  literal: communism without government
+  options: [anarchist communism, anarcho-communism, libertarian communism, communism without government]
+  interim: anarchist communism
+  status: open
+  verses: [III.0.1, III.27.2, V.49.1, VI.32.3]
+  note: Title of chapter III. The 1906 English capitalises it inconsistently. "Anarcho-communism" is the later coinage; keep Kropotkin's own phrase.
+
+- term: expropriation
+  french: l'expropriation
+  english_1906: expropriation, EXPROPRIATION
+  literal: taking property out of the hands of its owners
+  options: [expropriation, taking back]
+  interim: expropriation
+  status: open
+  verses: [II.17.1, IV.0.1, IV.4.1, VI.19.7]
+  note: Title of chapter IV. Kropotkin means the people taking the means of life into common use, not a government seizure (VI.19.7 says "without the intervention of Government"). Keep the word and explain it once; the plain alternatives lose the legal edge.
+
+- term: wage system
+  french: le salariat
+  english_1906: wage system, wages system, wagedom, wage-slave
+  literal: the system of paid labour
+  options: [wage system, wage labour]
+  interim: wage system
+  status: open
+  verses: [III.10.1, V.41.1, XII.41.2, XIII.0.1]
+  note: Kropotkin's charge against the Collectivists is that they keep the wage system under another name. The 1906 English varies ("wage system", "wagedom"); a modern draft should pick one.
+
+- term: Collectivism
+  french: le collectivisme, les collectivistes
+  english_1906: Collectivism, collectivists
+  literal: common ownership of the means of production with pay according to work done
+  options: [collectivism, the collectivists]
+  interim: collectivism, with a note on first use
+  status: open
+  verses: [P1913.14.1, V.41.1, XIII.6.2, XIII.20.2]
+  note: In the 1880s and 1890s "collectivist" named the socialists, Guesdists and others, who wanted common ownership but payment by labour time. Today the word means something vaguer. Do not translate it as "Marxism"; a note at XIII.20.2, where Kropotkin states their principles, is enough.
+
+- term: labour-cheques
+  french: les bons de travail
+  english_1906: labour-cheques, labour cheques
+  literal: vouchers paid for hours worked
+  options: [labour vouchers, labour notes, labour cheques, labour certificates]
+  interim: labour vouchers
+  status: open
+  verses: [XII.41.2, XIII.6.2, XIII.7.1, XIII.9.1]
+  note: The scheme chapter XIII argues against. Compare Marx's defence of labour certificates in the Critique of the Gotha Programme (CGP, once added); the commentary layer is the place for that argument, not the translation.
+
+- term: free agreement
+  french: la libre entente
+  english_1906: free agreement, Free Agreement
+  literal: free understanding between equals
+  options: [free agreement, voluntary agreement]
+  interim: free agreement
+  status: open
+  verses: [III.39.3, XI.0.1, XI.8.2, XI.63.1]
+  note: Title of chapter XI. "Free association" is close but belongs to other writers; keep "free agreement" so readers can follow the term across Kropotkin's works.
+
+- term: take what you need, rations
+  french: la prise au tas, le rationnement
+  english_1906: '"Take what you need", "Take what you please!", rations'
+  literal: taking freely from the common stock; sharing out what is scarce
+  options: [take what you need, free access, sharing out, rationing]
+  interim: take what you need; rationing for scarce goods
+  status: open
+  verses: [III.16.2, V.63.1, V.65.2, V.66.2]
+  note: 'Kropotkin''s rule for distribution: free use of what is plentiful, equal shares of what is scarce (V.63.1 states it). The 1906 English has no fixed phrase for the first half. "Rations" now suggests war and queues; the point is equal sharing, not hardship.'
+
+- term: middle class, bourgeois
+  french: la bourgeoisie, les bourgeois
+  english_1906: the middle class, the middle classes, the bourgeois, the bourgeoisie
+  literal: the property-owning class
+  options: [the bourgeoisie, the property-owning class, the rich, the middle class]
+  interim: the bourgeoisie, or the owning class where that reads better
+  status: open
+  verses: [II.44.1, IV.4.1, V.85.2, XII.62.1]
+  note: The 1906 English mostly says "middle class", which in modern English means salaried professionals, not owners. Where Kropotkin means the owning class, the modern draft should not say "middle class". Check each case against the French when it is added.
+
+- term: division of labour
+  french: la division du travail
+  english_1906: division of labour
+  literal: splitting work into narrow specialised tasks
+  options: [division of labour, specialisation]
+  interim: division of labour
+  status: open
+  verses: [XIV.3.1, XV.0.1, XV.1.2, XV.6.1]
+  note: Title of chapter XV, against Adam Smith. Kropotkin also means the division between brain work and hand work and between town and country, which chapter XVI develops.
+
+- term: intensive agriculture
+  french: la culture intensive, la culture maraîchère
+  english_1906: intensive agriculture, intensive culture, market-gardening
+  literal: high-yield cultivation of small plots
+  options: [intensive farming, market gardening]
+  interim: intensive farming; market gardening for the Paris maraîchers
+  status: open
+  verses: [XVII.12.2, XVII.24.1, XVII.51.1, XVII.N13.1.1]
+  note: '"Culture" for farming is a Gallicism in the 1906 English. The figures behind it are in XVII.N13.'

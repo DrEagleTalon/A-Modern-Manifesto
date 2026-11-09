@@ -1,0 +1,910 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: V
+title_original: Lohnarbeit und Kapital, Neue Rheinische Zeitung Nr. 269, 11. April 1849
+title_en: Instalment V (NRZ No. 269, 11 April 1849)
+author: Karl Marx
+date: 1849-04
+original_language: de
+anchor_language: de
+source_original: 'MEW 6, S. 397-423 (Dietz, Berlin) via mlwerke.de: text of Engels''s 1891 edition; 1849 newspaper readings attached as variants'
+source_en: Harriet E. Lothrop, Wage-Labor and Capital, New York Labor News Co., 1902 (public domain), in the Marxists Internet Archive edition (proofed by Alek Blain, 2006; CC BY-SA), which modernises some wording and currency
+verses:
+- id: V.0.1
+  kind: heading
+  original: '[V] Neue Rheinische Zeitung Nr. 269, 11. April 1849'
+  en: '[V] Neue Rheinische Zeitung No. 269, 11 April 1849'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: 'Editorial heading: the newspaper instalment. Not printed in the 1891 pamphlet.'
+- id: V.1.1
+  kind: p
+  original: Wachstum des produktiven Kapitals und Steigen des Arbeitslohns, sind sie wirklich so unzertrennlich verbunden, wie die bürgerlichen Ökonomen behaupten?
+  en: Growth of productive capital and rise of wages, are they really so indissolubly united as the bourgeois economists maintain?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T84
+    editions: 1849 (NRZ)
+    reading: 'vorangestellt: * Köln, 10. April'
+    base_text: ‸ Wachstum des produktiven Kapitals …
+  mew_page: '417'
+- id: V.1.2
+  kind: p
+  original: Wir dürfen ihnen nicht aufs Wort glauben.
+  en: We must not believe their mere words.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: V.1.3
+  kind: p
+  original: Wir dürfen ihnen selbst nicht glauben, daß, je feister das Kapital, desto besser sein Sklave gemästet wird.
+  en: We dare not believe them even when they claim that the fatter capital is the more will its slave be pampered.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: V.1.4
+  kind: p
+  original: Die Bourgeoisie ist zu aufgeklärt, sie rechnet zu gut, um die Vorurteile des Feudalen zu teilen, der mit dem Glanze seiner Dienerschaft prunkt.
+  en: The bourgeoisie is too much enlightened, it keeps its accounts much too carefully, to share the prejudices of the feudal lord, who makes an ostentatious display of the magnificence of his retinue.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: V.1.5
+  kind: p
+  original: Die Existenzbedingungen der Bourgeoisie zwingen sie zu rechnen.
+  en: The conditions of existence of the bourgeoisie compel it to attend carefully to its bookkeeping.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: V.2.1
+  kind: p
+  original: 'Wir werden also näher untersuchen müssen:'
+  en: ''
+  joined_to: V.1.5
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '417'
+- id: V.3.1
+  kind: p
+  original: Wie wirkt das Wachsen des produktiven Kapitals auf den Arbeitslohn?
+  en: 'We must therefore examine more closely into the following question:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: V.4.1
+  kind: p
+  original: Wächst das produktive Kapital der bürgerlichen Gesellschaft im großen und ganzen, so findet eine vielseitigere Aufhäufung von Arbeit statt.
+  en: If as a whole, the productive capital of bourgeois society grows, there takes place a more many-sided accumulation of labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+  en_note: 'Lothrop 1902, chapter 8: In what manner does the growth of productive capital affect wages?'
+- id: V.4.2
+  kind: p
+  original: Die Kapitalien nehmen an Zahl und Umfang zu.
+  en: The individual capitals increase in number and in magnitude.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T85
+    editions: 1849 (NRZ)
+    reading: 'irrtümlich: Kapitalisten, korrigiert nach der Berichtigung in Nr. 270 der "N.Rh.Ztg.", von Engels nicht berücksichtigt.'
+    base_text: … Die Kapitalien ‸ nehmen an Zahl und …
+  mew_page: '417'
+- id: V.4.3
+  kind: p
+  original: Die Vermehrung der Kapitalien vermehrt die Konkurrenz unter den Kapitalisten.
+  en: The multiplications of individual capitals increases the competition among capitalists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: V.4.4
+  kind: p
+  original: Der steigende Umfang der Kapitalien gibt die Mittel, gewaltigere Arbeiterarmeen mit riesenhaftern Kriegshandwerkzeugen auf das industrielle Schlachtfeld zu führen.
+  en: The increasing magnitude of increasing capitals provides the means of leading more powerful armies of workers with more gigantic instruments of war upon the industrial battlefield.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T86
+    editions: 1849 (NRZ)
+    reading: Kriegswerkzeugen
+    base_text: … Arbeiterarmeen mit riesenhaftern Kriegshandwerkzeugen ‸ auf das industrielle Schlachtfeld …
+  mew_page: '417'
+- id: V.5.1
+  kind: p
+  original: Der eine Kapitalist kann den andern nur aus dem Felde schlagen und dessen Kapital erobern, indem er wohlfeiler verkauft.
+  en: The one capitalist can drive the other from the field and carry off his capital only by selling more cheaply.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T87
+    editions: 1849 (NRZ)
+    reading: sein
+    base_text: … Felde schlagen und dessen ‸ Kapital erobern, indem er …
+  mew_page: '417'
+- id: V.5.2
+  kind: p
+  original: Um wohlfeiler verkaufen zu können, ohne sich zu ruinieren, muß er wohlfeiler produzieren, d.h. die Produktionskraft der Arbeit soviel wie möglich steigern.
+  en: In order to sell more cheaply without ruining himself, he must produce more cheaply - i.e., increase the productive forces of labour as much as possible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: V.5.3
+  kind: p
+  original: Die Produktionskraft der Arbeit wird aber vor allem gesteigert durch eine größere Teilung der Arbeit, durch eine allseitigere Einführung und beständige Verbesserung der Maschinerie.
+  en: But the productive forces of labour is increased above all by a greater division of labour and by a more general introduction and constant improvement of machinery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T88
+    editions: 1849 (NRZ)
+    reading: Verbesserung in
+    base_text: … Einführung und beständige Verbesserung ‸ der Maschinerie. …
+  mew_page: '417'
+- id: V.5.4
+  kind: p
+  original: Je größer die Arbeiterarmee ist, unter welche die Arbeit geteilt, je riesenhafter die Stufenleiter ist, auf welcher die Maschinerie eingeführt wird, um so mehr nehmen verhältnismäßig die Produktionskosten ab, um so fruchtbarer wird die Arbeit.
+  en: The larger the army of workers among whom the labour is subdivided, the more gigantic the scale upon which machinery is introduced, the more in proportion does the cost of production decrease, the more fruitful is the labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: V.5.5
+  kind: p
+  original: Es entsteht daher ein allseitiger Wetteifer unter den Kapitalisten, die Teilung der Arbeit und die Maschinerie zu vermehren und sie auf möglichst großer Stufenleiter auszubeuten.
+  en: And so there arises among the capitalists a universal rivalry for the increase of the division of labour and of machinery and for their exploitation upon the greatest possible scale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: V.6.1
+  kind: p
+  original: Hat nun ein Kapitalist durch größere Teilung der Arbeit, durch Anwendung und Verbesserung neuer Maschinen, durch vorteilhaftere und massenhaftere Ausbeutung der Naturkräfte das Mittel gefunden, mit derselben Summe von Arbeit oder von aufgehäufter Arbeit eine größere Summe von Produkten, von Waren zu schaffen als seine Konkurrenten, kann er z.B. in derselben Arbeitszeit, worin seine Konkurrenten eine halbe Elle Leinwand weben, eine ganze Elle Leinwand produzieren, wie wird dieser Kapitalist operieren?
+  en: If, now, by a greater division of labour, by the application and improvement of new machines, by a more advantageous exploitation of the forces of nature on a larger scale, a capitalist has found the means of producing with the same amount of labour (whether it be direct or accumulated labour) a larger amount of products of commodities than his competitors - if, for instance, he can produce a whole yard of linen in the same labour-time in which his competitors weave half-a-yard - how will this capitalist act?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T89
+    editions: 1849 (NRZ)
+    reading: Baumwolle spinnen
+    base_text: … halbe Elle Leinwand weben ‸ , eine ganze Elle …
+  - ref: T90
+    editions: 1849 (NRZ)
+    reading: Baumwolle
+    base_text: … eine ganze Elle Leinwand ‸ produzieren, wie wird dieser …
+  mew_page: '417'
+- id: V.7.1
+  kind: p
+  original: Er könnte fortfahren, eine halbe Elle Leinwand zu dem bisherigen Marktpreise zu verkaufen, es wäre dies jedoch kein Mittel, seine Gegner aus dem Felde zu schlagen und seinen eignen Absatz zu vergrößern.
+  en: He could keep on selling half-a-yard of linen at old market price; but this would not have the effect of driving his opponents from the field and enlarging his own market.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T91
+    editions: 1849 (NRZ)
+    reading: Baumwolle
+    base_text: … eine halbe Elle Leinwand ‸ zu dem bisherigen Marktpreise …
+  mew_page: '418'
+- id: V.7.2
+  kind: p
+  original: Aber in demselben Maße, worin seine Produktion sich ausgedehnt hat, hat sich das Bedürfnis des Absatzes für ihn ausgedehnt.
+  en: But his need of a market has increased in the same measure in which his productive power has extended.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: V.7.3
+  kind: p
+  original: Die mächtigern und kostspieligern Produktionsmittel, die er ins Leben gerufen, befähigen ihn zwar, seine Ware wohlfeiler zu verkaufen, sie zwingen ihn aber zugleich, mehr Waren zu verkaufen, einen ungleich größern Markt für seine Waren zu erobern; unser Kapitalist wird also die halbe Elle Leinwand wohlfeiler verkaufen als seine Konkurrenten.
+  en: The more powerful and costly means of production that he has called into existence enable him, it is true, to sell his wares more cheaply, but they compel him at the same time to sell more wares, to get control of a very much greater market for his commodities; consequently, this capitalist will sell his half-yard of linen more cheaply than his competitors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T91
+    editions: 1849 (NRZ)
+    reading: Baumwolle
+    base_text: … die halbe Elle Leinwand ‸ wohlfeiler verkaufen als seine …
+  mew_page: '418'
+- id: V.8.1
+  kind: p
+  original: Der Kapitalist wird aber die ganze Eile nicht so wohlfeil verkaufen, wie seine Konkurrenten die halbe Eile verkaufen, obgleich ihm die Produktion der ganzen Eile nicht mehr kostet als den andern die der halben.
+  en: But the capitalist will not sell the whole yard so cheaply as his competitors sell the half-yard, although the production of the whole yard costs him no more than does that of the half-yard to the others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: V.8.2
+  kind: p
+  original: Er würde sonst nichts extra gewinnen, sondern nur die Produktionskosten im Umtausch zurückerhalten.
+  en: Otherwise, he would make no extra profit, and would get back in exchange only the cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T92
+    editions: 1849 (NRZ)
+    reading: 'fehlt: extra'
+    base_text: … würde sonst nichts extra ‸ gewinnen, sondern nur die …
+  - ref: T93
+    editions: 1849 (NRZ)
+    reading: Austausch
+    base_text: … die Produktionskosten im Umtausch ‸ zurückerhalten. …
+  mew_page: '418'
+- id: V.8.3
+  kind: p
+  original: Seine etwaige größere Einnahme würde daher rühren, daß er ein höheres Kapital in Bewegung gesetzt, aber nicht daher daß er sein Kapital höher verwertet hätte als die andern.
+  en: He might obtain a greater income from having set in motion a larger capital, but not from having made a greater profit on his capital than the others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: V.8.4
+  kind: p
+  original: Überdem erreicht er den Zweck, den er erreichen will, wenn er den Preis seiner Ware nur um einige Prozente niedriger ansetzt als seine Konkurrenten.
+  en: Moreover, he attains the object he is aiming at if he prices his goods only a small percentage lower than his competitors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: V.8.5
+  kind: p
+  original: Er schlägt sie aus dem Felde, er ringt ihnen wenigstens einen Teil ihres Absatzes ab, indem er sie unterkauft.
+  en: He drives them off the field, he wrests from them at least part of their market, by underselling them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: V.8.6
+  kind: p
+  original: Und endlich erinnern wir uns, daß der courante Preis immer über oder unter den Produktionskosten steht, je nachdem der Verkauf einer Ware in die günstige oder ungünstige Jahreszeit der Industrie fallt.
+  en: And finally, let us remember that the current price always stands either above or below the cost of production, according as the sale of a commodity takes place in the favorable or unfavorable period of the industry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T94
+    editions: 1849 (NRZ)
+    reading: Marktpreis
+    base_text: … daß der courante Preis ‸ immer über oder unter …
+  mew_page: '418'
+- id: V.8.7
+  kind: p
+  original: Je nachdem der Marktpreis der Elle Leinwand unter oder über ihren bisher üblichen Produktionskosten steht, werden die Prozente wechseln, worin der Kapitalist, der neue, fruchtbarere Produktionsmittel angewandt hat, über seine wirklichen Produktionskosten hinaus verkauft.
+  en: According as the market price of the yard of linen stands above or below its former cost of production, will the percentage vary at which the capitalist who has made use of the new and more faithful means of production sell above his real cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: V.9.1
+  kind: p
+  original: Allein das Privilegium unsres Kapitalisten ist nicht von langer Dauer; andre wetteifernde Kapitalisten führen dieselben Maschinen, dieselbe Teilung der Arbeit ein, führen sie auf derselben oder größrer Stufenleiter ein, und diese Einführung wird so allgemein werden, bis der Preis der Leinwand nicht nur unter ihre alten, sondern unter ihre neuen Produktionskosten herabgesetzt ist.
+  en: But the privilege of our capitalist is not of long duration. Other competing capitalists introduce the same machines, the same division of labour, and introduce them upon the same or even upon a greater scale. And finally this introduction becomes so universal that the price of the linen is lowered not only below its old, but even below its new cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: V.10.1
+  kind: p
+  original: Die Kapitalisten befinden sich also wechselseitig in derselben Lage, worin sie sich vor Einführung der neuen Produktionsmittel befanden, und wenn sie mit diesen Mitteln zu demselben Preise das doppelte Produkt liefern können, so sind sie jetzt gezwungen, unter dem alten Preis das doppelte Produkt zu liefern.
+  en: The capitalists therefore find themselves, in their mutual relations, in the same situation in which they were before the introduction of the new means of production; and if they are by these means enabled to offer double the product at the old price, they are now forced to furnish double the product for less than the old price.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 418-419
+- id: V.10.2
+  kind: p
+  original: Auf dem Standpunkt dieser neuen Produktionskosten beginnt dasselbe Spiel wieder.
+  en: Having arrived at the new point, the new cost of production, the battle for supremacy in the market has to be fought out anew.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: V.10.3
+  kind: p
+  original: Mehr Teilung der Arbeit, mehr Maschinerie, größere Stufenleiter, worauf Teilung der Arbeit und Maschinerie ausgebeutet werden.
+  en: Given more division of labour and more machinery, and there results a greater scale upon which division of labour and machinery are exploited.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: V.10.4
+  kind: p
+  original: Und die Konkurrenz bringt wieder dieselbe Gegenwirkung gegen dieses Resultat.
+  en: And competition again brings the same reaction against this result.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: V.11.1
+  kind: p
+  original: Wir sehn, wie so die Produktionsweise, die Produktionsmittel beständig umgewälzt, revolutioniert werden, wie die Teilung der Arbeit größre Teilung der Arbeit, die Anwendung der Maschinerie größre Anwendung der Maschinerie, das Arbeiten auf großer Stufenleiter Arbeiten auf größerer Stufenleiter notwendig nach sich zieht.
+  en: We thus see how the method of production and the means of production are constantly enlarged, revolutionized, how division of labour necessarily draws after it greater division of labour, the employment of machinery greater employment of machinery, work upon a large scale work upon a still greater scale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+  en_note: 'Lothrop 1902, chapter 9: Effect of Capitalist Competition on the Capitalist Class the Middle Class and the Working Class'
+- id: V.12.1
+  kind: p
+  original: 'Das ist das Gesetz, das die bürgerliche Produktion stets wieder aus ihrem alten Geleise herauswirft und das Kapital zwingt, die Produktionskräfte der Arbeit anzuspannen, weil es sie angespannt hat, das Gesetz, das ihm keine Ruhe gönnt und beständig zuraunt: Marsch!'
+  en: 'This is the law that continually throws capitalist production out of its old ruts and compels capital to strain ever more the productive forces of labour for the very reason that it has already strained them - the law that grants it no respite, and constantly shouts in its ear: March! march!'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: V.12.2
+  kind: p
+  original: Marsch!
+  en: ''
+  joined_to: V.12.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  variants:
+  - ref: T95
+    editions: 1849 (NRZ)
+    reading: Marche! Marche!
+    base_text: … Marsch! ‸  …
+  mew_page: '419'
+- id: V.13.1
+  kind: p
+  original: Es ist dies kein andres Gesetz als das Gesetz, welches innerhalb der Schwankungen der Handelsepochen den Preis einer Ware notwendig zu ihren Produktionskosten ausgleicht.
+  en: This is no other law than that which, within the periodical fluctuations of commerce, necessarily adjusts the price of a commodity to its cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: V.14.1
+  kind: p
+  original: Welche gewaltigen Produktionsmittel ein Kapitalist auch ins Feld führe, die Konkurrenz wird diese Produktionsmittel verallgemeinern, und von dem Augenblick an, wo sie dieselben verallgemeinert hat, ist der einzige Erfolg der größren Fruchtbarkeit seines Kapitals, daß er nun für denselben Preis 10-, 20-, 100mal soviel liefern muß als früher.
+  en: No matter how powerful the means of production which a capitalist may bring into the field, competition will make their adoption general; and from the moment that they have been generally adopted, the sole result of the greater productiveness of his capital will be that he must furnish at the same price, 10, 20, 100 times as much as before.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: V.14.2
+  kind: p
+  original: Da er aber vielleicht 1.000mal mehr absetzen muß, um durch die größre Masse des abgesetzten Produkts den niedrigem Verkaufspreis aufzuwiegen, weil ein massenhafterer Verkauf jetzt nötig ist, nicht nur um mehr zu gewinnen, sondern um die Produktionskosten zu ersetzen - das Produktionsinstrument selbst wird, wie wir gesehn haben, immer teurer -, weil dieser massenhafte Verkauf aber nicht nur eine Lebensfrage für ihn, sondern auch für seine Nebenbuhler geworden ist, so beginnt der alte Kampf um so heftiger, je fruchtbarer die schon erfundnen Produktionsmittel sind.
+  en: But since he must find a market for, perhaps, 1,000 times as much, in order to outweigh the lower selling price by the greater quantity of the sale; since now a more extensive sale is necessary not only to gain a greater profit, but also in order to replace the cost of production (the instrument of production itself grows always more costly, as we have seen), and since this more extensive sale has become a question of life and death not only for him, but also for his rivals, the old struggle must begin again, and it is all the more violent the more powerful the means of production already invented are.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T96
+    editions: 1849 (NRZ)
+    reading: 'fehlt: mehr'
+    base_text: … nicht nur um mehr ‸ zu gewinnen, sondern um …
+  mew_page: '419'
+- id: V.14.3
+  kind: p
+  original: Die Teilung der Arbeit und die Anwendung der Maschinerie wird also in ungleich größrem Maßstabe von neuem vor sich gehn.
+  en: The division of labour and the application of machinery will therefore take a fresh start, and upon an even greater scale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: V.15.1
+  kind: p
+  original: Welches auch immer die Macht der angewandten Produktionsmittel sei, die Konkurrenz sucht die goldnen Früchte dieser Macht dem Kapital zu rauben, indem sie den Preis der Ware auf die Produktionskosten zurückführt, indem sie also in demselben Maße, wie wohlfeiler produziert, d.h. mit derselben Summe Arbeit mehr produziert werden kann, die wohlfeilere Produktion, die Lieferung immer größrer Massen von Produkt für dieselbe Preissumme zu einem gebieterischen Gesetz macht.
+  en: Whatever be the power of the means of production which are employed, competition seeks to rob capital of the golden fruits of this power by reducing the price of commodities to the cost of production; in the same measure in which production is cheapened - i.e., in the same measure in which more can be produced with the same amount of labour - it compels by a law which is irresistible a still greater cheapening of production, the sale of ever greater masses of product for smaller prices.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T97
+    editions: 1849 (NRZ)
+    reading: die massenhaftere Lieferung für den alten Preis
+    base_text: … Produkt für dieselbe Preissumme ‸ zu einem gebieterischen Gesetz …
+  mew_page: 419-420
+- id: V.15.2
+  kind: p
+  original: So hätte der Kapitalist durch seine eignen Anstrengungen nichts gewonnen als die Verpflichtung, in derselben Arbeitszeit mehr zu liefern, mit einem Wort, schwierigere Bedingungen der Verwertung seines Kapitals.
+  en: Thus the capitalist will have gained nothing more by his efforts than the obligation to furnish a greater product in the same labour-time; in a word, more difficult conditions for the profitable employment of his capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.15.3
+  kind: p
+  original: Während die Konkurrenz ihn daher beständig verfolgt mit ihrem Gesetz der Produktionskosten, und jede Waffe, die er gegen seine Rivalen schmiedet, als Waffe gegen ihn selbst zurückkehrt, sucht der Kapitalist beständig die Konkurrenz zu übertölpeln, indem er rastlos neue, zwar kostspieligere, aber wohlfeiler produzierende Maschinen und Teilungen der Arbeit an die Stelle der alten einführt und nicht abwartet, bis die Konkurrenz die neuen veraltet hat.
+  en: While competition, therefore, constantly pursues him with its law of the cost of production and turns against himself every weapon that he forges against his rivals, the capitalist continually seeks to get the best of competition by restlessly introducing further subdivision of labour and new machines, which, though more expensive, enable him to produce more cheaply, instead of waiting until the new machines shall have been rendered obsolete by competition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.16.1
+  kind: p
+  original: Stellen wir uns nun diese fieberhafte Agitation auf dem ganzen Weltmarkt zugleich vor, und es begreift sich, wie das Wachstum, die Akkumulation und Konzentration des Kapitals eine ununterbrochne, sich selbst überstürzende und auf stets riesenhafterer Stufenleiter ausgeführte Teilung der Arbeit, Anwendung neuer und Vervollkommnung alter Maschinerie im Gefolge hat.
+  en: If we now conceive this feverish agitation as it operates in the market of the whole world, we shall be in a position to comprehend how the growth, accumulation, and concentration of capital bring in their train an ever more detailed subdivision of labour, an ever greater improvement of old machines, and a constant application of new machine - a process which goes on uninterruptedly, with feverish haste, and upon an ever more gigantic scale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.17.1
+  kind: p
+  original: Wie aber wirken diese Umstände, die von dem Wachstum des produktiven Kapitals unzertrennlich sind, auf die Bestimmung des Arbeitslohns ein?
+  en: But what effect do these conditions, which are inseparable from the growth of productive capital, have upon the determination of wages?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.18.1
+  kind: p
+  original: 'Die größere Teilung der Arbeit befähigt einen Arbeiter, die Arbeit von 5, 10, 20 zu tun: Sie vermehrt also die Konkurrenz unter den Arbeitern um das 5-, 10- und 20fache.'
+  en: The greater division of labour enables one labourer to accomplish the work of five, 10, or 20 labourers; it therefore increases competition among the labourers fivefold, tenfold, or twentyfold.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.18.2
+  kind: p
+  original: Die Arbeiter machen sich nicht nur Konkurrenz, indem einer sich wohlfeiler verkauft als der andre; sie machen sich Konkurrenz, indem einer die Arbeit von 5, 10, 20 verrichtet; und die vom Kapital eingeführte und stets vergrößerte Teilung der Arbeit zwingt die Arbeiter, sich diese Art von Konkurrenz zu machen.
+  en: The labourers compete not only by selling themselves one cheaper than the other, but also by one doing the work of five, 10, or 20; and they are forced to compete in this manner by the division of labour, which is introduced and steadily improved by capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.19.1
+  kind: p
+  original: 'Ferner: In demselben Maße, wie die Teilung der Arbeit zunimmt, vereinfacht sich die Arbeit.'
+  en: Furthermore, to the same degree in which the division of labour increases, is the labour simplified.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.19.2
+  kind: p
+  original: Die besondre Geschicklichkeit des Arbeiters wird wertlos.
+  en: The special skill of the labourer becomes worthless.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.19.3
+  kind: p
+  original: Er wird in eine einfache, eintönige Produktivkraft verwandelt, die weder körperliche noch geistige Spannkräfte ins Spiel zu setzen hat.
+  en: He becomes transformed into a simple monotonous force of production, with neither physical nor mental elasticity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.19.4
+  kind: p
+  original: Seine Arbeit wird allen zugängliche Arbeit.
+  en: His work becomes accessible to all; therefore competitors press upon him from all sides.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.19.5
+  kind: p
+  original: Es drängen daher Konkurrenten von allen Seiten auf ihn ein, und überdem erinnern wir, daß, je einfacher, je leichter erlernbar die Arbeit ist, je weniger Produktionskosten es bedarf, um sich dieselbe anzueignen, desto tiefer der Arbeitslohn sinkt, denn wie der Preis jeder andern Ware ist er durch die Produktionskosten bestimmt.
+  en: Moreover, it must be remembered that the more simple, the more easily learned the work is, so much the less is its cost to production, the expense of its acquisition, and so much the lower must the wages sink - for, like the price of any other commodity, they are determined by the cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: V.20.1
+  kind: p
+  original: In demselben Maße also, worin die Arbeit unbefriedigender, ekelhafter wird, in demselben Maße nimmt die Konkurrenz zu und der Arbeitslohn ab.
+  en: Therefore, in the same manner in which labour becomes more unsatisfactory, more repulsive, do competition increase and wages decrease.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T98
+    editions: 1849 (NRZ)
+    reading: 'fehlt: der'
+    base_text: … Konkurrenz zu und der ‸ Arbeitslohn ab. …
+  mew_page: '420'
+- id: V.20.2
+  kind: p
+  original: Der Arbeiter sucht die Masse seines Arbeitslohns zu behaupten, indem er mehr arbeitet, sei es, daß er mehr Stunden arbeitet, sei es, daß er mehr in der selben Stunde liefert.
+  en: The labourer seeks to maintain the total of his wages for a given time by performing more labour, either by working a great number of hours, or by accomplishing more in the same number of hours.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 420-421
+- id: V.20.3
+  kind: p
+  original: Durch die Not getrieben, vermehrt er also noch die unheilvollen Wirkungen der Teilung der Arbeit.
+  en: Thus, urged on by want, he himself multiplies the disastrous effects of division of labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: V.20.4
+  kind: p
+  original: 'Das Resultat ist: Je mehr er arbeitet, um so weniger Lohn erhält er, und zwar aus dem einfachen Grunde, weil er in demselben Maß seinen Mitarbeitern Konkurrenz macht, sich daher ebensoviel Konkurrenten aus seinen Mitarbeitern macht, die sich zu ebenso schlechten Bedingungen anbieten wie er selbst, weil er also in letzter Instanz sich selbst Konkurrenz macht, sich selbst als Mitglied der Arbeiterklasse.'
+  en: 'The result is: the more he works, the less wages he receives. And for this simple reason: the more he works, the more he competes against his fellow workmen, the more he compels them to compete against him, and to offer themselves on the same wretched conditions as he does; so that, in the last analysis, he competes against himself as a member of the working class.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: V.21.1
+  kind: p
+  original: Die Maschinerie bringt dieselben Wirkungen auf viel größrer Stufenleiter hervor, indem sie geschickte Arbeiter durch ungeschickte, Männer durch Weiber, Erwachsene durch Kinder verdrängt, indem die Maschinerie da, wo sie neu eingeführt wird, die Handarbeiter massenhaft auf das Pflaster wirft, und da, wo sie ausgebildet, verbessert, durch fruchtbarere Maschinen ersetzt wird, Arbeiter in kleinem Haufen abdankt.
+  en: Machinery produces the same effects, but upon a much larger scale. It supplants skilled labourers by unskilled, men by women, adults by children; where newly introduced, it throws workers upon the streets in great masses; and as it becomes more highly developed and more productive it discards them in additional though smaller numbers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T99
+    editions: 1849 (NRZ)
+    reading: sie
+    base_text: … Maschinen ersetzt wird, Arbeiter ‸ in kleinem Haufen abdankt. …
+  mew_page: '421'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: V.21.2
+  kind: p
+  original: Wir haben oben in raschen Zügen den industriellen Krieg der Kapitalisten untereinander geschildert; dieser Krieg hat das eigentümliche, daß die Schlachten in ihm gewonnen werden weniger durch Anwerben als durch Abdanken der Arbeiterarmee.
+  en: We have hastily sketched in broad outlines the industrial war of capitalists among themselves. This war has the peculiarity that the battles in it are won less by recruiting than by discharging the army of workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: V.21.3
+  kind: p
+  original: Die Feldherren, die Kapitalisten, wetteifern untereinander, wer am meisten Industrie-Soldaten entlassen kann.
+  en: The generals (the capitalists) vie with one another as to who can discharge the greatest number of industrial soldiers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: V.22.1
+  kind: p
+  original: Die Ökonomen erzählen uns allerdings, daß die durch Maschinen überflüssig gewordnen Arbeiter neue Beschäftigungszweige finden.
+  en: The economists tell us, to be sure, that those labourers who have been rendered superfluous by machinery find new venues of employment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: V.23.1
+  kind: p
+  original: Sie wagen nicht direkt zu behaupten, daß dieselben Arbeiter, die entlassen worden sind, in neuen Arbeitszweigen unterkommen.
+  en: They dare not assert directly that the same labourers that have been discharged find situations in new branches of labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: V.23.2
+  kind: p
+  original: Die Tatsachen schreien zu laut gegen diese Lüge.
+  en: Facts cry out too loudly against this lie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: V.23.3
+  kind: p
+  original: Sie behaupten eigentlich nur, daß für andre Bestandteile der Arbeiterklasse, z.B. für den Teil der jungen Arbeitergeneration, der schon bereit stand, um in den untergegangnen Industriezweig einzutreten, sich neue Beschäftigungsmittel auftun werden.
+  en: Strictly speaking, they only maintain that new means of employment will be found for other sections of the working class; for example, for that portion of the young generation of labourers who were about to enter upon that branch of industry which had just been abolished.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T100
+    editions: 1849 (NRZ)
+    reading: die
+    base_text: … der jungen Arbeitergeneration, der ‸ schon bereit stand, um …
+  mew_page: '421'
+- id: V.23.4
+  kind: p
+  original: Es ist das natürlich eine große Genugtuung für die gefallnen Arbeiter.
+  en: Of course, this is a great satisfaction to the disabled labourers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: V.23.5
+  kind: p
+  original: Es wird den Herren Kapitalisten nicht an frischem exploitablem Fleisch und Blut fehlen, man wird die Toten ihre Toten begraben lassen.
+  en: There will be no lack of fresh exploitable blood and muscle for the Messrs. Capitalists - the dead may bury their dead.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: V.23.6
+  kind: p
+  original: Es ist dies mehr ein Trost, den die Bourgeois sich selbst, als den sie den Arbeitern geben.
+  en: This consolation seems to be intended more for the comfort of the capitalists themselves than their labourers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: V.23.7
+  kind: p
+  original: Wenn die ganze Klasse der Lohnarbeiter durch die Maschinerie vernichtet würde, wie schrecklich für das Kapital, das ohne Lohnarbeit aufhört, Kapital zu sein!
+  en: If the whole class of the wage-labourer were to be annihilated by machinery, how terrible that would be for capital, which, without wage-labour, ceases to be capital!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: V.24.1
+  kind: p
+  original: Gesetzt aber, daß die durch Maschinerie direkt aus der Arbeit Verdrängten und der ganze Teil der neuen Generation, der schon auf diesen Dienst lauerte, eine neue Beschäftigung finden.
+  en: But even if we assume that all who are directly forced out of employment by machinery, as well as all of the rising generation who were waiting for a chance of employment in the same branch of industry, do actually find some new employment - are we to believe that this new employment will pay as high wages as did the one they have lost?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: V.24.2
+  kind: p
+  original: Glaubt man, daß dieselbe so hoch bezahlt werden wird wie die verlorengegangne?
+  en: ''
+  joined_to: V.24.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: 421-422
+- id: V.24.3
+  kind: p
+  original: Es widerspräche dies allen Gesetzen der Ökonomie.
+  en: If it did, it would be in contradiction to the laws of political economy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: V.24.4
+  kind: p
+  original: Wir haben gesehn, wie die moderne Industrie es mit sich bringt, stets eine einfachere, untergeordnetere Beschäftigung der zusammengesetzten, höheren unterzuschieben.
+  en: We have seen how modern industry always tends to the substitution of the simpler and more subordinate employments for the higher and more complex ones.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: V.25.1
+  kind: p
+  original: Wie könnte also eine Arbeitermasse, die durch Maschinerie aus einem Industriezweig herausgeworfen ist, in einem andern eine Zuflucht finden, es sei denn, daß er niedriger, schlechter bezahlt ist?
+  en: How, then, could a mass of workers thrown out of one branch of industry by machinery find refuge in another branch, unless they were to be paid more poorly?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: V.26.1
+  kind: p
+  original: Man hat als Ausnahme die Arbeiter angeführt, die in der Fabrikation der Maschinerie selbst arbeiten.
+  en: An exception to the law has been adduced, namely, the workers who are employed in the manufacture of machinery itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: V.26.2
+  kind: p
+  original: Sobald mehr Maschinerie in der Industrie verlangt und verbraucht werde, müßten die Maschinen notwendig zunehmen, also die Maschinenfabrikation, also die Beschäftigung der Arbeiter in der Maschinenfabrikation, und die in diesem Industriezweig verwandten Arbeiter seien geschickte, ja selbst gebildete Arbeiter.
+  en: As soon as there is in industry a greater demand for and a greater consumption of machinery, it is said that the number of machines must necessarily increase; consequently, also, the manufacture of machines; consequently, also, the employment of workers in machine manufacture; and the workers employed in this branch of industry are skilled, even educated, workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: V.27.1
+  kind: p
+  original: Seit dem Jahre 1840 hat diese schon früher nur halbwahre Behauptung allen Schein verloren, indem immer vielseitiger Maschinen zum Fabrizieren von Maschinen nicht mehr nicht minder angewandt wurden als zum Fabrizieren von Baumwollengarn, und die in den Maschinenfabriken beschäftigten Arbeiter, gegenüber von höchst kunstvollen, nur noch die Stelle von höchst kunstlosen Maschinen spielen konnten.
+  en: Since the year 1840 this assertion, which even before that date was only half-true, has lost all semblance of truth; for the most diverse machines are now applied to the manufacture of the machines themselves on quite as extensive a scale as in the manufacture of cotton yarn, and the labourers employed in machine factories can but play the role of very stupid machines alongside of the highly ingenious machines.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T101
+    editions: 1849 (NRZ)
+    reading: Baumwollgarn
+    base_text: … zum Fabrizieren von Baumwollengarn ‸ , und die in …
+  mew_page: '422'
+- id: V.28.1
+  kind: p
+  original: Aber statt des durch die Maschine verabschiedeten Mannes beschäftigt die Fabrik vielleicht drei Kinder und eine Frau!
+  en: But in place of the man who has been dismissed by the machine, the factory may employ, perhaps, three children and one woman!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: V.28.2
+  kind: p
+  original: Und mußte der Lohn des Mannes nicht hinreichen für die drei Kinder und eine Frau?
+  en: And must not the wages of the man have previously sufficed for the three children and one woman?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T102
+    editions: 1849 (NRZ)
+    reading: das Salair
+    base_text: … Und mußte der Lohn ‸ des Mannes nicht hinreichen …
+  mew_page: '422'
+- id: V.28.3
+  kind: p
+  original: Mußte das Minimum des Arbeitslohnes nicht hinreichen, um die Rasse zu erhalten und zu vermehren?
+  en: Must not the minimum wages have sufficed for the preservation and propagation of the race?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: V.28.4
+  kind: p
+  original: Was also beweist diese beliebte Bourgeoisredensart?
+  en: What, then, do these beloved bourgeois phrases prove?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: V.28.5
+  kind: p
+  original: Weiter nichts, als daß jetzt viermal soviel Arbeiterleben verbraucht werden wie früher, um den Lebensunterhalt einer Arbeiterfamilie zu gewinnen.
+  en: Nothing more than that now four times as many workers' lives are used up as there were previously, in order to obtain the livelihood of one working family.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T102
+    editions: 1849 (NRZ)
+    reading: das Salair
+    base_text: … früher, um den Lebensunterhalt ‸ einer Arbeiterfamilie zu gewinnen. …
+  mew_page: '422'
+- id: V.29.1
+  kind: p
+  original: 'Resümieren wir: Je mehr das produktive Kapital wächst, desto mehr dehnt sich die Teilung der Arbeit und die Anwendung der Maschinerie aus.'
+  en: 'To sum up: the more productive capital grows, the more it extends the division of labour and the application of machinery; the more the division of labour and the application of machinery extend, the more does competition extend among the workers, the more do their wages shrink together.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: V.29.2
+  kind: p
+  original: Je mehr sich die Teilung der Arbeit und die Anwendung der Maschinerie ausdehnt, um so mehr dehnt sich die Konkurrenz unter den Arbeitern aus, je mehr zieht sich ihr Lohn zusammen.
+  en: ''
+  joined_to: V.29.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  variants:
+  - ref: T103
+    editions: 1849 (NRZ)
+    reading: Salair
+    base_text: … zieht sich ihr Lohn ‸ zusammen. …
+  mew_page: '422'
+- id: V.30.1
+  kind: p
+  original: Und zudem rekrutiert sich die Arbeiterklasse noch aus den höhern Schichten der Gesellschaft; es stürzt eine Masse kleiner Industriellen und kleiner Rentiers in sie herab, die nichts Eiligeres zu tun haben, als ihre Arme zu erheben neben den Armen der Arbeiter.
+  en: In addition, the working class is also recruited from the higher strata of society; a mass of small business men and of people living upon the interest of their capitals is precipitated into the ranks of the working class, and they will have nothing else to do than to stretch out their arms alongside of the arms of the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: V.30.2
+  kind: p
+  original: So wird der Wald der in die Höhe gestreckten und nach Arbeit verlangenden Arme immer dichter, und die Arme selbst werden immer magrer.
+  en: Thus the forest of outstretched arms, begging for work, grows ever thicker, while the arms themselves grow ever leaner.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: V.31.1
+  kind: p
+  original: Daß der kleine Industrielle den Kampf nicht aushalten kann, worin es eine der ersten Bedingungen ist, auf stets größerer Stufenleiter zu produzieren, d.h. eben ein großer und kein kleiner Industrieller zu sein, versteht sich von selbst.
+  en: It is evident that the small manufacturer cannot survive in a struggle in which the first condition of success is production upon an ever greater scale. It is evident that the small manufacturer cannot at the same time be a big manufacturer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T104
+    editions: 1849 (NRZ)
+    reading: Krieg
+    base_text: … kleine Industrielle den Kampf ‸ nicht aushalten kann, worin …
+  mew_page: '423'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: V.32.1
+  kind: p
+  original: Daß der Zins vom Kapital in demselben Maße abnimmt, wie Masse und Zahl des Kapitals zunimmt, wie das Kapital anwächst, daß daher der kleine Rentier nicht mehr von seiner Rente leben kann, also sich auf die Industrie werfen muß, also die Reihen der kleinen Industriellen und damit die Kandidaten für das Proletariat vermehren hilft, alles das bedarf wohl keiner weitern Auseinandersetzung.
+  en: That the interest on capital decreases in the same ratio in which the mass and number of capitals increase, that it diminishes with the growth of capital, that therefore the small capitalist can no longer live on his interest, but must consequently throw himself upon industry by joining the ranks of the small manufacturers and thereby increasing the number of candidates for the proletariat - all this requires no further elucidation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T105
+    editions: 1849 (NRZ)
+    reading: 'fehlt: muß'
+    base_text: … die Industrie werfen muß ‸ , also die Reihen …
+  - ref: T106
+    editions: 1849 (NRZ)
+    reading: der
+    base_text: … Industriellen und damit die ‸ Kandidaten für das Proletariat …
+  mew_page: '423'
+- id: V.33.1
+  kind: p
+  original: In dem Maße endlich, wie die Kapitalisten durch die oben geschilderte Bewegung gezwungen werden, schon vorhandne riesenhafte Produktionsmittel auf größerer Stufenleiter auszubeuten und zu diesem Zweck alle Springfedern des Kredits in Bewegung zu setzen, in demselben Maße vermehren sich die industriellen Erdbeben, worin die Handelswelt sich nur dadurch erhält, daß sie einen Teil des Reichtums, der Produkte und selbst der Produktionskräfte den Göttern der Unterwelt opfert - nehmen mit einem Wort die Krisen zu.
+  en: Finally, in the same measure in which the capitalists are compelled, by the movement described above, to exploit the already existing gigantic means of production on an ever-increasing scale, and for this purpose to set in motion all the mainsprings of credit, in the same measure do they increase the industrial earthquakes, in the midst of which the commercial world can preserve itself only by sacrificing a portion of its wealth, its products, and even its forces of production, to the gods of the lower world - in short, the crises increase.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T107
+    editions: 1849 (NRZ)
+    reading: 'fehlt: industriellen'
+    base_text: … vermehren sich die industriellen ‸ Erdbeben, worin die Handelswelt …
+  mew_page: '423'
+- id: V.33.2
+  kind: p
+  original: Sie werden häufiger und heftiger schon deswegen, weil in demselben Maße, worin die Produktenmasse, also das Bedürfnis nach ausgedehnten Märkten wächst, der Weltmarkt immer mehr sich zusammenenzieht, immer weniger neue Märkte zur Exploitation übrigbleiben, da jede vorhergehende Krise einen bisher uneroberten oder vom Handel nur oberflächlich ausgebeuteten Markt dem Welthandel unterworfen hat.
+  en: They become more frequent and more violent, if for no other reason, than for this alone, that in the same measure in which the mass of products grows, and therefore the needs for extensive markets, in the same measure does the world market shrink ever more, and ever fewer markets remain to be exploited, since every previous crisis has subjected to the commerce of the world a hitherto unconquered or but superficially exploited market.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T108
+    editions: 1849 (NRZ)
+    reading: 'fehlt: neue'
+    base_text: … zusammenenzieht, immer weniger neue ‸ Märkte zur Exploitation übrigbleiben, …
+  mew_page: '423'
+- id: V.33.3
+  kind: p
+  original: Das Kapital lebt aber nicht nur von der Arbeit.
+  en: But capital not only lives upon labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: V.33.4
+  kind: p
+  original: Ein zugleich vornehmer und barbarischer Herr, zieht es mit sich in die Gruft die Leichen seiner Sklaven, ganze Arbeiterhekatomben, die in den Krisen untergehn.
+  en: Like a master, at once distinguished and barbarous, it drags with it into its grave the corpses of its slaves, whole hecatombs of workers, who perish in the crises.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: V.33.5
+  kind: p
+  original: 'Wir sehn also: Wächst das Kapital rasch, so wächst ungleich rascher die Konkurrenz unter den Arbeitern, d.h. desto mehr nehmen verhältnismäßig die Beschäftigungsmittel, die Lebensmittel für die Arbeiterklasse ab, und nichtsdestoweniger ist das rasche Wachsen des Kapitals die günstigste Bedingung für die Lohnarbeit.'
+  en: We thus see that if capital grows rapidly, competition among the workers grows with even greater rapidity - i.e., the means of employment and subsistence for the working class decrease in proportion even more rapidly; but, this notwithstanding, the rapid growth of capital is the most favorable condition for wage-labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T109
+    editions: 1849 (NRZ)
+    reading: 'nachgestellt: (Fortsetzung folgt) Karl Marx'
+    base_text: … Bedingung für die Lohnarbeit. ‸  …
+  mew_page: '423'

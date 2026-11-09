@@ -1,0 +1,586 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: I
+title_original: I
+title_en: I
+author: Errico Malatesta
+date: 1891 (Italian); English printing 1900
+original_language: it
+anchor_language: en
+source_original: Not yet in this repository. Malatesta's Italian, L'Anarchia (1891), is still to be located on a reachable mirror.
+source_en: Anonymous English translation, Free Society Library printing (1900), Project Gutenberg ebook 40365 (public domain)
+verses:
+- id: I.0.1
+  kind: heading
+  original: ''
+  en: I
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.1.1
+  kind: p
+  original: ''
+  en: Man has two necessary fundamental characteristics, the instinct of his own preservation, without which no being could exist, and the instinct of the preservation of his species, without which no species could have been formed or have continued to exist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.1.2
+  kind: p
+  original: ''
+  en: He is naturally driven to defend his own existence and well-being and that of his offspring against every danger.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.2.1
+  kind: p
+  original: ''
+  en: In nature, living beings find two ways of securing their existence, and rendering it pleasanter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.2.2
+  kind: p
+  original: ''
+  en: The one is in individual strife with the elements, and with other individuals of the same or different species; the other is mutual support, or co-operation, which might also be described as association for strife against all natural factors, destructive to existence, or to the development and well-being of the associated.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.3.1
+  kind: p
+  original: ''
+  en: We do not need to investigate in these pages--and we cannot for lack of space--what respective proportions in the evolution of the organic world these two principles of strife and co-operation take.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.4.1
+  kind: p
+  original: ''
+  en: It will suffice to note how co-operation among men (whether forced or voluntary) has become the sole means of progress, of improvement or of securing safety; and how strife--relic of an earlier stage of existence--has become thoroughly unsuitable as a means of securing the well-being of individuals, and produces instead injury to all, both the conquerors and the conquered.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.5.1
+  kind: p
+  original: ''
+  en: The accumulated and transmitted experience of successive generations has taught man that by uniting with other men his preservation is better secured and his well-being increased.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.5.2
+  kind: p
+  original: ''
+  en: Thus out of this same strife for existence, carried on against surrounding nature, and against individuals of their own species, the social instinct has been developed among men, and has completely transformed the conditions of their life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.5.3
+  kind: p
+  original: ''
+  en: Through co-operation man has been enabled to evolve out of animalism, has risen to great power, and elevated himself to such a degree above the other animals, that metaphysical philosophers have believed it necessary to invent for him an immaterial and immortal soul.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.6.1
+  kind: p
+  original: ''
+  en: Many concurrent causes have contributed to the formation of this social instinct, that starting from the animal basis of the instinct for the preservation of the species, has now become so extended and so intense that it constitutes the essential element of man's moral nature.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.1
+  kind: p
+  original: ''
+  en: Man, however he evolved from inferior animal types, was a physically weak being, unarmed for the fight against carnivorous beasts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.2
+  kind: p
+  original: ''
+  en: But he was possessed of a brain capable of great development, and a vocal organ, able to express the various cerebral vibrations, by means of diverse sounds, and hands adapted to give the desired form to matter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.3
+  kind: p
+  original: ''
+  en: He must have very soon felt the need and advantages of association with his fellows.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.4
+  kind: p
+  original: ''
+  en: Indeed it may even be said that he could only rise out of animalism when he became social, and had acquired the use of language, which is at the same time a consequence and a potent factor of sociability.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.1
+  kind: p
+  original: ''
+  en: The relatively scanty number of the human species rendered the strife for existence between man and man, even beyond the limits of association, less sharp, less continuous, and less necessary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.2
+  kind: p
+  original: ''
+  en: At the same time, it must have greatly favored the development of sympathetic sentiments, and have left time for the discovery and appreciation of the utility of mutual support.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.3
+  kind: p
+  original: ''
+  en: In short, social life became the necessary condition of man's existence, in consequence of his capacity to modify his external surroundings and adapt them to his own wants, by the exercise of his primeval power in co-operation with a greater or less number of associates.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.4
+  kind: p
+  original: ''
+  en: His desires have multiplied with the means of satisfying them, and have become needs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.5
+  kind: p
+  original: ''
+  en: And division of labor has arisen from man's methodical use of nature for his own advantage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.6
+  kind: p
+  original: ''
+  en: Therefore, as now evolved, man could not live apart from his fellows without falling back into a state of animalism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.7
+  kind: p
+  original: ''
+  en: Through the refinement of sensibility, with the multiplication of social relationships, and through habit impressed on the species by hereditary transmission for thousands of centuries, this need of social life, this interchange of thought and of affection between man and man, has become a mode of being necessary for our organism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.8
+  kind: p
+  original: ''
+  en: It has been transformed into sympathy, friendship and love, and subsists independently of the material advantages that association procures.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.9
+  kind: p
+  original: ''
+  en: So much is this the case, that man will often face suffering of every kind, and even death, for the satisfaction of these sentiments.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.9.1
+  kind: p
+  original: ''
+  en: The fact is that a totally different character has been given to the strife for existence between man and man, and between the inferior animals, by the enormous advantages that association gives to man; by the fact that his physical powers are altogether disproportionate to his intellectual superiority over the beasts, so long as he remains isolated; by his possibility of associating with an ever increasing number of individuals, and entering into more and more intricate and complex relationships, until he reaches association with all humanity; and, finally, perhaps more than all, by his ability to produce, working in co-operation with others, more than he needs to live upon.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.9.2
+  kind: p
+  original: ''
+  en: It is evident that these causes, together with the sentiments of affection derived from them, must give quite a peculiar character to the struggle for existence among human beings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.10.1
+  kind: p
+  original: ''
+  en: Although it is now known--and the researches of modern naturalists bring us every day new proofs--that co-operation has played, and still plays, a most important part in the development of the organic world, nevertheless, the difference between the human struggle for existence and that of the inferior animals is enormous.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.10.2
+  kind: p
+  original: ''
+  en: It is in fact proportionate to the distance separating man from the other animals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.10.3
+  kind: p
+  original: ''
+  en: And this is none the less true because of that Darwinian theory, which the bourgeois class have ridden to death, little suspecting the extent to which mutual co-operation has assisted in the development of the lower animals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.11.1
+  kind: p
+  original: ''
+  en: The lower animals fight either individually, or, more often, in little permanent or transitory groups, against all nature, the other individuals of their own species included.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.11.2
+  kind: p
+  original: ''
+  en: Some of the more social animals, such as ants, bees, etc., associate together in the same anthill, or beehive, but are at war with, or indifferent towards, other communities of their own species.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.11.3
+  kind: p
+  original: ''
+  en: Human strife with nature, on the contrary, tends always to broaden association among men, to unite their interests, and to develop each individual's sentiments of affection towards all others, so that united they may conquer and dominate the dangers of external nature by and for humanity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.12.1
+  kind: p
+  original: ''
+  en: All strife directed towards obtaining advantages independently of other men, and in opposition to them, contradicts the social nature of modern man, and tends to lead it back to a more animal condition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.13.1
+  kind: p
+  original: ''
+  en: Solidarity, that is, harmony of interests and sentiments, the sharing of each in the good of all, and of all in the good of each, is the state in which alone man can be true to his own nature, and attain to the highest development and happiness.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.13.2
+  kind: p
+  original: ''
+  en: It is the aim towards which human development tends.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.13.3
+  kind: p
+  original: ''
+  en: It is the one great principle, capable of reconciling all present antagonisms in society, otherwise irreconcilable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.13.4
+  kind: p
+  original: ''
+  en: It causes the liberty of each to find not its limits, but its complement, the necessary condition of its continual existence--in the liberty of all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.14.1
+  kind: p
+  original: ''
+  en: '"No man," says Michael Bakunin, "can recognize his own human worth, nor in consequence realize his full development, if he does not recognize the worth of his fellow men, and in co-operation with them, realize his own development through them.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.14.2
+  kind: p
+  original: ''
+  en: No man can emancipate himself, unless at the same time he emancipates those around him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.14.3
+  kind: p
+  original: ''
+  en: My freedom is the freedom of all; for I am not really free--free not only in thought, but in deed--if my freedom and my right do not find their confirmation and sanction in the liberty and right of all men my equals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.15.1
+  kind: p
+  original: ''
+  en: '"It matters much to me what all other men are, for however independent I may seem, or may believe myself to be, by virtue of my social position, whether as pope, czar, emperor, or prime minister, I am all the while the product of those who are the least among men.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.15.2
+  kind: p
+  original: ''
+  en: If these are ignorant, miserable, or enslaved, my existence is limited by their ignorance, misery, or slavery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.15.3
+  kind: p
+  original: ''
+  en: I, though an intelligent and enlightened man, am made stupid by their stupidity; though brave, am enslaved by their slavery; though rich, tremble before their poverty; though privileged, grow pale at the thought of possible justice for them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.15.4
+  kind: p
+  original: ''
+  en: I, who wish to be free, cannot be so, because around me are men who do not yet desire freedom, and, not desiring it, become, as opposed to me, the instruments of my oppression."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.16.1
+  kind: p
+  original: ''
+  en: Solidarity, then, is the condition in which man can attain the highest degree of security and of well-being.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.16.2
+  kind: p
+  original: ''
+  en: Therefore, egoism itself, that is, the exclusive consideration of individual interests, impels man and human society towards solidarity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.16.3
+  kind: p
+  original: ''
+  en: Or rather egoism and altruism (consideration of the interests of others) are united in this one sentiment, as the interest of the individual is one with the interests of society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.17.1
+  kind: p
+  original: ''
+  en: However, man could not pass at once from animalism to humanity; from brutal strife between man and man to the collective strife of all mankind, united in one brotherhood of mutual aid against external nature.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.18.1
+  kind: p
+  original: ''
+  en: Guided by the advantages that association and the consequent division of labor offer, man evolved towards solidarity, but his evolution encountered an obstacle which led him, and still leads him, away from his aim.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.18.2
+  kind: p
+  original: ''
+  en: He discovered that he could realize the advantages of co-operation, at least up to a certain point, and for the material and primitive wants that then comprised all his needs, by making other men subject to himself, instead of associating on an equality with them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.18.3
+  kind: p
+  original: ''
+  en: Thus the ferocious and anti-social instincts, inherited from his bestial ancestry, again obtained the upper hand.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.18.4
+  kind: p
+  original: ''
+  en: He forced the weaker to work for him, preferring to domineer over rather than to associate fraternally with his fellows.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.18.5
+  kind: p
+  original: ''
+  en: Perhaps also in most cases it was by exploiting the conquered in war that man learnt for the first time the benefits of association and the help that can be obtained from mutual support.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.19.1
+  kind: p
+  original: ''
+  en: Thus it has come about that the establishment of the utility of co-operation, which ought to lead to the triumph of solidarity in all human concerns, has turned to the advantage of private property and of government; in other words, to the exploitation of the labor of the many, for the sake of the privileged few.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.20.1
+  kind: p
+  original: ''
+  en: There has always been association and co-operation, without which human life would be impossible; but it has been co-operation imposed and regulated by the few in their own particular interest.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.21.1
+  kind: p
+  original: ''
+  en: From this fact arises a great contradiction with which the history of mankind is filled.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.21.2
+  kind: p
+  original: ''
+  en: On the one hand, we find the tendency to associate and fraternize for the purpose of conquering and adapting the external world to human needs, and for the satisfaction of the human affections; while, on the other hand we see the tendency to divide into as many separate and hostile factions as there are different conditions of life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.21.3
+  kind: p
+  original: ''
+  en: These factions are determined, for instance, by geographical and ethnological conditions, by differences in economic position, by privileges acquired by some and sought to be secured by others, or by suffering endured, with the ever recurring desire to rebel.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.22.1
+  kind: p
+  original: ''
+  en: The principle of each for himself, that is, of war of all against all, has come in the course of time to complicate, lead astray, and paralyze the war of all combined against nature, for the common advantage of the human race, which could only be completely successful by acting on the principle of all for each, and each for all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.1
+  kind: p
+  original: ''
+  en: Great have been the evils which humanity has suffered by this intermingling of domination and exploitation with human association.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.2
+  kind: p
+  original: ''
+  en: But in spite of the atrocious oppression to which the masses submit, of the misery, vice, crime, and degradation which oppression and slavery produce, among the slaves and their masters, and in spite of the hatreds, the exterminating wars, and the antagonisms of artificially created interests, the social instinct has survived and even developed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.3
+  kind: p
+  original: ''
+  en: Co-operation, having been always the necessary condition for successful combat against external nature, has therefore been the permanent cause of men's coming together, and consequently of the development of their sympathetic sentiments.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.4
+  kind: p
+  original: ''
+  en: Even the oppression of the masses has itself caused the oppressed to fraternize among themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.5
+  kind: p
+  original: ''
+  en: Indeed it has been solely owing to this feeling of solidarity, more or less conscious and more or less widespread among the oppressed, that they have been able to endure the oppression, and that man has resisted the causes of death in his midst.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.24.1
+  kind: p
+  original: ''
+  en: In the present, the immense development of production, the growth of human needs which cannot be satisfied except by the united efforts of a large number of men in all countries, the extended means of communication, habits of travel, science, literature, commerce, even war itself--all these have drawn and are still drawing humanity into a compact body, every section of which, closely knit together, can find its satisfaction and liberty only in the development and health of all other sections composing the whole.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.25.1
+  kind: p
+  original: ''
+  en: The inhabitant of Naples is as much interested in the amelioration of the hygienic condition of the peoples on the banks of the Ganges, from whence the cholera is brought to him, as in the improvement of the sewerage of his own town.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.25.2
+  kind: p
+  original: ''
+  en: The well-being, liberty, or fortune of the mountaineer, lost among the precipices of the Appenines, does not depend alone on the state of well-being or of misery in which the inhabitants of his own village live, or even on the general condition of the Italian people, but also on the condition of the workers in America, or Australia, on the discovery of a Swedish scientist, on the moral and material conditions of the Chinese, on war or peace in Africa; in short, it depends on all the great and small circumstances which affect the human being in any spot whatever of the world.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.26.1
+  kind: p
+  original: ''
+  en: In the present condition of society, the vast solidarity which unites all men is in a great degree unconscious, since it arises spontaneously from the friction of particular interests, while men occupy themselves little or not at all with general interests.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.26.2
+  kind: p
+  original: ''
+  en: And this is the most evident proof that solidarity is the natural law of human life, which imposes itself, so to speak, in spite of all obstacles, and even those artificially created by society as at present constituted.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.27.1
+  kind: p
+  original: ''
+  en: On the other hand, the oppressed masses, never wholly resigned to oppression and misery, who today more than ever show themselves ardent for justice, liberty, and well-being, are beginning to understand that they cannot emancipate themselves except by uniting, through solidarity with all the oppressed and exploited over the whole world.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.27.2
+  kind: p
+  original: ''
+  en: And they understand also that the indispensable condition of their emancipation is the possession of the means of production, of the soil and of the instruments of labor, and further the abolition of private property.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.27.3
+  kind: p
+  original: ''
+  en: Science and the observation of social phenomena show that this abolition would be of immense advantage in the end, even to the privileged classes, if only they could bring themselves to renounce the spirit of domination, and concur with all their fellow men in laboring for the common good.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.28.1
+  kind: p
+  original: ''
+  en: Now, should the oppressed masses some day refuse to work for their oppressors, should they take possession of the soil and the instruments of labor, and apply them for their own use and advantage, and that of all who work, should they no longer submit to the domination, either of brute force or economic privilege; should the spirit of human fellowship and the sentiment of human solidarity, strengthened by common interests, grow among the people, and put an end to strife between nations; then what ground would there be for the existence of a government?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.29.1
+  kind: p
+  original: ''
+  en: Private property abolished, government--which is its defender--must disappear.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.29.2
+  kind: p
+  original: ''
+  en: Should it survive, it would continually tend to reconstruct, under one form or another, a privileged and oppressive class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.30.1
+  kind: p
+  original: ''
+  en: And the abolition of government does not, nor cannot, signify the doing away with human association.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.31.1
+  kind: p
+  original: ''
+  en: Far otherwise, for that co-operation which today is enforced, and directed to the advantage of the few, would be free and voluntary, directed to the advantage of all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.31.2
+  kind: p
+  original: ''
+  en: Therefore it would become more intense and efficacious.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.32.1
+  kind: p
+  original: ''
+  en: The social instinct and the sentiment of solidarity would develop to the highest degree; and every individual would do all in his power for the good of others, as much for the satisfaction of his own well understood interests as for the gratification of his sympathetic sentiments.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.33.1
+  kind: p
+  original: ''
+  en: By the free association of all, a social organization would arise through the spontaneous grouping of men according to their needs and sympathies, from the low to the high, from the simple to the complex, starting from the more immediate to arrive at the more distant and general interests.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.33.2
+  kind: p
+  original: ''
+  en: This organization would have for its aim the greatest good and fullest liberty to all; it would embrace all humanity in one common brotherhood, and would be modified and improved as circumstances were modified and changed, according to the teachings of experience.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.34.1
+  kind: p
+  original: ''
+  en: This society of free men, this society of friends would be Anarchy.
+  modern: ''
+  modern_status: empty
+  notes: ''

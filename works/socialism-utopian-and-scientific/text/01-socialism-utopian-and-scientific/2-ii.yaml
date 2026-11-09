@@ -1,0 +1,686 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: II
+title_original: II
+title_en: II
+author: Friedrich Engels
+date: 1880-01/03; revised 1882 and 1891
+original_language: de
+anchor_language: de
+source_original: MEW 19, S. 177-228 (Dietz, Berlin) via mlwerke.de; text of the fourth German edition (1891)
+source_en: Edward Aveling's authorised translation (London 1892), Charles H. Kerr reprint (Chicago 1908), Project Gutenberg ebook 39257 (public domain)
+verses:
+- id: II.0.1
+  kind: heading
+  original: II
+  en: II
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.1
+  kind: p
+  original: Inzwischen war neben und nach der französischen Philosophie des 18. Jahrhunderts die neuere deutsche Philosophie entstanden und hatte in Hegel ihren Abschluß gefunden.
+  en: In the meantime, along with and after the French philosophy of the eighteenth century had arisen the new German philosophy, culminating in Hegel.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: II.1.2
+  kind: p
+  original: Ihr größtes Verdienst war die Wiederaufnahme der Dialektik als der höchsten Form des Denkens.
+  en: Its greatest merit was the taking up again of dialectics as the highest form of reasoning.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: II.1.3
+  kind: p
+  original: Die alten griechischen Philosophen waren alle geborne, naturwüchsige Dialektiker, und der universellste Kopf unter ihnen, Aristoteles, hat auch bereits die wesentlichsten Formen des dialektischen Denkens untersucht.
+  en: The old Greek philosophers were all born natural dialecticians, and Aristotle, the most encyclopaedic intellect of them, had already analyzed the most essential forms of dialectic thought.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: II.1.4
+  kind: p
+  original: Die neuere Philosophie dagegen, obwohl auch in ihr die Dialektik glänzende Vertreter hatte (z. B. Descartes und Spinoza), war besonders durch englischen Einfluß mehr und mehr in der sog. metaphysischen Denkweise festgefahren, von der auch die Franzosen des 18. Jahrhunderts, wenigstens in ihren speziell philosophischen Arbeiten, fast ausschließlich beherrscht wurden.
+  en: The newer philosophy, on the other hand, although in it also dialectics had brilliant exponents (e.g. Descartes and Spinoza), had, especially through English influence, become more and more rigidly fixed in the so-called metaphysical mode of reasoning, by which also the French of the eighteenth century were almost wholly dominated, at all events in their special philosophical work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: II.1.5
+  kind: p
+  original: Außerhalb der eigentlichen Philosophie waren sie ebenfalls imstande, Meisterwerke der Dialektik zu liefern; wir erinnern nur an "Rameaus Neffen" von Diderot und die "Abhandlung über den Ursprung der Ungleichheit unter den Menschen" von Rousseau.
+  en: Outside philosophy in the restricted sense, the French nevertheless produced masterpieces of dialectic. We need only call to mind Diderot's "Le Neveu de Rameau," and Rousseau's "Discours sur l'origine et les fondements de l'inegalite parmi les hommes."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.1.6
+  kind: p
+  original: Wir geben hier kurz das Wesentliche beider Denkmethoden an.
+  en: We give here, in brief, the essential character of these two modes of thought.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: II.2.1
+  kind: p
+  original: Wenn wir die Natur oder die Menschengeschichte oder unsre geistige Tätigkeit der denkenden Betrachtung unterwerfen, so bietet sich uns zunächst dar das Bild einer unendlichen Verschlingung von Zusammenhängen und Wechselwirkungen, in der nichts bleibt, was, wo und wie es war, sondern alles sich bewegt, sich verändert, wird und vergeht.
+  en: When we consider and reflect upon nature at large, or the history of mankind, or our own intellectual activity, at first we see the picture of an endless entanglement of relations and reactions, permutations and combinations, in which nothing remains what, where, and as it was, but everything moves, changes, comes into being and passes away.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: II.2.2
+  kind: p
+  original: Wir sehen zunächst also das Gesamtbild, in dem die Einzelheiten noch mehr oder weniger zurücktreten, wir achten mehr auf die Bewegung, die Übergänge, die Zusammenhänge, als auf das, was sich bewegt, übergeht und zusammenhängt.
+  en: We see, therefore, at first the picture as a whole, with its individual parts still more or less kept in the background; we observe the movements, transitions, connections, rather than the things that move, combine, and are connected.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: II.2.3
+  kind: p
+  original: 'Diese ursprüngliche, naive, aber der Sache nach richtige Anschauung von der Welt ist die der alten griechischen Philosophie und ist zuerst klar ausgesprochen von Heraklit: Alles ist und ist auch nicht, denn alles fließt, ist in steter Veränderung, in stetem Werden und Vergehen begriffen.'
+  en: 'This primitive, naive, but intrinsically correct conception of the world is that of ancient Greek philosophy, and was first clearly formulated by Heraclitus: everything is and is not, for everything is fluid, is constantly changing, constantly coming into being and passing away.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 202-203
+- id: II.2.4
+  kind: p
+  original: Aber diese Anschauung, so richtig sie auch den allgemeinen Charakter des Gesamtbildes der Erscheinungen erfaßt, genügt doch nicht, die Einzelheiten zu erklären, aus denen sich dies Gesamtbild zusammensetzt; und solange wir diese nicht kennen, sind wir auch über das Gesamtbild nicht klar.
+  en: But this conception, correctly as it expresses the general character of the picture of appearances as a whole, does not suffice to explain the details of which this picture is made up, and so long as we do not understand these, we have not a clear idea of the whole picture.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: II.2.5
+  kind: p
+  original: Um diese Einzelheiten zu erkennen, müssen wir sie aus ihrem natürlichen oder geschichtlichen Zusammenhang herausnehmen und sie, jede für sich, nach ihrer Beschaffenheit, ihren besondren Ursachen und Wirkungen etc. untersuchen.
+  en: In order to understand these details we must detach them from their natural or historical connection and examine each one separately, its nature, special causes, effects, etc.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: II.2.6
+  kind: p
+  original: Dies ist zunächst die Aufgabe der Naturwissenschaft und Geschichtsforschung; Untersuchungszweige, die aus sehr guten Gründen bei den Griechen der klassischen Zeit einen nur untergeordneten Rang einnahmen, weil diese vor allem erst das Material dafür zusammenschleppen mußten.
+  en: This is, primarily, the task of natural science and historical research; branches of science which the Greeks of classical times, on very good grounds, relegated to a subordinate position, because they had first of all to collect materials for these sciences to work upon.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: II.2.7
+  kind: p
+  original: Erst nachdem der natürliche und geschichtliche Stoff bis auf einen gewissen Grad angesammelt ist, kann die kritische Sichtung, die Vergleichung beziehungsweise die Einteilung in Klassen, Ordnungen und Arten in Angriff genommen werden.
+  en: A certain amount of natural and historical material must be collected before there can be any critical analysis, comparison, and arrangement in classes, orders, and species.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: II.2.8
+  kind: p
+  original: Die Anfänge der exakten Naturforschung werden daher erst bei den Griechen der alexandrinischen Periode und später, im Mittelalter, von den Arabern weiterentwickelt; eine wirkliche Naturwissenschaft datiert indes erst von der zweiten Hälfte des 15. Jahrhunderts, und von da an hat sie mit stets wachsender Geschwindigkeit Fortschritte gemacht.
+  en: The foundations of the exact natural sciences were, therefore, first worked out by the Greeks of the Alexandrian period, and later on, in the Middle Ages, by the Arabs. Real natural science dates from the second half of the fifteenth century, and thence onward it has advanced with constantly increasing rapidity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.2.9
+  kind: p
+  original: Die Zerlegung der Natur in ihre einzelnen Teile, die Sonderung der verschiednen Naturvorgänge und Naturgegenstände in bestimmte Klassen, die Untersuchung des Innern der organischen Körper nach ihren mannigfachen anatomischen Gestaltungen war die Grundbedingung der Riesenfortschritte, die die letzten vierhundert Jahre uns in der Erkenntnis der Natur gebracht.
+  en: The analysis of Nature into its individual parts, the grouping of the different natural processes and objects in definite classes, the study of the internal anatomy of organized bodies in their manifold forms--these were the fundamental conditions of the gigantic strides in our knowledge of Nature that have been made during the last four hundred years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: II.2.10
+  kind: p
+  original: Aber sie hat uns ebenfalls die Gewohnheit hinterlassen, die Naturdinge und Naturvorgänge in ihrer Vereinzelung, außerhalb des großen Gesamtzusammenhangs aufzufassen; daher nicht in ihrer Bewegung, sondern in ihrem Stillstand; nicht als wesentlich veränderliche, sondern als feste Bestände; nicht in ihrem Leben, sondern in ihrem Tod.
+  en: But this method of work has also left us as legacy the habit of observing natural objects and processes in isolation, apart from their connection with the vast whole; of observing them in repose, not in motion; as constants, not as essentially variables; in their death, not in their life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: II.2.11
+  kind: p
+  original: Und indem, wie dies durch Bacon und Locke geschah, diese Anschauungsweise aus der Naturwissenschaft sich in die Philosophie übertrug, schuf sie die spezifische Borniertheit der letzten Jahrhunderte, die metaphysische Denkweise.
+  en: And when this way of looking at things was transferred by Bacon and Locke from natural science to philosophy, it begot the narrow, metaphysical mode of thought peculiar to the last century.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: II.3.1
+  kind: p
+  original: Für den Metaphysiker sind die Dinge und ihre Gedankenabbilder, die Begriffe, vereinzelte, eins nach dem andern und ohne das andre zu betrachtende, feste, starre, ein für allemal gegebne Gegenstände der Untersuchung.
+  en: To the metaphysician, things and their mental reflexes, ideas, are isolated, are to be considered one after the other and apart from each other, are objects of investigation fixed, rigid, given once for all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: II.3.2
+  kind: p
+  original: Er denkt in lauter unvermittelten Gegensätzen; seine Rede ist ja, ja, nein, nein, was darüber ist, das ist vom Übel.
+  en: He thinks in absolutely irreconcilable antitheses. "His communication is 'yea, yea; nay, nay;' for whatsoever is more than these cometh of evil."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.3.3
+  kind: p
+  original: 'Für ihn existiert ein Ding entweder, oder es existiert nicht: Ein Ding kann ebensowenig zugleich es selbst und ein andres sein.'
+  en: For him a thing either exists or does not exist; a thing cannot at the same time be itself and something else.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 203-204
+- id: II.3.4
+  kind: p
+  original: Positiv und negativ schließen einander absolut aus; Ursache und Wirkung stehn ebenso in starrem Gegensatz zueinander.
+  en: Positive and negative absolutely exclude one another; cause and effect stand in a rigid antithesis one to the other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: II.3.5
+  kind: p
+  original: Diese Denkweise erscheint uns auf den ersten Blick deswegen äußerst einleuchtend, weil sie diejenige des sogenannten gesunden Menschenverstands ist.
+  en: At first sight this mode of thinking seems to us very luminous, because it is that of so-called sound commonsense.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: II.3.6
+  kind: p
+  original: Allein der gesunde Menschenverstand, ein so respektabler Geselle er auch in dem hausbacknen Gebiet seiner vier Wände ist, erlebt ganz wunderbare Abenteuer, sobald er sich in die weite Welt der Forschung wagt; und die metaphysische Anschauungsweise, auf so weiten, je nach der Natur des Gegenstands ausgedehnten Gebieten sie auch berechtigt und sogar notwendig ist, stößt doch jedesmal früher oder später auf eine Schranke, jenseits welcher sie einseitig, borniert, abstrakt wird und sich in unlösliche Widersprüche verirrt, weil sie über den einzelnen Dingen deren Zusammenhang, über ihrem Sein ihr Werden und Vergehn, über ihrer Ruhe ihre Bewegung vergißt, weil sie vor lauter Bäumen den Wald nicht sieht.
+  en: Only sound commonsense, respectable fellow that he is, in the homely realm of his own four walls, has very wonderful adventures directly he ventures out into the wide world of research. And the metaphysical mode of thought, justifiable and necessary as it is in a number of domains whose extent varies according to the nature of the particular object of investigation, sooner or later reaches a limit, beyond which it becomes one-sided, restricted, abstract, lost in insoluble contradictions. In the contemplation of individual things, it forgets the connection between them; in the contemplation of their existence, it forgets the beginning and end of that existence; of their repose, it forgets their motion. It cannot see the wood for the trees.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s); extra en sentence with no de counterpart
+- id: II.3.7
+  kind: p
+  original: Für alltägliche Fälle wissen wir z.B. und können mit Bestimmtheit sagen, ob ein Tier existiert oder nicht; bei genauerer Untersuchung finden wir aber, daß dies manchmal eine höchst verwickelte Sache ist, wie das die Juristen sehr gut wissen, die sich umsonst abgeplagt haben, eine rationelle Grenze zu entdecken, von der an die Tötung des Kindes im Mutterleibe Mord ist; und ebenso unmöglich ist es, den Moment des Todes festzustellen, indem die Physiologie nachweist, daß der Tod nicht ein einmaliges, augenblickliches Ereignis, sondern ein sehr langwieriger Vorgang ist.
+  en: For everyday purposes we know and can say e.g., whether an animal is alive or not. But, upon closer inquiry, we find that this is, in many cases, a very complex question, as the jurists know very well. They have cudgelled their brains in vain to discover a rational limit beyond which the killing of the child in its mother's womb is murder.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: II.3.8
+  kind: p
+  original: Ebenso ist jedes organische Wesen in jedem Augenblick dasselbe und nicht dasselbe; in jedem Augenblick verarbeitet es von außen zugeführte Stoffe und scheidet andre aus, in jedem Augenblick sterben Zellen seines Körpers ab und bilden sich neue; je nach einer längern oder kürzern Zeit ist der Stoff dieses Körpers vollständig erneuert, durch andre Stoffatome ersetzt worden, so daß jedes organisierte Wesen stets dasselbe und doch ein andres ist.
+  en: It is just as impossible to determine absolutely the moment of death, for physiology proves that death is not an instantaneous, momentary phenomenon, but a very protracted process. In like manner, every organized being is every moment the same and not the same; every moment it assimilates matter supplied from without, and gets rid of other matter; every moment some cells of its body die and others build themselves anew; in a longer or shorter time the matter of its body is completely renewed, and is replaced by other molecules of matter, so that every organized being is always itself, and yet something other than itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: 1880 (French edition)
+    reading: 'In der französischen Ausgabe: organische'
+    base_text: … so daß jedes organisierte ‸ Wesen stets dasselbe und …
+  mew_page: '204'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.3.9
+  kind: p
+  original: Auch finden wir bei genaurer Betrachtung, daß die beiden Pole eines Gegensatzes, wie positiv und negativ, ebenso untrennbar voneinander wie entgegengesetzt sind und daß sie trotz aller Gegensätzlichkeit sich gegenseitig durchdringen; ebenso, daß Ursache und Wirkung Vorstellungen sind, die nur in der Anwendung auf den einzelnen Fall als solche Gültigkeit haben, daß sie aber, sowie wir den einzelnen Fall in seinem allgemeinen Zusammenhang mit dem Weltganzen betrachten, zusammengehn, sich auflösen in der Anschauung der universellen Wechselwirkung, wo Ursachen und Wirkungen fortwährend ihre Stelle wechseln, das, was jetzt oder hier Wirkung, dort oder dann Ursache wird und umgekehrt.
+  en: Further, we find upon closer investigation that the two poles of an antithesis, positive and negative, e.g., are as inseparable as they are opposed, and that despite all their opposition, they mutually interpenetrate. And we find, in like manner, that cause and effect are conceptions which only hold good in their application to individual cases; but as soon as we consider the individual cases in their general connection with the universe as a whole, they run into each other, and they become confounded when we contemplate that universal action and reaction in which causes and effects are eternally changing places, so that what is effect here and now will be cause there and then, and vice versa.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 204-205
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.4.1
+  kind: p
+  original: Alle diese Vorgänge und Denkmethoden passen nicht in den Rahmen des metaphysischen Denkens hinein.
+  en: None of these processes and modes of thought enters into the framework of metaphysical reasoning.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: II.4.2
+  kind: p
+  original: Für die Dialektik dagegen, die die Dinge und ihre begrifflichen Abbilder wesentlich in ihrem Zusammenhang, ihrer Verkettung, ihrer Bewegung, ihrem Entstehn und Vergehn auffaßt, sind Vorgänge wie die obigen ebensoviel Bestätigungen ihrer eignen Verfahrungsweise.
+  en: Dialectics, on the other hand, comprehends things and their representations, ideas, in their essential connection, concatenation, motion, origin, and ending. Such processes as those mentioned above are, therefore, so many corroborations of its own method of procedure.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.4.3
+  kind: p
+  original: Die Natur ist die Probe auf die Dialektik, und wir müssen es der modernen Naturwissenschaft nachsagen, daß sie für diese Probe ein äußerst reichliches, sich täglich häufendes Material, geliefert und damit bewiesen hat, daß es in der Natur, in letzter Instanz, dialektisch und nicht metaphysisch hergeht, daß sie sich nicht im ewigen Einerlei eines stets wiederholten Kreises bewegt, sondern eine wirkliche Geschichte durchmacht.
+  en: Nature is the proof of dialectics, and it must be said for modern science that it has furnished this proof with very rich materials increasing daily, and thus has shown that, in the last resort, Nature works dialectically and not metaphysically; that she does not move in the eternal oneness of a perpetually recurring circle, but goes through a real historical evolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: II.4.4
+  kind: p
+  original: Hier ist vor allen Darwin zu nennen, der der metaphysischen Naturauffassung den gewaltigsten Stoß versetzt hat durch seinen Nachweis, daß die ganze heutige organische Natur, Pflanzen und Tiere und damit auch der Mensch, das Produkt eines durch Millionen Jahre fortgesetzten Entwicklungsprozesses ist.
+  en: In this connection Darwin must be named before all others. He dealt the metaphysical conception of Nature the heaviest blow by his proof that all organic beings, plants, animals, and man himself, are the products of a process of evolution going on through millions of years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.4.5
+  kind: p
+  original: Da aber die Naturforscher bis jetzt zu zählen sind, die dialektisch zu denken gelernt haben, so erklärt sich aus diesem Konflikt der entdeckten Resultate mit der hergebrachten Denkweise die grenzenlose Verwirrung, die jetzt in der theoretischen Naturwissenschaft herrscht und die Lehrer wie Schüler, Schriftsteller wie Leser zur Verzweiflung bringt.
+  en: But the naturalists who have learned to think dialectically are few and far between, and this conflict of the results of discovery with preconceived modes of thinking explains the endless confusion now reigning in theoretical natural science, the despair of teachers as well as learners, of authors and readers alike.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: II.5.1
+  kind: p
+  original: Eine exakte Darstellung des Weltganzen, seiner Entwicklung und der der Menschheit sowie des Spiegelbildes dieser Entwicklung in den Köpfen der Menschen, kann also nur auf dialektischem Wege, mit steter Beachtung der allgemeinen Wechselwirkungen des Werdens und Vergehens, der fort- oder rückschreitenden Änderungen zustande kommen.
+  en: An exact representation of the universe, of its evolution, of the development of mankind, and of the reflection of this evolution in the minds of men, can therefore only be obtained by the methods of dialectics with its constant regard to the innumerable actions and reactions of life and death, of progressive or retrogressive changes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: II.5.2
+  kind: p
+  original: Und in diesem Sinne trat die neuere deutsche Philosophie auch sofort auf.
+  en: And in this spirit the new German philosophy has worked.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: II.5.3
+  kind: p
+  original: 'Kant eröffnete seine Laufbahn damit, daß er das stabile Newtonsche Sonnensystem und seine - nachdem der famose erste Anstoß einmal gegeben - ewige Dauer auflöste in einen geschichtlichen Vorgang: in die Entstehung der Sonne und aller Planeten aus einer rotierenden Nebelmasse.'
+  en: Kant began his career by resolving the stable solar system of Newton and its eternal duration, after the famous initial impulse had once been given, into the result of a historic process, the formation of the sun and all the planets out of a rotating nebulous mass.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: II.5.4
+  kind: p
+  original: Dabei zog er bereits die Folgerung, daß mit dieser Entstehung ebenfalls der künftige Untergang des Sonnensystems notwendig gegeben sei.
+  en: From this he at the same time drew the conclusion that, given this origin of the solar system, its future death followed of necessity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: II.5.5
+  kind: p
+  original: Seine Ansicht wurde ein halbes Jahrhundert später durch Laplace mathematisch begründet, und noch ein halbes Jahr hundert später wies das Spektroskop die Existenz solcher glühenden Gasmassen, in verschiednen Stufen der Verdichtung, im Weltraum nach.
+  en: His theory half a century later was established mathematically by Laplace, and half a century after that the spectroscope proved the existence in space of such incandescent masses of gas in various stages of condensation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: II.6.1
+  kind: p
+  original: Ihren Abschluß fand diese neuere deutsche Philosophie im Hegelschen System, worin zum erstenmal - und das ist sein großes Verdienst - die ganze natürliche, geschichtliche und geistige Welt als ein Prozeß, d.h. als in steter Bewegung, Veränderung, Umbildung und Entwicklung begriffen, dargestellt und der Versuch gemacht wurde, den innern Zusammenhang in dieser Bewegung und Entwicklung nachzuweisen.
+  en: This new German philosophy culminated in the Hegelian system. In this system--and herein is its great merit--for the first time the whole world, natural, historical, intellectual, is represented as a process, i.e., as in constant motion, change, transformation, development; and the attempt is made to trace out the internal connection that makes a continuous whole of all this movement and development.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.6.2
+  kind: p
+  original: Von diesem Gesichtspunkt aus erschien die Geschichte der Menschheit nicht mehr als ein wüstes Gewirr sinnloser Gewalttätigkeiten, die vor dem Richterstuhl der jetzt gereiften Philosophenvernunft alle gleich verwerflich sind und die man am besten so rasch wie möglich vergißt, sondern als der Entwicklungsprozeß der Menschheit selbst, dessen allmählichen Stufengang durch alle Irrwege zu verfolgen und dessen innere Gesetzmäßigkeit durch alle scheinbaren Zufälligkeiten hindurch nachzuweisen jetzt die Aufgabe des Denkens wurde.
+  en: From this point of view the history of mankind no longer appeared as a wild whirl of senseless deeds of violence, all equally condemnable at the judgment seat of mature philosophic reason, and which are best forgotten as quickly as possible; but as the process of evolution of man himself. It was now the task of the intellect to follow the gradual march of this process through all its devious ways, and to trace out the inner law running through all its apparently accidental phenomena.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.7.1
+  kind: p
+  original: Daß das Hegelsche System die Aufgabe nicht löste, die es sich gestellt, ist hier gleichgültig.
+  en: That the Hegelian system did not solve the problem it propounded is here immaterial.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: II.7.2
+  kind: p
+  original: Sein epochemachendes Verdienst war, sie gestellt zu haben.
+  en: Its epoch-making merit was that it propounded the problem.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: II.7.3
+  kind: p
+  original: Es ist eben eine Aufgabe, die kein einzelner je wird lösen können.
+  en: This problem is one that no single individual will ever be able to solve.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: II.7.4
+  kind: p
+  original: Obwohl Hegel - neben Saint-Simon - der universellste Kopf seiner Zeit war, so war er doch beschränkt erstens durch den notwendig begrenzten Umfang seiner eignen Kenntnisse und zweitens durch die ebenfalls nach Umfang und Tiefe begrenzten Kenntnisse und Anschauungen seiner Epoche.
+  en: Although Hegel was--with Saint Simon--the most encyclopaedic mind of his time, yet he was limited, first, by the necessarily limited extent of his own knowledge, and, second, by the limited extent and depth of the knowledge and conceptions of his age.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: II.7.5
+  kind: p
+  original: Dazu aber kam noch ein Drittes.
+  en: To these limits a third must be added.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: II.7.6
+  kind: p
+  original: Hegel war Idealist, d.h., ihm galten die Gedanken seines Kopfs nicht als die mehr oder weniger abstrakten Abbilder der wirklichen Dinge und Vorgänge, sondern umgekehrt galten ihm die Dinge und ihre Entwicklung nur als die verwirklichten Abbilder der irgendwie schon vor der Welt existierenden "Idee".
+  en: Hegel was an idealist. To him the thoughts within his brain were not the more or less abstract pictures of actual things and processes, but, conversely, things and their evolution were only the realized pictures of the "Idea," existing somewhere from eternity before the world was.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.7.7
+  kind: p
+  original: Damit war alles auf den Kopf gestellt und der wirkliche Zusammenhang der Welt vollständig umgekehrt.
+  en: This way of thinking turned everything upside down, and completely reversed the actual connection of things in the world.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: II.7.8
+  kind: p
+  original: Und so richtig und genial daher auch manche Einzelzusammenhänge von Hegel aufgefaßt wurden, so mußte doch aus den angegebnen Gründen auch im Detail vieles geflickt, gekünstelt, konstruiert, kurz, verkehrt ausfallen.
+  en: Correctly and ingeniously as many individual groups of facts were grasped by Hegel, yet, for the reasons just given, there is much that is botched, artificial, labored, in a word, wrong in point of detail.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: II.7.9
+  kind: p
+  original: Das Hegelsche System als solches war eine kolossale Fehlgeburt - aber auch die letzte ihrer Art.
+  en: The Hegelian system, in itself, was a colossal miscarriage--but it was also the last of its kind.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: II.7.10
+  kind: p
+  original: 'Es litt nämlich noch an einem innern unheilbaren Widerspruch: einerseits hatte es zur wesentlichen Voraussetzung die historische Anschauung, wonach die menschliche Geschichte ein Entwicklungsprozeß ist, der seiner Natur nach nicht durch die Entdeckung einer sogenannten absoluten Wahrheit seinen intellektuellen Abschluß finden kann; andrerseits aber behauptet es, der Inbegriff eben dieser absoluten Wahrheit zu sein.'
+  en: It was suffering, in fact, from an internal and incurable contradiction. Upon the one hand, its essential proposition was the conception that human history is a process of evolution, which, by its very nature, cannot find its intellectual final term in the discovery of any so-called absolute truth. But, on the other hand, it laid claim to being the very essence of this absolute truth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: II.7.11
+  kind: p
+  original: Ein allumfassendes, ein für allemal abschließendes System der Erkenntnis von Natur und Geschichte steht im Widerspruch mit den Grundgesetzen des dialektischen Denkens; was indes keineswegs ausschließt, sondern im Gegenteil einschließt, daß die systematische Erkenntnis der gesamten äußern Welt von Geschlecht zu Geschlecht Riesenfortschritte machen kann.
+  en: A system of natural and historical knowledge, embracing everything, and final for all time, is a contradiction to the fundamental law of dialectic reasoning. This law, indeed, by no means excludes, but, on the contrary, includes the idea that the systematic knowledge of the external universe can make giant strides from age to age.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 206-207
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.8.1
+  kind: p
+  original: Die Einsicht in die totale Verkehrtheit des bisherigen deutschen Idealismus führte notwendig zum Materialismus, aber wohlgemerkt, nicht zum bloß metaphysischen, ausschließlich mechanischen Materialismus des 18. Jahrhunderts.
+  en: The perception of the fundamental contradiction in German idealism led necessarily back to materialism, but nota bene, not to the simply metaphysical, exclusively mechanical materialism of the eighteenth century.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: II.8.2
+  kind: p
+  original: Gegenüber der naiv-revolutionären, einfachen Verwerfung aller frühern Geschichte sieht der moderne Materialismus in der Geschichte den Entwicklungsprozeß der Menschheit, dessen Bewegungsgesetze zu entdecken seine Aufgabe ist.
+  en: Old materialism looked upon all previous history as a crude heap of irrationality and violence; modern materialism sees in it the process of evolution of humanity, and aims at discovering the laws thereof.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: II.8.3
+  kind: p
+  original: Gegenüber der sowohl bei den Franzosen des 18. Jahrhunderts wie noch bei Hegel herrschenden Vorstellung von der Natur als eines sich in engen Kreisläufen bewegenden, sich stets gleichbleibenden Ganzen mit ewigen Weltkörpern, wie sie Newton, und unveränderlichen Arten von organischen Wesen, wie sie Linné gelehrt hatte, faßt er die neueren Fortschritte der Naturwissenschaft zusammen, wonach die Natur ebenfalls ihre Geschichte in der Zeit hat, die Weltkörper wie die Artungen der Organismen, von denen sie unter günstigen Umständen bewohnt werden, entstehn und vergehn, und die Kreisläufe, soweit sie überhaupt zulässig bleiben, unendlich großartigere Dimensionen annehmen.
+  en: With the French of the eighteenth century, and even with Hegel, the conception obtained of Nature as a whole, moving in narrow circles, and forever immutable, with its eternal celestial bodies, as Newton, and unalterable organic species, as Linnaeus, taught. Modern materialism embraces the more recent discoveries of natural science, according to which Nature also has its history in time, the celestial bodies, like the organic species that, under favorable conditions, people them, being born and perishing. And even if Nature, as a whole, must still be said to move in recurrent cycles, these cycles assume infinitely larger dimensions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: II.8.4
+  kind: p
+  original: In beiden Fällen ist er wesentlich dialektisch und braucht keine über den andern Wissenschaften stehende Philosophie mehr.
+  en: In both aspects, modern materialism is essentially dialectic, and no longer requires the assistance of that sort of philosophy which, queen-like, pretended to rule the remaining mob of sciences.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: II.8.5
+  kind: p
+  original: Sobald an jede einzelne Wissenschaft die Forderung herantritt, über ihre Stellung im Gesamtzusammenhang der Dinge und der Kenntnis von den Dingen sich klarzuwerden, ist jede besondre Wissenschaft vom Gesamtzusammenhang überflüssig.
+  en: As soon as each special science is bound to make clear its position in the great totality of things and of our knowledge of things, a special science dealing with this totality is superfluous or unnecessary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: II.8.6
+  kind: p
+  original: Was von der ganzen bisherigen Philosophie dann noch selbständig bestehenbleibt, ist die Lehre vom Denken und seinen Gesetzen - die formelle Logik und die Dialektik.
+  en: That which still survives of all earlier philosophy is the science of thought and its laws--formal logic and dialectics.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: II.8.7
+  kind: p
+  original: Alles andre geht auf in die positive Wissenschaft von Natur und Geschichte.
+  en: Everything else is subsumed in the positive science of Nature and history.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: II.9.1
+  kind: p
+  original: Während jedoch der Umschwung in der Naturanschauung nur in dem Maß sich vollziehn konnte, als die Forschung den entsprechenden positiven Erkenntnisstoff lieferte, hatten sich schon viel früher historische Tatsachen geltend gemacht, die für die Geschichtsauffassung eine entscheidende Wendung herbeiführten.
+  en: Whilst, however, the revolution in the conception of Nature could only be made in proportion to the corresponding positive materials furnished by research, already much earlier certain historical facts had occurred which led to a decisive change in the conception of history.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: II.9.2
+  kind: p
+  original: 1831 hatte in Lyon der erste Arbeiteraufstand stattgefunden; 1838 bis 1842 erreichte die erste nationale Arbeiterbewegung, die der englischen Chartisten, ihren Höhepunkt.
+  en: In 1831, the first working-class rising took place in Lyons; between 1838 and 1842, the first national working-class movement, that of the English Chartists, reached its height.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: II.9.3
+  kind: p
+  original: Der Klassenkampf zwischen Proletariat und Bourgeoisie trat in den Vordergrund der Geschichte der fortgeschrittensten Länder Europas, in demselben Maß, wie sich dort einerseits die große Industrie, andrerseits die neueroberte politische Herrschaft der Bourgeoisie entwickelte.
+  en: The class struggle between proletariat and bourgeoisie came to the front in the history of the most advanced countries in Europe, in proportion to the development, upon the one hand, of modern industry, upon the other, of the newly-acquired political supremacy of the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: II.9.4
+  kind: p
+  original: Die Lehren der bürgerlichen Ökonomie von der Identität der Interessen von Kapital und Arbeit, von der allgemeinen Harmonie und dem allgemeinen Volkswohlstand als Folge der freien Konkurrenz wurden immer schlagender von den Tatsachen Lügen gestraft.
+  en: Facts more and more strenuously gave the lie to the teachings of bourgeois economy as to the identity of the interests of capital and labor, as to the universal harmony and universal prosperity that would be the consequence of unbridled competition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 207-208
+- id: II.9.5
+  kind: p
+  original: Alle diese Dinge waren nicht mehr abzuweisen, ebensowenig wie der französische und englische Sozialismus, der ihr theoretischer, wenn auch höchst unvollkommner Ausdruck war.
+  en: All these things could no longer be ignored, any more than the French and English Socialism, which was their theoretical, though very imperfect, expression.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: II.9.6
+  kind: p
+  original: Aber die alte idealistische Geschichtsauffassung, die noch nicht verdrängt war, kannte keine auf materiellen Interessen beruhenden Massenkämpfe, überhaupt keine materiellen Interessen; die Produktion wie alle ökonomischen Verhältnisse kamen in ihr nur so nebenbei, als untergeordnete Elemente der "Kulturgeschichte" vor.
+  en: But the old idealist conception of history, which was not yet dislodged, knew nothing of class struggles based upon economic interests, knew nothing of economic interests; production and all economic relations appeared in it only as incidental, subordinate elements in the "history of civilization."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: II.10.1
+  kind: p
+  original: Die neuen Tatsachen zwangen dazu, die ganze bisherige Geschichte einer neuen Untersuchung zu unterwerfen, und da zeigte sich, daß alle bisherige Geschichte, mit Ausnahme der Urzustände, die Geschichte von Klassenkämpfen war, daß diese einander bekämpfenden Klassen der Gesellschaft jedesmal Erzeugnisse sind der Produktions- und Verkehrsverhältnisse, mit einem Wort, der ökonomischen Verhältnisse ihrer Epoche; daß also die jedesmalige ökonomische Struktur der Gesellschaft die reale Grundlage bildet, aus der der gesamte Überbau der rechtlichen und politischen Einrichtungen sowie der religiösen, philosophischen und sonstigen Vorstellungsweise eines jeden geschichtlichen Zeitabschnitts in letzter Instanz zu erklären sind.
+  en: The new facts made imperative a new examination of all past history. Then it was seen that all past history, with the exception of its primitive stages, was the history of class struggles; that these warring classes of society are always the products of the modes of production and of exchange--in a word, of the economic conditions of their time; that the economic structure of society always furnishes the real basis, starting from which we can alone work out the ultimate explanation of the whole superstructure of juridical and political institutions as well as of the religious, philosophical, and other ideas of a given historical period.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.10.2
+  kind: p
+  original: Hegel hatte die Geschichtsauffassung von der Metaphysik befreit, er hatte sie dialektisch gemacht - aber seine Auffassung der Geschichte war wesentlich idealistisch.
+  en: Hegel had freed history from metaphysics--he had made it dialectic; but his conception of history was essentially idealistic.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: II.10.3
+  kind: p
+  original: Jetzt war der Idealismus aus seinem letzten Zufluchtsort, aus der Geschichtsauffassung, vertrieben, eine materialistische Geschichtsauffassung gegeben und der Weg gefunden, um das Bewußtsein der Menschen aus ihrem Sein, statt wie bisher ihr Sein aus ihrem Bewußtsein zu erklären.
+  en: But now idealism was driven from its last refuge, the philosophy of history; now a materialistic treatment of history was propounded, and a method found of explaining man's "knowing" by his "being," instead of, as heretofore, his "being" by his "knowing."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: II.11.1
+  kind: p
+  original: Hiernach erschien jetzt der Sozialismus nicht mehr als zufällige Entdeckung dieses oder jenes genialen Kopfs, sondern als das notwendige Erzeugnis des Kampfes zweier geschichtlich entstandner Klassen, des Proletariats und der Bourgeoisie.
+  en: From that time forward Socialism was no longer an accidental discovery of this or that ingenious brain, but the necessary outcome of the struggle between two historically developed classes--the proletariat and the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: II.11.2
+  kind: p
+  original: Seine Aufgabe war nicht mehr, ein möglichst vollkommnes System der Gesellschaft zu verfertigen, sondern den geschichtlichen ökonomischen Verlauf zu untersuchen, dem diese Klassen und ihr Widerstreit mit Notwendigkeit entsprungen, und in der dadurch geschaffnen ökonomischen Lage die Mittel zur Lösung des Konflikts zu entdecken.
+  en: Its task was no longer to manufacture a system of society as perfect as possible, but to examine the historico-economic succession of events from which these classes and their antagonism had of necessity sprung, and to discover in the economic conditions thus created the means of ending the conflict.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: II.11.3
+  kind: p
+  original: Mit dieser materialistischen Auffassung war aber der bisherige Sozialismus ebenso unverträglich wie die Naturauffassung des französischen Materialismus mit der Dialektik und der neueren Naturwissenschaft.
+  en: But the Socialism of earlier days was as incompatible with this materialistic conception as the conception of Nature of the French materialists was with dialectics and modern natural science.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '208'
+- id: II.11.4
+  kind: p
+  original: Der bisherige Sozialismus kritisierte zwar die bestehende kapitalistische Produktionsweise und ihre Folgen, konnte sie aber nicht erklären, also auch nicht mit ihr fertig werden; er konnte sie nur einfach als schlecht verwerfen.
+  en: The Socialism of earlier days certainly criticised the existing capitalistic mode of production and its consequences. But it could not explain them, and, therefore, could not get the mastery of them. It could only simply reject them as bad.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 208-209
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: II.11.5
+  kind: p
+  original: Je heftiger er gegen die von ihr unzertrennliche Ausbeutung der Arbeiterklasse eiferte, desto weniger war er imstand, deutlich anzugeben, worin diese Ausbeutung bestehe und wie sie entstehe.
+  en: The more strongly this earlier Socialism denounced the exploitation of the working-class, inevitable under Capitalism, the less able was it clearly to show in what this exploitation consisted and how it arose.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: II.11.6
+  kind: p
+  original: Es handelte sich aber darum, die kapitalistische Produktionsweise einerseits in ihrem geschichtlichen Zusammenhang und ihrer Notwendigkeit für einen bestimmten geschichtlichen Zeitabschnitt, also auch die Notwendigkeit ihres Untergangs, darzustellen, andrerseits aber auch ihren innern Charakter bloßzulegen, der noch immer verborgen war.
+  en: But for this it was necessary--(1) to present the capitalistic method of production in its historical connection and its inevitableness during a particular historical period, and therefore, also, to present its inevitable downfall; and (2) to lay bare its essential character, which was still a secret.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: II.11.7
+  kind: p
+  original: Dies geschah durch die Enthüllung des Mehrwerts.
+  en: This was done by the discovery of surplus-value.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: II.11.8
+  kind: p
+  original: Es wurde bewiesen, daß die Aneignung unbezahlter Arbeit die Grundform der kapitalistischen Produktionsweise und der durch sie vollzognen Ausbeutung des Arbeiters ist; daß der Kapitalist, selbst wenn er die Arbeitskraft seines Arbeiters zum vollen Wert kauft, den sie als Ware auf dem Warenmarkt hat, dennoch mehr Wert aus ihr herausschlägt, als er für sie bezahlt hat; und daß dieser Mehrwert in letzter Instanz die Wertsumme bildet, aus der sich die stets wachsende Kapitalmasse in den Händen der besitzenden Klassen anhäuft.
+  en: It was shown that the appropriation of unpaid labor is the basis of the capitalist mode of production and of the exploitation of the worker that occurs under it; that even if the capitalist buys the labor-power of his laborer at its full value as a commodity on the market, he yet extracts more value from it than he paid for; and that in the ultimate analysis this surplus-value forms those sums of value from which are heaped up the constantly increasing masses of capital in the hands of the possessing classes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: II.11.9
+  kind: p
+  original: Der Hergang sowohl der kapitalistischen Produktion wie der Produktion von Kapital war erklärt.
+  en: The genesis of capitalist production and the production of capital were both explained.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: II.12.1
+  kind: p
+  original: 'Diese beiden großen Entdeckungen: die materialistische Geschichtsauffassung und die Enthüllung des Geheimnisses der kapitalistischen Produktion vermittelst des Mehrwerts verdanken wir Marx.'
+  en: These two great discoveries, the materialistic conception of history and the revelation of the secret of capitalistic production through surplus-value, we owe to Marx.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+- id: II.12.2
+  kind: p
+  original: Mit ihnen wurde der Sozialismus eine Wissenschaft, die es sich nun zunächst darum handelt, in allen ihren Einzelnheiten und Zusammenhängen weiter auszuarbeiten.
+  en: With these discoveries Socialism became a science. The next thing was to work out all its details and relations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '209'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)

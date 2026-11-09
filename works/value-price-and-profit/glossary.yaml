@@ -1,0 +1,44 @@
+# Glossary of recurring terms in Value, Price and Profit (VPP).
+# The original is English, so these entries are about modernising, not translating.
+# status: open | interim | decided
+
+- term: labouring power
+  original: labouring power, labour power
+  literal: the worker's capacity to work, which is what the capitalist buys
+  options: [labor-power, ability to work, capacity to work]
+  interim: labor-power, matching WLC
+  status: open
+  verses: [VII.0.1, VII.3.1, VII.6.1]
+  note: Marx's 1865 English for what Capital calls Arbeitskraft. Keep it consistent with the WLC glossary.
+
+- term: value of labour, price of labour
+  original: value or price of labour
+  literal: an expression Marx shows to be a misleading surface form of the value of labour-power
+  options: [keep in quotation marks, explain on first use]
+  interim: keep the phrase where Marx uses it, with quotation marks when he is criticising it
+  status: open
+  verses: [IX.1.1, VII.1.1]
+
+- term: surplus value, surplus labour
+  original: surplus value, surplus labour, paid and unpaid labour
+  literal: the value workers create beyond what they are paid
+  options: [surplus value, unpaid work]
+  interim: surplus value, explained in plain words on first use
+  status: open
+  verses: [VIII.0.1, VIII.4.10, IX.4.2]
+
+- term: rent, interest, industrial profit
+  original: rent, interest, industrial profit
+  literal: the parts into which surplus value is divided among landowners, lenders and employers
+  options: [keep the terms]
+  interim: keep the terms
+  status: interim
+  verses: [XI.1.1, XI.1.4, XI.3.1]
+
+- term: wages system
+  original: the wages system
+  literal: the arrangement in which most people must sell their ability to work for a wage to live
+  options: [wage system, the wage system]
+  interim: the wage system
+  status: interim
+  verses: [VII.7.11, XIV.17.5]

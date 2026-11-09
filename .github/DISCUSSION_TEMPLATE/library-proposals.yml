@@ -1,0 +1,27 @@
+title: "[new work] "
+labels: ["new work"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Library proposals**: suggest the next work. Check docs/roadmap.md first; copyright decides what can go in.
+  - type: input
+    id: work
+    attributes:
+      label: Work, author, year
+    validations:
+      required: true
+  - type: input
+    id: original
+    attributes:
+      label: Original language and edition
+  - type: textarea
+    id: rights
+    attributes:
+      label: Copyright status of the original and of any English translation you would use
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this work now

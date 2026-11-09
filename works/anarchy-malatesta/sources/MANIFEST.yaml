@@ -1,0 +1,6 @@
+# Fetched 2026-11-09 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+- file: raw/en/gutenberg_40365.txt
+  role: english
+  url: https://raw.githubusercontent.com/GITenberg/Anarchy_40365/master/40365.txt
+  bytes: 117622
+  sha256: c1e699edccb681918cf0c2d260c07a0f4b7860f9a2d71caa16b6cb9c84b38595

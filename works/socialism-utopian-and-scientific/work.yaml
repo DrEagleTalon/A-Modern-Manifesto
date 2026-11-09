@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: socialism-utopian-and-scientific
+prefix: SUS                       # citation prefix: SUS III.25.12
+title: "Socialism: Utopian and Scientific"
+title_original: Die Entwicklung des Sozialismus von der Utopie zur Wissenschaft
+authors: [Friedrich Engels, Karl Marx (1880 preface)]
+year: 1880
+original_language: de
+base_text: "Fourth German edition (1891), as printed in MEW 19; Engels's 1892 English introduction from the English edition"
+order: 60
+columns:
+  original: German (MEW, 1891 text)
+  en: English 1892 (Aveling; Engels's own English for the 1892 introduction)
+  modern: Modern draft
+status: ready
+rights: Originals public domain. Aveling's 1892 English public domain (Project Gutenberg text). See SOURCES.md.

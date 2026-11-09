@@ -1,0 +1,802 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: II
+title_original: Lohnarbeit und Kapital, Neue Rheinische Zeitung Nr. 265, 6. April 1849
+title_en: Instalment II (NRZ No. 265, 6 April 1849)
+author: Karl Marx
+date: 1849-04
+original_language: de
+anchor_language: de
+source_original: 'MEW 6, S. 397-423 (Dietz, Berlin) via mlwerke.de: text of Engels''s 1891 edition; 1849 newspaper readings attached as variants'
+source_en: Harriet E. Lothrop, Wage-Labor and Capital, New York Labor News Co., 1902 (public domain), in the Marxists Internet Archive edition (proofed by Alek Blain, 2006; CC BY-SA), which modernises some wording and currency
+verses:
+- id: II.0.1
+  kind: heading
+  original: '[II] Neue Rheinische Zeitung Nr. 265, 6. April 1849'
+  en: '[II] Neue Rheinische Zeitung No. 265, 6 April 1849'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: 'Editorial heading: the newspaper instalment. Not printed in the 1891 pamphlet.'
+- id: II.1.1
+  kind: p
+  original: Wodurch wird der Preis einer Ware bestimmt?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T33
+    editions: 1849 (NRZ)
+    reading: 'vorangestellt: * Köln, 5. April'
+    base_text: ‸ Wodurch wird der Preis …
+  mew_page: '402'
+  en_note: The 1902 English renders this sentence together with I.18.1.
+  review: true
+  review_reason: English shared with a verse in the previous instalment
+- id: II.2.1
+  kind: p
+  original: Durch die Konkurrenz zwischen Käufern und Verkäufern, durch das Verhältnis der Nachfrage zur Zufuhr, des Begehrs zum Angebot.
+  en: By the competition between buyers and sellers, by the relation of the demand to the supply, of the call to the offer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T34
+    editions: 1849 (NRZ)
+    reading: 'umgestellt: des Angebots zum Begehr'
+    base_text: … des Begehrs zum Angebot ‸ . …
+  mew_page: '402'
+  en_note: 'Lothrop 1902, chapter 3: By what is the price of a commodity determined?'
+- id: II.2.2
+  kind: p
+  original: Die Konkurrenz, wodurch der Preis einer Ware bestimmt wird, ist dreiseitig.
+  en: The competition by which the price of a commodity is determined is threefold.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.3.1
+  kind: p
+  original: Dieselbe Ware wird von verschiednen Verkäufern angeboten.
+  en: The same commodity is offered for sale by various sellers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.3.2
+  kind: p
+  original: Wer Waren von derselben Güte am wohlfeilsten verkauft, ist sicher, die übrigen Verkäufer aus dem Felde zu schlagen und sich den größten Absatz zu sichern.
+  en: Whoever sells commodities of the same quality most cheaply, is sure to drive the other sellers from the field and to secure the greatest market for himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.3.3
+  kind: p
+  original: Die Verkäufer machen sich also wechselseitig den Absatz, den Markt streitig.
+  en: The sellers therefore fight among themselves for the sales, for the market.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.3.4
+  kind: p
+  original: Jeder von ihnen will verkaufen, möglichst viel verkaufen, und womöglich allein verkaufen mit Ausschluß der übrigen Verkäufer.
+  en: Each one of them wishes to sell, and to sell as much as possible, and if possible to sell alone, to the exclusion of all other sellers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.3.5
+  kind: p
+  original: Der eine verkauft daher wohlfeiler als der andre.
+  en: Each one sells cheaper than the other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.3.6
+  kind: p
+  original: Es findet also eine Konkurrenz unter den Verkäufern statt, die den Preis der von ihnen angebotnen Waren herabdrückt.
+  en: Thus there takes place a competition among the sellers which forces down the price of the commodities offered by them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.4.1
+  kind: p
+  original: Es findet aber auch eine Konkurrenz unter den Käufern statt, die ihrerseits den Preis der angebotnen Waren steigen macht.
+  en: But there is also a competition among the buyers; this upon its side causes the price of the proffered commodities to rise.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.5.1
+  kind: p
+  original: Es findet endlich eine Konkurrenz unter den Käufern und Verkäufern statt; die einen wollen möglichst wohlfeil kaufen, die andern wollen möglichst teuer verkaufen.
+  en: 'Finally, there is competition between the buyers and the sellers: these wish to purchase as cheaply as possible, those to sell as dearly as possible.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.5.2
+  kind: p
+  original: Das Resultat dieser Konkurrenz zwischen Käufern und Verkäufern wird davon abhängen, wie sich die beiden früher angegebnen Seiten der Konkurrenz verhalten, d.h. ob die Konkurrenz in dem Heer der Käufer oder die Konkurrenz in dem Heer der Verkäufer stärker ist.
+  en: The result of this competition between buyers and sellers will depend upon the relations between the two above-mentioned camps of competitors - i.e., upon whether the competition in the army of sellers is stronger.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.5.3
+  kind: p
+  original: Die Industrie führt zwei Heeresmassen gegeneinander ins Feld, wovon eine jede in ihren eignen Reihen zwischen ihren eignen Truppen wieder eine Schlacht liefert.
+  en: Industry leads two great armies into the field against each other, and each of these again is engaged in a battle among its own troops in its own ranks.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.5.4
+  kind: p
+  original: Die Heeresmasse, unter deren Truppen die geringste Prügelei stattfindet, trägt den Sieg über die entgegenstehende davon.
+  en: The army among whose troops there is less fighting, carries off the victory over the opposing host.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.6.1
+  kind: p
+  original: Nehmen wir an, es befänden sich 100 Baumwollballen auf dem Markt und gleichzeitig Käufer für 1.000 Baumwollballen.
+  en: Let us suppose that there are 100 bales of cotton in the market and at the same time purchasers for 1,000 bales of cotton.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T35
+    editions: 1849 (NRZ)
+    reading: 'fehlt: an'
+    base_text: … Nehmen wir an ‸ , es befänden sich …
+  mew_page: '402'
+- id: II.6.2
+  kind: p
+  original: In diesem Falle ist also die Nachfrage zehnmal größer als die Zufuhr.
+  en: In this case, the demand is 10 times greater than the supply.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.6.3
+  kind: p
+  original: Die Konkurrenz unter den Käufern wird also sehr stark sein, jeder derselben will einen, womöglich alle 100 Ballen an sich reißen.
+  en: Competition among the buyers, then, will be very strong; each of them tries to get hold of one bale, if possible, of the whole 100 bales.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '402'
+- id: II.6.4
+  kind: p
+  original: Dies Beispiel ist keine willkürliche Unterstellung.
+  en: This example is no arbitrary supposition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T36
+    editions: 1849 (NRZ)
+    reading: eine
+    base_text: … Dies Beispiel ist keine ‸ willkürliche Unterstellung. …
+  mew_page: '402'
+- id: II.6.5
+  kind: p
+  original: Wir haben in der Geschichte des Handels Perioden des Miß- wachses der Baumwolle erlebt, wo einige miteinander verbündete Kapitalisten nicht 100 Ballen, sondern den ganzen Baumwollvorrat der Erde an sich zu kaufen suchten.
+  en: In the history of commerce we have experienced periods of scarcity of cotton, when some capitalists united together and sought to buy up not 100 bales, but the whole cotton supply of the world.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 402-403
+- id: II.6.6
+  kind: p
+  original: In dem angegebnen Falle wird also ein Käufer den andern aus dem Felde zu schlagen suchen, indem er einen verhältnismäßig höhern Preis für den Baumwollballen anbietet.
+  en: In the given case, then, one buyer seeks to drive the others from the field by offering a relatively higher price for the bales of cotton.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.6.7
+  kind: p
+  original: Die Baumwollverkäufer, welche die Truppen des feindlichen Heeres im heftigsten Kampfe untereinander erblicken und des Verkaufs ihrer sämtlichen 100 Ballen völlig gesichert sind, werden sich hüten, untereinander sich in die Haare zu fallen, um die Preise der Baumwolle herabzudrücken, in einem Augenblick, wo ihre Gegner untereinander wetteifern, ihn in die Höhe zu schrauben.
+  en: The cotton sellers, who perceive the troops of the enemy in the most violent contention among themselves, and who therefore are fully assured of the sale of their whole 100 bales, will beware of pulling one another's hair in order to force down the price of cotton at the very moment in which their opponents race with one another to screw it up high.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.6.8
+  kind: p
+  original: Es ist also plötzlich Friede in das Heer der Verkäufer eingekehrt.
+  en: So, all of a sudden, peace reigns in the army of sellers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.6.9
+  kind: p
+  original: Sie stehn wie ein Mann den Käufern gegenüber, kreuzen sich philosophisch die Arme, und ihre Forderungen fänden keine Grenzen, fänden nicht die Anerbietungen selbst der zudringlichsten Kauflustigen ihre sehr bestimmten Grenzen.
+  en: They stand opposed to the buyers like one man, fold their arms in philosophic contentment and their claims would find no limit did not the offers of even the most importunate of buyers have a very definite limit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.7.1
+  kind: p
+  original: Ist also die Zufuhr einer Ware schwächer als die Nachfrage nach dieser Ware, so findet nur eine geringe oder gar keine Konkurrenz unter den Verkäufern statt.
+  en: If, then, the supply of a commodity is less than the demand for it, competition among the sellers is very slight, or there may be none at all among them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.7.2
+  kind: p
+  original: In demselben Verhältnis, wie diese Konkurrenz abnimmt, wächst die Konkurrenz unter den Käufern.
+  en: In the same proportion in which this competition decreases, the competition among the buyers increases.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.7.3
+  kind: p
+  original: 'Resultat: Mehr oder minder bedeutendes Steigen der Warenpreise.'
+  en: 'Result: a more or less considerable rise in the prices of commodities.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.8.1
+  kind: p
+  original: Es ist bekannt, daß der umgekehrte Fall mit umgekehrtem Resultat häufiger stattfindet.
+  en: It is well known that the opposite case, with the opposite result, happens more frequently.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.8.2
+  kind: p
+  original: 'Bedeutender Überschuß der Zufuhr über die Nachfrage: verzweifelte Konkurrenz unter den Verkäufern; Mangel an Käufern: Losschlagen der Waren zu Spottpreisen.'
+  en: Great excess of supply over demand; desperate competition among the sellers, and a lack of buyers; forced sales of commodities at ridiculously low prices.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.9.1
+  kind: p
+  original: Aber was heißt Steigen, Fallen der Preise, was heißt hoher Preis, niedriger Preis?
+  en: But what is a rise, and what a fall of prices? What is a high and what a low price?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.9.2
+  kind: p
+  original: Ein Sandkorn ist hoch durch ein Mikroskop betrachtet, und ein Turm ist niedrig mit einem Berg verglichen.
+  en: A grain of sand is high when examined through a microscope, and a tower is low when compared with a mountain.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.9.3
+  kind: p
+  original: Und wenn der Preis durch das Verhältnis von Nachfrage und Zufuhr bestimmt wird, wodurch wird das Verhältnis von Nachfrage und Zufuhr bestimmt?
+  en: And if the price is determined by the relation of supply and demand, by what is the relation of supply and demand determined?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.10.1
+  kind: p
+  original: Wenden wir uns an den ersten besten Bürger.
+  en: Let us turn to the first worthy citizen we meet.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.10.2
+  kind: p
+  original: Er wird sich keinen Augenblick besinnen und wie ein andrer Alexander der Große diesen metaphysischen Knoten mit dem Einmaleins zerhauen.
+  en: He will not hesitate one moment, but, like Alexander the Great, will cut this metaphysical knot with his multiplication table.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.10.3
+  kind: p
+  original: Wenn mich die Herstellung der Ware, die ich verkaufe, 100 Mark gekostet hat, wird er uns sagen, und ich aus dem Verkauf dieser Ware 110 Mark löse, nach Jahresfrist versteht sich - so ist das ein bürgerlicher, ein honetter, ein gesetzter Gewinn.
+  en: 'He will say to us: "If the production of the commodities which I sell has cost me 100 pounds, and out of the sale of these goods I make 110 pounds - within the year, you understand - that''s an honest, sound, reasonable profit.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.10.4
+  kind: p
+  original: Erhalte ich aber im Austausch 120, 130 Mark, so ist das ein hoher Gewinn; und löse ich gar 200 Mark, so wäre das ein außerordentlicher, ein enormer Gewinn.
+  en: But if in the exchange I receive 120 or 130 pounds, that's a higher profit; and if I should get as much as 200 pounds, that would be an extraordinary, and enormous profit."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T37
+    editions: 1849 (NRZ)
+    reading: 'fehlt: ein'
+    base_text: … das ein außerordentlicher, ein ‸ enormer Gewinn. …
+  mew_page: '403'
+- id: II.10.5
+  kind: p
+  original: Was dient dem Bürger also als Maß des Gewinns?
+  en: What is it, then, that serves this citizen as the standard of his profit?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '403'
+- id: II.10.6
+  kind: p
+  original: Die Produktionskosten seiner Ware.
+  en: The cost of the production of his commodities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 403-404
+- id: II.10.7
+  kind: p
+  original: Erhält er im Austausch dieser Ware eine Summe von andern Waren zurück, deren Herstellung weniger gekostet hat, so hat er verloren.
+  en: If in exchange for these goods he receives a quantity of other goods whose production has cost less, he has lost.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '404'
+- id: II.10.8
+  kind: p
+  original: Erhält er im Austausch gegen seine Ware eine Summe von andern Waren zurück, deren Herstellung mehr gekostet hat, so hat er gewonnen.
+  en: If he receives in exchange for his goods a quantity of other goods whose production has cost more, he has gained.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '404'
+- id: II.10.9
+  kind: p
+  original: Und das Fallen oder Steigen des Gewinns berechnet er nach den Graden, worin der Tauschwert seiner Ware unter oder über Null - der Produktionskosten - steht.
+  en: And he reckons the falling or rising of the profit according to the degree at which the exchange value of his goods stands, whether above or below his zero - the cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T38
+    editions: 1849 (NRZ)
+    reading: den
+    base_text: … über Null - der ‸ Produktionskosten - steht. …
+  mew_page: '404'
+- id: II.11.1
+  kind: p
+  original: Wir haben nun gesehn, wie das wechselnde Verhältnis von Nachfrage und Zufuhr bald Steigen, bald Fallen der Preise, bald hohe, bald niedrige Preise hervorbringt.
+  en: We have seen how the changing relation of supply and demand causes now a rise, now a fall of prices; now high, now low prices.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T39
+    editions: 1849 (NRZ)
+    reading: ein Absatz
+    base_text: … bald niedrige Preise hervorbringt. ‸  …
+  mew_page: '404'
+- id: II.11.2
+  kind: p
+  original: Steigt der Preis einer Ware bedeutend durch mangelnde Zufuhr oder unverhältnismäßig wachsende Nachfrage, so ist notwendig der Preis irgendeiner andern Ware verhältnismäßig gefallen; denn der Preis einer Ware drückt ja nur in Geld das Verhältnis aus, worin dritte Waren im Austausch für sie gegeben werden.
+  en: If the price of a commodity rises considerably owing to a failing supply or a disproportionately growing demand, then the price of some other commodity must have fallen in proportion; for of course the price of a commodity only expresses in money the proportion in which other commodities will be given in exchange for it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '404'
+- id: II.11.3
+  kind: p
+  original: Steigt z.B. der Preis einer Elle Seidenzeug von 5 Mark auf 6 Mark, so ist der Preis des Silbers im Verhältnis zum Seidenzeug gefallen, und ebenso ist der Preis aller andern Waren, die auf ihren alten Preisen stehngeblieben sind, im Verhältnis zum Seidenzeug gefallen.
+  en: If, for example, the price of a yard of silk rises from two to three shillings, the price of silver has fallen in relation to the silk, and in the same way the prices of all other commodities whose prices have remained stationary have fallen in relation to the price of silk.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '404'
+- id: II.11.4
+  kind: p
+  original: Man muß eine größere Summe davon im Austausch geben, um dieselbe Summe von Seidenwaren zu erhalten.
+  en: A large quantity of them must be given in exchange in order to obtain the same amount of silk.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T39
+    editions: 1849 (NRZ)
+    reading: ein Absatz
+    base_text: … von Seidenwaren zu erhalten. ‸  …
+  mew_page: '404'
+- id: II.11.5
+  kind: p
+  original: Was wird die Folge des steigenden Preises einer Ware sein?
+  en: Now, what will be the consequence of a rise in the price of a particular commodity?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '404'
+- id: II.11.6
+  kind: p
+  original: Eine Masse von Kapitalien wird sich auf den blühenden Industriezweig werfen, und diese Einwanderung der Kapitalien in das Gebiet der bevorzugten Industrie wird so lange fortdauern, bis sie die gewöhnlichen Gewinne abwirft oder vielmehr, bis der Preis ihrer Produkte durch Überproduktion unter die Produktionskosten herabsinkt.
+  en: A mass of capital will be thrown into the prosperous branch of industry, and this immigration of capital into the provinces of the favored industry will continue until it yields no more than the customary profits, or, rather until the price of its products, owning to overproduction, sinks below the cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '404'
+- id: II.12.1
+  kind: p
+  original: Umgekehrt.
+  en: 'Conversely: if the price of a commodity falls below its cost of production, then capital will be withdrawn from the production of this commodity.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '404'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: II.12.2
+  kind: p
+  original: Fällt der Preis einer Ware unter ihre Produktionskosten, so werden sich die Kapitale von der Produktion dieser Ware zurückziehen.
+  en: ''
+  joined_to: II.12.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '404'
+- id: II.12.3
+  kind: p
+  original: Den Fall ausgenommen, wo ein Industriezweig nicht mehr zeitgemäß ist, also untergehn muß, wird durch diese Flucht der Kapitale die Produktion einer solchen Ware, d.h. ihre Zufuhr, so lange abnehmen, bis sie der Nachfrage entspricht, also ihr Preis wieder auf die Höhe ihrer Produktionskosten sich erhebt, oder vielmehr, bis die Zufuhr unter die Nachfrage herabgefallen ist, d.h. bis ihr Preis wieder über ihre Produktionskosten steigt, denn der courante Preis einer Ware steht immer über oder unter ihren Produktionskosten.
+  en: Except in the case of a branch of industry which has become obsolete and is therefore doomed to disappear, the production of such a commodity (that is, its supply), will, owning to this flight of capital, continue to decrease until it corresponds to the demand, and the price of the commodity rises again to the level of its cost of production; or, rather, until the supply has fallen below the demand and its price has risen above its cost of production, for the current price of a commodity is always either above or below its cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T40
+    editions: 1849 (NRZ)
+    reading: Marktpreis
+    base_text: … denn der courante Preis ‸ einer Ware steht immer …
+  mew_page: '404'
+- id: II.13.1
+  kind: p
+  original: Wir sehn, wie die Kapitale beständig aus- und einwandern, aus dem Gebiete der einen Industrie in das der andern.
+  en: We see how capital continually emigrates out of the province of one industry and immigrates into that of another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '404'
+- id: II.13.2
+  kind: p
+  original: Der hohe Preis bringt eine zu starke Einwanderung und der niedrige Preis eine zu starke Auswanderung hervor.
+  en: The high price produces an excessive immigration, and the low price an excessive emigration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '404'
+- id: II.14.1
+  kind: p
+  original: Wir könnten von einem andern Gesichtspunkt aus zeigen, wie nicht nur die Zufuhr, sondern auch die Nachfrage durch die Produktionskosten bestimmt wird Es würde uns dies aber zu weit von unserm Gegenstande abführen.
+  en: We could show, from another point of view, how not only the supply, but also the demand, is determined by the cost of production. But this would lead us too far away from our subject.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.15.1
+  kind: p
+  original: Wir haben soeben gesehn, wie die Schwankungen der Zufuhr und Nachfrage den Preis einer Ware immer wieder auf die Produktionskosten zurückführen.
+  en: We have just seen how the fluctuation of supply and demand always bring the price of a commodity back to its cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+- id: II.15.2
+  kind: p
+  original: Zwar der wirkliche Preis einer Ware steht stets über oder unter den Produktionskosten; aber das Steigen und Fallen ergänzen sich wechselseitig, so daß innerhalb eines bestimmten Zeitraums, Ebbe und Flut der Industrie zusammengerechnet, die Waren ihren Produktionskosten entsprechend, gegeneinander ausgetauscht werden, ihr Preis also durch ihre Produktionskosten bestimmt wird.
+  en: The actual price of a commodity, indeed, stands always above or below the cost of production; but the rise and fall reciprocally balance each other, so that, within a certain period of time, if the ebbs and flows of the industry are reckoned up together, the commodities will be exchanged for one another in accordance with their cost of production. Their price is thus determined by their cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: II.16.1
+  kind: p
+  original: Diese Preisbestimmung durch die Produktionskosten ist nicht im Sinne der Ökonomen zu verstehn.
+  en: The determination of price by the cost of production is not to be understood in the sense of the bourgeois economists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+- id: II.16.2
+  kind: p
+  original: Die Ökonomen sagen, daß der Durchschnittspreis der Waren gleich den Produktionskosten ist; dies sei das Gesetz.
+  en: 'The economists say that the average price of commodities equals the cost of production: that is the law.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+- id: II.16.3
+  kind: p
+  original: Die anarchische Bewegung, worin das Steigen durch das Fallen und das Fallen durch das Steigen ausgeglichen wird, betrachten sie als Zufälligkeit.
+  en: The anarchic movement, in which the rise is compensated for by a fall and the fall by a rise, they regard as an accident.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+- id: II.16.4
+  kind: p
+  original: Man könnte mit demselben Recht, wie dies auch von andern Ökonomen geschehn ist, die Schwankungen als Gesetz und die Bestimmung durch die Produktionskosten als Zufälligkeit betrachten.
+  en: We might just as well consider the fluctuations as the law, and the determination of the price by cost of production as an accident - as is, in fact, done by certain other economists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T41
+    editions: 1849 (NRZ)
+    reading: als das
+    base_text: … ist, die Schwankungen als ‸ Gesetz und die Bestimmung …
+  mew_page: '405'
+- id: II.16.5
+  kind: p
+  original: Aber nur diese Schwankungen, die, näher betrachtet, die furchtbarsten Verwüstungen mit sich führen und gleich Erdbeben die bürgerliche Gesellschaft in ihren Grundfesten erzittern machen, nur diese Schwankungen bestimmen in ihrem Verlauf den Preis durch die Produktionskosten.
+  en: But it is precisely these fluctuations which, viewed more closely, carry the most frightful devastation in their train, and, like an earthquake, cause bourgeois society to shake to its very foundations - it is precisely these fluctuations that force the price to conform to the cost of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+- id: II.16.6
+  kind: p
+  original: Die Gesamtbewegung dieser Unordung ist ihre Ordnung.
+  en: In the totality of this disorderly movement is to be found its order.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+- id: II.16.7
+  kind: p
+  original: In dem Verlauf dieser industriellen Anarchie, in dieser Kreisbewegung gleicht die Konkurrenz sozusagen die eine Extravaganz durch die andre aus.
+  en: In the total course of this industrial anarchy, in this circular movement, competition balances, as it were, the one extravagance by the other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+- id: II.17.1
+  kind: p
+  original: 'Wir sehn also: Der Preis einer Ware ist bestimmt durch ihre Produktionskosten in der Weise, daß die Zeiten, worin der Preis dieser Ware über die Produktionskosten steigt, durch die Zeiten ausgeglichen werden, worin er unter die Produktionskosten herabsinkt, und umgekehrt.'
+  en: We thus see that the price of a commodity is indeed determined by its cost of production, but in such a manner that the periods in which the price of these commodities rises above the costs of production are balanced by the periods in which it sinks below the cost of production, and vice versa.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+- id: II.17.2
+  kind: p
+  original: Es gilt dies natürlich nicht für ein einzelnes gegebnes Industrieprodukt, sondern nur für den ganzen Industriezweig.
+  en: Of course this does not hold good for a single given product of an industry, but only for that branch of industry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+- id: II.17.3
+  kind: p
+  original: Es gilt also auch nicht für den einzelnen Industriellen, sondern nur für die ganze Klasse der Industriellen.
+  en: So also it does not hold good for an individual manufacturer, but only for the whole class of manufacturers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '405'
+- id: II.18.1
+  kind: p
+  original: Die Bestimmung des Preises durch die Produktionskosten ist gleich der Bestimmung des Preises durch die Arbeitszeit, die zur Herstellung einer Ware erforderlich ist, denn die Produktionskosten bestehen aus 1. Rohstoffen und Verschleiß von Instrumenten, d.h. aus Industrieprodukten, deren Herstellung eine gewisse Summe von Arbeitstagen gekostet hat, die also eine gewisse Summe von Arbeitszeit darstellen, und 2. aus unmittelbarer Arbeit, deren Maß eben die Zeit ist.
+  en: The determination of price by cost of production is tantamount to the determination of price by the labor-time requisite to the production of a commodity, for the cost of production consists, first of raw materials and wear and tear of tools, etc., i.e., of industrial products whose production has cost a certain number of work-days, which therefore represent a certain amount of labor-time, and, secondly, of direct labor, which is also measured by its duration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T42
+    editions: 1849 (NRZ)
+    reading: 'fehlt: Verschleiß von'
+    base_text: … Rohstoffen und Verschleiß von ‸ Instrumenten, d.h. aus Industrieprodukten, …
+  - ref: T43
+    editions: 1849 (NRZ)
+    reading: bestimmte
+    base_text: … die also eine gewisse ‸ Summe von Arbeitszeit darstellen, …
+  mew_page: 405-406
+- id: II.19.1
+  kind: p
+  original: Dieselben allgemeinen Gesetze nun, welche den Preis der Waren im allgemeinen regeln, regeln natürlich auch den Arbeitslohn, den Preis der Arbeit.
+  en: Now, the same general laws which regulate the price of commodities in general, naturally regulate wages, or the price of labour-power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '406'
+  en_note: 'Lothrop 1902, chapter 4: By what are wages determined?'
+- id: II.20.1
+  kind: p
+  original: Der Lohn der Arbeit wird bald steigen, bald fallen, je nach dem Verhältnis von Nachfrage und Zufuhr, je nachdem sich die Konkurrenz zwischen den Käufern der Arbeitskraft, den Kapitalisten, und den Verkäufern der Arbeitskraft, den Arbeitern, gestaltet.
+  en: Wages will now rise, now fall, according to the relation of supply and demand, according as competition shapes itself between the buyers of labour-power, the capitalists, and the sellers of labour-power, the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '406'
+- id: II.20.2
+  kind: p
+  original: Den Schwankungen der Warenpreise im allgemeinen entsprechen die Schwankungen des Arbeitslohns.
+  en: The fluctuations of wages correspond to the fluctuation in the price of commodities in general.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '406'
+- id: II.20.3
+  kind: p
+  original: Innerhalb dieser Schwankungen aber wird der Preis der Arbeit bestimmt sein durch die Produktionskosten, durch die Arbeitszeit, die erforderlich ist, um diese Ware, die Arbeitskraft, hervorzubringen.
+  en: 'But within the limits of these fluctuations the price of labour-power will be determined by the cost of production, by the labour-time necessary for production of this commodity: labour-power.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T44
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … diese Ware, die Arbeitskraft ‸ , hervorzubringen. …
+  mew_page: '406'
+- id: II.21.1
+  kind: p
+  original: Welches sind nun die Produktionskosten der Arbeitskraft?
+  en: What, then, is the cost of production of labour-power?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T45
+    editions: 1849 (NRZ)
+    reading: Arbeit selbst
+    base_text: … die Produktionskosten der Arbeitskraft ‸ ? …
+  mew_page: '406'
+- id: II.22.1
+  kind: p
+  original: Es sind die Kosten, die erheischt werden, um den Arbeiter als Arbeiter zu erhalten und um ihn zum Arbeiter auszubilden.
+  en: It is the cost required for the maintenance of the labourer as a labourer, and for his education and training as a labourer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '406'
+- id: II.23.1
+  kind: p
+  original: Je weniger Bildungszeit eine Arbeit daher erfordert, desto geringer sind die Produktionskosten des Arbeiters, um so niedriger ist der Preis seiner Arbeit, sein Arbeitslohn.
+  en: Therefore, the shorter the time required for training up to a particular sort of work, the smaller is the cost of production of the worker, the lower is the price of his labour-power, his wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '406'
+- id: II.23.2
+  kind: p
+  original: In den Industriezweigen, wo fast gar keine Lernzeit erforderlich ist und die bloße leibliche Existenz des Arbeiters genügt, beschränken sich die zu seiner Herstellung erforderlichen Produktionskosten fast nur auf die Waren, die erforderlich sind, um ihn am arbeitsfähigen Leben zu erhalten.
+  en: In those branches of industry in which hardly any period of apprenticeship is necessary and the mere bodily existence of the worker is sufficient, the cost of his production is limited almost exclusively to the commodities necessary for keeping him in working condition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T46
+    editions: 1849 (NRZ)
+    reading: 'fehlt: arbeitsfähigen'
+    base_text: … um ihn am arbeitsfähigen ‸ Leben zu erhalten. …
+  mew_page: '406'
+- id: II.23.3
+  kind: p
+  original: Der Preis seiner Arbeit wird daher durch den Preis der notwendigen Lebensmittel bestimmt sein.
+  en: The price of his work will therefore be determined by the price of the necessary means of subsistence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '406'
+- id: II.24.1
+  kind: p
+  original: Es kommt indes noch eine andre Rücksicht hinzu.
+  en: Here, however, there enters another consideration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '406'
+- id: II.24.2
+  kind: p
+  original: Der Fabrikant, der seine Produktionskosten und danach den Preis der Produkte berechnet, bringt die Abnutzung der Arbeitsinstrumente in Anschlag.
+  en: The manufacturer who calculates his cost of production and, in accordance with it, the price of the product, takes into account the wear and tear of the instruments of labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '406'
+- id: II.24.3
+  kind: p
+  original: Kostet ihm eine Maschine z.B. 1.000 Mark und nutzt sich diese Maschine in zehn Jahren ab, so schlägt er 100 Mark jährlich in den Preis der Ware, um nach zehn Jahren die abgenutzte Maschine durch eine neue ersetzen zu können.
+  en: If a machine costs him, for example, 1,000 shillings, and this machine is used up in 10 years, he adds 100 shillings annually to the price of the commodities, in order to be able after 10 years to replace the worn-out machine with a new one.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '406'
+- id: II.24.4
+  kind: p
+  original: In derselben Weise müssen in den Produktionskosten der einfachen Arbeitskraft die Fortpflanzungskosten eingerechnet werden, wodurch die Arbeiterrasse instand gesetzt wird, sich zu vermehren und abgenutzte Arbeiter durch neue zu ersetzen.
+  en: In the same manner, the cost of production of simple labour-power must include the cost of propagation, by means of which the race of workers is enabled to multiply itself, and to replace worn-out workers with new ones.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T44
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Produktionskosten der einfachen Arbeitskraft ‸ die Fortpflanzungskosten eingerechnet werden, …
+  mew_page: '406'
+- id: II.24.5
+  kind: p
+  original: Der Verschleiß des Arbeiters wird also in derselben Weise in Rechnung gebracht wie der Verschleiß der Maschine.
+  en: The wear and tear of the worker, therefore, is calculated in the same manner as the wear and tear of the machine.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '406'
+- id: II.25.1
+  kind: p
+  original: Die Produktionskosten der einfachen Arbeitskraft belaufen sich also auf die Existenz- und Fortpflanzungskosten des Arbeiters.
+  en: Thus, the cost of production of simple labour-power amounts to the cost of the existence and propagation of the worker.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T47
+    editions: 1849 (NRZ)
+    reading: Arbeit
+    base_text: … Produktionskosten der einfachen Arbeitskraft ‸ belaufen sich also auf …
+  mew_page: '407'
+- id: II.25.2
+  kind: p
+  original: Der Preis dieser Existenz- und Fortpflanzungskosten bildet den Arbeitslohn.
+  en: The price of this cost of existence and propagation constitutes wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: II.25.3
+  kind: p
+  original: Der so bestimmte Arbeitslohn heißt das Minimum des Arbeitslohns.
+  en: The wages thus determined are called the minimum of wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: II.25.4
+  kind: p
+  original: Dieses Minimum des Arbeitslohns gilt, wie die Preisbestimmung der Waren durch die Produktionskosten überhaupt, nicht für das einzelne Individuum, sondern für die Gattung.
+  en: This minimum wage, like the determination of the price of commodities in general by cost of production, does not hold good for the single individual, but only for the race.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: II.25.5
+  kind: p
+  original: Einzelne Arbeiter, Millionen von Arbeitern, erhalten nicht genug, um existieren und sich fortpflanzen zu können; aber der Arbeitslohn der ganzen Arbeiterklasse gleicht sich innerhalb seiner Schwankungen zu diesem Minimum aus.
+  en: Individual workers, indeed, millions of workers, do not receive enough to be able to exist and to propagate themselves; but the wages of the whole working class adjust themselves, within the limits of their fluctuations, to this minimum.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'
+- id: II.26.1
+  kind: p
+  original: Jetzt, nachdem wir uns verständigt haben über die allgemeinsten Gesetze, die den Arbeitslohn wie den Preis jeder anderen Ware regeln, können wir spezieller auf unsern Gegenstand eingehn.
+  en: Now that we have come to an understanding in regard to the most general laws which govern wages, as well as the price of every other commodity, we can examine our subject more particularly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '407'

@@ -1,0 +1,20 @@
+title: "[adaptation] "
+labels: ["adaptation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Adaptations**: plan or review a modern pamphlet. Read adaptations/README.md for the rules.
+  - type: input
+    id: pamphlet
+    attributes:
+      label: Pamphlet and the work it adapts
+      placeholder: "Who Profits From Your Work? (WLC)"
+    validations:
+      required: true
+  - type: textarea
+    id: body
+    attributes:
+      label: What you want to discuss
+    validations:
+      required: true

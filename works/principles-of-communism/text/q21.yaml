@@ -1,0 +1,61 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q21
+title_original: '21. Frage: Welchen Einfluß wird die kommunistische Gesellschaftsordnung auf die Familie ausüben?'
+title_en: Question 21
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q21.0.1
+  kind: heading
+  original: '21. Frage: Welchen Einfluß wird die kommunistische Gesellschaftsordnung auf die Familie ausüben?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q21.1.1
+  kind: p
+  original: 'Antwort: Sie wird das Verhältnis der beiden Geschlechter zu einem reinen Privatverhältnis machen, welches nur die beteiligten Personen angeht und worin sich die Gesellschaft nicht zu mischen hat.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q21.1.2
+  kind: p
+  original: Sie kann dies, da sie das Privateigentum beseitigt und die Kinder gemeinschaftlich erzieht und dadurch die beiden Grundlagen der bisherigen Ehe, die Abhängigkeit des Weibes vom Mann und der Kinder von den Eltern vermittelst des Privateigentums, vernichtet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q21.1.3
+  kind: p
+  original: Hierin liegt auch die Antwort auf das Geschrei hochmoralischer Spießbürger gegen kommunistische Weibergemeinschaft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q21.1.4
+  kind: p
+  original: Die Weibergemeinschaft ist ein Verhältnis, was ganz der bürgerlichen Gesellschaft angehört und heutzutage in der Prostitution vollständig besteht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q21.1.5
+  kind: p
+  original: Die Prostitution beruht aber auf dem Privateigentum und fällt mit ihm.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q21.1.6
+  kind: p
+  original: Die kommunistische Organisation also, statt die Weibergemeinschaft einzuführen, hebt sie vielmehr auf.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

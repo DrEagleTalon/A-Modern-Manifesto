@@ -1,0 +1,19 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q9
+title_original: '9. Frage: Wodurch unterscheidet sich der Proletarier vom Handwerker?'
+title_en: Question 9
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q9.0.1
+  kind: heading
+  original: '9. Frage: Wodurch unterscheidet sich der Proletarier vom Handwerker?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

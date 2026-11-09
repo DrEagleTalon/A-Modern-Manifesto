@@ -1,0 +1,85 @@
+# Glossary of recurring and contested terms in Anarchy (AN).
+# The Italian original is not in the repository yet. The `italian` field gives the word Malatesta is
+# usually taken to use; check it against the Italian text when that column is added.
+# english_1900 is the choice of the anonymous translation printed in 1900, the historical column here.
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+
+- term: Anarchy
+  italian: anarchia
+  english_1900: Anarchy (capitalised throughout), Anarchical, Anarchically, Anarchistic
+  literal: without government
+  options: [anarchy, Anarchy]
+  interim: anarchy, lower case, except where the book defines the word as a name
+  status: open
+  verses: [0.1.1, 0.10.1, I.34.1, II.54.2]
+  note: The whole first part is about the word. Malatesta defines it as "without government" and argues that its everyday sense of disorder comes from the belief that government is necessary (0.1.1 to 0.11.1). The modern draft must keep the play between the two senses there. "Anarchically" (II.34.7, II.74.1) means "the anarchist way", by direct action and free agreement, not "chaotically".
+
+- term: government
+  italian: governo
+  english_1900: government, governors
+  literal: those who rule; the act of ruling
+  options: [government, the state, rulers, those in power]
+  interim: government
+  status: open
+  verses: [0.18.1, 0.21.1, 0.24.1, II.31.3, II.31.5]
+  note: Malatesta's key word, chosen on purpose over "the State" (0.18.1). He defines it as the people who hold the power to make laws and enforce them (II.31.3), not an abstract entity (0.21.4). Do not translate it as "the state" in the modern draft, even where today's English would say "the state".
+
+- term: the State
+  italian: lo Stato
+  english_1900: the State, state
+  literal: the state; also a condition, a way of being
+  options: [the state, the State, the government, the political order]
+  interim: the State, capitalised, where it means the political institution; lower case for "condition"
+  status: open
+  verses: [0.12.1, 0.13.1, 0.14.2, 0.15.2, 0.17.1, 0.18.1]
+  note: Malatesta lists the senses of the word and explains why he prefers "abolition of government" to "abolition of the State" (0.12.1 to 0.18.1). The pun in 0.17.1 ("the Anarchical state is the only state founded on ... solidarity") works in English as in Italian; keep it.
+
+- term: solidarity
+  italian: solidarietà
+  english_1900: solidarity, Solidarity, the sentiment of solidarity, voluntary solidarity
+  literal: holding together; each sharing in the good of all
+  options: [solidarity, mutual support, standing together, cooperation]
+  interim: solidarity
+  status: open
+  verses: [0.50.1, I.13.1, I.16.1, II.36.2, II.49.8]
+  note: The "law" that governs human progress (0.50.1), defined at I.13.1 as harmony of interests and feelings. Keep the one word throughout so the argument stays visible; do not vary it for style.
+
+- term: authoritarians
+  italian: autoritari
+  english_1900: authoritarians, the authoritarian or State Socialist method
+  literal: those who hold that authority is necessary
+  options: [authoritarians, authoritarian socialists, statists, supporters of government]
+  interim: authoritarians
+  status: open
+  verses: [0.29.3, II.11.1, II.31.2, II.49.2, II.56.1]
+  note: In the 1890s this meant above all the socialists who wanted to keep a state, the people Malatesta argues with in II.11.1 and II.49.2. Today "authoritarian" suggests dictators. The modern draft or a note should make clear whom he means; see cruxes.md.
+
+- term: proprietory class
+  italian: classe proprietaria
+  english_1900: proprietory class, proprietors, the bourgeois, the bourgeois class, the capitalist class
+  literal: the owning class
+  options: [the owning class, the property owners, the capitalist class, the rich]
+  interim: the owning class
+  status: open
+  verses: [0.36.2, 0.37.1, 0.38.2, 0.46.1]
+  note: The translation spells it "proprietory" (kept in the historical column). Malatesta uses "bourgeois" as a synonym (0.38.2, "the bourgeois (i. e., proprietory) class").
+
+- term: Individualism
+  italian: individualismo
+  english_1900: Individualism, Individualists
+  literal: the doctrine that each should look out for himself
+  options: [individualism, individualist anarchism, libertarianism, free-market individualism]
+  interim: individualism
+  status: open
+  verses: [II.49.2, II.49.7, II.49.9, II.49.11]
+  note: Malatesta calls it "a kind of Anarchy without Socialism" (II.49.7). He means the current that keeps private property and competition. A modern reader may hear "libertarianism"; the comparison belongs in a note or in commentary, not in the draft.
+
+- term: initiative
+  italian: iniziativa
+  english_1900: initiative, individual initiative, free initiative, social action
+  literal: the power to start things oneself
+  options: [initiative, self-direction, people acting for themselves, free initiative]
+  interim: initiative
+  status: open
+  verses: [0.25.1, II.23.1, II.24.4, II.31.5, II.50.1]
+  note: Government is "abdication of the initiative and sovereignty of every one into the hands of the few" (II.31.5); anarchism is "the free initiative of all and free agreement" (II.50.1). Keep the pairing with "free agreement" (II.31.6, II.74.1).

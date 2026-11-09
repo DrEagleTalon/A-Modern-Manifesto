@@ -1,0 +1,952 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: II
+title_original: Chapter II. Well-Being for All
+title_en: Chapter II. Well-Being for All
+author: Peter Kropotkin
+date: 1892 (French); English 1906
+original_language: fr
+anchor_language: en
+source_original: Not yet in this repository. Kropotkin's French, La Conquête du pain (Paris 1892), is still to be located on a reachable mirror.
+source_en: 'Anonymous English translation (London: Chapman and Hall, 1906) with Kropotkin''s preface of 1913, Vanguard Press printing (New York 1926), Project Gutenberg ebook 23428 (public domain)'
+verses:
+- id: II.0.1
+  kind: heading
+  original: ''
+  en: Chapter II. Well-Being for All
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.1
+  kind: heading
+  original: ''
+  en: I
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.1
+  kind: p
+  original: ''
+  en: Well-being for all is not a dream.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.2
+  kind: p
+  original: ''
+  en: It is possible, realizable, owing to all that our ancestors have done to increase our powers of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.3.1
+  kind: p
+  original: ''
+  en: We know, indeed, that the producers, although they constitute hardly one-third of the inhabitants of civilized countries, even now produce such quantities of goods that a certain degree of comfort could be brought to every hearth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.3.2
+  kind: p
+  original: ''
+  en: We know further that if all those who squander to-day the fruits of others' toil were forced to employ their leisure in useful work, our wealth would increase in proportion to the number of producers, and more.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.3.3
+  kind: p
+  original: ''
+  en: Finally, we know that contrary to the theory enunciated by Malthus--that Oracle of middle-class Economics--the productive powers of the human race increase at a much more rapid ratio than its powers of reproduction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.3.4
+  kind: p
+  original: ''
+  en: The more thickly men are crowded on the soil, the more rapid is the growth of their wealth-creating power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.1
+  kind: p
+  original: ''
+  en: Thus, although the population of England has only increased from 1844 to 1890 by 62 per cent., its production has grown, even at the lowest estimate, at double that rate--to wit, by 130 per cent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.2
+  kind: p
+  original: ''
+  en: In France, where the population has grown more slowly, the increase in production is nevertheless very rapid.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.3
+  kind: p
+  original: ''
+  en: Notwithstanding the crises through which agriculture is frequently passing, notwithstanding State interference, the blood-tax (conscription), and speculative commerce and finance, the production of wheat in France has increased four-fold, and industrial production more than tenfold, in the course of the last eighty years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.4
+  kind: p
+  original: ''
+  en: In the United States this progress is still more striking.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.5
+  kind: p
+  original: ''
+  en: In spite of immigration, or rather precisely because of the influx of surplus European labour, the United States have multiplied their wealth tenfold.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.5.1
+  kind: p
+  original: ''
+  en: However, these figures give but a very faint idea of what our wealth might become under better conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.5.2
+  kind: p
+  original: ''
+  en: For alongside of the rapid development of our wealth-producing powers we have an overwhelming increase in the ranks of the idlers and middlemen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.5.3
+  kind: p
+  original: ''
+  en: 'Instead of capital gradually concentrating itself in a few hands, so that it would only be necessary for the community to dispossess a few millionaires and enter upon its lawful heritage--instead of this Socialist forecast proving true, the exact reverse is coming to pass: the swarm of parasites is ever increasing.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.1
+  kind: p
+  original: ''
+  en: In France there are not ten actual producers to every thirty inhabitants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.2
+  kind: p
+  original: ''
+  en: The whole agricultural wealth of the country is the work of less than seven millions of men, and in the two great industries, mining and the textile trades, you will find that the workers number less than two and one-half millions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.3
+  kind: p
+  original: ''
+  en: But the exploiters of labour, how many are they?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.4
+  kind: p
+  original: ''
+  en: In the United Kingdom a little over one million workers--men, women, and children, are employed in all the textile trades; less than nine hundred thousand work the mines; much less than two million till the ground, and it appeared from the last industrial census that only a little over four million men, women and children were employed in all the industries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - II.N1
+- id: II.6.5
+  kind: p
+  original: ''
+  en: So that the statisticians have to exaggerate all the figures in order to establish a maximum of eight million producers to forty-five million inhabitants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.6
+  kind: p
+  original: ''
+  en: Strictly speaking the creators of the goods exported from Britain to all the ends of the earth comprise only from six to seven million workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.7
+  kind: p
+  original: ''
+  en: And what is the number of the shareholders and middlemen who levy the first fruits of labour from far and near, and heap up unearned gains by thrusting themselves between the producer and the consumer?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.1
+  kind: p
+  original: ''
+  en: Nor is this all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.2
+  kind: p
+  original: ''
+  en: The owners of capital constantly reduce the output by restraining production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.3
+  kind: p
+  original: ''
+  en: We need not speak of the cartloads of oysters thrown into the sea to prevent a dainty, hitherto reserved for the rich, from becoming a food for the people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.4
+  kind: p
+  original: ''
+  en: We need not speak of the thousand and one luxuries--stuffs, foods, etc., etc.--treated after the same fashion as the oysters.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.5
+  kind: p
+  original: ''
+  en: It is enough to remember the way in which the production of the most necessary things is limited.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.6
+  kind: p
+  original: ''
+  en: Legions of miners are ready and willing to dig out coal every day, and send it to those who are shivering with cold; but too often a third, or even one-half, of their number are forbidden to work more than three days a week, because, forsooth, the price of coal must be kept up!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.7
+  kind: p
+  original: ''
+  en: Thousands of weavers are forbidden to work the looms, although their wives and children go in rags, and although three-quarters of the population of Europe have no clothing worthy the name.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.8.1
+  kind: p
+  original: ''
+  en: Hundreds of blast-furnaces, thousands of factories periodically stand idle, others only work half-time--and in every civilized nation there is a permanent population of about two million individuals who ask only for work, but to whom work is denied.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.9.1
+  kind: p
+  original: ''
+  en: How gladly would these millions of men set to work to reclaim waste lands, or to transform ill-cultivated land into fertile fields, rich in harvests!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.9.2
+  kind: p
+  original: ''
+  en: A year of well-directed toil would suffice to multiply fivefold the produce of those millions of acres in this country which lie idle now as "permanent pasture," or of those dry lands in the south of France which now yield only about eight bushels of wheat per acre.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.9.3
+  kind: p
+  original: ''
+  en: But men, who would be happy to become hardy pioneers in so many branches of wealth-producing activity, must remain idle because the owners of the soil, the mines and the factories prefer to invest their capital--taken in the first place from the community--in Turkish or Egyptian bonds, or in Patagonian gold mines, and so make Egyptian fellahs, Italian emigrants, and Chinese coolies their wage-slaves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.10.1
+  kind: p
+  original: ''
+  en: This is the direct and deliberate limitation of production; but there is also a limitation indirect and not of set purpose, which consists in spending human toil on objects absolutely useless, or destined only to satisfy the dull vanity of the rich.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.11.1
+  kind: p
+  original: ''
+  en: It is impossible to reckon in figures the extent to which wealth is restricted indirectly, the extent to which energy is squandered, while it might have served to produce, and above all to prepare the machinery necessary to production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.11.2
+  kind: p
+  original: ''
+  en: It is enough to cite the immense sums spent by Europe in armaments, for the sole purpose of acquiring control of markets, and so forcing her own goods on neighbouring territories, and making exploitation easier at home; the millions paid every year to officials of all sorts, whose function it is to maintain the "rights" of minorities--the right, that is, of a few rich men--to manipulate the economic activities of the nation; the millions spent on judges, prisons, policemen, and all the paraphernalia of so-called justice--spent to no purpose, because we know that every alleviation, however slight, of the wretchedness of our great cities is always followed by a considerable diminution of crime; lastly, the millions spent on propagating pernicious doctrines by means of the press, and news "cooked" in the interest of this or that party, of this politician or of that group of speculators.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.12.1
+  kind: p
+  original: ''
+  en: But over and above this we must take into account all the labour that goes to sheer waste,--here, in keeping up the stables, the kennels, and the retinue of the rich; there, in pandering to the caprices of society and the depraved tastes of the fashionable mob; there again, in forcing the consumer to buy what he does not need, or foisting an inferior article upon him by means of puffery, and in producing on the other hand wares which are absolutely injurious, but profitable to the manufacturer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.12.2
+  kind: p
+  original: ''
+  en: What is squandered in this manner would be enough to double the production of useful things, or so to plenish our mills and factories with machinery that they would soon flood the shops with all that is now lacking to two-thirds of the nation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.12.3
+  kind: p
+  original: ''
+  en: Under our present system a full quarter of the producers in every nation are forced to be idle for three or four months in the year, and the labour of another quarter, if not of the half, has no better results than the amusement of the rich or the exploitation of the public.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.13.1
+  kind: p
+  original: ''
+  en: Thus, if we consider on the one hand the rapidity with which civilized nations augment their powers of production, and on the other hand the limits set to that production, be it directly or indirectly, by existing conditions, we cannot but conclude that an economic system a trifle more reasonable would permit them to heap up in a few years so many useful products that they would be constrained to say--"Enough!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.13.2
+  kind: p
+  original: ''
+  en: We have enough coal and bread and raiment!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.13.3
+  kind: p
+  original: ''
+  en: Let us rest and consider how best to use our powers, how best to employ our leisure."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.14.1
+  kind: p
+  original: ''
+  en: No, plenty for all is not a dream--though it was a dream indeed in those days when man, for all his pains, could hardly win a few bushels of wheat from an acre of land, and had to fashion by hand all the implements he used in agriculture and industry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.14.2
+  kind: p
+  original: ''
+  en: Now it is no longer a dream, because man has invented a motor which, with a little iron and a few sacks of coal, gives him the mastery of a creature strong and docile as a horse, and capable of setting the most complicated machinery in motion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.15.1
+  kind: p
+  original: ''
+  en: But, if plenty for all is to become a reality, this immense capital--cities, houses, pastures, arable lands, factories, highways, education--must cease to be regarded as private property, for the monopolist to dispose of at his pleasure.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.16.1
+  kind: p
+  original: ''
+  en: This rich endowment, painfully won, builded, fashioned, or invented by our ancestors, must become common property, so that the collective interests of men may gain from it the greatest good for all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.17.1
+  kind: p
+  original: ''
+  en: There must be EXPROPRIATION.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.17.2
+  kind: p
+  original: ''
+  en: The well-being of all--the end; expropriation--the means.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.18.1
+  kind: heading
+  original: ''
+  en: II
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.19.1
+  kind: p
+  original: ''
+  en: 'Expropriation, such then is the problem which History has put before the men of the twentieth century: the return to Communism in all that ministers to the well-being of man.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.20.1
+  kind: p
+  original: ''
+  en: But this problem cannot be solved by means of legislation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.20.2
+  kind: p
+  original: ''
+  en: No one imagines that.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.20.3
+  kind: p
+  original: ''
+  en: The poor, as well as the rich, understand that neither the existing Governments, nor any which might arise out of possible political changes, would be capable of finding such a solution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.20.4
+  kind: p
+  original: ''
+  en: They feel the necessity of a social revolution; and both rich and poor recognize that this revolution is imminent, that it may break out in a few years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.21.1
+  kind: p
+  original: ''
+  en: A great change in thought has taken place during the last half of the nineteenth century; but suppressed, as it was, by the propertied classes, and denied its natural development, this new spirit must now break its bonds by violence and realize itself in a revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.22.1
+  kind: p
+  original: ''
+  en: Whence will the revolution come? how will it announce its coming?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.22.2
+  kind: p
+  original: ''
+  en: No one can answer these questions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.22.3
+  kind: p
+  original: ''
+  en: The future is hidden.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.22.4
+  kind: p
+  original: ''
+  en: 'But those who watch and think do not misinterpret the signs: workers and exploiters, Revolutionists and Conservatives, thinkers and men of action, all feel that a revolution is at our doors.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.23.1
+  kind: p
+  original: ''
+  en: Well, then,--What are we going to do when the thunderbolt has fallen?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.24.1
+  kind: p
+  original: ''
+  en: We have all been bent on studying the dramatic side of revolutions so much, and the practical work of revolutions so little, that we are apt to see only the stage effects, so to speak, of these great movements; the fight of the first days; the barricades.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.24.2
+  kind: p
+  original: ''
+  en: But this fight, this first skirmish, is soon ended, and it only after the breakdown of the old system that the real work of revolution can be said to begin.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.25.1
+  kind: p
+  original: ''
+  en: Effete and powerless, attacked on all sides, the old rulers are soon swept away by the breath of insurrection.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.25.2
+  kind: p
+  original: ''
+  en: In a few days the middle-class monarchy of 1848 was no more, and while Louis Philippe was making good his escape in a cab, Paris had already forgotten her "citizen king."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.25.3
+  kind: p
+  original: ''
+  en: The government of Thiers disappeared, on the 18th of March, 1871, in a few hours, leaving Paris mistress of her destinies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.25.4
+  kind: p
+  original: ''
+  en: Yet 1848 and 1871 were only insurrections.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.25.5
+  kind: p
+  original: ''
+  en: Before a popular revolution the masters of "the old order" disappear with a surprising rapidity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.25.6
+  kind: p
+  original: ''
+  en: Its upholders fly the country, to plot in safety elsewhere and to devise measures for their return.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.26.1
+  kind: p
+  original: ''
+  en: The former Government having disappeared, the army, hesitating before the tide of popular opinion, no longer obeys its commanders, who have also prudently decamped.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.26.2
+  kind: p
+  original: ''
+  en: The troops stand by without interfering, or join the rebels.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.26.3
+  kind: p
+  original: ''
+  en: 'The police, standing at ease, are uncertain whether to belabour the crowd, or to cry: "Long live the Commune!" while some retire to their quarters to "await the pleasure of the new Government."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.26.4
+  kind: p
+  original: ''
+  en: Wealthy citizens pack their trunks and betake themselves to places of safety.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.26.5
+  kind: p
+  original: ''
+  en: The people remain.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.26.6
+  kind: p
+  original: ''
+  en: This is how a revolution is ushered in.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.27.1
+  kind: p
+  original: ''
+  en: In several large towns the Commune is proclaimed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.27.2
+  kind: p
+  original: ''
+  en: 'In the streets wander scores of thousands of men, and in the evening they crowd into improvised clubs, asking: "What shall we do?" and ardently discuss public affairs.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.27.3
+  kind: p
+  original: ''
+  en: All take an interest in them; those who yesterday were quite indifferent are perhaps the most zealous.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.27.4
+  kind: p
+  original: ''
+  en: Everywhere there is plenty of good-will and a keen desire to make victory certain.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.27.5
+  kind: p
+  original: ''
+  en: It is a time when acts of supreme devotion are occurring.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.27.6
+  kind: p
+  original: ''
+  en: The masses of the people are full of the desire of going forward.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.28.1
+  kind: p
+  original: ''
+  en: All this is splendid, sublime; but still, it is not a revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.28.2
+  kind: p
+  original: ''
+  en: Nay, it is only now that the work of the revolutionist begins.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.29.1
+  kind: p
+  original: ''
+  en: Doubtless there will be acts of vengeance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.29.2
+  kind: p
+  original: ''
+  en: The Watrins and the Thomases will pay the penalty of their unpopularity; but these are mere incidents of the struggle--not the revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.1
+  kind: p
+  original: ''
+  en: Socialist politicians, radicals, neglected geniuses of journalism, stump orators--both middle-class people and workmen--will hurry to the Town Hall, to the Government offices, to take possession of the vacant seats.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.2
+  kind: p
+  original: ''
+  en: Some will decorate themselves with gold and silver lace to their hearts' content, admire themselves in ministerial mirrors, and study to give orders with an air of importance appropriate to their new position.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.3
+  kind: p
+  original: ''
+  en: How could they impress their comrades of the office or the workshop without having a red sash, an embroidered cap, and magisterial gestures!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.4
+  kind: p
+  original: ''
+  en: Others will bury themselves in official papers, trying, with the best of wills, to make head or tail of them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.5
+  kind: p
+  original: ''
+  en: They will indite laws and issue high-flown worded decrees that nobody will take the trouble to carry out--because revolution has come.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.1
+  kind: p
+  original: ''
+  en: To give themselves an authority which they have not they will seek the sanction of old forms of Government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.2
+  kind: p
+  original: ''
+  en: They will take the names of "Provisional Government," "Committee of Public Safety," "Mayor," "Governor of the Town Hall," "Commissioner of Public Safety," and what not.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.3
+  kind: p
+  original: ''
+  en: Elected or acclaimed, they will assemble in Boards or in Communal Councils, where men of ten or twenty different schools will come together, representing--not as many "private chapels," as it is often said, but as many different conceptions regarding the scope, the bearing, and the goal of the revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.4
+  kind: p
+  original: ''
+  en: Possibilists, Collectivists, Radicals, Jacobins, Blanquists, will be thrust together, and waste time in wordy warfare.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.5
+  kind: p
+  original: ''
+  en: Honest men will be huddled together with the ambitious ones, whose only dream is power and who spurn the crowd whence they are sprung.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.6
+  kind: p
+  original: ''
+  en: All coming together with diametrically opposed views, all--forced to enter into ephemeral alliances, in order to create majorities that can but last a day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.7
+  kind: p
+  original: ''
+  en: Wrangling, calling each other reactionaries, authoritarians, and rascals, incapable of coming to an understanding on any serious measure, dragged into discussions about trifles, producing nothing better than bombastic proclamations; all giving themselves an awful importance while the real strength of the movement is in the streets.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.32.1
+  kind: p
+  original: ''
+  en: All this may please those who like the stage, but it is not revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.32.2
+  kind: p
+  original: ''
+  en: Nothing has been accomplished as yet.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.33.1
+  kind: p
+  original: ''
+  en: And meanwhile the people suffer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.33.2
+  kind: p
+  original: ''
+  en: The factories are idle, the workshops closed; trade is at a standstill.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.33.3
+  kind: p
+  original: ''
+  en: The worker does not even earn the meagre wage which was his before.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.33.4
+  kind: p
+  original: ''
+  en: Food goes up in price.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.33.5
+  kind: p
+  original: ''
+  en: With that heroic devotion which has always characterized them, and which in great crises reaches the sublime, the people will wait patiently.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.33.6
+  kind: p
+  original: ''
+  en: '"We place these three months of want at the service of the Republic," they said in 1848, while "their representatives" and the gentlemen of the new Government, down to the meanest Jack-in-office received their salary regularly.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.1
+  kind: p
+  original: ''
+  en: The people suffer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.2
+  kind: p
+  original: ''
+  en: With the childlike faith, with the good humour of the masses who believe in their leaders, they think that "yonder," in the House, in the Town Hall, in the Committee of Public Safety, their welfare is being considered.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.3
+  kind: p
+  original: ''
+  en: But "yonder" they are discussing everything under the sun except the welfare of the people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.4
+  kind: p
+  original: ''
+  en: In 1793, while famine ravaged France and crippled the Revolution; whilst the people were reduced to the depths of misery, although the Champs Elysées were lined with luxurious carriages where women displayed their jewels and splendour, Robespierre was urging the Jacobins to discuss his treatise on the English Constitution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.5
+  kind: p
+  original: ''
+  en: While the worker was suffering in 1848 from the general stoppage of trade, the Provisional Government and the National Assembly were wrangling over military pensions and prison labour, without troubling how the people managed to live during the terrible crisis.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.6
+  kind: p
+  original: ''
+  en: 'And could one cast a reproach at the Paris Commune, which was born beneath the Prussian cannon, and lasted only seventy days, it would be for this same error--this failure to understand that the Revolution could not triumph unless those who fought on its side were fed: that on fifteen pence a day a man cannot fight on the ramparts and at the same time support a family.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.35.1
+  kind: p
+  original: ''
+  en: 'The people will suffer and say: "How is a way out of these difficulties to be found?"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.36.1
+  kind: heading
+  original: ''
+  en: III
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.1
+  kind: p
+  original: ''
+  en: 'It seems to us that there is only one answer to this question: We must recognize, and loudly proclaim, that every one, whatever his grade in the old society, whether strong or weak, capable or incapable, has, before everything, THE RIGHT TO LIVE, and that society is bound to share amongst all, without exception, the means of existence it has at its disposal.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.2
+  kind: p
+  original: ''
+  en: We must acknowledge this, and proclaim it aloud, and act up to it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.38.1
+  kind: p
+  original: ''
+  en: Affairs must be managed in such a way that from the first day of the revolution the worker shall know that a new era is opening before him; that henceforward none need crouch under the bridges, while palaces are hard by, none need fast in the midst of plenty, none need perish with cold near shops full of furs; that all is for all, in practice as well as in theory, and that at last, for the first time in history, a revolution has been accomplished which considers the NEEDS of the people before schooling them in their DUTIES.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.39.1
+  kind: p
+  original: ''
+  en: This cannot be brought about by Acts of Parliament, but only by taking immediate and effective possession of all that is necessary to ensure the well-being of all; this is the only really scientific way of going to work, the only way which can be understood and desired by the mass of the people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.39.2
+  kind: p
+  original: ''
+  en: We must take possession, in the name of the people, of the granaries, the shops full of clothing and the dwelling houses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.39.3
+  kind: p
+  original: ''
+  en: Nothing must be wasted.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.39.4
+  kind: p
+  original: ''
+  en: We must organize without delay a way to feed the hungry, to satisfy all wants, to meet all needs, to produce not for the special benefit of this one or that one, but so as to ensure to society as a whole its life and further development.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.40.1
+  kind: p
+  original: ''
+  en: Enough of ambiguous words like "the right to work," with which the people were misled in 1848, and which are still resorted to with the hope of misleading them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.40.2
+  kind: p
+  original: ''
+  en: Let us have the courage to recognise that Well-being for all, henceforward possible, must be realized.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.41.1
+  kind: p
+  original: ''
+  en: When the workers claimed the right to work in 1848, national and municipal workshops were organized, and workmen were sent to drudge there at the rate of 1s. 8d. a day!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.41.2
+  kind: p
+  original: ''
+  en: 'When they asked the "Organization of Labour," the reply was: "Patience, friends, the Government will see to it; meantime here is your 1s. 8d.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.41.3
+  kind: p
+  original: ''
+  en: Rest now, brave toiler, after your life-long struggle for food!"
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.41.4
+  kind: p
+  original: ''
+  en: And in the meantime the cannons were overhauled, the reserves called out, and the workers themselves disorganized by the many methods well known to the middle classes, till one fine day, in June, 1848, four months after the overthrow of the previous Government, they were told to go and colonize Africa, or be shot down.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.42.1
+  kind: p
+  original: ''
+  en: Very different will be the result if the workers claim the RIGHT TO WELL-BEING!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.42.2
+  kind: p
+  original: ''
+  en: In claiming that right they claim the right to take possession of the wealth of the community--to take houses to dwell in according to the needs of each family; to socialize the stores of food and learn the meaning of plenty, after having known famine too well.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.42.3
+  kind: p
+  original: ''
+  en: They proclaim their right to all social wealth--fruit of the labour of past and present generations--and learn by its means to enjoy those higher pleasures of art and science which have too long been monopolized by the rich.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.1
+  kind: p
+  original: ''
+  en: And while asserting their right to live in comfort, they assert, what is still more important, their right to decide for themselves what this comfort shall be, what must be produced to ensure it, and what discarded as no longer of value.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.44.1
+  kind: p
+  original: ''
+  en: The "right to well-being" means the possibility of living like human beings, and of bringing up children to be members of a society better than ours, whilst the "right to work" only means the right to be always a wage-slave, a drudge, ruled over and exploited by the middle class of the future.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.44.2
+  kind: p
+  original: ''
+  en: The right to well-being is the Social Revolution, the right to work means nothing but the Treadmill of Commercialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.44.3
+  kind: p
+  original: ''
+  en: It is high time for the worker to assert his right to the common inheritance, and to enter into possession of it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.N1.1.1
+  kind: note
+  original: ''
+  en: 4,013,711 now employed in all the 53 branches of different industries, including the State Ordnance Works, and 241,530 workers engaged in the Construction and Maintenance of Railways, their aggregate production reaching the value of £1,041,037,000, and the net output being £406,799,000.
+  modern: ''
+  modern_status: empty
+  notes: ''

@@ -1,0 +1,196 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: P1872
+title_original: Vorwort [zur deutschen Ausgabe von 1872]
+title_en: Preface to The 1872 German Edition
+author: Karl Marx and Friedrich Engels
+date: '1872-06-24'
+original_language: de
+anchor_language: de
+source_original: MEW 18, S. 95-96 (Dietz, Berlin) via mlwerke.de
+source_en: Marxists Internet Archive transcription; English is a later translation (Progress Publishers, Moscow 1969), licence unverified
+en_label: English (later translation, Progress 1969)
+verses:
+- id: P1872.0.1
+  kind: heading
+  original: Vorwort [zur deutschen Ausgabe von 1872]
+  en: Preface to The 1872 German Edition
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1872.1.1
+  kind: p
+  original: Der Bund der Kommunisten, eine internationale Arbeiterverbindung, die unter den damaligen Verhältnissen selbstredend nur eine geheime sein konnte, beauftragte auf dem in London im November 1847 abgehaltenen Kongresse die Unterzeichneten mit der Abfassung eines für die Öffentlichkeit bestimmten, ausführlichen theoretischen und praktischen Parteiprogramms.
+  en: The Communist League, an international association of workers, which could of course be only a secret one, under conditions obtaining at the time, commissioned us, the undersigned, at the Congress held in London in November 1847, to write for publication a detailed theoretical and practical programme for the Party.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.1.2
+  kind: p
+  original: So entstand das nachfolgende "Manifest", dessen Manuskript wenige Wochen vor der Februarrevolution nach London zum Druck wanderte.
+  en: Such was the origin of the following Manifesto, the manuscript of which travelled to London to be printed a few weeks before the February [French] Revolution [in 1848].
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.1.3
+  kind: p
+  original: Zuerst deutsch veröffentlicht, ist es in dieser Sprache in Deutschland, England und Amerika in mindestens zwölf verschiedenen Ausgaben abgedruckt worden.
+  en: First published in German, it has been republished in that language in at least twelve different editions in Germany, England, and America.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.1.4
+  kind: p
+  original: Englisch erschien es zuerst 1850 in London im "Red Republican", übersetzt von Miß Helen Macfarlane, und 1871 in wenigstens drei verschiedenen Übersetzungen in Amerika.
+  en: It was published in English for the first time in 1850 in the Red Republican, London, translated by Miss Helen Macfarlane, and in 1871 in at least three different translations in America.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.1.5
+  kind: p
+  original: Französisch zuerst in Paris kurz vor der Juni-Insurrektion 1848, neuerdings in "Le Socialiste" von New York.
+  en: The French version first appeared in Paris shortly before the June insurrection of 1848, and recently in Le Socialiste of New York.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.1.6
+  kind: p
+  original: Eine neue Übersetzung wird vorbereitet.
+  en: A new translation is in the course of preparation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.1.7
+  kind: p
+  original: Polnisch in London kurz nach seiner ersten deutschen Herausgabe.
+  en: A Polish version appeared in London shortly after it was first published in Germany.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.1.8
+  kind: p
+  original: Russisch in Genf in den sechziger Jahren.
+  en: A Russian translation was published in Geneva in the sixties.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.1.9
+  kind: p
+  original: Ins Dänische wurde es ebenfalls bald nach seinem Erscheinen übersetzt.
+  en: Into Danish, too, it was translated shortly after its appearance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.2.1
+  kind: p
+  original: Wie sehr sich auch die Verhältnisse in den letzten fünfundzwanzig Jahren geändert haben, die in diesem "Manifest" entwickelten allgemeinen Grundsätze behalten im ganzen und großen auch heute noch ihre volle Richtigkeit.
+  en: However much that state of things may have altered during the last twenty-five years, the general principles laid down in the Manifesto are, on the whole, as correct today as ever.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.2.2
+  kind: p
+  original: Einzelnes wäre hier und da zu bessern.
+  en: Here and there, some detail might be improved.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: P1872.2.3
+  kind: p
+  original: Die praktische Anwendung dieser Grundsätze, erklärt das "Manifest" selbst, wird überall und jederzeit von den geschichtlich vorliegenden Umständen abhängen, und wird deshalb durchaus kein besonderes Gewicht auf die am Ende von Abschnitt II vorgeschlagenen revolutionären Maßregeln gelegt.
+  en: The practical application of the principles will depend, as the Manifesto itself states, everywhere and at all times, on the historical conditions for the time being existing, and, for that reason, no special stress is laid on the revolutionary measures proposed at the end of Section II. That passage would, in many respects, be very differently worded today.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: P1872.2.4
+  kind: p
+  original: Dieser Passus würde heute in vieler Beziehung anders lauten.
+  en: ''
+  joined_to: P1872.2.3
+  modern: ''
+  modern_status: joined
+  notes: '''This passage'' is the end of Section II, the ten measures (II.67.1 to II.79.1).'
+  mew_page: '95'
+- id: P1872.2.5
+  kind: p
+  original: Gegenüber der immensen Fortentwicklung der großen Industrie in den letzten fünfundzwanzig Jahren und der mit ihr fortschreitenden Parteiorganisation der Arbeiterklasse, gegenüber den praktischen Erfahrungen, zuerst der Februarrevolution und noch weit mehr der Pariser Kommune, wo das Proletariat zum erstenmal zwei Monate lang die politische Gewalt innehatte, ist heute dies Programm stellenweise veraltet.
+  en: In view of the gigantic strides of Modern Industry since 1848, and of the accompanying improved and extended organization of the working class, in view of the practical experience gained, first in the February Revolution, and then, still more, in the Paris Commune, where the proletariat for the first time held political power for two whole months, this programme has in some details been antiquated.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 95-96
+- id: P1872.2.6
+  kind: p
+  original: Namentlich hat die Kommune den Beweis geliefert, daß "die Arbeiterklasse nicht die fertige Staatsmaschine einfach in Besitz nehmen und sie für ihre eigenen Zwecke in Bewegung setzen kann".
+  en: One thing especially was proved by the Commune, viz., that "the working class cannot simply lay hold of the ready-made state machinery, and wield it for its own purposes."
+  modern: ''
+  modern_status: empty
+  notes: Cross-reference II.66.1.
+  mew_page: '96'
+- id: P1872.2.7
+  kind: p
+  original: (Siehe "Der Bürgerkrieg in Frankreich. Adresse des Generalraths der Internationalen Arbeiter-Association", deutsche Ausgabe, S. 19, wo dies weiter entwickelt ist.)
+  en: '(See The Civil War in France: Address of the General Council of the International Working Men''s Association, 1871, where this point is further developed.)'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: P1872.2.8
+  kind: p
+  original: Ferner ist selbstredend, daß die Kritik der sozialistischen Literatur für heute lückenhaft ist, weil sie nur bis 1847 reicht; ebenso daß die Bemerkungen über die Stellung der Kommunisten zu den verschiedenen Oppositionsparteien (Abschnitt IV), wenn in den Grundzügen auch heute noch richtig, doch in ihrer Ausführung heute schon deswegen veraltet sind, weil die politische Lage sich total umgestaltet und die geschichtliche Entwicklung die meisten der dort aufgezählten Parteien aus der Welt geschafft hat.
+  en: Further, it is self-evident that the criticism of socialist literature is deficient in relation to the present time, because it comes down only to 1847; also that the remarks on the relation of the Communists to the various opposition parties (Section IV), although, in principle still correct, yet in practice are antiquated, because the political situation has been entirely changed, and the progress of history has swept from off the earth the greater portion of the political parties there enumerated.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: P1872.3.1
+  kind: p
+  original: Indes, das "Manifest" ist ein geschichtliches Dokument, an dem zu ändern wir uns nicht mehr das Recht zuschreiben.
+  en: But then, the Manifesto has become a historical document which we have no longer any right to alter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: P1872.3.2
+  kind: p
+  original: Eine spätere Ausgabe erscheint vielleicht begleitet von einer den Abstand von 1847 bis jetzt überbrückenden Einleitung; der vorliegende Abdruck kam uns zu unerwartet, um uns Zeit dafür zu lassen.
+  en: A subsequent edition may perhaps appear with an introduction bridging the gap from 1847 to the present day; but this reprint was too unexpected to leave us time for that.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: P1872.4.1
+  kind: signature
+  original: London, 24. Juni 1872
+  en: Karl Marx & Frederick Engels June 24, 1872, London
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+  align: '2:2'
+  review: true
+  review_reason: 2 de sentence(s) matched to 2 en sentence(s)
+- id: P1872.5.1
+  kind: signature
+  original: Karl Marx Friedrich Engels
+  en: ''
+  joined_to: P1872.4.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '96'

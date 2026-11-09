@@ -1,0 +1,42 @@
+name: Translation proposal
+description: Suggest a modern rendering for one or more verses
+title: "[WORK VERSE] "
+labels: ["translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Put the work prefix and verse number in the title, for example `[CM I.12.3]` or `[WLC II.4.1-II.4.2]`.
+        Read docs/translation-principles.md first. Work from the original language.
+  - type: input
+    id: verses
+    attributes:
+      label: Work and verse number(s)
+      placeholder: CM I.12.3
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed modern text
+      description: One line per verse, starting with the verse number.
+      placeholder: "CM I.12.3  Modern state power is nothing but a committee that manages the common business of the whole bourgeois class."
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: What the original says, where the historical English or the current draft goes wrong, which glossary terms apply.
+    validations:
+      required: true
+  - type: dropdown
+    id: german
+    attributes:
+      label: Did you work from the original language?
+      options:
+        - Yes, I read the original language
+        - Partly, with a dictionary or tool
+        - No, this is a style suggestion on the English only
+    validations:
+      required: true

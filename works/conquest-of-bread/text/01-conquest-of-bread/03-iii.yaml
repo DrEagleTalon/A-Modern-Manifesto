@@ -1,0 +1,831 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: III
+title_original: Chapter III. Anarchist Communism
+title_en: Chapter III. Anarchist Communism
+author: Peter Kropotkin
+date: 1892 (French); English 1906
+original_language: fr
+anchor_language: en
+source_original: Not yet in this repository. Kropotkin's French, La Conquête du pain (Paris 1892), is still to be located on a reachable mirror.
+source_en: 'Anonymous English translation (London: Chapman and Hall, 1906) with Kropotkin''s preface of 1913, Vanguard Press printing (New York 1926), Project Gutenberg ebook 23428 (public domain)'
+verses:
+- id: III.0.1
+  kind: heading
+  original: ''
+  en: Chapter III. Anarchist Communism
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.1.1
+  kind: heading
+  original: ''
+  en: I
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.2.1
+  kind: p
+  original: ''
+  en: Every society, on abolishing private property will be forced, we maintain, to organize itself on the lines of Communistic Anarchy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.2.2
+  kind: p
+  original: ''
+  en: Anarchy leads to Communism, and Communism to Anarchy, both alike being expressions of the predominant tendency in modern societies, the pursuit of equality.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.1
+  kind: p
+  original: ''
+  en: Time was when a peasant family could consider the corn it sowed and reaped, or the woolen garments woven in the cottage, as the products of its own soil.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.2
+  kind: p
+  original: ''
+  en: But even then this way of looking at things was not quite correct.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.3
+  kind: p
+  original: ''
+  en: There were the roads and the bridges made in common, the swamps drained by common toil, the communal pastures enclosed by hedges which were kept in repair by each and all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.4
+  kind: p
+  original: ''
+  en: If the looms for weaving or the dyes for colouring fabrics were improved by somebody, all profited; and even in those days a peasant family could not live alone, but was dependent in a thousand ways on the village or the commune.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.1
+  kind: p
+  original: ''
+  en: But nowadays, in the present state of industry, when everything is interdependent, when each branch of production is knit up with all the rest, the attempt to claim an Individualist origin for the products of industry is absolutely untenable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.2
+  kind: p
+  original: ''
+  en: The astonishing perfection attained by the textile or mining industries in civilized countries is due to the simultaneous development of a thousand other industries, great and small, to the extension of the railroad system, to inter-oceanic navigation, to the manual skill of thousands of workers, to a certain standard of culture reached by the working class as a whole--to the labours, in short, of men in every corner of the globe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.5.1
+  kind: p
+  original: ''
+  en: The Italians who died of cholera while making the Suez Canal, or of anchylosis in the St. Gothard Tunnel, and the Americans mowed down by shot and shell while fighting for the abolition of slavery, have helped to develop the cotton industry of France and England, as well as the work-girls who languish in the factories of Manchester and Rouen, and the inventor who (following the suggestion of some worker) succeeds in improving the looms.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.6.1
+  kind: p
+  original: ''
+  en: How then, shall we estimate the share of each in the riches which ALL contribute to amass?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.7.1
+  kind: p
+  original: ''
+  en: Looking at production from this general, synthetic point of view, we cannot hold with the Collectivists that payment proportionate to the hours of labour rendered by each would be an ideal arrangement, or even a step in the right direction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.1
+  kind: p
+  original: ''
+  en: Without discussing whether exchange value of goods is really measured in existing societies by the amount of work necessary to produce it--according to the teaching of Adam Smith and Ricardo, in whose footsteps Marx has followed--suffice it to say here, leaving ourselves free to return to the subject later, that the Collectivist ideal appears to us untenable in a society which considers the instruments of labour as a common inheritance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.2
+  kind: p
+  original: ''
+  en: Starting from this principle, such a society would find itself forced from the very outset to abandon all forms of wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.1
+  kind: p
+  original: ''
+  en: The migrated individualism of the Collectivist system certainly could not maintain itself alongside a partial communism--the socialization of land and the instruments of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.2
+  kind: p
+  original: ''
+  en: A new form of property requires a new form of remuneration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.3
+  kind: p
+  original: ''
+  en: A new method of production cannot exist side by side with the old forms of consumption, any more than it can adapt itself to the old forms of political organization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.10.1
+  kind: p
+  original: ''
+  en: The wage system arises out of the individual ownership of the land and the instruments of labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.10.2
+  kind: p
+  original: ''
+  en: It was the necessary condition for the development of capitalist production, and will perish with it, in spite of the attempt to disguise it as "profit-sharing."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.10.3
+  kind: p
+  original: ''
+  en: The common possession of the instruments of labour must necessarily bring with it the enjoyment in common of the fruits of common labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.1
+  kind: p
+  original: ''
+  en: We hold further that Communism is not only desirable, but that existing societies, founded on Individualism, are inevitably impelled in the direction of Communism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.2
+  kind: p
+  original: ''
+  en: The development of Individualism during the last three centuries is explained by the efforts of the individual to protect himself from the tyranny of Capital and of the State.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.3
+  kind: p
+  original: ''
+  en: For a time he imagined, and those who expressed his thought for him declared, that he could free himself entirely from the State and from society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.4
+  kind: p
+  original: ''
+  en: '"By means of money," he said, "I can buy all that I need."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.5
+  kind: p
+  original: ''
+  en: But the individual was on a wrong track, and modern history has taught him to recognize that, without the help of all, he can do nothing, although his strong-boxes are full of gold.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.12.1
+  kind: p
+  original: ''
+  en: In fact, along this current of Individualism, we find in all modern history a tendency, on the one hand to retain all that remains of the partial Communism of antiquity, and, on the other, to establish the Communist principle in the thousand developments of modern life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.13.1
+  kind: p
+  original: ''
+  en: As soon as the communes of the tenth, eleventh, and twelfth centuries had succeeded in emancipating themselves from their lords, ecclesiastical or lay, their communal labour and communal consumption began to extend and develop rapidly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.13.2
+  kind: p
+  original: ''
+  en: The township--and not private persons--freighted ships and equipped expeditions, for the export of their manufacture, and the benefit arising from the foreign trade did not accrue to individuals, but was shared by all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.13.3
+  kind: p
+  original: ''
+  en: At the outset, the townships also bought provisions for all their citizens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.13.4
+  kind: p
+  original: ''
+  en: Traces of these institutions have lingered on into the nineteenth century, and the people piously cherish the memory of them in their legends.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.1
+  kind: p
+  original: ''
+  en: All that has disappeared.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.2
+  kind: p
+  original: ''
+  en: But the rural township still struggles to preserve the last traces of this Communism, and it succeeds--except when the State throws its heavy sword into the balance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.1
+  kind: p
+  original: ''
+  en: Meanwhile new organizations, based on the same principle--to every man according to his needs--spring up under a thousand different forms; for without a certain leaven of Communism the present societies could not exist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.2
+  kind: p
+  original: ''
+  en: In spite of the narrowly egoistic turn given to men's minds by the commercial system, the tendency towards Communism is constantly appearing, and it influences our activities in a variety of ways.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.16.1
+  kind: p
+  original: ''
+  en: The bridges, for the use of which a toll was levied in the old days, have become public property and are free to all; so are the high roads, except in the East, where a toll is still exacted from the traveller for every mile of his journey.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.16.2
+  kind: p
+  original: ''
+  en: 'Museums, free libraries, free schools, free meals for children; parks and gardens open to all; streets paved and lighted, free to all; water supplied to every house without measure or stint--all such arrangements are founded on the principle: "Take what you need."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.1
+  kind: p
+  original: ''
+  en: The tramways and railways have already introduced monthly and annual season tickets, without limiting the number of journeys taken; and two nations, Hungary and Russia, have introduced on their railways the zone system, which permits the holder to travel five hundred or eight hundred miles for the same price.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.2
+  kind: p
+  original: ''
+  en: It is but a short step from that to a uniform charge, such as already prevails in the postal service.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.3
+  kind: p
+  original: ''
+  en: In all these innovations, and in a thousand others, the tendency is not to measure the individual consumption.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.4
+  kind: p
+  original: ''
+  en: One man wants to travel eight hundred miles, another five hundred.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.5
+  kind: p
+  original: ''
+  en: These are personal requirements.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.6
+  kind: p
+  original: ''
+  en: There is no sufficient reason why one should pay twice as much as the other because his need is twice as great.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.7
+  kind: p
+  original: ''
+  en: Such are the signs which appear even now in our individualist societies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.18.1
+  kind: p
+  original: ''
+  en: Moreover, there is a tendency, though still a feeble one, to consider the needs of the individual, irrespective of his past or possible services to the community.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.18.2
+  kind: p
+  original: ''
+  en: We are beginning to think of society as a whole, each part of which is so intimately bound up with the others that a service rendered to one is a service rendered to all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.19.1
+  kind: p
+  original: ''
+  en: When you go to a public library--not indeed the National Library of Paris, but, say, into the British Museum or the Berlin Library--the librarian does not ask what services you have rendered to society before giving you the book, or the fifty books, which you require; he even comes to your assistance if you do not know how to manage the catalogue.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.19.2
+  kind: p
+  original: ''
+  en: By means of uniform credentials--and very often a contribution of work is preferred--the scientific society opens its museums, its gardens, its library, its laboratories, and its annual conversaziones to each of its members, whether he be a Darwin, or a simple amateur.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.20.1
+  kind: p
+  original: ''
+  en: At St. Petersburg, if you are elaborating an invention, you go into a special laboratory, where you are given a place, a carpenter's bench, a turning lathe, all the necessary tools and scientific instruments, provided only you know how to use them; and you are allowed to work there as long as you please.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.20.2
+  kind: p
+  original: ''
+  en: There are the tools; interest others in your idea; join with fellow workers skilled in various crafts, or work alone if you prefer it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.20.3
+  kind: p
+  original: ''
+  en: Invent a flying machine, or invent nothing--that is your own affair.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.20.4
+  kind: p
+  original: ''
+  en: You are pursuing an idea--that is enough.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.21.1
+  kind: p
+  original: ''
+  en: In the same way, those who man the lifeboat do not ask credentials from the crew of a sinking ship; they launch their boat, risk their lives in the raging waves, and sometimes perish, all to save men whom they do not even know.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.21.2
+  kind: p
+  original: ''
+  en: And what need to know them?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.21.3
+  kind: p
+  original: ''
+  en: '"They are human beings, and they need our aid--that is enough, that establishes their right---- To the rescue!"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.1
+  kind: p
+  original: ''
+  en: Thus we find a tendency, eminently communistic, springing up on all sides, and in various guises, in the very heart of theoretically individualist societies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.23.1
+  kind: p
+  original: ''
+  en: Suppose that one of our great cities, so egotistic in ordinary times, were visited to-morrow by some calamity--a siege, for instance--that same selfish city would decide that the first needs to satisfy were those of the children and the aged.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.23.2
+  kind: p
+  original: ''
+  en: Without asking what services they had rendered, or were likely to render to society, it would first of all feed them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.23.3
+  kind: p
+  original: ''
+  en: Then the combatants would be cared for, irrespective of the courage or the intelligence which each had displayed, and thousands of men and women would outvie each other in unselfish devotion to the wounded.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.1
+  kind: p
+  original: ''
+  en: This tendency exists, and is felt as soon as the most pressing needs of each are satisfied, and in proportion as the productive power of the race increases.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.2
+  kind: p
+  original: ''
+  en: It becomes an active force every time a great idea comes to oust the mean preoccupations of everyday life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.1
+  kind: p
+  original: ''
+  en: How can we doubt, then, that when the instruments of production are placed at the service of all, when business is conducted on Communist principles, when labour, having recovered its place of honour in society, produces much more than is necessary to all--how can we doubt that this force (already so powerful), will enlarge its sphere of action till it becomes the ruling principle of social life?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.26.1
+  kind: p
+  original: ''
+  en: Following these indications, and considering further the practical side of expropriation, of which we shall speak in the following chapters, we are convinced that our first obligation, when the revolution shall have broken the power upholding the present system, will be to realize Communism without delay.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.1
+  kind: p
+  original: ''
+  en: But ours is neither the Communism of Fourier and the Phalansteriens, nor of the German State Socialists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.2
+  kind: p
+  original: ''
+  en: It is Anarchist Communism, Communism without government--the Communism of the Free.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.3
+  kind: p
+  original: ''
+  en: It is the synthesis of the two ideals pursued by humanity throughout the ages--Economic and Political Liberty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.1
+  kind: heading
+  original: ''
+  en: II
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.29.1
+  kind: p
+  original: ''
+  en: In taking "Anarchy" for our ideal of political organization we are only giving expression to another marked tendency of human progress.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.29.2
+  kind: p
+  original: ''
+  en: Whenever European societies have developed up to a certain point, they have shaken off the yoke of authority and substituted a system founded more or less on the principles of individual liberty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.29.3
+  kind: p
+  original: ''
+  en: And history shows us that these periods of partial or general revolution, when the old governments were overthrown, were also periods of sudden, progress both in the economic and the intellectual field.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.29.4
+  kind: p
+  original: ''
+  en: So it was after the enfranchisement of the communes, whose monuments, produced by the free labour of the guilds, have never been surpassed; so it was after the great peasant uprising which brought about the Reformation and imperilled the papacy; and so it was again with the society, free for a brief space, which was created on the other side of the Atlantic by the malcontents from the Old world.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.1
+  kind: p
+  original: ''
+  en: And, if we observe the present development of civilized nations, we see, most unmistakably, a movement ever more and more marked tending to limit the sphere of action of the Government, and to allow more and more liberty to the individual.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.2
+  kind: p
+  original: ''
+  en: This evolution is going on before our eyes, though cumbered by the ruins and rubbish of old institutions and old superstitions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.3
+  kind: p
+  original: ''
+  en: Like all evolutions, it only waits a revolution to overthrow the old obstacles which block the way, that it may find free scope in a regenerated society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.31.1
+  kind: p
+  original: ''
+  en: After having striven long in vain to solve the insoluble problem--the problem of constructing a government "which will constrain the individual to obedience without itself ceasing to be the servant of society," men at last attempt to free themselves from every form of government and to satisfy their need for organization by free contacts between individuals and groups pursuing the same aim.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.31.2
+  kind: p
+  original: ''
+  en: The independence of each small territorial unit becomes a pressing need; mutual agreement replaces law in order to regulate individual interests in view of a common object--very often disregarding the frontiers of the present States.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.32.1
+  kind: p
+  original: ''
+  en: All that was once looked on as a function of the Government is to-day called in question.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.32.2
+  kind: p
+  original: ''
+  en: Things are arranged more easily and more satisfactorily without the intervention of the State.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.32.3
+  kind: p
+  original: ''
+  en: And in studying the progress made in this direction, we are led to conclude that the tendency of the human race is to reduce Government interference to zero; in fact, to abolish the State, the personification of injustice, oppression, and monopoly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.33.1
+  kind: p
+  original: ''
+  en: We can already catch glimpses of a world in which the bonds which bind the individual are no longer laws, but social habits--the result of the need felt by each one of us to seek the support, the co-operation, the sympathy of his neighbours.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.34.1
+  kind: p
+  original: ''
+  en: Assuredly the idea of a society without a State will give rise to at least as many objections as the political economy of a society without private capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.34.2
+  kind: p
+  original: ''
+  en: We have all been brought up from our childhood to regard the State as a sort of Providence; all our education, the Roman history we learned at school, the Byzantine code which we studied later under the name of Roman law, and the various sciences taught at the universities, accustom us to believe in Government and in the virtues of the State providential.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.35.1
+  kind: p
+  original: ''
+  en: To maintain this superstition whole systems of philosophy have been elaborated and taught; all politics are based on this principle; and each politician, whatever his colours, comes forward and says to the people, "Give my party the power; we can and we will free you from the miseries which press so heavily upon you."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.36.1
+  kind: p
+  original: ''
+  en: From the cradle to the grave all our actions are guided by this principle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.36.2
+  kind: p
+  original: ''
+  en: Open any book on sociology or jurisprudence, and you will find there the Government, its organization, its acts, filling so large a place that we come to believe that there is nothing outside the Government and the world of statesmen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.37.1
+  kind: p
+  original: ''
+  en: The Press teaches us the same in every conceivable way.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.37.2
+  kind: p
+  original: ''
+  en: Whole columns are devoted to parliamentary debates and to political intrigues; while the vast everyday life of a nation appears only in the columns given to economic subjects, or in the pages devoted to reports of police and law cases.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.37.3
+  kind: p
+  original: ''
+  en: And when you read the newspapers, your hardly think of the incalculable number of beings--all humanity, so to say--who grow up and die, who know sorrow, who work and consume, think and create outside the few encumbering personages who have been so magnified that humanity is hidden by their shadows, enlarged by our ignorance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.38.1
+  kind: p
+  original: ''
+  en: And yet as soon as we pass from printed matter to life itself, as soon as we throw a glance at society, we are struck by the infinitesimal part played by the Government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.38.2
+  kind: p
+  original: ''
+  en: Balzac already has remarked how millions of peasants spend the whole of their lives without knowing anything about the State, save the heavy taxes they are compelled to pay.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.38.3
+  kind: p
+  original: ''
+  en: Every day millions of transactions are made without Government intervention, and the greatest of them--those of commerce and of the Exchange--are carried on in such a way that the Government could not be appealed to if one of the contracting parties had the intention of not fulfilling his agreement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.38.4
+  kind: p
+  original: ''
+  en: Should you speak to a man who understands commerce, he will tell you that the everyday business transacted by merchants would be absolutely impossible were it not based on mutual confidence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.38.5
+  kind: p
+  original: ''
+  en: The habit of keeping his word, the desire not to lose his credit, amply suffice to maintain this relative honesty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.38.6
+  kind: p
+  original: ''
+  en: The man who does not feel the slightest remorse when poisoning his customers with noxious drugs covered with pompous labels, thinks he is in honour bound to keep his engagements.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.38.7
+  kind: p
+  original: ''
+  en: But if this relative morality has developed under present conditions, when enrichment is the only incentive and the only aim, can we doubt its rapid progress when appropriation of the fruits of others' labour will no longer be the basis of society?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.39.1
+  kind: p
+  original: ''
+  en: Another striking fact, which especially characterizes our generation, speaks still more in favour of our ideas.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.39.2
+  kind: p
+  original: ''
+  en: It is the continual extension of the field of enterprise due to private initiative, and the prodigious development of free organizations of all kinds.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.39.3
+  kind: p
+  original: ''
+  en: We shall discuss this more at length in the chapter devoted to Free Agreement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.39.4
+  kind: p
+  original: ''
+  en: Suffice it to mention that the facts are so numerous and so customary that they are the essence of the second half of the nineteenth century, even though political and socialist writers ignore them, always preferring to talk to us about the functions of the Government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.40.1
+  kind: p
+  original: ''
+  en: These organizations, free and infinitely varied, are so natural an outcome of our civilization; they expand so rapidly and federate with so much ease; they are so necessary a result of the continual growth of the needs of civilized man; and lastly, they so advantageously replace governmental interference, that we must recognize in them a factor of growing importance in the life of societies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.40.2
+  kind: p
+  original: ''
+  en: If they do not yet spread over the whole of the manifestations of life, it is that they find an insurmountable obstacle in the poverty of the worker, in the divisions of present society, in the private appropriation of capital, and in the State.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.40.3
+  kind: p
+  original: ''
+  en: Abolish these obstacles, and you will see them covering the immense field of civilized man's activity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.41.1
+  kind: p
+  original: ''
+  en: The history of the last fifty years furnishes a living proof that Representative Government is impotent to discharge all the functions we have sought to assign to it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.41.2
+  kind: p
+  original: ''
+  en: In days to come the nineteenth century will be quoted as having witnessed the failure of parliamentarianism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.42.1
+  kind: p
+  original: ''
+  en: This impotence is becoming so evident to all; the faults of parliamentarianism, and the inherent vices of the representative principle, are so self-evident, that the few thinkers who have made a critical study of them (J. S. Mill, Leverdays), did but give literary form to the popular dissatisfaction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.42.2
+  kind: p
+  original: ''
+  en: It is not difficult, indeed, to see the absurdity of naming a few men and saying to them, "Make laws regulating all our spheres of activity, although not one of you knows anything about them!"
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.43.1
+  kind: p
+  original: ''
+  en: We are beginning to see that government by majorities means abandoning all the affairs of the country to the tide-waiters who make up the majorities in the House and in election committees; to those, in a word, who have no opinion of their own.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.44.1
+  kind: p
+  original: ''
+  en: Mankind is seeking and already finding new issues.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.44.2
+  kind: p
+  original: ''
+  en: The International Postal Union, the railway unions, and the learned societies give us examples of solutions based on free agreement in place and stead of law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.45.1
+  kind: p
+  original: ''
+  en: To-day, when groups scattered far and wide wish to organize themselves for some object or other, they no longer elect an international parliament of Jacks-of-all-trades.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.45.2
+  kind: p
+  original: ''
+  en: They proceed in a different way.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.45.3
+  kind: p
+  original: ''
+  en: 'Where it is not possible to meet directly or come to an agreement by correspondence, delegates versed in the question at issue are sent, and they are told: "Endeavour to come to an agreement on such or such a question, and then return, not with a law in your pocket, but with a proposition of agreement which we may or may not accept."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.46.1
+  kind: p
+  original: ''
+  en: Such is the method of the great industrial companies, the learned societies, and numerous associations of every description, which already cover Europe and the United States.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.46.2
+  kind: p
+  original: ''
+  en: And such will be the method of a free society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.46.3
+  kind: p
+  original: ''
+  en: A society founded on serfdom is in keeping with absolute monarchy; a society based on the wage system and the exploitation of the masses by the capitalists finds its political expression in parliamentarianism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.46.4
+  kind: p
+  original: ''
+  en: But a free society, regaining possession of the common inheritance, must seek in free groups and free federations of groups, a new organization, in harmony with the new economic phase of history.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.47.1
+  kind: p
+  original: ''
+  en: Every economic phase has a political phase corresponding to it, and it would be impossible to touch private property unless a new mode of political life be found at the same time.
+  modern: ''
+  modern_status: empty
+  notes: ''

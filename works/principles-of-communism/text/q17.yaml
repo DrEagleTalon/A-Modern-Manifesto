@@ -1,0 +1,33 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q17
+title_original: '17. Frage: Wird die Abschaffung des Privateigentums mit Einem Schlage möglich sein?'
+title_en: Question 17
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q17.0.1
+  kind: heading
+  original: '17. Frage: Wird die Abschaffung des Privateigentums mit Einem Schlage möglich sein?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q17.1.1
+  kind: p
+  original: 'Antwort: Nein, ebensowenig wie sich mit einem Schlage die schon bestehenden Produktivkräfte so weit werden vervielfältigen lassen, als zur Herstellung der Gemeinschaft nötig ist.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q17.1.2
+  kind: p
+  original: Die aller Wahrscheinlichkeit nach eintretende Revolution des Proletariats wird also nur allmählich die jetzige Gesellschaft umgestalten und erst dann das Privateigentum abschaffen können, wenn die dazu nötige Masse von Produktionsmitteln geschaffen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

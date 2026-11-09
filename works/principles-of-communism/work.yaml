@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: principles-of-communism
+prefix: PC                        # citation prefix: PC Q18.1.1
+title: Principles of Communism
+title_original: Grundsätze des Kommunismus
+authors: [Friedrich Engels]
+year: 1847
+original_language: de
+base_text: "Engels's manuscript of October-November 1847, as printed in MEW 4"
+order: 25
+columns:
+  original: German (MEW, from the manuscript)
+  en: ""                          # no public-domain English translation
+  modern: Modern draft (translated from the German)
+status: ready
+rights: Original public domain. No historical English column (Sweezy 1952 is protected). See SOURCES.md.

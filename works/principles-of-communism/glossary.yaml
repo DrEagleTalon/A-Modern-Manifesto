@@ -1,0 +1,29 @@
+# Glossary for Principles of Communism (PC). Shares terms with the Manifesto, which Engels's draft became;
+# see works/communist-manifesto/glossary.yaml and keep renderings consistent.
+# status: open | interim | decided
+
+- term: Verkauf der Arbeit
+  original: Verkauf ihrer Arbeit
+  literal: sale of their labour
+  options: [sale of their labor, sale of their labor-power (with a note)]
+  interim: sale of their labor, with a note that Marx later wrote labor-power
+  status: open
+  verses: [Q2.1.1, Q5.0.1]
+  note: Same issue as WLC. In 1847 Engels still wrote "Arbeit"; keep it and explain, as Engels himself did in 1891 for WLC.
+
+- term: Aufhebung / Abschaffung des Privateigentums
+  original: Aufhebung des Privateigentums; Abschaffung des Privateigentums
+  literal: sublation / abolition of private property
+  options: [abolition, overcoming]
+  interim: abolition, with a note where the German has Aufhebung
+  status: open
+  verses: [Q15.0.1, Q16.0.1, Q17.0.1]
+  note: Engels uses both words in consecutive questions. See the CM glossary entry.
+
+- term: demokratische Staatsverfassung
+  original: eine demokratische Staatsverfassung
+  literal: a democratic constitution of the state
+  options: [a democratic constitution, democratic government]
+  interim: a democratic constitution
+  status: open
+  verses: [Q18.1.1]

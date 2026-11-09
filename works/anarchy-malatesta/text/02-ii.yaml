@@ -1,0 +1,2098 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: II
+title_original: II
+title_en: II
+author: Errico Malatesta
+date: 1891 (Italian); English printing 1900
+original_language: it
+anchor_language: en
+source_original: Not yet in this repository. Malatesta's Italian, L'Anarchia (1891), is still to be located on a reachable mirror.
+source_en: Anonymous English translation, Free Society Library printing (1900), Project Gutenberg ebook 40365 (public domain)
+verses:
+- id: II.0.1
+  kind: heading
+  original: ''
+  en: II
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.1
+  kind: p
+  original: ''
+  en: We have hitherto considered government as it is, and as it necessarily must be in a society founded upon privilege, upon the exploitation and oppression of man by man, upon antagonism of interests and social strife, in a word, upon private property.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.1
+  kind: p
+  original: ''
+  en: We have seen how this state of strife, far from being a necessary condition of human life, is contrary to the interests of the individual and of the species.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.2
+  kind: p
+  original: ''
+  en: We have observed how co-operation, solidarity (of interest) is the law of human progress, and we have concluded that, with the abolition of private property and the cessation of all domination of man over man, there would be no reason for government to exist--therefore it ought to be abolished.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.3.1
+  kind: p
+  original: ''
+  en: But, it may be objected, if the principle on which social organization is now founded were to be changed, and solidarity substituted for strife, common property for private property, the government also would change its nature.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.3.2
+  kind: p
+  original: ''
+  en: Instead of being the protector and representative of the interests of one class, it would become, if there were no longer any classes, representative of all society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.3.3
+  kind: p
+  original: ''
+  en: Its mission would be to secure and regulate social co-operation in the interests of all, and to fulfil public services of general utility.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.3.4
+  kind: p
+  original: ''
+  en: It would defend society against possible attempts to re-establish privilege, and prevent or repress all attacks, by whomsoever set on foot, against the life, well-being, or liberty of each.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.1
+  kind: p
+  original: ''
+  en: There are in society certain matters too important, requiring too much constant, regular attention, for them to be left to the voluntary management of individuals, without danger of everything getting into disorder.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.5.1
+  kind: p
+  original: ''
+  en: If there were no government, who would organize the supply and distribution of provisions?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.5.2
+  kind: p
+  original: ''
+  en: Who regulate matters pertaining to public hygiene, the postal, telegraph, and railway services, etc.?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.5.3
+  kind: p
+  original: ''
+  en: Who would direct public instruction?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.5.4
+  kind: p
+  original: ''
+  en: Who undertake those great works of exploration, improvement on a large scale, scientific enterprise, etc., which transform the face of the earth and augment a hundredfold the power of man?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.1
+  kind: p
+  original: ''
+  en: Who would care for the preservation and increase of capital, that it might be transmitted to posterity, enriched and improved?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.1
+  kind: p
+  original: ''
+  en: Who would prevent the destruction of the forests, or the irrational exploitation, and therefore impoverishment of the soil?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.8.1
+  kind: p
+  original: ''
+  en: Who would there be to prevent and repress crimes, that is, anti-social acts?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.9.1
+  kind: p
+  original: ''
+  en: What of those who, disregarding the law of solidarity, would not work?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.9.2
+  kind: p
+  original: ''
+  en: Or of those who might spread infectious disease in a country, by refusing to submit to the regulation of hygiene by science?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.9.3
+  kind: p
+  original: ''
+  en: Or what again could be done with those who, whether insane or no, might set fire to the harvest, injure children, or abuse and take advantage of the weak?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.10.1
+  kind: p
+  original: ''
+  en: To destroy private property and abolish existing government, without reconstituting a government that would organize collective life and secure social solidarity, would not be to abolish privilege, and bring peace and prosperity upon earth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.10.2
+  kind: p
+  original: ''
+  en: It would be to destroy, every social bond, to leave humanity to fall back into barbarism, to begin again the reign of "each for himself;" which would establish the triumph, firstly, of brute force, and, secondly, of economic privilege.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.11.1
+  kind: p
+  original: ''
+  en: Such are the objections brought forward by authoritarians, even by those who are Socialists, that is, who wish to abolish private property, and class government founded upon the system of private property.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.12.1
+  kind: p
+  original: ''
+  en: 'We reply:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.13.1
+  kind: p
+  original: ''
+  en: In the first place, it is not true that with a change of social conditions, the nature of the government and its functions would also change.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.13.2
+  kind: p
+  original: ''
+  en: Organs and functions are inseparable terms.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.13.3
+  kind: p
+  original: ''
+  en: Take from an organ its function, and either the organ will die, or the function will reinstate itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.13.4
+  kind: p
+  original: ''
+  en: Place an army in a country where there is no reason for or fear of foreign war, and this army will provoke war, or, if it do not succeed in doing that, it will disband.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.13.5
+  kind: p
+  original: ''
+  en: A police force, where there are no crimes to discover, and delinquents to arrest, will provoke or invent crimes, or will cease to exist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.14.1
+  kind: p
+  original: ''
+  en: For centuries, there existed in France an institution, now included in the administration of the forests, for the extermination of the wolves and other noxious beasts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.14.2
+  kind: p
+  original: ''
+  en: No one will be surprised to learn that, just on account of this institution, wolves still exist in France, and that, in rigorous seasons, they do great damage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.14.3
+  kind: p
+  original: ''
+  en: The public take little heed of the wolves, because there are the appointed officials, whose duty it is to think about them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.14.4
+  kind: p
+  original: ''
+  en: And the officials do hunt them, but in an intelligent manner, sparing their caves, and allowing time for reproduction, that they may not run the risk of entirely destroying such an interesting species.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.14.5
+  kind: p
+  original: ''
+  en: The French peasants have indeed little confidence in these official wolf-hunters, and regard them rather as the wolf-preservers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.14.6
+  kind: p
+  original: ''
+  en: And, of course, what would these officials do if there were no longer any wolves to exterminate?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.15.1
+  kind: p
+  original: ''
+  en: A government, that is, a number of persons deputed to make the laws, and entitled to use the collective forces of society to make every individual to respect these laws, already constitutes a class privileged and separated from the rest of the community.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.15.2
+  kind: p
+  original: ''
+  en: Such a class, like every elected body, will seek instinctively to. enlarge its powers; to place itself above the control of the people; to impose its tendencies, and to make its own interests predominate.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.15.3
+  kind: p
+  original: ''
+  en: Placed in a privileged position, the government always finds itself in antagonism to the masses, of whose force it disposes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.16.1
+  kind: p
+  original: ''
+  en: Furthermore, a government, with the best intention, could never satisfy everybody, even if it succeeded in satisfying some.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.16.2
+  kind: p
+  original: ''
+  en: It must therefore always be defending itself against the discontented, and for that reason must ally itself with the satisfied section of the community for necessary support.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.16.3
+  kind: p
+  original: ''
+  en: And in this manner will arise again the old story of a privileged class, which cannot help but be developed in conjunction with the government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.16.4
+  kind: p
+  original: ''
+  en: This class, if it could not again acquire possession of the soil, would certainly monopolize the most favored spots, and would not be in the end less oppressive, or less an instrument of exploitation than the capitalist class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.17.1
+  kind: p
+  original: ''
+  en: The governors, accustomed to command, would never wish to mix with the common crowd.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.17.2
+  kind: p
+  original: ''
+  en: If they could not retain the power in their own hands, they would at least secure to themselves privileged positions for the time when they would be out of office.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.17.3
+  kind: p
+  original: ''
+  en: They would use all the means they have in their power to get their own friends elected as their successors, who would in their turn be supported and protected by their predecessors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.17.4
+  kind: p
+  original: ''
+  en: And thus the government would pass and repass into the same hands, and the democracy, that is, the government presumably of the whole people, would end, as it always has done, in becoming an oligarchy, or the government of a few, the government of a class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.18.1
+  kind: p
+  original: ''
+  en: And this all-powerful, oppressive, all-absorbing oligarchy would have always in its care, that is, at its disposition, every bit of social capital, all public services, from the production and distribution of provisions to the manufacture of matches, from the control of the university to that of the music hall.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.19.1
+  kind: p
+  original: ''
+  en: But let us even suppose that the government did not necessarily constitute a privileged class, and could exist without forming around itself a new privileged class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.19.2
+  kind: p
+  original: ''
+  en: Let us imagine that it could remain truly representative, the servant--if you will--of all society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.19.3
+  kind: p
+  original: ''
+  en: What purpose would it then serve?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.19.4
+  kind: p
+  original: ''
+  en: In what particular and in what manner would it augment the power, intelligence, spirit of solidarity, care of the general welfare, present and to come, that at any given moment existed in a given society?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.20.1
+  kind: p
+  original: ''
+  en: It is always the old story of the man with bound limbs, who, having managed to live in spite of his bands, believes that he lives by means of them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.20.2
+  kind: p
+  original: ''
+  en: We are accustomed to live under a government, which makes use of all that energy, that intelligence, and that will which it can direct to its own ends; but which hinders, paralyzes and suppresses those that are useless or hostile to it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.20.3
+  kind: p
+  original: ''
+  en: And we imagine that all that is done in society is done by virtue of the government, and that without the government there would be neither energy, intelligence, nor good will in society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.20.4
+  kind: p
+  original: ''
+  en: So it happens (as we have already said) that the proprietor who has possessed himself of the soil, has it cultivated for his own particular profit, leaving the laborer the barest necessities of life for which he can and will continue to labor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.20.5
+  kind: p
+  original: ''
+  en: While the enslaved laborer thinks that he could not live without his master, as though it were he who created the earth and the forces of nature.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.21.1
+  kind: p
+  original: ''
+  en: What can government of itself add to the moral and material forces which exist in a society?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.21.2
+  kind: p
+  original: ''
+  en: Unless it be like the God of the Bible, who created the universe out of nothing?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.22.1
+  kind: p
+  original: ''
+  en: As nothing is created in the so-called material world, so in this more complicated form of the material world, which is the social world, nothing can be created.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.22.2
+  kind: p
+  original: ''
+  en: And therefore governors can dispose of no other force than that which is already in society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.22.3
+  kind: p
+  original: ''
+  en: And indeed not by any means of all of that, as much force is necessarily paralyzed and destroyed by governmental methods of action, while more again is wasted in the friction with rebellious elements, inevitably great in such an artificial mechanism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.22.4
+  kind: p
+  original: ''
+  en: Whenever governors originate anything of themselves, it is as men and not as governors, that they do so.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.22.5
+  kind: p
+  original: ''
+  en: And of that amount of force, both material and moral, which does remain at the disposition of the government, only an infinitesimally small part achieves an end really useful to society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.22.6
+  kind: p
+  original: ''
+  en: The remainder is either consumed in actively repressing rebellious opposition, or is otherwise diverted from the aim of general utility, and turned to the profit of the few, and to the injury of the majority of men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.23.1
+  kind: p
+  original: ''
+  en: So much has been made of the part that individual initiative and social action play respectively in the life and progress of human society; and such is the confusion of metaphysical language, that those who affirm that individual initiative is the source and agency of all action seem to be asserting something quite preposterous.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.23.2
+  kind: p
+  original: ''
+  en: In reality, it is a truism, which becomes apparent directly we begin to explain the actual facts represented by these words.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.24.1
+  kind: p
+  original: ''
+  en: The real being is the man, the individual; society or the collectivity, and the State or government which professes to represent it, if not hollow abstractions, can be nothing else than aggregates of individuals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.24.2
+  kind: p
+  original: ''
+  en: And it is within the individual organism that all thoughts and all human action necessarily have their origin.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.24.3
+  kind: p
+  original: ''
+  en: Originally individual, they become collective thoughts and actions, when shared in common by many individuals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.24.4
+  kind: p
+  original: ''
+  en: 'Social action, then, is not the negation, nor the complement of individual initiative, but it is the sum total of the initiatives, thoughts and actions of all the individuals composing society: a result which, other things equal, is more or less great according as the individual forces tend toward the same aim, or are divergent and opposed.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.24.5
+  kind: p
+  original: ''
+  en: If, on the other hand, as the authoritarians make out, by social action is meant governmental action, then it is again the result of individual forces, but only of those individuals who either form part of the government, or by virtue of their position are enabled to influence the conduct of the government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.25.1
+  kind: p
+  original: ''
+  en: Thus, in the contest of centuries between liberty and authority, or, in other words, between social equality and social castes, the question at issue has not really been the relations between society and the individual, nor the increase of individual independence at the cost of social control, or vice versa.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.25.2
+  kind: p
+  original: ''
+  en: Rather it has had to do with preventing any one individual from oppressing the others; with giving to everyone the same rights and the same means of action.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.25.3
+  kind: p
+  original: ''
+  en: It has had to do with substituting the initiative of all, which must naturally result in the advantage of all, for the initiative of the few, which necessarily results in the suppression of all the others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.25.4
+  kind: p
+  original: ''
+  en: It is always, in short, the question of putting an end to the domination and exploitation of man by man in such a way that all are interested in the common welfare; and that the individual force of each, instead of oppressing, combating or suppressing others, will find the possibility of complete development, and every one will seek to associate with others for the greater advantage of all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.26.1
+  kind: p
+  original: ''
+  en: From what we have said, it follows that the existence of a government, even upon the hypothesis that the ideal government of authoritarian Socialists were possible, far from producing an increase of productive force, would immensely diminish it; because the government would restrict initiative to the few.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.26.2
+  kind: p
+  original: ''
+  en: It would give these few the right to do all things, without being able, of course, to endow them with the knowledge or understanding of all things.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.27.1
+  kind: p
+  original: ''
+  en: In fact, if you divest legislation and all the operations of government of what is intended to protect the privileged, and what represents the wishes of the privileged classes alone, nothing remains but the aggregate of individual governors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.27.2
+  kind: p
+  original: ''
+  en: '"The State," says Sismondi, "is always a conservative power that authorizes, regulates and organizes the conquests of progress (and history testifies that it applies them to the profit of its own and the other privileged classes) but never does inaugurate them.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.27.3
+  kind: p
+  original: ''
+  en: New ideas always originate from beneath, are conceived in the foundations of society, and then, when divulged, they become opinion and grow.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.27.4
+  kind: p
+  original: ''
+  en: But they must always meet on their path, and combat the constituted powers of tradition, custom, privilege and error."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.28.1
+  kind: p
+  original: ''
+  en: In order to understand how society could exist without a government, it is sufficient to turn our attention for a short space to what actually goes on in our present society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.28.2
+  kind: p
+  original: ''
+  en: We shall see that in reality the most important social functions are fulfilled even now-a-days outside the intervention of government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.28.3
+  kind: p
+  original: ''
+  en: Also that government only interferes to exploit the masses, or defend the privileged class, or, lastly, to sanction, most unnecessarily, all that has been done without its aid, often in spite of and in opposition to it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.28.4
+  kind: p
+  original: ''
+  en: Men work, exchange, study, travel, follow as they choose the current rules of morality, or hygiene; they profit by the progress of science and art, have numberless mutual interests without ever feeling the need of anyone to direct them how to conduct themselves in regard to these matters.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.28.5
+  kind: p
+  original: ''
+  en: On the contrary, it is just those things in which there is no governmental interference that prosper best, and that give rise to the least contention, being unconsciously adapted to the wish of all in the way found most useful and agreeable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.29.1
+  kind: p
+  original: ''
+  en: Nor is government more necessary in the case of large undertakings, or for those public services which require the constant co-operation of many people of different conditions and countries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.29.2
+  kind: p
+  original: ''
+  en: Thousands of these undertakings are even now the work of voluntarily formed associations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.29.3
+  kind: p
+  original: ''
+  en: And these are, by the acknowledgment of every one, the undertakings which succeed the best.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.29.4
+  kind: p
+  original: ''
+  en: Nor do we refer to the association of capitalists, organized by means of exploitation, although even they show capabilities and powers of free association, which may extend ad libitum until it embraces all the peoples of all lands, and includes the widest and most varying interests.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.29.5
+  kind: p
+  original: ''
+  en: But we speak rather of those associations inspired by the love of humanity, or by the passion for knowledge, or even simply by the desire for amusement and love of applause, as these better represent such grouping as will exist in a society where, private property and internal strife between men being abolished, each will find his interests synonymous with the interests of every one else, and his greatest satisfaction in doing good and pleasing others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.29.6
+  kind: p
+  original: ''
+  en: Scientific societies and congresses, international life-boat and Red Cross associations, etc., laborers' unions, peace societies, volunteers who hasten to the rescue at times of great public calamity are all examples, among thousands, of that power of the spirit of association, which always shows itself when a need arises, or an enthusiasm takes hold, and the means do not fail.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.29.7
+  kind: p
+  original: ''
+  en: That voluntary associations do not cover the world, and do not embrace every branch of material and moral activity, is the fault of the obstacles placed in their way by governments, of the antagonisms created by the possession of private property, and of the impotence and degradation to which the monopolizing of wealth on the part of the few reduces the majority of mankind.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.1
+  kind: p
+  original: ''
+  en: The government takes charge, for instance, of the postal and telegraphic services.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.2
+  kind: p
+  original: ''
+  en: But in what way does it really assist them?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.3
+  kind: p
+  original: ''
+  en: When the people are in such a condition as to be able to enjoy, and feel the need of such services, they will think about organizing them; and the man with the necessary technical knowledge will not require a certificate from the government to enable him to set to work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.4
+  kind: p
+  original: ''
+  en: The more general and urgent the need, the more volunteers will offer to satisfy it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.5
+  kind: p
+  original: ''
+  en: Would the people have the ability necessary to provide and distribute provisions?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.6
+  kind: p
+  original: ''
+  en: Oh! never fear, they will not die of hunger, waiting for a government to pass laws on the subject.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.7
+  kind: p
+  original: ''
+  en: Wherever a government exists, it must wait until the people have first organized everything, and then come with its laws to sanction and exploit that which has been already done.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.8
+  kind: p
+  original: ''
+  en: It is evident that private interest is the great motive for all activity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.9
+  kind: p
+  original: ''
+  en: That being so, when the interest of every one becomes the interest of each (and it necessarily will become so as soon as private property is abolished) then all will be active.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.10
+  kind: p
+  original: ''
+  en: And if now they work in the interest of the few, so much the more and so much the better will they work to satisfy the interests of all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.30.11
+  kind: p
+  original: ''
+  en: It is hard to understand how anyone can believe that public services indispensable to social life can be better secured by order of a government than through the workers themselves, who by their own choice or by agreement made with others, carry them out under the immediate control of all interested.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.1
+  kind: p
+  original: ''
+  en: Certainly in every collective undertaking on a large scale, there is need for division of labor, for technical direction, administration, etc.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.2
+  kind: p
+  original: ''
+  en: But the authoritarians are merely playing with words, when they deduce a reason for the existence of government, from the very real necessity for organization of labor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.3
+  kind: p
+  original: ''
+  en: The government, we must repeat, is the aggregate of the individuals who have had given them, or have taken the right or the means to make laws, and force the people to obey them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.4
+  kind: p
+  original: ''
+  en: The administrators, engineers, etc., on the other hand, are men who receive or assume the charge of doing a certain work, and who do it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.5
+  kind: p
+  original: ''
+  en: Government signifies delegation of power, that is, abdication of the initiative and sovereignty of every one into the hands of the few.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.31.6
+  kind: p
+  original: ''
+  en: Administration signifies delegation of work, that is, a charge given and accepted, the free exchange of services founded on free agreement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.32.1
+  kind: p
+  original: ''
+  en: A governor is a privileged person, because he has the right to command others, and to avail himself of the force of others, to make his own ideas and desires triumph.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.32.2
+  kind: p
+  original: ''
+  en: An administrator or technical director is a worker like others, in a society, of course, where all have equal opportunities of development, and all are, or can be, at the same time intellectual and manual workers; when there are no other differences between men than those derived from diversity of talents, and all work and all social functions give an equal right to the enjoyment of social advantages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.32.3
+  kind: p
+  original: ''
+  en: The functions of government are, in short, not to be confounded with administrative functions, as they are essentially different.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.32.4
+  kind: p
+  original: ''
+  en: That they are today so often confused is entirely on account of the existence of economic and political privilege.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.33.1
+  kind: p
+  original: ''
+  en: But let us hasten to pass on to those functions for which government is thought indispensable by all who are not Anarchists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.33.2
+  kind: p
+  original: ''
+  en: These are the internal and external defence of society, that is, War, Police and Justice.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.1
+  kind: p
+  original: ''
+  en: Government being abolished, and social wealth at the disposal of every one, all antagonism between various nations would soon cease; and there would consequently be no more cause for war.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.2
+  kind: p
+  original: ''
+  en: Moreover, in the present state of the world, in any country where the spirit of rebellion is growing, even if it do not find an echo throughout the land, it will be certain of so much sympathy that the government will not dare to send all its troops to a foreign war, for fear the revolution should break out at home.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.3
+  kind: p
+  original: ''
+  en: But even supposing that the rulers of countries not yet emancipated would wish and could attempt to reduce a free people to servitude, would these require a government to enable them to defend themselves?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.4
+  kind: p
+  original: ''
+  en: To make war, we need men who have the necessary geographical and technical knowledge, and, above all, people willing to fight.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.5
+  kind: p
+  original: ''
+  en: A government has no means of augmenting the ability of the former, or the willingness or courage of the latter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.6
+  kind: p
+  original: ''
+  en: And the experience of history teaches that a people really desirous of defending their own country are invincible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.34.7
+  kind: p
+  original: ''
+  en: In Italy every one knows how thrones tremble, and regular armies of hired soldiers vanish before troops of volunteers, that is, armies Anarchically formed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.35.1
+  kind: p
+  original: ''
+  en: And as to the police and justice, many imagine that if it were not for the police and the judges, everybody would be free to kill, violate or injure others as the humor took him; that Anarchists, if they are true to their principles, would like to see this strange kind of liberty respected; "liberty" that violates or destroys the life and freedom of others unrestrained.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.35.2
+  kind: p
+  original: ''
+  en: Such people believe that we, having overthrown the government and private property, shall then tranquilly allow the re-establishment of both, out of respect for the "liberty" of those who may feel the need of having a government and private property.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.35.3
+  kind: p
+  original: ''
+  en: A strange mode indeed of construing our ideas!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.35.4
+  kind: p
+  original: ''
+  en: In truth, one may better answer such notions with a shrug of the shoulders than by taking the trouble to confute them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.36.1
+  kind: p
+  original: ''
+  en: The liberty we wish for, for ourselves and others, is not an absolute, abstract, metaphysical liberty, which in practice can only amount to the oppression of the weak.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.36.2
+  kind: p
+  original: ''
+  en: But we wish for a tangible liberty, the possible liberty, which is the conscious communion of interests, that is, voluntary solidarity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.36.3
+  kind: p
+  original: ''
+  en: 'We proclaim the maxim: Do as you will; and in this our program is almost entirely contained, because, as may be easily understood, we hold that in a society without government or property, each one will wish that which he should.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.1
+  kind: p
+  original: ''
+  en: But if, in consequence of a false education, received in the present society, or of physical disease, or whatever other cause, an individual should wish to injure others, you may be sure we should adopt all the means in our power to prevent him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.2
+  kind: p
+  original: ''
+  en: As we know that a man's character is the consequence of his physical organism, and of the cosmic and social influences surrounding him, we certainly shall not confound the sacred right of self-defence, with the absurdly assumed right to punish.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.3
+  kind: p
+  original: ''
+  en: Also, we shall not regard the delinquent, that is, the man who commits anti-social acts, as the rebel he seems in the eyes of the judges nowadays.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.4
+  kind: p
+  original: ''
+  en: We shall regard him as a sick brother in need of cure.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.5
+  kind: p
+  original: ''
+  en: We therefore shall not act towards him in the spirit of hatred, when repressing him, but shall confine ourselves solely to self-protection.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.6
+  kind: p
+  original: ''
+  en: We shall not seek to revenge ourselves, but rather to rescue the unfortunate one by every means that science suggests.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.7
+  kind: p
+  original: ''
+  en: In theory, Anarchists may go astray like others, losing sight of the reality under a semblance of logic; but it is quite certain that the emancipated people will not let their dearly bought liberty and welfare be attacked with impunity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.8
+  kind: p
+  original: ''
+  en: If the necessity arose, they would provide for their own defence against the anti-social tendencies of certain amongst them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.9
+  kind: p
+  original: ''
+  en: But how do those whose business it now is to make the laws, protect society?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.10
+  kind: p
+  original: ''
+  en: Or those others who live by seeking for and inventing new infringements of law?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.11
+  kind: p
+  original: ''
+  en: Even now, when the masses of the people really disapprove of anything and think it injurious, they always find a way to prevent it very much more effectually than all the professional legislators, constables or judges.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.37.12
+  kind: p
+  original: ''
+  en: During insurrections, the people, though very mistakenly, have enforced the respect for private property; and they have secured this respect far better than an army of policemen could have done.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.38.1
+  kind: p
+  original: ''
+  en: Customs always follow the needs and sentiments of the majority; and they are always the more respected, the less they are subject to the sanction of law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.38.2
+  kind: p
+  original: ''
+  en: This is because every one sees and comprehends their utility, and because the interested parties, not deluding themselves with the idea that government will protect them, are themselves concerned in seeing the custom respected.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.38.3
+  kind: p
+  original: ''
+  en: The economical use of water is of very great importance to a caravan crossing the deserts of Africa.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.38.4
+  kind: p
+  original: ''
+  en: Under these circumstances, water is a sacred thing; and no sane man dreams of wasting it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.38.5
+  kind: p
+  original: ''
+  en: Conspirators are obliged to act secretly; so secrecy is preserved among them, and obloquy rests on whosoever violates it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.38.6
+  kind: p
+  original: ''
+  en: Gambling debts are not guaranteed by law; but among gamblers it is considered dishonorable not to pay them, and the delinquent feels himself dishonored by not fulfilling his obligations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.39.1
+  kind: p
+  original: ''
+  en: Is it on account of the police that more people are not murdered?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.39.2
+  kind: p
+  original: ''
+  en: The greater part of the Italian people never see the police except at long intervals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.39.3
+  kind: p
+  original: ''
+  en: Millions of men go over the mountains and through the country, far from the protecting eye of authority, where they might be attacked without the slightest fear of their assailants being traced; but they run no greater risk than those who live in the best guarded spots.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.39.4
+  kind: p
+  original: ''
+  en: Statistics show that the number of crimes rise in proportion to the increase of repressive measures; while they vary rapidly with the fluctuations of economic conditions and with the state of public opinion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.40.1
+  kind: p
+  original: ''
+  en: Preventive laws, however, only concern unusual, exceptional acts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.40.2
+  kind: p
+  original: ''
+  en: Every-day life goes on beyond the limits of the criminal code, and is regulated almost unconsciously by the tacit and voluntary assent of all, by means of a number of usages and customs much more important to social life than the dictates of law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.40.3
+  kind: p
+  original: ''
+  en: And they are also much better observed, although completely divested of any sanction beyond the natural odium which falls upon those who violate them, and such injury as this odium brings with it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.41.1
+  kind: p
+  original: ''
+  en: When disputes arise, would not voluntarily accepted arbitration or the pressure of public opinion be far more likely to bring about a just settlement of the difficulties in question than an irresponsible magistrate, who has the right to pass judgment upon everybody and everything, and who is necessarily incompetent and therefore unjust?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.42.1
+  kind: p
+  original: ''
+  en: As every form of government only serves to protect the privileged classes, so do police and judges only aim at repressing those crimes, often not considered criminal by the masses, which offend only the privileges of the rulers or property-owners.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.42.2
+  kind: p
+  original: ''
+  en: For the real defence of society, the defence of the welfare and liberty of all, there can be nothing more pernicious than the formation of this class of functionaries, who exist on the pretence of defending all, and therefore habitually regard every man as game to be hunted down, often striking at the command of a superior officer, without themselves even knowing why, like hired assassins and mercenaries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.1
+  kind: p
+  original: ''
+  en: All that you have said may be true, say some; Anarchy may be a perfect form of social life; but we have no desire to take a leap in the dark.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.2
+  kind: p
+  original: ''
+  en: Therefore, tell us how your society will be organized.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.3
+  kind: p
+  original: ''
+  en: Then follows a long string of questions, which would be very interesting if it were our business to study the problems that might arise in an emancipated society, but of which it is useless and absurd to imagine that we could now offer a definite solution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.4
+  kind: p
+  original: ''
+  en: According to what method will children be taught?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.5
+  kind: p
+  original: ''
+  en: How will production and distribution be organized?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.6
+  kind: p
+  original: ''
+  en: Will there still be large cities, or will people spread equally over all the surface of the earth?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.7
+  kind: p
+  original: ''
+  en: Will all the inhabitants of Siberia winter at Nice?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.8
+  kind: p
+  original: ''
+  en: Will every one dine on partridges and drink champagne?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.9
+  kind: p
+  original: ''
+  en: Who will be the miners and sailors?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.10
+  kind: p
+  original: ''
+  en: Who will clear the drains?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.11
+  kind: p
+  original: ''
+  en: Will the sick be nursed at home or in hospitals?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.12
+  kind: p
+  original: ''
+  en: Who will arrange the railway time-table?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.13
+  kind: p
+  original: ''
+  en: What will happen if the engine-driver falls ill while the train is on its way?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.43.14
+  kind: p
+  original: ''
+  en: And so on, without end, as though we could prophesy all the knowledge and experience of the future time, or could, in the name of Anarchy, prescribe for the coming man what time he should go to bed, and on what days he should cut his nails!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.44.1
+  kind: p
+  original: ''
+  en: Indeed if our readers expect from us an answer to these questions, or even to those among them really serious and important, which cannot be anything more than our own private opinion at this present hour, we must have succeeded badly in our endeavor to explain what Anarchy is.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.45.1
+  kind: p
+  original: ''
+  en: We are no more prophets than other men; and should we pretend to give an official solution to all the problems that will arise in the life of the future society, we should have indeed a curious idea of the abolition of government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.45.2
+  kind: p
+  original: ''
+  en: We should then be describing a government, dictating, like the clergy, a universal code for the present and all future time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.45.3
+  kind: p
+  original: ''
+  en: Seeing that we have neither police nor prisons to enforce our doctrine, humanity might laugh with impunity at us and our pretensions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.46.1
+  kind: p
+  original: ''
+  en: Nevertheless, we consider seriously all the problems of social life which now suggest themselves, on account of their scientific interest, and because, hoping to see Anarchy realized, we wish to help towards the organization of the new society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.46.2
+  kind: p
+  original: ''
+  en: We have therefore our own ideas on these subjects, ideas which are to our minds likely to be permanent or transitory, according to the respective cases.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.46.3
+  kind: p
+  original: ''
+  en: And did space permit, we might add somewhat more on these points.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.46.4
+  kind: p
+  original: ''
+  en: But the fact that we today think in a certain way on a given question is no proof that such will be the mode of procedure in the future.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.46.5
+  kind: p
+  original: ''
+  en: Who can foresee the activities which may develop in humanity when it is emancipated from misery and oppression?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.46.6
+  kind: p
+  original: ''
+  en: When all have the means of instruction and self-development?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.46.7
+  kind: p
+  original: ''
+  en: When the strife between men, with the hatred and rancour it breeds, will be no longer a necessary condition of existence?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.46.8
+  kind: p
+  original: ''
+  en: Who can foresee the progress of science, the new sources of production, means of communication, etc.?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.47.1
+  kind: p
+  original: ''
+  en: The one essential is that a society be constituted in which the exploitation and domination of man by man are impossible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.47.2
+  kind: p
+  original: ''
+  en: That the society, in other words, be such that the means of existence and development of labor be free and open to every one, and all be able to co-operate, according to their wishes and their knowledge, in the organization of social life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.47.3
+  kind: p
+  original: ''
+  en: Under such conditions, everything will necessarily be performed in compliance with the needs of all, according to the knowledge and possibilities of the moment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.47.4
+  kind: p
+  original: ''
+  en: And everything will improve with the increase of knowledge and power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.48.1
+  kind: p
+  original: ''
+  en: In fact, a program which would touch the basis of the new social constitution could not do more, after all, than indicate a method.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.48.2
+  kind: p
+  original: ''
+  en: And method, more than anything else, defines parties and determines their importance in history.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.48.3
+  kind: p
+  original: ''
+  en: Method apart, every one says he wishes for the good of mankind; and many do truly wish for it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.48.4
+  kind: p
+  original: ''
+  en: As parties disappear, every organized action directed to a definite end disappears likewise.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.48.5
+  kind: p
+  original: ''
+  en: It is therefore necessary to consider Anarchy as, above all, a method.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.1
+  kind: p
+  original: ''
+  en: There are two methods by which the different parties, not Anarchistic, expect, or say they expect, to bring about the greatest good of each and all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.2
+  kind: p
+  original: ''
+  en: These are the authoritarian or State Socialist and the individualist methods.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.3
+  kind: p
+  original: ''
+  en: The former entrusts the direction of social life to a few; and it would result in the exploitation and oppression of the masses by that few.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.4
+  kind: p
+  original: ''
+  en: The second party trusts to the free initiative of individuals, and proclaims, if not the abolition, the reduction of government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.5
+  kind: p
+  original: ''
+  en: However, as it respects private property, and is founded on the principle of each for himself, and therefore on competition, its liberty is only the liberty of the strong, the license of those who have, to oppress and exploit the weak who have nothing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.6
+  kind: p
+  original: ''
+  en: Far from producing harmony, it would tend always to augment the distance between the rich and the poor, and end also through exploitation and domination in authority.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.7
+  kind: p
+  original: ''
+  en: This second method, Individualism, is in theory a kind of Anarchy without Socialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.8
+  kind: p
+  original: ''
+  en: It is therefore no better than a lie, because liberty is not possible without equality, and true Anarchy cannot be without Solidarity, without Socialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.9
+  kind: p
+  original: ''
+  en: The criticism which Individualists pass on government is merely the wish to deprive it of certain functions, to virtually hand them over to the capitalist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.10
+  kind: p
+  original: ''
+  en: But it cannot attack those repressive functions which form the essence of government; for without an armed force the proprietary system could not be upheld.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.49.11
+  kind: p
+  original: ''
+  en: Nay, even more, under Individualism, the repressive power of government must always increase, in proportion to the increase, by means of free competition, of the want of equality and harmony.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.50.1
+  kind: p
+  original: ''
+  en: Anarchists present a new method; the free initiative of all and free agreement; then, after the revolutionary abolition of private property, every one will have equal power to dispose of social wealth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.50.2
+  kind: p
+  original: ''
+  en: This method, not admitting the re-establishment of private property, must lead, by means of free association, to the complete triumph of the principles of solidarity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.51.1
+  kind: p
+  original: ''
+  en: Thus we see that all the problems put forward to combat the Anarchistic idea are on the contrary arguments in favor of Anarchy; because it alone indicates the way in which, by experience, those solutions which correspond to the dicta of science, and to the needs and wishes of all, can best be found.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.52.1
+  kind: p
+  original: ''
+  en: How will children be educated?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.52.2
+  kind: p
+  original: ''
+  en: We do not know.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.52.3
+  kind: p
+  original: ''
+  en: What then?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.52.4
+  kind: p
+  original: ''
+  en: The parents, teachers and all who are interested in the progress of the rising generation, will meet, discuss, agree and differ, and then divide according to their various opinions, putting into practice the methods which they respectively hold to be best.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.52.5
+  kind: p
+  original: ''
+  en: That method which, when tried, produces the best results, will triumph in the end.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.53.1
+  kind: p
+  original: ''
+  en: And so for all the problems that may arise.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.54.1
+  kind: p
+  original: ''
+  en: According to what we have so far said, it is evident that Anarchy, as the Anarchists conceive it, and as alone it can be comprehended, is based on Socialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.54.2
+  kind: p
+  original: ''
+  en: Furthermore, were it not for that school of Socialists who artificially divide the natural unity of the social question, considering only some detached points, and were it not also for the equivocations with which they strive to hinder the social revolution, we might say right away that Anarchy is synonymous with Socialism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.54.3
+  kind: p
+  original: ''
+  en: Because both signify the abolition of exploitation and of the domination of man over man, whether maintained by the force of arms or by the monopolization of the means of life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.55.1
+  kind: p
+  original: ''
+  en: Anarchy, like Socialism, has for its basis and necessary point of departure equality of conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.55.2
+  kind: p
+  original: ''
+  en: Its aim is solidarity, and its method liberty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.55.3
+  kind: p
+  original: ''
+  en: It is not perfection, nor is it the absolute ideal, which, like the horizon, always recedes as we advance towards it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.55.4
+  kind: p
+  original: ''
+  en: But it is the open road to all progress and to all improvement, made in the interest of all humanity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.56.1
+  kind: p
+  original: ''
+  en: There are authoritarians who grant that Anarchy is the mode of social life which alone opens the way to the attainment of the highest possible good for mankind, because it alone can put an end to every class interested in keeping the masses oppressed and miserable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.56.2
+  kind: p
+  original: ''
+  en: They also grant that Anarchy is possible, because it does nothing more than release humanity from an obstacle--government--against which it has always had to fight its painful way towards progress.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.56.3
+  kind: p
+  original: ''
+  en: Nevertheless, these authoritarians, reinforced by many warm lovers of liberty and justice in theory, retire into their last entrenchments, because they are afraid of liberty, and cannot be persuaded that mankind could live and prosper without teachers and pastors; still, hard pressed by the truth, they pitifully demand to have the reign of liberty put off for a while, indeed for as long as possible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.57.1
+  kind: p
+  original: ''
+  en: Such is the substance of the arguments that meet us at this stage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.58.1
+  kind: p
+  original: ''
+  en: A society without a government, which would act by free, voluntary co-operation, trusting entirely to the spontaneous action of those interested, and founded altogether on solidarity and sympathy, is certainly, they say, a very beautiful ideal, but, like all ideals, it is a castle in the air.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.58.2
+  kind: p
+  original: ''
+  en: We find ourselves placed in a human society, which has always been divided into oppressors and oppressed; and if the former are full of the spirit of domination, and have all the vices of tyrants, the latter are corrupted by servility, and have those still worse vices, which are the result of enslavement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.58.3
+  kind: p
+  original: ''
+  en: The sentiment of solidarity is far from being dominant in man at the present day; and if it is true that the different classes of men are becoming more and more unanimous among themselves, it is none the less true that that which is most conspicuous and impresses itself most on human character today is the struggle for existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.58.4
+  kind: p
+  original: ''
+  en: It is a fact that each fights daily against every one else, and competition presses upon all, workmen and masters, causing every man to become a wolf towards every other man.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.58.5
+  kind: p
+  original: ''
+  en: How can these men, educated in a society based upon antagonism between individuals as well as classes, be transformed in a moment and become capable of living in a society in which each shall do as he likes, and as he should, without external coercion, caring for the good of others, simply by the impulse of their own nature?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.58.6
+  kind: p
+  original: ''
+  en: And with what heart or what common sense can you trust to a revolution on the part of an ignorant, turbulent mass, weakened by misery, stupefied by priestcraft, who are today blindly sanguinary and tomorrow will let themselves be humbugged by any knave, who dares to call himself their master?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.58.7
+  kind: p
+  original: ''
+  en: Would it not be more prudent to advance gradually towards the Anarchistic ideal, passing through Republican, Democratic and Socialistic stages?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.58.8
+  kind: p
+  original: ''
+  en: Will not an educative government, composed of the best men, be necessary to prepare the advancing generations for their future destiny?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.59.1
+  kind: p
+  original: ''
+  en: These objections also ought not to appear valid if we have succeeded in making our readers understand what we have already said, and in convincing them of it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.59.2
+  kind: p
+  original: ''
+  en: But in any case, even at the risk of repetition, it may be as well to answer them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.60.1
+  kind: p
+  original: ''
+  en: We find ourselves continually met by the false notion that government is in itself a new force, sprung up one knows not whence, which of itself adds something to the sum of the force and capability of those whom it is composed and of those who obey it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.60.2
+  kind: p
+  original: ''
+  en: While, on the contrary, all that is done is done by individual men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.60.3
+  kind: p
+  original: ''
+  en: The government, as a government, adds nothing save the tendency to monopolize for the advantage of certain parties or classes, and to repress all initiative from beyond its own circle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.61.1
+  kind: p
+  original: ''
+  en: To abolish authority or government does not mean to destroy the individual or collective forces, which are at work in society, nor the influence men exert over one another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.61.2
+  kind: p
+  original: ''
+  en: That would be to reduce humanity to an aggregate of inert and separate atoms; an impossibility which, if it could be performed, would be the destruction of any society, the death blow to mankind.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.61.3
+  kind: p
+  original: ''
+  en: To abolish authority, means to abolish the monopoly of force and of influence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.61.4
+  kind: p
+  original: ''
+  en: It means to abolish that state of things by which social force, that is, the collective force of all in a society, is made the instrument of the thought, will and interests of a small number of individuals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.61.5
+  kind: p
+  original: ''
+  en: These, by means of the collective force, suppress the liberty of every one else, to the advantage of their own ideas.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.61.6
+  kind: p
+  original: ''
+  en: In other words, it means to destroy a mode of organization by means of which the future is exploited, between one revolution and another, to the profit of those who have been the victors of the moment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.62.1
+  kind: p
+  original: ''
+  en: Michael Bakunin, in an article published in 1872, asserts that the great means of action of the International were the propagating of their ideas, and the organization of the spontaneous action of its members in regard to the masses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.62.2
+  kind: p
+  original: ''
+  en: 'He then adds:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.63.1
+  kind: p
+  original: ''
+  en: '"To whoever might pretend that action so organized would be an outrage on the liberty of the masses, or an attempt to create a new authoritative power, we would reply that he is a sophist and a fool.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.63.2
+  kind: p
+  original: ''
+  en: So much the worse for those who ignore the natural, social law of human solidarity, to the extent of imagining that an absolute mutual independence of individuals and of masses is a possible or even desirable thing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.63.3
+  kind: p
+  original: ''
+  en: To desire it, would be to wish for the destruction of society; for all social life is nothing else than this mutual and incessant interdependence among individuals and masses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.63.4
+  kind: p
+  original: ''
+  en: All individuals, even the most gifted and strongest, indeed most of all the most gifted and strongest, are at every moment of their lives, at the same time, producers and products.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.63.5
+  kind: p
+  original: ''
+  en: Equal liberty for every individual is only the resultant, continually reproduced, of this mass of material, intellectual and moral influence exercised on him by all the individuals around him, belonging to the society in which he was born, has developed and dies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.63.6
+  kind: p
+  original: ''
+  en: To wish to escape this influence in the name of a transcendental liberty, divine, absolutely egoistic and sufficient to itself, is the tendency to annihilation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.63.7
+  kind: p
+  original: ''
+  en: To refrain from influencing others, would mean to refrain from all social action, indeed to abstain from all expression of one's thoughts and sentiments, and simply to become non-existent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.63.8
+  kind: p
+  original: ''
+  en: This independence, so much extolled by idealists and metaphysicians, individual liberty conceived in this sense would amount to self-annihilation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.64.1
+  kind: p
+  original: ''
+  en: '"In nature, as in human society, which is also a part of this same nature, all that exists lives only by complying with the supreme conditions of interaction, which is more or less positive and potent with regard to the lives of other beings, according to the nature of the individual.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.64.2
+  kind: p
+  original: ''
+  en: And when we vindicate the liberty of the masses, we do not pretend to abolish anything of the natural influences that individuals or groups of individuals exert upon one another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.64.3
+  kind: p
+  original: ''
+  en: What we wish for is the abolition of artificial influences, which are privileged, legal and official."
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.65.1
+  kind: p
+  original: ''
+  en: Certainly, in the present state of mankind, oppressed by misery, stupefied by superstition and sunk in degradation, the human lot depends upon a relatively small number of individuals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.65.2
+  kind: p
+  original: ''
+  en: Of course, all men will not be able to rise in a moment to the height of perceiving their duty, or even the enjoyment of so regulating their own action that others also will derive the greatest possible benefit from it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.65.3
+  kind: p
+  original: ''
+  en: But because nowadays the thoughtful and guiding forces at work in society are few, that is no reason for paralyzing them still more, and for the subjection of many individuals to the direction of a few.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.65.4
+  kind: p
+  original: ''
+  en: It is no reason for constituting society in such a manner that the most active forces, the highest capacities are, in the end, found outside the government, and almost deprived of influence on social life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.65.5
+  kind: p
+  original: ''
+  en: All this now happens owing to the inertia that secured positions foster, to heredity, to protectionism, to party spirit and to all the mechanism of government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.65.6
+  kind: p
+  original: ''
+  en: For those in government office, taken out of their former social position, primarily concerned in retaining power, lose all power to act spontaneously, and become only an obstacle to the free action of others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.66.1
+  kind: p
+  original: ''
+  en: With the abolition of this negative potency constituting government, society will become that which it can be, with the given forces and capabilities of the moment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.66.2
+  kind: p
+  original: ''
+  en: If there are educated men desirous of spreading education, they will organize the schools, and will be constrained to make the use and enjoyment to be derived from education felt.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.66.3
+  kind: p
+  original: ''
+  en: And if there are no such men, or only a few of them, a government cannot create them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.66.4
+  kind: p
+  original: ''
+  en: All it can do, as in fact it does nowadays, is to take these few away from practical, fruitful work in the sphere of education, and put them to direct from above what has to be imposed by the help of a police system.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.66.5
+  kind: p
+  original: ''
+  en: So they make out of intelligent and impassionate teachers mere politicians, who become useless parasites, entirely absorbed in imposing their own hobbies, and in maintaining themselves in power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.67.1
+  kind: p
+  original: ''
+  en: If there are doctors and teachers of hygiene, they will organize themselves for the service of health.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.67.2
+  kind: p
+  original: ''
+  en: And if there are none, a government cannot create them; all that it can do is to discredit them in the eyes of the people, who are inclined to entertain suspicions, sometimes only too well founded, with regard to everything which is imposed upon them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.68.1
+  kind: p
+  original: ''
+  en: If there are engineers and mechanics, they will organize the railways, etc; and if there are none, a government cannot create them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.69.1
+  kind: p
+  original: ''
+  en: The revolution, by abolishing government and private property, will not create force which does not exist; but it will leave a free field for the exercise of all available force and of all existent capacity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.69.2
+  kind: p
+  original: ''
+  en: While it will destroy every class interested in keeping the masses degraded, it will act in such a way that every one will be free to work and make his influence felt, in proportion to his own capacity, and in conformity with his sentiments and interests.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.69.3
+  kind: p
+  original: ''
+  en: And it is only thus that the elevation of the masses is possible; for it is only with liberty that one can learn to be free, as it is only by working that one can learn to work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.69.4
+  kind: p
+  original: ''
+  en: A government, even had it no other advantages, must always have that of habituating the governed to subjection, and must also tend to become more oppressive and more necessary, in proportion as its subjects are more obedient and docile.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.1
+  kind: p
+  original: ''
+  en: But suppose government were the direction of affairs by the best people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.2
+  kind: p
+  original: ''
+  en: Who are the best?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.3
+  kind: p
+  original: ''
+  en: And how shall we recognize their superiority.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.4
+  kind: p
+  original: ''
+  en: The majority are generally attached to old prejudices, and have ideas and instincts already outgrown by the more favored minority.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.5
+  kind: p
+  original: ''
+  en: But of the various minorities, who all believe themselves in the right, as no doubt many of them are in part, which shall be chosen to rule?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.6
+  kind: p
+  original: ''
+  en: And by whom?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.7
+  kind: p
+  original: ''
+  en: And by what criterion?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.8
+  kind: p
+  original: ''
+  en: Seeing that the future alone can prove which among them is the most superior.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.9
+  kind: p
+  original: ''
+  en: If you choose a hundred partisans of dictatorship, you will discover that each one of the hundred believes himself capable of being, if not sole dictator, at least of assisting very materially in the dictatorial government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.10
+  kind: p
+  original: ''
+  en: The dictators would be those who, by one means or another, succeeded in imposing themselves on society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.70.11
+  kind: p
+  original: ''
+  en: And, in course of time, all their energy would inevitably be employed in defending themselves against the attacks of their adversaries, totally oblivious of their desire, if ever they had had it, to be merely an educative power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.71.1
+  kind: p
+  original: ''
+  en: Should government be, on the other hand, elected by universal suffrage, and so be the emanation, more or less sincere, of the wish of the majority?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.71.2
+  kind: p
+  original: ''
+  en: But if you consider these worthy electors as incapable of providing for their own interests, how can they ever be capable of themselves choosing directors to guide them wisely?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.71.3
+  kind: p
+  original: ''
+  en: 'How solve this problem of social alchemy: To elect a government of geniuses by the votes of a mass of fools?'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.71.4
+  kind: p
+  original: ''
+  en: And what will be the lot of the minority, who are the most intelligent, most active and most advanced in society?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.72.1
+  kind: p
+  original: ''
+  en: To solve the social problem to the advantage of all, there is only one way.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.72.2
+  kind: p
+  original: ''
+  en: To expel the government by revolutionary means, to expropriate the holders of social wealth, putting everything at the disposition of all, and to leave all existing force, capacity and good-will among men free to provide for the needs of all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.73.1
+  kind: p
+  original: ''
+  en: We fight for Anarchy and for Socialism; because we believe that Anarchy and Socialism ought to be brought into operation as soon as possible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.73.2
+  kind: p
+  original: ''
+  en: Which means that the revolution must drive away the government, abolish private property, and entrust all public service, which will then embrace all social life, to the spontaneous, free, unofficial and unauthorized operation of all those interested and all those willing volunteers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.74.1
+  kind: p
+  original: ''
+  en: There will certainly be difficulties and inconveniences; but the people will be resolute; and they alone can solve all difficulties Anarchically, that is, by direct action of those interested and by free agreement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.75.1
+  kind: p
+  original: ''
+  en: We cannot say whether Anarchy and Socialism will triumph after the next revolutionary attempt; but this is certain, that if any of the so-called transition programs triumph, it will be because we have been temporarily beaten, and never because we have thought it wise to leave in existence any one part of that evil system under which humanity groans.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.76.1
+  kind: p
+  original: ''
+  en: Whatever happens, we shall have some influence on events, by our numbers, our energy, our intelligence and our steadfastness.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.76.2
+  kind: p
+  original: ''
+  en: Also, even if we are now conquered, our work will not have been in vain; for the more decided we shall have been in aiming at the realization of all our demands, the less there will be of government and of private property in the new society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.76.3
+  kind: p
+  original: ''
+  en: And we shall have done a great work; for human progress is measured by the degree in which government and private property are administered.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.77.1
+  kind: p
+  original: ''
+  en: If today we fall without lowering our colors, our cause is certain of victory tomorrow.
+  modern: ''
+  modern_status: empty
+  notes: ''

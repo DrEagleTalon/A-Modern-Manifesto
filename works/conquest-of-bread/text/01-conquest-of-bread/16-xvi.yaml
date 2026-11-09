@@ -1,0 +1,1036 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: XVI
+title_original: Chapter XVI. The Decentralization of Industry
+title_en: Chapter XVI. The Decentralization of Industry
+author: Peter Kropotkin
+date: 1892 (French); English 1906
+original_language: fr
+anchor_language: en
+source_original: Not yet in this repository. Kropotkin's French, La Conquête du pain (Paris 1892), is still to be located on a reachable mirror.
+source_en: 'Anonymous English translation (London: Chapman and Hall, 1906) with Kropotkin''s preface of 1913, Vanguard Press printing (New York 1926), Project Gutenberg ebook 23428 (public domain)'
+verses:
+- id: XVI.0.1
+  kind: heading
+  original: ''
+  en: Chapter XVI. The Decentralization of Industry
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - XVI.N10
+- id: XVI.1.1
+  kind: heading
+  original: ''
+  en: I
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.2.1
+  kind: p
+  original: ''
+  en: After the Napoleonic wars Britain had nearly succeeded in ruining the main industries which had sprung up in France at the end of the preceding century.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.2.2
+  kind: p
+  original: ''
+  en: She also became mistress of the seas and had no rivals of importance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.2.3
+  kind: p
+  original: ''
+  en: She took in the situation, and knew how to turn its privileges and advantages to account.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.2.4
+  kind: p
+  original: ''
+  en: She established an industrial monopoly, and, imposing upon her neighbours her prices for the goods she alone could manufacture, accumulated riches upon riches.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.3.1
+  kind: p
+  original: ''
+  en: But as the middle-class Revolution of the eighteenth century had abolished serfdom and created a proletariat in France, French industry, hampered for a time in its flight, soared again, and from the second half of the nineteenth century France ceased to be a tributary of England for manufactured goods.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.3.2
+  kind: p
+  original: ''
+  en: To-day she too has grown into a nation with an export trade.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.3.3
+  kind: p
+  original: ''
+  en: She sells far more than sixty million pounds' worth of manufactured goods, and two-thirds of these goods are fabrics.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.3.4
+  kind: p
+  original: ''
+  en: The number of Frenchmen working for export or living by their foreign trade, is estimated at three millions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.4.1
+  kind: p
+  original: ''
+  en: France is therefore no longer England's tributary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.4.2
+  kind: p
+  original: ''
+  en: In her turn she has striven to monopolize certain branches of foreign industry, such as silks and ready-made clothes, and has reaped immense profits therefrom; but she is on the point of losing this monopoly for ever, just as England is on the point of losing the monopoly of cotton goods.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.5.1
+  kind: p
+  original: ''
+  en: Travelling eastwards, industry has reached Germany.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.5.2
+  kind: p
+  original: ''
+  en: Fifty years ago Germany was a tributary of England and France for most manufactured commodities in the higher branches of industry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.5.3
+  kind: p
+  original: ''
+  en: It is no longer so.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.5.4
+  kind: p
+  original: ''
+  en: In the course of the last fifty years, and especially since the Franco-German war, Germany has completely reorganized her industry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.5.5
+  kind: p
+  original: ''
+  en: The new factories are stocked with the best machinery; the latest creations of industrial art in cotton goods from Manchester, or in silks from Lyons, etc., are now realized in new German factories.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.5.6
+  kind: p
+  original: ''
+  en: It took two or three generations of workers, at Lyons and Manchester, to construct the modern machinery; but Germany adopted it in its perfected state.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.5.7
+  kind: p
+  original: ''
+  en: Technical schools, adapted to the needs of industry, supply the factories with an army of intelligent workmen--practical engineers, who can work with both hand and brain.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.5.8
+  kind: p
+  original: ''
+  en: German industry starts at the point which was only reached by Manchester and Lyons after fifty years of groping in the dark, of exertion and experiments.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.6.1
+  kind: p
+  original: ''
+  en: It follows that since Germany manufactures so well at home, she diminishes her imports from France and England year by year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.6.2
+  kind: p
+  original: ''
+  en: She has not only become their rival in manufactured goods in Asia and in Africa, but also in London and in Paris.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.6.3
+  kind: p
+  original: ''
+  en: Shortsighted people in France may cry out against the Frankfort Treaty; English manufacturers may explain German competition by little differences in railway tariffs; they may linger on the petty side of questions, and neglect great historical facts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.6.4
+  kind: p
+  original: ''
+  en: But it is none the less certain that the main industries, formerly in the hands of England and France, have progressed eastward, and in Germany they have found a country, young, full of energy, possessing an intelligent middle class, and eager in its turn to enrich itself by foreign trade.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.7.1
+  kind: p
+  original: ''
+  en: While Germany has freed herself from subjection to France and England, has manufactured her own cotton-cloth, and constructed her own machines--in fact, manufactured all commodities--the main industries have also taken root in Russia, where the development of manufacture is the more instructive as it sprang up but yesterday.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.8.1
+  kind: p
+  original: ''
+  en: At the time of the abolition of serfdom in 1861, Russia had hardly any factories.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.8.2
+  kind: p
+  original: ''
+  en: Everything needed in the way of machines, rails, railway-engines, fine dress materials, came from the West.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.8.3
+  kind: p
+  original: ''
+  en: Twenty years later she possessed already 85,000 factories, and the value of the goods manufactured in Russia had increased fourfold.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.9.1
+  kind: p
+  original: ''
+  en: The old machinery was superseded, and now nearly all the steel in use in Russia, three-quarters of the iron, two-thirds of the coal, all railway-engines, railway-carriages, rails, nearly all steamers, are made in Russia.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.10.1
+  kind: p
+  original: ''
+  en: Russia, destined--so wrote economists--to remain an agricultural territory, has rapidly developed into a manufacturing country.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.10.2
+  kind: p
+  original: ''
+  en: She orders hardly anything from England, and very little from Germany.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.11.1
+  kind: p
+  original: ''
+  en: Economists hold the customs responsible for these facts, and yet cottons manufactured in Russia are sold at the same price as in London.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.11.2
+  kind: p
+  original: ''
+  en: Capital taking no cognizance of father-lands, German and English capitalists, accompanied by engineers and foremen of their own nationalities, have introduced in Russia and in Poland manufactories whose goods compete in excellence with the best from England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.11.3
+  kind: p
+  original: ''
+  en: If customs were abolished to-morrow, manufacture would only gain by it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.11.4
+  kind: p
+  original: ''
+  en: Not long ago the British manufacturers delivered another hard blow to the import of cloth and woolens from the West.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.11.5
+  kind: p
+  original: ''
+  en: They set up in southern and middle Russia immense wool factories, stocked with the most perfect machinery from Bradford, and already now Russia imports only the highest sorts of cloth and woolen fabrics from England, France and Austria.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.11.6
+  kind: p
+  original: ''
+  en: The remainder is fabricated at home, both in factories and as domestic industries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.12.1
+  kind: p
+  original: ''
+  en: The main industries not only move eastward, they are spreading also to the southern peninsulas.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.12.2
+  kind: p
+  original: ''
+  en: The Turin Exhibition of 1884 already demonstrated the progress made in Italian manufactured produce; and, let us not make any mistake about it, the mutual hatred of the French and Italian middle classes has no other origin than their industrial rivalry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.12.3
+  kind: p
+  original: ''
+  en: Spain is also becoming an industrial country; while in the East, Bohemia has suddenly sprung into importance as a new centre of manufactures, provided with perfected machinery and applying the best scientific methods.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.13.1
+  kind: p
+  original: ''
+  en: We might also mention Hungary's rapid progress in the main industries, but let us rather take Brazil as an example.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.13.2
+  kind: p
+  original: ''
+  en: Economists sentenced Brazil to cultivate cotton forever, to export it in its raw state, and to receive cotton-cloth from Europe in exchange.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.13.3
+  kind: p
+  original: ''
+  en: In fact, forty years ago Brazil had only nine wretched little cotton factories with 385 spindles.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.13.4
+  kind: p
+  original: ''
+  en: To-day there are 160 cotton-mills, possessing 1,500,000 spindles and 50,000 looms, which throw 500 million yards of textiles on the market annually.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.14.1
+  kind: p
+  original: ''
+  en: Even Mexico is now very successful in manufacturing cotton-cloth, instead of importing it from Europe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.14.2
+  kind: p
+  original: ''
+  en: As to the United States they have quite freed themselves from European tutelage, and have triumphantly developed their manufacturing powers to an enormous extent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.15.1
+  kind: p
+  original: ''
+  en: But it was India which gave the most striking proof against the specialization of national industry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.16.1
+  kind: p
+  original: ''
+  en: 'We all know the theory: the great European nations need colonies, for colonies send raw material--cotton fibre, unwashed wool, spices, etc., to the mother-land.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.16.2
+  kind: p
+  original: ''
+  en: And the mother-land, under pretense of sending them manufactured wares, gets rid of her damaged stuffs, her machine scrap-iron and everything which she no longer has any use for.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.16.3
+  kind: p
+  original: ''
+  en: It costs her little or nothing, and none the less the articles are sold at exorbitant prices.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.17.1
+  kind: p
+  original: ''
+  en: Such was the theory--such was the practice for a long time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.17.2
+  kind: p
+  original: ''
+  en: In London and Manchester fortunes were made, while India was being ruined.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.17.3
+  kind: p
+  original: ''
+  en: In the India Museum in London unheard of riches, collected in Calcutta and Bombay by English merchants, are to be seen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.18.1
+  kind: p
+  original: ''
+  en: But other English merchants and capitalists conceived the very simple idea that it would be more expedient to exploit the natives of India by making cotton-cloth in India itself, than to import from twenty to twenty-four million pounds' worth of goods annually.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.19.1
+  kind: p
+  original: ''
+  en: At first a series of experiments ended in failure.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.19.2
+  kind: p
+  original: ''
+  en: Indian weavers--artists and experts in their own craft--could not inure themselves to factory life; the machinery sent from Liverpool was bad; the climate had to be taken into account; and merchants had to adapt themselves to new conditions, now fully mastered, before British India could become the menacing rival of the Mother-land she is to-day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.20.1
+  kind: p
+  original: ''
+  en: She now possesses more than 200 cotton-mills which employ about 230,000 workmen, and contain more than 6,000,000 spindles and 80,000 looms, and 40 jute-mills, with 400,000 spindles.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.20.2
+  kind: p
+  original: ''
+  en: She exports annually to China, to the Dutch Indies, and to Africa, nearly eight million pounds' worth of the same white cotton-cloth, said to be England's specialty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.20.3
+  kind: p
+  original: ''
+  en: And while English workmen are often unemployed and in great want, Indian women weave cotton by machinery, for the Far East at wages of six-pence a day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.20.4
+  kind: p
+  original: ''
+  en: In short, the intelligent manufacturers are fully aware that the day is not far off when they will not know what to do with the "factory hands" who formerly wove cotton-cloth for export from England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.20.5
+  kind: p
+  original: ''
+  en: Besides which it is becoming more and more evident that India will no import a single ton of iron from England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.20.6
+  kind: p
+  original: ''
+  en: The initial difficulties in using the coal and the iron-ore obtained in India have been overcome; and foundries, rivalling those in England, have been built on the shores of the Indian Ocean.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.21.1
+  kind: p
+  original: ''
+  en: Colonies competing with the mother-land in its production of manufactured goods, such is the factor which will regulate economy in the twentieth century.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.22.1
+  kind: p
+  original: ''
+  en: And why should India not manufacture?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.22.2
+  kind: p
+  original: ''
+  en: What should be the hindrance?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.22.3
+  kind: p
+  original: ''
+  en: Capital?--But capital goes wherever there are men, poor enough to be exploited.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.22.4
+  kind: p
+  original: ''
+  en: Knowledge?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.22.5
+  kind: p
+  original: ''
+  en: But knowledge recognizes no national barriers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.22.6
+  kind: p
+  original: ''
+  en: Technical skill of the worker?--No.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.22.7
+  kind: p
+  original: ''
+  en: Are, then, Hindoo workmen inferior to the hundreds of thousands of boys and girls, not eighteen years old, at present working in the English textile factories?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.23.1
+  kind: heading
+  original: ''
+  en: II
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.24.1
+  kind: p
+  original: ''
+  en: After having glanced at national industries it would be very interesting to turn to some special branches.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.1
+  kind: p
+  original: ''
+  en: Let us take silk, for example, an eminently French produce in the first half of the nineteenth century.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.2
+  kind: p
+  original: ''
+  en: We all know how Lyons became the emporium of the silk trade.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.3
+  kind: p
+  original: ''
+  en: At first raw silk was gathered in southern France, till little by little they ordered it from Italy, from Spain, from Austria, from the Caucasus, and from Japan, for the manufacture of their silk fabrics.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.4
+  kind: p
+  original: ''
+  en: In 1875, out of five million kilos of raw silk converted into stuffs in the vicinity of Lyons, there were only four hundred thousand kilos of French silk.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.5
+  kind: p
+  original: ''
+  en: But if Lyons manufactured imported silk, why should not Switzerland, Germany, Russia, do as much?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.6
+  kind: p
+  original: ''
+  en: Consequently, silk-weaving began to develop in the villages round Zurich.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.7
+  kind: p
+  original: ''
+  en: Bâle became a great centre of the silk trade.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.8
+  kind: p
+  original: ''
+  en: The Caucasian Administration engaged women from Marseilles and workmen from Lyons to teach Georgians the perfected rearing of silk-worms, and the art of converting silk into fabrics to the Caucasian peasants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.9
+  kind: p
+  original: ''
+  en: Austria followed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.10
+  kind: p
+  original: ''
+  en: Then Germany, with the help of Lyons workmen, built great silk factories.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.25.11
+  kind: p
+  original: ''
+  en: The United States did likewise at Paterson.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.26.1
+  kind: p
+  original: ''
+  en: And to-day the silk trade is no longer a French monopoly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.26.2
+  kind: p
+  original: ''
+  en: Silks are made in Germany, in Austria, in the United States, and in England, and it is now reckoned that one-third of the silk stuffs used in France are imported.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.26.3
+  kind: p
+  original: ''
+  en: In winter, Caucasian peasants weave silk handkerchiefs at a wage that would mean starvation to the silk-weavers of Lyons.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.26.4
+  kind: p
+  original: ''
+  en: Italy and Germany send silks to France; and Lyons, which in 1870-4 exported 460 million francs' worth of silk fabrics, exports now only one-half of that amount.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.26.5
+  kind: p
+  original: ''
+  en: In fact, the time is not far off when Lyons will only send higher class goods and a few novelties as patterns to Germany, Russia and Japan.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.27.1
+  kind: p
+  original: ''
+  en: And so it is in all industries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.27.2
+  kind: p
+  original: ''
+  en: Belgium has no longer the cloth monopoly; cloth is made in Germany, in Russia, in Austria, in the United States.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.27.3
+  kind: p
+  original: ''
+  en: Switzerland and the French Jura have no longer a clockwork monopoly; watches are made everywhere.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.27.4
+  kind: p
+  original: ''
+  en: 'Scotland no longer refines sugar for Russia: refined Russian sugar is imported into England.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.27.5
+  kind: p
+  original: ''
+  en: Italy, although neither possessing coal nor iron, makes her own iron-clads and engines for her steamers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.27.6
+  kind: p
+  original: ''
+  en: Chemical industry is no longer an English monopoly; sulphuric acid and soda are made even in the Urals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.27.7
+  kind: p
+  original: ''
+  en: Steam-engines, made at Winterthur, have acquired everywhere a wide reputation, and at the present moment, Switzerland, which has neither coal nor iron, and no sea-ports to import them--nothing but excellent technical schools--makes machinery better and cheaper than England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.27.8
+  kind: p
+  original: ''
+  en: So ends the theory of Exchange.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.28.1
+  kind: p
+  original: ''
+  en: The tendency of trade, as for all else, is toward decentralization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.29.1
+  kind: p
+  original: ''
+  en: Every nation finds it advantageous to combine agriculture with the greatest possible variety of factories.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.29.2
+  kind: p
+  original: ''
+  en: The specialization, of which economists spoke so highly, certainly has enriched a number of capitalists, but is now no longer of any use.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.29.3
+  kind: p
+  original: ''
+  en: On the contrary, it is to the advantage of every region, every nation, to grow their own wheat, their own vegetables, and to manufacture at home most of the produce they consume.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.29.4
+  kind: p
+  original: ''
+  en: This diversity is the surest pledge of the complete development of production by mutual co-operation, and the moving cause of progress, while specialization is now a hindrance to progress.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.30.1
+  kind: p
+  original: ''
+  en: Agriculture can only prosper in proximity to factories.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.30.2
+  kind: p
+  original: ''
+  en: And no sooner does a single factory appear than an infinite variety of other factories must spring up around, so that, mutually supporting and stimulating one another by their inventions, they increase their productivity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.31.1
+  kind: heading
+  original: ''
+  en: III
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.32.1
+  kind: p
+  original: ''
+  en: It is foolish indeed to export wheat and to import flour, to export wool and import cloth, to export iron and import machinery; not only because transportation is a waste of time and money, but, above all, because a country with no developed industry inevitably remains behind the times in agriculture; because a country with no large factories to bring steel to a finished condition is doomed to be backward in all other industries; and lastly, because the industrial and technical capacities of the nation remain undeveloped, if they are not exercised in a variety of industries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.33.1
+  kind: p
+  original: ''
+  en: Nowadays everything holds together in the world of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.33.2
+  kind: p
+  original: ''
+  en: Cultivation of the soil is no longer possible without machinery, without great irrigation works, without railways, without manure factories.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.33.3
+  kind: p
+  original: ''
+  en: And to adapt this machinery, these railways, these irrigation engines, etc., to local conditions, a certain spirit of invention, and a certain amount of technical skill must be developed, while they necessarily lie dormant so long as spades and ploughshares are the only implements of cultivation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.34.1
+  kind: p
+  original: ''
+  en: If fields are to be properly cultivated, if they are to yield the abundant harvests that man has the right to expect, it is essential that workshops, foundries, and factories develop within the reach of the fields.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.34.2
+  kind: p
+  original: ''
+  en: A variety of occupations, and a variety of skill arising therefrom, both working together for a common aim--these are the true forces of progress.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.35.1
+  kind: p
+  original: ''
+  en: And now let us imagine the inhabitants of a city or a territory--whether vast or small--stepping for the first time on to the path of the Social Revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.36.1
+  kind: p
+  original: ''
+  en: 'We are sometimes told that "nothing will have changed": that the mines, the factories, etc., will be expropriated, and proclaimed national or communal property, that every man will go back to his usual work, and that the Revolution will then be accomplished.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.37.1
+  kind: p
+  original: ''
+  en: 'But this is a mere dream: the Social Revolution cannot take place so simply.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.38.1
+  kind: p
+  original: ''
+  en: We have already mentioned that should the Revolution break out to-morrow in Paris, Lyons, or any other city--should the workers lay hands on factories, houses, and banks, present production would be completely revolutionized by this simple fact.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.39.1
+  kind: p
+  original: ''
+  en: International commerce will come to a standstill; so also will the importation of foreign bread-stuffs; the circulation of commodities and of provisions will be paralyzed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.39.2
+  kind: p
+  original: ''
+  en: And then, the city or territory in revolt will be compelled to provide for itself, and to reorganize its production, so as to satisfy its own needs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.39.3
+  kind: p
+  original: ''
+  en: If it fails to do so, it is death.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.39.4
+  kind: p
+  original: ''
+  en: If it succeeds, it will revolutionize the economic life of the country.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.40.1
+  kind: p
+  original: ''
+  en: The quantity of imported provisions having decreased, consumption having increased, one million Parisians working for exportation purposes having been thrown out of work, a great number of things imported to-day from distant or neighbouring countries not reaching their destination, fancy-trade being temporarily at a standstill,--What will the inhabitants have to eat six months after the Revolution?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.41.1
+  kind: p
+  original: ''
+  en: We think that when the stores containing food-stuffs are empty, the masses will seek to obtain their food from the land.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.41.2
+  kind: p
+  original: ''
+  en: They will see the necessity of cultivating the soil, of combining agricultural production with industrial production in the suburbs of Paris itself and its environs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.41.3
+  kind: p
+  original: ''
+  en: They will have to abandon the merely ornamental trades and consider their most urgent need--bread.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.42.1
+  kind: p
+  original: ''
+  en: A great number of the inhabitants of the cities will have to become agriculturists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.42.2
+  kind: p
+  original: ''
+  en: Not in the same manner as the present peasants who wear themselves out, ploughing for a wage that barely provides them with sufficient food for the year, but by following the principles of the intensive agriculture, of the market gardeners, applied on a large scale by means of the best machinery that man has invented or can invent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.42.3
+  kind: p
+  original: ''
+  en: 'They will till the land--not, however, like the country beast of burden: a Paris jeweller would object to that.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.42.4
+  kind: p
+  original: ''
+  en: They will organize cultivation on better principles; and not in the future, but at once, during the revolutionary struggles, from fear of being worsted by the enemy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.43.1
+  kind: p
+  original: ''
+  en: Agriculture will have to be carried out on intelligent lines, by men and women availing themselves of the experience of the present time, organizing themselves in joyous gangs for pleasant work, like those who, a hundred years ago, worked in the Champ de Mars for the Feast of the Federation--a work of delight, when not carried to excess, when scientifically organized, when man invents and improves his tools and is conscious of being a useful member of the community.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.44.1
+  kind: p
+  original: ''
+  en: Of course, they will not only cultivate wheat and oats--they will also produce those things which they formerly used to order from foreign parts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.44.2
+  kind: p
+  original: ''
+  en: And let us not forget that for the inhabitants of a revolted territory, "foreign parts" may include all districts that have not joined in the revolutionary movement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.44.3
+  kind: p
+  original: ''
+  en: During the Revolutions of 1793 and 1871 Paris was made to feel that "foreign parts" meant even the country district at her very gates.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.44.4
+  kind: p
+  original: ''
+  en: The speculator in grains at Troyes starved in 1793 and 1794 the sansculottes of Paris as badly, and even worse, than the German armies brought on to French soil by the Versailles conspirators.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.44.5
+  kind: p
+  original: ''
+  en: The revolted city will be compelled to do without these "foreigners," and why not?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.44.6
+  kind: p
+  original: ''
+  en: France invented beet-root sugar when sugar-cane ran short during the continental blockade.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.44.7
+  kind: p
+  original: ''
+  en: Parisians discovered saltpetre in their cellars when they no longer received any from abroad.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.44.8
+  kind: p
+  original: ''
+  en: Shall we be inferior to our grandfathers, who hardly lisped the first words of science?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.45.1
+  kind: p
+  original: ''
+  en: A revolution is more than a mere change of the prevailing political system.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.45.2
+  kind: p
+  original: ''
+  en: It implies the awakening of human intelligence, the increasing of the inventive spirit tenfold, a hundredfold; it is the dawn of a new science--the science of men like Laplace, Lamarck, Lavoisier.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.45.3
+  kind: p
+  original: ''
+  en: It is a revolution in the minds of men, as deep, and deeper still, than in their institutions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.46.1
+  kind: p
+  original: ''
+  en: And there are still economists, who tell us that once the "revolution is made," everyone will return to his workshop, as if passing through a revolution were going home after a walk in the Epping forest!
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.47.1
+  kind: p
+  original: ''
+  en: To begin with, the sole fact of having laid hands on middle-class property will imply the necessity of completely reorganizing the whole of economic life in the workshops, the dockyards, the factories.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.48.1
+  kind: p
+  original: ''
+  en: And the revolution surely will not fail to act in this direction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.48.2
+  kind: p
+  original: ''
+  en: Should Paris, during the social revolution, be cut off from the world for a year or two by the supporters of middle-class rule, its millions of intellects, not yet depressed by factory life--that City of little trades which stimulate the spirit of invention--will show the world what man's brain can accomplish without asking for help from without, but the motor force of the sun that gives light, the power of the wind that sweeps away impurities, and the silent life-forces at work in the earth we tread on.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.49.1
+  kind: p
+  original: ''
+  en: We shall see then what a variety of trades, mutually cooperating on a spot of the globe and animated by a revolution, can do to feed, clothe, house, and supply with all manner of luxuries millions of intelligent men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.50.1
+  kind: p
+  original: ''
+  en: We need write no fiction to prove this.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.50.2
+  kind: p
+  original: ''
+  en: What we are sure of, what has already been experimented upon, and recognized as practical, would suffice to carry it into effect, if the attempt were fertilized, vivified by the daring inspiration of the Revolution and the spontaneous impulse of the masses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XVI.N10.1.1
+  kind: note
+  original: ''
+  en: A fuller development of these ideas will be found in my book, Fields, Factories, and Workshops, published by Messrs. Thomas Nelson and Sons in their popular series in 1912.
+  modern: ''
+  modern_status: empty
+  notes: ''

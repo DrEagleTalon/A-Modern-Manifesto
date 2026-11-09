@@ -1,0 +1,26 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: Q1
+title_original: '1. Frage: Was ist der Kommunismus?'
+title_en: Question 1
+author: Friedrich Engels
+date: 1847-10/11
+original_language: de
+anchor_language: de
+source_original: MEW 4, S. 361-380 (Dietz, Berlin) via mlwerke.de; printed from Engels's manuscript. MEW editorial notes removed
+source_en: 'None: no public-domain English translation'
+verses:
+- id: Q1.0.1
+  kind: heading
+  original: '1. Frage: Was ist der Kommunismus?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: Q1.1.1
+  kind: p
+  original: 'Antwort: Der Kommunismus ist die Lehre von den Bedingungen der Befreiung des Proletariats.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
