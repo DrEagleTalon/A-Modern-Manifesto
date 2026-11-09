@@ -1,0 +1,1083 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: '0'
+title_original: Anarchy
+title_en: Anarchy
+author: Errico Malatesta
+date: 1891 (Italian); English printing 1900
+original_language: it
+anchor_language: en
+source_original: Not yet in this repository. Malatesta's Italian, L'Anarchia (1891), is still to be located on a reachable mirror.
+source_en: Anonymous English translation, Free Society Library printing (1900), Project Gutenberg ebook 40365 (public domain)
+verses:
+- id: 0.0.1
+  kind: heading
+  original: ''
+  en: Anarchy
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.1.1
+  kind: p
+  original: ''
+  en: 'ANARCHY is a word which comes from the Greek, and signifies, strictly speaking, without government: the state of a people without any constituted authority, that is, without government.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.2.1
+  kind: p
+  original: ''
+  en: Before such an organization had begun to be considered possible and desirable by a whole class of thinkers, so as to be taken as the aim of a party (which party has now become one of the most important factors in modern social warfare), the word Anarchy was taken universally in the sense of disorder and confusion; and it is still adopted in that sense by the ignorant and by adversaries interested in distorting the truth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.3.1
+  kind: p
+  original: ''
+  en: We shall not enter into philological discussions; for the question is not philological but historical.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.3.2
+  kind: p
+  original: ''
+  en: The common meaning of the word does not misconceive its true etymological signification, but is derived from this meaning, owing to the prejudice that government must be a necessity of the organization of social life; and that consequently a society without government must be given up to disorder, and oscillate between the unbridled dominion of some and the blind vengeance of others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.4.1
+  kind: p
+  original: ''
+  en: The existence of this prejudice, and its influence on the meaning which the public has given the word, is easily explained.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.5.1
+  kind: p
+  original: ''
+  en: Man, like all living beings, adapts and habituates himself to the conditions in which he lives, and transmits by inheritance his acquired habits.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.5.2
+  kind: p
+  original: ''
+  en: Thus being born and having lived in bondage, being the descendant of a long line of slaves, man, when he began to think, believed that slavery was an essential condition of life; and liberty seemed to him an impossible thing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.5.3
+  kind: p
+  original: ''
+  en: In like manner, the workman, forced for centuries, and thus habituated, to depend upon the good will of his employer for work, that is, for bread, and accustomed to see his own life at the disposal of those who possess the land and the capital, has ended in believing that it is his master who gives him to eat, and demands ingenuously how it would be possible to live, if there were no master over him?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.6.1
+  kind: p
+  original: ''
+  en: In the same way, a man who had had his limbs bound from his birth, but had nevertheless found out how to hobble about, might attribute to the very hands that bound him his ability to move, while, on the contrary, they would be diminishing and paralyzing the muscular energy of his limbs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.7.1
+  kind: p
+  original: ''
+  en: If, then, we add to the natural effect of habit the education given him by his masters, the parson, teacher, etc., who are all interested in teaching that the employer and the government are necessary; if also we add the judge and the bailiff to force those who think differently--and might try to propagate their opinions--to keep silence, we shall understand how the prejudice as to the utility and necessity of masters and governments has become established.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.7.2
+  kind: p
+  original: ''
+  en: Suppose a doctor brings forward a complete theory, with a thousand ably invented illustrations, to persuade that man with the bound limb whom we were describing, that, if his limb were freed, he could not walk, could not even live.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.7.3
+  kind: p
+  original: ''
+  en: The man would defend his bands furiously, and consider any one his enemy who tried to tear them off.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.8.1
+  kind: p
+  original: ''
+  en: Thus, since it is believed that government is necessary, and that without government there must be disorder and confusion, it is natural and logical to suppose that Anarchy, which signifies without government, must also mean absence of order.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.9.1
+  kind: p
+  original: ''
+  en: Nor is this fact without parallel in the history of words.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.9.2
+  kind: p
+  original: ''
+  en: In those epochs and countries where people have considered government by one man (monarchy) necessary, the word republic (that is, the government of many) has been used precisely like Anarchy, to imply disorder and confusion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.9.3
+  kind: p
+  original: ''
+  en: Traces of this signification of the word are still to be found in the popular language of almost all countries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.10.1
+  kind: p
+  original: ''
+  en: When this opinion is changed, and the public convinced that government is not necessary, but extremely harmful, the word Anarchy, precisely because it signifies without government, will become equal to saying natural order, harmony of the needs and interests of all, complete liberty with complete solidarity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.11.1
+  kind: p
+  original: ''
+  en: Therefore, those are wrong who say that Anarchists have chosen their name badly, because it is erroneously understood by the masses and leads to a false interpretation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.11.2
+  kind: p
+  original: ''
+  en: The error does not come from the word, but from the thing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.11.3
+  kind: p
+  original: ''
+  en: The difficulty which Anarchists meet with in spreading their views does not depend upon the name they have given themselves, but upon the fact that their conceptions strike at all the inveterate prejudices that people have about the function of government, or the State, as it is called.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.12.1
+  kind: p
+  original: ''
+  en: Before proceeding further, it will be well to explain this last word (the State) which, in our opinion, is the real cause of much misunderstanding.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.13.1
+  kind: p
+  original: ''
+  en: Anarchists, and we among them, have made use, and still generally make use of the word State, meaning thereby that collection of institutions, political, legislative, judicial, military, financial, etc., by means of which the management of their own affairs, the guidance of their personal conduct and the care of ensuring their own safety are taken from the people and confided to certain individuals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.13.2
+  kind: p
+  original: ''
+  en: And these, whether by usurpation or delegation, are invested with the right to make laws over and for all, and to constrain the public to respect them, making use of the collective force of the community to this end.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.14.1
+  kind: p
+  original: ''
+  en: In this case the word State means government, or, if you like, it is the impersonal expression, abstracted from the state of things, of which the government is the personification.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.14.2
+  kind: p
+  original: ''
+  en: Then such expressions as abolition of the State, or society without the State, agree perfectly with the conception which Anarchists wish to express of the destruction of every political institution based on authority, and of the constitution of a free and equal society, based upon harmony of interests, and the voluntary contribution of all to the satisfaction of social needs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.15.1
+  kind: p
+  original: ''
+  en: However, the word State has many other significations, and among these some which lend themselves to misconstruction, particularly when used among men whose sad social position has not afforded them leisure to become accustomed to the delicate distinctions of scientific language, or, still worse, when adopted treacherously by adversaries, who are interested in confounding the sense, or do not wish to comprehend.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.15.2
+  kind: p
+  original: ''
+  en: Thus the word State is often used to indicate any given society, or collection of human beings, united on a given territory and constituting what is called a social unit, independently of the way in which the members of the said body are grouped, or of the relations existing between them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.15.3
+  kind: p
+  original: ''
+  en: State is used also simply as a synonym for society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.15.4
+  kind: p
+  original: ''
+  en: Owing to these significations of the word, our adversaries believe, or rather profess to believe, that Anarchists wish to abolish every social relation and all collective work, and to reduce man to a condition of isolation, that is, to a state worse than savagery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.16.1
+  kind: p
+  original: ''
+  en: By State again is meant only the supreme administration of a country, the central power, distinct from provincial or communal power; and therefore others think that Anarchists wish merely for a territorial decentralization, leaving the principle of government intact, and thus confounding Anarchy with cantonal or communal government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.17.1
+  kind: p
+  original: ''
+  en: Finally, state signifies condition, mode of living, the order of social life, etc., and therefore we say, for example, that it is necessary to change the economic state of the working classes, or that the Anarchical state is the only state founded on the principles of solidarity, and other similar phrases.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.17.2
+  kind: p
+  original: ''
+  en: So that if we say also in another sense that we wish to abolish the State, we may at once appear absurd or contradictory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.18.1
+  kind: p
+  original: ''
+  en: For these reasons, we believe it would be better to use the expression abolition of the State as little as possible, and to substitute for it another clearer and more concrete--abolition of government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.19.1
+  kind: p
+  original: ''
+  en: In any case, the latter will be the expression used in the course of this little work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.20.1
+  kind: p
+  original: ''
+  en: We have said that Anarchy is society without government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.20.2
+  kind: p
+  original: ''
+  en: But is the suppression of government possible, desirable, or wise?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.20.3
+  kind: p
+  original: ''
+  en: Let us see.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.21.1
+  kind: p
+  original: ''
+  en: What is the government?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.21.2
+  kind: p
+  original: ''
+  en: There is a disease of the human mind called the metaphysical tendency, causing man, after he has by a logical process abstracted the quality from an object, to be subject to a kind of hallucination which makes him take the abstraction for the real thing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.21.3
+  kind: p
+  original: ''
+  en: This metaphysical tendency, in spite of the blows of positive science, has still strong root in the minds of the majority of our contemporary fellow men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.21.4
+  kind: p
+  original: ''
+  en: It has such an influence that many consider government an actual entity, with certain given attributes of reason, justice, equity, independently of the people who compose the government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.22.1
+  kind: p
+  original: ''
+  en: For those who think in this way, government, or the State, is the abstract social power, and it represents, always in the abstract, the general interest.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.22.2
+  kind: p
+  original: ''
+  en: It is the expression of the right of all, and considered as limited by the rights of each.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.22.3
+  kind: p
+  original: ''
+  en: This way of understanding government is supported by those interested, to whom it is an urgent necessity that the principle of authority should be maintained, and should always survive the faults and errors of the persons who succeed to the exercise of power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.23.1
+  kind: p
+  original: ''
+  en: For us, the government is the aggregate of the governors; and the governors--kings, presidents, ministers, members of parliament, and what not--are those who have the power to make laws, to regulate the relations between men, and to force obedience to these laws.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.23.2
+  kind: p
+  original: ''
+  en: They are those who decide upon and claim the taxes, enforce military service, judge and punish transgressions of the laws.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.23.3
+  kind: p
+  original: ''
+  en: They subject men to regulations, and supervise and sanction private contracts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.23.4
+  kind: p
+  original: ''
+  en: They monopolize certain branches of production and public services, or, if they wish, all production and public service.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.23.5
+  kind: p
+  original: ''
+  en: They promote or hinder the exchange of goods.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.23.6
+  kind: p
+  original: ''
+  en: They make war or peace with the governments of other countries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.23.7
+  kind: p
+  original: ''
+  en: They concede or withhold free trade and many things else.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.23.8
+  kind: p
+  original: ''
+  en: In short, the governors are those who have the power, in a greater or less degree, to make use of the collective force of society, that is, of the physical, intellectual, and economic force of all, to oblige each to do the said governor's wish.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.23.9
+  kind: p
+  original: ''
+  en: And this power constitutes, in our opinion, the very principle of government, the principle of authority.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.24.1
+  kind: p
+  original: ''
+  en: But what reason is there for the existence of government?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.25.1
+  kind: p
+  original: ''
+  en: Why abdicate one's own liberty, one's own initiative in favor of other individuals?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.25.2
+  kind: p
+  original: ''
+  en: Why give them the power to be the masters, with or contrary to the wish of each, to dispose of the forces of all in their own way?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.25.3
+  kind: p
+  original: ''
+  en: Are the governors such very exceptionally gifted men as to enable them, with some show of reason, to represent the masses, and act in the interest of all men better than all men would be able to do for themselves?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.25.4
+  kind: p
+  original: ''
+  en: Are they so infallible and incorruptible that one can confide to them, with any semblance of prudence, the fate of each and all, trusting to their knowledge and their goodness?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.26.1
+  kind: p
+  original: ''
+  en: And even if there existed men of infinite goodness and knowledge, even if we assume what has never been verified in history, and what we believe it would be impossible to verify, namely, that the government might devolve upon the ablest and best, would the possession of governmental power add anything to their beneficent influence?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.26.2
+  kind: p
+  original: ''
+  en: Would it not rather paralyze or destroy it?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.26.3
+  kind: p
+  original: ''
+  en: For those who govern find it necessary to occupy themselves with things which they do not understand, and, above all, to waste the greater part of their energy in keeping themselves in power, striving to satisfy their friends, holding the discontented in check, and mastering the rebellious.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.1
+  kind: p
+  original: ''
+  en: Again, be the governors good or bad, wise or ignorant, who is it that appoints them to their office?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.2
+  kind: p
+  original: ''
+  en: Do they impose themselves by right of war, conquest, or revolution?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.3
+  kind: p
+  original: ''
+  en: Then, what guarantees have the public that their rulers have the general good at heart?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.4
+  kind: p
+  original: ''
+  en: In this case it is simply a question of usurpation; and if the subjects are discontented, nothing is left to them but to throw off the yoke, by an appeal to arms.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.5
+  kind: p
+  original: ''
+  en: Are the governors chosen from a certain class or party?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.6
+  kind: p
+  original: ''
+  en: Then certainly the ideas and interests of that class or party will triumph, and the wishes and interests of the others will be sacrificed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.7
+  kind: p
+  original: ''
+  en: Are they elected by universal suffrage?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.8
+  kind: p
+  original: ''
+  en: Now numbers are the sole criterion; and numbers are certainly no proof of reason, justice or capacity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.9
+  kind: p
+  original: ''
+  en: Under universal suffrage, the elected are those who know best how to take in the masses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.10
+  kind: p
+  original: ''
+  en: The minority, which may happen to be half minus one, is sacrificed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.27.11
+  kind: p
+  original: ''
+  en: And that without considering that there is another thing to take into account.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.28.1
+  kind: p
+  original: ''
+  en: Experience has shown it is impossible to hit upon an electoral system which really ensures election by the actual majority.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.29.1
+  kind: p
+  original: ''
+  en: Many and various are the theories by which men have sought to justify the existence of government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.29.2
+  kind: p
+  original: ''
+  en: All, however, are founded, confessedly or not, on the assumption that the individuals of a society have contrary interests, and that an external superior power is necessary to oblige some to respect the interests of others, by prescribing and imposing a rule of conduct, according to which the interests at strife may be harmonized as much as possible, and according to which each obtains the maximum of satisfaction with the minimum of sacrifice.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.29.3
+  kind: p
+  original: ''
+  en: If, say the theorists of the authoritarian school, the interests, tendencies, and desires of an individual are in opposition to those of another individual, or mayhap all society, who will have the right and the power to oblige the one to respect the interests of the others?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.29.4
+  kind: p
+  original: ''
+  en: Who will be able to prevent the individual citizen from offending the general will?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.29.5
+  kind: p
+  original: ''
+  en: The liberty of each, say they, has for its limit the liberty of others; but who will establish those limits, and who will cause them to be respected?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.29.6
+  kind: p
+  original: ''
+  en: The natural antagonism of interests and passions creates the necessity for government, and justifies authority.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.29.7
+  kind: p
+  original: ''
+  en: Authority intervenes as moderator of the social strife, and defines the limits of the rights and duties of each.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.30.1
+  kind: p
+  original: ''
+  en: This is the theory; but the theory, to be sound, ought to be based upon facts, and to explain them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.30.2
+  kind: p
+  original: ''
+  en: We know well how in social economy theories are too often invented to justify facts, that is, to defend privilege and cause it to be accepted tranquilly by those who are its victims.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.30.3
+  kind: p
+  original: ''
+  en: Let us here look at the facts themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.31.1
+  kind: p
+  original: ''
+  en: In all the course of history, as at the present epoch, government is either the brutal, violent, arbitrary domination of the few over the many, or it is an instrument ordained to secure domination and privilege to those who, by force, or cunning, or inheritance, have taken to themselves all the means of life, and first and foremost the soil, whereby they hold the people in servitude, making them work for their advantage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.32.1
+  kind: p
+  original: ''
+  en: Governments oppress mankind in two ways, either directly, by brute force, that is physical violence, or indirectly, by depriving them of the means of subsistence and thus reducing them to helplessness at discretion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.32.2
+  kind: p
+  original: ''
+  en: Political power originated in the first method; economic privilege arose from the second.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.32.3
+  kind: p
+  original: ''
+  en: Governments can also oppress man by acting on his emotional nature, and in this way constitute religious authority.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.32.4
+  kind: p
+  original: ''
+  en: But there is no reason for the propagation of religious superstitions except that they defend and consolidate political and economic privileges.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.33.1
+  kind: p
+  original: ''
+  en: In primitive society, when the world was not so densely populated as now, and social relations were less complicated, when any circumstance prevented the formation of habits and customs of solidarity, or destroyed those which already existed, and established the domination of man over man, the two powers, the political and the economical, were united in the same hands--and often also in those of one single individual.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.33.2
+  kind: p
+  original: ''
+  en: Those who had by force conquered and impoverished the others, constrained them to become their servants, and perform all things for them according to their caprice.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.33.3
+  kind: p
+  original: ''
+  en: The victors were at once proprietors, legislators, kings, judges, and executioners.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.34.1
+  kind: p
+  original: ''
+  en: But with the increase of population, with the growth of needs, with the complication of social relationships, the prolonged continuance of such despotism became impossible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.34.2
+  kind: p
+  original: ''
+  en: For their own security, the rulers, often much against their will, were obliged to depend upon a privileged class, that is, a certain number of co-interested individuals, and were also obliged to let each of these individuals provide for his own sustenance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.34.3
+  kind: p
+  original: ''
+  en: Nevertheless they reserved to themselves the supreme or ultimate control.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.34.4
+  kind: p
+  original: ''
+  en: In other words, the rulers reserved to themselves the right to exploit all at their own convenience, and so to satisfy their kingly vanity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.34.5
+  kind: p
+  original: ''
+  en: Thus private wealth was developed under the shadow of the ruling power, for its protection and--often unconsciously--as its accomplice.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.34.6
+  kind: p
+  original: ''
+  en: Thus the class of proprietors rose.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.34.7
+  kind: p
+  original: ''
+  en: And they, concentrating little by little the means of wealth in their own hands, all the means of production, the very fountains of life--agriculture, industry, and exchange--ended by becoming a power in themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.34.8
+  kind: p
+  original: ''
+  en: This power, by the superiority of its means of action, and the great mass of interests it embraces, always ends by more or less openly subjugating the political power, that is, the government, which it makes its policeman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.35.1
+  kind: p
+  original: ''
+  en: This phenomenon has been reproduced often in history.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.35.2
+  kind: p
+  original: ''
+  en: Every time that, by invasion or any military enterprise whatever, physical brute force has taken the upper hand in society, the conquerors have shown the tendency to concentrate government and property in their own hands.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.35.3
+  kind: p
+  original: ''
+  en: In every case, however, as the government cannot attend to the production of wealth, and overlook and direct everything, it finds it needful to conciliate a powerful class, and private property is again established.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.35.4
+  kind: p
+  original: ''
+  en: With it comes the division of the two sorts of power, that of the persons who control the collective force of society, and that of the proprietors, upon whom these governors become essentially independent, because the proprietors command the sources of the said collective force.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.36.1
+  kind: p
+  original: ''
+  en: But never has this state of things been so accentuated as in modern times.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.36.2
+  kind: p
+  original: ''
+  en: The development of production, the immense extension of commerce, the extensive power that money has acquired, and all the economic results flowing from the discovery of America, the invention of machinery, etc., have secured such supremacy to the capitalist class that it is no longer content to trust to the support of the government, and has come to wish that the government shall emanate from itself; a government composed of members of its own class, continually under its control and especially organized to defend its class against the possible revenge of the disinherited.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.36.3
+  kind: p
+  original: ''
+  en: Hence the origin of the modern parliamentary system.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.37.1
+  kind: p
+  original: ''
+  en: Today the government is composed of proprietors, or people of their class so entirely under their influence that the richest of them do not find it necessary to take an active part in it themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.37.2
+  kind: p
+  original: ''
+  en: Rothschild, for instance, does not need to be either M.P. or minister, it is enough for him to keep M.P.'s and ministers dependent upon himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.38.1
+  kind: p
+  original: ''
+  en: In many countries, the proletariat participates nominally, more or less, in the election of the government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.38.2
+  kind: p
+  original: ''
+  en: This is a concession which the bourgeois (i. e., proprietory) class have made, either to avail themselves of popular support in the strife against royal or aristocratic power, or to divert the attention of the people from their own emancipation by giving them an apparent share in political power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.38.3
+  kind: p
+  original: ''
+  en: However, whether the bourgeoisie foresaw it or not, when first they conceded to the people the right to vote, the fact is that the right has proved in reality a mockery, serving only to consolidate the power of the bourgeois, while giving to the most energetic only of the proletariat the illusory hope of arriving at power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.39.1
+  kind: p
+  original: ''
+  en: So also with universal suffrage--we might say, especially with universal suffrage--the government has remained the servant and police of the bourgeois class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.39.2
+  kind: p
+  original: ''
+  en: How could it be otherwise?
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.39.3
+  kind: p
+  original: ''
+  en: If the government should reach the point of becoming hostile, if the hope of democracy should ever be more than a delusion deceiving the people, the proprietory class, menaced in its interests, would at once rebel, and would use all the force and influence which come from the possession of wealth, to reduce the government to the simple function of acting as policeman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.40.1
+  kind: p
+  original: ''
+  en: In all times and in all places, whatever may be the name that the government takes, whatever has been its origin, or its organization, its essential function is always that of oppressing and exploiting the masses, and of defending the oppressors and exploiters.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.40.2
+  kind: p
+  original: ''
+  en: Its principal characteristic and indispensable instruments are the bailiff and the tax collector, the soldier and the prison.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.40.3
+  kind: p
+  original: ''
+  en: And to these are necessarily added the time-serving priest or teacher, as the case may be, supported and protected by the government, to render the spirit of the people servile and make them docile under the yoke.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.41.1
+  kind: p
+  original: ''
+  en: Certainly, in addition to this primary business, to this essential department of governmental action other departments have been added in the course of time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.41.2
+  kind: p
+  original: ''
+  en: We even admit that never, or hardly ever, has a government been able to exist in a country that was at all civilized without adding to its oppressing and exploiting functions others useful and indispensable to social life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.41.3
+  kind: p
+  original: ''
+  en: But this fact makes it none the less true that government is in its nature oppressive and a means of exploitation, and that its origin and position doom it to be the defence and hot-bed of a dominant class, thus confirming and increasing the evils of domination.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.42.1
+  kind: p
+  original: ''
+  en: The government assumes the business of protecting, more or less vigilantly, the life of citizens against direct and brutal attacks; acknowledges and legalizes a certain number of rights and primitive usages and customs, without which it is impossible to live in society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.42.2
+  kind: p
+  original: ''
+  en: It organizes and directs certain public services, as the post, preservation and construction of roads, care of the public health, benevolent institutions, workhouses and such like; and it pleases it to pose as the protector and benefactor of the poor and weak.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.42.3
+  kind: p
+  original: ''
+  en: But it is sufficient to notice how and why it fulfils these functions to prove our point.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.42.4
+  kind: p
+  original: ''
+  en: The fact is that everything the government undertakes it is always inspired with the spirit of domination, and ordained to defend, enlarge, and perpetuate the privileges of property, and those classes of which government is the representative and defender.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.43.1
+  kind: p
+  original: ''
+  en: A government cannot rule for any length of time without hiding its true nature behind the pretence of general utility.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.43.2
+  kind: p
+  original: ''
+  en: It cannot respect the lives of the privileged without assuming the air of wishing to respect the lives of all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.43.3
+  kind: p
+  original: ''
+  en: It cannot cause the privileges of some to be tolerated without appearing as the custodian of the rights of everybody.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.43.4
+  kind: p
+  original: ''
+  en: '"The law" (and, of course, those that have made the law, that is, the government) "has utilized," says Kropotkin, "the social sentiments of man, working into them those precepts of morality, which man has accepted, together with arrangements useful to the minority--the exploiters--and opposed to the interests of those who might have rebelled, had it not been for this show of a moral ground."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.44.1
+  kind: p
+  original: ''
+  en: A government cannot wish the destruction of the community, for then it and the dominant class could not claim their exploitation-gained wealth; nor could the government leave the community to manage its own affairs; for then the people would soon discover that it (the government) was necessary for no other end than to defend the proprietory class who impoverish them, and would hasten to rid themselves of both government and proprietory class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.45.1
+  kind: p
+  original: ''
+  en: Today in the face of the persistent and menacing demands of the proletariat, governments show a tendency to interfere in the relations between employers and work people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.45.2
+  kind: p
+  original: ''
+  en: Thus they try to arrest the labor movement, and to impede with delusive reforms the attempts of the poor to take to themselves that which is due to them, namely an equal share of the good things of life which others enjoy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.46.1
+  kind: p
+  original: ''
+  en: We must also remember that on the one hand the bourgeois, that is, the proprietory class, make war among themselves, and destroy one another continually, and on the other hand that the government, although composed of the bourgeois and, acting as their servant and protector, is still, like every other servant or protector, continually striving to emancipate itself and to domineer over its charge.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.46.2
+  kind: p
+  original: ''
+  en: Thus this see-saw game, this swaying between conceding and withdrawing, this seeking allies among the people against the classes, and among the classes against the masses, forms the science of the governors, and blinds the ingenuous and phlegmatic, who are always expecting that salvation is coming to them from on high.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.47.1
+  kind: p
+  original: ''
+  en: With all this, the government does not change its nature.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.47.2
+  kind: p
+  original: ''
+  en: If it acts as regulator or guarantor of the rights and duties of each, it perverts the sentiment of justice.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.47.3
+  kind: p
+  original: ''
+  en: It justifies wrong and punishes every act which offends or menaces the privileges of the governors and proprietors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.47.4
+  kind: p
+  original: ''
+  en: It declares just, legal, the most atrocious exploitation of the miserable, which means a slow and continuous material and moral murder, perpetrated by those who have on those who have not.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.47.5
+  kind: p
+  original: ''
+  en: Again, if it administrates public services, it always considers the interests of the governors and proprietors, not occupying itself with the interests of the working masses, except in so far as is necessary to make the masses willing to endure their share of taxation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.47.6
+  kind: p
+  original: ''
+  en: If it instructs, it fetters and curtails the truth, and tends to prepare the mind and heart of the young to become either implacable tyrants or docile slaves, according to the class to which they belong.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.47.7
+  kind: p
+  original: ''
+  en: In the hands of the government everything becomes a means of exploitation, everything serves as a police measure, useful to hold the people in check.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.47.8
+  kind: p
+  original: ''
+  en: And it must be thus.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.47.9
+  kind: p
+  original: ''
+  en: If the life of mankind consists in strife between man and man, naturally there must be conquerors and conquered; and the government, which is the prize of the strife, or is a means of securing to the victors the results of their victory, and perpetuating those results, will certainly never fall to those who have lost, whether the battle be on the grounds of physical or intellectual strength, or in the field of economics.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.47.10
+  kind: p
+  original: ''
+  en: And those who have fought to conquer, that is, to secure to themselves better conditions than others can have, to conquer privilege and add dominion to power, and have attained the victory, will certainly not use it to defend the rights of the vanquished, and to place limits to their own power and to that of their friends and partizans.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.48.1
+  kind: p
+  original: ''
+  en: The government--or the State, if you will--as judge, moderator of social strife, impartial administrator of the public interests, is a lie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.48.2
+  kind: p
+  original: ''
+  en: It is an illusion, a Utopia, never realized and never realizable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.48.3
+  kind: p
+  original: ''
+  en: If in truth, the interests of men must always be contrary to one another; if indeed, the strife between mankind has made laws necessary to human society, and the liberty of the individual must be limited by the liberty of other individuals; then each one would always seek to make his interests triumph over those of others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.48.4
+  kind: p
+  original: ''
+  en: Each would strive to enlarge his own liberty at the cost of the liberty of others, and there would be government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.48.5
+  kind: p
+  original: ''
+  en: Not simply because it was more or less useful to the totality of the members of society to have a government, but because the conquerors would wish to secure to themselves the fruits of victory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.48.6
+  kind: p
+  original: ''
+  en: They would wish effectually to subject the vanquished, and relieve themselves of the trouble of being always on the defensive, and they would appoint men, specially adapted to the business, to act as police.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.48.7
+  kind: p
+  original: ''
+  en: Were this indeed actually the case, then humanity would be destined to perish amidst periodical contests between the tyranny of the dominators and the rebellion of the conquered.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.49.1
+  kind: p
+  original: ''
+  en: But fortunately the future of humanity is a happier one, because the law which governs it is milder.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.50.1
+  kind: p
+  original: ''
+  en: This law is the law of solidarity.
+  modern: ''
+  modern_status: empty
+  notes: ''

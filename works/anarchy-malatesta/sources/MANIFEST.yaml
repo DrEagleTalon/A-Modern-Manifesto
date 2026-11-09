@@ -1,4 +1,4 @@
-# Fetched 2026-11-08 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+# Fetched 2026-11-09 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
 - file: raw/en/gutenberg_40365.txt
   role: english
   url: https://raw.githubusercontent.com/GITenberg/Anarchy_40365/master/40365.txt

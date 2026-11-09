@@ -108,10 +108,10 @@
   original_language: it
   tier: A
   priority: 8
-  stage: planned
+  stage: ready
   sources:
     english: ["gutenberg:Anarchy_40365"]
-  notes: English fetched to works/anarchy-malatesta/sources/; Italian original (L'Anarchia) still to locate; needs Italian sentence rules.
+  notes: "English-only build from the anonymous translation in the Free Society Library printing of 1900 (Gutenberg 40365); the English sets the verses for now. Italian original (L'Anarchia) still to locate on a reachable mirror, and needs Italian sentence rules; it then fills the original column without renumbering."
 
 - id: god-and-the-state
   prefix: GAS

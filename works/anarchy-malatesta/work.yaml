@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: anarchy-malatesta
+prefix: AN                        # citation prefix: AN II.49.7
+title: Anarchy
+title_original: L'Anarchia
+authors: [Errico Malatesta]
+year: 1891
+original_language: it
+base_text: "Anonymous English translation in the Free Society Library printing of 1900. The Italian original is still to come; until then the English sets the verses."
+order: 80
+columns:
+  original: Italian original (to come)
+  en: English 1900 (anonymous translation, Free Society Library)
+  modern: Modern draft
+status: ready
+rights: Malatesta's text and the 1900 English printing are public domain. See SOURCES.md.
