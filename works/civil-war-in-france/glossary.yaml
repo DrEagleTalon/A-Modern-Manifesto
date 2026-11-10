@@ -1,0 +1,96 @@
+# Glossary of recurring terms in The Civil War in France (CWF).
+# The Addresses are English originals, so most entries are about modernising, not translating.
+# P1891 is Engels's German; its entries give the German and the English Marx himself used for the same idea.
+# status: open | interim | decided
+
+- term: the Commune
+  original: the Commune, the Paris Commune, Communal Constitution, communal regime
+  de: die Kommune (P1891)
+  literal: the elected council of Paris, March to May 1871, and the form of government Marx reads into it
+  options: [the Commune, the Paris Commune]
+  interim: the Commune; "the Paris Commune" on first use in each section
+  status: open
+  verses: [III.1.1, III.13.1, III.19.1, III.27.1, P1891.13.6]
+  note: Never "the commune" in lower case for the 1871 body. "Communal Constitution" (III.21.1, III.25.2) is Marx's name for the national system the Commune sketched; keep it distinct from the Paris council itself.
+
+- term: state power, state machinery
+  original: state power, the ready-made state machinery, the old governmental power, the centralized state
+  de: Staatsmacht, Staatsmaschine (P1891)
+  literal: the standing apparatus of army, police, officials, clergy and judges that rules from above
+  options: [state power, the state machine, the machinery of government, the apparatus of the state]
+  interim: state power; "the state machinery" where Marx speaks of the apparatus itself
+  status: open
+  verses: [III.3.1, III.4.1, III.11.5, III.22.1, P1891.21.1, P1891.21.9, P1891.23.1, P1891.23.6]
+  note: The central idea of part III. Keep one fixed term so that III.3.1 ("cannot simply lay hold of the ready-made state machinery") stays linked to Engels's "Maschine zur Unterdrückung einer Klasse" (P1891.23.6).
+
+- term: the Rurals
+  original: the Rurals, the Assembly of "Rurals"
+  literal: Marx's nickname for the monarchist majority of the National Assembly elected in February 1871, mostly rural landowners
+  options: [the Rurals, the country squires]
+  interim: the Rurals, explained on first use (I.28.1)
+  status: open
+  verses: [I.28.1, II.2.2, II.9.1, III.34.2]
+  note: A sneer from the time. Keep the word; a modern equivalent loses the history.
+
+- term: Government of National Defence
+  original: Government of National Defence, Government of Defence
+  literal: the provisional government formed in Paris on 4 September 1870
+  options: [Government of National Defence, the Defence government]
+  interim: Government of National Defence
+  status: open
+  verses: [I.2.6, I.7.5, I.10.1, IV.45.1]
+  note: Marx's pun "Government of National Defection" (I.2.6) needs the full name next to it.
+
+- term: Party of Order
+  original: Party of Order, men of order
+  literal: the coalition of monarchist factions that ruled the Second Republic after 1849
+  options: [Party of Order, the party of "order"]
+  interim: Party of Order, capitalised as a party name
+  status: open
+  verses: [I.21.5, II.9.7, III.7.1, III.9.3]
+
+- term: working men, workmen
+  original: working men, workmen, the working class, the producing masses, the producers
+  de: Arbeiter, Arbeiterklasse (P1891)
+  literal: wage workers; Marx also uses "producers" for everyone who works for a living, peasants included
+  options: [workers, working people, the working class, working men (kept where the gender matters to the history)]
+  interim: workers and the working class; keep "producers" where Marx contrasts producers with appropriators
+  status: open
+  verses: [A1.26.4, III.19.2, III.25.2, III.27.1, IV.58.1]
+  note: 'The phrase "self-government of the producers" (III.19.2) is a key one; do not flatten it to "workers".'
+
+- term: ticket-of-leave men
+  original: tickets-of-leave, ticket-of-leave men
+  literal: convicts released on licence under police watch; Marx's insult for Thiers's ministers
+  options: [parolees, men out on licence]
+  interim: keep "ticket-of-leave men" with a short gloss on first use (I.12.1)
+  status: open
+  verses: [I.12.1, I.12.2, II.4.6, II.11.1]
+  note: Engels added a footnote for German readers in 1871 (left out here, see SOURCES.md). A footnote in commentary/general/ would do the same job.
+
+- term: Diktatur des Proletariats
+  de: Diktatur des Proletariats
+  english_marx: none in the Address; the nearest is "a working class government" (III.27.1)
+  literal: dictatorship of the proletariat, rule of the working class as a class
+  options: [dictatorship of the proletariat, rule of the working class]
+  interim: dictatorship of the proletariat, as the established term, with Engels's own pointer to the Commune kept beside it
+  status: open
+  verses: [P1891.24.1, P1891.24.2, P1891.24.4]
+  note: Engels's last lines answer the reader who fears the word by pointing at the Commune. The modern draft must keep the word he chose, since the whole sentence turns on it.
+
+- term: Staatsplunder
+  de: den ganzen Staatsplunder
+  english_marx: none
+  literal: the whole lumber of the state, the state as junk
+  options: [the whole lumber of the state, the whole junk heap of the state]
+  interim: the whole lumber of the state
+  status: open
+  verses: [P1891.23.6]
+
+- term: civilization
+  original: civilization, bourgeois civilization
+  literal: the ruling class's word for itself, which Marx turns back on it
+  options: [civilization in quotation marks, civilization as written]
+  interim: keep the word; let the irony stand without added quotation marks where Marx has none
+  status: open
+  verses: [IV.28.2, IV.28.3, IV.28.6, IV.30.1]

@@ -1,0 +1,1259 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: P1891
+title_original: Einleitung [zu "Der Bürgerkrieg in Frankreich" von Karl Marx (Ausgabe 1891)]
+title_en: Introduction by Frederick Engels (1891 edition)
+author: Friedrich Engels
+date: '1891-03-18'
+original_language: de
+anchor_language: de
+source_original: MEW 22, S. 188-199 (Dietz, Berlin) via mlwerke.de; Engels, original German, after the third German edition, Berlin 1891
+source_en: 'None: no public-domain English translation of this introduction is used yet'
+verses:
+- id: P1891.0.1
+  kind: heading
+  original: Einleitung [zu "Der Bürgerkrieg in Frankreich" von Karl Marx (Ausgabe 1891)]
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1891.1.1
+  kind: p
+  original: Die Aufforderung, die Adresse des internationalen Generalrats über den "Bürgerkrieg in Frankreich" neu herauszugeben und mit einer Einleitung zu begleiten, kam mir unerwartet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1891.1.2
+  kind: p
+  original: Ich kann daher hier nur kurz die wesentlichsten Punkte berühren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1891.2.1
+  kind: p
+  original: Ich schicke der obigen längern Arbeit die beiden kürzern Ansprachen des Generalrats über den Deutsch-Französischen Krieg voraus.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1891.2.2
+  kind: p
+  original: Einmal, weil auf die zweite, die selbst ohne die erste nicht durchweg verständlich, im "Bürgerkrieg" verwiesen wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1891.2.3
+  kind: p
+  original: Dann aber, weil diese beiden ebenfalls von Marx verfaßten Ansprachen nicht minder als der "Bürgerkrieg" hervorragende Probestücke sind von der wunderbaren, zuerst im "18. Brumaire des Louis Bonaparte" bewährten Gabe des Verfassers, den Charakter, die Tragweite und die notwendigen Folgen großer geschichtlicher Ereignisse klar zu erfassen, zur Zeit, wo diese Ereignisse sich noch vor unsern Augen abspielen oder erst eben vollendet sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1891.2.4
+  kind: p
+  original: Und endlich, weil wir in Deutschland noch heute unter den von Marx vorausgesagten Folgen jener Ereignisse zu leiden haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1891.3.1
+  kind: p
+  original: Oder ist es nicht eingetroffen, was die erste Ansprache sagt, daß, wenn der Verteidigungskrieg Deutschlands gegen Louis Bonaparte ausarte in einen Eroberungskrieg gegen das französische Volk, alles Unglück, das auf Deutschland fiel nach den sogenannten Befreiungskriegen, wieder aufleben werde mit erneuter Heftigkeit?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1891.3.2
+  kind: p
+  original: Haben wir nicht weitere zwanzig Jahre Bismarckherrschaft gehabt, statt der Demagogenverfolgungen das Ausnahmegesetz und die Sozialistenhetze, mit derselben Polizeiwillkür, mit buchstäblich derselben haarsträubenden Gesetzauslegung?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '188'
+- id: P1891.4.1
+  kind: p
+  original: Und hat sich nicht buchstäblich bewährt die Voraussage, daß die Annexion Elsaß-Lothringens "Frankreich in die Arme Rußlands hineinzwingen" werde, und daß nach dieser Annexion Deutschland entweder der offenkundige Knecht Rußlands werden oder sich nach kurzer Rast zu einem neuen Krieg rüsten müsse, und zwar "zu einem Racenkrieg gegen die verbündeten Racen der Slawen und Romanen"?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 188-189
+- id: P1891.4.2
+  kind: p
+  original: Hat nicht die Annexion der französischen Provinzen Frankreich in die Arme Rußlands getrieben?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: P1891.4.3
+  kind: p
+  original: Hat nicht Bismarck volle zwanzig Jahre vergebens um die Gunst des Zaren gebuhlt, gebuhlt mit Diensten noch niedriger, als sie das kleine Preußen, ehe es "erste Großmacht Europas" geworden, dem heiligen Rußland zu Füßen zu legen gewohnt war?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: P1891.4.4
+  kind: p
+  original: Und hängt nicht noch tagtäglich über unserm Haupte das Damoklesschwert eines Kriegs, an dessen erstem Tag alle verbrieften Fürstenbündnisse zerstieben werden wie Spreu, eines Kriegs, von dem nichts gewiß ist als die absolute Ungewißheit seines Ausgangs, eines Racenkriegs, der ganz Europa der Verheerung durch fünfzehn oder zwanzig Millionen Bewaffneter unterwirft, und der nur deswegen nicht schon wütet, weil selbst dem stärksten der großen Militärstaaten vor der totalen Unberechenbarkeit des Endresultats bangt?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: P1891.5.1
+  kind: p
+  original: Um so mehr ist es Pflicht, diese halbvergeßnen glänzenden Belege der Fernsicht der internationalen Arbeiterpolitik von 1870 den deutschen Arbeitern wieder zugänglich zu machen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: P1891.6.1
+  kind: p
+  original: Was von diesen beiden Ansprachen, gilt auch von der über den "Bürgerkrieg in Frankreich".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: P1891.6.2
+  kind: p
+  original: Am 28. Mai erlagen die letzten Kommunekämpfer der Übermacht auf den Abhängen von Belleville, und schon zwei Tage später, am 30., las Marx dem Generalrat die Arbeit vor, worin die geschichtliche Bedeutung der Pariser Kommune in kurzen, kräftigen, aber so scharfen und vor allem so wahren Zügen dargestellt ist, wie dies in der gesamten massenhaften Literatur über den Gegenstand nie wieder erreicht worden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: P1891.7.1
+  kind: p
+  original: Dank der ökonomischen und politischen Entwicklung Frankreichs seit 1789 ist Paris seit fünfzig Jahren in die Lage versetzt, daß dort keine Revolution ausbrechen konnte, die nicht einen proletarischen Charakter annahm, derart, daß das Proletariat, das den Sieg mit seinem Blut erkauft, mit eignen Forderungen nach dem Sieg auftrat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: P1891.7.2
+  kind: p
+  original: Diese Forderungen waren mehr oder weniger unklar und selbst verworren, je nach dem jedesmaligen Entwicklungsstand der Pariser Arbeiter; aber schließlich liefen sie alle hinaus auf Beseitigung des Klassengegensatzes zwischen Kapitalisten und Arbeitern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: P1891.7.3
+  kind: p
+  original: Wie das geschehn sollte, das wußte man freilich nicht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '189'
+- id: P1891.7.4
+  kind: p
+  original: Aber die Forderung selbst, so unbestimmt sie auch noch gehalten war, enthielt eine Gefahr für die bestehende Gesellschaftsordnung; die Arbeiter, die sie stellten, waren noch bewaffnet; für die am Staatsruder befindlichen Bourgeois war daher Entwaffnung der Arbeiter erstes Gebot.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 189-190
+- id: P1891.7.5
+  kind: p
+  original: Daher nach jeder durch die Arbeiter erkämpften Revolution ein neuer Kampf, der mit der Niederlage der Arbeiter endigt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.1
+  kind: p
+  original: Das geschah zum erstenmal 1848.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.2
+  kind: p
+  original: Die liberalen Bourgeois der parlamentarischen Opposition hielten Reformbankette ab zur Durchsetzung der Wahlreform, die ihrer Partei die Herrschaft sichern sollte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.3
+  kind: p
+  original: Im Kampf mit der Regierung mehr und mehr gezwungen, ans Volk zu appellieren, mußten sie den radikalen und republikanischen Schichten der Bourgeoisie und des Kleinbürgertums allmählich den Vortritt gestatten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.4
+  kind: p
+  original: Aber hinter diesen standen die revolutionären Arbeiter, und diese hatten seit 1830 weit mehr politische Selbständigkeit sich angeeignet, als die Bourgeois und selbst die Republikaner ahnten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.5
+  kind: p
+  original: Im Moment der Krisis zwischen Regierung und Opposition eröffneten die Arbeiter den Straßenkampf; Louis-Philippe verschwand, die Wahlreform mit ihm, an ihrer Stelle erstand die Republik, und zwar eine von den siegreichen Arbeitern selbst als "soziale" bezeichnete Republik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.6
+  kind: p
+  original: Was unter dieser sozialen Republik zu verstehn sei, darüber war aber niemand im klaren, auch die Arbeiter selbst nicht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.7
+  kind: p
+  original: Aber sie hatten jetzt Waffen und waren eine Macht im Staat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.8
+  kind: p
+  original: Sobald daher die am Ruder befindlichen Bourgeoisrepublikaner einigermaßen festen Boden unter den Füßen spürten, war ihr erstes Ziel, die Arbeiter zu entwaffnen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.9
+  kind: p
+  original: Dies geschah, indem man sie durch direkten Wortbruch, durch offnen Hohn und den Versuch, die Unbeschäftigten in eine entlegne Provinz zu verbannen, in den Aufstand vom Juni 1848 hineinjagte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.10
+  kind: p
+  original: Die Regierung hatte für eine erdrückende Übermacht gesorgt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.11
+  kind: p
+  original: Nach fünftägigem heroischem Kampf erlagen die Arbeiter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.12
+  kind: p
+  original: Und jetzt folgte ein Blutbad unter den wehrlosen Gefangnen, wie ein gleiches nicht gesehen worden seit den Tagen der Bürgerkriege, die den Untergang der römischen Republik einleiteten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.13
+  kind: p
+  original: Es war das erste Mal, daß die Bourgeoisie zeigte, zu welcher wahnsinnigen Grausamkeit der Rache sie aufgestachelt wird, sobald das Proletariat es wagt, ihr gegenüber als aparte Klasse mit eignen Interessen und Forderungen aufzutreten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.8.14
+  kind: p
+  original: Und doch war 1848 noch ein Kinderspiel gegen ihr Wüten von 1871.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.9.1
+  kind: p
+  original: Die Strafe folgte auf dem Fuß.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.9.2
+  kind: p
+  original: Konnte das Proletariat noch nicht Frankreich regieren, so konnte die Bourgeoisie es schon nicht mehr.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.9.3
+  kind: p
+  original: Wenigstens damals nicht, wo sie der Mehrzahl nach noch monarchisch gesinnt und in drei dynastische Parteien und eine vierte republikanische gespalten war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '190'
+- id: P1891.9.4
+  kind: p
+  original: Ihre innern Zänkereien erlaubten dem Abenteurer Louis Bonaparte, alle Machtposten - Armee, Polizei, Verwaltungsmaschinerie - in Besitz zu nehmen und am 2. Dezember 1851 die letzte feste Burg der Bourgeoisie, die Nationalversammlung, zu sprengen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 190-191
+- id: P1891.9.5
+  kind: p
+  original: Das zweite Kaiserreich begann die Ausbeutung Frankreichs durch eine Bande politischer und finanzieller Abenteurer, aber zugleich auch eine industrielle Entwicklung, wie sie unter dem engherzigen und ängstlichen System Louis-Philippes, bei der ausschließlichen Herrschaft eines nur kleinen Teils der großen Bourgeoisie, nie möglich war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.9.6
+  kind: p
+  original: Louis Bonaparte nahm den Kapitalisten ihre politische Macht unter dem Vorwand, sie, die Bourgeois, gegen die Arbeiter zu schützen, und wiederum die Arbeiter gegen sie; aber dafür begünstigte seine Herrschaft die Spekulation und die industrielle Tätigkeit, kurz, den Aufschwung und die Bereicherung der gesamten Bourgeoisie in bisher unerhörtem Maß.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.9.7
+  kind: p
+  original: In noch weit größerm Maß allerdings entwickelte sich die Korruption und der Massendiebstahl, die sich um den kaiserlichen Hof gruppierten und von dieser Bereicherung ihre starken Prozente zogen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.10.1
+  kind: p
+  original: Aber das zweite Kaiserreich, das war der Appell an den französischen Chauvinismus, das war die Rückforderung der 1814 verlornen Grenzen des ersten Kaiserreichs, mindestens derjenigen der ersten Republik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.10.2
+  kind: p
+  original: Ein französisches Kaiserreich in den Grenzen der alten Monarchie, ja sogar in den noch mehr beschnittenen von 1815, das war auf die Dauer eine Unmöglichkeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.10.3
+  kind: p
+  original: Daher die Notwendigkeit zeitweiliger Kriege und Grenzerweiterungen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.10.4
+  kind: p
+  original: Aber keine Grenzerweiterung blendete so sehr die Phantasie französischer Chauvinisten wie die des deutschen linken Rheinufers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.10.5
+  kind: p
+  original: Eine Quadratmeile am Rhein galt mehr bei ihnen als zehn in den Alpen oder sonstwo.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.10.6
+  kind: p
+  original: Gegeben das zweite Kaiserreich, war die Rückforderung des linken Rheinufers, auf einmal oder stückweise, nur eine Frage der Zeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.10.7
+  kind: p
+  original: Diese Zeit kam mit dem Preußisch-Österreichischen Krieg von 1866; durch Bismarck und durch seine eigne überschlaue Zauderpolitik um die erwartete "Gebietsentschädigung" geprellt, blieb dem Bonaparte nun nichts mehr als der Krieg, der 1870 ausbrach und ihn nach Sedan und von da nach Wilhelmshöhe verschlug.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.11.1
+  kind: p
+  original: Die notwendige Folge war die Pariser Revolution vom 4. September 1870.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.11.2
+  kind: p
+  original: Das Kaiserreich klappte zusammen wie ein Kartenhaus, die Republik wurde wieder proklamiert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.11.3
+  kind: p
+  original: Aber der Feind stand vor den Toren; die Armeen des Kaiserreichs waren entweder in Metz hoffnungslos eingeschlossen oder in Deutschland gefangen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.11.4
+  kind: p
+  original: In dieser Not erlaubte das Volk den Pariser Deputierten zum ehemaligen gesetzgebenden Körper, sich als "Regierung der nationalen Verteidigung" aufzutun.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '191'
+- id: P1891.11.5
+  kind: p
+  original: Man gab dies um so eher zu, als jetzt zum Zweck der Verteidigung alle waffenfähigen Pariser in die Nationalgarde eingetreten und bewaffnet waren, so daß nun die Arbeiter die große Mehrzahl bildeten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 191-192
+- id: P1891.11.6
+  kind: p
+  original: Aber schon bald kam der Gegensatz zwischen der fast nur aus Bourgeois bestehenden Regierung und dem bewaffneten Proletariat zum Ausbruch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.11.7
+  kind: p
+  original: Am 31. Oktober stürmten Arbeiterbataillone das Stadthaus und nahmen einen Teil der Regierungsmitglieder gefangen; Verrat, direkter Wortbruch der Regierung und die Dazwischenkunft einiger Spießbürgerbataillone befreiten sie wieder, und um nicht den Bürgerkrieg im Innern einer von fremder Kriegsmacht belagerten Stadt aufflammen zu machen, beließ man die bisherige Regierung im Amt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.12.1
+  kind: p
+  original: Endlich, am 28. Januar 1871, kapitulierte das ausgehungerte Paris.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.12.2
+  kind: p
+  original: Aber mit bisher in der Kriegsgeschichte unerhörten Ehren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.12.3
+  kind: p
+  original: Die Forts wurden übergeben, der Ringwall entwaffnet, die Waffen der Linie und Mobilgarde ausgeliefert, sie selbst als Kriegsgefangne betrachtet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.12.4
+  kind: p
+  original: Aber die Nationalgarde behielt ihre Waffen und Kanonen und trat nur in Waffenstillstand gegen die Sieger.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.12.5
+  kind: p
+  original: Und diese selbst wagten nicht, in Paris im Triumph einzuziehn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.12.6
+  kind: p
+  original: Nur ein kleines, obendrein teilweise aus öffentlichen Parks bestehendes Eckchen von Paris wagten sie zu besetzen, und auch dies nur für ein paar Tage!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.12.7
+  kind: p
+  original: Und während dieser Zeit waren sie, die Paris 131 Tage lang umzingelt gehalten hatten, selbst umzingelt von den bewaffneten Pariser Arbeitern, die sorgsam wachten, daß kein "Preuße" die engen Grenzen des dem fremden Eroberer überlassenen Winkels überschritt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.12.8
+  kind: p
+  original: Solchen Respekt flößten die Pariser Arbeiter dem Heere ein, vor welchem sämtliche Armeen des Kaiserreichs die Waffen gestreckt; und die preußischen Junker, die hergekommen waren, um Rache zu nehmen am Herd der Revolution, mußten ehrerbietig stehnbleiben und salutieren vor eben dieser bewaffneten Revolution!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.13.1
+  kind: p
+  original: Während des Kriegs hatten die Pariser Arbeiter sich darauf beschränkt, die energische Fortsetzung des Kampfs zu fordern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.13.2
+  kind: p
+  original: Aber jetzt, als nach der Kapitulation von Paris der Friede zustande kam, jetzt mußte Thiers, das neue Oberhaupt der Regierung, einsehn, daß die Herrschaft der besitzenden Klassen - großer Grundbesitzer und Kapitalisten - in steter Gefahr schwebe, solange die Pariser Arbeiter die Waffen in der Hand behielten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.13.3
+  kind: p
+  original: Sein erstes Werk war der Versuch ihrer Entwaffnung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.13.4
+  kind: p
+  original: Am 18. März sandte er Linientruppen mit dem Befehl, die der Nationalgarde gehörige, während der Belagerung von Paris angefertigte und durch öffentliche Subskription bezahlte Artillerie zu rauben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.13.5
+  kind: p
+  original: Der Versuch schlug fehl, Paris rüstete sich wie ein Mann zur Gegenwehr, und der Krieg zwischen Paris und der in Versailles sitzenden französischen Regierung war erklärt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.13.6
+  kind: p
+  original: Am 26. März wurde die Pariser Kommune erwählt und am 28. proklamiert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '192'
+- id: P1891.13.7
+  kind: p
+  original: Das Zentralkomitee der Nationalgarde, das bisher die Regierung geführt, dankte in ihre Hände ab, nachdem es noch zuvor die Abschaffung der skandalösen Pariser "Sittenpolizei" dekretiert hatte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 192-193
+- id: P1891.13.8
+  kind: p
+  original: Am 30. schaffte die Kommune die Konskription und die stehende Armee ab und erklärte die Nationalgarde, zu der alle waffenfähigen Bürger gehören sollten, für die einzige bewaffnete Macht; sie erließ alle Wohnungsmietsbeträge vom Oktober 1870 bis zum April, unter Anrechnung der bereits bezahlten Beträge auf künftige Mietszeit, und stellte alle Verkäufe von Pfändern im städtischen Leihhaus ein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.9
+  kind: p
+  original: Am selben Tage wurden die in die Kommune gewählten Ausländer in ihrem Amt bestätigt, da die "Fahne der Kommune die der Weltrepublik ist".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.10
+  kind: p
+  original: '- Am 1. April beschlossen, das höchste Gehalt eines bei der Kommune Angestellten, also auch ihrer Mitglieder selbst, dürfe 6.000 Franken (4.800 Mark) nicht übersteigen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.11
+  kind: p
+  original: Am folgenden Tage wurde die Trennung der Kirche vom Staat und die Abschaffung aller staatlichen Zahlungen für religiöse Zwecke sowie die Umwandlung aller geistlichen Güter in Nationaleigentum dekretiert; infolge davon wurde am 8. April die Verbannung aller religiösen Symbole, Bilder, Dogmen, Gebete, kurz, "alles dessen, was in den Bereich des Gewissens jedes einzelnen gehört", aus den Schulen befohlen und allmählich durchgeführt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.12
+  kind: p
+  original: '- Am 5. wurde, gegenüber der täglich erneuerten Erschießung von gefangnen Kommunekämpfern durch die Versailler Truppen, ein Dekret wegen Verhaftung von Geiseln erlassen, aber nie durchgeführt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.13
+  kind: p
+  original: '- Am 6. wurde die Guillotine durch das 137. Bataillon der Nationalgarde herausgeholt und unter lautem Volksjubel öffentlich verbrannt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.14
+  kind: p
+  original: '- Am 12. beschloß die Kommune, die nach dem Krieg von 1809 von Napoleon aus eroberten Kanonen gegoßne Siegessäule des Vendôme-Platzes als Sinnbild des Chauvinismus und der Völkerverhetzung umzustürzen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.15
+  kind: p
+  original: Dies wurde am 16. Mai ausgeführt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.16
+  kind: p
+  original: '- Am 16. April ordnete die Kommune eine statistische Aufstellung der von den Fabrikanten stillgesetzten Fabriken an und die Ausarbeitung von Plänen für den Betrieb dieser Fabriken durch die in Kooperativgenossenschaften zu vereinigenden, bisher darin beschäftigten Arbeiter, sowie für eine Organisation dieser Genossenschaften zu einem großen Verband.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.17
+  kind: p
+  original: '- Am 20. schaffte sie die Nachtarbeit der Bäcker ab wie auch den seit dem zweiten Kaiserreich durch polizeilich ernannte Subjekte - Arbeiterausbeuter ersten Rangs - als Monopol betriebnen Arbeitsnachweis; dieser wurde den Mairien der zwanzig Pariser Arrondissements überwiesen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.18
+  kind: p
+  original: '- Am 30. April befahl sie die Aufhebung der Pfandhäuser, welche eine Privatexploitation der Arbeiter seien und im Widerspruch ständen mit dem Recht der Arbeiter auf ihre Arbeitsinstrumente und auf Kredit.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.13.19
+  kind: p
+  original: '- Am 5. Mai beschloß sie die Schleifung der als Sühne für die Hinrichtung Ludwigs XVI. errichteten Bußkapelle.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '193'
+- id: P1891.14.1
+  kind: p
+  original: So trat seit dem 18. März der bisher durch den Kampf gegen die fremde Invasion in den Hintergrund gedrängte Klassencharakter der Pariser Bewegung scharf und rein hervor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.14.2
+  kind: p
+  original: Wie in der Kommune fast nur Arbeiter oder anerkannte Arbeitervertreter saßen, so trugen auch ihre Beschlüsse einen entschieden proletarischen Charakter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.14.3
+  kind: p
+  original: Entweder dekretierten sie Reformen, die die republikanische Bourgeoisie nur aus Feigheit unterlassen hatte, die aber für die freie Aktion der Arbeiterklasse eine notwendige Grundlage bildeten, wie die Durchführung des Satzes, daß dem Staat gegenüber die Religion bloße Privatsache sei; oder sie erließ Beschlüsse direkt im Interesse der Arbeiterklasse und teilweise tief einschneidend in die alte Gesellschaftsordnung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.14.4
+  kind: p
+  original: Alles das konnte aber, in einer belagerten Stadt, höchstens einen Anfang von Verwirklichung erhalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.14.5
+  kind: p
+  original: Und von Anfang Mai an nahm der Kampf gegen die immer zahlreicher versammelten Heeresmassen der Versailler Regierung alle Kräfte in Anspruch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.15.1
+  kind: p
+  original: Am 7. April hatten die Versailler sich des Übergangs über die Seine bei Neuilly, auf der Westfront vor Paris, bemächtigt; dagegen wurden sie am 11. bei einem Angriff auf die Südfront von General Eudes mit blutigen Köpfen zurückgeschlagen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.15.2
+  kind: p
+  original: Paris wurde fortwährend bombardiert, und zwar von denselben Leuten, die das Bombardement derselben Stadt durch die Preußen als eine Heiligtumsschändung gebrandmarkt hatten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.15.3
+  kind: p
+  original: Diese selben Leute bettelten nun bei der preußischen Regierung um schleunige Rücksendung der gefangnen französischen Soldaten von Sedan und Metz, die ihnen Paris zurückerobern sollten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.15.4
+  kind: p
+  original: Das allmähliche Eintreffen dieser Truppen gab den Versaillern von Anfang Mai an entschiednes Übergewicht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.15.5
+  kind: p
+  original: Dies zeigte sich schon, als am 23. April Thiers die Unterhandlungen abbrach wegen des von der Kommune angebotnen Austausches des Erzbischofs von Paris [Darboy] und einer ganzen Reihe andrer als Geiseln in Paris festgehaltenen Pfaffen gegen den einzigen Blanqui, der zweimal in die Kommune gewählt, aber in Clairvaux gefangen war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.15.6
+  kind: p
+  original: Und noch mehr in der veränderten Sprache von Thiers; bisher hinhaltend und doppelzüngig, wurde er jetzt plötzlich frech, drohend, brutal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.15.7
+  kind: p
+  original: Auf der Südfront nahmen die Versailler am 3. Mai die Redoute von Moulin-Saquet, am 9. das vollständig in Trümmer geschossene Fort von Issy, am 14. das von Vanves.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.15.8
+  kind: p
+  original: Auf der Westfront rückten sie allmählich, die zahlreichen, bis an die Ringmauer sich erstreckenden Dörfer und Gebäude erobernd, bis an den Hauptwall selbst vor; am 21. gelang es ihnen, durch Verrat und infolge von Nachlässigkeit der hier aufgestellten Nationalgarde, in die Stadt einzudringen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: P1891.15.9
+  kind: p
+  original: Die Preußen, die die nördlichen und östlichen Forts besetzt hielten, erlaubten den Versaillern, über das ihnen durch den Waffenstillstand verbotne Terrain im Norden der Stadt vorzudringen und dadurch angreifend vorzugehn auf einer langen Front, die die Pariser durch den Waffenstillstand gedeckt glauben mußten und daher nur schwach besetzt hielten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 194-195
+- id: P1891.15.10
+  kind: p
+  original: Infolge hiervon war der Widerstand in der westlichen Hälfte von Paris, in der eigentlichen Luxusstadt, nur schwach; er wurde heftiger und zäher, je mehr die eindringenden Truppen sich der Osthälfte, der eigentlichen Arbeiterstadt, näherten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: P1891.15.11
+  kind: p
+  original: Erst nach achttägigem Kampf erlagen die letzten Verteidiger der Kommune auf den Höhen von Belleville und Ménilmontant, und nun erreichte das Morden wehrloser Männer, Weiber und Kinder, das die ganze Woche hindurch in steigendem Maße gewütet, seinen Höhepunkt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: P1891.15.12
+  kind: p
+  original: Der Hinterlader tötete nicht mehr rasch genug, zu Hunderten wurden die Besiegten mit Mitrailleusen zusammengeschossen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: P1891.15.13
+  kind: p
+  original: Die "Mauer der Föderierten" auf dem Kirchhof Père-Lachaise, wo der letzte Massenmord vollzogen, steht noch heute, ein stumm-beredtes Zeugnis, welcher Raserei die herrschende Klasse fähig ist, sobald das Proletariat es wagt, für sein Recht einzutreten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: P1891.15.14
+  kind: p
+  original: Dann kamen die Massenverhaftungen, als die Abschlachtung aller sich als unmöglich erwies, die Erschießung von willkürlich aus den Reihen der Gefangnen herausgesuchten Schlachtopfern, die Abführung des Restes in große Lager, wo sie der Vorführung vor die Kriegsgerichte harrten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: P1891.15.15
+  kind: p
+  original: Die preußischen Truppen, die die Nordosthälfte von Paris umlagerten, hatten Befehl, keine Flüchtlinge durchzulassen, doch drückten die Offiziere oft ein Auge zu, wenn die Soldaten dem Gebot der Menschlichkeit mehr gehorchten als dem des Oberkommandos; namentlich aber gebührt dem sächsichen Armeekorps der Ruhm, daß es sehr human verfuhr und viele durchließ, deren Eigenschaft als Kommunekämpfer augenscheinlich war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: P1891.16.1
+  kind: p
+  original: Schauen wir heute, nach zwanzig Jahren, zurück auf die Tätigkeit und die geschichtliche Bedeutung der Pariser Kommune von 1871, so werden wir finden, daß zu der im "Bürgerkrieg in Frankreich" gegebnen Darstellung noch einige Zusätze zu machen sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: P1891.17.1
+  kind: p
+  original: 'Die Mitglieder der Kommune spalteten sich in eine Majorität, die Blanquisten, die auch im Zentralkomitee der Nationalgarde vorgeherrscht hatten, und eine Minorität: die vorwiegend aus Anhängern der Proudhonschen sozialistischen Schule bestehenden Mitglieder der Internationalen Arbeiterassoziation.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: P1891.17.2
+  kind: p
+  original: Die Blanquisten waren damals, der großen Masse nach, Sozialisten nur aus revolutionärem, proletarischem Instinkt; nur wenige waren durch Vaillant, der den deutschen wissenschaftlichen Sozialismus kannte, zu größerer prinzipieller Klarheit gelangt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 195-196
+- id: P1891.17.3
+  kind: p
+  original: So begreift es sich, daß in ökonomischer Beziehung manches unterlassen wurde, was nach unsrer heutigen Anschauung die Kommune hätte tun müssen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.17.4
+  kind: p
+  original: Am schwersten begreiflich ist allerdings der heilige Respekt, womit man vor den Toren der Bank von Frankreich ehrerbietig stehnblieb.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.17.5
+  kind: p
+  original: Das war auch ein schwerer politischer Fehler.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.17.6
+  kind: p
+  original: Die Bank in den Händen der Kommune - das war mehr wert als zehntausend Geiseln.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.17.7
+  kind: p
+  original: Das bedeutete den Druck der ganzen französischen Bourgeoisie auf die Versailler Regierung im Interesse des Friedens mit der Kommune.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.17.8
+  kind: p
+  original: Was aber noch wunderbarer, das ist das viele Richtige, das trotzdem von der aus Blanquisten und Proudhonisten zusammengesetzten Kommune getan wurde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.17.9
+  kind: p
+  original: Selbstverständlich sind für die ökonomischen Dekrete der Kommune, für ihre rühmlichen wie für ihre unrühmlichen Seiten, in erster Linie die Proudhonisten verantwortlich, wie für ihre politischen Handlungen und Unterlassungen die Blanquisten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.17.10
+  kind: p
+  original: Und in beiden Fällen wollte es die Ironie der Geschichte - wie gewöhnlich, wenn Doktrinäre ans Ruder kommen -, daß die einen wie die andern das Gegenteil von dem taten, was ihre Schuldoktrin vorschrieb.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.18.1
+  kind: p
+  original: Proudhon, der Sozialist des Kleinbauern und des Handwerksmeisters, haßte die Assoziation mit einem positiven Haß.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.18.2
+  kind: p
+  original: Er sagte von ihr, sie schließe mehr Schlimmes als Gutes ein, sie sei von Natur unfruchtbar, sogar schädlich, weil eine der Freiheit des Arbeiters angelegte Fessel; sie sei ein pures Dogma, unproduktiv und lästig, im Widerstreit so mit der Freiheit des Arbeiters wie mit der Ersparung von Arbeit, und ihre Nachteile wüchsen rascher als ihre Vorteile; ihr gegenüber seien Konkurrenz, Arbeitsteilung, Privateigentum ökonomische Kräfte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.18.3
+  kind: p
+  original: Nur für die Ausnahmefälle - wie Proudhon sie nennt - der großen Industrie und der großen Betriebskörper, z.B. Eisenbahnen - sei die Assoziation der Arbeiter am Platz.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.18.4
+  kind: p
+  original: (S. "Idée générale de la révolution", 3. étude.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.19.1
+  kind: p
+  original: Und 1871 hatte die große Industrie selbst in Paris, dem Zentralsitz des Kunsthandwerks, schon so sehr aufgehört, ein Ausnahmefall zu sein, daß bei weitem das wichtigste Dekret der Kommune eine Organisation der großen Industrie und sogar der Manufaktur anordnete, die nicht nur auf der Assoziation der Arbeiter in jeder Fabrik beruhen, sondern auch alle diese Genossenschaften zu einem großen Verband vereinigen sollte; kurz, eine Organisation, die, wie Marx im "Bürgerkrieg" ganz richtig sagt, schließlich auf den Kommunismus, also auf das direkte Gegenteil der Proudhonschen Lehre hinauslaufen mußte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: P1891.19.2
+  kind: p
+  original: Und daher war auch die Kommune das Grab der Proudhonschen Schule des Sozialismus.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 196-197
+- id: P1891.19.3
+  kind: p
+  original: Diese Schule ist heute aus den französischen Arbeiterkreisen verschwunden; hier herrscht jetzt unbestritten, bei Possibilisten nicht minder als bei "Marxisten", die Marxsche Theorie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.19.4
+  kind: p
+  original: Nur unter der "radikalen" Bourgeoisie gibt es noch Proudhonisten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.20.1
+  kind: p
+  original: Nicht besser erging es den Blanquisten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.20.2
+  kind: p
+  original: Großgezogen in der Schule der Verschwörung, zusammengehalten durch die ihr entsprechende straffe Disziplin, gingen sie von der Ansicht aus, daß eine verhältnismäßig kleine Zahl entschloßner, wohlorganisierter Männer imstande sei, in einem gegebnen günstigen Moment das Staatsruder nicht nur zu ergreifen, sondern auch durch Entfaltung großer, rücksichtsloser Energie so lange zu behaupten, bis es ihr gelungen, die Masse des Volks in die Revolution hineinzureißen und um die führende kleine Schar zu gruppieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.20.3
+  kind: p
+  original: Dazu gehörte vor allen Dingen strengste, diktatorische Zentralisation aller Gewalt in der Hand der neuen revolutionären Regierung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.20.4
+  kind: p
+  original: Und was tat die Kommune, die der Mehrzahl nach aus eben diesen Blanquisten bestand?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.20.5
+  kind: p
+  original: In allen ihren Proklamationen an die Franzosen der Provinz forderte sie diese auf zu einer freien Föderation aller französischen Kommunen mit Paris, zu einer nationalen Organisation, die zum erstenmal wirklich durch die Nation selbst geschaffen werden sollte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.20.6
+  kind: p
+  original: Gerade die unterdrückende Macht der bisherigen zentralisierten Regierung, Armee, politische Polizei, Bürokratie, die Napoleon 1798 geschaffen und die seitdem jede neue Regierung als willkommnes Werkzeug übernommen und gegen ihre Gegner ausgenutzt hatte, gerade diese Macht sollte überall fallen, wie sie in Paris bereits gefallen war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.21.1
+  kind: p
+  original: Die Kommune mußte gleich von vornherein anerkennen, daß die Arbeiterklasse, einmal zur Herrschaft gekommen, nicht fortwirtschaften könne mit der alten Staatsmaschine; daß diese Arbeiterklasse, um nicht ihrer eignen, erst eben eroberten Herrschaft wieder verlustig zu gehn, einerseits alle die alte, bisher gegen sie selbst ausgenutzte Unterdrückungsmaschinerie beseitigen, andrerseits aber sich sichern müsse gegen ihre eignen Abgeordneten und Beamten, indem sie diese, ohne alle Ausnahme, für jederzeit absetzbar erklärte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.21.2
+  kind: p
+  original: Worin bestand die charakteristische Eigenschaft des bisherigen Staats?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.21.3
+  kind: p
+  original: Die Gesellschaft hatte zur Besorgung ihrer gemeinsamen Interessen, ursprünglich durch einfache Arbeitsteilung, sich eigne Organe geschaffen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.21.4
+  kind: p
+  original: Aber diese Organe, deren Spitze die Staatsgewalt, hatten sich mit der Zeit, im Dienst ihrer eignen Sonderinteressen, aus Dienern der Gesellschaft zu Herren über dieselbe verwandelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.21.5
+  kind: p
+  original: Wie dies z.B. nicht bloß in der erblichen Monarchie, sondern ebensogut in der demokratischen Republik zu sehn ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: P1891.21.6
+  kind: p
+  original: Nirgends bilden die "Politiker" eine abgesondertere und mächtigere Abteilung der Nation als grade in Nordamerika.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 197-198
+- id: P1891.21.7
+  kind: p
+  original: Hier wird jede der beiden großen Parteien, denen die Herrschaft abwechselnd zufällt, selbst wieder regiert von Leuten, die aus der Politik ein Geschäft machen, die auf Sitze in den gesetzgebenden Versammlungen des Bundes wie der Einzelstaaten spekulieren oder die von der Agitation für ihre Partei leben und nach deren Sieg durch Stellen belohnt werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.21.8
+  kind: p
+  original: Es ist bekannt, wie die Amerikaner seit 30 Jahren versuchen, dies unerträglich gewordne Joch abzuschütteln, und wie sie trotz alledem immer tiefer in diesen Sumpf der Korruption hineinsinken.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.21.9
+  kind: p
+  original: Gerade in Amerika können wir am besten sehn, wie diese Verselbständigung der Staatsmacht gegenüber der Gesellschaft, zu deren bloßem Werkzeug sie ursprünglich bestimmt war, vor sich geht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.21.10
+  kind: p
+  original: Hier existiert keine Dynastie, kein Adel, kein stehendes Heer, außer den paar Mann zur Bewachung der Indianer, keine Bürokratie mit fester Anstellung oder Pensionsberechtigung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.21.11
+  kind: p
+  original: Und dennoch haben wir hier zwei große Banden von politischen Spekulanten, die abwechselnd die Staatsmacht in Besitz nehmen und mit den korruptesten Mitteln und zu den korruptesten Zwecken ausbeuten - und die Nation ist ohnmächtig gegen diese angeblich in ihrem Dienst stehenden, in Wirklichkeit aber sie beherrschenden und plündernden zwei großen Kartelle von Politikern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.22.1
+  kind: p
+  original: Gegen diese in allen bisherigen Staaten unumgängliche Verwandlung des Staats und der Staatsorgane aus Dienern der Gesellschaft in Herren der Gesellschaft wandte die Kommune zwei unfehlbare Mittel an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.22.2
+  kind: p
+  original: Erstens besetzte sie alle Stellen, verwaltende, richtende, lehrende, durch Wahl nach allgemeinem Stimmrecht der Beteiligten, und zwar auf jederzeitigen Widerruf durch dieselben Beteiligten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.22.3
+  kind: p
+  original: Und zweitens zahlte sie für alle Dienste, hohe wie niedrige, nur den Lohn, den andre Arbeiter empfingen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.22.4
+  kind: p
+  original: Das höchste Gehalt, das sie überhaupt zahlte, war 6.000 Franken.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.22.5
+  kind: p
+  original: Damit war der Stellenjägerei und dem Strebertum ein sichrer Riegel vorgeschoben, auch ohne die gebundnen Mandate bei Delegierten zu Vertretungskörpern, die noch zum Überfluß hinzugefügt wurden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.23.1
+  kind: p
+  original: Diese Sprengung der bisherigen Staatsmacht und ihre Ersetzung durch eine neue, in Wahrheit demokratische, ist im dritten Abschnitt des "Bürgerkriegs" eingehend geschildert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.23.2
+  kind: p
+  original: Es war aber nötig, hier nochmals kurz auf einige Züge derselben einzugehn, weil gerade in Deutschland der Aberglaube an den Staat aus der Philosophie sich in das allgemeine Bewußtsein der Bourgeoisie und selbst vieler Arbeiter übertragen hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: P1891.23.3
+  kind: p
+  original: Nach der philosophischen Vorstellung ist der Staat die "Verwirklichung der Idee" oder das ins Philosophische übersetzte Reich Gottes auf Erden, das Gebiet, worauf die ewige Wahrheit und Gerechtigkeit sich verwirklicht oder verwirklichen soll.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 198-199
+- id: P1891.23.4
+  kind: p
+  original: Und daraus folgt dann eine abergläubische Verehrung des Staats und alles dessen, was mit dem Staat zusammenhängt, und die sich um so leichter einstellt, als man sich von Kindesbeinen daran gewöhnt hat, sich einzubilden, die der ganzen Gesellschaft gemeinsamen Geschäfte und Interessen könnten nicht anders besorgt werden, als wie sie bisher besorgt worden sind, nämlich durch den Staat und seine wohlbestallten Behörden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: P1891.23.5
+  kind: p
+  original: Und man glaubt schon einen ganz gewaltig kühnen Schritt getan zu haben, wenn man sich frei gemacht vom Glauben an die erbliche Monarchie und auf die demokratische Republik schwört.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: P1891.23.6
+  kind: p
+  original: In Wirklichkeit aber ist der Staat nichts als eine Maschine zur Unterdrückung einer Klasse durch eine andre, und zwar in der demokratischen Republik nicht minder als in der Monarchie; und im besten Fall ein Übel, das dem im Kampf um die Klassenherrschaft siegreichen Proletariat vererbt wird und dessen schlimmste Seiten es ebensowenig wie die Kommune umhin können wird, sofort möglichst zu beschneiden, bis ein in neuen, freien Gesellschaftszuständen herangewachsenes Geschlecht imstande sein wird, den ganzen Staatsplunder von sich abzutun.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: P1891.24.1
+  kind: p
+  original: 'Der deutsche Philister ist neuerdings wieder in heilsamen Schrecken geraten bei dem Wort: Diktatur des Proletariats.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: P1891.24.2
+  kind: p
+  original: Nun gut, ihr Herren, wollt ihr wissen, wie diese Diktatur aussieht?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: P1891.24.3
+  kind: p
+  original: Seht euch die Pariser Kommune an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: P1891.24.4
+  kind: p
+  original: Das war die Diktatur des Proletariats.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: P1891.25.1
+  kind: signature
+  original: London, am zwanzigsten Jahrestag der Pariser Kommune, 18. März 1891
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: P1891.26.1
+  kind: signature
+  original: F. Engels
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'

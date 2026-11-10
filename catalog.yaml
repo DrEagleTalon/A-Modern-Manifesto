@@ -134,11 +134,11 @@
   original_language: en
   tier: A
   priority: 10
-  stage: sourced
+  stage: ready
   sources:
     original: ["mia:en/archive/marx/works/1871/civil-war-france/"]
-    german: ["mlwerke:me17/me17_319.htm"]
-  notes: Written in English. Engels's 1891 introduction and the German translation (by Engels) can sit beside it.
+    german: ["mlwerke:me17/me17_319.htm", "mlwerke:me22/me22_188.htm (Engels's 1891 introduction, written in German)"]
+  notes: "Written in English. Engels's 1891 introduction is in German (MEW 22) and sits in the original column as section P1891, with no English. Engels's German translation of the Address (MEW 17) is fetched for reference but has no column."
 
 - id: anarchism-and-other-essays
   prefix: AOE

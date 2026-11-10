@@ -1,0 +1,782 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: A2
+title_original: Second Address of the General Council on the Franco-Prussian War
+title_en: Second Address of the General Council on the Franco-Prussian War
+author: Karl Marx
+date: '1870-09-09'
+original_language: en
+anchor_language: en
+source_original: Karl Marx for the General Council of the International Working Men's Association, English editions of 1870 and 1871, public domain; Marxists Internet Archive transcription (Zodiac and Brian Baggins, proofed by Matthew Carmody 2009; CC BY-SA)
+source_en: 'None needed: the original is in English'
+verses:
+- id: A2.0.1
+  kind: heading
+  original: The Second Address, September 9, 1870
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.1.1
+  kind: p
+  original: 'In our first manifesto of the 23rd of July, we said:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.2.1
+  kind: p
+  original: '"The death-knell of the Second Empire has already sounded at Paris.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.2.2
+  kind: p
+  original: It will end, as it began, by a parody.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.2.3
+  kind: p
+  original: But let us not forget that it is the governments and the ruling classes of Europe who enabled Louis Bonaparte to play during 18 years the ferocious farce of the Restored Empire."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.3.1
+  kind: p
+  original: Thus, even before war operations had actually set in, we treated the Bonapartist bubble as a thing of the past.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.4.1
+  kind: p
+  original: If we were not mistaken as to the vitality of the Second Empire, we were not wrong in our apprehension lest the German war should "lose its strictly defensive character and degenerate into a war against the French people."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.4.2
+  kind: p
+  original: The war of defense ended, in point of fact, with the surrender of Louis Bonaparte, the Sedan capitulation, and the proclamation of the republic at Paris.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.4.3
+  kind: p
+  original: But long before these events, the very moment that the utter rottenness of the imperialist arms became evident, the Prussian military camarilla had resolved upon conquest.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.4.4
+  kind: p
+  original: There lay an ugly obstacle in their way - King William's own proclamations at the commencement of the war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.5.1
+  kind: p
+  original: 'In a speech from the throne to the North German Diet, he had solemnly declared to make war upon the emperor of the French and not upon the French nation, where he said:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.6.1
+  kind: p
+  original: '"The Emperor Napoleon having made by land and sea an attack on the German nation, which desired and still desires to live in peace with the French people, I have assumed the command of the German armies to repel his aggression, and I have been led by military events to cross the frontiers of France."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.7.1
+  kind: p
+  original: Not content to assert the defensive character of the war by the statement that he only assumed the command of the German armies "to repel aggression", he added that he was only "led by military events" to cross the frontiers of France.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.7.2
+  kind: p
+  original: A defensive war does, of course, not exclude offensive operations, dictated by military events.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.8.1
+  kind: p
+  original: Thus, the pious king stood pledged before France and the world to a strictly defensive war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.8.2
+  kind: p
+  original: How to release him from his solemn pledge?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.8.3
+  kind: p
+  original: The stage managers had to exhibit him as reluctantly yielding to the irresistible behest of the German nation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.8.4
+  kind: p
+  original: They at once gave the cue to the liberal German middle class, with its professors, its capitalists, its aldermen, and its penmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.8.5
+  kind: p
+  original: That middle class, which, in its struggles for civil liberty, had, from 1846 to 1870, been exhibiting an unexampled spectacle of irresolution, incapacity and cowardice, felt, of course, highly delighted to bestride the European scene as the roaring lion of German patriotism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.8.6
+  kind: p
+  original: It re-vindicated its civic independence by affecting to force upon the Prussian government the secret designs of that same government.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.8.7
+  kind: p
+  original: It does penance for its long-continued, and almost religious, faith in Louis Bonaparte's infallibility, but shouting for the dismemberment of the French republic.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.8.8
+  kind: p
+  original: Let us, for a moment, listen to the special pleadings of those stout-hearted patriots!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.9.1
+  kind: p
+  original: They dare not pretend that the people of Alsace and Lorraine pant for the German embrace; quite the contrary.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.9.2
+  kind: p
+  original: To punish their French patriotism, Strasbourg, a town with an independent citadel commanding it, has for six days been wantonly and fiendishly bombarded by "German" explosive shells, setting it on fire, and killing great numbers of its defenceless inhabitants!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.9.3
+  kind: p
+  original: Yet, the soil of those provinces once upon a time belonged to the whilom German empire.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.9.4
+  kind: p
+  original: Hence, it seems, the soil and the human beings grown on it must be confiscated as imprescriptible German property.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.9.5
+  kind: p
+  original: If the map of Europe is to be re-made in the antiquary's vein, let us by no means forget that the Elector of Brandenburg, for his Prussian dominions, was the vassal of the Polish republic.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.10.1
+  kind: p
+  original: The more knowing patriots, however, require Alsace and the German-speaking Lorraine as a "material guarantee" against French aggression.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.10.2
+  kind: p
+  original: As this contemptible plea has bewildered many weak-minded people, we are bound to enter more fully upon it.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.11.1
+  kind: p
+  original: There is no doubt that the general configuration of Alsace, as compared with the opposite bank of the Rhine, and the presence of a large fortified town like Strasbourg, about halfway between Basle and Germersheim, very much favour a French invasion of South Germany, while they offer peculiar difficulties to an invasion of France from South Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.11.2
+  kind: p
+  original: There is, further, no doubt that the addition of Alsace and German-speaking Lorraine would give South Germany a much stronger frontier, inasmuch as she would then be the master of the crest of the Vosges mountains in its whole length, and of the fortresses which cover its northern passes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.11.3
+  kind: p
+  original: If Metz were annexed as well, France would certainly for the moment be deprived of her two principal bases of operation against Germany, but that would not prevent her from concentrating a fresh one at Nancy or Verdun.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.11.4
+  kind: p
+  original: While Germany owns Coblenz, Mayence, Germersheim, Rastatt, and Ulm, all bases of operation against France, and plentifully made use of in this war, with what show of fair play can she begrudge France Strasbourg and Metz, the only two fortresses of any importance she has on that side?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.11.5
+  kind: p
+  original: Moreover, Strasbourg endangers South Germany only while South Germany is a separate power from North Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.11.6
+  kind: p
+  original: From 1792 to 1795, South Germany was never invaded from that direction, because Prussia was a party to the war against the French Revolution; but as soon as Prussia made a peace of her own in 1795, and left the South to shift for itself, the invasions of South Germany with Strasbourg as a base began and continued till 1809.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.11.7
+  kind: p
+  original: The fact is, a united Germany can always render Strasbourg and any French army in Alsace innocuous by concentrating all her troops, as was done in the present war, between Saarlouis and Landau, and advancing, or accepting battle, on the line of road between Mayence and Metz.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.11.8
+  kind: p
+  original: While the mass of the German troops is stationed there, any French army advancing from Strasbourg into South Germany would be outflanked, and have its communication threatened.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.11.9
+  kind: p
+  original: If the present campaign has proved anything, it is the facility of invading France from Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.12.1
+  kind: p
+  original: But, in good faith, is it not altogether an absurdity and an anachronism to make military considerations the principle by which the boundaries of nations are to be fixed?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.12.2
+  kind: p
+  original: If this rule were to prevail, Austria would still be entitled to Venetia and the line of the Minicio, and France to the line of the Rhine, in order to protect Paris, which lies certainly more open to an attack from the northeast than Berlin does from the southwest.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.12.3
+  kind: p
+  original: If limits are to be fixed by military interests, there will be no end to claims, because every military line is necessarily faulty, and may be improved by annexing some more outlying territory; and, moreover, they can never be fixed finally and fairly, because they always must be imposed by the conqueror upon the conquered, and consequently carry within them the seed of fresh wars.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.13.1
+  kind: p
+  original: Such is the lesson of all history.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.14.1
+  kind: p
+  original: Thus with nations as with individuals.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.14.2
+  kind: p
+  original: To deprive them of the power of offence, you must deprive them of the means of defence.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.14.3
+  kind: p
+  original: You must not only garrote, but murder.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.14.4
+  kind: p
+  original: If every conqueror took "material guarantees" for breaking the sinews of a nation, the first Napoleon did so by the Tilsit Treaty, and the way he executed it against Prussia and the rest of Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.14.5
+  kind: p
+  original: Yet, a few years later, his gigantic power split like a rotten reed upon the German people.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.14.6
+  kind: p
+  original: What are the "material guarantees" Prussia, in her wildest dreams, can or dare imposes upon France, compared to the "material guarantees" the first Napoleon had wrenched from herself?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.14.7
+  kind: p
+  original: The result will not prove the less disastrous.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.14.8
+  kind: p
+  original: History will measure its retribution, not by the intensity of the square miles conquered from France, but by the intensity of the crime of reviving, in the second half of the 19th century, the policy of conquest!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.15.1
+  kind: p
+  original: But, say the mouthpieces of Teutonic patriotism, you must not confound Germans with Frenchmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.15.2
+  kind: p
+  original: What we want is not glory, but safety.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.15.3
+  kind: p
+  original: The Germans are an essentially peaceful people.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.15.4
+  kind: p
+  original: In their sober guardianship, conquest itself changes from a condition of future war into a pledge of perpetual peace.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.15.5
+  kind: p
+  original: Of course, it is not Germans that invaded France in 1792, for the sublime purpose of bayonetting the revolution of the 18th century.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.15.6
+  kind: p
+  original: It is not Germans that befouled their hands by the subjugation of Italy, the oppressions of Hungary, and the dismemberment of Poland.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.15.7
+  kind: p
+  original: Their present military system, which divides the whole able-bodied male population into two parts - one standing army on service, and another standing army on furlough, both equally bound in passive obedience to rulers by divine right - such a military system is, of course, "a material guarantee," for keeping the peace and the ultimate goal of civilizing tendencies!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.15.8
+  kind: p
+  original: In Germany, as everywhere else, the sycophants of the powers that be poison the popular mind by the incense of mendacious self-praise.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.16.1
+  kind: p
+  original: Indignant as they pretend to be at the sight of French fortresses in Metz and Strasbourg, those German patriots see no harm in the vast system of Moscovite fortifications at Warsaw, Modlin, and Ivangorod.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.16.2
+  kind: p
+  original: While gloating at the terrors of imperialist invasion, they blink at the infamy of autocratic tutelage.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.1
+  kind: p
+  original: As in 1865, promises were exchanged between Gorchakov and Bismarck.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.2
+  kind: p
+  original: As Louis Bonaparte flattered himself that the War of 1866, resulting in the common exhaustion of Austria and Prussia, would make him the supreme arbiter of Germany, so Alexander flattered himself that the War of 1870, resulting in the common exhaustion of Germany and France, would make him the supreme arbiter of the Western continent.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.3
+  kind: p
+  original: As the Second Empire thought the North German Confederation incompatible with its existence, so autocratic Russia must think herself endangered by a German empire under Prussian leadership.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.4
+  kind: p
+  original: Such is the law of the old political system.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.5
+  kind: p
+  original: Within its pale the gain of one state is the loss of the other.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.6
+  kind: p
+  original: The tsar's paramount influence over Europe roots in his traditional hold on Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.7
+  kind: p
+  original: At a moment when in Russia herself volcanic social agencies threaten to shake the very base of autocracy, could the tsar afford to bear with such a loss of foreign prestige?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.8
+  kind: p
+  original: Already the Moscovite journals repeat the language of the Bonapartist journals of the War of 1866.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.9
+  kind: p
+  original: Do the Teuton patriots really believe that liberty and peace will be guaranteed to Germany by forcing France into the arms of Russia?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.10
+  kind: p
+  original: If the fortune of her arms, the arrogance of success, and dynastic intrigue lead Germany to a dismemberment of French territory, there will then only remain two courses open to her.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.17.11
+  kind: p
+  original: She must at all risks become the avowed tool of Russian aggrandizement, or, after some short respite, make again ready for another "defensive" war, not one of those new-fangled "localized" wars, but a war of races - a war with the Slavonic and Roman races.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.18.1
+  kind: p
+  original: The German working class have resolutely supported the war, which it was not in their power to prevent, as a war for German independence and the liberation of France and Europe from that pestilential incubus, the Second Empire.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.18.2
+  kind: p
+  original: It was the German workmen who, together with the rural laborers, furnished the sinews and muscles of heroic hosts, leaving behind their half-starved families.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.18.3
+  kind: p
+  original: Decimated by the battles abroad, they will be once more decimated by misery at home.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.18.4
+  kind: p
+  original: In their turn, they are now coming forward to ask for "guarantees" - guarantees that their immense sacrifices have not been bought in vain, that they have conquered liberty, that the victory over the imperialist armies will not, as in 1815, be turned into the defeat of the German people; and, as the first of these guarantees, they claim an honorable peace for France, and the recognition of the French republic.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.19.1
+  kind: p
+  original: The Central Committee of the German Social-Democratic Workmen's Party issued, on September 5, a manifesto, energetically insisting upon these guarantees.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.20.1
+  kind: p
+  original: '"We," they say, "protest against the annexation of Alsace and Lorraine.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.20.2
+  kind: p
+  original: And we are conscious of speaking in the name of the German working class.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.20.3
+  kind: p
+  original: In the common interest of France and Germany, in the interest of western civilization against eastern barbarism, the German workmen will not patiently tolerate the annexation of Alsace and Lorraine....
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.20.4
+  kind: p
+  original: We shall faithfully stand by our fellow workmen in all countries for the common international cause of the proletariat!"
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.21.1
+  kind: p
+  original: Unfortunately, we cannot feel sanguine of their immediate success.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.21.2
+  kind: p
+  original: If the French workmen amidst peace failed to stop the aggressor, are the German workmen more likely to stop the victor amidst the clamour of arms?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.21.3
+  kind: p
+  original: The German workmen's manifesto demands the extradition of Louis Bonaparte as a common felon to the French republic.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.21.4
+  kind: p
+  original: Their rulers are, on the contrary, already trying hard to restore him to the Tuileries as the best man to ruin France.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.21.5
+  kind: p
+  original: However that may be, history will prove that the German working class are not made of the same malleable stuff as the German middle class.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.21.6
+  kind: p
+  original: They will do their duty.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.22.1
+  kind: p
+  original: Like them, we hail the advent of the republic in France, but at the same time we labor under misgivings which we hope will prove groundless.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.22.2
+  kind: p
+  original: That republic has not subverted the throne, but only taken its place, become vacant.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.22.3
+  kind: p
+  original: It has been proclaimed, not as a social conquest, but as a national measure of defence.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.22.4
+  kind: p
+  original: It is in the hands of a Provisional Government composed partly of notorious Orleanists, partly of middle class republicans, upon some of whom the insurrection of June 1848 has left its indelible stigma.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.22.5
+  kind: p
+  original: The division of labor amongst the members of that government looks awkward.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.22.6
+  kind: p
+  original: The Orleanists have seized the strongholds of the army and the police, while to the professed republicans have fallen the talking departments.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.22.7
+  kind: p
+  original: Some of their acts go far to show that they have inherited from the empire, not only ruins, but also its dread of the working class.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.22.8
+  kind: p
+  original: If eventual impossibilities are, in wild phraseology, promised in the name of the republic, is it not with a view to prepare the cry for a "possible" government?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.22.9
+  kind: p
+  original: Is the republic, by some of its middle class undertakers, not intended to serve as a mere stop-gap and bridge over an Orleanist restoration?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.23.1
+  kind: p
+  original: The French working class moves, therefore, under circumstances of extreme difficulty.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.23.2
+  kind: p
+  original: Any attempt at upsetting the new government in the present crisis, when the enemy is almost knocking at the doors of Paris, would be a desperate folly.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.23.3
+  kind: p
+  original: The French workmen must perform their duties as citizens; but, at the same time, they must not allow themselves to be swayed by the national souvenirs of 1792, as the French peasant allowed themselves to be deluded by the national souvenirs of the First Empire.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.23.4
+  kind: p
+  original: They have not to recapitulate the past, but to build up the future.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.23.5
+  kind: p
+  original: Let them calmly and resolutely improve the opportunities of republican liberty, for the work of their own class organization.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.23.6
+  kind: p
+  original: It will gift them with fresh herculean powers for the regeneration of France, and our common task - the emancipation of labor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.23.7
+  kind: p
+  original: Upon their energies and wisdom hinges the fate of the republic.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.24.1
+  kind: p
+  original: The English workmen have already taken measures to overcome, by a wholesome pressure from without, the reluctance of their government to recognize the French republic.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.24.2
+  kind: p
+  original: The present dilatoriness of the British government is probably intended to atone for the Anti-Jacobin war and the former indecent haste in sanctioning the coup d'etat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.24.3
+  kind: p
+  original: The English workmen call also upon their government to oppose by all its power the dismemberment of France, which a part of the English press is shameless enough to howl for.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.24.4
+  kind: p
+  original: It is the same press that for 20 years deified Louis Bonaparte as the providence of Europe, that frantically cheered on the slaveholders' rebellion.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.24.5
+  kind: p
+  original: Now, as then, it drudges for the slaveholder.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.25.1
+  kind: p
+  original: Let the sections of the International Working Men's Association in every country stir the working classes to action.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.25.2
+  kind: p
+  original: If they forsake their duty, if they remain passive, the present tremendous war will be but the harbinger of still deadlier international feuds, and lead in every nation to a renewed triumph over the workman by the lords of the sword, of the soil, and of capital.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: A2.26.1
+  kind: signature
+  original: Vive la Republique!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

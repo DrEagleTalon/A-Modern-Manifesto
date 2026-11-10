@@ -29,7 +29,7 @@ Every work planned for the library, in queue order, and how far along it is. **R
 | 7 | [The Conquest of Bread (1892)](works/conquest-of-bread) | Peter Kropotkin | `CB` | French | A | ✅ ready for rewrite | 2770 verses · 0 seeded · 0 drafted · 0 alignment checks |
 | 8 | [Anarchy (1891)](works/anarchy-malatesta) | Errico Malatesta | `AN` | Italian | A | ✅ ready for rewrite | 533 verses · 0 seeded · 0 drafted · 0 alignment checks |
 | 9 | [God and the State (1882)](works/god-and-the-state) | Mikhail Bakunin | `GAS` | French | A | ✅ ready for rewrite | 970 verses · 0 seeded · 0 drafted · 0 alignment checks |
-| 10 | The Civil War in France (1871) | Karl Marx | `CWF` | English | A | 📦 sourced |  |
+| 10 | [The Civil War in France (1871)](works/civil-war-in-france) | Karl Marx | `CWF` | English | A | ✅ ready for rewrite | 966 verses · 0 seeded · 0 drafted · 0 alignment checks |
 | 11 | Anarchism and Other Essays (1910) | Emma Goldman | `AOE` | English | A | 📦 sourced |  |
 | 12 | Mutual Aid: A Factor of Evolution (1902) | Peter Kropotkin | `MA` | English | A | 📦 sourced |  |
 | 13 | The State and Revolution (1917) | Vladimir Lenin | `SR` | Russian | B | ⏳ planned |  |

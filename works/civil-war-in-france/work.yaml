@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: civil-war-in-france
+prefix: CWF                       # citation prefix: CWF III.3.1
+title: The Civil War in France
+title_original: The Civil War in France
+authors: [Karl Marx, Friedrich Engels (1891 introduction)]
+year: 1871
+original_language: en
+base_text: "Marx's English text of the 1871 Address of the General Council, with the two addresses on the Franco-Prussian War (1870) and Engels's German introduction, as arranged in the 1891 edition"
+order: 100
+columns:
+  original: English original (1870-1871); German for Engels's 1891 introduction
+  en: ""                          # no historical translation: the original is English
+  modern: Modern draft
+status: ready
+rights: Public domain. MIA transcription CC BY-SA. See SOURCES.md.

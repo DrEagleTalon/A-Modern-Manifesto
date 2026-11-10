@@ -1,0 +1,208 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: N2
+title_original: The Civil War in France, note II
+title_en: The Civil War in France, note II
+author: Karl Marx
+date: 1871-06
+original_language: en
+anchor_language: en
+source_original: Karl Marx for the General Council of the International Working Men's Association, English editions of 1870 and 1871, public domain; Marxists Internet Archive transcription (Zodiac and Brian Baggins, proofed by Matthew Carmody 2009; CC BY-SA)
+source_en: 'None needed: the original is in English'
+verses:
+- id: N2.0.1
+  kind: heading
+  original: II
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.1.1
+  kind: p
+  original: 'The following letter appeared in the Times, June 13:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.2.1
+  kind: p
+  original: '"To the editor of The Times:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.3.1
+  kind: p
+  original: '"Sir, - On June 6, 1871, M. Jules Favre issued a circular to all the European Powers, calling them to hunt down the International Working Men''s Association.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.3.2
+  kind: p
+  original: A few remarks will suffice to characterize that document.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.4.1
+  kind: p
+  original: '"In the very preamble to our statutes it is stated that the International was founded "September 28, 1864, at a public meeting held at St. Martin''s Hall, Long Acre, London".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.4.2
+  kind: p
+  original: For purposes of his own Jules Favre puts back the date of its origin behind 1862.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.5.1
+  kind: p
+  original: '"In order to explain our principles, he professes to quote "their (the International''s) sheet of the 25th of March, 1869".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.5.2
+  kind: p
+  original: And then what does he quote?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.5.3
+  kind: p
+  original: The sheet of a society which is not the International.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.5.4
+  kind: p
+  original: This sort of manoeuvre he already recurred to when, still a comparatively young lawyer, he had to defend the National newspaper, prosecuted for libel by Cabet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.5.5
+  kind: p
+  original: Then he pretended to read extracts from Cabet's pamphlets while reading interpolations of his own - a trick exposed while the court was sitting, and which, but for the indulgence of Cabet, would have been punished by Jules Favre's expulsion from the Paris bar.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.5.6
+  kind: p
+  original: Of all the documents quoted by him as documents of the International, not one belongs to the International.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.6.1
+  kind: p
+  original: He says, for instance,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.7.1
+  kind: p
+  original: '"The Alliance declared itself Atheist, says the General Council, constituted in London in July 1869."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.8.1
+  kind: p
+  original: '"The General Council never issued such a document.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.8.2
+  kind: p
+  original: On the contrary, it issued a document which quashed the original statutes of the 'Alliance' - L'Alliance de la Démocratie Socialiste at Geneva - quoted by Jules Favre.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.9.1
+  kind: p
+  original: '"Throughout his circular, which pretends in part also to be directed against the Empire, Jules Favre repeats against the International but the police inventions of the public prosecutors of the Empire, which broke down miserably even before the law courts of that Empire.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.10.1
+  kind: p
+  original: '"It is known that in its two Addresses (of July and September last) on the late war, the General Council of the International denounced the Prussian plans of conquest against France.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.10.2
+  kind: p
+  original: Later on, Mr. Reitlinger, Jules Favre's private secretary, applied, though of course in vain, to some members of the General Council for getting up by the Council a demonstration against Bismarck, in favor of the Government of National Defence; they were particularly requested not to mention the republic.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.10.3
+  kind: p
+  original: The preparations for a demonstration with regard to the expected arrival of Jules Favre in London were made - certainly with the best of intentions - in spite of the General Council, which, in its address of the 9th of September, had distinctly forewarned the Paris workmen against Jules Favre and his colleagues.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.11.1
+  kind: p
+  original: '"What would Jules Favre say if, in its turn, the International were to send a circular on Jules Favre to all the Cabinets of Europe, drawing their particular attention to the document published at Paris by the late M. Milliere?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.12.1
+  kind: signature
+  original: I am, Sir, your obedient servant, John Hales, Secretary to the General Council of the International Working Men's Association
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.13.1
+  kind: signature
+  original: London
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.14.1
+  kind: signature
+  original: June 12th, 1871
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.15.1
+  kind: p
+  original: In an article on "The International Society and its aims," that pious informer, the London Spectator (June 24th), amongst other similar tricks, quotes, even more fully than Jules Favre has done, the above document of the "Alliance" as the work of the International, and that eleven days after the refutation had been published in The Times.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.15.2
+  kind: p
+  original: We do not wonder at this.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: N2.15.3
+  kind: p
+  original: Frederick the Great used to say that of all Jesuits the worst are the Protestant ones.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

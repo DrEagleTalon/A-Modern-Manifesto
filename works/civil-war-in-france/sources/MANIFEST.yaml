@@ -1,4 +1,4 @@
-# Fetched 2026-11-08 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+# Fetched 2026-11-10 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
 - file: raw/en/ch01.html
   role: original
   url: https://raw.githubusercontent.com/MARX-EBOOKS/marx-ebooks.github.io/HEAD/en/archive/marx/works/1871/civil-war-france/ch01.html
@@ -64,3 +64,8 @@
   url: https://raw.githubusercontent.com/wertform/mlwerke.de/HEAD/me/me17/me17_319.htm
   bytes: 137995
   sha256: f0d58465f87b91eec0cdf25b67e35cf9513a0d822c558c9280ad4ef6811cd3cc
+- file: raw/de/me22_188.htm
+  role: german
+  url: https://raw.githubusercontent.com/wertform/mlwerke.de/HEAD/me/me22/me22_188.htm
+  bytes: 36632
+  sha256: feb0440ccf29a462a591ef391721783a5e23cdde3d1f2b8eb6e0547c9c93ec0b
