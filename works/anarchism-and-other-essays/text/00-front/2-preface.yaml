@@ -1,0 +1,446 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: P1910
+title_original: Preface
+title_en: Preface
+author: Emma Goldman
+date: '1910'
+original_language: en
+anchor_language: en
+source_original: 'Emma Goldman, Anarchism and Other Essays, with a biographic sketch by Hippolyte Havel (New York: Mother Earth Publishing Association, 1910), public domain; Project Gutenberg ebook 2162'
+source_en: 'None needed: the original is in English'
+verses:
+- id: P1910.0.1
+  kind: heading
+  original: Preface
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.1.1
+  kind: p
+  original: Some twenty-one years ago I heard the first great Anarchist speaker--the inimitable John Most.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.1.2
+  kind: p
+  original: It seemed to me then, and for many years after, that the spoken word hurled forth among the masses with such wonderful eloquence, such enthusiasm and fire, could never be erased from the human mind and soul.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.1.3
+  kind: p
+  original: How could any one of all the multitudes who flocked to Most's meetings escape his prophetic voice!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.1.4
+  kind: p
+  original: Surely they had but to hear him to throw off their old beliefs, and see the truth and beauty of Anarchism!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.2.1
+  kind: p
+  original: My one great longing then was to be able to speak with the tongue of John Most,--that I, too, might thus reach the masses.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.2.2
+  kind: p
+  original: Oh, for the naivety of Youth's enthusiasm!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.2.3
+  kind: p
+  original: It is the time when the hardest thing seems but child's play.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.2.4
+  kind: p
+  original: It is the only period in life worth while.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.2.5
+  kind: p
+  original: Alas!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.2.6
+  kind: p
+  original: This period is but of short duration.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.2.7
+  kind: p
+  original: Like Spring, the STURM UND DRANG period of the propagandist brings forth growth, frail and delicate, to be matured or killed according to its powers of resistance against a thousand vicissitudes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.3.1
+  kind: p
+  original: My great faith in the wonder worker, the spoken word, is no more.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.3.2
+  kind: p
+  original: I have realized its inadequacy to awaken thought, or even emotion.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.3.3
+  kind: p
+  original: 'Gradually, and with no small struggle against this realization, I came to see that oral propaganda is at best but a means of shaking people from their lethargy: it leaves no lasting impression.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.3.4
+  kind: p
+  original: The very fact that most people attend meetings only if aroused by newspaper sensations, or because they expect to be amused, is proof that they really have no inner urge to learn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.4.1
+  kind: p
+  original: It is altogether different with the written mode of human expression.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.4.2
+  kind: p
+  original: No one, unless intensely interested in progressive ideas, will bother with serious books.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.4.3
+  kind: p
+  original: That leads me to another discovery made after many years of public activity.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.4.4
+  kind: p
+  original: 'It is this: All claims of education notwithstanding, the pupil will accept only that which his mind craves.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.4.5
+  kind: p
+  original: Already this truth is recognized by most modern educators in relation to the immature mind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.4.6
+  kind: p
+  original: I think it is equally true regarding the adult.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.4.7
+  kind: p
+  original: Anarchists or revolutionists can no more be made than musicians.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.4.8
+  kind: p
+  original: All that can be done is to plant the seeds of thought.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.4.9
+  kind: p
+  original: Whether something vital will develop depends largely on the fertility of the human soil, though the quality of the intellectual seed must not be overlooked.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.5.1
+  kind: p
+  original: In meetings the audience is distracted by a thousand non-essentials.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.5.2
+  kind: p
+  original: The speaker, though ever so eloquent, cannot escape the restlessness of the crowd, with the inevitable result that he will fail to strike root.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.5.3
+  kind: p
+  original: In all probability he will not even do justice to himself.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.6.1
+  kind: p
+  original: The relation between the writer and the reader is more intimate.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.6.2
+  kind: p
+  original: True, books are only what we want them to be; rather, what we read into them.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.6.3
+  kind: p
+  original: That we can do so demonstrates the importance of written as against oral expression.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.6.4
+  kind: p
+  original: It is this certainty which has induced me to gather in one volume my ideas on various topics of individual and social importance.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.6.5
+  kind: p
+  original: They represent the mental and soul struggles of twenty-one years,--the conclusions derived after many changes and inner revisions.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.7.1
+  kind: p
+  original: I am not sanguine enough to hope that my readers will be as numerous as those who have heard me.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.7.2
+  kind: p
+  original: But I prefer to reach the few who really want to learn, rather than the many who come to be amused.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.8.1
+  kind: p
+  original: As to the book, it must speak for itself.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.8.2
+  kind: p
+  original: Explanatory remarks do but detract from the ideas set forth.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.8.3
+  kind: p
+  original: However, I wish to forestall two objections which will undoubtedly be raised.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.8.4
+  kind: p
+  original: One is in reference to the essay on ANARCHISM; the other, on MINORITIES VERSUS MAJORITIES.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.9.1
+  kind: p
+  original: '"Why do you not say how things will be operated under Anarchism?" is a question I have had to meet thousands of times.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.9.2
+  kind: p
+  original: Because I believe that Anarchism can not consistently impose an iron-clad program or method on the future.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.9.3
+  kind: p
+  original: The things every new generation has to fight, and which it can least overcome, are the burdens of the past, which holds us all as in a net.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.9.4
+  kind: p
+  original: Anarchism, at least as I understand it, leaves posterity free to develop its own particular systems, in harmony with its needs.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.9.5
+  kind: p
+  original: Our most vivid imagination can not foresee the potentialities of a race set free from external restraints.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.9.6
+  kind: p
+  original: How, then, can any one assume to map out a line of conduct for those to come?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.9.7
+  kind: p
+  original: We, who pay dearly for every breath of pure, fresh air, must guard against the tendency to fetter the future.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.9.8
+  kind: p
+  original: If we succeed in clearing the soil from the rubbish of the past and present, we will leave to posterity the greatest and safest heritage of all ages.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.10.1
+  kind: p
+  original: The most disheartening tendency common among readers is to tear out one sentence from a work, as a criterion of the writer's ideas or personality.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.10.2
+  kind: p
+  original: Friedrich Nietzsche, for instance, is decried as a hater of the weak because he believed in the UEBERMENSCH.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.10.3
+  kind: p
+  original: It does not occur to the shallow interpreters of that giant mind that this vision of the UEBERMENSCH also called for a state of society which will not give birth to a race of weaklings and slaves.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.11.1
+  kind: p
+  original: It is the same narrow attitude which sees in Max Stirner naught but the apostle of the theory "each for himself, the devil take the hind one."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.11.2
+  kind: p
+  original: That Stirner's individualism contains the greatest social possibilities is utterly ignored.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.11.3
+  kind: p
+  original: Yet, it is nevertheless true that if society is ever to become free, it will be so through liberated individuals, whose free efforts make society.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.12.1
+  kind: p
+  original: These examples bring me to the objection that will be raised to MINORITIES VERSUS MAJORITIES.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.12.2
+  kind: p
+  original: No doubt, I shall be excommunicated as an enemy of the people, because I repudiate the mass as a creative factor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.12.3
+  kind: p
+  original: I shall prefer that rather than be guilty of the demagogic platitudes so commonly in vogue as a bait for the people.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.12.4
+  kind: p
+  original: I realize the malady of the oppressed and disinherited masses only too well, but I refuse to prescribe the usual ridiculous palliatives which allow the patient neither to die nor to recover.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.12.5
+  kind: p
+  original: One cannot be too extreme in dealing with social ills; besides, the extreme thing is generally the true thing.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.12.6
+  kind: p
+  original: My lack of faith in the majority is dictated by my faith in the potentialities of the individual.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.12.7
+  kind: p
+  original: Only when the latter becomes free to choose his associates for a common purpose, can we hope for order and harmony out of this world of chaos and inequality.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.13.1
+  kind: p
+  original: For the rest, my book must speak for itself.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1910.14.1
+  kind: signature
+  original: Emma Goldman
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

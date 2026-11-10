@@ -1,0 +1,139 @@
+# Glossary of recurring terms in Anarchism and Other Essays (AOE).
+# Goldman wrote in English, so these entries are about modernising, not translating.
+# `original` gives the words as the 1910 text uses them. Capitals in the text stand for italics (see SOURCES.md).
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+
+- term: Anarchism
+  original: Anarchism, Anarchist (always capitalised)
+  literal: the philosophy of a social order without government, as Goldman defines it at I.14.1
+  options: [anarchism, anarchist]
+  interim: anarchism, anarchist (lower case, as in current usage)
+  status: open
+  verses: [I.6.3, I.14.1, I.18.1, I.46.1, I.46.2, P1910.9.2]
+  note: The book capitalises the word throughout, like the name of a party or a creed. Lower case is today's usage and loses nothing. Keep Goldman's own definition at I.14.1 close to the wording, because the rest of essay I unpacks it phrase by phrase.
+
+- term: the State
+  original: the State, government, organized authority
+  literal: the political power that rules over people by law and force
+  options: [the state, government]
+  interim: the state; "government" where Goldman says government
+  status: open
+  verses: [I.18.1, I.27.1, I.28.1, I.31.2, I.32.1, B.10.7]
+  note: Goldman uses the capital S as Bakunin's translators did. She names the State as one of three tyrannies beside religion and property (I.28.1, I.46.1); the draft should keep the three parallel.
+
+- term: property
+  original: property, the monopoly of things
+  literal: ownership that gives power over others, not personal belongings
+  options: [property, private property, ownership, the monopoly of things]
+  interim: property; add "private" where a modern reader would hear "my house" or "my coat"
+  status: open
+  verses: [I.22.2, I.22.7, I.23.3, I.23.7, I.28.1, I.32.1]
+  note: At I.28.1 Goldman glosses it herself as "the monopoly of things". That gloss is the guide for the draft.
+
+- term: free communism
+  original: free communism
+  literal: an economy of voluntary associations for production and distribution, without wages or the State
+  options: [free communism, anarchist communism, libertarian communism, communism without the state]
+  interim: free communism
+  status: open
+  verses: [I.26.5]
+  note: The only place the book names its economic aim. Keep the phrase; it is Kropotkin's term and a reader can look it up. Do not swap in "socialism" or "the commons".
+
+- term: direct action
+  original: direct action
+  literal: acting for oneself against law and authority instead of through representatives or the vote
+  options: [direct action]
+  interim: direct action
+  status: interim
+  verses: [I.53.3, I.54.1, I.54.3, I.54.5, B.72.1]
+  note: The term is still current and means much the same. Goldman's examples, from John Brown to the trade unions and the vote itself, show how wide she means it; the draft keeps them.
+
+- term: the mass, the majority
+  original: the mass, the masses, the majority, the multitude, quantity
+  literal: people taken as a crowd or a voting bloc, set against the free individual and the active minority
+  options: [the mass, the majority, the crowd, the herd]
+  interim: the mass; the majority
+  status: open
+  verses: [II.1.2, II.22.1, II.22.3, II.22.9, P1910.12.2, P1910.12.6]
+  note: Goldman expected this essay to offend (P1910.12) and it still does. She is not against working people but against the crowd as a political force. The draft must not soften "the mass" into "society" or sharpen it into contempt; see cruxes.md.
+
+- term: Attentater, attentat
+  original: ATTENTATER, ATTENTAT
+  literal: from French attentat, an attack on a ruler or official; the person who carries one out
+  options: [assassin, attacker, the one who struck, the person who commits an act of political violence]
+  interim: the attacker; on first use add the gloss from III.N1
+  status: open
+  verses: [III.1.3, III.6.1, III.10.1, III.24.2, III.49.2, III.72.1]
+  note: 'Goldman''s own note (III.N1) defines it as "a revolutionist committing an act of political violence". "Assassin" is not the same: several of the acts failed, and the word passes judgement before the essay has made its case.'
+
+- term: patriotism
+  original: patriotism, patriot
+  literal: love of one's country; in Goldman's argument, the belief that one's own spot of earth is better than others and must be defended by force
+  options: [patriotism, nationalism, national pride, flag-waving]
+  interim: patriotism
+  status: open
+  verses: [V.1.1, V.3.2, V.6.11, V.37.3]
+  note: Goldman uses one word for what a modern reader may split into patriotism and nationalism. Keep "patriotism"; the essay defines it as it goes.
+
+- term: militarism
+  original: militarism, standing army, the army and navy
+  literal: the system of permanent armed forces and the spending that keeps them
+  options: [militarism, the arms build-up]
+  interim: militarism
+  status: interim
+  verses: [V.13.1, V.14.1, V.14.3, V.40.1, V.40.5]
+  note: The figures for spending (V.10 to V.14) are those of 1910. Keep them as hers; any update belongs in a note, not in the draft.
+
+- term: Puritanism
+  original: Puritanism, Puritan, purist, purity
+  literal: the moral code that treats pleasure and the body, art included, as sinful and polices them by law
+  options: [Puritanism, prudery, moralism, censorship]
+  interim: Puritanism, with "prudery" or "moral policing" where the sense is narrower
+  status: open
+  verses: [VII.1.1, VII.2.1, VII.2.3, VII.6.7, B.19.2, IX.21.1]
+  note: Not the seventeenth-century sect but the American morality of her own day, embodied in Anthony Comstock (VII.6). "Purist" in IX.21.1 and IX.23.5 is the same idea applied to women voters.
+
+- term: the social evil, the white slave traffic
+  original: the social evil, prostitution, the white slave traffic, white slaves, the cadet system
+  literal: period names for prostitution and for the trafficking of women into it; a cadet is a pimp or procurer
+  options: [prostitution, sex trafficking]
+  interim: prostitution; the white slave traffic, in quotation marks, where Goldman is quoting the reformers' phrase
+  status: open
+  verses: [VIII.1.1, VIII.4.1, VIII.5.3, VIII.8.1, VIII.49.3, VIII.52.4]
+  note: Goldman uses the reformers' terms in order to attack them, often with scorn. "White slave" was the period phrase and carries a racial framing; the draft should keep it visible as theirs, not adopt it. "Cadet" (VIII.49 to VIII.50) is obsolete in this sense and needs plain words.
+
+- term: emancipation
+  original: emancipation, emancipated woman, the woman question
+  literal: being set free; in X, women's freedom from both old dependence and the new limits of a career
+  options: [emancipation, liberation, freedom, independence]
+  interim: emancipation in titles and set phrases; liberation or freedom elsewhere
+  status: open
+  verses: [X.4.1, X.5.3, IX.33.4, B.13.7, B.25.5]
+  note: X argues that "external emancipation" (the vote, a job) is not enough. Keep the word where she contrasts external and inner emancipation, or the contrast is lost.
+
+- term: free love
+  original: free love, love
+  literal: union by love alone, without the legal and economic bond of marriage
+  options: [free love, love without marriage]
+  interim: free love
+  status: open
+  verses: [XI.4.1, XI.26.1, XI.27.1]
+  note: A period slogan that today suggests casual sex. Goldman means the opposite of casual (XI.26.1), and her case rests on marriage being "an economic arrangement, an insurance pact" (XI.4.1). The draft keeps the phrase and lets her argument define it; a note can say what it meant in 1910.
+
+- term: fetich
+  original: fetich, fetiches, fetich worship
+  literal: an object of blind devotion
+  options: [fetish, idol]
+  interim: idol
+  status: open
+  verses: [IX.1.2, IX.1.3, IX.2.1, IX.3.1]
+  note: '"Fetish" now usually has a sexual sense, which would mislead here. "Idol" matches her own image of the idol with "feet of clay" (IX.3.1).'
+
+- term: transvaluation of all values
+  original: transvaluation of all (accepted) values
+  literal: Nietzsche's Umwertung aller Werte, the overturning of inherited morality
+  options: [revaluation of all values, overturning of all values]
+  interim: revaluation of all values (the usual English for Nietzsche today)
+  status: open
+  verses: [VIII.55.5, XII.1.2]
+  note: Goldman read Nietzsche closely (see P1910.10). Keep the phrase recognisable as his.

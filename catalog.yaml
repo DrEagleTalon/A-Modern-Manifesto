@@ -148,9 +148,10 @@
   original_language: en
   tier: A
   priority: 11
-  stage: sourced
+  stage: ready
   sources:
     original: ["gutenberg:Anarchism-and-Other-Essays_2162"]
+  notes: "Written in English; no translation column. Havel's biographic sketch is section B, Goldman's preface P1910, the twelve essays I to XII. The Gutenberg ASCII text sets italics in capitals, kept as transcribed."
 
 - id: mutual-aid
   prefix: MA

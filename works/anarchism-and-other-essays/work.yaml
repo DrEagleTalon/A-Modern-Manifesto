@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: anarchism-and-other-essays
+prefix: AOE                       # citation prefix: AOE I.8.1
+title: Anarchism and Other Essays
+title_original: Anarchism and Other Essays
+authors: [Emma Goldman, Hippolyte Havel (biographic sketch)]
+year: 1910
+original_language: en
+base_text: "Emma Goldman's English text as published by the Mother Earth Publishing Association, New York, 1910, with Hippolyte Havel's biographic sketch, in the Project Gutenberg transcription (ebook 2162)"
+order: 110
+columns:
+  original: English original (1910)
+  en: ""                          # no historical translation: the original is English
+  modern: Modern draft
+status: ready
+rights: Public domain. See SOURCES.md.

@@ -1,0 +1,3442 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: B
+title_original: Biographic Sketch
+title_en: Biographic Sketch
+author: Hippolyte Havel
+date: 1910-12
+original_language: en
+anchor_language: en
+source_original: 'Emma Goldman, Anarchism and Other Essays, with a biographic sketch by Hippolyte Havel (New York: Mother Earth Publishing Association, 1910), public domain; Project Gutenberg ebook 2162'
+source_en: 'None needed: the original is in English'
+verses:
+- id: B.0.1
+  kind: heading
+  original: Emma Goldman
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.1.1
+  kind: p
+  original: Propagandism is not, as some suppose, a "trade," because nobody will follow a "trade" at which you may work with the industry of a slave and die with the reputation of a mendicant.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.1.2
+  kind: p
+  original: The motives of any persons to pursue such a profession must be different from those of trade, deeper than pride, and stronger than interest.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.2.1
+  kind: signature
+  original: GEORGE JACOB HOLYOAKE.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.3.1
+  kind: p
+  original: Among the men and women prominent in the public life of America there are but few whose names are mentioned as often as that of Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.3.2
+  kind: p
+  original: Yet the real Emma Goldman is almost quite unknown.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.3.3
+  kind: p
+  original: The sensational press has surrounded her name with so much misrepresentation and slander, it would seem almost a miracle that, in spite of this web of calumny, the truth breaks through and a better appreciation of this much maligned idealist begins to manifest itself.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.3.4
+  kind: p
+  original: There is but little consolation in the fact that almost every representative of a new idea has had to struggle and suffer under similar difficulties.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.3.5
+  kind: p
+  original: Is it of any avail that a former president of a republic pays homage at Osawatomie to the memory of John Brown?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.3.6
+  kind: p
+  original: Or that the president of another republic participates in the unveiling of a statue in honor of Pierre Proudhon, and holds up his life to the French nation as a model worthy of enthusiastic emulation?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.3.7
+  kind: p
+  original: Of what avail is all this when, at the same time, the LIVING John Browns and Proudhons are being crucified?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.3.8
+  kind: p
+  original: The honor and glory of a Mary Wollstonecraft or of a Louise Michel are not enhanced by the City Fathers of London or Paris naming a street after them--the living generation should be concerned with doing justice to the LIVING Mary Wollstonecrafts and Louise Michels.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.3.9
+  kind: p
+  original: Posterity assigns to men like Wendell Phillips and Lloyd Garrison the proper niche of honor in the temple of human emancipation; but it is the duty of their contemporaries to bring them due recognition and appreciation while they live.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.4.1
+  kind: p
+  original: The path of the propagandist of social justice is strewn with thorns.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.4.2
+  kind: p
+  original: The powers of darkness and injustice exert all their might lest a ray of sunshine enter his cheerless life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.4.3
+  kind: p
+  original: Nay, even his comrades in the struggle--indeed, too often his most intimate friends--show but little understanding for the personality of the pioneer.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.4.4
+  kind: p
+  original: Envy, sometimes growing to hatred, vanity and jealousy, obstruct his way and fill his heart with sadness.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.4.5
+  kind: p
+  original: It requires an inflexible will and tremendous enthusiasm not to lose, under such conditions, all faith in the Cause.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.4.6
+  kind: p
+  original: 'The representative of a revolutionizing idea stands between two fires: on the one hand, the persecution of the existing powers which hold him responsible for all acts resulting from social conditions; and, on the other, the lack of understanding on the part of his own followers who often judge all his activity from a narrow standpoint.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.4.7
+  kind: p
+  original: Thus it happens that the agitator stands quite alone in the midst of the multitude surrounding him.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.4.8
+  kind: p
+  original: Even his most intimate friends rarely understand how solitary and deserted he feels.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.4.9
+  kind: p
+  original: That is the tragedy of the person prominent in the public eye.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.5.1
+  kind: p
+  original: The mist in which the name of Emma Goldman has so long been enveloped is gradually beginning to dissipate.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.5.2
+  kind: p
+  original: Her energy in the furtherance of such an unpopular idea as Anarchism, her deep earnestness, her courage and abilities, find growing understanding and admiration.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.6.1
+  kind: p
+  original: The debt American intellectual growth owes to the revolutionary exiles has never been fully appreciated.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.6.2
+  kind: p
+  original: The seed disseminated by them, though so little understood at the time, has brought a rich harvest.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.6.3
+  kind: p
+  original: They have at all times held aloft the banner of liberty, thus impregnating the social vitality of the Nation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.6.4
+  kind: p
+  original: But very few have succeeding in preserving their European education and culture while at the same time assimilating themselves with American life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.6.5
+  kind: p
+  original: It is difficult for the average man to form an adequate conception what strength, energy, and perseverance are necessary to absorb the unfamiliar language, habits, and customs of a new country, without the loss of one's own personality.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.7.1
+  kind: p
+  original: Emma Goldman is one of the few who, while thoroughly preserving their individuality, have become an important factor in the social and intellectual atmosphere of America.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.7.2
+  kind: p
+  original: The life she leads is rich in color, full of change and variety.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.7.3
+  kind: p
+  original: She has risen to the topmost heights, and she has also tasted the bitter dregs of life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.8.1
+  kind: p
+  original: Emma Goldman was born of Jewish parentage on the 27th day of June, 1869, in the Russian province of Kovno.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.8.2
+  kind: p
+  original: Surely these parents never dreamed what unique position their child would some day occupy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.8.3
+  kind: p
+  original: Like all conservative parents they, too, were quite convinced that their daughter would marry a respectable citizen, bear him children, and round out her allotted years surrounded by a flock of grandchildren, a good, religious woman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.8.4
+  kind: p
+  original: As most parents, they had no inkling what a strange, impassioned spirit would take hold of the soul of their child, and carry it to the heights which separate generations in eternal struggle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.8.5
+  kind: p
+  original: They lived in a land and at a time when antagonism between parent and offspring was fated to find its most acute expression, irreconcilable hostility.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.8.6
+  kind: p
+  original: In this tremendous struggle between fathers and sons--and especially between parents and daughters--there was no compromise, no weak yielding, no truce.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.8.7
+  kind: p
+  original: The spirit of liberty, of progress--an idealism which knew no considerations and recognized no obstacles--drove the young generation out of the parental house and away from the hearth of the home.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.8.8
+  kind: p
+  original: Just as this same spirit once drove out the revolutionary breeder of discontent, Jesus, and alienated him from his native traditions.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.9.1
+  kind: p
+  original: What role the Jewish race--notwithstanding all anti-semitic calumnies the race of transcendental idealism--played in the struggle of the Old and the New will probably never be appreciated with complete impartiality and clarity.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.9.2
+  kind: p
+  original: Only now are we beginning to perceive the tremendous debt we owe to Jewish idealists in the realm of science, art, and literature.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.9.3
+  kind: p
+  original: But very little is still known of the important part the sons and daughters of Israel have played in the revolutionary movement and, especially, in that of modern times.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.1
+  kind: p
+  original: The first years of her childhood Emma Goldman passed in a small, idyllic place in the German-Russian province of Kurland, where her father had charge of the government stage.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.2
+  kind: p
+  original: At the time Kurland was thoroughly German; even the Russian bureaucracy of that Baltic province was recruited mostly from German JUNKERS.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.3
+  kind: p
+  original: German fairy tales and stories, rich in the miraculous deeds of the heroic knights of Kurland, wove their spell over the youthful mind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.4
+  kind: p
+  original: But the beautiful idyl was of short duration.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.5
+  kind: p
+  original: Soon the soul of the growing child was overcast by the dark shadows of life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.6
+  kind: p
+  original: Already in her tenderest youth the seeds of rebellion and unrelenting hatred of oppression were to be planted in the heart of Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.7
+  kind: p
+  original: 'Early she learned to know the beauty of the State: she saw her father harassed by the Christian CHINOVNIKS and doubly persecuted as petty official and hated Jew.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.8
+  kind: p
+  original: 'The brutality of forced conscription ever stood before her eyes: she beheld the young men, often the sole supporter of a large family, brutally dragged to the barracks to lead the miserable life of a soldier.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.9
+  kind: p
+  original: She heard the weeping of the poor peasant women, and witnessed the shameful scenes of official venality which relieved the rich from military service at the expense of the poor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.10
+  kind: p
+  original: 'She was outraged by the terrible treatment to which the female servants were subjected: maltreated and exploited by their BARINYAS, they fell to the tender mercies of the regimental officers, who regarded them as their natural sexual prey.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.11
+  kind: p
+  original: The girls, made pregnant by respectable gentlemen and driven out by their mistresses, often found refuge in the Goldman home.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.12
+  kind: p
+  original: And the little girl, her heart palpitating with sympathy, would abstract coins from the parental drawer to clandestinely press the money into the hands of the unfortunate women.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.10.13
+  kind: p
+  original: Thus Emma Goldman's most striking characteristic, her sympathy with the underdog, already became manifest in these early years.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.1
+  kind: p
+  original: At the age of seven little Emma was sent by her parents to her grandmother at Konigsberg, the city of Emanuel Kant, in Eastern Prussia.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.2
+  kind: p
+  original: Save for occasional interruptions, she remained there till her 13th birthday.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.3
+  kind: p
+  original: The first years in these surroundings do not exactly belong to her happiest recollections.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.4
+  kind: p
+  original: The grandmother, indeed, was very amiable, but the numerous aunts of the household were concerned more with the spirit of practical rather than pure reason, and the categoric imperative was applied all too frequently.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.5
+  kind: p
+  original: The situation was changed when her parents migrated to Konigsberg, and little Emma was relieved from her role of Cinderella.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.6
+  kind: p
+  original: She now regularly attended public school and also enjoyed the advantages of private instruction, customary in middle class life; French and music lessons played an important part in the curriculum.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.7
+  kind: p
+  original: The future interpreter of Ibsen and Shaw was then a little German Gretchen, quite at home in the German atmosphere.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.8
+  kind: p
+  original: Her special predilections in literature were the sentimental romances of Marlitt; she was a great admirer of the good Queen Louise, whom the bad Napoleon Buonaparte treated with so marked a lack of knightly chivalry.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.9
+  kind: p
+  original: What might have been her future development had she remained in this milieu?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.10
+  kind: p
+  original: Fate--or was it economic necessity?--willed it otherwise.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.11
+  kind: p
+  original: Her parents decided to settle in St. Petersburg, the capital of the Almighty Tsar, and there to embark in business.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.11.12
+  kind: p
+  original: It was here that a great change took place in the life of the young dreamer.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.1
+  kind: p
+  original: It was an eventful period--the year of 1882--in which Emma Goldman, then in her 13th year, arrived in St. Petersburg.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.2
+  kind: p
+  original: A struggle for life and death between the autocracy and the Russian intellectuals swept the country.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.3
+  kind: p
+  original: Alexander II had fallen the previous year.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.4
+  kind: p
+  original: Sophia Perovskaia, Zheliabov, Grinevitzky, Rissakov, Kibalchitch, Michailov, the heroic executors of the death sentence upon the tyrant, had then entered the Walhalla of immortality.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.5
+  kind: p
+  original: Jessie Helfman, the only regicide whose life the government had reluctantly spared because of pregnancy, followed the unnumbered Russian martyrs to the etapes of Siberia.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.6
+  kind: p
+  original: It was the most heroic period in the great battle of emancipation, a battle for freedom such as the world had never witnessed before.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.7
+  kind: p
+  original: The names of the Nihilist martyrs were on all lips, and thousands were enthusiastic to follow their example.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.8
+  kind: p
+  original: 'The whole INTELLIGENZIA of Russia was filled with the ILLEGAL spirit: revolutionary sentiments penetrated into every home, from mansion to hovel, impregnating the military, the CHINOVNIKS, factory workers, and peasants.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.9
+  kind: p
+  original: The atmosphere pierced the very casemates of the royal palace.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.10
+  kind: p
+  original: New ideas germinated in the youth.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.11
+  kind: p
+  original: The difference of sex was forgotten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.12
+  kind: p
+  original: Shoulder to shoulder fought the men and the women.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.13
+  kind: p
+  original: The Russian woman!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.14
+  kind: p
+  original: Who shall ever do justice or adequately portray her heroism and self-sacrifice, her loyalty and devotion?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.12.15
+  kind: p
+  original: Holy, Turgeniev calls her in his great prose poem, ON THE THRESHOLD.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.13.1
+  kind: p
+  original: It was inevitable that the young dreamer from Konigsberg should be drawn into the maelstrom.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.13.2
+  kind: p
+  original: To remain outside of the circle of free ideas meant a life of vegetation, of death.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.13.3
+  kind: p
+  original: One need not wonder at the youthful age.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.13.4
+  kind: p
+  original: Young enthusiasts were not then--and, fortunately, are not now--a rare phenomenon in Russia.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.13.5
+  kind: p
+  original: The study of the Russian language soon brought young Emma Goldman in touch with revolutionary students and new ideas.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.13.6
+  kind: p
+  original: The place of Marlitt was taken by Nekrassov and Tchernishevsky.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.13.7
+  kind: p
+  original: The quondam admirer of the good Queen Louise became a glowing enthusiast of liberty, resolving, like thousands of others, to devote her life to the emancipation of the people.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.14.1
+  kind: p
+  original: The struggle of generations now took place in the Goldman family.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.14.2
+  kind: p
+  original: The parents could not comprehend what interest their daughter could find in the new ideas, which they themselves considered fantastic utopias.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.14.3
+  kind: p
+  original: They strove to persuade the young girl out of these chimeras, and daily repetition of soul-racking disputes was the result.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.14.4
+  kind: p
+  original: Only in one member of the family did the young idealist find understanding--in her elder sister, Helene, with whom she later emigrated to America, and whose love and sympathy have never failed her.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.14.5
+  kind: p
+  original: Even in the darkest hours of later persecution Emma Goldman always found a haven of refuge in the home of this loyal sister.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.15.1
+  kind: p
+  original: Emma Goldman finally resolved to achieve her independence.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.15.2
+  kind: p
+  original: She saw hundreds of men and women sacrificing brilliant careers to go V NAROD, to the people.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.15.3
+  kind: p
+  original: She followed their example.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.15.4
+  kind: p
+  original: She became a factory worker; at first employed as a corset maker, and later in the manufacture of gloves.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.15.5
+  kind: p
+  original: She was now 17 years of age and proud to earn her own living.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.15.6
+  kind: p
+  original: Had she remained in Russia, she would have probably sooner or later shared the fate of thousands buried in the snows of Siberia.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.15.7
+  kind: p
+  original: But a new chapter of life was to begin for her.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.15.8
+  kind: p
+  original: Sister Helene decided to emigrate to America, where another sister had already made her home.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.15.9
+  kind: p
+  original: Emma prevailed upon Helene to be allowed to join her, and together they departed for America, filled with the joyous hope of a great, free land, the glorious Republic.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.16.1
+  kind: p
+  original: America!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.16.2
+  kind: p
+  original: What magic word.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.16.3
+  kind: p
+  original: The yearning of the enslaved, the promised land of the oppressed, the goal of all longing for progress.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.16.4
+  kind: p
+  original: 'Here man''s ideals had found their fulfillment: no Tsar, no Cossack, no CHINOVNIK.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.16.5
+  kind: p
+  original: The Republic!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.16.6
+  kind: p
+  original: Glorious synonym of equality, freedom, brotherhood.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.17.1
+  kind: p
+  original: Thus thought the two girls as they travelled, in the year 1886, from New York to Rochester.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.17.2
+  kind: p
+  original: Soon, all too soon, disillusionment awaited them.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.17.3
+  kind: p
+  original: The ideal conception of America was punctured already at Castle Garden, and soon burst like a soap bubble.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.17.4
+  kind: p
+  original: Here Emma Goldman witnessed sights which reminded her of the terrible scenes of her childhood in Kurland.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.17.5
+  kind: p
+  original: The brutality and humiliation the future citizens of the great Republic were subjected to on board ship, were repeated at Castle Garden by the officials of the democracy in a more savage and aggravating manner.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.17.6
+  kind: p
+  original: And what bitter disappointment followed as the young idealist began to familiarize herself with the conditions in the new land!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.17.7
+  kind: p
+  original: Instead of one Tsar, she found scores of them; the Cossack was replaced by the policeman with the heavy club, and instead of the Russian CHINOVNIK there was the far more inhuman slave-driver of the factory.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.18.1
+  kind: p
+  original: Emma Goldman soon obtained work in the clothing establishment of the Garson Co.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.18.2
+  kind: p
+  original: The wages amounted to two and a half dollars a week.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.18.3
+  kind: p
+  original: At that time the factories were not provided with motor power, and the poor sewing girls had to drive the wheels by foot, from early morning till late at night.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.18.4
+  kind: p
+  original: A terribly exhausting toil it was, without a ray of light, the drudgery of the long day passed in complete silence--the Russian custom of friendly conversation at work was not permissible in the free country.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.18.5
+  kind: p
+  original: But the exploitation of the girls was not only economic; the poor wage workers were looked upon by their foremen and bosses as sexual commodities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.18.6
+  kind: p
+  original: If a girl resented the advances of her "superiors", she would speedily find herself on the street as an undesirable element in the factory.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.18.7
+  kind: p
+  original: 'There was never a lack of willing victims: the supply always exceeded the demand.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.19.1
+  kind: p
+  original: The horrible conditions were made still more unbearable by the fearful dreariness of life in the small American city.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.19.2
+  kind: p
+  original: The Puritan spirit suppresses the slightest manifestation of joy; a deadly dullness beclouds the soul; no intellectual inspiration, no thought exchange between congenial spirits is possible.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.19.3
+  kind: p
+  original: Emma Goldman almost suffocated in this atmosphere.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.19.4
+  kind: p
+  original: She, above all others, longed for ideal surroundings, for friendship and understanding, for the companionship of kindred minds.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.19.5
+  kind: p
+  original: Mentally she still lived in Russia.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.19.6
+  kind: p
+  original: Unfamiliar with the language and life of the country, she dwelt more in the past than in the present.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.19.7
+  kind: p
+  original: It was at this period that she met a young man who spoke Russian.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.19.8
+  kind: p
+  original: With great joy the acquaintance was cultivated.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.19.9
+  kind: p
+  original: At last a person with whom she could converse, one who could help her bridge the dullness of the narrow existence.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.19.10
+  kind: p
+  original: The friendship gradually ripened and finally culminated in marriage.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.20.1
+  kind: p
+  original: Emma Goldman, too, had to walk the sorrowful road of married life; she, too, had to learn from bitter experience that legal statutes signify dependence and self-effacement, especially for the woman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.20.2
+  kind: p
+  original: The marriage was no liberation from the Puritan dreariness of American life; indeed, it was rather aggravated by the loss of self-ownership.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.20.3
+  kind: p
+  original: The characters of the young people differed too widely.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.20.4
+  kind: p
+  original: A separation soon followed, and Emma Goldman went to New Haven, Conn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.20.5
+  kind: p
+  original: There she found employment in a factory, and her husband disappeared from her horizon.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.20.6
+  kind: p
+  original: Two decades later she was fated to be unexpectedly reminded of him by the Federal authorities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.21.1
+  kind: p
+  original: The revolutionists who were active in the Russian movement of the 80's were but little familiar with the social ideas then agitating Western Europe and America.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.21.2
+  kind: p
+  original: Their sole activity consisted in educating the people, their final goal the destruction of the autocracy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.21.3
+  kind: p
+  original: Socialism and Anarchism were terms hardly known even by name.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.21.4
+  kind: p
+  original: Emma Goldman, too, was entirely unfamiliar with the significance of those ideals.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.22.1
+  kind: p
+  original: She arrived in America, as four years previously in Russia, at a period of great social and political unrest.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.22.2
+  kind: p
+  original: The working people were in revolt against the terrible labor conditions; the eight-hour movement of the Knights of Labor was at its height, and throughout the country echoed the din of sanguine strife between strikers and police.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.22.3
+  kind: p
+  original: The struggle culminated in the great strike against the Harvester Company of Chicago, the massacre of the strikers, and the judicial murder of the labor leaders, which followed upon the historic Haymarket bomb explosion.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.22.4
+  kind: p
+  original: The Anarchists stood the martyr test of blood baptism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.22.5
+  kind: p
+  original: The apologists of capitalism vainly seek to justify the killing of Parsons, Spies, Lingg, Fischer, and Engel.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.22.6
+  kind: p
+  original: Since the publication of Governor Altgeld's reason for his liberation of the three incarcerated Haymarket Anarchists, no doubt is left that a fivefold legal murder had been committed in Chicago, in 1887.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.23.1
+  kind: p
+  original: Very few have grasped the significance of the Chicago martyrdom; least of all the ruling classes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.23.2
+  kind: p
+  original: By the destruction of a number of labor leaders they thought to stem the tide of a world-inspiring idea.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.23.3
+  kind: p
+  original: They failed to consider that from the blood of the martyrs grows the new seed, and that the frightful injustice will win new converts to the Cause.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.24.1
+  kind: p
+  original: The two most prominent representatives of the Anarchist idea in America, Voltairine de Cleyre and Emma Goldman--the one a native American, the other a Russian--have been converted, like numerous others, to the ideas of Anarchism by the judicial murder.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.24.2
+  kind: p
+  original: Two women who had not known each other before, and who had received a widely different education, were through that murder united in one idea.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.1
+  kind: p
+  original: Like most working men and women of America, Emma Goldman followed the Chicago trial with great anxiety and excitement.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.2
+  kind: p
+  original: She, too, could not believe that the leaders of the proletariat would be killed.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.3
+  kind: p
+  original: The 11th of November, 1887, taught her differently.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.4
+  kind: p
+  original: She realized that no mercy could be expected from the ruling class, that between the Tsarism of Russia and the plutocracy of America there was no difference save in name.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.5
+  kind: p
+  original: Her whole being rebelled against the crime, and she vowed to herself a solemn vow to join the ranks of the revolutionary proletariat and to devote all her energy and strength to their emancipation from wage slavery.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.6
+  kind: p
+  original: With the glowing enthusiasm so characteristic of her nature, she now began to familiarize herself with the literature of Socialism and Anarchism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.7
+  kind: p
+  original: She attended public meetings and became acquainted with socialistically and anarchistically inclined workingmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.8
+  kind: p
+  original: Johanna Greie, the well-known German lecturer, was the first Socialist speaker heard by Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.9
+  kind: p
+  original: In New Haven, Conn., where she was employed in a corset factory, she met Anarchists actively participating in the movement.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.10
+  kind: p
+  original: Here she read the FREIHEIT, edited by John Most.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.11
+  kind: p
+  original: 'The Haymarket tragedy developed her inherent Anarchist tendencies: the reading of the FREIHEIT made her a conscious Anarchist.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.25.12
+  kind: p
+  original: 'Subsequently she was to learn that the idea of Anarchism found its highest expression through the best intellects of America: theoretically by Josiah Warren, Stephen Pearl Andrews, Lysander Spooner; philosophically by Emerson, Thoreau, and Walt Whitman.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.26.1
+  kind: p
+  original: Made ill by the excessive strain of factory work, Emma Goldman returned to Rochester where she remained till August, 1889, at which time she removed to New York, the scene of the most important phase of her life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.26.2
+  kind: p
+  original: She was now twenty years old.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.26.3
+  kind: p
+  original: Features pallid with suffering, eyes large and full of compassion, greet one in her pictured likeness of those days.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.26.4
+  kind: p
+  original: Her hair is, as customary with Russian student girls, worn short, giving free play to the strong forehead.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.27.1
+  kind: p
+  original: It is the heroic epoch of militant Anarchism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.27.2
+  kind: p
+  original: By leaps and bounds the movement had grown in every country.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.27.3
+  kind: p
+  original: In spite of the most severe governmental persecution new converts swell the ranks.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.27.4
+  kind: p
+  original: The propaganda is almost exclusively of a secret character.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.27.5
+  kind: p
+  original: The repressive measures of the government drive the disciples of the new philosophy to conspirative methods.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.27.6
+  kind: p
+  original: Thousands of victims fall into the hands of the authorities and languish in prisons.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.27.7
+  kind: p
+  original: But nothing can stem the rising tide of enthusiasm, of self-sacrifice and devotion to the Cause.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.27.8
+  kind: p
+  original: The efforts of teachers like Peter Kropotkin, Louise Michel, Elisee Reclus, and others, inspire the devotees with ever greater energy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.28.1
+  kind: p
+  original: Disruption is imminent with the Socialists, who have sacrificed the idea of liberty and embraced the State and politics.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.28.2
+  kind: p
+  original: The struggle is bitter, the factions irreconcilable.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.28.3
+  kind: p
+  original: This struggle is not merely between Anarchists and Socialists; it also finds its echo within the Anarchist groups.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.28.4
+  kind: p
+  original: Theoretic differences and personal controversies lead to strife and acrimonious enmities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.28.5
+  kind: p
+  original: The anti-Socialist legislation of Germany and Austria had driven thousands of Socialists and Anarchists across the seas to seek refuge in America.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.28.6
+  kind: p
+  original: John Most, having lost his seat in the Reichstag, finally had to flee his native land, and went to London.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.28.7
+  kind: p
+  original: There, having advanced toward Anarchism, he entirely withdrew from the Social Democratic Party.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.28.8
+  kind: p
+  original: Later, coming to America, he continued the publication of the FREIHEIT in New York, and developed great activity among the German workingmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.1
+  kind: p
+  original: When Emma Goldman arrived in New York in 1889, she experienced little difficulty in associating herself with active Anarchists.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.2
+  kind: p
+  original: Anarchist meetings were an almost daily occurrence.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.3
+  kind: p
+  original: The first lecturer she heard on the Anarchist platform was Dr. A. Solotaroff.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.4
+  kind: p
+  original: Of great importance to her future development was her acquaintance with John Most, who exerted a tremendous influence over the younger elements.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.5
+  kind: p
+  original: His impassioned eloquence, untiring energy, and the persecution he had endured for the Cause, all combined to enthuse the comrades.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.6
+  kind: p
+  original: It was also at this period that she met Alexander Berkman, whose friendship played an important part throughout her life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.7
+  kind: p
+  original: Her talents as a speaker could not long remain in obscurity.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.8
+  kind: p
+  original: The fire of enthusiasm swept her toward the public platform.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.9
+  kind: p
+  original: Encouraged by her friends, she began to participate as a German and Yiddish speaker at Anarchist meetings.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.10
+  kind: p
+  original: Soon followed a brief tour of agitation taking her as far as Cleveland.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.11
+  kind: p
+  original: With the whole strength and earnestness of her soul she now threw herself into the propaganda of Anarchist ideas.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.12
+  kind: p
+  original: The passionate period of her life had begun.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.29.13
+  kind: p
+  original: Through constantly toiling in sweat shops, the fiery young orator was at the same time very active as an agitator and participated in various labor struggles, notably in the great cloakmakers' strike, in 1889, led by Professor Garsyde and Joseph Barondess.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.30.1
+  kind: p
+  original: A year later Emma Goldman was a delegate to an Anarchist conference in New York.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.30.2
+  kind: p
+  original: She was elected to the Executive Committee, but later withdrew because of differences of opinion regarding tactical matters.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.30.3
+  kind: p
+  original: The ideas of the German-speaking Anarchists had at that time not yet become clarified.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.30.4
+  kind: p
+  original: Some still believed in parliamentary methods, the great majority being adherents of strong centralism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.30.5
+  kind: p
+  original: These differences of opinion in regard to tactics led in 1891 to a breach with John Most.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.30.6
+  kind: p
+  original: Emma Goldman, Alexander Berkman, and other comrades joined the group AUTONOMY, in which Joseph Peukert, Otto Rinke, and Claus Timmermann played an active part.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.30.7
+  kind: p
+  original: The bitter controversies which followed this secession terminated only with the death of Most, in 1906.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.31.1
+  kind: p
+  original: A great source of inspiration to Emma Goldman proved the Russian revolutionists who were associated in the group ZNAMYA.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.31.2
+  kind: p
+  original: Goldenberg, Solotaroff, Zametkin, Miller, Cahan, the poet Edelstadt, Ivan von Schewitsch, husband of Helene von Racowitza and editor of the VOLKSZEITUNG, and numerous other Russian exiles, some of whom are still living, were members of this group.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.31.3
+  kind: p
+  original: It was also at this time that Emma Goldman met Robert Reitzel, the German-American Heine, who exerted a great influence on her development.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.31.4
+  kind: p
+  original: Through him she became acquainted with the best writers of modern literature, and the friendship thus begun lasted till Reitzel's death, in 1898.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.1
+  kind: p
+  original: The labor movement of America had not been drowned in the Chicago massacre; the murder of the Anarchists had failed to bring peace to the profit-greedy capitalist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.2
+  kind: p
+  original: The struggle for the eight-hour day continued.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.3
+  kind: p
+  original: In 1892 broke out the great strike in Pittsburg.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.4
+  kind: p
+  original: The Homestead fight, the defeat of the Pinkertons, the appearance of the militia, the suppression of the strikers, and the complete triumph of the reaction are matters of comparatively recent history.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.5
+  kind: p
+  original: Stirred to the very depths by the terrible events at the seat of war, Alexander Berkman resolved to sacrifice his life to the Cause and thus give an object lesson to the wage slaves of America of active Anarchist solidarity with labor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.6
+  kind: p
+  original: His attack upon Frick, the Gessler of Pittsburg, failed, and the twenty-two-year-old youth was doomed to a living death of twenty-two years in the penitentiary.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.7
+  kind: p
+  original: The bourgeoisie, which for decades had exalted and eulogized tyrannicide, now was filled with terrible rage.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.8
+  kind: p
+  original: The capitalist press organized a systematic campaign of calumny and misrepresentation against Anarchists.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.9
+  kind: p
+  original: The police exerted every effort to involve Emma Goldman in the act of Alexander Berkman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.10
+  kind: p
+  original: The feared agitator was to be silenced by all means.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.11
+  kind: p
+  original: It was only due to the circumstance of her presence in New York that she escaped the clutches of the law.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.12
+  kind: p
+  original: It was a similar circumstance which, nine years later, during the McKinley incident, was instrumental in preserving her liberty.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.13
+  kind: p
+  original: It is almost incredible with what amount of stupidity, baseness, and vileness the journalists of the period sought to overwhelm the Anarchist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.14
+  kind: p
+  original: One must peruse the newspaper files to realize the enormity of incrimination and slander.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.15
+  kind: p
+  original: It would be difficult to portray the agony of soul Emma Goldman experienced in those days.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.16
+  kind: p
+  original: The persecutions of the capitalist press were to be borne by an Anarchist with comparative equanimity; but the attacks from one's own ranks were far more painful and unbearable.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.17
+  kind: p
+  original: The act of Berkman was severely criticized by Most and some of his followers among the German and Jewish Anarchists.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.18
+  kind: p
+  original: Bitter accusations and recriminations at public meetings and private gatherings followed.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.19
+  kind: p
+  original: Persecuted on all sides, both because she championed Berkman and his act, and on account of her revolutionary activity, Emma Goldman was harassed even to the extent of inability to secure shelter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.20
+  kind: p
+  original: Too proud to seek safety in the denial of her identity, she chose to pass the nights in the public parks rather than expose her friends to danger or vexation by her visits.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.32.21
+  kind: p
+  original: The already bitter cup was filled to overflowing by the attempted suicide of a young comrade who had shared living quarters with Emma Goldman, Alexander Berkman, and a mutual artist friend.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.33.1
+  kind: p
+  original: Many changes have since taken place.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.33.2
+  kind: p
+  original: Alexander Berkman has survived the Pennsylvania Inferno, and is back again in the ranks of the militant Anarchists, his spirit unbroken, his soul full of enthusiasm for the ideals of his youth.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.33.3
+  kind: p
+  original: The artist comrade is now among the well-known illustrators of New York.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.33.4
+  kind: p
+  original: The suicide candidate left America shortly after his unfortunate attempt to die, and was subsequently arrested and condemned to eight years of hard labor for smuggling Anarchist literature into Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.33.5
+  kind: p
+  original: He, too, has withstood the terrors of prison life, and has returned to the revolutionary movement, since earning the well deserved reputation of a talented writer in Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.34.1
+  kind: p
+  original: To avoid indefinite camping in the parks Emma Goldman finally was forced to move into a house on Third Street, occupied exclusively by prostitutes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.34.2
+  kind: p
+  original: There, among the outcasts of our good Christian society, she could at least rent a bit of a room, and find rest and work at her sewing machine.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.34.3
+  kind: p
+  original: The women of the street showed more refinement of feeling and sincere sympathy than the priests of the Church.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.34.4
+  kind: p
+  original: But human endurance had been exhausted by overmuch suffering and privation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.34.5
+  kind: p
+  original: There was a complete physical breakdown, and the renowned agitator was removed to the "Bohemian Republic"--a large tenement house which derived its euphonious appellation from the fact that its occupants were mostly Bohemian Anarchists.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.34.6
+  kind: p
+  original: Here Emma Goldman found friends ready to aid her.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.34.7
+  kind: p
+  original: Justus Schwab, one of the finest representatives of the German revolutionary period of that time, and Dr. Solotaroff were indefatigable in the care of the patient.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.34.8
+  kind: p
+  original: Here, too, she met Edward Brady, the new friendship subsequently ripening into close intimacy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.34.9
+  kind: p
+  original: Brady had been an active participant in the revolutionary movement of Austria and had, at the time of his acquaintance with Emma Goldman, lately been released from an Austrian prison after an incarceration of ten years.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.35.1
+  kind: p
+  original: Physicians diagnosed the illness as consumption, and the patient was advised to leave New York.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.35.2
+  kind: p
+  original: She went to Rochester, in the hope that the home circle would help restore her to health.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.35.3
+  kind: p
+  original: Her parents had several years previously emigrated to America, settling in that city.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.35.4
+  kind: p
+  original: Among the leading traits of the Jewish race is the strong attachment between the members of the family, and, especially, between parents and children.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.35.5
+  kind: p
+  original: Though her conservative parents could not sympathize with the idealist aspirations of Emma Goldman and did not approve of her mode of life, they now received their sick daughter with open arms.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.35.6
+  kind: p
+  original: The rest and care enjoyed in the parental home, and the cheering presence of the beloved sister Helene, proved so beneficial that within a short time she was sufficiently restored to resume her energetic activity.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.1
+  kind: p
+  original: There is no rest in the life of Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.2
+  kind: p
+  original: Ceaseless effort and continuous striving toward the conceived goal are the essentials of her nature.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.3
+  kind: p
+  original: Too much precious time had already been wasted.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.4
+  kind: p
+  original: It was imperative to resume her labors immediately.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.5
+  kind: p
+  original: The country was in the throes of a crisis, and thousands of unemployed crowded the streets of the large industrial centers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.6
+  kind: p
+  original: Cold and hungry they tramped through the land in the vain search for work and bread.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.7
+  kind: p
+  original: The Anarchists developed a strenuous propaganda among the unemployed and the strikers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.8
+  kind: p
+  original: A monster demonstration of striking cloakmakers and of the unemployed took place at Union Square, New York.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.9
+  kind: p
+  original: Emma Goldman was one of the invited speakers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.10
+  kind: p
+  original: 'She delivered an impassioned speech, picturing in fiery words the misery of the wage slave''s life, and quoted the famous maxim of Cardinal Manning: "Necessity knows no law, and the starving man has a natural right to a share of his neighbor''s bread."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.11
+  kind: p
+  original: 'She concluded her exhortation with the words: "Ask for work.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.12
+  kind: p
+  original: If they do not give you work, ask for bread.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.36.13
+  kind: p
+  original: If they do not give you work or bread, then take bread."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.37.1
+  kind: p
+  original: The following day she left for Philadelphia, where she was to address a public meeting.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.37.2
+  kind: p
+  original: The capitalist press again raised the alarm.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.37.3
+  kind: p
+  original: If Socialists and Anarchists were to be permitted to continue agitating, there was imminent danger that the workingmen would soon learn to understand the manner in which they are robbed of the joy and happiness of life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.37.4
+  kind: p
+  original: Such a possibility was to be prevented at all cost.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.37.5
+  kind: p
+  original: The Chief of Police of New York, Byrnes, procured a court order for the arrest of Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.37.6
+  kind: p
+  original: She was detained by the Philadelphia authorities and incarcerated for several days in the Moyamensing prison, awaiting the extradition papers which Byrnes intrusted to Detective Jacobs.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.37.7
+  kind: p
+  original: This man Jacobs (whom Emma Goldman again met several years later under very unpleasant circumstances) proposed to her, while she was returning a prisoner to New York, to betray the cause of labor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.37.8
+  kind: p
+  original: In the name of his superior, Chief Byrnes, he offered lucrative reward.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.37.9
+  kind: p
+  original: How stupid men sometimes are!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.37.10
+  kind: p
+  original: What poverty of psychologic observation to imagine the possibility of betrayal on the part of a young Russian idealist, who had willingly sacrificed all personal considerations to help in labor's emancipation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.38.1
+  kind: p
+  original: In October, 1893, Emma Goldman was tried in the criminal courts of New York on the charge of inciting to riot.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.38.2
+  kind: p
+  original: The "intelligent" jury ignored the testimony of the twelve witnesses for the defense in favor of the evidence given by one single man--Detective Jacobs.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.38.3
+  kind: p
+  original: She was found guilty and sentenced to serve one year in the penitentiary at Blackwell's Island.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.38.4
+  kind: p
+  original: Since the foundation of the Republic she was the first woman--Mrs. Surratt excepted--to be imprisoned for a political offense.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.38.5
+  kind: p
+  original: Respectable society had long before stamped upon her the Scarlet Letter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.39.1
+  kind: p
+  original: Emma Goldman passed her time in the penitentiary in the capacity of nurse in the prison hospital.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.39.2
+  kind: p
+  original: Here she found opportunity to shed some rays of kindness into the dark lives of the unfortunates whose sisters of the street did not disdain two years previously to share with her the same house.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.39.3
+  kind: p
+  original: She also found in prison opportunity to study English and its literature, and to familiarize herself with the great American writers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.39.4
+  kind: p
+  original: In Bret Harte, Mark Twain, Walt Whitman, Thoreau, and Emerson she found great treasures.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.1
+  kind: p
+  original: She left Blackwell's Island in the month of August, 1894, a woman of twenty-five, developed and matured, and intellectually transformed.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.2
+  kind: p
+  original: Back into the arena, richer in experience, purified by suffering.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.3
+  kind: p
+  original: She did not feel herself deserted and alone any more.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.4
+  kind: p
+  original: Many hands were stretched out to welcome her.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.5
+  kind: p
+  original: There were at the time numerous intellectual oases in New York.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.6
+  kind: p
+  original: The saloon of Justus Schwab, at Number Fifty, First Street, was the center where gathered Anarchists, litterateurs, and bohemians.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.7
+  kind: p
+  original: Among others she also met at this time a number of American Anarchists, and formed the friendship of Voltairine de Cleyre, Wm. C. Owen, Miss Van Etton, and Dyer D. Lum, former editor of the ALARM and executor of the last wishes of the Chicago martyrs.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.8
+  kind: p
+  original: In John Swinton, the noble old fighter for liberty, she found one of her staunchest friends.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.9
+  kind: p
+  original: 'Other intellectual centers there were: SOLIDARITY, published by John Edelman; LIBERTY, by the Individualist Anarchist, Benjamin R. Tucker; the REBEL, by Harry Kelly; DER STURMVOGEL, a German Anarchist publication, edited by Claus Timmermann; DER ARME TEUFEL, whose presiding genius was the inimitable Robert Reitzel.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.10
+  kind: p
+  original: Through Arthur Brisbane, now chief lieutenant of William Randolph Hearst, she became acquainted with the writings of Fourier.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.11
+  kind: p
+  original: Brisbane then was not yet submerged in the swamp of political corruption.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.40.12
+  kind: p
+  original: He sent Emma Goldman an amiable letter to Blackwell's Island, together with the biography of his father, the enthusiastic American disciple of Fourier.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.41.1
+  kind: p
+  original: Emma Goldman became, upon her release from the penitentiary, a factor in the public life of New York.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.41.2
+  kind: p
+  original: She was appreciated in radical ranks for her devotion, her idealism, and earnestness.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.41.3
+  kind: p
+  original: Various persons sought her friendship, and some tried to persuade her to aid in the furtherance of their special side issues.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.41.4
+  kind: p
+  original: Thus Rev. Parkhurst, during the Lexow investigation, did his utmost to induce her to join the Vigilance Committee in order to fight Tammany Hall.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.41.5
+  kind: p
+  original: Maria Louise, the moving spirit of a social center, acted as Parkhurst's go-between.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.41.6
+  kind: p
+  original: It is hardly necessary to mention what reply the latter received from Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.41.7
+  kind: p
+  original: Incidentally, Maria Louise subsequently became a Mahatma.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.41.8
+  kind: p
+  original: During the free silver campaign, ex-Burgess McLuckie, one of the most genuine personalities in the Homestead strike, visited New York in an endeavor to enthuse the local radicals for free silver.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.41.9
+  kind: p
+  original: He also attempted to interest Emma Goldman, but with no greater success than Mahatma Maria Louise of Parkhurst-Lexow fame.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.42.1
+  kind: p
+  original: In 1894 the struggle of the Anarchists in France reached its highest expression.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.42.2
+  kind: p
+  original: The white terror on the part of the Republican upstarts was answered by the red terror of our French comrades.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.42.3
+  kind: p
+  original: With feverish anxiety the Anarchists throughout the world followed this social struggle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.42.4
+  kind: p
+  original: Propaganda by deed found its reverberating echo in almost all countries.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.42.5
+  kind: p
+  original: In order to better familiarize herself with conditions in the old world, Emma Goldman left for Europe, in the year 1895.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.42.6
+  kind: p
+  original: After a lecture tour in England and Scotland, she went to Vienna where she entered the ALLGEMEINE KRANKENHAUS to prepare herself as midwife and nurse, and where at the same time she studied social conditions.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.42.7
+  kind: p
+  original: 'She also found opportunity to acquaint herself with the newest literature of Europe: Hauptmann, Nietzsche, Ibsen, Zola, Thomas Hardy, and other artist rebels were read with great enthusiasm.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.1
+  kind: p
+  original: In the autumn of 1896 she returned to New York by way of Zurich and Paris.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.2
+  kind: p
+  original: The project of Alexander Berkman's liberation was on hand.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.3
+  kind: p
+  original: The barbaric sentence of twenty-two years had roused tremendous indignation among the radical elements.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.4
+  kind: p
+  original: It was known that the Pardon Board of Pennsylvania would look to Carnegie and Frick for advice in the case of Alexander Berkman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.5
+  kind: p
+  original: It was therefore suggested that these Sultans of Pennsylvania be approached--not with a view of obtaining their grace, but with the request that they do not attempt to influence the Board.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.6
+  kind: p
+  original: Ernest Crosby offered to see Carnegie, on condition that Alexander Berkman repudiate his act.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.7
+  kind: p
+  original: That, however, was absolutely out of the question.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.8
+  kind: p
+  original: He would never be guilty of such forswearing of his own personality and self-respect.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.9
+  kind: p
+  original: These efforts led to friendly relations between Emma Goldman and the circle of Ernest Crosby, Bolton Hall, and Leonard Abbott.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.10
+  kind: p
+  original: In the year 1897 she undertook her first great lecture tour, which extended as far as California.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.11
+  kind: p
+  original: This tour popularized her name as the representative of the oppressed, her eloquence ringing from coast to coast.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.12
+  kind: p
+  original: In California Emma Goldman became friendly with the members of the Isaak family, and learned to appreciate their efforts for the Cause.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.13
+  kind: p
+  original: Under tremendous obstacles the Isaaks first published the FIREBRAND and, upon its suppression by the Postal Department, the FREE SOCIETY.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.43.14
+  kind: p
+  original: It was also during this tour that Emma Goldman met that grand old rebel of sexual freedom, Moses Harman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.44.1
+  kind: p
+  original: During the Spanish-American war the spirit of chauvinism was at its highest tide.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.44.2
+  kind: p
+  original: To check this dangerous situation, and at the same time collect funds for the revolutionary Cubans, Emma Goldman became affiliated with the Latin comrades, among others with Gori, Esteve, Palaviccini, Merlino, Petruccini, and Ferrara.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.44.3
+  kind: p
+  original: In the year 1899 followed another protracted tour of agitation, terminating on the Pacific Coast.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.44.4
+  kind: p
+  original: Repeated arrests and accusations, though without ultimate bad results, marked every propaganda tour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.45.1
+  kind: p
+  original: In November of the same year the untiring agitator went on a second lecture tour to England and Scotland, closing her journey with the first International Anarchist Congress at Paris.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.45.2
+  kind: p
+  original: It was at the time of the Boer war, and again jingoism was at its height, as two years previously it had celebrated its orgies during the Spanish-American war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.45.3
+  kind: p
+  original: Various meetings, both in England and Scotland, were disturbed and broken up by patriotic mobs.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.45.4
+  kind: p
+  original: Emma Goldman found on this occasion the opportunity of again meeting various English comrades and interesting personalities like Tom Mann and the sisters Rossetti, the gifted daughters of Dante Gabriel Rossetti, then publishers of the Anarchist review, the TORCH.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.45.5
+  kind: p
+  original: 'One of her life-long hopes found here its fulfillment: she came in close and friendly touch with Peter Kropotkin, Enrico Malatesta, Nicholas Tchaikovsky, W. Tcherkessov, and Louise Michel.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.45.6
+  kind: p
+  original: Old warriors in the cause of humanity, whose deeds have enthused thousands of followers throughout the world, and whose life and work have inspired other thousands with noble idealism and self-sacrifice.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.45.7
+  kind: p
+  original: Old warriors they, yet ever young with the courage of earlier days, unbroken in spirit and filled with the firm hope of the final triumph of Anarchy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.46.1
+  kind: p
+  original: The chasm in the revolutionary labor movement, which resulted from the disruption of the INTERNATIONALE, could not be bridged any more.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.46.2
+  kind: p
+  original: Two social philosophies were engaged in bitter combat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.46.3
+  kind: p
+  original: The International Congress in 1889, at Paris; in 1892, at Zurich, and in 1896, at London, produced irreconcilable differences.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.46.4
+  kind: p
+  original: The majority of Social Democrats, forswearing their libertarian past and becoming politicians, succeeded in excluding the revolutionary and Anarchist delegates.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.46.5
+  kind: p
+  original: The latter decided thenceforth to hold separate congresses.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.46.6
+  kind: p
+  original: Their first congress was to take place in 1900, at Paris.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.46.7
+  kind: p
+  original: The Socialist renegade, Millerand, who had climbed into the Ministry of the Interior, here played a Judas role.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.46.8
+  kind: p
+  original: The congress of the revolutionists was suppressed, and the delegates dispersed two days prior to their scheduled opening.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.46.9
+  kind: p
+  original: But Millerand had no objections against the Social Democratic Congress, which was afterwards opened with all the trumpets of the advertiser's art.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.47.1
+  kind: p
+  original: However, the renegade did not accomplish his object.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.47.2
+  kind: p
+  original: A number of delegates succeeded in holding a secret conference in the house of a comrade outside of Paris, where various points of theory and tactics were discussed.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.47.3
+  kind: p
+  original: Emma Goldman took considerable part in these proceedings, and on that occasion came in contact with numerous representatives of the Anarchist movement of Europe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.48.1
+  kind: p
+  original: Owing to the suppression of the congress, the delegates were in danger of being expelled from France.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.48.2
+  kind: p
+  original: At this time also came the bad news from America regarding another unsuccessful attempt to liberate Alexander Berkman, proving a great shock to Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.48.3
+  kind: p
+  original: In November, 1900, she returned to America to devote herself to her profession of nurse, at the same time taking an active part in the American propaganda.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.48.4
+  kind: p
+  original: Among other activities she organized monster meetings of protest against the terrible outrages of the Spanish government, perpetrated upon the political prisoners tortured in Montjuich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.1
+  kind: p
+  original: In her vocation as nurse Emma Goldman enjoyed many opportunities of meeting the most unusual and peculiar characters.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.2
+  kind: p
+  original: Few would have identified the "notorious Anarchist" in the small blonde woman, simply attired in the uniform of a nurse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.3
+  kind: p
+  original: Soon after her return from Europe she became acquainted with a patient by the name of Mrs. Stander, a morphine fiend, suffering excruciating agonies.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.4
+  kind: p
+  original: She required careful attention to enable her to supervise a very important business she conducted,--that of Mrs. Warren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.5
+  kind: p
+  original: In Third Street, near Third Avenue, was situated her private residence, and near it, connected by a separate entrance, was her place of business.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.6
+  kind: p
+  original: One evening, the nurse, upon entering the room of her patient, suddenly came face to face with a male visitor, bull-necked and of brutal appearance.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.7
+  kind: p
+  original: The man was no other than Mr. Jacobs, the detective who seven years previously had brought Emma Goldman a prisoner from Philadelphia and who had attempted to persuade her, on their way to New York, to betray the cause of the workingmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.8
+  kind: p
+  original: It would be difficult to describe the expression of bewilderment on the countenance of the man as he so unexpectedly faced Emma Goldman, the nurse of his mistress.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.9
+  kind: p
+  original: The brute was suddenly transformed into a gentleman, exerting himself to excuse his shameful behavior on the previous occasion.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.10
+  kind: p
+  original: Jacobs was the "protector" of Mrs. Stander, and go-between for the house and the police.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.11
+  kind: p
+  original: Several years later, as one of the detective staff of District Attorney Jerome, he committed perjury, was convicted, and sent to Sing Sing for a year.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.49.12
+  kind: p
+  original: He is now probably employed by some private detective agency, a desirable pillar of respectable society.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.50.1
+  kind: p
+  original: In 1901 Peter Kropotkin was invited by the Lowell Institute of Massachusetts to deliver a series of lectures on Russian literature.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.50.2
+  kind: p
+  original: It was his second American tour, and naturally the comrades were anxious to use his presence for the benefit of the movement.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.50.3
+  kind: p
+  original: Emma Goldman entered into correspondence with Kropotkin and succeeded in securing his consent to arrange for him a series of lectures.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.50.4
+  kind: p
+  original: She also devoted her energies to organizing the tours of other well known Anarchists, principally those of Charles W. Mowbray and John Turner.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.50.5
+  kind: p
+  original: Similarly she always took part in all the activities of the movement, ever ready to give her time, ability, and energy to the Cause.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.1
+  kind: p
+  original: On the sixth of September, 1901, President McKinley was shot by Leon Czolgosz at Buffalo.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.2
+  kind: p
+  original: Immediately an unprecedented campaign of persecution was set in motion against Emma Goldman as the best known Anarchist in the country.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.3
+  kind: p
+  original: Although there was absolutely no foundation for the accusation, she, together with other prominent Anarchists, was arrested in Chicago, kept in confinement for several weeks, and subjected to severest cross-examination.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.4
+  kind: p
+  original: Never before in the history of the country had such a terrible man-hunt taken place against a person in public life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.5
+  kind: p
+  original: But the efforts of police and press to connect Emma Goldman with Czolgosz proved futile.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.6
+  kind: p
+  original: Yet the episode left her wounded to the heart.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.7
+  kind: p
+  original: The physical suffering, the humiliation and brutality at the hands of the police she could bear.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.8
+  kind: p
+  original: The depression of soul was far worse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.9
+  kind: p
+  original: She was overwhelmed by realization of the stupidity, lack of understanding, and vileness which characterized the events of those terrible days.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.10
+  kind: p
+  original: The attitude of misunderstanding on the part of the majority of her own comrades toward Czolgosz almost drove her to desperation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.11
+  kind: p
+  original: Stirred to the very inmost of her soul, she published an article on Czolgosz in which she tried to explain the deed in its social and individual aspects.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.12
+  kind: p
+  original: As once before, after Berkman's act, she now also was unable to find quarters; like a veritable wild animal she was driven from place to place.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.13
+  kind: p
+  original: This terrible persecution and, especially, the attitude of her comrades made it impossible for her to continue propaganda.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.14
+  kind: p
+  original: The soreness of body and soul had first to heal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.15
+  kind: p
+  original: During 1901-1903 she did not resume the platform.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.51.16
+  kind: p
+  original: As "Miss Smith" she lived a quiet life, practicing her profession and devoting her leisure to the study of literature and, particularly, to the modern drama, which she considers one of the greatest disseminators of radical ideas and enlightened feeling.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.52.1
+  kind: p
+  original: Yet one thing the persecution of Emma Goldman accomplished.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.52.2
+  kind: p
+  original: Her name was brought before the public with greater frequency and emphasis than ever before, the malicious harassing of the much maligned agitator arousing strong sympathy in many circles.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.52.3
+  kind: p
+  original: Persons in various walks of life began to get interested in her struggle and her ideas.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.52.4
+  kind: p
+  original: A better understanding and appreciation were now beginning to manifest themselves.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.53.1
+  kind: p
+  original: The arrival in America of the English Anarchist, John Turner, induced Emma Goldman to leave her retirement.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.53.2
+  kind: p
+  original: Again she threw herself into her public activities, organizing an energetic movement for the defense of Turner, whom the Immigration authorities condemned to deportation on account of the Anarchist exclusion law, passed after the death of McKinley.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.54.1
+  kind: p
+  original: When Paul Orleneff and Mme. Nazimova arrived in New York to acquaint the American public with Russian dramatic art, Emma Goldman became the manager of the undertaking.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.54.2
+  kind: p
+  original: By much patience and perseverance she succeeded in raising the necessary funds to introduce the Russian artists to the theater-goers of New York and Chicago.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.54.3
+  kind: p
+  original: Though financially not a success, the venture proved of great artistic value.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.54.4
+  kind: p
+  original: As manager of the Russian theater Emma Goldman enjoyed some unique experiences.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.54.5
+  kind: p
+  original: M. Orleneff could converse only in Russian, and "Miss Smith" was forced to act as his interpreter at various polite functions.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.54.6
+  kind: p
+  original: Most of the aristocratic ladies of Fifth Avenue had not the least inkling that the amiable manager who so entertainingly discussed philosophy, drama, and literature at their five o'clock teas, was the "notorious" Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.54.7
+  kind: p
+  original: If the latter should some day write her autobiography, she will no doubt have many interesting anecdotes to relate in connection with these experiences.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.55.1
+  kind: p
+  original: The weekly Anarchist publication, FREE SOCIETY, issued by the Isaak family, was forced to suspend in consequence of the nation-wide fury that swept the country after the death of McKinley.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.55.2
+  kind: p
+  original: To fill out the gap Emma Goldman, in co-operation with Max Baginski and other comrades, decided to publish a monthly magazine devoted to the furtherance of Anarchist ideas in life and literature.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.55.3
+  kind: p
+  original: The first issue of MOTHER EARTH appeared in the month of March, 1906, the initial expenses of the periodical partly covered by the proceeds of a theater benefit given by Orleneff, Mme. Nazimova, and their company, in favor of the Anarchist magazine.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.55.4
+  kind: p
+  original: Under tremendous difficulties and obstacles the tireless propagandist has succeeded in continuing MOTHER EARTH uninterruptedly since 1906--an achievement rarely equalled in the annals of radical publications.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.56.1
+  kind: p
+  original: In May, 1906, Alexander Berkman at last left the hell of Pennsylvania, where he had passed the best fourteen years of his life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.56.2
+  kind: p
+  original: No one had believed in the possibility of his survival.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.56.3
+  kind: p
+  original: His liberation terminated a nightmare of fourteen years for Emma Goldman, and an important chapter of her career was thus concluded.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.57.1
+  kind: p
+  original: Nowhere had the birth of the Russian revolution aroused such vital and active response as among the Russians living in America.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.57.2
+  kind: p
+  original: The heroes of the revolutionary movement in Russia, Tchaikovsky, Mme. Breshkovskaia, Gershuni, and others visited these shores to waken the sympathies of the American people toward the struggle for liberty, and to collect aid for its continuance and support.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.57.3
+  kind: p
+  original: The success of these efforts was to a considerable extent due to the exertions, eloquence, and the talent for organization on the part of Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.57.4
+  kind: p
+  original: This opportunity enabled her to give valuable services to the struggle for liberty in her native land.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.57.5
+  kind: p
+  original: It is not generally known that it is the Anarchists who are mainly instrumental in insuring the success, moral as well as financial, of most of the radical undertakings.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.57.6
+  kind: p
+  original: The Anarchist is indifferent to acknowledged appreciation; the needs of the Cause absorb his whole interest, and to these he devotes his energy and abilities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.57.7
+  kind: p
+  original: Yet it may be mentioned that some otherwise decent folks, though at all times anxious for Anarchist support and co-operation, are ever willing to monopolize all the credit for the work done.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.57.8
+  kind: p
+  original: During the last several decades it was chiefly the Anarchists who had organized all the great revolutionary efforts, and aided in every struggle for liberty.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.57.9
+  kind: p
+  original: But for fear of shocking the respectable mob, who looks upon the Anarchists as the apostles of Satan, and because of their social position in bourgeois society, the would-be radicals ignore the activity of the Anarchists.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.58.1
+  kind: p
+  original: In 1907 Emma Goldman participated as delegate to the second Anarchist Congress, at Amsterdam.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.58.2
+  kind: p
+  original: She was intensely active in all its proceedings and supported the organization of the Anarchist INTERNATIONALE.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.58.3
+  kind: p
+  original: 'Together with the other American delegate, Max Baginski, she submitted to the congress an exhaustive report of American conditions, closing with the following characteristic remarks:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.59.1
+  kind: p
+  original: '"The charge that Anarchism is destructive, rather than constructive, and that, therefore, Anarchism is opposed to organization, is one of the many falsehoods spread by our opponents.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.59.2
+  kind: p
+  original: They confound our present social institutions with organization; hence they fail to understand how we can oppose the former, and yet favor the latter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.59.3
+  kind: p
+  original: The fact, however, is that the two are not identical.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.60.1
+  kind: p
+  original: '"The State is commonly regarded as the highest form of organization.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.60.2
+  kind: p
+  original: But is it in reality a true organization?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.60.3
+  kind: p
+  original: Is it not rather an arbitrary institution, cunningly imposed upon the masses?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.61.1
+  kind: p
+  original: '"Industry, too, is called an organization; yet nothing is farther from the truth.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.61.2
+  kind: p
+  original: Industry is the ceaseless piracy of the rich against the poor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.62.1
+  kind: p
+  original: '"We are asked to believe that the Army is an organization, but a close investigation will show that it is nothing else than a cruel instrument of blind force.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.63.1
+  kind: p
+  original: '"The Public School!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.63.2
+  kind: p
+  original: The colleges and other institutions of learning, are they not models of organization, offering the people fine opportunities for instruction?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.63.3
+  kind: p
+  original: Far from it.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.63.4
+  kind: p
+  original: The school, more than any other institution, is a veritable barrack, where the human mind is drilled and manipulated into submission to various social and moral spooks, and thus fitted to continue our system of exploitation and oppression.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.64.1
+  kind: p
+  original: '"Organization, as WE understand it, however, is a different thing.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.64.2
+  kind: p
+  original: It is based, primarily, on freedom.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.64.3
+  kind: p
+  original: It is a natural and voluntary grouping of energies to secure results beneficial to humanity.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.65.1
+  kind: p
+  original: '"It is the harmony of organic growth which produces variety of color and form, the complete whole we admire in the flower.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.65.2
+  kind: p
+  original: Analogously will the organized activity of free human beings, imbued with the spirit of solidarity, result in the perfection of social harmony, which we call Anarchism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.65.3
+  kind: p
+  original: In fact, Anarchism alone makes non-authoritarian organization of common interests possible, since it abolishes the existing antagonism between individuals and classes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.66.1
+  kind: p
+  original: '"Under present conditions the antagonism of economic and social interests results in relentless war among the social units, and creates an insurmountable obstacle in the way of a co-operative commonwealth.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.67.1
+  kind: p
+  original: '"There is a mistaken notion that organization does not foster individual freedom; that, on the contrary, it means the decay of individuality.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.67.2
+  kind: p
+  original: In reality, however, the true function of organization is to aid the development and growth of personality.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.68.1
+  kind: p
+  original: '"Just as the animal cells, by mutual co-operation, express their latent powers in formation of the complete organism, so does the individual, by co-operative effort with other individuals, attain his highest form of development.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.69.1
+  kind: p
+  original: '"An organization, in the true sense, cannot result from the combination of mere nonentities.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.69.2
+  kind: p
+  original: It must be composed of self-conscious, intelligent individualities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.69.3
+  kind: p
+  original: Indeed, the total of the possibilities and activities of an organization is represented in the expression of individual energies.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.70.1
+  kind: p
+  original: '"It therefore logically follows that the greater the number of strong, self-conscious personalities in an organization, the less danger of stagnation, and the more intense its life element.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.71.1
+  kind: p
+  original: '"Anarchism asserts the possibility of an organization without discipline, fear, or punishment, and without the pressure of poverty: a new social organism which will make an end to the terrible struggle for the means of existence,--the savage struggle which undermines the finest qualities in man, and ever widens the social abyss.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.71.2
+  kind: p
+  original: In short, Anarchism strives towards a social organization which will establish well-being for all.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.72.1
+  kind: p
+  original: '"The germ of such an organization can be found in that form of trades unionism which has done away with centralization, bureaucracy, and discipline, and which favors independent and direct action on the part of its members."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.73.1
+  kind: p
+  original: The very considerable progress of Anarchist ideas in America can best be gauged by the remarkable success of the three extensive lecture tours of Emma Goldman since the Amsterdam Congress of 1907.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.73.2
+  kind: p
+  original: Each tour extended over new territory, including localities where Anarchism had never before received a hearing.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.73.3
+  kind: p
+  original: But the most gratifying aspect of her untiring efforts is the tremendous sale of Anarchist literature, whose propagandist effect cannot be estimated.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.73.4
+  kind: p
+  original: It was during one of these tours that a remarkable incident happened, strikingly demonstrating the inspiring potentialities of the Anarchist idea.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.73.5
+  kind: p
+  original: In San Francisco, in 1908, Emma Goldman's lecture attracted a soldier of the United States Army, William Buwalda.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.73.6
+  kind: p
+  original: For daring to attend an Anarchist meeting, the free Republic court-martialed Buwalda and imprisoned him for one year.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.73.7
+  kind: p
+  original: Thanks to the regenerating power of the new philosophy, the government lost a soldier, but the cause of liberty gained a man.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.74.1
+  kind: p
+  original: A propagandist of Emma Goldman's importance is necessarily a sharp thorn to the reaction.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.74.2
+  kind: p
+  original: She is looked upon as a danger to the continued existence of authoritarian usurpation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.74.3
+  kind: p
+  original: No wonder, then, that the enemy resorts to any and all means to make her impossible.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.74.4
+  kind: p
+  original: A systematic attempt to suppress her activities was organized a year ago by the united police force of the country.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.74.5
+  kind: p
+  original: But like all previous similar attempts, it failed in a most brilliant manner.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.74.6
+  kind: p
+  original: Energetic protests on the part of the intellectual element of America succeeded in overthrowing the dastardly conspiracy against free speech.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.74.7
+  kind: p
+  original: Another attempt to make Emma Goldman impossible was essayed by the Federal authorities at Washington.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.74.8
+  kind: p
+  original: In order to deprive her of the rights of citizenship, the government revoked the citizenship papers of her husband, whom she had married at the youthful age of eighteen, and whose whereabouts, if he be alive, could not be determined for the last two decades.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.74.9
+  kind: p
+  original: The great government of the glorious United States did not hesitate to stoop to the most despicable methods to accomplish that achievement.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.74.10
+  kind: p
+  original: But as her citizenship had never proved of use to Emma Goldman, she can bear the loss with a light heart.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.75.1
+  kind: p
+  original: There are personalities who possess such a powerful individuality that by its very force they exert the most potent influence over the best representatives of their time.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.75.2
+  kind: p
+  original: Michael Bakunin was such a personality.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.75.3
+  kind: p
+  original: But for him, Richard Wagner had never written DIE KUNST UND DIE REVOLUTION.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.75.4
+  kind: p
+  original: Emma Goldman is a similar personality.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.75.5
+  kind: p
+  original: She is a strong factor in the socio-political life of America.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.75.6
+  kind: p
+  original: By virtue of her eloquence, energy, and brilliant mentality, she moulds the minds and hearts of thousands of her auditors.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.76.1
+  kind: p
+  original: Deep sympathy and compassion for suffering humanity, and an inexorable honesty toward herself, are the leading traits of Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.76.2
+  kind: p
+  original: No person, whether friend or foe, shall presume to control her goal or dictate her mode of life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.76.3
+  kind: p
+  original: She would perish rather than sacrifice her convictions, or the right of self-ownership of soul and body.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.76.4
+  kind: p
+  original: Respectability could easily forgive the teaching of theoretic Anarchism; but Emma Goldman does not merely preach the new philosophy; she also persists in living it,--and that is the one supreme, unforgivable crime.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.76.5
+  kind: p
+  original: Were she, like so many radicals, to consider her ideal as merely an intellectual ornament; were she to make concessions to existing society and compromise with old prejudices,--then even the most radical views could be pardoned in her.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.76.6
+  kind: p
+  original: But that she takes her radicalism seriously; that it has permeated her blood and marrow to the extent where she not merely teaches but also practices her convictions--this shocks even the radical Mrs. Grundy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.76.7
+  kind: p
+  original: Emma Goldman lives her own life; she associates with publicans--hence the indignation of the Pharisees and Sadducees.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.77.1
+  kind: p
+  original: It is no mere coincidence that such divergent writers as Pietro Gori and William Marion Reedy find similar traits in their characterization of Emma Goldman.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.77.2
+  kind: p
+  original: In a contribution to LA QUESTIONE SOCIALE, Pietro Gori calls her a "moral power, a woman who, with the vision of a sibyl, prophesies the coming of a new kingdom for the oppressed; a woman who, with logic and deep earnestness, analyses the ills of society, and portrays, with artist touch, the coming dawn of humanity, founded on equality, brotherhood, and liberty."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.78.1
+  kind: p
+  original: William Reedy sees in Emma Goldman the "daughter of the dream, her gospel a vision which is the vision of every truly great-souled man and woman who has ever lived."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.79.1
+  kind: p
+  original: Cowards who fear the consequences of their deeds have coined the word of philosophic Anarchism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.79.2
+  kind: p
+  original: Emma Goldman is too sincere, too defiant, to seek safety behind such paltry pleas.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.79.3
+  kind: p
+  original: She is an Anarchist, pure and simple.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.79.4
+  kind: p
+  original: She represents the idea of Anarchism as framed by Josiah Warren, Proudhon, Bakunin, Kropotkin, Tolstoy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.79.5
+  kind: p
+  original: Yet she also understands the psychologic causes which induce a Caserio, a Vaillant, a Bresci, a Berkman, or a Czolgosz to commit deeds of violence.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.79.6
+  kind: p
+  original: To the soldier in the social struggle it is a point of honor to come in conflict with the powers of darkness and tyranny, and Emma Goldman is proud to count among her best friends and comrades men and women who bear the wounds and scars received in battle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.80.1
+  kind: p
+  original: 'In the words of Voltairine de Cleyre, characterizing Emma Goldman after the latter''s imprisonment in 1893: The spirit that animates Emma Goldman is the only one which will emancipate the slave from his slavery, the tyrant from his tyranny--the spirit which is willing to dare and suffer.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.81.1
+  kind: signature
+  original: HIPPOLYTE HAVEL.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: B.82.1
+  kind: signature
+  original: New York, December, 1910.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

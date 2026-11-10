@@ -1,0 +1,1650 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: I
+title_original: 'Anarchism: What It Really Stands For'
+title_en: 'Anarchism: What It Really Stands For'
+author: Emma Goldman
+date: '1910'
+original_language: en
+anchor_language: en
+source_original: 'Emma Goldman, Anarchism and Other Essays, with a biographic sketch by Hippolyte Havel (New York: Mother Earth Publishing Association, 1910), public domain; Project Gutenberg ebook 2162'
+source_en: 'None needed: the original is in English'
+verses:
+- id: I.0.1
+  kind: heading
+  original: 'Anarchism: What It Really Stands For'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.1.1
+  kind: heading
+  original: ANARCHY.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.2.1
+  kind: p
+  original: Ever reviled, accursed, ne'er understood, / Thou art the grisly terror of our age. / "Wreck of all order," cry the multitude, / "Art thou, and war and murder's endless rage." / O, let them cry.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.2.2
+  kind: p
+  original: To them that ne'er have striven / The truth that lies behind a word to find, / To them the word's right meaning was not given. / They shall continue blind among the blind. / But thou, O word, so clear, so strong, so pure, / Thou sayest all which I for goal have taken. / I give thee to the future!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.2.3
+  kind: p
+  original: Thine secure / When each at least unto himself shall waken. / Comes it in sunshine?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.2.4
+  kind: p
+  original: In the tempest's thrill? / I cannot tell--but it the earth shall see! / I am an Anarchist!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.2.5
+  kind: p
+  original: Wherefore I will / Not rule, and also ruled I will not be!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.3.1
+  kind: signature
+  original: JOHN HENRY MACKAY.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.4.1
+  kind: p
+  original: The history of human growth and development is at the same time the history of the terrible struggle of every new idea heralding the approach of a brighter dawn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.4.2
+  kind: p
+  original: In its tenacious hold on tradition, the Old has never hesitated to make use of the foulest and cruelest means to stay the advent of the New, in whatever form or period the latter may have asserted itself.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.4.3
+  kind: p
+  original: Nor need we retrace our steps into the distant past to realize the enormity of opposition, difficulties, and hardships placed in the path of every progressive idea.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.4.4
+  kind: p
+  original: The rack, the thumbscrew, and the knout are still with us; so are the convict's garb and the social wrath, all conspiring against the spirit that is serenely marching on.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.5.1
+  kind: p
+  original: Anarchism could not hope to escape the fate of all other ideas of innovation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.5.2
+  kind: p
+  original: Indeed, as the most revolutionary and uncompromising innovator, Anarchism must needs meet with the combined ignorance and venom of the world it aims to reconstruct.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.6.1
+  kind: p
+  original: To deal even remotely with all that is being said and done against Anarchism would necessitate the writing of a whole volume.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.6.2
+  kind: p
+  original: I shall therefore meet only two of the principal objections.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.6.3
+  kind: p
+  original: In so doing, I shall attempt to elucidate what Anarchism really stands for.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.1
+  kind: p
+  original: The strange phenomenon of the opposition to Anarchism is that it brings to light the relation between so-called intelligence and ignorance.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.2
+  kind: p
+  original: And yet this is not so very strange when we consider the relativity of all things.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.3
+  kind: p
+  original: The ignorant mass has in its favor that it makes no pretense of knowledge or tolerance.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.4
+  kind: p
+  original: Acting, as it always does, by mere impulse, its reasons are like those of a child.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.5
+  kind: p
+  original: '"Why?"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.6
+  kind: p
+  original: '"Because."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.7.7
+  kind: p
+  original: Yet the opposition of the uneducated to Anarchism deserves the same consideration as that of the intelligent man.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.1
+  kind: p
+  original: What, then, are the objections?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.2
+  kind: p
+  original: First, Anarchism is impractical, though a beautiful ideal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.3
+  kind: p
+  original: Second, Anarchism stands for violence and destruction, hence it must be repudiated as vile and dangerous.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.8.4
+  kind: p
+  original: Both the intelligent man and the ignorant mass judge not from a thorough knowledge of the subject, but either from hearsay or false interpretation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.9.1
+  kind: p
+  original: A practical scheme, says Oscar Wilde, is either one already in existence, or a scheme that could be carried out under the existing conditions; but it is exactly the existing conditions that one objects to, and any scheme that could accept these conditions is wrong and foolish.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.9.2
+  kind: p
+  original: The true criterion of the practical, therefore, is not whether the latter can keep intact the wrong or foolish; rather is it whether the scheme has vitality enough to leave the stagnant waters of the old, and build, as well as sustain, new life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.9.3
+  kind: p
+  original: In the light of this conception, Anarchism is indeed practical.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.9.4
+  kind: p
+  original: More than any other idea, it is helping to do away with the wrong and foolish; more than any other idea, it is building and sustaining new life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.10.1
+  kind: p
+  original: The emotions of the ignorant man are continuously kept at a pitch by the most blood-curdling stories about Anarchism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.10.2
+  kind: p
+  original: Not a thing too outrageous to be employed against this philosophy and its exponents.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.10.3
+  kind: p
+  original: Therefore Anarchism represents to the unthinking what the proverbial bad man does to the child,--a black monster bent on swallowing everything; in short, destruction and violence.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.11.1
+  kind: p
+  original: Destruction and violence!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.11.2
+  kind: p
+  original: How is the ordinary man to know that the most violent element in society is ignorance; that its power of destruction is the very thing Anarchism is combating?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.11.3
+  kind: p
+  original: Nor is he aware that Anarchism, whose roots, as it were, are part of nature's forces, destroys, not healthful tissue, but parasitic growths that feed on the life's essence of society.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.11.4
+  kind: p
+  original: It is merely clearing the soil from weeds and sagebrush, that it may eventually bear healthy fruit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.12.1
+  kind: p
+  original: Someone has said that it requires less mental effort to condemn than to think.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.12.2
+  kind: p
+  original: The widespread mental indolence, so prevalent in society, proves this to be only too true.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.12.3
+  kind: p
+  original: Rather than to go to the bottom of any given idea, to examine into its origin and meaning, most people will either condemn it altogether, or rely on some superficial or prejudicial definition of non-essentials.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.13.1
+  kind: p
+  original: Anarchism urges man to think, to investigate, to analyze every proposition; but that the brain capacity of the average reader be not taxed too much, I also shall begin with a definition, and then elaborate on the latter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.14.1
+  kind: p
+  original: ANARCHISM:--The philosophy of a new social order based on liberty unrestricted by man-made law; the theory that all forms of government rest on violence, and are therefore wrong and harmful, as well as unnecessary.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.15.1
+  kind: p
+  original: The new social order rests, of course, on the materialistic basis of life; but while all Anarchists agree that the main evil today is an economic one, they maintain that the solution of that evil can be brought about only through the consideration of EVERY PHASE of life,--individual, as well as the collective; the internal, as well as the external phases.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.16.1
+  kind: p
+  original: 'A thorough perusal of the history of human development will disclose two elements in bitter conflict with each other; elements that are only now beginning to be understood, not as foreign to each other, but as closely related and truly harmonious, if only placed in proper environment: the individual and social instincts.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.16.2
+  kind: p
+  original: The individual and society have waged a relentless and bloody battle for ages, each striving for supremacy, because each was blind to the value and importance of the other.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.16.3
+  kind: p
+  original: The individual and social instincts,--the one a most potent factor for individual endeavor, for growth, aspiration, self-realization; the other an equally potent factor for mutual helpfulness and social well-being.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.17.1
+  kind: p
+  original: The explanation of the storm raging within the individual, and between him and his surroundings, is not far to seek.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.17.2
+  kind: p
+  original: The primitive man, unable to understand his being, much less the unity of all life, felt himself absolutely dependent on blind, hidden forces ever ready to mock and taunt him.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.17.3
+  kind: p
+  original: Out of that attitude grew the religious concepts of man as a mere speck of dust dependent on superior powers on high, who can only be appeased by complete surrender.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.17.4
+  kind: p
+  original: All the early sagas rest on that idea, which continues to be the LEIT-MOTIF of the biblical tales dealing with the relation of man to God, to the State, to society.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.17.5
+  kind: p
+  original: Again and again the same motif, MAN IS NOTHING, THE POWERS ARE EVERYTHING.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.17.6
+  kind: p
+  original: Thus Jehovah would only endure man on condition of complete surrender.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.17.7
+  kind: p
+  original: Man can have all the glories of the earth, but he must not become conscious of himself.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.17.8
+  kind: p
+  original: 'The State, society, and moral laws all sing the same refrain: Man can have all the glories of the earth, but he must not become conscious of himself.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.18.1
+  kind: p
+  original: Anarchism is the only philosophy which brings to man the consciousness of himself; which maintains that God, the State, and society are non-existent, that their promises are null and void, since they can be fulfilled only through man's subordination.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.18.2
+  kind: p
+  original: Anarchism is therefore the teacher of the unity of life; not merely in nature, but in man.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.18.3
+  kind: p
+  original: 'There is no conflict between the individual and the social instincts, any more than there is between the heart and the lungs: the one the receptacle of a precious life essence, the other the repository of the element that keeps the essence pure and strong.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.18.4
+  kind: p
+  original: The individual is the heart of society, conserving the essence of social life; society is the lungs which are distributing the element to keep the life essence--that is, the individual--pure and strong.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.19.1
+  kind: p
+  original: '"The one thing of value in the world," says Emerson, "is the active soul; this every man contains within him.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.19.2
+  kind: p
+  original: The soul active sees absolute truth and utters truth and creates."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.19.3
+  kind: p
+  original: In other words, the individual instinct is the thing of value in the world.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.19.4
+  kind: p
+  original: It is the true soul that sees and creates the truth alive, out of which is to come a still greater truth, the re-born social soul.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.20.1
+  kind: p
+  original: Anarchism is the great liberator of man from the phantoms that have held him captive; it is the arbiter and pacifier of the two forces for individual and social harmony.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.20.2
+  kind: p
+  original: To accomplish that unity, Anarchism has declared war on the pernicious influences which have so far prevented the harmonious blending of individual and social instincts, the individual and society.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.21.1
+  kind: p
+  original: Religion, the dominion of the human mind; Property, the dominion of human needs; and Government, the dominion of human conduct, represent the stronghold of man's enslavement and all the horrors it entails.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.21.2
+  kind: p
+  original: Religion!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.21.3
+  kind: p
+  original: How it dominates man's mind, how it humiliates and degrades his soul.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.21.4
+  kind: p
+  original: God is everything, man is nothing, says religion.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.21.5
+  kind: p
+  original: But out of that nothing God has created a kingdom so despotic, so tyrannical, so cruel, so terribly exacting that naught but gloom and tears and blood have ruled the world since gods began.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.21.6
+  kind: p
+  original: Anarchism rouses man to rebellion against this black monster.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.21.7
+  kind: p
+  original: Break your mental fetters, says Anarchism to man, for not until you think and judge for yourself will you get rid of the dominion of darkness, the greatest obstacle to all progress.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.22.1
+  kind: p
+  original: Property, the dominion of man's needs, the denial of the right to satisfy his needs.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.22.2
+  kind: p
+  original: Time was when property claimed a divine right, when it came to man with the same refrain, even as religion, "Sacrifice!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.22.3
+  kind: p
+  original: Abnegate!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.22.4
+  kind: p
+  original: Submit!"
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.22.5
+  kind: p
+  original: The spirit of Anarchism has lifted man from his prostrate position.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.22.6
+  kind: p
+  original: He now stands erect, with his face toward the light.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.22.7
+  kind: p
+  original: He has learned to see the insatiable, devouring, devastating nature of property, and he is preparing to strike the monster dead.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.1
+  kind: p
+  original: '"Property is robbery," said the great French Anarchist, Proudhon.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.2
+  kind: p
+  original: Yes, but without risk and danger to the robber.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.3
+  kind: p
+  original: Monopolizing the accumulated efforts of man, property has robbed him of his birthright, and has turned him loose a pauper and an outcast.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.4
+  kind: p
+  original: Property has not even the time-worn excuse that man does not create enough to satisfy all needs.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.5
+  kind: p
+  original: The A B C student of economics knows that the productivity of labor within the last few decades far exceeds normal demand a hundredfold.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.6
+  kind: p
+  original: But what are normal demands to an abnormal institution?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.7
+  kind: p
+  original: The only demand that property recognizes is its own gluttonous appetite for greater wealth, because wealth means power; the power to subdue, to crush, to exploit, the power to enslave, to outrage, to degrade.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.8
+  kind: p
+  original: America is particularly boastful of her great power, her enormous national wealth.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.9
+  kind: p
+  original: Poor America, of what avail is all her wealth, if the individuals comprising the nation are wretchedly poor?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.23.10
+  kind: p
+  original: If they live in squalor, in filth, in crime, with hope and joy gone, a homeless, soilless army of human prey.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.24.1
+  kind: p
+  original: It is generally conceded that unless the returns of any business venture exceed the cost, bankruptcy is inevitable.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.24.2
+  kind: p
+  original: But those engaged in the business of producing wealth have not yet learned even this simple lesson.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.24.3
+  kind: p
+  original: Every year the cost of production in human life is growing larger (50,000 killed, 100,000 wounded in America last year); the returns to the masses, who help to create wealth, are ever getting smaller.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.24.4
+  kind: p
+  original: Yet America continues to be blind to the inevitable bankruptcy of our business of production.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.24.5
+  kind: p
+  original: Nor is this the only crime of the latter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.24.6
+  kind: p
+  original: Still more fatal is the crime of turning the producer into a mere particle of a machine, with less will and decision than his master of steel and iron.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.24.7
+  kind: p
+  original: Man is being robbed not merely of the products of his labor, but of the power of free initiative, of originality, and the interest in, or desire for, the things he is making.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.25.1
+  kind: p
+  original: Real wealth consists in things of utility and beauty, in things that help to create strong, beautiful bodies and surroundings inspiring to live in.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.25.2
+  kind: p
+  original: But if man is doomed to wind cotton around a spool, or dig coal, or build roads for thirty years of his life, there can be no talk of wealth.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.25.3
+  kind: p
+  original: What he gives to the world is only gray and hideous things, reflecting a dull and hideous existence,--too weak to live, too cowardly to die.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.25.4
+  kind: p
+  original: Strange to say, there are people who extol this deadening method of centralized production as the proudest achievement of our age.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.25.5
+  kind: p
+  original: They fail utterly to realize that if we are to continue in machine subserviency, our slavery is more complete than was our bondage to the King.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.25.6
+  kind: p
+  original: They do not want to know that centralization is not only the death-knell of liberty, but also of health and beauty, of art and science, all these being impossible in a clock-like, mechanical atmosphere.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.26.1
+  kind: p
+  original: 'Anarchism cannot but repudiate such a method of production: its goal is the freest possible expression of all the latent powers of the individual.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.26.2
+  kind: p
+  original: Oscar Wilde defines a perfect personality as "one who develops under perfect conditions, who is not wounded, maimed, or in danger."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.26.3
+  kind: p
+  original: A perfect personality, then, is only possible in a state of society where man is free to choose the mode of work, the conditions of work, and the freedom to work.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.26.4
+  kind: p
+  original: One to whom the making of a table, the building of a house, or the tilling of the soil, is what the painting is to the artist and the discovery to the scientist,--the result of inspiration, of intense longing, and deep interest in work as a creative force.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.26.5
+  kind: p
+  original: That being the ideal of Anarchism, its economic arrangements must consist of voluntary productive and distributive associations, gradually developing into free communism, as the best means of producing with the least waste of human energy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.26.6
+  kind: p
+  original: Anarchism, however, also recognizes the right of the individual, or numbers of individuals, to arrange at all times for other forms of work, in harmony with their tastes and desires.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.27.1
+  kind: p
+  original: Such free display of human energy being possible only under complete individual and social freedom, Anarchism directs its forces against the third and greatest foe of all social equality; namely, the State, organized authority, or statutory law,--the dominion of human conduct.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.28.1
+  kind: p
+  original: Just as religion has fettered the human mind, and as property, or the monopoly of things, has subdued and stifled man's needs, so has the State enslaved his spirit, dictating every phase of conduct.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.28.2
+  kind: p
+  original: '"All government in essence," says Emerson, "is tyranny."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.28.3
+  kind: p
+  original: It matters not whether it is government by divine right or majority rule.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.28.4
+  kind: p
+  original: In every instance its aim is the absolute subordination of the individual.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.29.1
+  kind: p
+  original: 'Referring to the American government, the greatest American Anarchist, David Thoreau, said: "Government, what is it but a tradition, though a recent one, endeavoring to transmit itself unimpaired to posterity, but each instance losing its integrity; it has not the vitality and force of a single living man.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.29.2
+  kind: p
+  original: Law never made man a whit more just; and by means of their respect for it, even the well disposed are daily made agents of injustice."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.30.1
+  kind: p
+  original: Indeed, the keynote of government is injustice.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.30.2
+  kind: p
+  original: With the arrogance and self-sufficiency of the King who could do no wrong, governments ordain, judge, condemn, and punish the most insignificant offenses, while maintaining themselves by the greatest of all offenses, the annihilation of individual liberty.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.30.3
+  kind: p
+  original: Thus Ouida is right when she maintains that "the State only aims at instilling those qualities in its public by which its demands are obeyed, and its exchequer is filled.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.30.4
+  kind: p
+  original: Its highest attainment is the reduction of mankind to clockwork.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.30.5
+  kind: p
+  original: In its atmosphere all those finer and more delicate liberties, which require treatment and spacious expansion, inevitably dry up and perish.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.30.6
+  kind: p
+  original: The State requires a taxpaying machine in which there is no hitch, an exchequer in which there is never a deficit, and a public, monotonous, obedient, colorless, spiritless, moving humbly like a flock of sheep along a straight high road between two walls."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.31.1
+  kind: p
+  original: Yet even a flock of sheep would resist the chicanery of the State, if it were not for the corruptive, tyrannical, and oppressive methods it employs to serve its purposes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.31.2
+  kind: p
+  original: Therefore Bakunin repudiates the State as synonymous with the surrender of the liberty of the individual or small minorities,--the destruction of social relationship, the curtailment, or complete denial even, of life itself, for its own aggrandizement.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.31.3
+  kind: p
+  original: The State is the altar of political freedom and, like the religious altar, it is maintained for the purpose of human sacrifice.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.32.1
+  kind: p
+  original: In fact, there is hardly a modern thinker who does not agree that government, organized authority, or the State, is necessary ONLY to maintain or protect property and monopoly.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.32.2
+  kind: p
+  original: It has proven efficient in that function only.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.33.1
+  kind: p
+  original: Even George Bernard Shaw, who hopes for the miraculous from the State under Fabianism, nevertheless admits that "it is at present a huge machine for robbing and slave-driving of the poor by brute force."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.33.2
+  kind: p
+  original: This being the case, it is hard to see why the clever prefacer wishes to uphold the State after poverty shall have ceased to exist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.34.1
+  kind: p
+  original: Unfortunately there are still a number of people who continue in the fatal belief that government rests on natural laws, that it maintains social order and harmony, that it diminishes crime, and that it prevents the lazy man from fleecing his fellows.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.34.2
+  kind: p
+  original: I shall therefore examine these contentions.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.35.1
+  kind: p
+  original: A natural law is that factor in man which asserts itself freely and spontaneously without any external force, in harmony with the requirements of nature.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.35.2
+  kind: p
+  original: For instance, the demand for nutrition, for sex gratification, for light, air, and exercise, is a natural law.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.35.3
+  kind: p
+  original: But its expression needs not the machinery of government, needs not the club, the gun, the handcuff, or the prison.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.35.4
+  kind: p
+  original: To obey such laws, if we may call it obedience, requires only spontaneity and free opportunity.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.35.5
+  kind: p
+  original: That governments do not maintain themselves through such harmonious factors is proven by the terrible array of violence, force, and coercion all governments use in order to live.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.35.6
+  kind: p
+  original: Thus Blackstone is right when he says, "Human laws are invalid, because they are contrary to the laws of nature."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.36.1
+  kind: p
+  original: Unless it be the order of Warsaw after the slaughter of thousands of people, it is difficult to ascribe to governments any capacity for order or social harmony.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.36.2
+  kind: p
+  original: Order derived through submission and maintained by terror is not much of a safe guaranty; yet that is the only "order" that governments have ever maintained.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.36.3
+  kind: p
+  original: True social harmony grows naturally out of solidarity of interests.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.36.4
+  kind: p
+  original: In a society where those who always work never have anything, while those who never work enjoy everything, solidarity of interests is non-existent; hence social harmony is but a myth.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.36.5
+  kind: p
+  original: The only way organized authority meets this grave situation is by extending still greater privileges to those who have already monopolized the earth, and by still further enslaving the disinherited masses.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.36.6
+  kind: p
+  original: Thus the entire arsenal of government--laws, police, soldiers, the courts, legislatures, prisons,--is strenuously engaged in "harmonizing" the most antagonistic elements in society.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.37.1
+  kind: p
+  original: The most absurd apology for authority and law is that they serve to diminish crime.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.37.2
+  kind: p
+  original: Aside from the fact that the State is itself the greatest criminal, breaking every written and natural law, stealing in the form of taxes, killing in the form of war and capital punishment, it has come to an absolute standstill in coping with crime.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.37.3
+  kind: p
+  original: It has failed utterly to destroy or even minimize the horrible scourge of its own creation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.38.1
+  kind: p
+  original: Crime is naught but misdirected energy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.38.2
+  kind: p
+  original: So long as every institution of today, economic, political, social, and moral, conspires to misdirect human energy into wrong channels; so long as most people are out of place doing the things they hate to do, living a life they loathe to live, crime will be inevitable, and all the laws on the statutes can only increase, but never do away with, crime.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.38.3
+  kind: p
+  original: What does society, as it exists today, know of the process of despair, the poverty, the horrors, the fearful struggle the human soul must pass on its way to crime and degradation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.38.4
+  kind: p
+  original: 'Who that knows this terrible process can fail to see the truth in these words of Peter Kropotkin:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.39.1
+  kind: p
+  original: '"Those who will hold the balance between the benefits thus attributed to law and punishment and the degrading effect of the latter on humanity; those who will estimate the torrent of depravity poured abroad in human society by the informer, favored by the Judge even, and paid for in clinking cash by governments, under the pretext of aiding to unmask crime; those who will go within prison walls and there see what human beings become when deprived of liberty, when subjected to the care of brutal keepers, to coarse, cruel words, to a thousand stinging, piercing humiliations, will agree with us that the entire apparatus of prison and punishment is an abomination which ought to be brought to an end."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.40.1
+  kind: p
+  original: The deterrent influence of law on the lazy man is too absurd to merit consideration.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.40.2
+  kind: p
+  original: If society were only relieved of the waste and expense of keeping a lazy class, and the equally great expense of the paraphernalia of protection this lazy class requires, the social tables would contain an abundance for all, including even the occasional lazy individual.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.40.3
+  kind: p
+  original: Besides, it is well to consider that laziness results either from special privileges, or physical and mental abnormalities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.40.4
+  kind: p
+  original: Our present insane system of production fosters both, and the most astounding phenomenon is that people should want to work at all now.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.40.5
+  kind: p
+  original: Anarchism aims to strip labor of its deadening, dulling aspect, of its gloom and compulsion.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.40.6
+  kind: p
+  original: It aims to make work an instrument of joy, of strength, of color, of real harmony, so that the poorest sort of a man should find in work both recreation and hope.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.41.1
+  kind: p
+  original: To achieve such an arrangement of life, government, with its unjust, arbitrary, repressive measures, must be done away with.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.41.2
+  kind: p
+  original: At best it has but imposed one single mode of life upon all, without regard to individual and social variations and needs.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.41.3
+  kind: p
+  original: In destroying government and statutory laws, Anarchism proposes to rescue the self-respect and independence of the individual from all restraint and invasion by authority.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.41.4
+  kind: p
+  original: Only in freedom can man grow to his full stature.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.41.5
+  kind: p
+  original: Only in freedom will he learn to think and move, and give the very best in him.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.41.6
+  kind: p
+  original: Only in freedom will he realize the true force of the social bonds which knit men together, and which are the true foundation of a normal social life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.42.1
+  kind: p
+  original: But what about human nature?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.42.2
+  kind: p
+  original: Can it be changed?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.42.3
+  kind: p
+  original: And if not, will it endure under Anarchism?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.43.1
+  kind: p
+  original: Poor human nature, what horrible crimes have been committed in thy name!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.43.2
+  kind: p
+  original: Every fool, from king to policeman, from the flatheaded parson to the visionless dabbler in science, presumes to speak authoritatively of human nature.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.43.3
+  kind: p
+  original: The greater the mental charlatan, the more definite his insistence on the wickedness and weaknesses of human nature.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.43.4
+  kind: p
+  original: Yet, how can any one speak of it today, with every soul in a prison, with every heart fettered, wounded, and maimed?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.44.1
+  kind: p
+  original: John Burroughs has stated that experimental study of animals in captivity is absolutely useless.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.44.2
+  kind: p
+  original: Their character, their habits, their appetites undergo a complete transformation when torn from their soil in field and forest.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.44.3
+  kind: p
+  original: With human nature caged in a narrow space, whipped daily into submission, how can we speak of its potentialities?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.45.1
+  kind: p
+  original: Freedom, expansion, opportunity, and, above all, peace and repose, alone can teach us the real dominant factors of human nature and all its wonderful possibilities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.46.1
+  kind: p
+  original: Anarchism, then, really stands for the liberation of the human mind from the dominion of religion; the liberation of the human body from the dominion of property; liberation from the shackles and restraint of government.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.46.2
+  kind: p
+  original: Anarchism stands for a social order based on the free grouping of individuals for the purpose of producing real social wealth; an order that will guarantee to every human being free access to the earth and full enjoyment of the necessities of life, according to individual desires, tastes, and inclinations.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.47.1
+  kind: p
+  original: This is not a wild fancy or an aberration of the mind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.47.2
+  kind: p
+  original: 'It is the conclusion arrived at by hosts of intellectual men and women the world over; a conclusion resulting from the close and studious observation of the tendencies of modern society: individual liberty and economic equality, the twin forces for the birth of what is fine and true in man.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.48.1
+  kind: p
+  original: As to methods.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.48.2
+  kind: p
+  original: Anarchism is not, as some may suppose, a theory of the future to be realized through divine inspiration.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.48.3
+  kind: p
+  original: It is a living force in the affairs of our life, constantly creating new conditions.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.48.4
+  kind: p
+  original: The methods of Anarchism therefore do not comprise an iron-clad program to be carried out under all circumstances.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.48.5
+  kind: p
+  original: Methods must grow out of the economic needs of each place and clime, and of the intellectual and temperamental requirements of the individual.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.48.6
+  kind: p
+  original: The serene, calm character of a Tolstoy will wish different methods for social reconstruction than the intense, overflowing personality of a Michael Bakunin or a Peter Kropotkin.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.48.7
+  kind: p
+  original: Equally so it must be apparent that the economic and political needs of Russia will dictate more drastic measures than would England or America.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.48.8
+  kind: p
+  original: Anarchism does not stand for military drill and uniformity; it does, however, stand for the spirit of revolt, in whatever form, against everything that hinders human growth.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.48.9
+  kind: p
+  original: All Anarchists agree in that, as they also agree in their opposition to the political machinery as a means of bringing about the great social change.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.49.1
+  kind: p
+  original: '"All voting," says Thoreau, "is a sort of gaming, like checkers, or backgammon, a playing with right and wrong; its obligation never exceeds that of expediency.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.49.2
+  kind: p
+  original: Even voting for the right thing is doing nothing for it.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.49.3
+  kind: p
+  original: A wise man will not leave the right to the mercy of chance, nor wish it to prevail through the power of the majority."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.49.4
+  kind: p
+  original: A close examination of the machinery of politics and its achievements will bear out the logic of Thoreau.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.50.1
+  kind: p
+  original: What does the history of parliamentarism show?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.50.2
+  kind: p
+  original: Nothing but failure and defeat, not even a single reform to ameliorate the economic and social stress of the people.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.50.3
+  kind: p
+  original: Laws have been passed and enactments made for the improvement and protection of labor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.50.4
+  kind: p
+  original: Thus it was proven only last year that Illinois, with the most rigid laws for mine protection, had the greatest mine disasters.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.50.5
+  kind: p
+  original: In States where child labor laws prevail, child exploitation is at its highest, and though with us the workers enjoy full political opportunities, capitalism has reached the most brazen zenith.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.51.1
+  kind: p
+  original: Even were the workers able to have their own representatives, for which our good Socialist politicians are clamoring, what chances are there for their honesty and good faith?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.51.2
+  kind: p
+  original: 'One has but to bear in mind the process of politics to realize that its path of good intentions is full of pitfalls: wire-pulling, intriguing, flattering, lying, cheating; in fact, chicanery of every description, whereby the political aspirant can achieve success.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.51.3
+  kind: p
+  original: Added to that is a complete demoralization of character and conviction, until nothing is left that would make one hope for anything from such a human derelict.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.51.4
+  kind: p
+  original: Time and time again the people were foolish enough to trust, believe, and support with their last farthing aspiring politicians, only to find themselves betrayed and cheated.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.52.1
+  kind: p
+  original: It may be claimed that men of integrity would not become corrupt in the political grinding mill.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.52.2
+  kind: p
+  original: Perhaps not; but such men would be absolutely helpless to exert the slightest influence in behalf of labor, as indeed has been shown in numerous instances.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.52.3
+  kind: p
+  original: The State is the economic master of its servants.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.52.4
+  kind: p
+  original: Good men, if such there be, would either remain true to their political faith and lose their economic support, or they would cling to their economic master and be utterly unable to do the slightest good.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.52.5
+  kind: p
+  original: The political arena leaves one no alternative, one must either be a dunce or a rogue.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.53.1
+  kind: p
+  original: The political superstition is still holding sway over the hearts and minds of the masses, but the true lovers of liberty will have no more to do with it.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.53.2
+  kind: p
+  original: Instead, they believe with Stirner that man has as much liberty as he is willing to take.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.53.3
+  kind: p
+  original: Anarchism therefore stands for direct action, the open defiance of, and resistance to, all laws and restrictions, economic, social, and moral.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.53.4
+  kind: p
+  original: But defiance and resistance are illegal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.53.5
+  kind: p
+  original: Therein lies the salvation of man.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.53.6
+  kind: p
+  original: Everything illegal necessitates integrity, self-reliance, and courage.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.53.7
+  kind: p
+  original: In short, it calls for free, independent spirits, for "men who are men, and who have a bone in their backs which you cannot pass your hand through."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.54.1
+  kind: p
+  original: Universal suffrage itself owes its existence to direct action.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.54.2
+  kind: p
+  original: If not for the spirit of rebellion, of the defiance on the part of the American revolutionary fathers, their posterity would still wear the King's coat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.54.3
+  kind: p
+  original: If not for the direct action of a John Brown and his comrades, America would still trade in the flesh of the black man.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.54.4
+  kind: p
+  original: True, the trade in white flesh is still going on; but that, too, will have to be abolished by direct action.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.54.5
+  kind: p
+  original: Trade-unionism, the economic arena of the modern gladiator, owes its existence to direct action.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.54.6
+  kind: p
+  original: It is but recently that law and government have attempted to crush the trade-union movement, and condemned the exponents of man's right to organize to prison as conspirators.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.54.7
+  kind: p
+  original: Had they sought to assert their cause through begging, pleading, and compromise, trade-unionism would today be a negligible quantity.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.54.8
+  kind: p
+  original: In France, in Spain, in Italy, in Russia, nay even in England (witness the growing rebellion of English labor unions) direct, revolutionary, economic action has become so strong a force in the battle for industrial liberty as to make the world realize the tremendous importance of labor's power.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.54.9
+  kind: p
+  original: The General Strike, the supreme expression of the economic consciousness of the workers, was ridiculed in America but a short time ago.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.54.10
+  kind: p
+  original: Today every great strike, in order to win, must realize the importance of the solidaric general protest.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.55.1
+  kind: p
+  original: Direct action, having proven effective along economic lines, is equally potent in the environment of the individual.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.55.2
+  kind: p
+  original: There a hundred forces encroach upon his being, and only persistent resistance to them will finally set him free.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.55.3
+  kind: p
+  original: Direct action against the authority in the shop, direct action against the authority of the law, direct action against the invasive, meddlesome authority of our moral code, is the logical, consistent method of Anarchism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.56.1
+  kind: p
+  original: Will it not lead to a revolution?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.56.2
+  kind: p
+  original: Indeed, it will.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.56.3
+  kind: p
+  original: No real social change has ever come about without a revolution.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.56.4
+  kind: p
+  original: People are either not familiar with their history, or they have not yet learned that revolution is but thought carried into action.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.57.1
+  kind: p
+  original: Anarchism, the great leaven of thought, is today permeating every phase of human endeavor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.57.2
+  kind: p
+  original: Science, art, literature, the drama, the effort for economic betterment, in fact every individual and social opposition to the existing disorder of things, is illumined by the spiritual light of Anarchism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.57.3
+  kind: p
+  original: It is the philosophy of the sovereignty of the individual.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.57.4
+  kind: p
+  original: It is the theory of social harmony.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.57.5
+  kind: p
+  original: It is the great, surging, living truth that is reconstructing the world, and that will usher in the Dawn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
