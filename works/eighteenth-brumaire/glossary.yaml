@@ -1,0 +1,114 @@
+# Glossary of recurring and contested terms in The Eighteenth Brumaire of Louis Bonaparte (EB).
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+# Terms shared with other works (Bourgeoisie, Proletariat, Klasse ...) are in
+# works/communist-manifesto/glossary.yaml until a shared library glossary is agreed.
+
+- term: Lumpenproletariat
+  de: Lumpenproletariat, Lumpenproletariats
+  english_1898: the slums, the slum-proletariat
+  literal: the ragged proletariat
+  options: [lumpenproletariat, the down-and-out, the underworld, the rabble]
+  interim: lumpenproletariat, explained on first use
+  status: open
+  verses: [I.17.5, IV.13.5, V.4.6, V.4.7, V.4.9, VII.2.1]
+  note: De Leon's "slums" names a place, not a social layer, and hides that Marx means people cut loose from any class, rich ones included ("des vornehmen und des gemeinen", IV.13.5). The word is a term of art across the library. V.4.7 is Marx's long list of who belongs to it; translate the list as written and leave the argument about its contempt for commentary.
+
+- term: Kleinbürger
+  de: Kleinbürger, Kleinbürgertum, kleinbürgerlich
+  english_1898: small traders, the small traders' class, middle class
+  literal: petty burghers
+  options: [petty bourgeoisie, small proprietors]
+  interim: petty bourgeoisie; "small proprietors" where the sentence needs plain words
+  status: open
+  verses: [I.17.5, III.11.2, III.16.3, III.17.8]
+  note: De Leon uses "small traders" and sometimes "middle class" (III.17.8), which collides with his "middle class" for Mittelklasse (VII.30.2). Keep the two apart in the modern draft.
+
+- term: Mittelklasse
+  de: Mittelklasse, Mittelstand
+  english_1898: middle class
+  literal: middle class
+  options: [middle class, bourgeoisie]
+  interim: middle class
+  status: open
+  verses: [I.17.5, VII.30.2, VII.30.3]
+  note: In VII.30 Marx uses Mittelklasse for the bourgeoisie as a social class, as English writers of his day did. A modern reader hears "middle class" as people on middle incomes. A note on first use is enough; do not swap in "bourgeoisie" silently.
+
+- term: Parzellenbauer
+  de: Parzellenbauer, Parzelle, Parzelleneigentum
+  english_1898: allotment farmer, allotment, system of allotments
+  literal: smallholding peasant, smallholding
+  options: [smallholding peasant, small peasant]
+  interim: smallholding peasant; smallholding for Parzelle
+  status: open
+  verses: [VII.13.2, VII.15.1, VII.15.10, VII.22.3]
+  note: The class Bonaparte stands on, and the subject of the most quoted pages of VII. "Allotment" now means a rented garden plot in Britain. De Leon also turns Bauer into "farmer" everywhere (VII.14.1), which loses the peasant world Marx describes.
+
+- term: Partei der Ordnung
+  de: Ordnungspartei, Partei der Ordnung, Ordnungsfreunde
+  english_1898: party of Order, Friends of Order
+  literal: party of order
+  options: [Party of Order, the party of order]
+  interim: Party of Order, capitalised as a name
+  status: interim
+  verses: [I.19.1, II.16.8, III.3.5]
+  note: The coalition of Legitimists and Orleanists in the Assembly, not a party in the modern sense. Keep one form so the reader can follow it through IV to VI.
+
+- term: Exekutivgewalt
+  de: Exekutivgewalt, ausübende Gewalt
+  english_1898: Executive power, the Executive
+  literal: executive power
+  options: [executive power, the executive]
+  interim: executive power
+  status: interim
+  verses: [III.4.1, VII.9.6, VII.10.1]
+  note: Set against the parliament (legislative power) throughout. VII.9.6 to VII.10.1 make it the subject of Marx's account of the state.
+
+- term: Staatsmaschinerie
+  de: Staatsmaschinerie, Staatsmaschine, die Maschine
+  english_1898: machinery of government
+  literal: state machinery
+  options: [state machinery, the state machine, the machinery of government, the apparatus of the state]
+  interim: state machinery
+  status: open
+  verses: [IV.4.5, VII.10.1, VII.10.8, VII.12.2]
+  note: VII.10.8 ("Alle Umwälzungen vervollkommneten die Maschine statt sie zu brechen") is cited by every tradition in the library. Use the same term as CWF III.3.1 so the two passages stay linked; see also the 1852 variant on VII.27.5.
+
+- term: Montagne
+  de: Montagne, Montagnards
+  english_1898: the Mountain
+  literal: the Mountain
+  options: [the Mountain, the Montagne]
+  interim: the Mountain, explained on first use
+  status: interim
+  verses: [I.1.3, III.4.1, III.14.10]
+  note: The democratic-socialist left of 1848 to 1851, named after the Jacobin benches of 1793. I.1.3 sets the two side by side.
+
+- term: Gesellschaft vom 10. Dezember
+  de: Gesellschaft vom 10. Dezember, Dezembristen
+  english_1898: Society of December 10, Decembrists
+  literal: Society of the 10th of December
+  options: [Society of December 10, the December 10 Society]
+  interim: Society of December 10
+  status: interim
+  verses: [V.4.7, V.4.14, VII.2.1]
+  note: Bonaparte's private following, named after the date of his election as president (10 December 1848).
+
+- term: Staatsstreich
+  de: Staatsstreich, coup d'état
+  english_1898: "coup d'etat"
+  literal: blow against the state
+  options: [coup, coup d'état]
+  interim: coup d'état
+  status: interim
+  verses: [P1869.1.2, VI.32.1]
+  note: Marx uses the French and the German forms side by side. One English form is enough.
+
+- term: idées napoléoniennes
+  de: idées napoléoniennes (French in the original)
+  english_1898: '"idees Napoleoniennes", Napoleonic ideas'
+  literal: Napoleonic ideas
+  options: [Napoleonic ideas, idées napoléoniennes]
+  interim: Napoleonic ideas, with the French on first use
+  status: open
+  verses: [IV.6.5, VII.22.6, VII.27.1]
+  note: The title of Louis Bonaparte's 1839 book, which Marx turns against him. Keep it recognisable as a quotation.

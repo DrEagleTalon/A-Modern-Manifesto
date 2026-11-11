@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: eighteenth-brumaire
+prefix: EB                        # citation prefix: EB VII.15.12
+title: The Eighteenth Brumaire of Louis Bonaparte
+title_original: Der achtzehnte Brumaire des Louis Bonaparte
+authors: [Karl Marx, Friedrich Engels (1885 preface)]
+year: 1852
+original_language: de
+base_text: "Second edition (Hamburg 1869), as printed in MEW 8; the lines Marx cut from the 1852 first edition are recorded as a variant"
+order: 140
+columns:
+  original: German (MEW, 1869 text)
+  en: English 1898 (De Leon)
+  modern: Modern draft
+status: ready
+rights: Originals public domain. De Leon's 1898 English public domain (Project Gutenberg text). See SOURCES.md.

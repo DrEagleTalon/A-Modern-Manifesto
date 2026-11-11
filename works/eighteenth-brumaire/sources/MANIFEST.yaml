@@ -1,4 +1,4 @@
-# Fetched 2026-11-08 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+# Fetched 2026-11-11 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
 - file: raw/de/me08_111.htm
   role: original
   url: https://raw.githubusercontent.com/wertform/mlwerke.de/HEAD/me/me08/me08_111.htm
@@ -39,6 +39,16 @@
   url: https://raw.githubusercontent.com/wertform/mlwerke.de/HEAD/me/me08/me08_194.htm
   bytes: 40539
   sha256: 5a37abf1b70e6292b8424516c1e9309d738f7b1f6098021bf05818139a8dcdc6
+- file: raw/de/me16_358.htm
+  role: original
+  url: https://raw.githubusercontent.com/wertform/mlwerke.de/HEAD/me/me16/me16_358.htm
+  bytes: 6112
+  sha256: 9b2456bcd04bfb5cd38003264bf81d71299b9e1213c15539a946f6102326f248
+- file: raw/de/me21_248.htm
+  role: original
+  url: https://raw.githubusercontent.com/wertform/mlwerke.de/HEAD/me/me21/me21_248.htm
+  bytes: 6661
+  sha256: 97c73fb49d6acc5407ef60826c6d60e0b1a74e7eecf2245651027738d7e6bf8a
 - file: raw/en/gutenberg_1346.txt
   role: english
   url: https://raw.githubusercontent.com/GITenberg/The-Eighteenth-Brumaire-of-Louis-Bonaparte_1346/master/1346.txt

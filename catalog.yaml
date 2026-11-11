@@ -187,11 +187,11 @@
   original_language: de
   tier: A
   priority: 14
-  stage: sourced
+  stage: ready
   sources:
-    original: ["mlwerke:me08/me08_111.htm..me08_194.htm"]
+    original: ["mlwerke:me08/me08_111.htm..me08_194.htm", "mlwerke:me16/me16_358.htm (Marx's preface of 1869)", "mlwerke:me21/me21_248.htm (Engels's preface of 1885)"]
     english: ["gutenberg:The-Eighteenth-Brumaire-of-Louis-Bonaparte_1346"]
-  notes: English by Daniel De Leon, 1898.
+  notes: "English by Daniel De Leon, 1898. Marx's 1869 preface (P1869) and Engels's 1885 preface (P1885) are German only; De Leon's own preface is left out."
 
 - id: critique-of-the-gotha-programme
   prefix: CGP

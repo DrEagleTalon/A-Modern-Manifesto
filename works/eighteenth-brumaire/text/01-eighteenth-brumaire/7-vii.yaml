@@ -1,0 +1,1998 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: VII
+title_original: VII
+title_en: VII
+author: Karl Marx
+date: 1851-12/1852-03; revised 1869
+original_language: de
+anchor_language: de
+source_original: MEW 8, S. 111-207 (Dietz, Berlin 1960) via mlwerke.de; text of the second edition (1869)
+source_en: Daniel De Leon's translation (New York Labor News, 1898), Project Gutenberg ebook 1346 (public domain)
+verses:
+- id: VII.0.1
+  kind: heading
+  original: VII
+  en: VII
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.1.1
+  kind: p
+  original: Die soziale Republik erschien als Phrase, als Prophezeiung an der Schwelle der Februarrevolution.
+  en: The Social Republic appeared as a mere phrase, as a prophecy on the threshold of the February Revolution; it was smothered in the blood of the Parisian proletariat during the days of 1848 but it stalks about as a spectre throughout the following acts of the drama.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.1.2
+  kind: p
+  original: In den Junitagen 1848 wurde sie im Blute des Pariser Proletariats erstickt, aber sie geht in den folgenden Akten des Dramas als Gespenst um.
+  en: ''
+  joined_to: VII.1.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '194'
+- id: VII.1.3
+  kind: p
+  original: Die demokratische Republik kündigte sich an.
+  en: The Democratic Republic next makes its bow; it goes out in a fizzle on June 13, 1849, with its runaway small traders; but, on fleeing, it scatters behind it all the more bragging announcements of what it means do to.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.1.4
+  kind: p
+  original: Sie verpufft am 13. Juni 1849 mit ihren davongelaufenen Kleinbürgern, aber im Fliehen wirft sie doppelt renommierende Reklamen hinter sich.
+  en: ''
+  joined_to: VII.1.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '194'
+- id: VII.1.5
+  kind: p
+  original: 'Die parlamentarische Republik mit der Bourgeoisie bemächtigt sich der ganzen Bühne, sie lebt sich aus in der vollen Breite ihrer Existenz, aber der 2. Dezember 1851 begräbt sie unter dem Angstgeschrei der koalisierten Royalisten: "Es lebe die Republik!"'
+  en: 'The Parliamentary Republic, together with the bourgeoisie, then appropriates the whole stage; it lives its life to the full extent of its being; but the 2d of December, 1851, buries it under the terror-stricken cry of the allied royalists: "Long live the Republic!"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.1
+  kind: p
+  original: Die französische Bourgeoisie bäumte sich gegen die Herrschaft des arbeitenden Proletariats, sie hat das Lumpenproletariat zur Herrschaft gebracht, an der Spitze den Chef der Gesellschaft vom 10. Dezember.
+  en: The French bourgeoisie reared up against the reign of the working proletariat;--it brought to power the slum-proletariat, with the chief of the "Society of December 10" at its head.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.2
+  kind: p
+  original: Die Bourgeoisie hielt Frankreich in atemloser Furcht vor den zukünftigen Schrecken der roten Anarchie; Bonaparte eskomptierte ihr diese Zukunft, als er am 4. Dezember die vornehmen Bürger des Boulevard Montmartre und des Boulevard des Italiens durch die schnapsbegeisterte Armee der Ordnung von ihren Fenstern herabschießen ließ.
+  en: It kept France in breathless fear over the prospective terror of "red anarchy;"--Bonaparte discounted the prospect when, on December 4, he had the leading citizens of the Boulevard Montmartre and the Boulevard des Italiens shot down from their windows by the grog-inspired "Army of Order."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.3
+  kind: p
+  original: Sie apotheosierte den Säbel; der Säbel beherrscht sie.
+  en: It made the apotheosis of the sabre; now the sabre rules it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.4
+  kind: p
+  original: Sie vernichtet die revolutionäre Presse; ihre eigne Presse ist vernichtet.
+  en: It destroyed the revolutionary press;--now its own press is annihilated.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.5
+  kind: p
+  original: Sie stellte die Volksversammlungen unter Polizeiaufsicht; ihre Salons stehen unter der Aufsicht der Polizei.
+  en: It placed public meetings under police surveillance;--now its own salons are subject to police inspection.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.6
+  kind: p
+  original: Sie löste die demokratischen Nationalgarden auf; ihre eigne Nationalgarde ist aufgelöst.
+  en: It disbanded the democratic National Guards;--now its own National Guard is disbanded.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.7
+  kind: p
+  original: Sie verhing den Belagerungszustand; der Belagerungszustand ist über sie verhängt.
+  en: It instituted the state of siege;--now itself is made subject thereto.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.8
+  kind: p
+  original: Sie verdrängt die Jurys durch Militärkommissionen, ihre Jurys sind durch Militärkommissionen verdrängt.
+  en: It supplanted the jury by military commissions;--now military commissions supplant its own juries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.9
+  kind: p
+  original: Sie unterwarf den Volksunterricht den Pfaffen; die Pfaffen unterwerfen sie ihrem eignen Unterricht.
+  en: It subjected the education of the people to the parsons' interests;--the parsons' interests now subject it to their own systems.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.10
+  kind: p
+  original: Sie transportierte ohne Urteil; sie wird ohne Urteil transportiert.
+  en: It ordered transportations without trial;--now itself is transported without trial.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '194'
+- id: VII.2.11
+  kind: p
+  original: Sie unterdrückte jede Regung der Gesellschaft durch die Staatsmacht; jede Regung ihrer Gesellschaft wird durch die Staatsmacht erdrückt.
+  en: It suppressed every movement of society with physical force;--now every movement of its own class is suppressed by physical force.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 194-195
+- id: VII.2.12
+  kind: p
+  original: Sie rebellierte aus Begeisterung für ihren Geldbeutel gegen ihre eignen Politiker und Literaten; ihre Politiker und Literaten sind beseitigt, aber ihr Geldbeutel wird geplündert, nachdem sein Mund geknebelt und seine Feder zerbrochen ist.
+  en: Out of enthusiasm for the gold bag, it rebelled against its own political leaders and writers;--now, its political leaders and writers are set aside, but the gold hag is plundered, after the mouth of the bourgeoisie has been gagged and its pen broken.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.2.13
+  kind: p
+  original: 'Die Bourgeoisie rief der Revolution unermüdlich zu wie der heilige Arsenius den Christen: "Fuge, tace, quisce! Fliehe, schweige, ruhe!"'
+  en: 'The bourgeoisie tirelessly shouted to the revolution, in the language of St. Orsenius to the Christians: "Fuge, Tace, Quiesce!"--flee, be silent, submit!--; Bonaparte shouts to the bourgeoisie: "Fuge, Tace, Quiesce!"--flee, be silent, submit!'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.2.14
+  kind: p
+  original: 'Bonaparte ruft der Bourgeoisie zu: "Fuge, tace, quisce! Fliehe, schweige, ruhe!"'
+  en: ''
+  joined_to: VII.2.13
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '195'
+- id: VII.3.1
+  kind: p
+  original: 'Die französische Bourgeoisie hatte längst das Dilemma Napoleons gelöst: "Dans cinquante ans l''Europe sera républicaine ou cosaque." <"In fünfzig Jahren wird Europa republikanisch sein oder kosakisch."> Sie hatte es gelöst in der "république cosaque" <"kosakischen Republik">.'
+  en: 'The French bourgeoisie had long since solved Napoleon''s dilemma: "Dans cinquante ans l''Europe sera republicaine ou cosaque." It found the solution in the "republique cosaque."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+  en_note: 'De Leon''s note [1]: Within fifty years Europe will be either republican or Cossack. De Leon''s note [2]: Cossack republic.'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.3.2
+  kind: p
+  original: Keine Circe hat das Kunstwerk der bürgerlichen Republik durch bösen Zauber in eine Ungestalt verzerrt.
+  en: No Circe distorted with wicked charms the work of art of the bourgeois republic into a monstrosity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.3.3
+  kind: p
+  original: Jene Republik hat nichts verloren als den Schein der Respektabilität.
+  en: That republic lost nothing but the appearance of decency.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.3.4
+  kind: p
+  original: Das jetzige Frankreich war fertig in der parlamentarischen Republik enthalten.
+  en: The France of to-day was ready-made within the womb of the Parliamentary republic.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.3.5
+  kind: p
+  original: Es bedurfte nur eines Bajonettstichs, damit die Blase platze und das Ungeheuer in die Augen springe.
+  en: All that was wanted was a bayonet thrust, in order that the bubble burst, and the monster leap forth to sight.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.4.1
+  kind: p
+  original: Warum hat sich das Pariser Proletariat nicht nach dem 2. Dezember erhoben?
+  en: Why did not the Parisian proletariat rise after the 2d of December?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.5.1
+  kind: p
+  original: Noch war der Sturz der Bourgeoisie erst dekretiert, das Dekret war nicht vollzogen.
+  en: The downfall of the bourgeoisie was as yet merely decreed; the decree was not yet executed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.5.2
+  kind: p
+  original: Jeder ernste Aufstand des Proletariats hätte sie sofort neu belebt, mit der Armee ausgesöhnt und den Arbeitern eine zweite Juniniederlage gesichert.
+  en: Any earnest uprising of the proletariat would have forthwith revived this bourgeoisie, would have brought on its reconciliation with the army, and would have insured a second June rout to the workingmen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.6.1
+  kind: p
+  original: Am 4. Dezember wurde das Proletariat von Bourgeois und Épicier <Krämer> zum Kampfe aufgestachelt.
+  en: On December 4, the proletariat was incited to fight by Messrs. Bourgeois & Small-Trader.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.6.2
+  kind: p
+  original: Am Abende dieses Tages versprachen mehrere Legionen der Nationalgarde, bewaffnet und uniformiert auf dem Kampfplatze zu erscheinen.
+  en: On the evening of that day, several legions of the National Guard promised to appear armed and uniformed on the place of battle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.6.3
+  kind: p
+  original: Bourgeois und Épicier waren nämlich dahintergekommen, daß Bonaparte in einem seiner Dekrete vom 2. Dezember das geheime Votum abschaffte und ihnen anbefahl, in den offiziellen Registern hinter ihre Namen ihr Ja oder nein einzutragen.
+  en: This arose from the circumstance that Messrs. Bourgeois & Small-Trader had got wind that, in one of his decrees of December 2, Bonaparte abolished the secret ballot, and ordered them to enter the words "Yes" and "No" after their names in the official register.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.6.4
+  kind: p
+  original: Der Widerstand vom 4. Dezember schüchterte Bonaparte ein.
+  en: Bonaparte took alarm at the stand taken on December 4. During the night he caused placards to be posted on all the street corners of Paris, announcing the restoration of the secret ballot.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.6.5
+  kind: p
+  original: Während der Nacht ließ er an allen Straßenecken von Paris Plakate anschlagen, welche die Wiederherstellung des geheimen Votums verkündeten.
+  en: ''
+  joined_to: VII.6.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '195'
+- id: VII.6.6
+  kind: p
+  original: Bourgeois und Épicier glaubten, ihren Zweck erreicht zu haben.
+  en: Messrs. Bourgeois & Small-Trader believed they had gained their point.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.6.7
+  kind: p
+  original: Wer nicht am andern Morgen erschien, waren Épicier und Bourgeois.
+  en: The absentees, the next morning, were Messieurs Bourgeois & Small-Trader.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.7.1
+  kind: p
+  original: Das Pariser Proletariat war durch einen Handstreich Bonapartes während der Nacht vom 1. auf den 2. Dezember seiner Führer, der Barrikadenchefs, beraubt worden.
+  en: During the night of December 1 and 2, the Parisian proletariat was robbed of its leaders and chiefs of barricades by a raid of Bonaparte's.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '195'
+- id: VII.7.2
+  kind: p
+  original: 'Eine Armee ohne Offiziere, durch die Erinnerungen vom Juni 1848 und 1849 und vom Mai 1850 abgeneigt, unter dem Banner der Montagnards zu kämpfen, überließ es seiner Avantgarde, den geheimen Gesellschaften, die Rettung der insurrektionellen Ehre von Paris, welche die Bourgeoisie so widerstandslos der Soldateska preisgab, daß Bonaparte später die Nationalgarde mit dem höhnischen Motive entwaffnen konnte: Er fürchte, daß ihre Waffen gegen sie selbst von den Anarchisten mißbraucht werden würden!'
+  en: An army without officers, disinclined by the recollections of June, 1848 and 1849, and May, 1850, to fight under the banner of the Montagnards, it left to its vanguard, the secret societies, the work of saving the insurrectionary honor of Paris, which the bourgeoisie had yielded to the soldiery so submissively that Bonaparte was later justified in disarming the National Guard upon the scornful ground that he feared their arms would be used against themselves by the Anarchists!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 195-196
+- id: VII.8.1
+  kind: p
+  original: '"C''est le triomphe complet et définitif du socialisme!" <"Das ist der vollständige und endgültige Triumph des Sozialismus!"> So charakterisierte Guizot den 2. Dezember.'
+  en: '"C''est le triomphe complet et definitif du Socialism!" Thus did Guizot characterize the 2d of December.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.8.2
+  kind: p
+  original: Aber wenn der Sturz der parlamentarischen Republik dem Keime nach den Triumph der proletarischen Revolution in sich enthält, so war ihr nächstes handgreifliches Resultat der Sieg Bonapartes über das Parlament, der Exekutivgewalt über die Legislativgewalt, der Gewalt ohne Phrase über die Gewalt der Phrase.
+  en: But, although the downfall of the parliamentary republic carries with it the germ of the triumph of the proletarian revolution, its immediate and tangible result was the triumph of Bonaparte over parliament, of the Executive over the Legislative power, of force without phrases over the force of phrases.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: VII.8.3
+  kind: p
+  original: In dem Parlamente erhob die Nation ihren allgemeinen Willen zum Gesetze, d.h. das Gesetz der herrschenden Klasse zu ihrem allgemeinen Willen.
+  en: In the parliament, the nation raised its collective will to the dignity of law, i.e., it raised the law of the ruling class to the dignity of its collective will.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: VII.8.4
+  kind: p
+  original: Vor der Exekutivgewalt dankt sie jeden eignen Willen ab und unterwirft sich dem Machtgebot des fremden, der Autorität.
+  en: Before the Executive power, the nation abdicates all will of its own, and submits to the orders of an outsider of Authority.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: VII.8.5
+  kind: p
+  original: Die Exekutivgewalt im Gegensatz zur Legislativen drückt die Heteronomie der Nation im Gegensatz zu ihrer Autonomie aus.
+  en: In contrast with the Legislative, the Executive power expresses the heteronomy of the nation in contrast with its autonomy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: VII.8.6
+  kind: p
+  original: Frankreich scheint also nur der Despotie einer Klasse entlaufen, um unter die Despotie eines Individuums zurückzufallen, und zwar unter die Autorität eines Individuums ohne Autorität.
+  en: Accordingly, France seems to have escaped the despotism of a class only in order to fall under the despotism of an individual, under the authority, at that of an individual without authority The struggle seems to settle down to the point where all classes drop down on their knees, equally impotent and equally dumb.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s); regrouped by the ingest (see REALIGN)
+- id: VII.8.7
+  kind: p
+  original: Der Kampf scheint so geschlichtet, daß alle Klassen gleich machtlos und gleich lautlos vor dem Kolben niederknien.
+  en: ''
+  joined_to: VII.8.6
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '196'
+- id: VII.9.1
+  kind: p
+  original: Aber die Revolution ist gründlich.
+  en: All the same, the revolution is thoroughgoing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: VII.9.2
+  kind: p
+  original: Sie ist noch auf der Reise durch das Fegefeuer begriffen.
+  en: It still is on its passage through purgatory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: VII.9.3
+  kind: p
+  original: Sie vollbringt ihr Geschäft mit Methode.
+  en: 'It does its work methodically: Down to December 2, 1851, it had fulfilled one-half of its programme, it now fulfils the other half.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s); regrouped by the ingest (see REALIGN)
+- id: VII.9.4
+  kind: p
+  original: Bis zum 2. Dezember 1851 hatte sie die eine Hälfte ihrer Vorbereitung absolviert, sie absolviert jetzt die andre.
+  en: ''
+  joined_to: VII.9.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '196'
+- id: VII.9.5
+  kind: p
+  original: Sie vollendete erst die parlamentarische Gewalt, um sie stürzen zu können.
+  en: It first ripens the power of the Legislature into fullest maturity in order to be able to overthrow it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: VII.9.6
+  kind: p
+  original: Jetzt, wo sie dies erreicht, vollendet sie die Exekutivgewalt, reduziert sie auf ihren reinsten Ausdruck, isoliert sie, stellt sie sich als einzigen Vorwurf gegenüber, um alle ihre Kräfte der Zerstörung gegen sie zu konzentrieren.
+  en: Now that it has accomplished that, the revolution proceeds to ripen the power of the Executive into equal maturity; it reduces this power to its purest expression; isolates it; places it before itself as the sole subject for reproof in order to concentrate against it all the revolutionary forces of destruction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: VII.9.7
+  kind: p
+  original: 'Und wenn sie diese zweite Hälfte ihrer Vorarbeit vollbracht hat, wird Europa von seinem Sitze aufspringen und jubeln: Brav gewühlt, alter Maulwurf!'
+  en: 'When the revolution shall have accomplished this second part of its preliminary programme, Europe will jump up from her seat to exclaim: "Well hast thou grubbed, old mole!"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: VII.10.1
+  kind: p
+  original: Diese Exekutivgewalt mit ihrer ungeheuern bürokratischen und militärischen Organisation, mit ihrer weitschichtigen und künstlichen Staatsmaschinerie, ein Beamtenheer von einer halben Million neben einer Armee von einer andern halben Million, dieser fürchterliche Parasitenkörper, der sich wie eine Netzhaut um den Leib der französischen Gesellschaft schlingt und ihr alle Poren verstopft, entstand in der Zeit der absoluten Monarchie, beim Verfall des Feudalwesens, den er beschleunigen half.
+  en: The Executive power, with its tremendous bureaucratic and military organization; with its wide-spreading and artificial machinery of government--an army of office-holders, half a million strong, together with a military force of another million men--; this fearful body of parasites, that coils itself like a snake around French society, stopping all its pores, originated at the time of the absolute monarchy, along with the decline of feudalism, which it helped to hasten.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '196'
+- id: VII.10.2
+  kind: p
+  original: Die herrschaftlichen Privilegien der Grundeigentümer und Städte verwandelten sich in ebenso viele Attribute der Staatsgewalt, die feudalen Würdenträger in bezahlte Beamte und die bunte Mustercharte der widerstreitenden mittelalterlichen Machtvollkommenheiten in den geregelten Plan einer Staatsmacht, deren Arbeit fabrikmäßig geteilt und zentralisiert ist.
+  en: The princely privileges of the landed proprietors and cities were transformed into so many at-tributes of the Executive power; the feudal dignitaries into paid office-holders; and the confusing design of conflicting medieval seigniories, into the well regulated plan of a government, work is subdivided and centralized as in the factory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 196-197
+- id: VII.10.3
+  kind: p
+  original: 'Die erste französische Revolution mit ihrer Aufgabe, alle lokalen, territorialen, städtischen und provinziellen Sondergewalten zu brechen, um die bürgerliche Einheit der Nation zu schaffen, mußte entwickeln, was die absolute Monarchie begonnen hatte: die Zentralisation, aber zugleich den Umfang, die Attribute und die Handlanger der Regierungsgewalt.'
+  en: The first French revolution, having as a mission to sweep away all local, territorial, urban and provincial special privileges, with the object of establishing the civic unity of the nation, was hound to develop what the absolute monarchy had begun--the work of centralization, together with the range, the attributes and the menials of government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.10.4
+  kind: p
+  original: Napoleon vollendete diese Staatsmaschinerie.
+  en: Napoleon completed this governmental machinery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.10.5
+  kind: p
+  original: Die legitime Monarchie und die Julimonarchie fügten nichts hinzu als eine größere Teilung der Arbeit, in demselben Maße wachsend, als die Teilung der Arbeit innerhalb der bürgerlichen Gesellschaft neue Gruppen von Interessen schuf, also neues Material für die Staatsverwaltung.
+  en: The Legitimist and the July Monarchy contribute nothing thereto, except a greater subdivision of labor, that grew in the same measure as the division and subdivision of labor within bourgeois society raised new groups and interests, i.e., new material for the administration of government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.10.6
+  kind: p
+  original: Jedes gemeinsame Interesse wurde sofort von der Gesellschaft losgelöst, als höheres, allgemeines Interesse ihr gegenübergestellt, der Selbsttätigkeit der Gesellschaftsglieder entrissen und zum Gegenstand der Regierungstätigkeit gemacht, von der Brücke, dem Schulhaus und dem Kommunalvermögen einer Dorfgemeinde bis zu den Eisenbahnen, dem Nationalvermögen und der Landesuniversität Frankreichs.
+  en: Each Common interest was in turn forthwith removed from society, set up against it as a higher Collective interest, wrested from the individual activity of the members of society, and turned into a subject for governmental administration, from the bridges, the school house and the communal property of a village community, up to the railroads, the national wealth and the national University of France.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.10.7
+  kind: p
+  original: Die parlamentarische Republik endlich sah sich in ihrem Kampfe wider die Revolution gezwungen, mit den Repressivmaßregeln die Mittel und die Zentralisation der Regierungsgewalt zu verstärken.
+  en: Finally, the parliamentary republic found itself, in its struggle against the revolution, compelled, with its repressive measures, to strengthen the means and the centralization of the government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.10.8
+  kind: p
+  original: Alle Umwälzungen vervollkommneten die Maschine statt sie zu brechen.
+  en: Each overturn, instead of breaking up, carried this machine to higher perfection.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.10.9
+  kind: p
+  original: Die Parteien, die abwechselnd um die Herrschaft rangen, betrachteten die Besitznahme dieses ungeheueren Staatsgebäudes als die Hauptbeute des Siegers.
+  en: The parties, that alternately wrestled for supremacy, looked upon the possession of this tremendous governmental structure as the principal spoils of their victory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.11.1
+  kind: p
+  original: Aber unter der absoluten Monarchie, während der ersten Revolution, unter Napoleon war die Bürokratie nur das Mittel, die Klassenherrschaft der Bourgeoisie vorzubereiten.
+  en: Nevertheless, under the absolute monarchy, was only the means whereby the first revolution, and under Napoleon, to prepare the class rule of the bourgeoisie; under the restoration, under Louis Philippe, and under the parliamentary republic, it was the instrument of the ruling class, however eagerly this class strained after autocracy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.11.2
+  kind: p
+  original: Unter der Restauration, unter Louis-Philippe, unter der parlamentarischen Republik war sie das Instrument der herrschenden Klasse, so sehr sie auch nach Eigenmacht strebte.
+  en: ''
+  joined_to: VII.11.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '197'
+- id: VII.12.1
+  kind: p
+  original: Erst unter dem zweiten Bonaparte scheint sich der Staat völlig verselbständigt zu haben.
+  en: Not before the advent of the second Bonaparte does the government seem to have made itself fully independent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.12.2
+  kind: p
+  original: Die Staatsmaschinerie hat sich der bürgerlichen Gesellschaft gegenüber so befestigt, daß an der Spitze der Chef der Gesellschaft vom 10. Dezember genügt, ein aus der Fremde herbeigelaufener Glücksritter, auf den Schild gehoben von einer trunkenen Soldateska, die er durch Schnaps und Würste erkauft hat, nach der er stets von neuem mit der Wurst werfen muß.
+  en: The machinery of government has by this time so thoroughly fortified itself against society, that the chief of the "Society of December 10" is thought good enough to be at its head; a fortune-hunter, run in from abroad, is raised on its shield by a drunken soldiery, bought by himself with liquor and sausages, and whom he is forced ever again to throw sops to.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.12.3
+  kind: p
+  original: Daher die kleinlaute Verzweiflung, das Gefühl der ungeheuersten Demütigung, Herabwürdigung, das die Brust Frankreichs beklemmt und seinen Atem stocken läßt.
+  en: Hence the timid despair, the sense of crushing humiliation and degradation that oppresses the breast of France and makes her to choke.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.12.4
+  kind: p
+  original: Es fühlt sich wie entehrt.
+  en: She feels dishonored.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '197'
+- id: VII.13.1
+  kind: p
+  original: Und dennoch schwebt die Staatsgewalt nicht in der Luft.
+  en: And yet the French Government does not float in the air.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.13.2
+  kind: p
+  original: Bonaparte vertritt eine Klasse, und zwar die zahlreichste Klasse der französischen Gesellschaft, die Parzellenbauern.
+  en: Bonaparte represents an economic class, and that the most numerous in the commonweal of France--the Allotment Farmer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+  en_note: 'De Leon''s note [4]: The first French Revolution distributed the bulk of the territory of France, held at the time by the feudal lords, in small patches among the cultivators of the soil. This allotment of lands created the French farmer class.'
+- id: VII.14.1
+  kind: p
+  original: Wie die Bourbons die Dynastie des großen Grundeigentums, wie die Orléans die Dynastie des Geldes, so sind die Bonapartes die Dynastie der Bauern, d.h. der französischen Volksmasse.
+  en: As the Bourbons are the dynasty of large landed property, as the Orleans are the dynasty of money, so are the Bonapartes the dynasty of the farmer, i.e. of the French masses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.14.2
+  kind: p
+  original: Nicht der Bonaparte, der sich dem Bourgeoisparlamente unterwarf, sondern der Bonaparte, der das Bourgeoisparlament auseinanderjagte, ist der Auserwählte der Bauern.
+  en: Not the Bonaparte, who threw himself at the feet of the bourgeois parliament, but the Bonaparte, who swept away the bourgeois parliament, is the elect of this farmer class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.14.3
+  kind: p
+  original: Drei Jahre war es den Städten gelungen, den Sinn der Wahl vom 10. Dezember zu verfälschen und die Bauern um die Wiederherstellung des Kaiserreichs zu prellen.
+  en: For three years the cities had succeeded in falsifying the meaning of the election of December 10, and in cheating the farmer out of the restoration of the Empire.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.14.4
+  kind: p
+  original: Die Wahl vom 10. Dezember 1848 ist erst erfüllt worden durch den coup d'état vom 2. Dezember 1851.
+  en: The election of December 10, 1848, is not carried out until the "coup d'etat" of December 2, 1851.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.1
+  kind: p
+  original: Die Parzellenbauern bilden eine ungeheure Masse, deren Glieder in gleicher Situation leben, aber ohne in mannigfache Beziehung zueinander zu treten.
+  en: The allotment farmers are an immense mass, whose individual members live in identical conditions, without, however, entering into manifold relations with one another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.2
+  kind: p
+  original: Ihre Produktionsweise isoliert sie voneinander, statt sie in wechselseitigen Verkehr zu bringen.
+  en: Their method of production isolates them from one another, instead of drawing them into mutual intercourse.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.3
+  kind: p
+  original: Die Isolierung wird gefördert durch die schlechten französischen Kommunikationsmittel und die Armut der Bauern.
+  en: This isolation is promoted by the poor means of communication in France, together with the poverty of the farmers themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.4
+  kind: p
+  original: Ihr Produktionsfeld, die Parzelle, läßt in seiner Kultur keine Teilung der Arbeit zu, keine Anwendung der Wissenschaft, also keine Mannigfaltigkeit der Entwicklung, keine Verschiedenheit der Talente, keinen Reichtum der gesellschaftlichen Verhältnisse.
+  en: Their field of production, the small allotment of land that each cultivates, allows no room for a division of labor, and no opportunity for the application of science; in other words, it shuts out manifoldness of development, diversity of talent, and the luxury of social relations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.5
+  kind: p
+  original: Jede einzelne Bauernfamilie genügt beinah sich selbst, produziert unmittelbar selbst den größten Teil ihres Konsums und gewinnt so ihr Lebensmaterial mehr im Austausche mit der Natur als im Verkehr mit der Gesellschaft.
+  en: Every single farmer family is almost self-sufficient; itself produces directly the greater part of what it consumes; and it earns its livelihood more by means of an interchange with nature than by intercourse with society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.6
+  kind: p
+  original: Die Parzelle, der Bauer und die Familie; daneben eine andre Parzelle, ein andrer Bauer und eine andre Familie.
+  en: We have the allotted patch of land, the farmer and his family; alongside of that another allotted patch of land, another farmer and another family.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.7
+  kind: p
+  original: Ein Schock davon macht ein Dorf, und ein Schock Dörfer macht ein Departement.
+  en: A bunch of these makes up a village; a bunch of villages makes up a Department.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.8
+  kind: p
+  original: So wird die große Masse der französischen Nation gebildet durch einfache Addition gleichnamiger Größen, wie etwa ein Sack von Kartoffeln einen Kartoffelsack bildet.
+  en: Thus the large mass of the French nation is constituted by the simple addition of equal magnitudes--much as a bag with potatoes constitutes a potato-bag.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.9
+  kind: p
+  original: Insofern Millionen von Familien unter ökonomischen Existenzbedingungen leben, die ihre Lebensweise, ihre Interessen und ihre Bildung, von denen der andern Klassen trennen und ihnen feindlich gegenüberstellen, bilden sie eine Klasse.
+  en: In so far as millions of families live under economic conditions that separate their mode of life, their interests and their culture from those of the other classes, and that place them in an attitude hostile toward the latter, they constitute a class; in so far as there exists only a local connection among these farmers, a connection which the individuality and exclusiveness of their interests prevent from generating among them any unity of interest, national connections, and political organization, they do not constitute a class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.15.10
+  kind: p
+  original: Insofern ein nur lokaler Zusammenhang unter den Parzellenbauern besteht, die Dieselbigkeit ihrer Interessen keine Gemeinsamkeit, keine nationale Verbindung und keine politische Organisation unter ihnen erzeugt, bilden sie keine Klasse.
+  en: ''
+  joined_to: VII.15.9
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '198'
+- id: VII.15.11
+  kind: p
+  original: Sie sind daher unfähig, ihr Klasseninteresse im eigenen Namen, sei es durch ein Parlament, sei es durch einen Konvent geltend zu machen.
+  en: Consequently, they are unable to assert their class interests in their own name, be it by a parliament or by convention.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.12
+  kind: p
+  original: Sie können sich nicht vertreten, sie müssen vertreten werden.
+  en: They can not represent one another, they must themselves be represented.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '198'
+- id: VII.15.13
+  kind: p
+  original: Ihr Vertreter muß zugleich als ihr Herr, als eine Autorität über ihnen erscheinen, als eine unumschränkte Regierungsgewalt, die sie vor den andern Klassen beschützt und ihnen von oben Regen und Sonnenschein schickt.
+  en: Their representative must at the same time appear as their master, as an authority over them, as an unlimited governmental power, that protects them from above, bestows rain and sunshine upon them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 198-199
+- id: VII.15.14
+  kind: p
+  original: Der politische Einfluß der Parzellenbauern findet also darin seinen letzten Ausdruck, daß die Exekutivgewalt sich die Gesellschaft unterordnet.
+  en: Accordingly, the political influence of the allotment farmer finds its ultimate expression in an Executive power that subjugates the commonweal to its own autocratic will.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: VII.16.1
+  kind: p
+  original: Durch die geschichtliche Tradition ist der Wunderglaube der französischen Bauern entstanden, daß ein Mann namens Napoleon ihnen alle Herrlichkeit wiederbringen werde.
+  en: Historic tradition has given birth to the superstition among the French farmers that a man named Napoleon would restore to them all manner of glory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: VII.16.2
+  kind: p
+  original: 'Und es fand sich ein Individuum, das sich für diesen Mann ausgibt, weil es den Namen Napoleon trägt, infolge des Code Napoléon, der anbefiehlt: "La recherche de la paternité est interdite." <"Die Nachforschung nach der Vaterschaft ist untersagt."> Nach zwanzigjähriger Vagabundage und einer Reihe von grotesken Abenteuern erfüllt sich die Sage, und der Mann wird Kaiser der Franzosen.'
+  en: Now, then, an individual turns up, who gives himself out as that man because, obedient to the "Code Napoleon," which provides that "La recherche de la paternite est interdite," he carries the name of Napoleon. After a vagabondage of twenty years, and a series of grotesque adventures, the myth is verified, and that man becomes the Emperor of the French.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+  en_note: 'De Leon''s note [5]: The inquiry into paternity is forbidden. De Leon''s note [6]: L. N. Bonaparte is said to have been an illegitimate son.'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.16.3
+  kind: p
+  original: Die fixe Idee des Neffen verwirklicht sich, weil sie mit der fixen Idee der zahlreichsten Klasse der Franzosen zusammenfiel.
+  en: The rooted thought of the Nephew becomes a reality because it coincided with the rooted thought of the most numerous class among the French.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: VII.17.1
+  kind: p
+  original: Aber, wird man mir einwerfen, die Bauernaufstände in halb Frankreich, die Treibjagden der Armee auf die Bauern, die massenhafte Einkerkerung und Transportation der Bauern?
+  en: '"But," I shall be objected to, "what about the farmers'' uprisings over half France, the raids of the Army upon the farmers, the wholesale imprisonment and transportation of farmers?"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: VII.18.1
+  kind: p
+  original: Seit Ludwig XIV. hat Frankreich keine ähnliche Verfolgung der Bauern "wegen demagogischer Umtriebe" erlebt.
+  en: Indeed, since Louis XIV., France has not experienced such persecutions of the farmer on the ground of his demagogic machinations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: VII.19.1
+  kind: p
+  original: Aber man verstehe wohl.
+  en: 'But this should be well understood: The Bonaparte dynasty does not represent the revolutionary, it represents the conservative farmer; it does not represent the farmer, who presses beyond his own economic conditions, his little allotment of land it represents him rather who would confirm these conditions; it does not represent the rural population, that, thanks to its own inherent energy, wishes, jointly with the cities to overthrow the old order, it represents, on the contrary, the rural population that, hide-bound in the old order, seeks to see itself, together with its allotments, saved and favored by the ghost of the Empire; it represents, not the intelligence, but the superstition of the farmer; not his judgment, but his bias; not his future, but his past; not his modern Cevennes; but his modern Vendee.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+  en_note: 'De Leon''s note [7]: The Cevennes were the theater of the most numerous revolutionary uprisings of the farmer class. De Leon''s note [8]: La Vendee was the theater of protracted reactionary uprisings of the farmer class under the first Revolution.'
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: VII.19.2
+  kind: p
+  original: Die Dynastie Bonaparte repräsentiert nicht den revolutionären, sondern den konservativen Bauern, nicht den Bauern, der über seine soziale Existenzbedingung, die Parzelle hinausdrängt, sondern der sie vielmehr befestigen will, nicht das Landvolk, das durch eigne Energie im Anschluß an die Städte die alte Ordnung umstürzen, sondern umgekehrt dumpf verschlossen in dieser alten Ordnung sich mitsamt seiner Parzelle von dem Gespenste des Kaisertums gerettet und bevorzugt sehen will.
+  en: ''
+  joined_to: VII.19.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '199'
+- id: VII.19.3
+  kind: p
+  original: Sie repräsentiert nicht die Aufklärung, sondern den Aberglauben des Bauern, nicht sein Urteil, sondern sein Vorurteil, nicht seine Zukunft, sondern seine Vergangenheit, nicht seine modernen Cevennen, sondern seine moderne Vendée.
+  en: ''
+  joined_to: VII.19.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '199'
+- id: VII.20.1
+  kind: p
+  original: Die dreijährige harte Herrschaft der parlamentarischen Republik hatte einen Teil der französischen Bauern von der napoleonischen Illusion befreit und, wenn auch nur oberflächlich, revolutioniert; aber die Bourgeoisie warf sie gewaltsam zurück, sooft sie sich in Bewegung setzten.
+  en: The three years' severe rule of the parliamentary republic had freed a part of the French farmers from the Napoleonic illusion, and, though even only superficially; had revolutionized them The bourgeoisie threw them, however, violently back every time that they set themselves in motion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: VII.20.2
+  kind: p
+  original: Unter der parlamentarischen Republik rang das moderne mit dem traditionellen Bewußtsein der französischen Bauern.
+  en: Under the parliamentary republic, the modern wrestled with the traditional consciousness of the French farmer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+- id: VII.20.3
+  kind: p
+  original: Der Prozeß ging vor sich in der Form eines unaufhörlichen Kampfes zwischen den Schulmeistern und den Pfaffen.
+  en: The process went on in the form of a continuous struggle between the school teachers and the parsons;--the bourgeoisie knocked the school teachers down.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '199'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.20.4
+  kind: p
+  original: Die Bourgeoisie schlug die Schulmeister nieder.
+  en: ''
+  joined_to: VII.20.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '199'
+- id: VII.20.5
+  kind: p
+  original: Die Bauern machten zum ersten Mal Anstrengungen, der Regierungstätigkeit gegenüber sich selbständig zu verhalten.
+  en: For the first time, the farmer made an effort to take an independent stand in the government of the country; this manifested itself in the prolonged conflicts of the Mayors with the Prefects;--the bourgeoisie deposed the Mayors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 199-200
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: VII.20.6
+  kind: p
+  original: Es erschien dies in dem fortgesetzten Konflikte der Maires mit den Präfekten.
+  en: ''
+  joined_to: VII.20.5
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '200'
+- id: VII.20.7
+  kind: p
+  original: Die Bourgeoisie setzte die Maires ab.
+  en: ''
+  joined_to: VII.20.5
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '200'
+- id: VII.20.8
+  kind: p
+  original: Endlich erhoben sich die Bauern verschiedener Orte während der Periode der parlamentarischen Republik gegen ihre eigne Ausgeburt, die Armee.
+  en: Finally, during period of the parliamentary republic, the farmers of several localities rose against their own product, the Army;--the bourgeoisie punished them with states of siege and executions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.20.9
+  kind: p
+  original: Die Bourgeoisie bestrafte sie mit Belagerungszuständen und Exekutionen.
+  en: ''
+  joined_to: VII.20.8
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '200'
+- id: VII.20.10
+  kind: p
+  original: Und dieselbe Bourgeoisie schreit jetzt über die Stupidität der Massen, der vile multitude <des gemeinen Pöbels>, die sie an Bonaparte verraten habe.
+  en: And this is the identical bourgeoisie, that now howls over the "stupidity of the masses," over the "vile multitude," which, it claims, betrayed it to Bonaparte.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: VII.20.11
+  kind: p
+  original: Sie selbst hat den Imperialismus der Bauernklasse gewaltsam befestigt, sie hielt die Zustände fest, die die Geburtsstätte dieser Bauernreligion bilden.
+  en: Itself has violently fortified the imperialism of the farmer class; it firmly maintained the conditions that Constitute the birth-place of this farmer-religion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: VII.20.12
+  kind: p
+  original: Allerdings muß die Bourgeoisie die Dummheit der Massen fürchten, solange sie konservativ bleiben, und die Einsicht der Massen, sobald sie revolutionär werden.
+  en: Indeed, the bourgeoisie has every reason to fear the stupidity of the masses--so long as they remain conservative; and their intelligence--so soon as they become revolutionary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: VII.21.1
+  kind: p
+  original: In den Aufständen nach dem coup d'état protestierte ein Teil der französischen Bauern mit den Waffen in der Hand gegen sein eignes Votum vom 10. Dezember 1848.
+  en: In the revolts that took place after the "coup d'etat" a part of the French farmers protested, arms in hand, against their own vote of December 10, 1848.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: VII.21.2
+  kind: p
+  original: Die Schule seit 1848 hatte sie gewitzigt.
+  en: The school house had, since 1848, sharpened their wits.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: VII.21.3
+  kind: p
+  original: Allein sie hatten sich der geschichtlichen Unterwelt verschrieben, die Geschichte hielt sie beim Worte, und noch war die Mehrzahl so befangen, daß gerade in den rotesten Departements die Bauernbevölkerung öffentlich für Bonaparte stimmte.
+  en: But they had bound themselves over to the nether world of history, and history kept them to their word. Moreover, the majority of this population was still so full of prejudices that, just in the "reddest" Departments, it voted openly for Bonaparte.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.21.4
+  kind: p
+  original: Die Nationalversammlung hatte ihn nach ihrer Ansicht am Gehen verhindert.
+  en: The National Assembly prevented, as it thought, this population from walking; the farmers now snapped the fetters which the cities had struck upon the will of the country districts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.21.5
+  kind: p
+  original: Er hatte jetzt nur die Fessel gebrochen, die die Städte dem Willen des Landes angelegt.
+  en: ''
+  joined_to: VII.21.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '200'
+- id: VII.21.6
+  kind: p
+  original: 'Sie trugen sich stellenweise sogar mit der grotesken Vorstellung: neben einem Napoleon ein Konvent.'
+  en: In some places they even indulged the grotesque hallucination of a "Convention together with a Napoleon."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: VII.22.1
+  kind: p
+  original: Nachdem die erste Revolution die halbhörigen Bauern in freie Grundeigentümer verwandelt hatte, befestigte und regelte Napoleon die Bedingungen, worin sie ungestört den eben erst ihnen anheimgefallenen Boden Frankreichs ausbeuten und die jugendliche Lust am Eigentum büßen konnten.
+  en: After the first revolution had converted the serf farmers into freeholders, Napoleon fixed and regulated the conditions under which, unmolested, they could exploit the soil of France, that had just fallen into their hands, and expiate the youthful passion for property.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: VII.22.2
+  kind: p
+  original: Aber woran der französische Bauer jetzt untergeht, es ist seine Parzelle selbst, die Teilung des Grund und Bodens, die Eigentumsform, die Napoleon in Frankreich konsolidierte.
+  en: But that which now bears the French farmer down is that very allotment of land, it is the partition of the soil, the form of ownership, which Napoleon had consolidated.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: VII.22.3
+  kind: p
+  original: Es sind eben die materiellen Bedingungen, die den französischen Feudalbauer zum Parzellenbauer und Napoleon zum Kaiser machten.
+  en: These are the material condition that turned French feudal peasant into a small or allotment farmer, and Napoleon into an Emperor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+- id: VII.22.4
+  kind: p
+  original: 'Zwei Generationen haben hingereicht, um das unvermeidliche Resultat zu erzeugen: progressive Verschlechterung des Ackerbaus, progressive Verschuldung des Ackerbauers.'
+  en: Two generations have sufficed to produce the inevitable result the progressive deterioration of agriculture, and the progressive encumbering of the agriculturist The "Napoleonic" form of ownership, which, at the beginning of the nineteenth century was the condition for the emancipation and enrichment of the French rural population, has, in the course of the century, developed into the law of their enslavement and pauperism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '200'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.22.5
+  kind: p
+  original: Die "Napoleonische" Eigentumsform, die im Anfange des neunzehnten Jahrhunderts die Bedingung für die Befreiung und die Bereicherung des französischen Landvolks war, hat sich im Laufe dieses Jahrhunderts als das Gesetz ihrer Sklaverei und ihres Pauperismus entwickelt.
+  en: ''
+  joined_to: VII.22.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '200'
+- id: VII.22.6
+  kind: p
+  original: Und eben dies Gesetz ist die erste der "idées napoléoniennes", die der zweite Bonaparte zu behaupten hat.
+  en: Now, then, this very law is the first of the "idees Napoleoniennes," which the second Bonaparte must uphold.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 200-201
+- id: VII.22.7
+  kind: p
+  original: Wenn er mit den Bauern noch die Illusion teilt, nicht im Parzelleneigentum selbst, sondern außerhalb, im Einflusse sekundärer Umstände die Ursache ihres Ruins zu suchen, so werden seine Experimente wie Seifenblasen an den Produktionsverhältnissen zerschellen.
+  en: If he still shares with the farmers the illusion of seeking, not in the system of the small allotment itself, but outside of that system, in the influence of secondary conditions, the cause of their ruin, his experiments are bound to burst like soap-bubbles against the modern system of production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.1
+  kind: p
+  original: Die ökonomische Entwicklung des Parzelleneigentums hat das Verhältnis der Bauern zu den übrigen Gesellschaftsklassen von Grund auf verkehrt.
+  en: The economic development of the allotment system has turned bottom upward the relation of the farmer to the other classes of society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.2
+  kind: p
+  original: Unter Napoleon ergänzte die Parzellierung des Grund und Bodens auf dem Lande die freie Konkurrenz und die beginnende große Industrie in den Städten.
+  en: Under Napoleon, the parceling out of the agricultural lands into small allotments supplemented in the country the free competition and the incipient large production of the cities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.3
+  kind: p
+  original: Die Bauernklasse war der allgegenwärtige Protest gegen die eben erst gestürzte Grundaristokratie.
+  en: The farmer class was the ubiquitous protest against the aristocracy of land, just then overthrown.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.4
+  kind: p
+  original: Die Wurzeln, die das Parzelleneigentum in dem französischen Grund und Boden schlug, entzogen dem Feudalismus jeden Nahrungsstoff.
+  en: The roots that the system of small allotments cast into the soil of France, deprived feudalism of all nutriment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.5
+  kind: p
+  original: Seine Grenzpfähle bildeten das natürliche Befestigungswerk der Bourgeoisie gegen jeden Handstreich ihrer alten Oberherrn.
+  en: Its boundary-posts constituted the natural buttress of the bourgeoisie against every stroke of the old overlords.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.6
+  kind: p
+  original: Aber im Laufe des neunzehnten Jahrhunderts trat an die Stelle des Feudalen der städtische Wucherer, an die Stelle des aristokratischen Grundeigentums das bürgerliche Kapital.
+  en: But in the course of the nineteenth century, the City Usurer stepped into the shoes of the Feudal Lord, the Mortgage substituted the Feudal Duties formerly yielded by the soil, bourgeois Capital took the place of the aristocracy of Landed Property.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.7
+  kind: p
+  original: Die Parzelle des Bauern ist nur noch der Vorwand, der dem Kapitalisten erlaubt, Profit, Zinsen und Rente von dem Acker zu ziehn und den Ackerbauer selbst zusehn zu lassen, wie er seinen Arbeitslohn herausschlägt.
+  en: The former allotments are now only a pretext that allows the capitalist class to draw profit, interest and rent from agricultural lands, and to leave to the farmer himself the task of seeing to it that he knock out his wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.8
+  kind: p
+  original: Die auf dem französischen Boden lastende Hypothekarschuld legt der französischen Bauernschaft einen Zins auf, so groß wie der Jahreszins der gesamten britischen Nationalschuld.
+  en: The mortgage indebtedness that burdens the soil of France imposes upon the French farmer class they payment of an interest as great as the annual interest on the whole British national debt.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.9
+  kind: p
+  original: Das Parzelleneigentum in dieser Sklaverei vom Kapital, wozu seine Entwicklung unvermeidlich hindrängt, hat die Masse der französischen Nation in Troglodyten verwandelt.
+  en: In this slavery of capital, whither its development drives it irresistibly, the allotment system has transformed the mass of the French nation into troglodytes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.10
+  kind: p
+  original: Sechzehn Millionen Bauern (Frauen und Kinder eingerechnet) hausen in Höhlen, wovon ein großer Teil nur eine Öffnung, der andre nur zwei, und der bevorzugteste nur drei Öffnungen hat.
+  en: Sixteen million farmers (women and children included), house in hovels most of which have only one opening, some two, and the few most favored ones three.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.11
+  kind: p
+  original: Die Fenster sind an einem Haus, was die fünf Sinne für den Kopf sind.
+  en: Windows are to a house what the five senses are to the head.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.12
+  kind: p
+  original: Die bürgerliche Ordnung, die im Anfange des Jahrhunderts den Staat als Schildwache vor die neuentstandene Parzelle stellte und sie mit Lorbeeren düngte, ist zum Vampyr geworden, der ihr Herzblut und Hirnmark aussaugt und sie in den Alchimistenkessel des Kapitals wirft.
+  en: The bourgeois social order, which, at the beginning of the century, placed the State as a sentinel before the newly instituted allotment, and that manured this with laurels, has become a vampire that sucks out its heart-blood and its very brain, and throws it into the alchemist's pot of capital.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.13
+  kind: p
+  original: Der Code Napoléon ist nur noch der Kodex der Exekution, der Subhastation und der Zwangsversteigerung.
+  en: The "Code Napoleon" is now but the codex of execution, of sheriff's sales and of intensified taxation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.14
+  kind: p
+  original: Zu den vier Millionen (Kinder usw. eingerechnet) offiziellen Paupers, Vagabunden, Verbrecher und Prostituierten, die Frankreich zählt, kommen fünf Millionen hinzu, die an dem Abgrunde der Existenz schweben und entweder auf dem Lande selbst hausen oder beständig mit ihren Lumpen und ihren Kindern von dem Lande in die Städte und von den Städten auf das Land desertieren.
+  en: To the four million (children, etc., included) official paupers, vagabonds, criminals and prostitutes, that France numbers, must be added five million souls who hover over the precipice of life, and either sojourn in the country itself, or float with their rags and their children from the country to the cities, and from the cities back to the country.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '201'
+- id: VII.23.15
+  kind: p
+  original: Das Interesse der Bauern befindet sich also nicht mehr, wie unter Napoleon, im Einklange, sondern im Gegensatze mit den Interessen der Bourgeoisie, mit dem Kapital.
+  en: Accordingly, the interests of the farmers are no longer, as under Napoleon, in harmony but in conflict with the interests of the bourgeoisie, i.e., with capital; they find their natural allies and leaders among the urban proletariat, whose mission is the overthrow of the bourgeois social order.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 201-202
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.23.16
+  kind: p
+  original: Sie finden also ihren natürlichen Verbündeten und Führer in dem städtischen Proletariat, dessen Aufgabe der Umsturz der bürgerlichen Ordnung ist.
+  en: ''
+  joined_to: VII.23.15
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '202'
+- id: VII.23.17
+  kind: p
+  original: Aber die starke und unumschränkte Regierung - und dies ist die zweite "idée napoléonienne", die der zweite Napoleon auszuführen hat - ist zur gewaltsamen Verteidigung dieser "materiellen" Ordnung berufen.
+  en: But the "strong and unlimited government"--and this is the second of the "idees Napoleoniennes," which the second Napoleon has to carried out--, has for its mission the forcible defence of this very "material" social order, a "material order" that furnishes the slogan in Bonaparte's proclamations against the farmers in revolt.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s); regrouped by the ingest (see REALIGN)
+- id: VII.23.18
+  kind: p
+  original: Auch gibt dieser "ordre matériel" <diese "materielle Ordnung"> in allen Proklamationen Bonapartes gegen die aufrührerischen Bauern das Stichwort ab.
+  en: ''
+  joined_to: VII.23.17
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '202'
+- id: VII.24.1
+  kind: p
+  original: Neben der Hypothek, die das Kapital ihr auferlegt, lastet auf der Parzelle die Steuer.
+  en: Along with the mortgage, imposed by capital upon the farmer's allotment, this is burdened by taxation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: VII.24.2
+  kind: p
+  original: Die Steuer ist die Lebensquelle der Bürokratie, der Armee, der Pfaffen und des Hofes, kurz, des ganzen Apparats der Exekutivgewalt.
+  en: Taxation is the fountain of life to the bureaucracy, the Army, the parsons and the court, in short to the whole apparatus of the Executive power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: VII.24.3
+  kind: p
+  original: Starke Regierung und starke Steuer sind identisch.
+  en: A strong government, and heavy taxes are identical.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: VII.24.4
+  kind: p
+  original: Das Parzelleneigentum eignet sich seiner Natur nach zur Grundlage einer allgewaltigen und zahllosen Bürokratie.
+  en: 'The system of ownership, involved in the system of allotments lends itself by nature for the groundwork of a powerful and numerous bureaucracy: it produces an even level of conditions and of persons over the whole surface of the country; it, therefore, allows the exercise of an even influence upon all parts of this even mass from a high central point downwards: it annihilates the aristocratic gradations between the popular masses and the Government; it, consequently, calls from all sides for the direct intervention of the Government and for the intervention of the latter''s immediate organs; and, finally, it produces an unemployed excess of population, that finds no room either in the country or in the cities, that, consequently, snatches after public office as a sort of dignified alms, and provokes the creation of further offices.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+  align: '6:1'
+  review: true
+  review_reason: 6 de sentence(s) matched to 1 en sentence(s); regrouped by the ingest (see REALIGN)
+- id: VII.24.5
+  kind: p
+  original: Es schafft ein gleichmäßiges Niveau der Verhältnisse und der Personen über der ganzen Oberfläche des Landes.
+  en: ''
+  joined_to: VII.24.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '202'
+- id: VII.24.6
+  kind: p
+  original: Es erlaubt also auch die gleichmäßige Einwirkung nach allen Punkten dieser gleichmäßigen Masse von einem obersten Zentrum aus.
+  en: ''
+  joined_to: VII.24.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '202'
+- id: VII.24.7
+  kind: p
+  original: Es vernichtet die aristokratischen Mittelstufen zwischen der Volksmasse und der Staatsgewalt.
+  en: ''
+  joined_to: VII.24.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '202'
+- id: VII.24.8
+  kind: p
+  original: Es ruft also von allen Seiten das direkte Eingreifen dieser Staatsgewalt und das Zwischenschieben ihrer unmittelbaren Organe hervor.
+  en: ''
+  joined_to: VII.24.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '202'
+- id: VII.24.9
+  kind: p
+  original: Es erzeugt endlich eine unbeschäftigte Überbevölkerung, die weder auf dem Lande noch in den Städten Platz findet und daher nach den Staatsämtern als einer Art von respektablem Almosen greift und die Schöpfung von Staatsämtern provoziert.
+  en: ''
+  joined_to: VII.24.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '202'
+- id: VII.24.10
+  kind: p
+  original: Napoleon gab in den neuen Märkten, die er mit dem Bajonette eröffnete, in der Plünderung des Kontinents, die Zwangssteuer mit Zinsen zurück.
+  en: With the new markets, which he opened at the point of the bayonet, and with the plunder of the continent, Napoleon returned to the farmer class with interest the taxes wrung from them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: VII.24.11
+  kind: p
+  original: Sie war ein Stachel für die Industrie des Bauern, während sie jetzt seine Industrie der letzten Hülfsquellen beraubt, seine Widerstandslosigkeit gegen den Pauperismus vollendet.
+  en: These taxes were then a goad to the industry of the farmer, while now, on the contrary, they rob his industry of its last source of support, and completely sap his power to resist poverty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: VII.24.12
+  kind: p
+  original: Und eine enorme Bürokratie, wohlgaloniert und wohlgenährt, ist die "idée napoléonienne", die dem zweiten Bonaparte von allen am meisten zusagt.
+  en: Indeed, an enormous bureaucracy, richly gallooned and well fed is that "idee Napoleonienne" that above all others suits the requirements of the second Bonaparte.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: VII.24.13
+  kind: p
+  original: Wie sollte sie auch nicht, da er gezwungen ist, neben den wirklichen Klassen der Gesellschaft eine künstliche Kaste zu schaffen, für welche die Erhaltung seines Regimes zur Messer- und Gabelfrage wird.
+  en: How else should it be, seeing he is forced to raise alongside of the actual classes of society, an artificial class, to which the maintenance of his own regime must be a knife-and-fork question?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: VII.24.14
+  kind: p
+  original: Eine seiner ersten Finanzoperationen war daher auch die Wiedererhöhung der Beamtengehalte auf ihren alten Betrag und die Schöpfung neuer Sinekuren.
+  en: One of his first financial operations was, accordingly, the raising of the salaries of the government employees to their former standard and the creation of new sinecures.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: VII.25.1
+  kind: p
+  original: Eine andre "idée napoléonienne" ist die Herrschaft der Pfaffen als Regierungsmittel.
+  en: Another "idee Napoleonienne" is the rule of the parsons as an instrument of government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '202'
+- id: VII.25.2
+  kind: p
+  original: Aber wenn die neuentstandene Parzelle in ihrem Einklang mit der Gesellschaft, in ihrer Abhängigkeit von den Naturgewalten und ihrer Unterwerfung unter die Autorität, die sie von oben beschützte, natürlich religiös war, wird die schuldzerrüttete, mit der Gesellschaft und der Autorität zerfallene, über ihre eigne Beschränktheit hinausgetriebene Parzelle natürlich irreligiös.
+  en: But while the new-born allotment, in harmony with society, in its dependence upon the powers of nature, and in its subordination to the authority that protected it from above, was naturally religious, the debt-broken allotment, on the contrary, at odds with society and authority, and driven beyond its own narrow bounds, becomes as naturally irreligious.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 202-203
+- id: VII.25.3
+  kind: p
+  original: Der Himmel war eine ganz schöne Zugabe zu dem eben gewonnenen schmalen Erdstrich, zumal da er das Wetter macht; er wird zum Insult, sobald er als Ersatz für die Parzelle aufgedrängt wird.
+  en: Heaven was quite a pretty gift thrown in with the narrow strip of land that had just been won, all the more as it makes the weather; it, however, becomes an insult from the moment it is forced upon the farmer as a substitute for his allotment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.25.4
+  kind: p
+  original: Der Pfaffe erscheint dann nur noch als der gesalbte Spürhund der irdischen Polizei - eine andre "idée napoléonienne".
+  en: Then the parson appears merely as the anointed blood-hound of the earthly police,--yet another "idee Napoleonienne."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.25.5
+  kind: p
+  original: Die Expedition gegen Rom wird das nächste Mal in Frankreich selbst stattfinden, aber im umgekehrten Sinne des Herrn von Montalembert.
+  en: The expedition against Rome will next time take place in France, but in a reverse sense from that of M. de Montalembert.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.26.1
+  kind: p
+  original: Der Kulminationspunkt der "idées napoléoniennes" endlich ist das Übergewicht der Armee.
+  en: Finally, the culminating point of the "idees Napoleoniennes" is the preponderance of the Army.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.26.2
+  kind: p
+  original: Die Armee war der point d'honneur <Ehrenpunkt> der Parzellenbauern, sie selbst in Heroen verwandelt, nach außen hin den neuen Besitz verteidigend, ihre eben erst errungene Nationalität verherrlichend, die Welt plündernd und revolutionierend.
+  en: 'The Army was the "point of honor" with the allotment farmers: it was themselves turned into masters, defending abroad their newly established property, glorifying their recently conquered nationality, plundering and revolutionizing the world.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.26.3
+  kind: p
+  original: Die Uniform war ihr eignes Staatskostüm, der Krieg ihre Poesie, die in der Phantasie verlängerte und abgerundete Parzelle das Vaterland und der Patriotismus die ideale Form des Eigentumssinnes.
+  en: The uniform was their State costume; war was their poetry; the allotment, expanded and rounded up in their phantasy, was the fatherland; and patriotism became the ideal form of property.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.26.4
+  kind: p
+  original: Aber die Feinde, wogegen der französische Bauer jetzt sein Eigentum zu verteidigen hat, es sind nicht die Kosaken, es sind die Huissiers <Gerichtsvollzieher> und die Steuerexekutoren.
+  en: But the foe, against whom the French farmer must now defend his property, are not the Cossacks, they are the sheriffs and the tax collectors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.26.5
+  kind: p
+  original: Die Parzelle liegt nicht mehr im sogenannten Vaterland, sondern im Hypothekenbuch.
+  en: The allotment no longer lies in the so-called fatherland, but in the register of mortgages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.26.6
+  kind: p
+  original: Die Armee selbst ist nicht mehr sie Blüte der Bauernjugend, sie ist die Sumpfblüte des bäuerlichen Lumpenproletariats.
+  en: The Army itself no longer is the flower of the youth of the farmers, it is the swamp-blossom of the slum-proletariat of the farmer class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.26.7
+  kind: p
+  original: Sie besteht größtenteils aus Remplaçants, aus Ersatzmännern, wie der zweite Bonaparte selbst nur Remplaçant, der Ersatzmann für Napoleon ist.
+  en: It consists of "remplacants," substitutes, just as the second Bonaparte himself is but a "remplacant," a substitute, for Napoleon.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.26.8
+  kind: p
+  original: Ihre Heldentaten verrichtet sie jetzt in den Gems- und Treibjagden auf die Bauern, im Gendarmendienst, und wenn die innern Widersprüche seines Systems den Chef der Gesellschaft des 10. Dezember über die französischen Grenze jagen, wird sie nach einigen Banditenstreichen keine Lorbeeren, sondern Prügel ernten.
+  en: Its feats of heroism are now performed in raids instituted against farmers and in the service of the police;--and when the internal contradictions of his own system shall drive the chief of the "Society of December 10" across the French frontier, that Army will, after a few bandit-raids, gather no laurels but only hard knocks.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.27.1
+  kind: p
+  original: 'Man sieht: Alle "idées napoléoniennes" sind Ideen der unentwickelten, jugendfrischen Parzelle, sie sind ein Widersinn für die überlebte Parzelle.'
+  en: It is evident that all the "idees Napoleoniennes" are the ideas of the undeveloped and youthfully fresh allotment; they are an absurdity for the allotment that now survives.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.27.2
+  kind: p
+  original: Sie sind nur die Halluzinationen ihres Todeskampfes, Worte, die in Phrasen, Geister, die in Gespenster verwandelt.
+  en: They are only the hallucinations of its death struggle; words turned to hollow phrases, spirits turned to spooks.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.27.3
+  kind: p
+  original: Aber die Parodie des Imperialismus war notwendig, um die Masse der französischen Nation von der Wucht der Tradition zu befreien und den Gegensatz der Staatsgewalt zur Gesellschaft rein herauszuarbeiten.
+  en: But this parody of the Empire was requisite in order to free the mass of the French nation from the weight of tradition, and to elaborate sharply the contrast between Government and Society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '203'
+- id: VII.27.4
+  kind: p
+  original: Mit der fortschreitenden Zerrüttung des Parzelleneigentums bricht das auf ihm aufgeführte Staatsgebäude zusammen.
+  en: Along with the progressive decay of the allotment, the governmental structure, reared upon it, breaks down.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 203-204
+- id: VII.27.5
+  kind: p
+  original: Die staatliche Zentralisation, deren die moderne Gesellschaft bedarf, erhebt sich nur auf den Trümmern der militärisch-bürokratischen Regierungsmaschinerie, die im Gegensatz zum Feudalismus geschmiedet ward.
+  en: The centralization of Government, required by modern society, rises only upon the ruins of the military and bureaucratic governmental machinery that was forged in contrast to feudalism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: '1852'
+    editions: 1852 (first edition, New York)
+    reading: 'the paragraph goes on: Die Zertrümmerung der Staatsmaschinerie wird die Zentralisation nicht gefährden. Die Bürokratie ist nur die niedrige und brutale Form einer Zentralisation, die noch mit ihrem Gegensatze, dem Feudalismus, behaftet ist. Mit der Verzweiflung an der napoleonischen Restauration scheidet der französische Bauer von dem Glauben an seine Parzelle, stürzt das ganze auf diese Parzelle aufgeführte Staatsgebäude zusammen und erhält die proletarische Revolution das Chor, ohne das ihr Sologesang in allen Bauernnationen zum Sterbelied wird.'
+    base_text: … zum Feudalismus geschmiedet ward. ‸
+  mew_page: '204'
+- id: VII.28.1
+  kind: p
+  original: Die französischen Bauernverhältnisse enthüllen uns das Rätsel der allgemeinen Wahlen vom 20. und 21. Dezember, die den zweiten Bonaparte auf den Berg Sinai führten, nicht um Gesetze zu erhalten, sondern um sie zu geben.
+  en: The conditions of the French farmers' class solve to us the riddle of the general elections of December 20 and 21, that led the second Bonaparte to the top of Sinai, not to receive, but to decree laws.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.29.1
+  kind: p
+  original: Die Bourgeoisie hatte jetzt offenbar keine andere Wahl, als Bonaparte zu wählen.
+  en: The bourgeoisie had now, manifestly, no choice but to elect Bonaparte.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.29.2
+  kind: p
+  original: 'Als die Puritaner auf dem Konzile von Konstanz über das lasterhafte Leben der Päpste klagten und über die Notwendigkeit der Sittenreform jammerten, donnerte der Kardinal Pierre d''Ailly ihnen zu: "Nur noch der Teufel in eigner Person kann die katholische Kirche retten, und ihr verlangt Engel."'
+  en: 'When at the Council of Constance, the puritans complained of the sinful life of the Popes, and moaned about the need of a reform in morals, Cardinal d''Ailly thundered into their faces: "Only the devil in his Own person can now save the Catholic Church, and you demand angels."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.29.3
+  kind: p
+  original: 'So rief die französische Bourgeoisie nach dem coup d''état: Nur noch der Chef der Gesellschaft vom 10. Dezember kann die bürgerliche Gesellschaft retten!'
+  en: 'So, likewise, did the French bourgeoisie cry out after the "coup d''etat": "Only the chief of the ''Society of December 10'' can now save bourgeois society, only theft can save property, only perjury religion, only bastardy the family, only disorder order!"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.29.4
+  kind: p
+  original: Nur noch der Diebstahl das Eigentum, der Meineid die Religion, das Bastardtum die Familie, die Unordnung die Ordnung!
+  en: ''
+  joined_to: VII.29.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '204'
+- id: VII.30.1
+  kind: p
+  original: Bonaparte als die verselbständigte Macht der Exekutivgewalt fühlt seinen Beruf, die "bürgerliche Ordnung" sicherzustellen.
+  en: Bonaparte, as autocratic Executive power, fulfills his mission to secure "bourgeois order."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.30.2
+  kind: p
+  original: Aber die Stärke dieser bürgerlichen Ordnung ist die Mittelklasse.
+  en: But the strength of this bourgeois order lies in the middle class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.30.3
+  kind: p
+  original: Er weiß sich daher als Repräsentant der Mittelklasse und erläßt Dekrete in diesem Sinne.
+  en: He feels himself the representative of the middle class, and issues his decrees in that sense.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.30.4
+  kind: p
+  original: Er ist jedoch nur dadurch etwas, daß er die politische Macht dieser Mittelschicht gebrochen hat und täglich von neuem bricht.
+  en: Nevertheless, he is something only because he has broken the political power of this class, and daily breaks it anew.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.30.5
+  kind: p
+  original: Er weiß sich daher als Gegner der politischen und literarischen Macht der Mittelklasse.
+  en: Hence he feels himself the adversary of the political and the literary power of the middle class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.30.6
+  kind: p
+  original: Aber indem er ihre materielle Macht beschützt, erzeugt er von neuem ihre politische Macht.
+  en: But, by protecting their material, he nourishes anew their political power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.30.7
+  kind: p
+  original: Die Ursache muß daher am Leben erhalten, aber die Wirkung, wo sie sich zeigt, aus der Welt geschafft werden.
+  en: Consequently, the cause must be kept alive, but the result, wherever it manifests itself, swept out of existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.30.8
+  kind: p
+  original: Aber ohne kleine Verwechslungen von Ursache und Wirkung kann dies nicht abgehn, da beide in der Wechselwirkung ihre Unterscheidungsmerkmale verlieren.
+  en: But this procedure is impossible without slight mistakings of causes and effects, seeing that both, in their mutual action and reaction, lose their distinctive marks.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.30.9
+  kind: p
+  original: Neue Dekrete, die die Grenzlinie verwischen.
+  en: Thereupon, new decrees, that blur the line of distinction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '204'
+- id: VII.30.10
+  kind: p
+  original: Bonaparte weiß sich zugleich gegen die Bourgeoisie als Vertreter der Bauern und des Volkes überhaupt, der innerhalb der bürgerlichen Gesellschaft die untern Volksklassen beglücken will.
+  en: Bonaparte, furthermore, feels himself, as against the bourgeoisie, the representative of the farmer and the people in general, who, within bourgeois society, is to render the lower classes of society happy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 204-205
+- id: VII.30.11
+  kind: p
+  original: Neue Dekrete, die die "wahren Sozialisten" im voraus um ihre Regierungsweiheit prellen.
+  en: To this end, new decrees, intended to exploit the "true Socialists," together with their governmental wisdom.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: VII.30.12
+  kind: p
+  original: Aber Bonaparte weiß sich vor allem als Chef der Gesellschaft vom 10. Dezember, als Repräsentanten des Lumpenproletariats, dem er selbst, seine entourage <Umgebung>, seine Regierung und seine Armee angehören und für das es sich vor allem darum handelt, sich wohlzutun und kalifornische Lose aus dem Staatsschatze zu ziehn.
+  en: But, above all, Bonaparte feels himself the chief of the "Society of December 10," the representative of the slum-proletariat, to which he himself, his immediate surroundings, his Government, and his army alike belong, the main object with all of whom is to be good to themselves, and draw Californian tickets out of the national treasury.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: VII.30.13
+  kind: p
+  original: Und er bestätigt sich als Chef der Gesellschaft vom 10. Dezember mit Dekreten, ohne Dekrete und trotz der Dekrete.
+  en: An he affirms his chieftainship of the "Society of December 10" with decrees, without decrees, and despite decrees.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: VII.31.1
+  kind: p
+  original: Diese widerspruchsvolle Aufgabe des Mannes erklärt die Widersprüche seiner Regierung, das unklare Hinundhertappen, das bald diese, bald jene Klasse zu gewinnen, bald zu demütigen sucht und alle gleichmäßig gegen sich aufbringt, dessen praktische Unsicherheit einen hochkomischen Kontrast bildet zu dem gebieterischen, kategorischen Stile der Regierungsakte, der dem Onkel folgsam nachkopiert wird.
+  en: This contradictory mission of the man explains the contradictions of his own Government, and that confused groping about, that now seeks to win, then to humiliate now this class and then that, and finishes by arraying against itself all the classes; whose actual insecurity constitutes a highly comical contrast with the imperious, categoric style of the Government acts, copied closely from the Uncle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: VII.32.1
+  kind: p
+  original: Industrie und Handel, also die Geschäfte der Mittelklasse, sollen unter der starken Regierung treibhausmäßig aufblühn.
+  en: Industry and commerce, i.e., the business of the middle class, are to be made to blossom in hot-house style under the "strong Government."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: VII.32.2
+  kind: p
+  original: Verleihen einer Unzahl von Eisenbahnkonzessionen.
+  en: Loans for a number of railroad grants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: VII.32.3
+  kind: p
+  original: Aber das bonapartistische Lumpenproletariat soll sich bereichern.
+  en: But the Bonapartist slum-proletariat is to enrich itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+- id: VII.32.4
+  kind: p
+  original: Tripotage mit den Eisenbahnkonzessionen auf der Börse von den vorher Eingeweihten.
+  en: Peculation is carried on with railroad concessions on the Bourse by the initiated; but no capital is forthcoming for the railroads.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.32.5
+  kind: p
+  original: Aber es zeigt sich kein Kapital für die Eisenbahnen.
+  en: ''
+  joined_to: VII.32.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: VII.32.6
+  kind: p
+  original: Verpflichtung der Bank, auf Eisenbahnaktien vorzuschießen.
+  en: The bank then pledges itself to make advances upon railroad stock; but the bank is itself to be exploited; hence, it must be cajoled; it is released of the obligation to publish its reports weekly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: VII.32.7
+  kind: p
+  original: Aber die Bank soll zugleich persönlich exploitiert und daher kajoliert werden.
+  en: ''
+  joined_to: VII.32.6
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: VII.32.8
+  kind: p
+  original: Entbindung der Bank von der Pflicht, ihren Bericht wöchentlich zu veröffentlichen.
+  en: ''
+  joined_to: VII.32.6
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: VII.32.9
+  kind: p
+  original: Leoninischer Vertrag der Bank mit der Regierung.
+  en: Then follows a leonine treaty between the bank and the Government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.32.10
+  kind: p
+  original: Das Volk soll beschäftigt werden.
+  en: ''
+  joined_to: VII.32.9
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: VII.32.11
+  kind: p
+  original: Anordnungen von Staatsbauten.
+  en: 'The people are to be occupied: public works are ordered; but the public works raise the tax rates upon the people; thereupon the taxes are reduced by an attack upon the national bond-holders through the conversion of the five per cent "rentes" into four-and-halves.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  en_note: 'De Leon''s note [9]: The name of the French national bonds.'
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: VII.32.12
+  kind: p
+  original: Aber die Staatsbauten erhöhen die Steuerpflichten des Volkes.
+  en: ''
+  joined_to: VII.32.11
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: VII.32.13
+  kind: p
+  original: Also Herabsetzung der Steuern durch Angriff auf die Rentiers, durch Konvertierung der fünfprozentigen Renten in viereinhalbprozentige.
+  en: ''
+  joined_to: VII.32.11
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: VII.32.14
+  kind: p
+  original: Aber der Mittelstand muß wieder ein douceur <Zuckerbrot> erhalten.
+  en: 'Yet the middle class must again be tipped: to this end, the tax on wine is doubled for the people, who buy it at retail, and is reduced to one-half for the middle class, that drink it at wholesale.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.32.15
+  kind: p
+  original: Also Verdoppelung der Weinsteuer für das Volk, das ihn en détail kauft, und Herabsetzung um die Hälfte für den Mittelstand, der ihn en gros trinkt.
+  en: ''
+  joined_to: VII.32.14
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: VII.32.16
+  kind: p
+  original: Auflösung der wirklichen Arbeiterassoziationen, aber Verheißung von künftigen Assoziationswundern.
+  en: Genuine labor organizations are dissolved, but promises are made of future wonders to accrue from organization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.32.17
+  kind: p
+  original: Den Bauern soll geholfen werden.
+  en: ''
+  joined_to: VII.32.16
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: VII.32.18
+  kind: p
+  original: Hypothekenbanken, die ihre Verschuldung und die Konzentration des Eigentums beschleunigen.
+  en: 'The farmers are to be helped: mortgage-banks are set up that must promote the indebtedness; of the farmer and the concentration of property but again, these banks are to be utilized especially to the end of squeezing money out of the confiscated estates of the House of Orleans; no capitalist will listen to this scheme, which, moreover, is not mentioned in the decree; the mortgage bank remains a mere decree, etc., etc.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '205'
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: VII.32.19
+  kind: p
+  original: Aber diese Banken sollen benutzt werden, um Geld aus den konfiszierten Gütern des Hauses Orléans herauszuschlagen.
+  en: ''
+  joined_to: VII.32.18
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: VII.32.20
+  kind: p
+  original: Kein Kapitalist will sich zu dieser Bedingung verstehn, die nicht in dem Dekrete steht, und die Hypothekenbank bleibt ein bloßes Dekret usw. usw.
+  en: ''
+  joined_to: VII.32.18
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '205'
+- id: VII.33.1
+  kind: p
+  original: Bonaparte möchte als der patriarchalische Wohltäter aller Klassen erscheinen.
+  en: Bonaparte would like to appear as the patriarchal benefactor of all classes; but he can give to none without taking from the others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.33.2
+  kind: p
+  original: Aber er kann keiner geben, ohne der andern zu nehmen.
+  en: ''
+  joined_to: VII.33.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '206'
+- id: VII.33.3
+  kind: p
+  original: Wie man zur Zeit der Fronde vom Herzog von Guise sagte, das er der obligeanteste Mann von Frankreich sei, weil er alle seine Güter in Obligationen seiner Partisanen gegen sich verwandelt habe, so möchte Bonaparte der obligeanteste Mann von Frankreich sein und alles Eigentum, alle Arbeit Frankreichs in eine persönliche Obligation gegen sich verwandeln.
+  en: As was said of the Duke of Guise, at the time of the Fronde, that he was the most obliging man in France because he had converted all his estates into bonds upon himself for his Parisians, so would Napoleon like to be the most obliging man in France and convert all property and all labor of France into a personal bond upon himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: VII.33.4
+  kind: p
+  original: Er möchte ganz Frankreich stehlen, um es an Frankreich verschenken, oder vielmehr um Frankreich mit französischen Gelde wiederkaufen zu können, denn als Chef des Gesellschaft vom 10. Dezember muß er kaufen, was ihm gehören soll.
+  en: He would like to steal the whole of France to make a present thereof to France, or rather to be able to purchase France back again with French money;--as chief of the "Society of December 10," he must purchase that which is to be his.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: VII.33.5
+  kind: p
+  original: Und zu dem Institute des Kaufens werden alle Staatsinstitute, der Senat, der Staatsrat, der gesetzgebende Körper, die Ehrenlegion, die Soldatenmedaille, die Waschhäuser, die Staatsbauten, die Eisenbahnen, der état-major <Stab> der Nationalgarde ohne Gemeine, die konfiszierten Güter des Hauses Orléans.
+  en: All the State institutions, the Senate, the Council of State, the Legislature, the Legion of Honor, the Soldiers' decorations, the public baths, the public buildings, the railroads, the General Staff of the National Guard, exclusive of the rank and file, the confiscated estates of the House of Orleans,--all are converted into institutions for purchase and sale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: VII.33.6
+  kind: p
+  original: Zum Kaufmittel wird jeder Platz in der Armee und der Regierungsmaschine.
+  en: Every place in the Army and the machinery of Government becomes a purchasing power.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: VII.33.7
+  kind: p
+  original: Das wichtigste aber bei diesem Prozesse, wo Frankreich genommen wird, um ihm zu geben, sind die Prozente, die während des Umsatzes auf das Haupt und die Glieder der Gesellschaft vom 10. Dezember abfallen.
+  en: The most important thing, however, in this process, whereby France is taken to be given back to herself, are the percentages that, in the transfer, drop into the hands of the chief and the members of the "Society of December 10."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: VII.33.8
+  kind: p
+  original: 'Das Witzwort, womit die Gräfin L., die Mätresse des Herrn de Morny, die Konfiskation der orleanistischen Güter charakterisierte: "C''est le premier vol de l''aigle" <Das ist der erste Flug (Diebstahl) des Adlers>, paßt auf jeden Flug dieses Adlers, der mehr Rabe ist.'
+  en: 'The witticisms with which the Countess of L., the mistress of de Morny, characterized the confiscations of the Orleanist estates: "C''est le premier vol de l''aigle," fits every fight of the eagle that is rather a crow.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N1
+  mew_page: '206'
+- id: VII.33.9
+  kind: p
+  original: 'Er selbst und seine Anhänger rufen sich täglich zu, wie jener italienische Kartäuser dem Geizhals, der prunkend die Güter aufzählte, an denen er noch für Jahre zu zehren habe: "Tu fai conto sopra i beni, bisogna prima far il conto sopra gli anni."'
+  en: 'He himself and his followers daily call out to themselves, like the Italian Carthusian monk in the legend does to the miser, who displayfully counted the goods on which he could live for many years to come: "Tu fai conto sopra i beni, bisogna prima far il conto sopra gli anni."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N2
+  mew_page: '206'
+- id: VII.33.10
+  kind: p
+  original: Um sich in den Jahren nicht zu verrechnen, zählen sie nach Minuten.
+  en: In order not to make a mistake in the years, they count by minutes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+- id: VII.33.11
+  kind: p
+  original: An den Hof, in die Ministerien, an die Spitze der Verwaltung und der Armee drängt sich ein Haufe von Kerlen, von deren bestem zu sagen ist, daß man nicht weiß, von wannen er kommt, eine geräuschvolle, anrüchige, plünderungslustige Boheme, die mit derselben grotesken Würde in galonierte Röcke kriecht wie Soulouques Großwürdenträger.
+  en: A crowd of fellows, of the best among whom all that can be said is that one knows not whence he comes--a noisy, restless "Boheme," greedy after plunder, that crawls about in gallooned frocks with the same grotesque dignity as Soulonque's Imperial dignitaries--, thronged the court crowded the ministries, and pressed upon the head of the Government and of the Army.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '206'
+  en_note: 'De Leon''s note [12]: Soulonque was the negro Emperor of the short-lived negro Empire of Hayti.'
+- id: VII.33.12
+  kind: p
+  original: Man kann diese höhere Schichte der Gesellschaft vom 10. Dezember sich anschaulich machen, wenn man erwägt, daß Véron-Crevel ihr Sittenprediger ist und Granier de Cassagnac ihr Denker.
+  en: One can picture to himself this upper crust of the "Society of December 10" by considering that Veron Crevel is their preacher of morality, and Granier de Cassagnac their thinker.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N3
+  mew_page: 206-207
+- id: VII.33.13
+  kind: p
+  original: 'Als Guizot zur Zeit seines Ministeriums diesen Granier in einem Winkelblatte gegen die dynastische Opposition verwandte, pflegte er ihn mit der Wendung zu rühmen: "C''est le roi des drôles", "das ist der Narrenkönig".'
+  en: 'When Guizot, at the time he was Minister, employed this Granier on an obscure sheet against the dynastic opposition, he used to praise him with the term: "C''est le roi des droles."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+  en_note: 'De Leon''s note [14]: "He Is the king of the clowns."'
+- id: VII.33.14
+  kind: p
+  original: Man hätte unrecht, bei dem Hofe und der Sippe Louis Bonapartes an die Regentschaft oder Ludwig XV. zu erinnern.
+  en: 'It were a mistake to recall the days of the Regency or of Louis XV. by the court and the kit of Louis Bonaparte''s: "Often did France have a mistress-administration, but never yet an administration of kept men."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+  en_note: De Leon attaches note VII.N4 here.
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.33.15
+  kind: p
+  original: Denn "schon oft hat Frankreich eine Mätressenregierung erlebt, aber noch nie eine Regierung von hommes entretenus <ausgehaltenen Männern>.
+  en: ''
+  joined_to: VII.33.14
+  modern: ''
+  modern_status: joined
+  notes: ''
+  footnotes:
+  - VII.N4
+  mew_page: '207'
+- id: VII.34.1
+  kind: p
+  original: Von den widersprechenden Forderungen dieser Situation gejagt, zugleich wie ein Taschenspieler in der Notwendigkeit, durch beständige Überraschung die Augen des Publikums auf sich als den Ersatzmann Napoleons gerichtet zu halten, also jeden Tag einen Staatsstreich en miniature zu verrichten, bringt Bonaparte die ganze bürgerliche Wirtschaft in Wirrwarr, tastet alles an, was der Revolution von 1848 unantastbar schien, macht die einen revolutionsgeduldig, die andern revolutionslustig und erzeugt die Anarchie selbst im Namen der Ordnung, während er zugleich der ganzen Staatsmaschine den Heiligenschein abstreift, sie profaniert, sie zugleich ekelhaft und lächerlich macht.
+  en: Harassed by the contradictory demands of his situation, and compelled, like a sleight-of-hands performer, to keep, by means of constant surprises, the eyes of the public riveted upon himself as the substitute of Napoleon, compelled, consequently, everyday to accomplish a sort of "coup" on a small scale, Bonaparte throws the whole bourgeois social system into disorder; he broaches everything that seemed unbroachable by the revolution of 1848; he makes one set people patient under the revolution and another anxious for it; he produces anarchy itself in the name of order by rubbing off from the whole machinery of Government the veneer of sanctity, by profaning it, by rendering it at once nauseating and laughable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: VII.34.2
+  kind: p
+  original: Den Kultus des heiligen Rocks zu Trier wiederholt er zu Paris im Kultus des napoleonischen Kaisermantels.
+  en: He rehearses in Paris the cult of the sacred coat of Trier with the cult of the Napoleonic Imperial mantle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+- id: VII.34.3
+  kind: p
+  original: Aber wenn der Kaisermantel endlich auf die Schultern des Louis Bonaparte fällt, wird das eherne Standbild Napoleons von der Höhe der Vendôme-Säule herabstürzen.
+  en: But when the Imperial Mantle shall have finally fallen upon the shoulders of Louis Bonaparte, then will also the iron statue of Napoleon drop down from the top of the Vendome column.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '207'
+  en_note: 'De Leon''s note [16]: A prophecy that a few years later, after Bonaparte''s coronation as Emperor, was literally fulfilled. By order of Emperor Louis Napoleon, the military statue of the Napoleon that originally surmounted the Vendome was taken down and replaced by one of first Napoleon in imperial robes.'
+- id: VII.N1.1.1
+  kind: note
+  original: Vol heißt Flug und Diebstahl.
+  en: '"It is the first flight of the eagle" The French word "vol" means theft as well as flight.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.1
+  kind: note
+  original: '"Du berechnest deine Güter, du solltest vorher deine Jahre berechnen."'
+  en: '"You count your property you should rather count the years left to you."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N3.1.1
+  kind: note
+  original: Balzac in der "Cousine Bette" stellt in Crevel, den er nach Dr. Véron, dem Eigentümer des "Constitutionnel", entwarf, den grundliederlichen Pariser Philister dar.
+  en: Crevel is a character of Balzac, drawn after Dr. Veron, the proprietor of the "Constitutional" newspaper, as a type of the dissolute Parisian Philistine.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N4.1.1
+  kind: note
+  original: Worte der Frau Girardin.
+  en: Madame de Girardin.
+  modern: ''
+  modern_status: empty
+  notes: ''

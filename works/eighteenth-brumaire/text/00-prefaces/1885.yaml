@@ -1,0 +1,140 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: P1885
+title_original: Vorrede zur dritten Auflage [(1885)]
+title_en: Preface to the third edition (1885)
+author: Friedrich Engels
+date: '1885'
+original_language: de
+anchor_language: de
+source_original: MEW 21, S. 248-249 (Dietz, Berlin 1962) via mlwerke.de; from the third edition, Hamburg 1885
+source_en: 'None: De Leon''s 1898 English does not include this preface'
+verses:
+- id: P1885.0.1
+  kind: heading
+  original: Vorrede zur dritten Auflage [(1885)]
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: No public-domain English of this preface is used; De Leon's 1898 translation leaves it out.
+- id: P1885.1.1
+  kind: p
+  original: Daß eine neue Auflage des "Achtzehnten Brumaire" nötig geworden, dreiunddreißig Jahre nach dem ersten Erscheinen, beweist, daß das Schriftchen auch heute noch nichts von seinem Wert verloren hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '248'
+- id: P1885.2.1
+  kind: p
+  original: Und in der Tat war es eine geniale Arbeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '248'
+- id: P1885.2.2
+  kind: p
+  original: Unmittelbar nach dem Ereignis, das die ganze politische Welt wie ein Wetterstrahl aus heiterm Himmel überrascht, das von den einen mit lautem Schrei sittlicher Entrüstung verdammt, von den andern als Rettung aus der Revolution und als Strafe für ihre Verirrungen akzeptiert, von allen aber nur angestaunt und von keinem verstanden wurde - unmittelbar nach diesem Ereignis trat Marx auf mit einer kurzen, epigrammatischen Darstellung, die den ganzen Gang der französischen Geschichte seit den Februartagen in ihrem innern Zusammenhang darlegte, das Mirakel des zweiten Dezembers in ein natürliches, notwendiges Resultat dieses Zusammenhangs auflöste, und dabei nicht einmal nötig hatte, den Helden des Staatsstreichs anders als mit der wohlverdienten Verachtung zu behandeln.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '248'
+- id: P1885.2.3
+  kind: p
+  original: Und mit solcher Meisterhand war das Bild gezeichnet, daß jede neue, inzwischen erfolgte Enthüllung nur neue Beweise dafür geliefert hat, wie treu es die Wirklichkeit widerspiegelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '248'
+- id: P1885.2.4
+  kind: p
+  original: Dies eminente Verständnis der lebendigen Tagesgeschichte, dies klare Durchschauen der Begebenheiten, im Moment, wo sie sich ereignen, ist in der Tat beispiellos.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '248'
+- id: P1885.3.1
+  kind: p
+  original: Dazu gehörte aber auch Marx' genaue Kenntnis der französischen Geschichte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '248'
+- id: P1885.3.2
+  kind: p
+  original: Frankreich ist das Land, wo die geschichtlichen Klassenkämpfe mehr als anderswo jedesmal bis zur Entscheidung durchgefochten wurden, wo also auch die wechselnden politischen Formen, innerhalb deren sie sich bewegen und in denen ihre Resultate sich zusammenfassen, in den schärfsten Umrissen ausgeprägt sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '248'
+- id: P1885.3.3
+  kind: p
+  original: Mittelpunkt des Feudalismus im Mittelalter, Musterland der einheitlichen ständischen Monarchie seit der Renaissance, hat Frankreich in der großen Revolution den Feudalismus zertrümmert und die reine Herrschaft der Bourgeoisie begründet in einer Klassizität wie kein anderes europäisches Land.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 248-249
+- id: P1885.3.4
+  kind: p
+  original: Und auch der Kampf des aufstrebenden Proletariats gegen die herrschende Bourgeoisie tritt hier in einer, anderswo unkannten, akuten Form auf.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '249'
+- id: P1885.3.5
+  kind: p
+  original: Das war der Grund, weshalb Marx nicht nur die vergangne französische Geschichte mit besondrer Vorliebe studierte, sondern auch die laufende in allen Einzelnheiten verfolgte, das Material zu künftigem Gebrauch sammelte und daher nie von den Ereignissen überrascht wurde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '249'
+- id: P1885.4.1
+  kind: p
+  original: Dazu aber kam noch ein anderer Umstand.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '249'
+- id: P1885.4.2
+  kind: p
+  original: Es war grade Marx, der das große Bewegungsgesetz der Geschichte zuerst entdeckt hatte, das Gesetz, wonach alle geschichtlichen Kämpfe, ob sie auf politischem, religiösem, philosophischem oder sonst ideologischem Gebiet vor sich gehn, in der Tat nur der mehr oder weniger deutliche Ausdruck von Kämpfen gesellschaftlicher Klassen sind, und daß die Existenz und damit auch die Kollisionen dieser Klassen wieder bedingt sind durch den Entwicklungsgrad ihrer ökonomischen Lage, durch die Art und Weise ihrer Produktion und ihres dadurch bedingten Austausches.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '249'
+- id: P1885.4.3
+  kind: p
+  original: Dies Gesetz, das für die Geschichte dieselbe Bedeutung hat wie das Gesetz von der Verwandlung der Energie für die Naturwissenschaft - dies Gesetz gab ihm auch hier den Schlüssel zum Verständnis der Geschichte der zweiten französischen Republik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '249'
+- id: P1885.4.4
+  kind: p
+  original: An dieser Geschichte hat er hier die Probe auf sein Gesetz gemacht, und selbst nach dreiunddreißig Jahren müssen wir noch sagen, daß diese Probe glänzend ausgefallen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '249'
+- id: P1885.5.1
+  kind: signature
+  original: F. E.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '249'

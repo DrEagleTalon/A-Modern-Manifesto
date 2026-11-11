@@ -33,7 +33,7 @@ Every work planned for the library, in queue order, and how far along it is. **R
 | 11 | [Anarchism and Other Essays (1910)](works/anarchism-and-other-essays) | Emma Goldman | `AOE` | English | A | ✅ ready for rewrite | 3150 verses · 0 seeded · 0 drafted · 0 alignment checks |
 | 12 | [Mutual Aid: A Factor of Evolution (1902)](works/mutual-aid) | Peter Kropotkin | `MA` | English | A | ✅ ready for rewrite | 3109 verses · 0 seeded · 0 drafted · 2 alignment checks |
 | 13 | The State and Revolution (1917) | Vladimir Lenin | `SR` | Russian | B | ⏳ planned |  |
-| 14 | The Eighteenth Brumaire of Louis Bonaparte (1852) | Karl Marx | `EB` | German | A | 📦 sourced |  |
+| 14 | [The Eighteenth Brumaire of Louis Bonaparte (1852)](works/eighteenth-brumaire) | Karl Marx | `EB` | German | A | ✅ ready for rewrite | 1402 verses · 0 seeded · 0 drafted · 118 alignment checks |
 | 15 | Critique of the Gotha Programme (1875) | Karl Marx | `CGP` | German | B | 📦 sourced |  |
 | 16 | The Origin of the Family, Private Property and the State (1884) | Friedrich Engels | `OF` | German | A | 📦 sourced |  |
 | 17 | Woman and Socialism (1879) | August Bebel | `WAS` | German | A | ⏳ planned |  |

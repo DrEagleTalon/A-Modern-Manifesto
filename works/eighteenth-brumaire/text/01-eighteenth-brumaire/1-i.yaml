@@ -1,0 +1,890 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: I
+title_original: I
+title_en: I
+author: Karl Marx
+date: 1851-12/1852-03; revised 1869
+original_language: de
+anchor_language: de
+source_original: MEW 8, S. 111-207 (Dietz, Berlin 1960) via mlwerke.de; text of the second edition (1869)
+source_en: Daniel De Leon's translation (New York Labor News, 1898), Project Gutenberg ebook 1346 (public domain)
+verses:
+- id: I.0.1
+  kind: heading
+  original: I
+  en: I
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.1.1
+  kind: p
+  original: Hegel bemerkte irgendwo, daß alle großen weltgeschichtlichen Tatsachen und Personen sich sozusagen zweimal ereignen.
+  en: Hegel says somewhere that that great historic facts and personages recur twice.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '115'
+- id: I.1.2
+  kind: p
+  original: 'Er hat vergessen, hinzuzufügen: das eine Mal als Tragödie, das andere Mal als Farce.'
+  en: 'He forgot to add: "Once as tragedy, and again as farce."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '115'
+- id: I.1.3
+  kind: p
+  original: Caussidière für Danton, Louis Blanc für Robespierre, die Montagne von 1848-1851 für die Montagne von 1793-1795, der Neffe für den Onkel.
+  en: Caussidiere for Danton, Louis Blanc for Robespierre, the "Mountain" of 1848-51 for the "Mountain" of 1793-95, the Nephew for the Uncle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '115'
+- id: I.1.4
+  kind: p
+  original: Und dieselbe Karikatur in den Umständen, unter denen die zweite Auflage des achtzehnten Brumaire herausgegeben wird!
+  en: The identical caricature marks also the conditions under which the second edition of the eighteenth Brumaire is issued.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '115'
+- id: I.2.1
+  kind: p
+  original: Die Menschen machen ihre eigene Geschichte, aber sie machen sie nicht aus freien Stücken, nicht unter selbstgewählten, sondern unter unmittelbar vorgefundenen, gegebenen und überlieferten Umständen.
+  en: Man makes his own history, but he does not make it out of the whole cloth; he does not make it out of conditions chosen by himself, but out of such as he finds close at hand.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '115'
+- id: I.2.2
+  kind: p
+  original: Die Tradition aller toten Geschlechter lastet wie ein Alp auf dem Gehirne der Lebenden.
+  en: The tradition of all past generations weighs like an alp upon the brain of the living.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '115'
+- id: I.2.3
+  kind: p
+  original: Und wenn sie eben damit beschäftigt scheinen, sich und die Dinge umzuwälzen, noch nicht Dagewesenes zu schaffen, gerade in solchen Epochen revolutionärer Krise beschwören sie ängstlich die Geister der Vergangenheit zu ihrem Dienste herauf, entlehnen ihnen Namen, Schlachtparole, Kostüm, um in dieser altehrwürdigen Verkleidung und mit dieser erborgten Sprache die neue Weltgeschichtsszene aufzuführen.
+  en: At the very time when men appear engaged in revolutionizing things and themselves, in bringing about what never was before, at such very epochs of revolutionary crisis do they anxiously conjure up into their service the spirits of the past, assume their names, their battle cries, their costumes to enact a new historic scene in such time-honored disguise and with such borrowed language Thus did Luther masquerade as the Apostle Paul; thus did the revolution of 1789-1814 drape itself alternately as Roman Republic and as Roman Empire; nor did the revolution of 1818 know what better to do than to parody at one time the year 1789, at another the revolutionary traditions of 1793-95 Thus does the beginner, who has acquired a new language, keep on translating it back into his own mother tongue; only then has he grasped the spirit of the new language and is able freely to express himself therewith when he moves in it without recollections of the old, and has forgotten in its use his own hereditary tongue.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '115'
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: I.2.4
+  kind: p
+  original: So maskierte sich Luther als Apostel Paulus, die Revolution von 1789-1814 drapierte sich abwechselnd als römische Republik und als römisches Kaisertum, und die Revolution von 1848 wußte nichts besseres zu tun, als hier 1789, dort die revolutionäre Überlieferung von 1793-1795 zu parodieren.
+  en: ''
+  joined_to: I.2.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '115'
+- id: I.2.5
+  kind: p
+  original: So übersetzt der Anfänger, der eine neue Sprache erlernt hat, sie immer zurück in seine Muttersprache, aber den Geist der neuen Sprache hat er sich nur angeeignet, und frei in ihr zu produzieren vermag er nur, sobald er sich ohne Rückerinnerung in ihr bewegt und die ihm angestammte Sprache in ihr vergißt.
+  en: ''
+  joined_to: I.2.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '115'
+- id: I.3.1
+  kind: p
+  original: Bei Betrachtung jener weltgeschichtlichen Totenbeschwörungen zeigt sich sofort ein springender Unterschied.
+  en: When these historic configurations of the dead past are closely observed a striking difference is forthwith noticeable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '115'
+- id: I.3.2
+  kind: p
+  original: Camille Desmoulins, Danton, Robespierre, St-Just, Napoleon, die Heroen, wie die Parteien und die Masse der alten französischen Revolution, vollbrachten in dem römischen Kostüme und mit römischen Phrasen die Aufgaben ihrer Zeit, die Entfesselung und Herstellung der modernen bürgerlichen Gesellschaft.
+  en: 'Camille Desmoulins, Danton, Robespierre, St. Juste, Napoleon, the heroes as well as the parties and the masses of the old French revolution, achieved in Roman costumes and with Roman phrases the task of their time: the emancipation and the establishment of modern bourgeois society.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 115-116
+- id: I.3.3
+  kind: p
+  original: Die einen schlugen den feudalen Boden in Stücke und mähten die feudalen Köpfe ab, die darauf gewachsen waren.
+  en: One set knocked to pieces the old feudal groundwork and mowed down the feudal heads that had grown upon it; Napoleon brought about, within France, the conditions under which alone free competition could develop, the partitioned lands be exploited the nation's unshackled powers of industrial production be utilized; while, beyond the French frontier, he swept away everywhere the establishments of feudality, so far as requisite, to furnish the bourgeois social system of France with fit surroundings of the European continent, and such as were in keeping with the times.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '116'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: I.3.4
+  kind: p
+  original: Der andere schuf im Innern von Frankreich die Bedingungen, worunter erst die freie Konkurrenz entwickelt, das parzellierte Grundeigentum ausgebeutet, die entfesselte industrielle Produktivkraft der Nation verwandt werden konnte, und jenseits der französischen Grenzen fegte er überall die feudalen Gestaltungen weg, soweit es nötig war, um der bürgerlichen Gesellschaft in Frankreich eine entsprechende, zeitgemäße Umgebung auf dem europäischen Kontinent zu verschaffen.
+  en: ''
+  joined_to: I.3.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '116'
+- id: I.3.5
+  kind: p
+  original: Die neue Gesellschaftsformation einmal hergestellt, verschwanden die vorsündflutlichen Kolosse und mit ihnen das wieder auferstandene Römertum - die Brutusse, Gracchusse, Publicolas, die Tribunen, die Senatoren und Cäsar selbst.
+  en: Once the new social establishment was set on foot, the antediluvian giants vanished, and, along with them, the resuscitated Roman world--the Brutuses, Gracchi, Publicolas, the Tribunes, the Senators, and Caesar himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '116'
+- id: I.3.6
+  kind: p
+  original: Die bürgerliche Gesellschaft in ihrer nüchternen Wirklichkeit hatte sich ihre wahren Dolmetscher und Sprachführer erzeugt in den Says, Cousins, Royer-Collards, Benjamin Constants und Guizots, ihre wirklichen Heerführer saßen hinter dem Kontortisch, und der Speckkopf Ludwigs XVIII. war ihr politisches Haupt.
+  en: In its sober reality, bourgeois society had produced its own true interpretation in the Says, Cousins, Royer-Collards, Benjamin Constants and Guizots; its real generals sat behind the office desks; and the mutton-head of Louis XVIII was its political lead.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '116'
+- id: I.3.7
+  kind: p
+  original: Ganz absorbiert in die Produktion des Reichtums und in den friedlichen Kampf der Konkurrenz begriff sie nicht mehr, daß die Gespenster der Römerzeit ihre Wiege gehütet hatten.
+  en: Wholly absorbed in the production of wealth and in the peaceful fight of competition, this society could no longer understand that the ghosts of the days of Rome had watched over its cradle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '116'
+- id: I.3.8
+  kind: p
+  original: Aber unheroisch, wie die bürgerliche Gesellschaft ist, hatte es jedoch des Heroismus bedurft, der Aufopferung, des Schreckens, des Bürgerkriegs und der Völkerschlachten, um sie auf die Welt zu setzen.
+  en: And yet, lacking in heroism as bourgeois society is, it nevertheless had stood in need of heroism, of self-sacrifice, of terror, of civil war, and of bloody battle fields to bring it into the world.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '116'
+- id: I.3.9
+  kind: p
+  original: Und ihre Gladiatoren fanden in den klassisch strengen Überlieferungen der römischen Republik die Ideale und die Kunstformen, die Selbsttäuschungen, deren sie bedurfte, um den bürgerlich beschränkten Inhalt ihrer Kämpfe sich selbst zu verbergen und ihre Leidenschaft auf der Höhe der großen geschichtlichen Tragödie zu halten.
+  en: Its gladiators found in the stern classic traditions of the Roman republic the ideals and the form, the self-deceptions, that they needed in order to conceal from themselves the narrow bourgeois substance of their own struggles, and to keep their passion up to the height of a great historic tragedy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '116'
+- id: I.3.10
+  kind: p
+  original: So hatten auf einer andern Entwicklungsstufe, ein Jahrhundert früher, Cromwell und das englische Volk dem Alten Testament Sprache, Leidenschaften und Illusionen für ihre bürgerliche Revolution entlehnt.
+  en: Thus, at another stage of development a century before, did Cromwell and the English people draw from the Old Testament the language, passions and illusions for their own bourgeois revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '116'
+- id: I.3.11
+  kind: p
+  original: Als das wirkliche Ziel erreicht, als die bürgerliche Umgestaltung der englischen Gesellschaft vollbracht war, verdrängte Locke den Habakuk.
+  en: When the real goal was reached, when the remodeling of English society was accomplished, Locke supplanted Habakuk.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '116'
+- id: I.4.1
+  kind: p
+  original: Die Totenerweckung in jenen Revolutionen diente also dazu, die neuen Kämpfe zu verherrlichen, nicht die alten zu parodieren, die gegebene Aufgabe in der Phantasie zu übertreiben, nicht vor ihrer Lösung in der Wirklichkeit zurückzuflüchten, den Geist der Revolution wiederzufinden, nicht ihr Gespenst wieder umgehen zu machen.
+  en: Accordingly, the reviving of the dead in those revolutions served the purpose of glorifying the new struggles, not of parodying the old; it served the purpose of exaggerating to the imagination the given task, not to recoil before its practical solution; it served the purpose of rekindling the revolutionary spirit, not to trot out its ghost.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '116'
+- id: I.5.1
+  kind: p
+  original: 1848-1851 ging nur das Gespenst der alten Revolution um, von Marrast, dem Républicain en gants jaunes, <Republikaner in gelben Handschuhen> der sich in den alten Bailly verkleidete, bis auf den Abenteurer, der seine trivial-widrigen Züge unter der eisernen Totenlarve Napoleons versteckte.
+  en: In 1848-51 only the ghost of the old revolution wandered about, from Marrast the "Republicain en gaunts jaunes," who disguised himself in old Bailly, down to the adventurer, who hid his repulsively trivial features under the iron death mask of Napoleon.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+  en_note: 'De Leon''s note [1]: Silk-stocking republican'
+- id: I.5.2
+  kind: p
+  original: Ein ganzes Volk, das sich durch eine Revolution eine beschleunigte Bewegungskraft gegeben zu haben glaubt, findet sich plötzlich in eine verstorbene Epoche zurückversetzt, und damit keine Täuschung über den Rückfall möglich ist, stehn die alten Data wieder auf, die alte Zeitrechnung, die alten Namen, die alten Edikte, die längst der antiquarischen Gelehrsamkeit verfallen, und die alten Schergen, die längst verfault schienen.
+  en: A whole people, that imagines it has imparted to itself accelerated powers of motion through a revolution, suddenly finds itself transferred back to a dead epoch, and, lest there be any mistake possible on this head, the old dates turn up again; the old calendars; the old names; the old edicts, which long since had sunk to the level of the antiquarian's learning; even the old bailiffs, who had long seemed mouldering with decay.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.5.3
+  kind: p
+  original: Die Nation kömmt sich vor wie jener närrische Engländer in Bedlam <Londoner Psychatrie>, der zur Zeit der alten Pharaonen zu leben meint und täglich über die harten Dienste jammert, die er in den äthiopischen Bergwerken als Goldgräber verrichten muß, eingemauert in dies unterirdische Gefängnis, eine spärlich leuchtende Lampe auf dem eigenen Kopfe befestigt, hinter ihm der Sklavenaufseher mit langer Peitsche und an den Ausgängen ein Gewirr von barbarischen Kriegsknechten, die weder die Zwangsarbeiter in den Bergwerken, noch sich untereinander verstehn, weil sie keine gemeinsame Sprache reden.
+  en: The nation takes on the appearance of that crazy Englishman in Bedlam, who imagines he is living in the days of the Pharaohs, and daily laments the hard work that he must do in the Ethiopian mines as gold digger, immured in a subterranean prison, with a dim lamp fastened on his head, behind him the slave overseer with a long whip, and, at the mouths of the mine a mob of barbarous camp servants who understand neither the convicts in the mines nor one another, because they do not speak a common language.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.5.4
+  kind: p
+  original: '"Und dies alles wird mir" - seufzt der närrische Engländer - "mir, dem freigebornen Briten, zugemutet, um Gold für die alten Pharaonen zu machen."'
+  en: '"And all this," cries the crazy Englishman, "is demanded of me, the free-born Englishman, in order to make gold for old Pharaoh."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.5.5
+  kind: p
+  original: '"Um die Schulden der Familie Bonaparte zu zahlen" - seufzt die französische Nation.'
+  en: '"In order to pay off the debts of the Bonaparte family"--sobs the French nation.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.5.6
+  kind: p
+  original: Der Engländer, solange er bei Verstand war, konnte die fixe Idee des Goldmachens nicht loswerden.
+  en: The Englishman, so long as he was in his senses, could not rid himself of the rooted thought making gold.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.5.7
+  kind: p
+  original: Die Franzosen, solange sie revolutionierten, nicht die napoleonische Erinnerung, wie die Wahl vom 10. Dezember bewies.
+  en: The Frenchmen, so long as they were busy with a revolution, could not rid then selves of the Napoleonic memory, as the election of December 10th proved.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.5.8
+  kind: p
+  original: Sie sehnten sich aus den Gefahren der Revolution zurück nach den Fleischtöpfen Ägyptens, und der 2. Dezember 1851 war die Antwort.
+  en: They longed to escape from the dangers of revolution back to the flesh pots of Egypt; the 2d of December, 1851 was the answer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.5.9
+  kind: p
+  original: Sie haben nicht nur die Karikatur des alten Napoleons, sie haben den alten Napoleon selbst karikiert, wie er sich ausnehmen muß in der Mitte des neunzehnten Jahrhunderts.
+  en: They have not merely the character of the old Napoleon, but the old Napoleon himself-caricatured as he needs must appear in the middle of the nineteenth century.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.6.1
+  kind: p
+  original: Die soziale Revolution des neunzehnten Jahrhunderts kann ihre Poesie nicht aus der Vergangenheit schöpfen, sondern nur aus der Zukunft.
+  en: The social revolution of the nineteenth century can not draw its poetry from the past, it can draw that only from the future.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.6.2
+  kind: p
+  original: Sie kann nicht mit sich selbst beginnen, bevor sie allen Aberglauben an die Vergangenheit abgestreift hat.
+  en: It cannot start upon its work before it has stricken off all superstition concerning the past.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.6.3
+  kind: p
+  original: Die früheren Revolutionen bedurften der weltgeschichtlichen Rückerinnerungen, um über ihren eigenen Inhalt zu betäuben.
+  en: Former revolutions require historic reminiscences in order to intoxicate themselves with their own issues.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.6.4
+  kind: p
+  original: Die Revolution des neunzehnten Jahrhunderts muß die Toten ihre Toten begraben lassen, um bei ihrem eignen Inhalt anzukommen.
+  en: The revolution of the nineteenth century must let the dead bury their dead in order to reach its issue.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.6.5
+  kind: p
+  original: Dort ging die Phrase über den Inhalt, hier geht der Inhalt über die Phrase hinaus.
+  en: With the former, the phrase surpasses the substance; with this one, the substance surpasses the phrase.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '117'
+- id: I.7.1
+  kind: p
+  original: Die Februarrevolution war eine Überrumpelung, eine Überraschung der alten Gesellschaft, und das Volk proklamierte diesen unverhofften Handstreich als eine weltgeschichtliche Tat, womit die neue Epoche eröffnet sei.
+  en: The February revolution was a surprisal; old society was taken unawares; and the people proclaimed this political stroke a great historic act whereby the new era was opened.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 117-118
+- id: I.7.2
+  kind: p
+  original: Am 2. Dezember wird die Februarrevolution eskamotiert durch die Volte eines falschen Spielers, und was umgeworfen scheint, ist nicht mehr die Monarchie, es sind die liberalen Konzessionen, die ihr durch jahrhundertelange Kämpfe abgetrotzt waren.
+  en: On the 2d of December, the February revolution is jockeyed by the trick of a false player, and what is seer to be overthrown is no longer the monarchy, but the liberal concessions which had been wrung from it by centuries of struggles.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '118'
+- id: I.7.3
+  kind: p
+  original: Statt daß die Gesellschaft selbst sich einen neuen Inhalt erobert hätte, scheint nur der Staat zu seiner ältesten Form zurückgekehrt, zur unverschämt einfachen Herrschaft von Säbel und Kutte.
+  en: Instead of society itself having conquered a new point, only the State appears to have returned to its oldest form, to the simply brazen rule of the sword and the club.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '118'
+- id: I.7.4
+  kind: p
+  original: So antwortet auf den coup de main <Handstreich> vom Februar 1848 der coup de tête <frech von oben geführter Streich> vom Dezember 1851.
+  en: Thus, upon the "coup de main" of February, 1848, comes the response of the "coup de tete" December, 1851.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '118'
+- id: I.7.5
+  kind: p
+  original: Wie gewonnen, so zerronnen.
+  en: So won, so lost.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '118'
+- id: I.7.6
+  kind: p
+  original: Unterdessen ist die Zwischenzeit nicht unbenutzt vorübergegangen.
+  en: Meanwhile, the interval did not go by unutilized.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '118'
+- id: I.7.7
+  kind: p
+  original: Die französische Gesellschaft hat während der Jahre 1848-1851 die Studien und Erfahrungen nachgeholt, und zwar in einer abkürzenden, weil revolutionären Methode, die bei regelmäßiger, sozusagen schulgerechter Entwicklung der Februarrevolution hätten vorhergehn müssen, sollte sie mehr als eine Erschütterung der Oberfläche sein.
+  en: During the years 1848-1851, French society retrieved in abbreviated, because revolutionary, method the lessons and teachings, which--if it was to be more than a disturbance of the surface-should have preceded the February revolution, had it developed in regular order, by rule, so to say.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '118'
+- id: I.7.8
+  kind: p
+  original: Die Gesellschaft scheint jetzt hinter ihren Ausgangspunkt zurückgetreten; in Wahrheit hat sie sich erst den revolutionären Ausgangspunkt zu schaffen, die Situation, die Verhältnisse, die Bedingungen, unter denen allein die moderne Revolution ernsthaft wird.
+  en: Now French society seems to have receded behind its point of departure; in fact, however, it was compelled to first produce its own revolutionary point of departure, the situation, circumstances, conditions, under which alone the modern revolution is in earnest.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '118'
+- id: I.8.1
+  kind: p
+  original: Bürgerliche Revolutionen, wie die des achtzehnten Jahrhunderts, stürmen rascher von Erfolg zu Erfolg, ihre dramatischen Effekte überbieten sich, Menschen und Dinge scheinen in Feuerbrillanten gefaßt, die Ekstase ist der Geist jedes Tages; aber sie sind kurzlebig, bald haben sie ihren Höhepunkt erreicht, und ein langer Katzenjammer erfaßt die Gesellschaft, ehe sie die Resultate ihrer Drang- und Sturmperiode nüchtern sich aneignen lernt.
+  en: Bourgeois revolutions, like those of the eighteenth century, rush onward rapidly from success to success, their stage effects outbid one another, men and things seem to be set in flaming brilliants, ecstasy is the prevailing spirit; but they are short-lived, they reach their climax speedily, then society relapses into a long fit of nervous reaction before it learns how to appropriate the fruits of its period of feverish excitement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '118'
+- id: I.8.2
+  kind: p
+  original: Proletarische Revolutionen dagegen, wie die des neunzehnten Jahrhunderts, kritisieren beständig sich selbst, unterbrechen sich fortwährend in ihrem eignen Lauf, kommen auf das scheinbar Vollbrachte zurück, um es wieder von neuem anzufangen, verhöhnen grausam-gründlich die Halbheiten, Schwächen und Erbärmlichkeiten ihrer ersten Versuche, scheinen ihren Gegner nur niederzuwerfen, damit er neue Kräfte aus der Erde sauge und sich riesenhafter ihnen gegenüber wieder aufrichte, schrecken stets von neuem zurück vor der unbestimmten Ungeheuerlichkeit ihrer eigenen Zwecke, bis die Situation geschaffen ist, die jede Umkehr unmöglich macht, und die Verhältnisse selbst rufen Hic Rhodus, hic salta!
+  en: 'Proletarian revolutions, on the contrary, such as those of the nineteenth century, criticize themselves constantly; constantly interrupt themselves in their own course; come back to what seems to have been accomplished, in order to start over anew; scorn with cruel thoroughness the half measures, weaknesses and meannesses of their first attempts; seem to throw down their adversary only in order to enable him to draw fresh strength from the earth, and again, to rise up against them in more gigantic stature; constantly recoil in fear before the undefined monster magnitude of their own objects--until finally that situation is created which renders all retreat impossible, and the conditions themselves cry out:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '118'
+- id: I.8.3
+  kind: p
+  original: Hier ist die Rose, hier tanze!
+  en: '"Hic Rhodus, hic salta!"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '118'
+  en_note: 'De Leon''s note [2]: Here is Rhodes, leap here! An allusion to Aesop''s Fables.'
+- id: I.9.1
+  kind: p
+  original: Jeder erträgliche Beobachter übrigens, selbst wenn er nicht Schritt vor Schritt den Gang der französischen Entwicklung gefolgt war, mußte ahnen, daß der Revolution eine unerhörte Blamage bevorstehe.
+  en: Every observer of average intelligence; even if he failed to follow step by step the course of French development, must have anticipated that an unheard of fiasco was in store for the revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '119'
+- id: I.9.2
+  kind: p
+  original: Es genügte, das selbstgefällige Siegesgekläffe zu hören, womit die Herren Demokraten sich wechselweis zu den Gnadenwirkungen des zweiten [Sonntags des Monats] Mai 1852 beglückwünschten.
+  en: It was enough to hear the self-satisfied yelpings of victory wherewith the Messieurs Democrats mutually congratulated one another upon the pardons of May 2d, 1852.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '119'
+- id: I.9.3
+  kind: p
+  original: Der zweite [Sonntag des Monats] Mai 1852 war in den Köpfen zur fixen Idee geworden, zum Dogma, wie der Tag, an dem Christus wiedererscheinen und das Tausendjährige Reich beginnen sollte, in den Köpfen der Chiliasten.
+  en: Indeed, May 2d had become a fixed idea in their heads; it had become a dogma with them--something like the day on which Christ was to reappear and the Millennium to begin had formed in the heads of the Chiliasts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '119'
+- id: I.9.4
+  kind: p
+  original: Die Schwäche hatte sich wie immer in den Wunderglauben gerettet, glaubte den Feind überwunden, wenn sie ihn in der Phantasie weghexte, und verlor alles Verständnis der Gegenwart über die tatlosen Verhimmelung der Zukunft, die ihr bevorstehe, und der Taten, die sie in petto habe, aber nur noch nicht an den Mann bringen wolle.
+  en: Weakness had, as it ever does, taken refuge in the wonderful; it believed the enemy was overcome if, in its imagination, it hocus-pocused him away; and it lost all sense of the present in the imaginary apotheosis of the future, that was at hand, and of the deeds, that it had "in petto," but which it did not yet want to bring to the scratch.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '119'
+- id: I.9.5
+  kind: p
+  original: Jene Helden, die ihre bewiesene Unfähigkeit dadurch zu widerlegen suchen, daß sie sich wechselseitig ihr Mitleiden schenken und sich zu einem Haufen zusammentun, hatten ihre Bündel geschnürt, strichen ihre Lorbeerkronen auf Vorschuß ein und waren eben damit beschäftigt, auf dem Wechselmarkt die Republiken in partibus diskontieren zu lassen, für die sie bereits in aller Stille ihres anspruchslosen Gemüts das Regierungspersonal vorsorglich organisiert hatten.
+  en: The heroes, who ever seek to refute their established incompetence by mutually bestowing their sympathy upon one another and by pulling together, had packed their satchels, taken their laurels in advance payments and were just engaged in the work of getting discounted "in partibus," on the stock exchange, the republics for which, in the silence of their unassuming dispositions, they had carefully organized the government personnel.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '119'
+- id: I.9.6
+  kind: p
+  original: Der 2. Dezember traf sie wie ein Blitzstrahl aus heiterm Himmel, und die Völker, die in Epochen kleinmütiger Verstimmung sich gern ihre innere Angst von den lautesten Schreiern übertäuben lassen, werden sich vielleicht überzeugt haben, daß die Zeiten vorüber sind, wo das Geschnatter von Gänsen das Kapitol retten konnte.
+  en: The 2d of December struck them like a bolt from a clear sky; and the 'peoples, who, in periods of timid despondency, gladly allow their hidden fears to be drowned by the loudest screamers, will perhaps have become convinced that the days are gone by when the cackling of geese could save the Capitol.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '119'
+- id: I.10.1
+  kind: p
+  original: Die Konstitution, die Nationalversammlung, die dynastischen Parteien, die blauen und die roten Republikaner, die Helden von Afrika, der Donner der Tribüne, das Wetterleuchten der Tagespresse, die gesamte Literatur, die politischen Namen und die geistigen Renommeen, das bürgerliche Gesetz und das peinliche Recht, die liberté, égalité, fraternité <Freiheit, Gleichheit, Brüderlichkeit> und der zweite [Sonntag des Monats] Mai 1852 - alles ist verschwunden wie eine Phantasmagorie vor der Bannformel eines Mannes, den seine Feinde selbst für keinen Hexenmeister ausgeben.
+  en: The constitution, the national assembly, the dynastic parties, the blue and the red republicans, the heroes from Africa, the thunder from the tribune, the flash-lightnings from the daily press, the whole literature, the political names and the intellectual celebrities, the civil and the criminal law, the "liberte', egalite', fraternite'," together with the 2d of May 1852--all vanished like a phantasmagoria before the ban of one man, whom his enemies themselves do not pronounce an adept at witchcraft.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '119'
+- id: I.10.2
+  kind: p
+  original: 'Das allgemeine Wahlrecht scheint nur einen Augenblick überlebt zu haben, damit es eigenhändig vor den Augen aller Welt sein Testament mache und im Namen des Volkes selbst erkläre: "Alles, was besteht, ist wert, daß es zugrunde geht".'
+  en: 'Universal suffrage seems to have survived only for a moment, to the end that, before the eyes of the whole world, it should make its own testament with its own hands, and, in the name of the people, declare: "All that exists deserves to perish."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '119'
+- id: I.11.1
+  kind: p
+  original: Es genügt nicht zu sagen, wie die Franzosen tun, daß ihre Nation überrascht worden sei.
+  en: It is not enough to say, as the Frenchmen do, that their nation was taken by surprise.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '119'
+- id: I.11.2
+  kind: p
+  original: Einer Nation und einer Frau wird die unbewachte Stunde nicht verziehen, worin der erste beste Abenteurer ihnen Gewalt antun konnte.
+  en: A nation, no more than a woman, is excused for the unguarded hour when the first adventurer who comes along can do violence to her.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 119-120
+- id: I.11.3
+  kind: p
+  original: Das Rätsel wird durch dergleichen Wendungen nicht gelöst, sondern nur anders formuliert.
+  en: The riddle is not solved by such shifts, it is only formulated in other words.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.11.4
+  kind: p
+  original: Es bliebe zu erklären, wie eine Nation von 36 Millionen durch drei Industrieritter überrascht und widerstandslos in die Gefangenschaft abgeführt werden kann.
+  en: There remains to be explained how a nation of thirty-six millions can be surprised by three swindlers, and taken to prison without resistance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.12.1
+  kind: p
+  original: Rekapitulieren wir in allgemeinen Zügen die Phasen, die die französische Revolution vom 24. Februar 1848 bis zum Dezember 1851 durchlaufen hat.
+  en: Let us recapitulate in general outlines the phases which the French revolution of February 24th, 1848, to December, 1851, ran through.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.13.1
+  kind: p
+  original: 'Drei Hauptperioden sind unverkennbar: die Februarperiode; 4. Mai 1848 bis zum 28. Mai 1849: Periode der Konstituierung der Republik oder der konstituierenden Nationalversammlung; 28. Mai 1849 bis zum 2. Dezember 1851: Periode der konstitutionellen Republik oder der legislativen Nationalversammlung.'
+  en: 'Three main periods are unmistakable: First--The February period; Second--The period of constituting the republic, or of the constitutive national assembly (May 4, 1848, to May 29th, 1849); Third--The period of the constitutional republic, or of the legislative national assembly (May 29, 1849, to December 2, 1851).'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s); regrouped by the ingest (see REALIGN)
+- id: I.14.1
+  kind: p
+  original: Die erste Periode vom 24. Februar oder dem Sturze Louis-Philippes bis zum 4. Mai, dem Zusammentritt der konstituierenden Versammlung, die eigentliche Februarperiode, kann als der Prolog der Revolution bezeichnet werden.
+  en: The first period, from February 24, or the downfall of Louis Philippe, to May 4, 1848, the date of the assembling of the constitutive assembly--the February period proper--may be designated as the prologue of the revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.14.2
+  kind: p
+  original: Ihr Charakter sprach sich offiziell darin aus, daß die von ihr improvisierte Regierung sich selbst für provisorisch erklärte, und wie die Regierung gab alles, was in dieser Periode angeregt, versucht, ausgesprochen wurde, sich nur für provisorisch aus.
+  en: It officially expressed its' own character in this, that the government which it improvised declared itself "provisional;" and, like the government, everything that was broached, attempted, or uttered, pronounced itself provisional.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.14.3
+  kind: p
+  original: Niemand und nichts wagte das Recht des Bestehens und der wirklichen Tat für sich in Anspruch zu nehmen.
+  en: Nobody and nothing dared to assume the right of permanent existence and of an actual fact.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.14.4
+  kind: p
+  original: Alle Elemente, die die Revolution vorbereitet oder bestimmt hatten, dynastische Opposition, republikanische Bourgeoisie, demokratisch-republikanisches Kleinbürgertum, sozial-demokratisches Arbeitertum, fanden provisorisch ihren Platz in der Februar-Regierung.
+  en: All the elements that had prepared or determined the revolution--dynastic opposition, republican bourgeoisie, democratic-republican small traders' class, social-democratic labor element-all found "provisionally" their place in the February government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.15.1
+  kind: p
+  original: Es konnte nicht anders sein.
+  en: It could not be otherwise.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.15.2
+  kind: p
+  original: Die Februartage bezweckten ursprünglich eine Wahlreform, wodurch der Kreis der politisch Privilegierten unter der besitzenden Klasse selbst erweitert und die ausschließliche Herrschaft der Finanzaristokratie gestürzt werden sollte.
+  en: The February days contemplated originally a reform of the suffrage laws, whereby the area of the politically privileged among the property-holding class was to be extended, while the exclusive rule of the aristocracy of finance was to be overthrown.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.15.3
+  kind: p
+  original: Als es aber zum wirklichen Konflikt kam, das Volk auf die Barrikaden stieg, die Nationalgarde sich passiv verhielt, die Armee keinen ernstlichen Widerstand leistete und das Königtum davonlief, schien sich die Republik von selbst zu verstehn.
+  en: When however, it came to a real conflict, when the people mounted the barricades, when the National Guard stood passive, when the army offered no serious resistance, and the kingdom ran away, then the republic seemed self-understood.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.15.4
+  kind: p
+  original: Jede Partei deutete sie in ihrem Sinn.
+  en: Each party interpreted it in its own sense.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.15.5
+  kind: p
+  original: Von dem Proletariat, die Waffen in der Hand, ertrotzt, prägte es ihr seinen Stempel auf und proklamierte sie als soziale Republik.
+  en: Won, arms in hand, by the proletariat, they put upon it the stamp of their own class, and proclaimed the social republic.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.15.6
+  kind: p
+  original: So wurde der allgemeine Inhalt der modernen Revolution angedeutet, der in sonderbarstem Widerspruch stand zu allem, was mit dem vorliegenden Material, mit der erreichten Bildungsstufe der Masse, unter den gegebenen Umständen und Verhältnissen zunächst unmittelbar ins Werk gesetzt werden konnte.
+  en: Thus the general purpose of modern revolutions was indicated, a purpose, however, that stood in most singular contradiction to every thing that, with the material at hand, with the stage of enlightenment that the masses had reached, and under existing circumstances and conditions, could be immediately used.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '120'
+- id: I.15.7
+  kind: p
+  original: Andererseits wurde der Anspruch aller übrigen Elemente, die zur Februarrevolution mitgewirkt hatten, anerkannt in dem Löwenanteil, den sie an der Regierung erhielten.
+  en: On the other hand, the claims of all the other elements, that had cooperated in the revolution of February, were recognized by the lion's share that they received in the government.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 120-121
+- id: I.15.8
+  kind: p
+  original: In keiner Periode finden wir daher ein bunteres Gemisch von überfliegenden Phrasen und tatsächlicher Unsicherheit und Unbeholfenheit, von enthusiastischerem Neuerungsstreben und von gründlicherer Herrschaft der alten Routine, von mehr scheinbarer Harmonie der ganzen Gesellschaft und von tieferer Entfremdung ihrer Elemente.
+  en: Hence, in no period do we find a more motley mixture of high-sounding phrases together with actual doubt and helplessness; of more enthusiastic reform aspirations, together with a more slavish adherence to the old routine; more seeming harmony permeating the whole of society together with a deeper alienation of its several elements.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+- id: I.15.9
+  kind: p
+  original: Während das Pariser Proletariat noch in dem Anblicke der großen Perspektive, die sich ihm eröffnet hatte, schwelgte und sich in ernstgemeinten Diskussionen über die sozialen Probleme erging, hatten sich die alten Mächte der Gesellschaft gruppiert, gesammelt, besonnen und fanden eine unerwartete Stütze an der Masse der Nation, den Bauern und Kleinbürgern, die alle auf einmal auf die politische Bühne stürzten, nachdem die Barrieren der Julimonarchie gefallen waren.
+  en: While the Parisian proletariat was still gloating over the sight of the great perspective that had disclosed itself to their view, and was indulging in seriously meant discussions over the social problems, the old powers of society had groomed themselves, had gathered together, had deliberated and found an unexpected support in the mass of the nation--the peasants and small traders--all of whom threw themselves on a sudden upon the political stage, after the barriers of the July monarchy had fallen down.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+- id: I.16.1
+  kind: p
+  original: Die zweite Periode vom 4. Mai 1848 bis Ende Mai 1849 ist die Periode der Konstituierung, der Begründung der bürgerlichen Republik.
+  en: The second period, from May 4, 1848, to the end of May, 1849, is the period of the constitution, of the founding of the bourgeois republic immediately after the February days, not only was the dynastic opposition surprised by the republicans, and the republicans by the Socialists, but all France was surprised by Paris.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: I.16.2
+  kind: p
+  original: Unmittelbar nach den Februartagen war nicht nur die dynastische Opposition überrascht worden durch die Republikaner, die Republikaner durch die Sozialisten, sondern ganz Frankreich durch Paris.
+  en: ''
+  joined_to: I.16.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '121'
+- id: I.16.3
+  kind: p
+  original: Die Nationalversammlung, die am 4. Mai 1848 zusammentrat, aus den Wahlen der Nation hervorgegangen, repräsentierte die Nation.
+  en: The national assembly, that met on May 4, 1848, to frame a constitution, was the outcome of the national elections; it represented the nation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+- id: I.16.4
+  kind: p
+  original: Sie war ein lebendiger Protest gegen die Zumutungen der Februartage und sollte die Resultate der Revolution auf den bürgerlichen Maßstab zurückführen.
+  en: It was a living protest against the assumption of the February days, and it was intended to bring the results of the revolution back to the bourgeois measure.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+- id: I.16.5
+  kind: p
+  original: Vergebens versuchte das Pariser Proletariat, das den Charakter dieser Nationalversammlung sofort begriff, ihre Existenz gewaltsam wegzuleugnen, sie aufzulösen, die organische Gestalt, worin der reagierende Geist der Nation es bedrohte, wieder in ihre einzelne Bestandteile zu zerstreuen.
+  en: In vain did the proletariat of Paris, which forthwith understood the character of this national assembly, endeavor, a few days after its meeting; on May 15, to deny its existence by force, to dissolve it, to disperse the organic apparition, in which the reacting spirit of the nation was threatening them, and thus reduce it back to its separate component parts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+- id: I.16.6
+  kind: p
+  original: Der 15. Mai hatte bekanntlich kein anderes Resultat, als Blanqui und Genossen, d.h. die wirklichen Führer der proletarischen Partei, für die ganze Dauer des Zyklus, den wir betrachten, vom öffentlichen Schauplatz zu entfernen.
+  en: As is known, the 15th of May had no other result than that of removing Blanqui and his associates, i.e. the real leaders of the proletarian party, from the public scene for the whole period of the cycle which we are here considering.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+- id: I.17.1
+  kind: p
+  original: Auf die bürgerliche Monarchie Louis-Philippes kann nur die bürgerliche Republik folgen, d.h., wenn unter dem Namen des Königs ein beschränkter Teil der Bourgeoisie geherrscht hat, so wird jetzt im Namen des Volks die Gesamtheit der Bourgeoisie herrschen.
+  en: Upon the bourgeois monarchy of Louis Philippe, only the bourgeois republic could follow; that is to say, a limited portion of the bourgeoisie having ruled under the name of the king, now the whole bourgeoisie was to rule under the name of the people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+- id: I.17.2
+  kind: p
+  original: Die Forderungen des Pariser Proletariats sind utopistische Flausen, womit geendet werden muß.
+  en: The demands of the Parisian proletariat are utopian tom-fooleries that have to be done away with.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+- id: I.17.3
+  kind: p
+  original: Auf diese Erklärung der konstituierenden Nationalversammlung antwortete das Pariser Proletariat mit der Juni-Insurrektion, dem kolossalsten Ereignis in der Geschichte der europäischen Bürgerkriege.
+  en: To this declaration of the constitutional national assembly, the Paris proletariat answers with the June insurrection, the most colossal event in the history of European civil wars.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+- id: I.17.4
+  kind: p
+  original: Die bürgerliche Republik siegte.
+  en: The bourgeois republic won.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '121'
+- id: I.17.5
+  kind: p
+  original: Auf ihrer Seite stand die Finanzaristokratie, die industrielle Bourgeoisie, der Mittelstand, die Kleinbürger, die Armee, das als Mobilgarde organisierte Lumpenproletariat, die geistigen Kapazitäten, die Pfaffen und die Landbevölkerung.
+  en: On its side stood the aristocracy of finance, the industrial bourgeoisie; the middle class; the small traders' class; the army; the slums, organized as Guarde Mobile; the intellectual celebrities, the parsons' class, and the rural population.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 121-122
+- id: I.17.6
+  kind: p
+  original: Auf der Seite des Pariser Proletariats stand niemand als es selbst.
+  en: On the side of the Parisian proletariat stood none but itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+- id: I.17.7
+  kind: p
+  original: Über 3.000 Insurgenten wurden niedergemetzelt nach dem Siege, 15.000 ohne Urteil transportiert.
+  en: Over 3,000 insurgents were massacred, after the victory 15,000 were transported without trial.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+- id: I.17.8
+  kind: p
+  original: Mit dieser Niederlage tritt das Proletariat in den Hintergrund der revolutionären Bühne.
+  en: With this defeat, the proletariat steps to the background on the revolutionary stage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+- id: I.17.9
+  kind: p
+  original: Es versucht sich jedesmal wieder vorzudrängen, sobald die Bewegung einen neuen Anlauf zu nehmen scheint, aber mit immer schwächerem Kraftaufwand und stets geringerem Resultat.
+  en: It always seeks to crowd forward, so soon as the movement seems to acquire new impetus, but with ever weaker effort and ever smaller results; So soon as any of the above lying layers of society gets into revolutionary fermentation, it enters into alliance therewith and thus shares all the defeats which the several parties successively suffer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: I.17.10
+  kind: p
+  original: Sobald eine der höher über ihm liegenden Gesellschaftsschichten in revolutionäre Gärung gerät, geht es eine Verbindung mit ihr ein und teilt so alle Niederlagen, die die verschiedenen Parteien nacheinander erleiden.
+  en: ''
+  joined_to: I.17.9
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '122'
+- id: I.17.11
+  kind: p
+  original: Aber diese nachträglichen Schläge schwächen sich immer mehr ab, je mehr sie sich auf die ganze Oberfläche der Gesellschaft verteilen.
+  en: But these succeeding blows become ever weaker the more generally they are distributed over the whole surface of society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+- id: I.17.12
+  kind: p
+  original: Seine bedeutenderen Führer in der Versammlung und in der Presse fallen der Reihe nach den Gerichten als Opfer, und immer zweideutigere Figuren treten an seine Spitze.
+  en: The more important leaders of the Proletariat, in its councils, and the press, fall one after another victims of the courts, and ever more questionable figures step to the front.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+- id: I.17.13
+  kind: p
+  original: Zum Teil wirft es sich auf doktrinäre Experimente, Tauschbanken und Arbeiterassoziationen, also in eine Bewegung, worin es darauf verzichtet, die alte Welt mit ihren eigenen großen Gesamtmitteln umzuwälzen, vielmehr hinter dem Rücken der Gesellschaft, auf Privatweise, innerhalb seiner beschränkten Existenzbedingungen, seine Erlösung zu vollbringen sucht, also notwendig scheitert.
+  en: It partly throws itself it upon doctrinaire experiments, "co-operative banking" and "labor exchange" schemes; in other words, movements, in which it goes into movements in which it gives up the task of revolutionizing the old world with its own large collective weapons and on the contrary, seeks to bring about its emancipation, behind the back of society, in private ways, within the narrow bounds of its own class conditions, and, consequently, inevitably fails.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+- id: I.17.14
+  kind: p
+  original: Es scheint weder in sich selbst die revolutionäre Größe wiederfinden noch aus den neu eingegangenen Verbindungen neue Energie gewinnen zu können, bis alle Klassen, womit es im Juni gekämpft, neben ihm selbst platt darniederliegen.
+  en: The proletariat seems to be able neither to find again the revolutionary magnitude within itself nor to draw new energy from the newly formed alliances until all the classes, with whom it contended in June, shall lie prostrate along with itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+- id: I.17.15
+  kind: p
+  original: Aber wenigstens erliegt es mit den Ehren des großen weltgeschichtlichen Kampfes; nicht nur Frankreich, ganz Europa zittert vor dem Juni-Erdbeben, während die nachfolgenden Niederlagen der höhern Klassen so wohlfeil erkauft werden, daß sie der frechen Übertreibung von seiten der siegenden Partei bedürfen, um überhaupt als Ereignisse passieren zu können, und um so schmachvoller werden, je weiter die unterliegende Partei von der proletarischen entfernt ist.
+  en: But in all these defeats, the proletariat succumbs at least with the honor that attaches to great historic struggles; not France alone, all Europe trembles before the June earthquake, while the successive defeats inflicted upon the higher classes are bought so easily that they need the brazen exaggeration of the victorious party itself to be at all able to pass muster as an event; and these defeats become more disgraceful the further removed the defeated party stands from the proletariat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+- id: I.18.1
+  kind: p
+  original: Die Niederlage der Juni-Insurgenten hatte nun allerdings das Terrain vorbereitet, geebnet, worauf die bürgerliche Republik begründet, aufgeführt werden konnte; aber sie hatte zugleich gezeigt, daß es sich in Europa um andre Fragen handelt als um "Republik oder Monarchie".
+  en: True enough, the defeat of the June insurgents prepared, leveled the ground, upon which the bourgeois republic could be founded and erected; but it, at the same time, showed that there are in Europe other issues besides that of "Republic or Monarchy."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+- id: I.18.2
+  kind: p
+  original: Sie hatte offenbart, daß bürgerliche Republik hier die uneingeschränkte Despotie einer Klasse über andere Klassen bedeute.
+  en: It revealed the fact that here the Bourgeois Republic meant the unbridled despotism of one class over another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '122'
+- id: I.18.3
+  kind: p
+  original: Sie hatte bewiesen, daß in altzivilisierten Ländern mit entwickelter Klassenbildung, mit modernen Produktionsbedingungen und mit einem geistigen Bewußtsein, worin alle überlieferten Ideen durch jahrhundertelange Arbeit aufgelöst sind, die Republik überhaupt nur die politische Umwälzungsform der bürgerlichen Gesellschaft bedeutet und nicht ihre konservative Lebensform, wie z.B. in den Vereinigten Staaten von Nordamerika, wo zwar schon Klassen bestehn, aber sich noch nicht fixiert haben, sondern in beständigem Flusse fortwährend ihre Bestandteile wechseln und aneinander abtreten, wo die modernen Produktionsmittel, statt mit einer stagnanten Übervölkerung zusammenzufallen, vielmehr den relativen Mangel an Köpfen und Händen ersetzen, und wo endlich die fieberhaft jugendliche Bewegung der materiellen Produktion, die eine neue Welt sich anzueignen hat, weder Zeit noch Gelegenheit ließ, die alte Geisterwelt abzuschaffen.
+  en: It proved that, with nations enjoying an older civilization, having developed class distinctions, modern conditions of production, an intellectual consciousness, wherein all traditions of old have been dissolved through the work of centuries, that with such countries the republic means only the political revolutionary form of bourgeois society, not its conservative form of existence, as is the case in the United States of America, where, true enough, the classes already exist, but have not yet acquired permanent character, are in constant flux and reflux, constantly changing their elements and yielding them up to one another where the modern means of production, instead of coinciding with a stagnant population, rather compensate for the relative scarcity of heads and hands; and, finally, where the feverishly youthful life of material production, which has to appropriate a new world to itself, has so far left neither time nor opportunity to abolish the illusions of old.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 122-123
+  en_note: 'De Leon''s note [3]: This was written at the beginning of 1852.'
+- id: I.19.1
+  kind: p
+  original: Alle Klassen und Parteien hatten sich während der Junitage zur Partei der Ordnung vereint gegenüber der proletarischen Klasse, als der Partei der Anarchie, des Sozialismus, des Kommunismus.
+  en: All classes and parties joined hands in the June days in a "Party of Order" against the class of the proletariat, which was designated as the "Party of Anarchy," of Socialism, of Communism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '123'
+- id: I.19.2
+  kind: p
+  original: Sie hatten die Gesellschaft "gerettet" gegen "die Feinde der Gesellschaft".
+  en: They claimed to have "saved" society against the "enemies of society."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '123'
+- id: I.19.3
+  kind: p
+  original: 'Sie hatten die Stichworte der alten Gesellschaft, "Eigentum, Familie, Religion, Ordnung", als Parole unter ihr Heer ausgeteilt und der kontrerevolutionären Kreuzfahrt zugerufen: "Unter diesem Zeichen wirst du siegen!"'
+  en: 'They gave out the slogans of the old social order--"Property, Family, Religion, Order"--as the passwords for their army, and cried out to the counter-revolutionary crusaders: "In this sign thou wilt conquer!"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '123'
+- id: I.19.4
+  kind: p
+  original: 'Von diesem Augenblick, sobald eine der zahlreichen Parteien, die sich unter diesem Zeichen gegen die Juni-Insurgenten geschart hatten, in ihrem eigenen Klasseninteresse den revolutionären Kampfplatz zu behaupten sucht, unterliegt sie vor dem Rufe: "Eigentum, Familie, Religion, Ordnung".'
+  en: 'From that moment on, so soon as any of the numerous parties, which had marshaled themselves under this sign against the June insurgents, tries, in turn, to take the revolutionary field in the interest of its own class, it goes down in its turn before the cry: "Property, Family, Religion, Order."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '123'
+- id: I.19.5
+  kind: p
+  original: Die Gesellschaft wird ebensooft gerettet, als sich der Kreis ihrer Herrscher verengt, als ein exklusiveres Interesse dem weiteren gegenüber behauptet wird.
+  en: Thus it happens that "society is saved" as often as the circle of its ruling class is narrowed, as often as a more exclusive interest asserts itself over the general.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '123'
+- id: I.19.6
+  kind: p
+  original: Jede Forderung der einfachsten bürgerlichen Finanzreform, des ordinärsten Liberalismus, des formalsten Republikanertums, der plattesten Demokratie, wird gleichzeitig als "Attentat auf die Gesellschaft" bestraft und als "Sozialismus" gebrandmarkt.
+  en: Every demand for the most simple bourgeois financial reform, for the most ordinary liberalism, for the most commonplace republicanism, for the flattest democracy, is forthwith punished as an "assault upon society," and is branded as "Socialism."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '123'
+- id: I.19.7
+  kind: p
+  original: Und schließlich werden die Hohenpriester der "Religion und Ordnung" selbst mit Fußtritten von den Pythiastühlen verjagt, bei Nacht und Nebel aus ihren Betten geholt, in Zellenwagen gesteckt, in Kerker geworfen oder ins Exil geschickt, ihr Tempel wird der Erde gleichgemacht, ihr Mund wird versiegelt, ihre Feder zerbrochen, ihr Gesetz zerrissen, im Namen der Religion, des Eigentums, der Familie, der Ordnung.
+  en: Finally the High Priests of "Religion and Order" themselves are kicked off their tripods; are fetched out of their beds in the dark; hurried into patrol wagons, thrust into jail or sent into exile; their temple is razed to the ground, their mouths are sealed, their pen is broken, their law torn to pieces in the name of Religion, of Family, of Property, and of Order.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '123'
+- id: I.19.8
+  kind: p
+  original: Ordnungsfanatische Bourgeoisie auf ihren Balkonen werden von besoffenen Soldatenhaufen zusammengeschossen, ihre Häuser werden zum Zeitvertreib bombardiert - im Namen des Eigentums, der Familie, der Religion und der Ordnung.
+  en: Bourgeois, fanatic on the point of "Order," are shot down on their own balconies by drunken soldiers, forfeit their family property, and their houses are bombarded for pastime--all in the name of Property, of Family, of Religion, and of Order.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '123'
+- id: I.19.9
+  kind: p
+  original: Der Auswurf der bürgerlichen Gesellschaft bildet schließlich die heilige Phalanx der Ordnung, und Held Krapülinski zieht in die Tuilerien ein als "Retter der Gesellschaft".
+  en: Finally, the refuse of bourgeois society constitutes the "holy phalanx of Order," and the hero Crapulinsky makes his entry into the Tuileries as the "Savior of Society."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '123'
