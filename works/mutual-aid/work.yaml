@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: mutual-aid
+prefix: MA                        # citation prefix: MA I.2.1
+title: "Mutual Aid: A Factor of Evolution"
+title_original: "Mutual Aid: A Factor of Evolution"
+authors: [Peter Kropotkin]
+year: 1902
+original_language: en
+base_text: "Kropotkin's English text as published by William Heinemann, London, 1902, in the Project Gutenberg transcription (ebook 4341)"
+order: 120
+columns:
+  original: English original (1902)
+  en: ""                          # no historical translation: the original is English
+  modern: Modern draft
+status: ready
+rights: Public domain. See SOURCES.md.

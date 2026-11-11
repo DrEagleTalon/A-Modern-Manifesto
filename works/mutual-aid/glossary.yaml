@@ -1,0 +1,85 @@
+# Glossary of recurring terms in Mutual Aid (MA).
+# Kropotkin wrote in English, so these entries are about modernising, not translating.
+# `original` gives the words as the 1902 text uses them.
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+
+- term: mutual aid
+  original: Mutual Aid, mutual aid, mutual support, Mutual Aid and Mutual Support
+  literal: cooperation and support among members of the same species or community, as a regular habit and not a favour
+  options: [mutual aid, mutual support, cooperation, solidarity]
+  interim: mutual aid; "mutual support" where Kropotkin varies the phrase
+  status: open
+  verses: [P1902.3.1, P1902.6.2, P1902.9.4, I.11.1, C.11.7]
+  note: The book's own term and the title; keep it everywhere. Kropotkin capitalises it when he names it as a law or factor ("Mutual Aid as a law of Nature", I.11.1) and writes it lower case elsewhere; lower case throughout is fine for the draft. Do not swap in "charity" or "kindness". At P1902.10.3 he says society rests on neither love nor sympathy but on solidarity.
+
+- term: struggle for existence
+  original: struggle for existence, struggle for life, mutual struggle, the war of each against all
+  literal: competition for survival, as Darwin used the phrase, and the narrower reading of it as a fight of every individual against every other
+  options: [struggle for existence, struggle to survive, competition]
+  interim: struggle for existence; struggle for life
+  status: open
+  verses: [P1902.1.3, I.2.1, I.4.2, I.8.2, II.48.2, VII.6.8, C.9.1]
+  note: These are Darwin's terms and Kropotkin argues over their meaning, so keep them recognisable. Kropotkin separates Darwin's wide sense (I.2.1) from the narrow sense of his followers. "The war of each against all" (Hobbes, via Huxley at I.8.2) is the narrow sense; keep it as a phrase.
+
+- term: the fittest
+  original: the fittest, survival of the fittest, natural selection
+  literal: those best suited to survive in given conditions, not the strongest
+  options: [the fittest, those best suited to survive]
+  interim: the fittest
+  status: open
+  verses: [I.3.4, II.30.3, II.48.2, II.48.3]
+  note: Spencer's phrase, which Kropotkin takes over and redefines. The whole argument turns on who counts as fittest; do not paraphrase it away. A note can say the phrase is Spencer's.
+
+- term: Darwinists
+  original: Darwinists, Darwin's followers, Darwin's vulgarizers
+  literal: writers who made competition the main law of nature and society, often more than Darwin did
+  options: [Darwinists, Darwin's popularisers, social Darwinists]
+  interim: Darwinists; "Darwin's popularisers" for "vulgarizers"
+  status: open
+  verses: [P1902.1.3, I.5.7, I.15.5, III.40.4]
+  note: In 1902 a "vulgarizer" was a populariser, not a coarse person. "Social Darwinist" is a later label; use it only in commentary, not in the draft.
+
+- term: savages and barbarians
+  original: savages, savage tribes, barbarians, the barbarian stage
+  literal: stages of social development in the anthropology of the time (Morgan's "savagery" and "barbarism"), used for peoples without the State
+  options: [savages, barbarians, early peoples, tribal peoples, stateless societies]
+  interim: open; see cruxes.md
+  status: open
+  verses: [III.12.3, III.16.1, IV.5.7, IV.6.1, IV.12.1]
+  note: Chapter titles III and IV use these words. Kropotkin's point is that these peoples were more cooperative than Europeans believed, but the words carry the ranking of peoples that the period took for granted. This is the hardest choice in the book; decide it in Discussions before drafting III and IV.
+
+- term: village community
+  original: the village community, the commune, the mir
+  literal: a village that held land in common and governed itself through an assembly of households
+  options: [village community, village commune]
+  interim: village community
+  status: open
+  verses: [IV.1.1, IV.8.3, IV.9.1, VII.8.3, VII.14.1]
+  note: A term of the historians Kropotkin uses (Maine, Maurer, Kovalevsky). Keep it; it is the subject of chapters IV and VII. "The State" is the force that destroys it (VII.14.1).
+
+- term: guild
+  original: guild, craft guild, guild-brother, brotherhood, friendship
+  literal: a sworn association of people in the same trade or town, with its own courts, meals and duties of mutual help
+  options: [guild]
+  interim: guild
+  status: open
+  verses: [V.1.1, V.12.2, V.19.11, VI.1.1, VIII.1.1]
+  note: Kropotkin's guilds are wider than trade bodies; "friendship" and "brotherhood" are guild words in the charters he quotes. Keep "guild" and let the context show what it was.
+
+- term: folkmote
+  original: folkmote
+  literal: the assembly of all the free members of a village or tribe
+  options: [folkmote, the village assembly, the people's assembly]
+  interim: folkmote, with "the village assembly" at its first use in each chapter
+  status: open
+  verses: [IV.9.3, IV.12.2, IV.16.10]
+  note: An old English word Kropotkin uses for assemblies everywhere from Kabylia to Russia. A modern reader will not know it.
+
+- term: the State
+  original: the State, State interference
+  literal: the centralised political power that took over the functions of village, guild and city
+  options: [the state]
+  interim: the state
+  status: open
+  verses: [P1902.13.2, V.25.6, VII.14.1, VIII.1.1]
+  note: The book capitalises it. Lower case is today's usage and loses nothing.

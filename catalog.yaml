@@ -161,9 +161,10 @@
   original_language: en
   tier: A
   priority: 12
-  stage: sourced
+  stage: ready
   sources:
     original: ["gutenberg:Mutual-Aid--A-Factor-of-Evolution_4341"]
+  notes: "Written in English; no translation column. Introduction P1902, chapters I to VIII, Conclusion C. The Gutenberg text leaves out the book's Appendix and gives two notes (III.N8, V.N38) as \"None\"; both are flagged for checking against the 1902 printing."
 
 - id: state-and-revolution
   prefix: SR

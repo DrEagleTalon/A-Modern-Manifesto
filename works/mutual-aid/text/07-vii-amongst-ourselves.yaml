@@ -1,0 +1,2786 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: VII
+title_original: Chapter VII. Mutual Aid amongst Ourselves
+title_en: Chapter VII. Mutual Aid amongst Ourselves
+author: Peter Kropotkin
+date: '1902'
+original_language: en
+anchor_language: en
+source_original: 'P. Kropotkin, Mutual Aid: A Factor of Evolution (London: William Heinemann, 1902), public domain; Project Gutenberg ebook 4341'
+source_en: 'None needed: the original is in English'
+verses:
+- id: VII.0.1
+  kind: heading
+  original: Chapter VII. Mutual Aid amongst Ourselves
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.1.1
+  kind: heading
+  original: Popular revolts at the beginning of the State-period. Mutual Aid institutions of the present time. The village community; its struggles for resisting its abolition by the State. Habits derived from the village-community life, retained in our modern villages. Switzerland, France, Germany, Russia.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.2.1
+  kind: p
+  original: The mutual-aid tendency in man has so remote an origin, and is so deeply interwoven with all the past evolution of the human race, that it has been maintained by mankind up to the present time, notwithstanding all vicissitudes of history.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.2.2
+  kind: p
+  original: It was chiefly evolved during periods of peace and prosperity; but when even the greatest calamities befell men--when whole countries were laid waste by wars, and whole populations were decimated by misery, or groaned under the yoke of tyranny--the same tendency continued to live in the villages and among the poorer classes in the towns; it still kept them together, and in the long run it reacted even upon those ruling, fighting, and devastating minorities which dismissed it as sentimental nonsense.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.2.3
+  kind: p
+  original: And whenever mankind had to work out a new social organization, adapted to a new phasis of development, its constructive genius always drew the elements and the inspiration for the new departure from that same ever-living tendency.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.2.4
+  kind: p
+  original: New economical and social institutions, in so far as they were a creation of the masses, new ethical systems, and new religions, all have originated from the same source, and the ethical progress of our race, viewed in its broad lines, appears as a gradual extension of the mutual-aid principles from the tribe to always larger and larger agglomerations, so as to finally embrace one day the whole of mankind, without respect to its divers creeds, languages, and races.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.3.1
+  kind: p
+  original: After having passed through the savage tribe, and next through the village community, the Europeans came to work out in medieval times a new form of organization, which had the advantage of allowing great latitude for individual initiative, while it largely responded at the same time to man's need of mutual support.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.3.2
+  kind: p
+  original: A federation of village communities, covered by a network of guilds and fraternities, was called into existence in the medieval cities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.3.3
+  kind: p
+  original: The immense results achieved under this new form of union--in well-being for all, in industries, art, science, and commerce--were discussed at some length in two preceding chapters, and an attempt was also made to show why, towards the end of the fifteenth century, the medieval republics--surrounded by domains of hostile feudal lords, unable to free the peasants from servitude, and gradually corrupted by ideas of Roman Caesarism--were doomed to become a prey to the growing military States.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.4.1
+  kind: p
+  original: However, before submitting for three centuries to come, to the all-absorbing authority of the State, the masses of the people made a formidable attempt at reconstructing society on the old basis of mutual aid and support.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.4.2
+  kind: p
+  original: It is well known by this time that the great movement of the reform was not a mere revolt against the abuses of the Catholic Church.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.4.3
+  kind: p
+  original: It had its constructive ideal as well, and that ideal was life in free, brotherly communities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.4.4
+  kind: p
+  original: Those of the early writings and sermons of the period which found most response with the masses were imbued with ideas of the economical and social brotherhood of mankind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.4.5
+  kind: p
+  original: The "Twelve Articles" and similar professions of faith, which were circulated among the German and Swiss peasants and artisans, maintained not only every one's right to interpret the Bible according to his own understanding, but also included the demand of communal lands being restored to the village communities and feudal servitudes being abolished, and they always alluded to the "true" faith--a faith of brotherhood.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.4.6
+  kind: p
+  original: At the same time scores of thousands of men and women joined the communist fraternities of Moravia, giving them all their fortune and living in numerous and prosperous settlements constructed upon the principles of communism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N1
+- id: VII.4.7
+  kind: p
+  original: Only wholesale massacres by the thousand could put a stop to this widely-spread popular movement, and it was by the sword, the fire, and the rack that the young States secured their first and decisive victory over the masses of the people.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N2
+- id: VII.5.1
+  kind: p
+  original: For the next three centuries the States, both on the Continent and in these islands, systematically weeded out all institutions in which the mutual-aid tendency had formerly found its expression.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.2
+  kind: p
+  original: The village communities were bereft of their folkmotes, their courts and independent administration; their lands were confiscated.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.3
+  kind: p
+  original: The guilds were spoliated of their possessions and liberties, and placed under the control, the fancy, and the bribery of the State's official.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.4
+  kind: p
+  original: The cities were divested of their sovereignty, and the very springs of their inner life--the folkmote, the elected justices and administration, the sovereign parish and the sovereign guild--were annihilated; the State's functionary took possession of every link of what formerly was an organic whole.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.5
+  kind: p
+  original: Under that fatal policy and the wars it engendered, whole regions, once populous and wealthy, were laid bare; rich cities became insignificant boroughs; the very roads which connected them with other cities became impracticable.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.6
+  kind: p
+  original: Industry, art, and knowledge fell into decay.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.7
+  kind: p
+  original: Political education, science, and law were rendered subservient to the idea of State centralization.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.8
+  kind: p
+  original: It was taught in the Universities and from the pulpit that the institutions in which men formerly used to embody their needs of mutual support could not be tolerated in a properly organized State; that the State alone could represent the bonds of union between its subjects; that federalism and "particularism" were the enemies of progress, and the State was the only proper initiator of further development.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.9
+  kind: p
+  original: By the end of the last century the kings on the Continent, the Parliament in these isles, and the revolutionary Convention in France, although they were at war with each other, agreed in asserting that no separate unions between citizens must exist within the State; that hard labour and death were the only suitable punishments to workers who dared to enter into "coalitions."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.10
+  kind: p
+  original: '"No state within the State!"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.11
+  kind: p
+  original: The State alone, and the State's Church, must take care of matters of general interest, while the subjects must represent loose aggregations of individuals, connected by no particular bonds, bound to appeal to the Government each time that they feel a common need.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.12
+  kind: p
+  original: Up to the middle of this century this was the theory and practice in Europe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.13
+  kind: p
+  original: Even commercial and industrial societies were looked at with suspicion.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.14
+  kind: p
+  original: As to the workers, their unions were treated as unlawful almost within our own lifetime in this country and within the last twenty years on the Continent.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.5.15
+  kind: p
+  original: The whole system of our State education was such that up to the present time, even in this country, a notable portion of society would treat as a revolutionary measure the concession of such rights as every one, freeman or serf, exercised five hundred years ago in the village folkmote, the guild, the parish, and the city.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.1
+  kind: p
+  original: The absorption of all social functions by the State necessarily favoured the development of an unbridled, narrow-minded individualism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.2
+  kind: p
+  original: In proportion as the obligations towards the State grew in numbers the citizens were evidently relieved from their obligations towards each other.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.3
+  kind: p
+  original: In the guild--and in medieval times every man belonged to some guild or fraternity two "brothers" were bound to watch in turns a brother who had fallen ill; it would be sufficient now to give one's neighbour the address of the next paupers' hospital.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.4
+  kind: p
+  original: 'In barbarian society, to assist at a fight between two men, arisen from a quarrel, and not to prevent it from taking a fatal issue, meant to be oneself treated as a murderer; but under the theory of the all-protecting State the bystander need not intrude: it is the policeman''s business to interfere, or not.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.5
+  kind: p
+  original: And while in a savage land, among the Hottentots, it would be scandalous to eat without having loudly called out thrice whether there is not somebody wanting to share the food, all that a respectable citizen has to do now is to pay the poor tax and to let the starving starve.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.6
+  kind: p
+  original: The result is, that the theory which maintains that men can, and must, seek their own happiness in a disregard of other people's wants is now triumphant all round in law, in science, in religion.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.7
+  kind: p
+  original: It is the religion of the day, and to doubt of its efficacy is to be a dangerous Utopian.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.8
+  kind: p
+  original: Science loudly proclaims that the struggle of each against all is the leading principle of nature, and of human societies as well.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.9
+  kind: p
+  original: To that struggle Biology ascribes the progressive evolution of the animal world.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.10
+  kind: p
+  original: History takes the same line of argument; and political economists, in their naive ignorance, trace all progress of modern industry and machinery to the "wonderful" effects of the same principle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.11
+  kind: p
+  original: The very religion of the pulpit is a religion of individualism, slightly mitigated by more or less charitable relations to one's neighbours, chiefly on Sundays.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.6.12
+  kind: p
+  original: '"Practical" men and theorists, men of science and religious preachers, lawyers and politicians, all agree upon one thing--that individualism may be more or less softened in its harshest effects by charity, but that it is the only secure basis for the maintenance of society and its ulterior progress.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.7.1
+  kind: p
+  original: It seems, therefore, hopeless to look for mutual-aid institutions and practices in modern society.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.7.2
+  kind: p
+  original: What could remain of them?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.7.3
+  kind: p
+  original: And yet, as soon as we try to ascertain how the millions of human beings live, and begin to study their everyday relations, we are struck with the immense part which the mutual-aid and mutual-support principles play even now-a-days in human life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.7.4
+  kind: p
+  original: Although the destruction of mutual-aid institutions has been going on in practice and theory, for full three or four hundred years, hundreds of millions of men continue to live under such institutions; they piously maintain them and endeavour to reconstitute them where they have ceased to exist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.7.5
+  kind: p
+  original: In our mutual relations every one of us has his moments of revolt against the fashionable individualistic creed of the day, and actions in which men are guided by their mutual aid inclinations constitute so great a part of our daily intercourse that if a stop to such actions could be put all further ethical progress would be stopped at once.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.7.6
+  kind: p
+  original: Human society itself could not be maintained for even so much as the lifetime of one single generation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.7.7
+  kind: p
+  original: These facts, mostly neglected by sociologists and yet of the first importance for the life and further elevation of mankind, we are now going to analyze, beginning with the standing institutions of mutual support, and passing next to those acts of mutual aid which have their origin in personal or social sympathies.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.8.1
+  kind: p
+  original: When we cast a broad glance on the present constitution of European society we are struck at once with the fact that, although so much has been done to get rid of the village community, this form of union continues to exist to the extent we shall presently see, and that many attempts are now made either to reconstitute it in some shape or another or to find some substitute for it.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.8.2
+  kind: p
+  original: The current theory as regards the village community is, that in Western Europe it has died out by a natural death, because the communal possession of the soil was found inconsistent with the modern requirements of agriculture.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.8.3
+  kind: p
+  original: But the truth is that nowhere did the village community disappear of its own accord; everywhere, on the contrary, it took the ruling classes several centuries of persistent but not always successful efforts to abolish it and to confiscate the communal lands.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.9.1
+  kind: p
+  original: In France, the village communities began to be deprived of their independence, and their lands began to be plundered, as early as the sixteenth century.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.9.2
+  kind: p
+  original: However, it was only in the next century, when the mass of the peasants was brought, by exactions and wars, to the state of subjection and misery which is vividly depicted by all historians, that the plundering of their lands became easy and attained scandalous proportions.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.9.3
+  kind: p
+  original: '"Every one has taken of them according to his powers... imaginary debts have been claimed, in order to seize upon their lands;" so we read in an edict promulgated by Louis the Fourteenth in 1667.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N3
+- id: VII.9.4
+  kind: p
+  original: Of course the State's remedy for such evils was to render the communes still more subservient to the State, and to plunder them itself.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.9.5
+  kind: p
+  original: In fact, two years later all money revenue of the communes was confiscated by the King.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.9.6
+  kind: p
+  original: As to the appropriation of communal lands, it grew worse and worse, and in the next century the nobles and the clergy had already taken possession of immense tracts of land--one-half of the cultivated area, according to certain estimates--mostly to let it go out of culture.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N4
+- id: VII.9.7
+  kind: p
+  original: But the peasants still maintained their communal institutions, and until the year 1787 the village folkmotes, composed of all householders, used to come together in the shadow of the bell-tower or a tree, to allot and re-allot what they had retained of their fields, to assess the taxes, and to elect their executive, just as the Russian mir does at the present time.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.9.8
+  kind: p
+  original: This is what Babeau's researches have proved to demonstration.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N5
+- id: VII.10.1
+  kind: p
+  original: The Government found, however, the folkmotes "too noisy," too disobedient, and in 1787, elected councils, composed of a mayor and three to six syndics, chosen from among the wealthier peasants, were introduced instead.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.10.2
+  kind: p
+  original: Two years later the Revolutionary Assemblee Constituante, which was on this point at one with the old regime, fully confirmed this law (on the 14th of December, 1789), and the bourgeois du village had now their turn for the plunder of communal lands, which continued all through the Revolutionary period.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.10.3
+  kind: p
+  original: Only on the 16th of August, 1792, the Convention, under the pressure of the peasants' insurrections, decided to return the enclosed lands to the communes; but it ordered at the same time that they should be divided in equal parts among the wealthier peasants only--a measure which provoked new insurrections and was abrogated next year, in 1793, when the order came to divide the communal lands among all commoners, rich and poor alike, "active" and "inactive."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N6
+- id: VII.11.1
+  kind: p
+  original: These two laws, however, ran so much against the conceptions of the peasants that they were not obeyed, and wherever the peasants had retaken possession of part of their lands they kept them undivided.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.11.2
+  kind: p
+  original: But then came the long years of wars, and the communal lands were simply confiscated by the State (in 1794) as a mortgage for State loans, put up for sale, and plundered as such; then returned again to the communes and confiscated again (in 1813); and only in 1816 what remained of them, i.e. about 15,000,000 acres of the least productive land, was restored to the village communities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N7
+- id: VII.11.3
+  kind: p
+  original: Still this was not yet the end of the troubles of the communes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.11.4
+  kind: p
+  original: Every new regime saw in the communal lands a means for gratifying its supporters, and three laws (the first in 1837 and the last under Napoleon the Third) were passed to induce the village communities to divide their estates.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.11.5
+  kind: p
+  original: Three times these laws had to be repealed, in consequence of the opposition they met with in the villages; but something was snapped up each time, and Napoleon the Third, under the pretext of encouraging perfected methods of agriculture, granted large estates out of the communal lands to some of his favourites.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.12.1
+  kind: p
+  original: As to the autonomy of the village communities, what could be retained of it after so many blows?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.12.2
+  kind: p
+  original: The mayor and the syndics were simply looked upon as unpaid functionaries of the State machinery.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.12.3
+  kind: p
+  original: Even now, under the Third Republic, very little can be done in a village community without the huge State machinery, up to the prefet and the ministries, being set in motion.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.12.4
+  kind: p
+  original: It is hardly credible, and yet it is true, that when, for instance, a peasant intends to pay in money his share in the repair of a communal road, instead of himself breaking the necessary amount of stones, no fewer than twelve different functionaries of the State must give their approval, and an aggregate of fifty-two different acts must be performed by them, and exchanged between them, before the peasant is permitted to pay that money to the communal council.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.12.5
+  kind: p
+  original: All the remainder bears the same character.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N8
+- id: VII.13.1
+  kind: p
+  original: What took place in France took place everywhere in Western and Middle Europe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.13.2
+  kind: p
+  original: Even the chief dates of the great assaults upon the peasant lands are the same.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.13.3
+  kind: p
+  original: For England the only difference is that the spoliation was accomplished by separate acts rather than by general sweeping measures--with less haste but more thoroughly than in France.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.13.4
+  kind: p
+  original: The seizure of the communal lands by the lords also began in the fifteenth century, after the defeat of the peasant insurrection of 1380--as seen from Rossus's Historia and from a statute of Henry the Seventh, in which these seizures are spoken of under the heading of "enormitees and myschefes as be hurtfull... to the common wele."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N9
+- id: VII.13.5
+  kind: p
+  original: Later on the Great Inquest, under Henry the Eighth, was begun, as is known, in order to put a stop to the enclosure of communal lands, but it ended in a sanction of what had been done.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N10
+- id: VII.13.6
+  kind: p
+  original: The communal lands continued to be preyed upon, and the peasants were driven from the land.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.13.7
+  kind: p
+  original: But it was especially since the middle of the eighteenth century that, in England as everywhere else, it became part of a systematic policy to simply weed out all traces of communal ownership; and the wonder is not that it has disappeared, but that it could be maintained, even in England, so as to be "generally prevalent so late as the grandfathers of this generation."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N11
+- id: VII.13.8
+  kind: p
+  original: The very object of the Enclosure Acts, as shown by Mr. Seebohm, was to remove this system, and it was so well removed by the nearly four thousand Acts passed between 1760 and 1844 that only faint traces of it remain now.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N12
+- id: VII.13.9
+  kind: p
+  original: The land of the village communities was taken by the lords, and the appropriation was sanctioned by Parliament in each separate case.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.14.1
+  kind: p
+  original: In Germany, in Austria, in Belgium the village community was also destroyed by the State.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.14.2
+  kind: p
+  original: Instances of commoners themselves dividing their lands were rare, while everywhere the States coerced them to enforce the division, or simply favoured the private appropriation of their lands.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N13
+- id: VII.14.3
+  kind: p
+  original: The last blow to communal ownership in Middle Europe also dates from the middle of the eighteenth century.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.14.4
+  kind: p
+  original: In Austria sheer force was used by the Government, in 1768, to compel the communes to divide their lands--a special commission being nominated two years later for that purpose.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.14.5
+  kind: p
+  original: In Prussia Frederick the Second, in several of his ordinances (in 1752, 1763, 1765, and 1769), recommended to the Justizcollegien to enforce the division.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.14.6
+  kind: p
+  original: In Silesia a special resolution was issued to serve that aim in 1771.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.14.7
+  kind: p
+  original: The same took place in Belgium, and, as the communes did not obey, a law was issued in 1847 empowering the Government to buy communal meadows in order to sell them in retail, and to make a forced sale of the communal land when there was a would-be buyer for it.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N14
+- id: VII.15.1
+  kind: p
+  original: In short, to speak of the natural death of the village communities in virtue of economical laws is as grim a joke as to speak of the natural death of soldiers slaughtered on a battlefield.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.15.2
+  kind: p
+  original: 'The fact was simply this: The village communities had lived for over a thousand years; and where and when the peasants were not ruined by wars and exactions they steadily improved their methods of culture.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.15.3
+  kind: p
+  original: But as the value of land was increasing, in consequence of the growth of industries, and the nobility had acquired, under the State organization, a power which it never had had under the feudal system, it took possession of the best parts of the communal lands, and did its best to destroy the communal institutions.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.16.1
+  kind: p
+  original: However, the village-community institutions so well respond to the needs and conceptions of the tillers of the soil that, in spite of all, Europe is up to this date covered with living survivals of the village communities, and European country life is permeated with customs and habits dating from the community period.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.16.2
+  kind: p
+  original: Even in England, notwithstanding all the drastic measures taken against the old order of things, it prevailed as late as the beginning of the nineteenth century.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.16.3
+  kind: p
+  original: Mr. Gomme--one of the very few English scholars who have paid attention to the subject--shows in his work that many traces of the communal possession of the soil are found in Scotland, "runrig" tenancy having been maintained in Forfarshire up to 1813, while in certain villages of Inverness the custom was, up to 1801, to plough the land for the whole community, without leaving any boundaries, and to allot it after the ploughing was done.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.16.4
+  kind: p
+  original: In Kilmorie the allotment and re-allotment of the fields was in full vigour "till the last twenty-five years," and the Crofters' Commission found it still in vigour in certain islands.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N15
+- id: VII.16.5
+  kind: p
+  original: In Ireland the system prevailed up to the great famine; and as to England, Marshall's works, which passed unnoticed until Nasse and Sir Henry Maine drew attention to them, leave no doubt as to the village-community system having been widely spread, in nearly all English counties, at the beginning of the nineteenth century.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N16
+- id: VII.16.6
+  kind: p
+  original: No more than twenty years ago Sir Henry Maine was "greatly surprised at the number of instances of abnormal property rights, necessarily implying the former existence of collective ownership and joint cultivation," which a comparatively brief inquiry brought under his notice.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N17
+- id: VII.16.7
+  kind: p
+  original: And, communal institutions having persisted so late as that, a great number of mutual-aid habits and customs would undoubtedly be discovered in English villages if the writers of this country only paid attention to village life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N18
+- id: VII.17.1
+  kind: p
+  original: As to the Continent, we find the communal institutions fully alive in many parts of France, Switzerland, Germany, Italy, the Scandinavian lands, and Spain, to say nothing of Eastern Europe; the village life in these countries is permeated with communal habits and customs; and almost every year the Continental literature is enriched by serious works dealing with this and connected subjects.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.17.2
+  kind: p
+  original: I must, therefore, limit my illustrations to the most typical instances.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.17.3
+  kind: p
+  original: Switzerland is undoubtedly one of them.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.17.4
+  kind: p
+  original: Not only the five republics of Uri, Schwytz, Appenzell, Glarus, and Unterwalden hold their lands as undivided estates, and are governed by their popular folkmotes, but in all other cantons too the village communities remain in possession of a wide self-government, and own large parts of the Federal territory.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N19
+- id: VII.17.5
+  kind: p
+  original: Two-thirds of all the Alpine meadows and two-thirds of all the forests of Switzerland are until now communal land; and a considerable number of fields, orchards, vineyards, peat bogs, quarries, and so on, are owned in common.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.17.6
+  kind: p
+  original: In the Vaud, where all the householders continue to take part in the deliberations of their elected communal councils, the communal spirit is especially alive.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.17.7
+  kind: p
+  original: Towards the end of the winter all the young men of each village go to stay a few days in the woods, to fell timber and to bring it down the steep slopes tobogganing way, the timber and the fuel wood being divided among all households or sold for their benefit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.17.8
+  kind: p
+  original: These excursions are real fetes of manly labour.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.17.9
+  kind: p
+  original: On the banks of Lake Leman part of the work required to keep up the terraces of the vineyards is still done in common; and in the spring, when the thermometer threatens to fall below zero before sunrise, the watchman wakes up all householders, who light fires of straw and dung and protect their vine-trees from the frost by an artificial cloud.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.17.10
+  kind: p
+  original: In nearly all cantons the village communities possess so-called.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.17.11
+  kind: p
+  original: Burgernutzen--that is, they hold in common a number of cows, in order to supply each family with butter; or they keep communal fields or vineyards, of which the produce is divided between the burghers, or they rent their land for the benefit of the community.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N20
+- id: VII.18.1
+  kind: p
+  original: It may be taken as a rule that where the communes have retained a wide sphere of functions, so as to be living parts of the national organism, and where they have not been reduced to sheer misery, they never fail to take good care of their lands.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.18.2
+  kind: p
+  original: Accordingly the communal estates in Switzerland strikingly contrast with the miserable state of "commons" in this country.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.18.3
+  kind: p
+  original: The communal forests in the Vaud and the Valais are admirably managed, in conformity with the rules of modern forestry.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.18.4
+  kind: p
+  original: Elsewhere the "strips" of communal fields, which change owners under the system of re-allotment, are very well manured, especially as there is no lack of meadows and cattle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.18.5
+  kind: p
+  original: The high level meadows are well kept as a rule, and the rural roads are excellent.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N21
+- id: VII.18.6
+  kind: p
+  original: And when we admire the Swiss chalet, the mountain road, the peasants' cattle, the terraces of vineyards, or the school-house in Switzer land, we must keep in mind that without the timber for the chalet being taken from the communal woods and the stone from the communal quarries, without the cows being kept on the communal meadows, and the roads being made and the school-houses built by communal work, there would be little to admire.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.19.1
+  kind: p
+  original: It hardly need be said that a great number of mutual-aid habits and customs continue to persist in the Swiss villages.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.19.2
+  kind: p
+  original: The evening gatherings for shelling walnuts, which take place in turns in each household; the evening parties for sewing the dowry of the girl who is going to marry; the calling of "aids" for building the houses and taking in the crops, as well as for all sorts of work which may be required by one of the commoners; the custom of exchanging children from one canton to the other, in order to make them learn two languages, French and German; and so on--all these are quite habitual; while, on the other side, divers modern requirements are met in the same spirit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N22
+- id: VII.19.3
+  kind: p
+  original: Thus in Glarus most of the Alpine meadows have been sold during a time of calamity; but the communes still continue to buy field land, and after the newly-bought fields have been left in the possession of separate commoners for ten, twenty, or thirty years, as the case might be, they return to the common stock, which is re-allotted according to the needs of all.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.19.4
+  kind: p
+  original: A great number of small associations are formed to produce some of the necessaries for life--bread, cheese, and wine--by common work, be it only on a limited scale; and agricultural co-operation altogether spreads in Switzerland with the greatest ease.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.19.5
+  kind: p
+  original: Associations formed between ten to thirty peasants, who buy meadows and fields in common, and cultivate them as co-owners, are of common occurrence; while dairy associations for the sale of milk, butter, and cheese are organized everywhere.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.19.6
+  kind: p
+  original: In fact, Switzerland was the birthplace of that form of co-operation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.19.7
+  kind: p
+  original: It offers, moreover, an immense field for the study of all sorts of small and large societies, formed for the satisfaction of all sorts of modern wants.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.19.8
+  kind: p
+  original: In certain parts of Switzerland one finds in almost every village a number of associations--for protection from fire, for boating, for maintaining the quays on the shores of a lake, for the supply of water, and so on; and the country is covered with societies of archers, sharpshooters, topographers, footpath explorers, and the like, originated from modern militarism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.20.1
+  kind: p
+  original: Switzerland is, however, by no means an exception in Europe, because the same institutions and habits are found in the villages of France, of Italy, of Germany, of Denmark, and so on.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.20.2
+  kind: p
+  original: We have just seen what has been done by the rulers of France in order to destroy the village community and to get hold of its lands; but notwithstanding all that one-tenth part of the whole territory available for culture, i.e. 13,500,000 acres, including one-half of all the natural meadows and nearly a fifth part of all the forests of the country, remain in communal possession.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.20.3
+  kind: p
+  original: The woods supply the communers with fuel, and the timber wood is cut, mostly by communal work, with all desirable regularity; the grazing lands are free for the commoners' cattle; and what remains of communal fields is allotted and re-allotted in certain parts Ardennes--in the usual of France--namely, in the way.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N23
+- id: VII.21.1
+  kind: p
+  original: These additional sources of supply, which aid the poorer peasants to pass through a year of bad crops without parting with their small plots of land and without running into irredeemable debts, have certainly their importance for both the agricultural labourers and the nearly three millions of small peasant proprietors.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.21.2
+  kind: p
+  original: It is even doubtful whether small peasant proprietorship could be maintained without these additional resources.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.21.3
+  kind: p
+  original: But the ethical importance of the communal possessions, small as they are, is still greater than their economical value.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.21.4
+  kind: p
+  original: They maintain in village life a nucleus of customs and habits of mutual aid which undoubtedly acts as a mighty check upon the development of reckless individualism and greediness, which small land-ownership is only too prone to develop.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.21.5
+  kind: p
+  original: Mutual aid in all possible circumstances of village life is part of the routine life in all parts of the country.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.21.6
+  kind: p
+  original: Everywhere we meet, under different names, with the charroi, i.e. the free aid of the neighbours for taking in a crop, for vintage, or for building a house; everywhere we find the same evening gatherings as have just been mentioned in Switzerland; and everywhere the commoners associate for all sorts of work.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.21.7
+  kind: p
+  original: Such habits are mentioned by nearly all those who have written upon French village life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.21.8
+  kind: p
+  original: But it will perhaps be better to give in this place some abstracts from letters which I have just received from a friend of mine whom I have asked to communicate to me his observations on this subject.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.21.9
+  kind: p
+  original: They come from an aged man who for years has been the mayor of his commune in South France (in Ariege); the facts he mentions are known to him from long years of personal observation, and they have the advantage of coming from one neighbourhood instead of being skimmed from a large area.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.21.10
+  kind: p
+  original: Some of them may seem trifling, but as a whole they depict quite a little world of village life.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.22.1
+  kind: p
+  original: '"In several communes in our neighbourhood," my friend writes, "the old custom of l''emprount is in vigour.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.22.2
+  kind: p
+  original: When many hands are required in a metairie for rapidly making some work--dig out potatoes or mow the grass--the youth of the neighbourhood is convoked; young men and girls come in numbers, make it gaily and for nothing; and in the evening, after a gay meal, they dance.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.23.1
+  kind: p
+  original: '"In the same communes, when a girl is going to marry, the girls of the neighbourhood come to aid in sewing the dowry.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.23.2
+  kind: p
+  original: In several communes the women still continue to spin a good deal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.23.3
+  kind: p
+  original: When the winding off has to be done in a family it is done in one evening--all friends being convoked for that work.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.23.4
+  kind: p
+  original: In many communes of the Ariege and other parts of the south-west the shelling of the Indian corn-sheaves is also done by all the neighbours.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.23.5
+  kind: p
+  original: They are treated with chestnuts and wine, and the young people dance after the work has been done.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.23.6
+  kind: p
+  original: The same custom is practised for making nut oil and crushing hemp.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.23.7
+  kind: p
+  original: In the commune of L. the same is done for bringing in the corn crops.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.23.8
+  kind: p
+  original: These days of hard work become fete days, as the owner stakes his honour on serving a good meal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.23.9
+  kind: p
+  original: No remuneration is given; all do it for each other.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N24
+- id: VII.24.1
+  kind: p
+  original: '"In the commune of S. the common grazing-land is every year increased, so that nearly the whole of the land of the commune is now kept in common.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.24.2
+  kind: p
+  original: The shepherds are elected by all owners of the cattle, including women.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.24.3
+  kind: p
+  original: The bulls are communal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.25.1
+  kind: p
+  original: '"In the commune of M. the forty to fifty small sheep flocks of the commoners are brought together and divided into three or four flocks before being sent to the higher meadows.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.25.2
+  kind: p
+  original: Each owner goes for a week to serve as shepherd.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.26.1
+  kind: p
+  original: '"In the hamlet of C. a threshing machine has been bought in common by several households; the fifteen to twenty persons required to serve the machine being supplied by all the families.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.26.2
+  kind: p
+  original: Three other threshing machines have been bought and are rented out by their owners, but the work is performed by outside helpers, invited in the usual way.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.27.1
+  kind: p
+  original: '"In our commune of R. we had to raise the wall of the cemetery.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.27.2
+  kind: p
+  original: Half of the money which was required for buying lime and for the wages of the skilled workers was supplied by the county council, and the other half by subscription.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.27.3
+  kind: p
+  original: As to the work of carrying sand and water, making mortar, and serving the masons, it was done entirely by volunteers [just as in the Kabyle djemmaa].
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.27.4
+  kind: p
+  original: The rural roads were repaired in the same way, by volunteer days of work given by the commoners.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.27.5
+  kind: p
+  original: Other communes have built in the same way their fountains.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.27.6
+  kind: p
+  original: The wine-press and other smaller appliances are frequently kept by the commune."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.28.1
+  kind: p
+  original: Two residents of the same neighbourhood, questioned by my friend, add the following:--
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.29.1
+  kind: p
+  original: '"At O. a few years ago there was no mill.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.29.2
+  kind: p
+  original: The commune has built one, levying a tax upon the commoners.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.29.3
+  kind: p
+  original: As to the miller, they decided, in order to avoid frauds and partiality, that he should be paid two francs for each bread-eater, and the corn be ground free.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.30.1
+  kind: p
+  original: '"At St. G. few peasants are insured against fire.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.30.2
+  kind: p
+  original: When a conflagration has taken place--so it was lately--all give something to the family which has suffered from it--a chaldron, a bed-cloth, a chair, and so on--and a modest household is thus reconstituted.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.30.3
+  kind: p
+  original: All the neighbours aid to build the house, and in the meantime the family is lodged free by the neighbours."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.31.1
+  kind: p
+  original: Such habits of mutual support--of which many more examples could be given--undoubtedly account for the easiness with which the French peasants associate for using, in turn, the plough with its team of horses, the wine-press, and the threshing machine, when they are kept in the village by one of them only, as well as for the performance of all sorts of rural work in common.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.31.2
+  kind: p
+  original: Canals were maintained, forests were cleared, trees were planted, and marshes were drained by the village communities from time immemorial; and the same continues still.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.31.3
+  kind: p
+  original: Quite lately, in La Borne of Lozere barren hills were turned into rich gardens by communal work.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.31.4
+  kind: p
+  original: '"The soil was brought on men''s backs; terraces were made and planted with chestnut trees, peach trees, and orchards, and water was brought for irrigation in canals two or three miles long."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.31.5
+  kind: p
+  original: Just now they have dug a new canal, eleven miles in length.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N25
+- id: VII.32.1
+  kind: p
+  original: To the same spirit is also due the remarkable success lately obtained by the syndicats agricoles, or peasants' and farmers' associations.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.32.2
+  kind: p
+  original: It was not until 1884 that associations of more than nineteen persons were permitted in France, and I need not say that when this "dangerous experiment" was ventured upon--so it was styled in the Chambers--all due "precautions" which functionaries can invent were taken.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.32.3
+  kind: p
+  original: Notwithstanding all that, France begins to be covered with syndicates.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.32.4
+  kind: p
+  original: At the outset they were only formed for buying manures and seeds, falsification having attained colossal proportions in these two branches; but gradually they extended their functions in various directions, including the sale of agricultural produce and permanent improvements of the land.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N26
+- id: VII.32.5
+  kind: p
+  original: In South France the ravages of the phylloxera have called into existence a great number of wine-growers' associations.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.32.6
+  kind: p
+  original: Ten to thirty growers form a syndicate, buy a steam-engine for pumping water, and make the necessary arrangements for inundating their vineyards in turn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N27
+- id: VII.32.7
+  kind: p
+  original: New associations for protecting the land from inundations, for irrigation purposes, and for maintaining canals are continually formed, and the unanimity of all peasants of a neighbourhood, which is required by law, is no obstacle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.32.8
+  kind: p
+  original: Elsewhere we have the fruitieres, or dairy associations, in some of which all butter and cheese is divided in equal parts, irrespective of the yield of each cow.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.32.9
+  kind: p
+  original: In the Ariege we find an association of eight separate communes for the common culture of their lands, which they have put together; syndicates for free medical aid have been formed in 172 communes out of 337 in the same department; associations of consumers arise in connection with the syndicates; and so on.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N28
+- id: VII.32.10
+  kind: p
+  original: '"Quite a revolution is going on in our villages," Alfred Baudrillart writes, "through these associations, which take in each region their own special characters."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.33.1
+  kind: p
+  original: Very much the same must be said of Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.33.2
+  kind: p
+  original: Wherever the peasants could resist the plunder of their lands, they have retained them in communal ownership, which largely prevails in Wurttemberg, Baden, Hohenzollern, and in the Hessian province of Starkenberg.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N29
+- id: VII.33.3
+  kind: p
+  original: 'The communal forests are kept, as a rule, in an excellent state, and in thousands of communes timber and fuel wood are divided every year among all inhabitants; even the old custom of the Lesholztag is widely spread: at the ringing of the village bell all go to the forest to take as much fuel wood as they can carry.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N30
+- id: VII.33.4
+  kind: p
+  original: In Westphalia one finds communes in which all the land is cultivated as one common estate, in accordance with all requirements of modern agronomy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.33.5
+  kind: p
+  original: As to the old communal customs and habits, they are in vigour in most parts of Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.33.6
+  kind: p
+  original: The calling in of aids, which are real fetes of labour, is known to be quite habitual in Westphalia, Hesse, and Nassau.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.33.7
+  kind: p
+  original: In well-timbered regions the timber for a new house is usually taken from the communal forest, and all the neighbours join in building the house.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.33.8
+  kind: p
+  original: Even in the suburbs of Frankfort it is a regular custom among the gardeners that in case of one of them being ill all come on Sunday to cultivate his garden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N31
+- id: VII.34.1
+  kind: p
+  original: In Germany, as in France, as soon as the rulers of the people repealed their laws against the peasant associations--that was only in 1884-1888--these unions began to develop with a wonderful rapidity, notwithstanding all legal obstacles which were put in their way "It is a fact," Buchenberger says, "that in thousands of village communities, in which no sort of chemical manure or rational fodder was ever known, both have become of everyday use, to a quite unforeseen extent, owing to these associations" (vol. ii. p. 507).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N32
+- id: VII.34.2
+  kind: p
+  original: All sorts of labour-saving implements and agricultural machinery, and better breeds of cattle, are bought through the associations, and various arrangements for improving the quality of the produce begin to be introduced.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.34.3
+  kind: p
+  original: Unions for the sale of agricultural produce are also formed, as well as for permanent improvements of the land.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N33
+- id: VII.35.1
+  kind: p
+  original: From the point of view of social economics all these efforts of the peasants certainly are of little importance.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.35.2
+  kind: p
+  original: They cannot substantially, and still less permanently, alleviate the misery to which the tillers of the soil are doomed all over Europe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.35.3
+  kind: p
+  original: But from the ethical point of view, which we are now considering, their importance cannot be overrated.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.35.4
+  kind: p
+  original: They prove that even under the system of reckless individualism which now prevails the agricultural masses piously maintain their mutual-support inheritance; and as soon as the States relax the iron laws by means of which they have broken all bonds between men, these bonds are at once reconstituted, notwithstanding the difficulties, political, economical, and social, which are many, and in such forms as best answer to the modern requirements of production.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.35.5
+  kind: p
+  original: They indicate in which direction and in which form further progress must be expected.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.36.1
+  kind: p
+  original: I might easily multiply such illustrations, taking them from Italy, Spain, Denmark, and so on, and pointing out some interesting features which are proper to each of these countries.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.36.2
+  kind: p
+  original: The Slavonian populations of Austria and the Balkan peninsula, among whom the "compound family," or "undivided household," is found in existence, ought also to be mentioned.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N34
+- id: VII.36.3
+  kind: p
+  original: But I hasten to pass on to Russia, where the same mutual-support tendency takes certain new and unforeseen forms.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.36.4
+  kind: p
+  original: 'Moreover, in dealing with the village community in Russia we have the advantage: of possessing an immense mass of materials, collected during the colossal house-to-house inquest which was lately made by several zemstvos (county councils), and which embraces a population of nearly 20,000,000 peasants in different parts of the country.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N35
+- id: VII.37.1
+  kind: p
+  original: Two important conclusions may be drawn from the bulk of evidence collected by the Russian inquests.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.37.2
+  kind: p
+  original: In Middle Russia, where fully one-third of the peasants have been brought to utter ruin (by heavy taxation, small allotments of unproductive land, rack rents, and very severe tax-collecting after total failures of crops), there was, during the first five-and-twenty years after the emancipation of the serfs, a decided tendency towards the constitution of individual property in land within the village communities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.37.3
+  kind: p
+  original: Many impoverished "horseless" peasants abandoned their allotments, and this land often became the property of those richer peasants, who borrow additional incomes from trade, or of outside traders, who buy land chiefly for exacting rack rents from the peasants.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.37.4
+  kind: p
+  original: It must also be added that a flaw in the land redemption law of 1861 offered great facilities for buying peasants' lands at a very small expense, and that the State officials mostly used their weighty influence in favour of individual as against communal ownership.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N36
+- id: VII.37.5
+  kind: p
+  original: However, for the last twenty years a strong wind of opposition to the individual appropriation of the land blows again through the Middle Russian villages, and strenuous efforts are being made by the bulk of those peasants who stand between the rich and the very poor to uphold the village community.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.37.6
+  kind: p
+  original: As to the fertile steppes of the South, which are now the most populous and the richest part of European Russia, they were mostly colonized, during the present century, under the system of individual ownership or occupation, sanctioned in that form by the State.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.37.7
+  kind: p
+  original: But since improved methods of agriculture with the aid of machinery have been introduced in the region, the peasant owners have gradually begun themselves to transform their individual ownership into communal possession, and one finds now, in that granary of Russia, a very great number of spontaneously formed village communities of recent origin.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N37
+- id: VII.38.1
+  kind: p
+  original: The Crimea and the part of the mainland which lies to the north of it (the province of Taurida), for which we have detailed data, offer an excellent illustration of that movement.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.2
+  kind: p
+  original: This territory began to be colonized, after its annexation in 1783, by Great, Little, and White Russians--Cossacks, freemen, and runaway serfs--who came individually or in small groups from all corners of Russia.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.3
+  kind: p
+  original: They took first to cattle-breeding, and when they began later on to till the soil, each one tilled as much as he could afford to.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.4
+  kind: p
+  original: But when--immigration continuing, and perfected ploughs being introduced--land stood in great demand, bitter disputes arose among the settlers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.5
+  kind: p
+  original: They lasted for years, until these men, previously tied by no mutual bonds, gradually came to the idea that an end must be put to disputes by introducing village-community ownership.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.6
+  kind: p
+  original: They passed decisions to the effect that the land which they owned individually should henceforward be their common property, and they began to allot and to re-allot it in accordance with the usual village-community rules.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.7
+  kind: p
+  original: The movement gradually took a great extension, and on a small territory, the Taurida statisticians found 161 villages in which communal ownership had been introduced by the peasant proprietors themselves, chiefly in the years 1855-1885, in lieu of individual ownership.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.8
+  kind: p
+  original: Quite a variety of village-community types has been freely worked out in this way by the settlers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N38
+- id: VII.38.9
+  kind: p
+  original: What adds to the interest of this transformation is that it took place, not only among the Great Russians, who are used to village-community life, but also among Little Russians, who have long since forgotten it under Polish rule, among Greeks and Bulgarians, and even among Germans, who have long since worked out in their prosperous and half-industrial Volga colonies their own type of village community.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N39
+- id: VII.38.10
+  kind: p
+  original: It is evident that the Mussulman Tartars of Taurida hold their land under the Mussulman customary law, which is limited personal occupation; but even with them the European village community has been introduced in a few cases.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.11
+  kind: p
+  original: As to other nationalities in Taurida, individual ownership has been abolished in six Esthonian, two Greek, two Bulgarian, one Czech, and one German village.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.12
+  kind: p
+  original: This movement is characteristic for the whole of the fertile steppe region of the south.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.13
+  kind: p
+  original: But separate instances of it are also found in Little Russia.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.14
+  kind: p
+  original: Thus in a number of villages of the province of Chernigov the peasants were formerly individual owners of their plots; they had separate legal documents for their plots and used to rent and to sell their land at will.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.15
+  kind: p
+  original: But in the fifties of the nineteenth century a movement began among them in favour of communal possession, the chief argument being the growing number of pauper families.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.16
+  kind: p
+  original: The initiative of the reform was taken in one village, and the others followed suit, the last case on record dating from 1882.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.17
+  kind: p
+  original: Of course there were struggles between the poor, who usually claim for communal possession, and the rich, who usually prefer individual ownership; and the struggles often lasted for years.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.18
+  kind: p
+  original: In certain places the unanimity required then by the law being impossible to obtain, the village divided into two villages, one under individual ownership and the other under communal possession; and so they remained until the two coalesced into one community, or else they remained divided still.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.19
+  kind: p
+  original: As to Middle Russia, its a fact that in many villages which were drifting towards individual ownership there began since 1880 a mass movement in favour of re-establishing the village community.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.20
+  kind: p
+  original: Even peasant proprietors who had lived for years under the individualist system returned en masse to the communal institutions.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.21
+  kind: p
+  original: Thus, there is a considerable number of ex-serfs who have received one-fourth part only of the regulation allotments, but they have received them free of redemption and in individual ownership.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.22
+  kind: p
+  original: There was in 1890 a wide-spread movement among them (in Kursk, Ryazan, Tambov, Orel, etc.) towards putting their allotments together and introducing the village community.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.23
+  kind: p
+  original: The "free agriculturists" (volnyie khlebopashtsy), who were liberated from serfdom under the law of 1803, and had bought their allotments--each family separately--are now nearly all under the village-community system, which they have introduced themselves.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.24
+  kind: p
+  original: All these movements are of recent origin, and non-Russians too join them.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.25
+  kind: p
+  original: Thus the Bulgares in the district of Tiraspol, after having remained for sixty years under the personal-property system, introduced the village community in the years 1876-1882.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.26
+  kind: p
+  original: The German Mennonites of Berdyansk fought in 1890 for introducing the village community, and the small peasant proprietors (Kleinwirthschaftliche) among the German Baptists were agitating in their villages in the same direction.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.27
+  kind: p
+  original: 'One instance more: In the province of Samara the Russian government created in the forties, by way of experiment, 103 villages on the system of individual ownership.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.28
+  kind: p
+  original: Each household received a splendid property of 105 acres.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.29
+  kind: p
+  original: In 1890, out of the 103 villages the peasants in 72 had already notified the desire of introducing the village community.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.38.30
+  kind: p
+  original: I take all these facts from the excellent work of V.V., who simply gives, in a classified form, the facts recorded in the above-mentioned house-to-house inquest.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.39.1
+  kind: p
+  original: This movement in favour of communal possession runs badly against the current economical theories, according to which intensive culture is incompatible with the village community.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.39.2
+  kind: p
+  original: 'But the most charitable thing that can be said of these theories is that they have never been submitted to the test of experiment: they belong to the domain of political metaphysics.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.39.3
+  kind: p
+  original: The facts which we have before us show, on the contrary, that wherever the Russian peasants, owing to a concurrence of favourable circumstances, are less miserable than they are on the average, and wherever they find men of knowledge and initiative among their neighbours, the village community becomes the very means for introducing various improvements in agriculture and village life altogether.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.39.4
+  kind: p
+  original: Here, as elsewhere, mutual aid is a better leader to progress than the war of each against all, as may be seen from the following facts.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.40.1
+  kind: p
+  original: Under Nicholas the First's rule many Crown officials and serf-owners used to compel the peasants to introduce the communal culture of small plots of the village lands, in order to refill the communal storehouses after loans of grain had been granted to the poorest commoners.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.40.2
+  kind: p
+  original: Such cultures, connected in the peasants' minds with the worst reminiscences of serfdom, were abandoned as soon as serfdom was abolished but now the peasants begin to reintroduce them on their own account.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.40.3
+  kind: p
+  original: In one district (Ostrogozhsk, in Kursk) the initiative of one person was sufficient to call them to life in four-fifths of all the villages.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.40.4
+  kind: p
+  original: The same is met with in several other localities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.40.5
+  kind: p
+  original: On a given day the commoners come out, the richer ones with a plough or a cart and the poorer ones single-handed, and no attempt is made to discriminate one's share in the work.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.40.6
+  kind: p
+  original: The crop is afterwards used for loans to the poorer commoners, mostly free grants, or for the orphans and widows, or for the village church, or for the school, or for repaying a communal debt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N40
+- id: VII.41.1
+  kind: p
+  original: That all sorts of work which enters, so to say, in the routine of village life (repair of roads and bridges, dams, drainage, supply of water for irrigation, cutting of wood, planting of trees, etc.) are made by whole communes, and that land is rented and meadows are mown by whole communes--the work being accomplished by old and young, men and women, in the way described by Tolstoi--is only what one may expect from people living under the village-community system.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N41
+- id: VII.41.2
+  kind: p
+  original: They are of everyday occurrence all over the country.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.41.3
+  kind: p
+  original: But the village community is also by no means averse to modern agricultural improvements, when it can stand the expense, and when knowledge, hitherto kept for the rich only, finds its way into the peasant's house.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.42.1
+  kind: p
+  original: It has just been said that perfected ploughs rapidly spread in South Russia, and in many cases the village communities were instrumental in spreading their use.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.42.2
+  kind: p
+  original: A plough was bought by the community, experimented upon on a portion of the communal land, and the necessary improvements were indicated to the makers, whom the communes often aided in starting the manufacture of cheap ploughs as a village industry.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.42.3
+  kind: p
+  original: In the district of Moscow, where 1,560 ploughs were lately bought by the peasants during five years, the impulse came from those communes which rented lands as a body for the special purpose of improved culture.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.43.1
+  kind: p
+  original: In the north-east (Vyatka) small associations of peasants, who travel with their winnowing machines (manufactured as a village industry in one of the iron districts), have spread the use of such machines in the neighbouring governments.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.43.2
+  kind: p
+  original: The very wide spread of threshing machines in Samara, Saratov, and Kherson is due to the peasant associations, which can afford to buy a costly engine, while the individual peasant cannot.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.43.3
+  kind: p
+  original: And while we read in nearly all economical treatises that the village community was doomed to disappear when the three-fields system had to be substituted by the rotation of crops system, we see in Russia many village communities taking the initiative of introducing the rotation of crops.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.43.4
+  kind: p
+  original: Before accepting it the peasants usually set apart a portion of the communal fields for an experiment in artificial meadows, and the commune buys the seeds.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N42
+- id: VII.43.5
+  kind: p
+  original: If the experiment proves successful they find no difficulty whatever in re-dividing their fields, so as to suit the five or six fields system.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.44.1
+  kind: p
+  original: This system is now in use in hundreds of villages of Moscow, Tver, Smolensk, Vyatka, and Pskov.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N43
+- id: VII.44.2
+  kind: p
+  original: And where land can be spared the communities give also a portion of their domain to allotments for fruit-growing.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.44.3
+  kind: p
+  original: Finally, the sudden extension lately taken in Russia by the little model farms, orchards, kitchen gardens, and silkworm-culture grounds--which are started at the village school-houses, under the conduct of the school-master, or of a village volunteer--is also due to the support they found with the village communities.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.45.1
+  kind: p
+  original: Moreover, such permanent improvements as drainage and irrigation are of frequent occurrence.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.45.2
+  kind: p
+  original: For instance, in three districts of the province of Moscow--industrial to a great extent--drainage works have been accomplished within the last ten years on a large scale in no less than 180 to 200 different villages--the commoners working themselves with the spade.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.45.3
+  kind: p
+  original: At another extremity of Russia, in the dry Steppes of Novouzen, over a thousand dams for ponds were built and several hundreds of deep wells were sunk by the communes; while in a wealthy German colony of the south-east the commoners worked, men and women alike, for five weeks in succession, to erect a dam, two miles long, for irrigation purposes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.45.4
+  kind: p
+  original: What could isolated men do in that struggle against the dry climate?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.45.5
+  kind: p
+  original: What could they obtain through individual effort when South Russia was struck with the marmot plague, and all people living on the land, rich and poor, commoners and individualists, had to work with their hands in order to conjure the plague?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.45.6
+  kind: p
+  original: To call in the policeman would have been of no use; to associate was the only possible remedy.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.46.1
+  kind: p
+  original: And now, after having said so much about mutual aid and support which are practised by the tillers of the soil in "civilized" countries, I see that I might fill an octavo volume with illustrations taken from the life of the hundreds of millions of men who also live under the tutorship of more or less centralized States, but are out of touch with modern civilization and modern ideas.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.46.2
+  kind: p
+  original: I might describe the inner life of a Turkish village and its network of admirable mutual-aid customs and habits.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.46.3
+  kind: p
+  original: On turning over my leaflets covered with illustrations from peasant life in Caucasia, I come across touching facts of mutual support.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.46.4
+  kind: p
+  original: I trace the same customs in the Arab djemmaa and the Afghan purra, in the villages of Persia, India, and Java, in the undivided family of the Chinese, in the encampments of the semi-nomads of Central Asia and the nomads of the far North.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.46.5
+  kind: p
+  original: On consulting notes taken at random in the literature of Africa, I find them replete with similar facts--of aids convoked to take in the crops, of houses built by all inhabitants of the village--sometimes to repair the havoc done by civilized filibusters--of people aiding each other in case of accident, protecting the traveller, and so on.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.46.6
+  kind: p
+  original: And when I peruse such works as Post's compendium of African customary law I understand why, notwithstanding all tyranny, oppression, robberies and raids, tribal wars, glutton kings, deceiving witches and priests, slave-hunters, and the like, these populations have not gone astray in the woods; why they have maintained a certain civilization, and have remained men, instead of dropping to the level of straggling families of decaying orang-outans.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.46.7
+  kind: p
+  original: The fact is, that the slave-hunters, the ivory robbers, the fighting kings, the Matabele and the Madagascar "heroes" pass away, leaving their traces marked with blood and fire; but the nucleus of mutual-aid institutions, habits, and customs, grown up in the tribe and the village community, remains; and it keeps men united in societies, open to the progress of civilization, and ready to receive it when the day comes that they shall receive civilization instead of bullets.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.47.1
+  kind: p
+  original: The same applies to our civilized world.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.47.2
+  kind: p
+  original: The natural and social calamities pass away.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.47.3
+  kind: p
+  original: Whole populations are periodically reduced to misery or starvation; the very springs of life are crushed out of millions of men, reduced to city pauperism; the understanding and the feelings of the millions are vitiated by teachings worked out in the interest of the few.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.47.4
+  kind: p
+  original: All this is certainly a part of our existence.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.47.5
+  kind: p
+  original: But the nucleus of mutual-support institutions, habits, and customs remains alive with the millions; it keeps them together; and they prefer to cling to their customs, beliefs, and traditions rather than to accept the teachings of a war of each against all, which are offered to them under the title of science, but are no science at all.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N1.1.1
+  kind: note
+  original: A bulky literature, dealing with this formerly much neglected subject, is now growing in Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N1.1.2
+  kind: note
+  original: Keller's works, Ein Apostel der Wiedertaufer and Geschichte der Wiedertaufer, Cornelius's Geschichte des munsterischen Aufruhrs, and Janssen's Geschichte des deutschen Volkes may be named as the leading sources.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N1.1.3
+  kind: note
+  original: The first attempt at familiarizing English readers with the results of the wide researches made in Germany in this direction has been made in an excellent little work by Richard Heath--"Anabaptism from its Rise at Zwickau to its Fall at Munster, 1521-1536," London, 1895 (Baptist Manuals, vol. i.)--where the leading features of the movement are well indicated, and full bibliographical information is given.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N1.1.4
+  kind: note
+  original: Also K. Kautsky's Communism in Central Europe in the Time of the Reformation, London, 1897.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.1
+  kind: note
+  original: Few of our contemporaries realize both the extent of this movement and the means by which it was suppressed.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.2
+  kind: note
+  original: But those who wrote immediately after the great peasant war estimated at from 100,000 to 150,000 men the number of peasants slaughtered after their defeat in Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.3
+  kind: note
+  original: See Zimmermann's Allgemeine Geschichte des grossen Bauernkrieges.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.4
+  kind: note
+  original: For the measures taken to suppress the movement in the Netherlands see Richard Heath's Anabaptism.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N3.1.1
+  kind: note
+  original: '"Chacun s''en est accommode selon sa bienseance... on les a partages.. pour depouiller les communes, on s''est servi de dettes simulees" (Edict of Louis the Fourteenth, of 1667, quoted by several authors. Eight years before that date the communes had been taken under State management).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N4.1.1
+  kind: note
+  original: '"On a great landlord''s estate, even if he has millions of revenue, you are sure to find the land uncultivated" (Arthur Young).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N4.1.2
+  kind: note
+  original: '"One-fourth part of the soil went out of culture;" "for the last hundred years the land has returned to a savage state;" "the formerly flourishing Sologne is now a big marsh;" and so on (Theron de Montauge, quoted by Taine in Origines de la France Contemporaine, tome i. p. 441).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N5.1.1
+  kind: note
+  original: A. Babeau, Le Village sous l'Ancien Regime, 3e edition. Paris, 1892.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N6.1.1
+  kind: note
+  original: In Eastern France the law only confirmed what the peasants had already done themselves.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N6.1.2
+  kind: note
+  original: See my work, The Great French Revolution, chaps. xlvii and xlviii, London (Heinemann), 1909.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N7.1.1
+  kind: note
+  original: After the triumph of the middle-class reaction the communal lands were declared (August 24, 1794) the States domains, and, together with the lands confiscated from the nobility, were put up for sale, and pilfered by the bandes noires of the small bourgeoisie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N7.1.2
+  kind: note
+  original: True that a stop to this pilfering was put next year (law of 2 Prairial, An V), and the preceding law was abrogated; but then the village Communities were simply abolished, and cantonal councils were introduced instead.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N7.1.3
+  kind: note
+  original: Only seven years later (9 Prairial, An XII), i.e. in 1801, the village communities were reintroduced, but not until after having been deprived of all their rights, the mayor and syndics being nominated by the Government in the 36,000 communes of France!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N7.1.4
+  kind: note
+  original: This system was maintained till after the revolution of 1830, when elected communal councils were reintroduced under the law of 1787.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N7.1.5
+  kind: note
+  original: As to the communal lands, they were again seized upon by the State in 1813, plundered as such, and only partly restored to the communes in 1816.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N7.1.6
+  kind: note
+  original: See the classical collection of French laws, by Dalloz, Repertoire de Jurisprudence; also the works of Doniol, Dareste, Bonnemere, Babeau, and many others.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N8.1.1
+  kind: note
+  original: This procedure is so absurd that one would not believe it possible if the fifty-two different acts were not enumerated in full by a quite authoritative writer in the Journal des Economistes (1893, April, p. 94), and several similar examples were not given by the same author.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N9.1.1
+  kind: note
+  original: Dr. Ochenkowski, Englands wirthschaftliche Entwickelung im Ausgange des Mittelalters (Jena, 1879), pp. 35 seq., where the whole question is discussed with full knowledge of the texts.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N10.1.1
+  kind: note
+  original: Nasse, Ueber die mittelalterliche Feldgemeinschaft und die Einhegungen des XVI. Jahrhunderts in England (Bonn, 1869), pp. 4, 5; Vinogradov, Villainage in England (Oxford, 1892).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N11.1.1
+  kind: note
+  original: Fr. Seebohm, The English Village Community, 3rd ed., 1884, pp. 13-15.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N12.1.1
+  kind: note
+  original: '"An examination into the details of an Enclosure Act will make clear the point that the system as above described [communal ownership] is the system which it was the object of the Enclosure Act to remove" (Seebohm, l.c. p. 13).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N12.1.2
+  kind: note
+  original: And further on, "They were generally drawn in the same form, commencing with the recital that the open and common fields lie dispersed in small pieces, intermixed with each other and inconveniently situated; that divers persons own parts of them, and are entitled to rights of common on them... and that it is desired that they may be divided and enclosed, a specific share being let out and allowed to each owner" (p. 14).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N12.1.3
+  kind: note
+  original: Porter's list contained 3867 such Acts, of which the greatest numbers fall upon the decades of 1770-1780 and 1800-1820, as in France.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N13.1.1
+  kind: note
+  original: In Switzerland we see a number of communes, ruined by wars, which have sold part of their lands, and now endeavour to buy them back.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N14.1.1
+  kind: note
+  original: A. Buchenberger, "Agrarwesen und Agrarpolitik," in A. Wagner's Handbuch der politischen Oekonomie, 1892, Band i. pp. 280 seq.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N15.1.1
+  kind: note
+  original: G.L. Gomme, "The Village Community, with special reference to its Origin and Forms of Survival in Great Britain" (Contemporary Science Series), London, 1890, pp. 141-143; also his Primitive Folkmoots (London, 1880), pp. 98 seq.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N16.1.1
+  kind: note
+  original: '"In almost all parts of the country, in the Midland and Eastern counties particularly, but also in the west--in Wiltshire, for example--in the south, as in Surrey, in the north, as in Yorkshire,--there are extensive open and common fields.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N16.1.2
+  kind: note
+  original: Out of 316 parishes of Northamptonshire 89 are in this condition; more than 100 in Oxfordshire; about 50,000 acres in Warwickshire; in Berkshire half the county; more than half of Wiltshire; in Huntingdonshire out of a total area of 240,000 acres 130,000 were commonable meadows, commons, and fields" (Marshall, quoted in Sir Henry Maine's Village Communities in the East and West, New York edition, 1876, pp. 88, 89).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N16.1.3
+  kind: note
+  original: See also Dr. G. Slater's The English Peasantry and the Enclosure of Common Fields, London, 1907.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N17.1.1
+  kind: note
+  original: Ibid. p. 88; also Fifth Lecture.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N18.1.1
+  kind: note
+  original: In quite a number of books dealing with English country life which I have consulted I have found charming descriptions of country scenery and the like, but almost nothing about the daily life and customs of the labourers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N19.1.1
+  kind: note
+  original: In Switzerland the peasants in the open land also fell under the dominion of lords, and large parts of their estates were appropriated by the lords in the sixteenth and seventeenth centuries.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N19.1.2
+  kind: note
+  original: (cf. A. Miaskowski, in Schmoller's Forschungen, Bd. ii. 1879, pp. 12 seq.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N19.1.3
+  kind: note
+  original: But the peasant war in Switzerland did not end in such a crushing defeat of the peasants as it did in other countries, and a great deal of the communal rights and lands was retained.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N19.1.4
+  kind: note
+  original: The self-government of the communes is, in fact, the very foundation of the Swiss liberties.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N19.1.5
+  kind: note
+  original: (cf. K. Burtli, Der Ursprung der Eidgenossenschaft aus der Markgenossenschaft, Zurich, 1891.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N20.1.1
+  kind: note
+  original: Dr. Reichesberg, Handworterbuch des Schweiz.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N20.1.2
+  kind: note
+  original: Volkswirthschaft, Bern, 1903.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N21.1.1
+  kind: note
+  original: See on this subject a series of works, summed up in one of the excellent and suggestive chapters (not yet translated into English) which K. Bucher has added to the German translation of Laveleye's Primitive Ownership.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N21.1.2
+  kind: note
+  original: Also Meitzen, "Das Agrar-und Forst-Wesen, die Allmenden und die Landgemeinden der Deutschen Schweiz," in Jahrbuch fuer Staatswissenschaft, 1880, iv.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N21.1.3
+  kind: note
+  original: (analysis of Miaskowsky's works); O'Brien, "Notes in a Swiss village," in Macmillan's Magazine, October 1885.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N22.1.1
+  kind: note
+  original: The wedding gifts, which often substantially contribute in this country to the comfort of the young households, are evidently a remainder of the communal habits.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N23.1.1
+  kind: note
+  original: The communes own, 4,554,100 acres of woods out of 24,813,000 in the whole territory, and 6,936,300 acres of natural meadows out of 11,394,000 acres in France.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N23.1.2
+  kind: note
+  original: The remaining 2,000,000 acres are fields, orchards, and so on.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N24.1.1
+  kind: note
+  original: In Caucasia they even do better among the Georgians.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N24.1.2
+  kind: note
+  original: As the meal costs, and a poor man cannot afford to give it, a sheep is bought by those same neighbours who come to aid in the work.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N25.1.1
+  kind: note
+  original: Alfred Baudrillart, in H. Baudrillart's Les Populations Rurales de la France, 3rd series (Paris, 1893), p. 479.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N26.1.1
+  kind: note
+  original: The Journal des Economistes (August 1892, May and August 1893) has lately given some of the results of analyses made at the agricultural laboratories at Ghent and at Paris.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N26.1.2
+  kind: note
+  original: The extent of falsification is simply incredible; so also the devices of the "honest traders."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N26.1.3
+  kind: note
+  original: In certain seeds of grass there was 32 per cent. of gains of sand, coloured so as to Receive even an experienced eye; other samples contained from 52 to 22 per cent. only of pure seed, the remainder being weeds.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N26.1.4
+  kind: note
+  original: Seeds of vetch contained 11 per cent. of a poisonous grass (nielle); a flour for cattle-fattening contained 36 per cent. of sulphates; and so on ad infinitum.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N27.1.1
+  kind: note
+  original: A. Baudrillart, l.c. p. 309.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N27.1.2
+  kind: note
+  original: Originally one grower would undertake to supply water, and several others would agee to make use of it.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N27.1.3
+  kind: note
+  original: '"What especially characterises such associations," A. Baudrillart remarks, "is that no sort of written agreement is concluded.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N27.1.4
+  kind: note
+  original: All is arranged in words.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N27.1.5
+  kind: note
+  original: There was, however, not one single case of difficulties having arisen between the parties."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N28.1.1
+  kind: note
+  original: A. Baudrillart, l.c. pp. 300, 341, etc.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N28.1.2
+  kind: note
+  original: M. Terssac, president of the St. Gironnais syndicate (Ariege), wrote to my friend in substance as follows:--"For the exhibition of Toulouse our association has grouped the owners of cattle which seemed to us worth exhibiting.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N28.1.3
+  kind: note
+  original: The society undertook to pay one-half of the travelling and exhibition expenses; one-fourth was paid by each owner, and the remaining fourth by those exhibitors who had got prizes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N28.1.4
+  kind: note
+  original: The result was that many took part in the exhibition who never would have done it otherwise.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N28.1.5
+  kind: note
+  original: Those who got the highest awards (350 francs) have contributed 10 per cent. of their prizes, while those who have got no prize have only spent 6 to 7 francs each."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N29.1.1
+  kind: note
+  original: In Wurttemberg 1,629 communes out of 1,910 have communal property.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N29.1.2
+  kind: note
+  original: They owned in 1863 over 1,000,000 acres of land.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N29.1.3
+  kind: note
+  original: In Baden 1,256 communes out of 1,582 have communal land; in 1884-1888 they held 121,500 acres of fields in communal culture, and 675,000 acres of forests, i.e. 46 per cent. of the total area under woods.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N29.1.4
+  kind: note
+  original: In Saxony 39 per cent. of the total area is in communal ownership (Schmoller's Jahrbuch, 1886, p. 359).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N29.1.5
+  kind: note
+  original: In Hohenzollern nearly two-thirds of all meadow land, and in Hohenzollern-Hechingen 41 per cent. of all landed property, are owned by the village communities (Buchenberger, Agrarwesen, vol. i. p. 300).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N30.1.1
+  kind: note
+  original: See K. Bucher, who, in a special chapter added to Laveleye's Ureigenthum, has collected all information relative to the village community in Germany.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N31.1.1
+  kind: note
+  original: K. Bucher, ibid. pp. 89, 90.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N32.1.1
+  kind: note
+  original: For this legislation and the numerous obstacles which were put in the way, in the shape of red-tapeism and supervision, see Buchenberger's Agrarwesen und Agrarpolitik, Bd. ii. pp. 342-363, and p. 506, note.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N33.1.1
+  kind: note
+  original: Buchenberger, l.c. Bd. ii. p. 510.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N33.1.2
+  kind: note
+  original: The General Union of Agricultural Co-operation comprises an aggregate of 1,679 societies.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N33.1.3
+  kind: note
+  original: In Silesia an aggregate of 32,000 acres of land has been lately drained by 73 associations; 454,800 acres in Prussia by 516 associations; in Bavaria there are 1,715 drainage and irrigation unions.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N34.1.1
+  kind: note
+  original: For the Balkan peninsula see Laveleye's Propriete Primitive.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N35.1.1
+  kind: note
+  original: The facts concerning the village community, contained in nearly a hundred volumes (out of 450) of these inquests, have been classified and summed up in an excellent Russian work by "V.V."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N35.1.2
+  kind: note
+  original: The Peasant Community (Krestianskaya Obschina), St. Petersburg, 1892, which, apart from its theoretical value, is a rich compendium of data relative to this subject.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N35.1.3
+  kind: note
+  original: The above inquests have also given origin to an immense literature, in which the modern village-community question for the first time emerges from the domain of generalities and is put on the solid basis of reliable and sufficiently detailed facts.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N36.1.1
+  kind: note
+  original: The redemption had to be paid by annuities for forty-nine years.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N36.1.2
+  kind: note
+  original: As years went, and the greatest part of it was paid, it became easier and easier to redeem the smaller remaining part of it, and, as each allotment could be redeemed individually, advantage was taken of this disposition by traders, who bought land for half its value from the ruined peasants.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N36.1.3
+  kind: note
+  original: A law was consequently passed to put a stop to such sales.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N37.1.1
+  kind: note
+  original: Mr. V.V., in his Peasant Community, has grouped together all facts relative to this movement.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N37.1.2
+  kind: note
+  original: About the rapid agricultural development of South Russia and the spread of machinery English readers will find information in the Consular Reports (Odessa, Taganrog).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N38.1.1
+  kind: note
+  original: In some instances they proceeded with great caution.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N38.1.2
+  kind: note
+  original: In one village they began by putting together all meadow land, but only a small portion of the fields (about five acres per soul) was rendered communal; the remainder continued to be owned individually.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N38.1.3
+  kind: note
+  original: Later on, in 1862-1864, the system was extended, but only in 1884 was communal possession introduced in full.--V.V.'s Peasant Community, pp. 1-14.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N39.1.1
+  kind: note
+  original: On the Mennonite village community see A. Klaus, Our Colonies (Nashi Kolonii), St. Petersburg, 1869.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N40.1.1
+  kind: note
+  original: Such communal cultures are known to exist in 159 villages out of 195 in the Ostrogozhsk district; in 150 out of 187 in Slavyanoserbsk; in 107 village communities in Alexandrovsk, 93 in Nikolayevsk, 35 in Elisabethgrad.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N40.1.2
+  kind: note
+  original: In a German colony the communal culture is made for repaying a communal debt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N40.1.3
+  kind: note
+  original: All join in the work, although the debt was contracted by 94 householders out of 155.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N41.1.1
+  kind: note
+  original: Lists of such works which came under the notice of the zemstvo statisticians will be found in V.V.'s Peasant Community, pp. 459-600.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N42.1.1
+  kind: note
+  original: In the government of Moscow the experiment was usually made on the field which was reserved for the above-mentioned communal culture.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N43.1.1
+  kind: note
+  original: Several instances of such and similar improvements were given in the Official Messenger, 1894, Nos. 256-258.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N43.1.2
+  kind: note
+  original: Associations between "horseless" peasants begin to appear also in South Russia.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N43.1.3
+  kind: note
+  original: Another extremely interesting fact is the sudden development in Southern West Siberia of very numerous co-operative creameries for making butter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N43.1.4
+  kind: note
+  original: Hundreds of them spread in Tobolsk and Tomsk, without any one knowing wherefrom the initiative of the movement came.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N43.1.5
+  kind: note
+  original: It came from the Danish co-operators, who used to export their own butter of higher quality, and to buy butter of a lower quality for their own use in Siberia.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N43.1.6
+  kind: note
+  original: After a several years' intercourse, they introduced creameries there.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N43.1.7
+  kind: note
+  original: Now, a great export trade, carried on by a Union of the Creameries, has grown out of their endeavours and more than a thousand co-operative shops have been opened in the villages.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

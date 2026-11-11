@@ -31,7 +31,7 @@ Every work planned for the library, in queue order, and how far along it is. **R
 | 9 | [God and the State (1882)](works/god-and-the-state) | Mikhail Bakunin | `GAS` | French | A | ✅ ready for rewrite | 970 verses · 0 seeded · 0 drafted · 0 alignment checks |
 | 10 | [The Civil War in France (1871)](works/civil-war-in-france) | Karl Marx | `CWF` | English | A | ✅ ready for rewrite | 966 verses · 0 seeded · 0 drafted · 0 alignment checks |
 | 11 | [Anarchism and Other Essays (1910)](works/anarchism-and-other-essays) | Emma Goldman | `AOE` | English | A | ✅ ready for rewrite | 3150 verses · 0 seeded · 0 drafted · 0 alignment checks |
-| 12 | Mutual Aid: A Factor of Evolution (1902) | Peter Kropotkin | `MA` | English | A | 📦 sourced |  |
+| 12 | [Mutual Aid: A Factor of Evolution (1902)](works/mutual-aid) | Peter Kropotkin | `MA` | English | A | ✅ ready for rewrite | 3109 verses · 0 seeded · 0 drafted · 2 alignment checks |
 | 13 | The State and Revolution (1917) | Vladimir Lenin | `SR` | Russian | B | ⏳ planned |  |
 | 14 | The Eighteenth Brumaire of Louis Bonaparte (1852) | Karl Marx | `EB` | German | A | 📦 sourced |  |
 | 15 | Critique of the Gotha Programme (1875) | Karl Marx | `CGP` | German | B | 📦 sourced |  |
