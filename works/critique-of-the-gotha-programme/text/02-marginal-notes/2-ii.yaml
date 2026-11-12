@@ -1,0 +1,201 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: II
+title_original: Randglossen zum Programm der deutschen Arbeiterpartei, II
+title_en: Marginal notes, II
+author: Karl Marx
+date: 1875-04/05
+original_language: de
+anchor_language: de
+source_original: MEW 19, S. 15-32 (Dietz, Berlin 1962), zeno.org transcription via the MARX-EBOOKS mirror; from Marx's manuscript, 1891 readings as variants, passages left out in 1891 in < >
+source_en: 'None: no public-domain English translation on a reachable mirror yet'
+verses:
+- id: II.0.1
+  kind: heading
+  original: II
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: II.1.1
+  kind: p
+  original: '"Von diesen Grundsätzen ausgehend, erstrebt die deutsche Arbeiterpartei mit allen gesetzlichen Mitteln den freien Staat - und - die sozialistische Gesellschaft; die Aufhebung des Lohnsystems mit dem ehernen Lohngesetz - und - der Ausbeutung in jeder Gestalt; die Beseitigung aller sozialen und politischen Ungleichheit."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: II.2.1
+  kind: p
+  original: Auf den "freien" Staat komme ich später zurück.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: II.3.1
+  kind: p
+  original: Also in Zukunft hat die deutsche Arbeiterpartei an Lassalles "ehernes Lohngesetz" zu glauben!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 24-25
+- id: II.3.2
+  kind: p
+  original: 'Damit es nicht verlorengeht, begeht man den Unsinn, von "Aufhebung des Lohnsystems" (sollte heißen: System der Lohnarbeit) "mit dem ehernen Lohngesetz" zu sprechen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.3.3
+  kind: p
+  original: Hebe ich die Lohnarbeit auf, so hebe ich natürlich auch ihre Gesetze auf, seien sie "ehern" oder schwammig.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.3.4
+  kind: p
+  original: Aber Lassalles Bekämpfung der Lohnarbeit dreht sich fast nur um dies sog. Gesetz.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.3.5
+  kind: p
+  original: Um daher zu beweisen, daß die Lassallesche Sekte gesiegt hat, muß das "Lohnsystem mit dem ehernen Lohngesetz" aufgehoben werden und nicht ohne dasselbe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.4.1
+  kind: p
+  original: Von dem "ehernen Lohngesetz" gehört Lassalle bekanntlich nichts als das den Goetheschen "ewigen, ehernen, großen Gesetzen" entlehnte Wort "ehern".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.4.2
+  kind: p
+  original: Das Wort ehern ist eine Signatur, woran sich die Rechtgläubigen erkennen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.4.3
+  kind: p
+  original: Nehme ich aber das Gesetz mit Lassalles Stempel und daher in seinem Sinn, so muß ich es auch mit seiner Begründung nehmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.4.4
+  kind: p
+  original: Und was ist sie?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.4.5
+  kind: p
+  original: 'Wie Lange schon kurz nach Lassalles Tod zeigte: die (von Lange selbst gepredigte) Malthussche Bevölkerungstheorie.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.4.6
+  kind: p
+  original: Ist diese aber richtig, so kann ich wieder das Gesetz nicht aufheben, und wenn ich hundertmal die Lohnarbeit aufhebe, weil das Gesetz dann nicht nur das System der Lohnarbeit, sondern jedes gesellschaftliche System beherrscht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.4.7
+  kind: p
+  original: Grade hierauf fußend, haben seit fünfzig Jahren und länger die Ökonomisten bewiesen, daß der Sozialismus das naturbegründete Elend nicht aufheben, sondern nur verallgemeinern, gleichzeitig über die ganze Oberfläche der Gesellschaft verteilen könne!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.5.1
+  kind: p
+  original: Aber all das ist nicht die Hauptsache.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.5.2
+  kind: p
+  original: 'Ganz abgesehn von der falschen Lassalleschen Fassung des Gesetzes, besteht der wahrhaft empörende Rückschritt darin:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.6.1
+  kind: p
+  original: Seit Lassalles Tode hat sich die wissenschaftliche Einsicht in unsrer Partei Bahn gebrochen, daß der Arbeitslohn nicht das ist, was er zu sein scheint, nämlich der Wert respektive Preis der Arbeit, sondern nur eine maskierte Form für den Wert resp. Preis der Arbeitskraft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '25'
+- id: II.6.2
+  kind: p
+  original: Damit war die ganze bisherige bürgerliche Auffassung des Arbeitslohns sowie die ganze bisher gegen selbe gerichtete Kritik ein für allemal über den Haufen geworfen und klargestellt, daß der Lohnarbeiter nur die Erlaubnis hat, für sein eignes Leben zu arbeiten, d.h. zu leben, soweit er gewisse Zeit umsonst für den Kapitalisten (daher auch für dessen Mitzehrer am Mehrwert) arbeitet; daß das ganze kapitalistische Produktionssystem sich darum dreht, diese Gratisarbeit zu verlängern durch Ausdehnung des Arbeitstags oder durch Entwicklung der Produktivität, größere Spannung der Arbeitskraft etc.; daß also das System der Lohnarbeit ein System der Sklaverei, und zwar einer Sklaverei ist, die im selben Maß härter wird, wie sich die gesellschaftlichen Produktivkräfte der Arbeit entwickeln, ob nun der Arbeiter bessere oder schlechtere Zahlung empfange.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T12
+    editions: '1891'
+    reading: 'eingefügt: resp.'
+    base_text: … durch Entwicklung der Produktivität, ‸ größere Spannung der Arbeitskraft …
+  mew_page: 25-26
+- id: II.6.3
+  kind: p
+  original: Und nachdem diese Einsicht unter unsrer Partei sich mehr und mehr Bahn gebrochen, kehrt man zu Lassalles Dogmen zurück, obgleich man nun wissen mußte, daß Lassalle nicht wußte, was der Arbeitslohn war, sondern, im Gefolg der bürgerlichen Ökonomen, den Schein für das Wesen der Sache nahm.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '26'
+- id: II.7.1
+  kind: p
+  original: 'Es ist, als ob unter Sklaven, die endlich hinter das Geheimnis der Sklaverei gekommen und in Rebellion ausgebrochen, ein in veralteten Vorstellungen befangener Sklave auf das Programm der Rebellion schriebe: Die Sklaverei muß abgeschafft werden, weil die Beköstigung der Sklaven im System der Sklaverei ein gewisses niedriges Maximum nicht überschreiten kann!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '26'
+- id: II.8.1
+  kind: p
+  original: Die bloße Tatsache, daß die Vertreter unsrer Partei fähig waren, ein so ungeheuerliches Attentat auf die in der Parteimasse verbreitete Einsicht zu begehn - beweist sie nicht allein, mit welchem <frevelhaften> Leichtsinn, <mit welcher Gewissenlosigkeit> sie bei Abfassung des Kompromißprogramms zu Werke gingen!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '26'
+- id: II.9.1
+  kind: p
+  original: Anstatt der unbestimmten Schlußphrase des Paragraphen, "die Beseitigung aller sozialen und politischen Ungleichheit", war zu sagen, daß mit der Abschaffung der Klassenunterschiede von selbst alle aus ihnen entspringende soziale und politische Ungleichheit verschwindet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '26'

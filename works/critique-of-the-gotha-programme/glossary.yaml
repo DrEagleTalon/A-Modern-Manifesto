@@ -1,0 +1,152 @@
+# Glossary of recurring and contested terms in the Critique of the Gotha Programme (CGP).
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+# There is no historical English column yet, so `english_usual` records the rendering most readers will
+# have met in later translations; it is a reference point, not a source.
+# Terms shared with other works (Bourgeoisie, Proletariat, Klasse ...) are in
+# works/communist-manifesto/glossary.yaml until a shared library glossary is agreed.
+
+- term: unverkürzter Arbeitsertrag
+  de: der unverkürzte Arbeitsertrag; der Ertrag der Arbeit unverkürzt
+  english_usual: the undiminished proceeds of labour
+  literal: the unshortened yield of labour
+  options: [the full proceeds of labor, the undiminished proceeds of labor, the whole product of labor]
+  interim: the full proceeds of labor, in quotation marks as Marx sets it
+  status: open
+  verses: [I.1.1, I.11.1, I.20.1, I.33.2, I.39.1, I.48.1, I.49.1, I.57.1]
+  note: Lassalle's slogan, which Marx takes apart step by step. Keep one rendering through all of I so the reader sees the phrase "verkürzt" (diminished) in I.48.1 and then vanish in I.49.1. "Arbeitsertrag" alone (I.27.1, I.28.1, I.50.2) should use the same noun.
+
+- term: gleiches Recht
+  de: das gleiche Recht; nach gleichem Rechte
+  english_usual: equal right
+  literal: equal right
+  options: [equal right, equal rights]
+  interim: equal right (singular)
+  status: open
+  verses: [I.1.1, I.32.5, I.53.1, I.54.1, I.54.4, I.54.6, I.54.7, I.57.1]
+  note: Recht is both "right" and "law". Marx's point in I.54 is that one standard applied to unequal people is itself unequal, "ein Recht der Ungleichheit". The plural "equal rights" turns this into a list of entitlements and loses the argument.
+
+- term: gerechte Verteilung
+  de: gerechte Verteilung; "gerecht"
+  english_usual: fair distribution
+  literal: just distribution
+  options: [fair distribution, just distribution]
+  interim: fair distribution, keeping Marx's quotation marks on "fair"
+  status: open
+  verses: [I.25.1, I.29.1, I.30.1, I.30.2, I.30.4, I.31.1, I.57.1]
+
+- term: ehernes Lohngesetz
+  de: das eherne Lohngesetz; "ehern"
+  english_usual: the iron law of wages
+  literal: the brazen wage law
+  options: [iron law of wages, brazen law of wages]
+  interim: iron law of wages
+  status: open
+  verses: [II.1.1, II.3.1, II.3.2, II.3.5, II.4.1, II.4.2, III.2.1]
+  note: The word "ehern" is literally "brazen" (of bronze); Marx mocks it as a word borrowed from Goethe (II.4.1). "Iron law" is the established English name of Lassalle's doctrine; keep it and let a note carry the Goethe joke.
+
+- term: freier Staat
+  de: der freie Staat; den Staat "frei" machen
+  english_usual: the free state
+  literal: the free state
+  options: [the free state]
+  interim: the free state
+  status: interim
+  verses: [II.1.1, II.2.1, IV.3.1, IV.4.1, IV.5.1, IV.5.3]
+  note: 'The programme''s demand. In IV.5.3 Marx turns it round: freedom is making the state subordinate to society.'
+
+- term: Diktatur des Proletariats
+  de: die revolutionäre Diktatur des Proletariats
+  english_usual: the revolutionary dictatorship of the proletariat
+  literal: the revolutionary dictatorship of the proletariat
+  options: [the revolutionary dictatorship of the proletariat]
+  interim: the revolutionary dictatorship of the proletariat, with a note on what "Diktatur" meant in 1875
+  status: open
+  verses: [IV.11.2]
+  note: Keep the term; it is cited across traditions in exactly this form. The argument over what it means belongs in commentary/, not in the rewrite.
+
+- term: erste Phase / höhere Phase
+  de: in der ersten Phase der kommunistischen Gesellschaft; in einer höheren Phase der kommunistischen Gesellschaft
+  english_usual: the first phase / a higher phase of communist society
+  literal: the first phase / a higher phase
+  options: [first phase, first stage, lower phase]
+  interim: first phase, higher phase
+  status: open
+  verses: [I.55.1, I.56.1]
+  note: Marx does not say "socialism" for the first phase. Later usage (first phase = socialism) is commentary, not translation.
+
+- term: Muttermale
+  de: noch behaftet ist mit den Muttermalen der alten Gesellschaft
+  english_usual: still stamped with the birthmarks of the old society
+  literal: still afflicted with the birthmarks of the old society
+  options: [birthmarks, marks]
+  interim: birthmarks
+  status: interim
+  verses: [I.51.1]
+
+- term: Jeder nach seinen Fähigkeiten
+  de: Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen!
+  english_usual: From each according to his ability, to each according to his needs!
+  literal: Each according to his abilities, to each according to his needs!
+  options: [From each according to their ability, to each according to their needs!]
+  interim: keep the slogan's familiar shape; gender-neutral pronouns are a modern-draft choice to discuss
+  status: open
+  verses: [I.56.1]
+
+- term: reaktionäre Masse
+  de: nur eine reaktionäre Masse
+  english_usual: only one reactionary mass
+  literal: only a reactionary mass
+  options: [one reactionary mass, a single reactionary mass]
+  interim: one reactionary mass
+  status: interim
+  verses: [I.60.1, I.62.1, I.64.2, I.66.1, I.67.1]
+
+- term: Staatshilfe / Produktivgenossenschaften
+  de: Produktivgenossenschaften mit Staatshilfe; Kooperativgesellschaften
+  english_usual: producers' co-operative societies with state aid
+  literal: productive cooperatives with state help
+  options: [producers' cooperatives with state aid, worker cooperatives funded by the state]
+  interim: producers' cooperatives with state aid
+  status: open
+  verses: [III.1.1, III.1.2, III.2.4, III.3.1, III.7.1, III.7.2]
+  note: Marx separates cooperatives the state founds and funds (rejected) from those workers build themselves (III.7.2, "weder von den Regierungen noch von den Bourgeois protegierte"). The rewrite must keep that line clear.
+
+- term: Lohnsystem / Lohnarbeit
+  de: Aufhebung des Lohnsystems; System der Lohnarbeit
+  english_usual: abolition of the wage system; system of wage labour
+  literal: wage system; wage labour
+  options: [wage system, wage labor]
+  interim: wage system for the programme's word, wage labor for Marx's correction
+  status: interim
+  verses: [II.1.1, II.3.2, II.3.3, II.6.2]
+  note: 'Marx corrects the programme in II.3.2 ("sollte heißen: System der Lohnarbeit"); the two terms must stay distinct in English or the correction makes no sense.'
+
+- term: Arbeitslohn / Wert der Arbeitskraft
+  de: der Arbeitslohn ... nur eine maskierte Form für den Wert resp. Preis der Arbeitskraft
+  english_usual: wages ... a masked form of the value or price of labour power
+  literal: wages ... a masked form for the value respectively price of labour-power
+  options: [labor power, labor-power, capacity to work (with a note)]
+  interim: labor power
+  status: open
+  verses: [II.6.1, II.6.2]
+  note: The distinction between Arbeit and Arbeitskraft is the point of II.6. See the WLC glossary for how the library handles it elsewhere.
+
+- term: Staatswesen / heutiger Staat / Zukunftsstaat
+  de: das heutige Staatswesen; "der heutige Staat"; "Zukunftsstaat"
+  english_usual: present-day state; the state of the future
+  literal: state system; today's state; future state
+  options: [the state as it exists today, the present state, the "state of the future"]
+  interim: present-day state; "state of the future" in quotation marks
+  status: open
+  verses: [IV.7.1, IV.8.2, IV.8.4, IV.9.3, IV.10.1, IV.12.1, IV.13.5, IV.17.3, IV.23.4]
+  note: Marx plays "heutige Gesellschaft" (one, capitalist, everywhere) against "heutiger Staat" (different at every border, IV.8). Keep "society" and "state" parallel so the contrast survives.
+
+- term: Gemeingut
+  de: Erhebung der Arbeitsmittel zu Gemeingut; Gemeingut an den Produktionsmitteln
+  english_usual: common property
+  literal: common good, common property
+  options: [common property, the property of all]
+  interim: common property
+  status: interim
+  verses: [I.25.1, I.26.1, I.26.2, I.31.2, I.50.1]
+  note: Marx objects to the verb in I.26 ("Erhebung" raised to, versus "Verwandlung" turned into); keep the two verbs apart.

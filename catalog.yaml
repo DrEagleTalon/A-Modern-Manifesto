@@ -201,10 +201,10 @@
   original_language: de
   tier: B
   priority: 15
-  stage: sourced
+  stage: ready
   sources:
-    original: ["mlwerke:me19/me19_013.htm"]
-  notes: Check early English translations; otherwise translate from the German.
+    original: ["mia:docs/MEW-ZENO/19/ME19-013.html (letter to Bracke, zeno.org transcription of MEW 19)", "mia:docs/MEW-ZENO/19/ME19-015.html (marginal notes, same transcription)", "mlwerke:me19/me19_013.htm (collation copy; its angle-bracket passages are damaged)", "mlwerke:me22/me22_090.htm (Engels's foreword of 1891)"]
+  notes: "German only, from MEW 19 with the 1891 readings as variants; Engels's 1891 foreword is P1891 (MEW 22). The zeno.org transcription is the base text because the mlwerke.de page lost most of MEW's angle-bracket passages. No public-domain English on a reachable mirror yet; a pre-1931 English printing could fill the English column later."
 
 - id: origin-of-the-family
   prefix: OF

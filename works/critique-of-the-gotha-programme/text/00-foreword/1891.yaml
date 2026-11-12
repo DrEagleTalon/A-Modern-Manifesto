@@ -1,0 +1,149 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: P1891
+title_original: '[Vorwort zu Karl Marx'' "Kritik des Gothaer Programms"]'
+title_en: Engels's foreword (1891)
+author: Friedrich Engels
+date: '1891-01-06'
+original_language: de
+anchor_language: de
+source_original: MEW 22, S. 90-91 (Dietz, Berlin 1963) via mlwerke.de; from Die Neue Zeit, 9. Jg., 1. Bd., Nr. 18, 1890-1891
+source_en: 'None: no public-domain English translation on a reachable mirror yet'
+verses:
+- id: P1891.0.1
+  kind: heading
+  original: '[Vorwort zu Karl Marx'' "Kritik des Gothaer Programms"]'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+  en_note: No public-domain English of this foreword is used.
+- id: P1891.1.1
+  kind: p
+  original: Das hier abgedruckte Manuskript - der Begleitbrief an Bracke sowohl wie die Kritik des Programmentwurfs - wurde 1875 kurz vor dem Gothaer Einigungskongreß an Bracke zur Mitteilung an Geib, Auer, Bebel und Liebknecht und spätern Rücksendung an Marx abgesandt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.1.2
+  kind: p
+  original: Da der Haller Parteitag die Diskussion des Gothaer Programms auf die Tagesordnung der Partei gesetzt hat, würde ich glauben, eine Unterschlagung zu begehn, wenn ich dies wichtige - vielleicht das wichtigste - in diese Diskussion einschlagende Aktenstück der Öffentlichkeit noch länger vorenthielte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.2.1
+  kind: p
+  original: Das Manuskript hat aber noch eine andere und weiter reichende Bedeutung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.2.2
+  kind: p
+  original: Zum erstenmal wird hier die Stellung von Marx zu der von Lassalle seit dessen Eintritt in die Agitation eingeschlagnen Richtung klar und fest dargelegt, und zwar sowohl was die ökonomischen Prinzipien wie die Taktik Lassalles betrifft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.3.1
+  kind: p
+  original: Die rücksichtslose Schärfe, mit der hier der Programmentwurf zergliedert, die Unerbittlichkeit, womit die gewonnenen Resultate ausgesprochen, die Blößen des Entwurfs aufgedeckt werden, alles das kann heute, nach fünfzehn Jahren, nicht mehr verletzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.3.2
+  kind: p
+  original: Spezifische Lassalleaner existieren nur noch im Ausland als vereinzelte Ruinen, und das Gothaer Programm ist in Halle sogar von seinen Schöpfern als durchaus unzulänglich preisgegeben worden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.4.1
+  kind: p
+  original: Trotzdem habe ich einige persönlich scharfe Ausdrücke und Urteile da, wo dies für die Sache gleichgiltig war, ausgelassen und durch Punkte ersetzt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.4.2
+  kind: p
+  original: Marx selbst würde dies tun, wenn er das Manuskript heute veröffentlichte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.4.3
+  kind: p
+  original: 'Die stellenweise heftige Sprache desselben war provoziert durch zwei Umstände: Erstens waren Marx und ich mit der deutschen Bewegung inniger verwachsen als mit irgendeiner andern; der in diesem Programmentwurf bekundete entschiedene Rückschritt mußte uns also besonders heftig erregen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.4.4
+  kind: p
+  original: Zweitens aber lagen wir damals, kaum zwei Jahre nach dem Haager Kongreß der Internationale, im heftigsten Kampf mit Bakunin und seinen Anarchisten, die uns für alles verantwortlich machten, was in Deutschland in der Arbeiterbewegung geschah; wir mußten also erwarten, daß man uns auch die geheime Vaterschaft dieses Programms zuschob.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.4.5
+  kind: p
+  original: Diese Rücksichten fallen jetzt weg und mit ihnen die Notwendigkeit der fraglichen Stellen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.5.1
+  kind: p
+  original: Auch aus preßgesetzlichen Gründen sind einige Sätze nur durch Punkte angedeutet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.5.2
+  kind: p
+  original: Wo ich einen milderen Ausdruck wählen mußte, ist er in eckige Klammern gesetzt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.5.3
+  kind: p
+  original: Sonst ist der Abdruck wörtlich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.6.1
+  kind: signature
+  original: London, 6. Januar 1891
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: P1891.7.1
+  kind: signature
+  original: Fr. Engels
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'

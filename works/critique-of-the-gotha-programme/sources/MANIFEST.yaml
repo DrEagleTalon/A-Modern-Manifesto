@@ -1,6 +1,21 @@
-# Fetched 2026-11-08 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+# Fetched 2026-11-12 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+- file: raw/de/ME19-013.html
+  role: original
+  url: https://raw.githubusercontent.com/MARX-EBOOKS/marx-ebooks.github.io/HEAD/docs/MEW-ZENO/19/ME19-013.html
+  bytes: 4498
+  sha256: f4051353292b2d66e483810644def357d10316932b308975ff723cf117556414
+- file: raw/de/ME19-015.html
+  role: original
+  url: https://raw.githubusercontent.com/MARX-EBOOKS/marx-ebooks.github.io/HEAD/docs/MEW-ZENO/19/ME19-015.html
+  bytes: 48323
+  sha256: c8daeb073286da4e853ac3e127db92bc41795652585e39f1b0e9c8d0caeaeb11
 - file: raw/de/me19_013.htm
   role: original
   url: https://raw.githubusercontent.com/wertform/mlwerke.de/HEAD/me/me19/me19_013.htm
   bytes: 56371
   sha256: 9d4ace1581c476b4d458b1d904571aa8a711105beaaf23d78d433d0501ae82f9
+- file: raw/de/me22_090.htm
+  role: original
+  url: https://raw.githubusercontent.com/wertform/mlwerke.de/HEAD/me/me22/me22_090.htm
+  bytes: 6302
+  sha256: 2cb745202937c99cdbcaa73ed41915c683860ff4a86f62744862dae59af31bbf

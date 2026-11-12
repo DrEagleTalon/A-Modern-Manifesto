@@ -1,0 +1,1283 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: I
+title_original: Randglossen zum Programm der deutschen Arbeiterpartei, I
+title_en: Marginal notes, I
+author: Karl Marx
+date: 1875-04/05
+original_language: de
+anchor_language: de
+source_original: MEW 19, S. 15-32 (Dietz, Berlin 1962), zeno.org transcription via the MARX-EBOOKS mirror; from Marx's manuscript, 1891 readings as variants, passages left out in 1891 in < >
+source_en: 'None: no public-domain English translation on a reachable mirror yet'
+verses:
+- id: I.0.1
+  kind: heading
+  original: Randglossen zum Programm der deutschen Arbeiterpartei
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.0.2
+  kind: heading
+  original: I
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.1.1
+  kind: p
+  original: 1. "Die Arbeit ist die Quelle alles Reichtums und aller Kultur, und da nutzbringende Arbeit nur in der Gesellschaft und durch die Gesellschaft möglich ist, gehört der Ertrag der Arbeit unverkürzt, nach gleichem Rechte, allen Gesellschaftsgliedern."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.2.1
+  kind: p
+  original: 'Erster Teil des Paragraphen: "Die Arbeit ist die Quelle alles Reichtums und aller Kultur."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.3.1
+  kind: p
+  original: Die Arbeit ist nicht die Quelle alles Reichtums.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.3.2
+  kind: p
+  original: Die Natur ist ebensosehr die Quelle der Gebrauchswerte (und aus solchen besteht doch wohl der sachliche Reichtum!) als die Arbeit, die selbst nur die Äußerung einer Naturkraft ist, der menschlichen Arbeitskraft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.3.3
+  kind: p
+  original: Jene Phrase findet sich in allen Kinderfibeln und ist insofern richtig, als unterstellt wird, daß die Arbeit mit den dazugehörigen Gegenständen und Mitteln vorgeht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.3.4
+  kind: p
+  original: Ein sozialistisches Programm darf aber solchen bürgerlichen Redensarten nicht erlauben, die Bedingungen zu verschweigen, die ihnen allein einen Sinn geben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.3.5
+  kind: p
+  original: Nur soweit der Mensch sich von vornherein als Eigentümer zur Natur, der ersten Quelle aller Arbeitsmittel und -gegenstände, verhält, sie als ihm gehörig behandelt, wird seine Arbeit Quelle von Gebrauchswerten, also auch von Reichtum.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: '1891'
+    reading: Und
+    base_text: … Nur ‸ soweit der Mensch sich …
+  mew_page: '15'
+- id: I.3.6
+  kind: p
+  original: Die Bürger haben sehr gute Gründe, der Arbeit übernatürliche Schöpfungskraft anzudichten; denn grade aus der Naturbedingtheit der Arbeit folgt, daß der Mensch, der kein andres Eigentum besitzt als seine Arbeitskraft, in allen Gesellschafts- und Kulturzuständen der Sklave der andern Menschen sein muß, die sich zu Eigentümern der gegenständlichen Arbeitsbedingungen gemacht haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.3.7
+  kind: p
+  original: Er kann nur mit ihrer Erlaubnis arbeiten, also nur mit ihrer Erlaubnis leben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.4.1
+  kind: p
+  original: Lassen wir jetzt den Satz, wie er geht und steht, oder vielmehr hinkt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.4.2
+  kind: p
+  original: Was hätte man als Schlußfolgerung erwartet?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.4.3
+  kind: p
+  original: 'Offenbar dies:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.5.1
+  kind: p
+  original: '"Da die Arbeit die Quelle alles Reichtums ist, kann auch in der Gesellschaft sich niemand Reichtum aneignen, außer als Produkt der Arbeit.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.5.2
+  kind: p
+  original: Wenn er also nicht selber arbeitet, lebt er von fremder Arbeit und eignet sich auch seine Kultur auf Kosten fremder Arbeit an."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.6.1
+  kind: p
+  original: Statt dessen wird durch die Wortschraube "und da" ein zweiter Satz angefügt, um aus ihm, nicht aus dem ersten, eine Schlußfolgerung zu ziehn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.7.1
+  kind: p
+  original: 'Zweiter Teil des Paragraphen: "Nutzbringende Arbeit ist nur in der Gesellschaft und durch die Gesellschaft möglich."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.8.1
+  kind: p
+  original: Nach dem ersten Satz war die Arbeit die Quelle alles Reichtums und aller Kultur, also auch keine Gesellschaft ohne Arbeit möglich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.8.2
+  kind: p
+  original: Jetzt erfahren wir umgekehrt, daß keine "nutzbringende" Arbeit ohne Gesellschaft möglich ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.9.1
+  kind: p
+  original: Man hätte ebensogut sagen können, daß nur in der Gesellschaft nutzlose und selbst gemeinschädliche Arbeit ein Erwerbszweig werden kann, daß man nur in der Gesellschaft vom Müßiggang leben kann etc. etc. - kurz, den ganzen Rousseau abschreiben können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.10.1
+  kind: p
+  original: Und was ist "nutzbringende" Arbeit?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.10.2
+  kind: p
+  original: Doch nur die Arbeit, die den bezweckten Nutzeffekt hervorbringt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.10.3
+  kind: p
+  original: Ein Wilder - und der Mensch ist Wilder, nachdem er aufgehört hat, Affe zu sein -, der ein Tier mit einem Stein erlegt, der Früchte sammelt etc., verrichtet "nutzbringende" Arbeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.11.1
+  kind: p
+  original: 'Drittens: Die Schlußfolgerung: "Und da nutzbringende Arbeit nur in der Gesellschaft und durch die Gesellschaft möglich ist - gehört der Ertrag der Arbeit unverkürzt, nach gleichem Rechte, allen Gesellschaftsgliedern."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T2
+    editions: '1891'
+    reading: mit
+    base_text: … der Arbeit unverkürzt, nach ‸ gleichem Rechte, allen Gesellschaftsgliedern." …
+  mew_page: '15'
+- id: I.12.1
+  kind: p
+  original: Schöner Schluß!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.12.2
+  kind: p
+  original: Wenn die nutzbringende Arbeit nur in der Gesellschaft und durch die Gesellschaft möglich ist, gehört der Arbeitsertrag der Gesellschaft - und kommt dem einzelnen Arbeiter davon nur soviel zu, als nicht nötig ist, um die "Bedingung" der Arbeit, die Gesellschaft, zu erhalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.13.1
+  kind: p
+  original: In der Tat ist dieser Satz auch zu allen Zeiten von den Vorfechtern des jedesmaligen Gesellschaftszustands geltend gemacht worden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T3
+    editions: '1891'
+    reading: Verfechtern
+    base_text: … Zeiten von den Vorfechtern ‸ des jedesmaligen Gesellschaftszustands geltend …
+  mew_page: '15'
+- id: I.13.2
+  kind: p
+  original: Erst kommen die Ansprüche der Regierung mit allem, was daran klebt, denn sie ist das gesellschaftliche Organ zur Erhaltung der gesellschaftlichen Ordnung; dann kommen die Ansprüche der verschiednen Sorten von Privateigentümern, denn die verschiednen Sorten Privateigentum sind die Grundlagen der Gesellschaft etc.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T4
+    editions: '1891'
+    reading: Privateigentum
+    base_text: … verschiednen Sorten von Privateigentümern ‸ , denn die verschiednen …
+  mew_page: '15'
+- id: I.13.3
+  kind: p
+  original: Man sieht, man kann solche hohlen Phrasen drehn und wenden, wie man will.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '15'
+- id: I.14.1
+  kind: p
+  original: 'Irgendwelchen verständigen Zusammenhang haben der erste und zweite Teil des Paragraphen nur in dieser Fassung:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.15.1
+  kind: p
+  original: '"Quelle des Reichtums und der Kultur wird die Arbeit nur als gesellschaftliche Arbeit" oder, was dasselbe ist, "in und durch die Gesellschaft".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.16.1
+  kind: p
+  original: Dieser Satz ist unstreitig richtig, denn wenn die vereinzelte Arbeit (ihre sachlichen Bedingungen vorausgesetzt) auch Gebrauchswerte schaffen kann, kann sie weder Reichtum noch Kultur schaffen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.17.1
+  kind: p
+  original: 'Aber ebenso unstreitig ist der andre Satz:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.18.1
+  kind: p
+  original: '"Im Maße, wie die Arbeit sich gesellschaftlich entwickelt und dadurch Quelle von Reichtum und Kultur wird, entwickeln sich Armut und Verwahrlosung auf seiten des Arbeiters, Reichtum und Kultur auf seiten des Nichtarbeiters."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.19.1
+  kind: p
+  original: Dies ist das Gesetz der ganzen bisherigen Geschichte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.19.2
+  kind: p
+  original: Es war also, statt allgemeine Redensarten über "die Arbeit" und "die Gesellschaft" zu machen, hier bestimmt nachzuweisen, wie in der jetzigen kapitalistischen Gesellschaft endlich die materiellen etc. Bedingungen geschaffen sind, welche die Arbeiter befähigen und zwingen, jenen geschichtlichen Fluch zu brechen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T5
+    editions: '1891'
+    reading: gesellschaftlichen
+    base_text: … und zwingen, jenen geschichtlichen ‸ Fluch zu brechen. …
+  mew_page: '17'
+- id: I.20.1
+  kind: p
+  original: In der Tat aber ist der ganze, stilistisch und inhaltlich verfehlte Paragraph nur da, um das Lassallesche Stichwort vom "unverkürzten Arbeitsertrag" als Losungswort auf die Spitze der Parteifahne zu schreiben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.20.2
+  kind: p
+  original: Ich komme später zurück auf den "Arbeitsertrag", "das gleiche Recht" etc., da dieselbe Sache in etwas andrer Form wiederkehrt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.21.1
+  kind: p
+  original: 2. "In der heutigen Gesellschaft sind die Arbeitsmittel Monopol der Kapitalistenklasse; die hierdurch bedingte Abhängigkeit der Arbeiterklasse ist die Ursache des Elends und der Knechtschaft in allen Formen."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.22.1
+  kind: p
+  original: Der dem internationalen Statut entlehnte Satz ist in dieser "verbesserten" Ausgabe falsch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.23.1
+  kind: p
+  original: In der heutigen Gesellschaft sind die Arbeitsmittel Monopol der Grundeigentümer (das Monopol des Grundeigentums ist sogar Basis des Kapitalmonopols) und der Kapitalisten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.23.2
+  kind: p
+  original: Das internationale Statut nennt im betreffenden Passus weder die eine noch die andere Klasse der Monopolisten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.23.3
+  kind: p
+  original: Es spricht vom "Monopol der Arbeitsmittel, d.h. der Lebensquellen"; der Zusatz "Lebensquellen" zeigt hinreichend, daß der Grund und Boden in den Arbeitsmitteln einbegriffen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.24.1
+  kind: p
+  original: Die Verbesserung wurde angebracht, weil Lassalle, aus jetzt allgemein bekannten Gründen, nur die Kapitalistenklasse angriff, nicht die Grundeigentümer.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '17'
+- id: I.24.2
+  kind: p
+  original: In England ist der Kapitalist meistens nicht einmal der Eigentümer des Grund und Bodens, auf dem seine Fabrik steht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.25.1
+  kind: p
+  original: 3. "Die Befreiung der Arbeit erfordert die Erhebung der Arbeitsmittel zu Gemeingut der Gesellschaft und die genossenschaftliche Regelung der Gesamtarbeit mit gerechter Verteilung des Arbeitsertrags."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.26.1
+  kind: p
+  original: '"Erhebung der Arbeitsmittel zu Gemeingut"!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.26.2
+  kind: p
+  original: Soll wohl heißen ihre "Verwandlung in Gemeingut".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.26.3
+  kind: p
+  original: Doch dies nur nebenbei.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.27.1
+  kind: p
+  original: Was ist "Arbeitsertrag"?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.27.2
+  kind: p
+  original: Das Produkt der Arbeit oder sein Wert?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.27.3
+  kind: p
+  original: Und im letzteren Fall, der Gesamtwert des Produkts oder nur der Wertteil, den die Arbeit dem Wert der aufgezehrten Produktionsmittel neu zugesetzt hat?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.28.1
+  kind: p
+  original: '"Arbeitsertrag" ist eine lose Vorstellung, die Lassalle an die Stelle bestimmter ökonomischer Begriffe gesetzt hat.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.29.1
+  kind: p
+  original: Was ist "gerechte" Verteilung?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.30.1
+  kind: p
+  original: Behaupten die Bourgeois nicht, daß die heutige Verteilung "gerecht" ist?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.30.2
+  kind: p
+  original: Und ist sie in der Tat nicht die einzige "gerechte" Verteilung auf Grundlage der heutigen Produktionsweise?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.30.3
+  kind: p
+  original: Werden die ökonomischen Verhältnisse durch Rechtsbegriffe geregelt, oder entspringen nicht umgekehrt die Rechtsverhältnisse aus den ökonomischen?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.30.4
+  kind: p
+  original: Haben nicht auch die sozialistischen Sektierer die verschiedensten Vorstellungen über "gerechte" Verteilung?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.31.1
+  kind: p
+  original: Um zu wissen, was man sich bei dieser Gelegenheit unter der Phrase "gerechte Verteilung" vorzustellen hat, müssen wir den ersten Paragraphen mit diesem zusammenhalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.31.2
+  kind: p
+  original: Letzterer unterstellt eine Gesellschaft, worin "die Arbeitsmittel Gemeingut sind und die Gesamtarbeit genossenschaftlich geregelt ist", und aus dem ersten Paragraphen ersehn wir, daß "der Ertrag der Arbeit unverkürzt, nach gleichem Rechte, allen Gesellschaftsgliedern gehört".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.32.1
+  kind: p
+  original: '"Allen Gesellschaftsgliedern"?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.32.2
+  kind: p
+  original: Auch den nicht arbeitenden?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.32.3
+  kind: p
+  original: Wo bleibt da "der unverkürzte Arbeitsertrag"?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.32.4
+  kind: p
+  original: Nur den arbeitenden Gesellschaftsgliedern?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.32.5
+  kind: p
+  original: Wo bleibt da "das gleiche Recht" aller Gesellschaftsglieder?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.33.1
+  kind: p
+  original: Doch "alle Gesellschaftsglieder" und "das gleiche Recht" sind offenbar nur Redensarten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.33.2
+  kind: p
+  original: Der Kern besteht darin, daß in dieser kommunistischen Gesellschaft jeder Arbeiter seinen "unverkürzten" Lassalleschen "Arbeitsertrag" erhalten muß.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T6
+    editions: '1891'
+    reading: einen
+    base_text: … Gesellschaft jeder Arbeiter seinen ‸ "unverkürzten" Lassalleschen "Arbeitsertrag" erhalten …
+  mew_page: '18'
+- id: I.34.1
+  kind: p
+  original: Nehmen wir zunächst das Wort "Arbeitsertrag" im Sinne des Produkts der Arbeit, so ist der genossenschaftliche Arbeitsertrag das gesellschaftliche Gesamtprodukt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '18'
+- id: I.35.1
+  kind: p
+  original: 'Davon ist nun abzuziehen:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.36.1
+  kind: p
+  original: 'Erstens: Deckung zum Ersatz der verbrauchten Produktionsmittel.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.37.1
+  kind: p
+  original: 'Zweitens: zusätzlicher Teil für Ausdehnung der Produktion.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.38.1
+  kind: p
+  original: 'Drittens: Reserve- oder Assekuranzfonds gegen Mißfälle, Störungen durch Naturereignisse etc.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.39.1
+  kind: p
+  original: Diese Abzüge vom "unverkürzten Arbeitsertrag" sind eine ökonomische Notwendigkeit, und ihre Größe ist zu bestimmen nach vorhandenen Mitteln und Kräften, zum Teil durch Wahrscheinlichkeitsrechnung, aber sie sind in keiner Weise aus der Gerechtigkeit kalkulierbar.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.40.1
+  kind: p
+  original: Bleibt der andere Teil des Gesamtprodukts, bestimmt, als Konsumtionsmittel zu dienen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.41.1
+  kind: p
+  original: 'Bevor es zur individuellen Teilung kommt, geht hiervon wieder ab:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.42.1
+  kind: p
+  original: 'Erstens: die allgemeinen, nicht direkt zur Produktion gehörigen Verwaltungskosten.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T7
+    editions: '1891'
+    reading: 'fehlt: direkt'
+    base_text: … die allgemeinen, nicht direkt ‸ zur Produktion gehörigen Verwaltungskosten. …
+  mew_page: '19'
+- id: I.43.1
+  kind: p
+  original: Dieser Teil wird von vornherein aufs bedeutendste beschränkt im Vergleich zur jetzigen Gesellschaft und vermindert sich im selben Maß, als die neue Gesellschaft sich entwickelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.44.1
+  kind: p
+  original: 'Zweitens: was zur gemeinschaftlichen Befriedigung von Bedürfnissen bestimmt ist, wie Schulen, Gesundheitsvorrichtungen etc.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.45.1
+  kind: p
+  original: Dieser Teil wächst von vornherein bedeutend im Vergleich zur jetzigen Gesellschaft und nimmt im selben Maß zu, wie die neue Gesellschaft sich entwickelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.46.1
+  kind: p
+  original: 'Drittens: Fonds für Arbeitsunfähige etc., kurz, für, was heute zur sog. offiziellen Armenpflege gehört.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.47.1
+  kind: p
+  original: Erst jetzt kommen wir zu der "Verteilung", die das Programm, unter Lassalleschem Einfluß, bornierterweise allein ins Auge faßt, nämlich an den Teil der Konsumtionsmittel, der unter die individuellen Produzenten der Genossenschaft verteilt wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.48.1
+  kind: p
+  original: Der "unverkürzte Arbeitsertrag" hat sich unterderhand bereits in den "verkürzten" verwandelt, obgleich, was dem Produzenten in seiner Eigenschaft als Privatindividuum entgeht, ihm direkt oder indirekt in seiner Eigenschaft als Gesellschaftsglied zugut kommt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.49.1
+  kind: p
+  original: Wie die Phrase des "unverkürzten Arbeitsertrags" verschwunden ist, verschwindet jetzt die Phrase des "Arbeitsertrags" überhaupt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '19'
+- id: I.50.1
+  kind: p
+  original: Innerhalb der genossenschaftlichen, auf Gemeingut an den Produktionsmitteln gegründeten Gesellschaft tauschen die Produzenten ihre Produkte nicht aus; ebensowenig erscheint hier die auf Produkte verwandte Arbeit als Wert dieser Produkte, als eine von ihnen besessene sachliche Eigenschaft, da jetzt, im Gegensatz zur kapitalistischen Gesellschaft, die individuellen Arbeiten nicht mehr auf einem Umweg, sondern unmittelbar als Bestandteile der Gesamtarbeit existieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 19-20
+- id: I.50.2
+  kind: p
+  original: Das Wort "Arbeitsertrag", auch heutzutage wegen seiner Zweideutigkeit verwerflich, verliert so allen Sinn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.51.1
+  kind: p
+  original: Womit wir es hier zu tun haben, ist eine kommunistische Gesellschaft, nicht wie sie sich auf ihrer eignen Grundlage entwickelt hat, sondern umgekehrt, wie sie eben aus der kapitalistischen Gesellschaft hervorgeht, also in jeder Beziehung, ökonomisch, sittlich, geistig, noch behaftet ist mit den Muttermalen der alten Gesellschaft, aus deren Schoß sie herkommt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.51.2
+  kind: p
+  original: Demgemäß erhält der einzelne Produzent - nach den Abzügen - exakt zurück, was er ihr gibt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.51.3
+  kind: p
+  original: Was er ihr gegeben hat, ist sein individuelles Arbeitsquantum.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.51.4
+  kind: p
+  original: Z.B. der gesellschaftliche Arbeitstag besteht aus der Summe der individuellen Arbeitsstunden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.51.5
+  kind: p
+  original: Die individuelle Arbeitszeit des einzelnen Produzenten ist der von ihm gelieferte Teil des gesellschaftlichen Arbeitstags, sein Anteil daran.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.51.6
+  kind: p
+  original: Er erhält von der Gesellschaft einen Schein, daß er soundso viel Arbeit geliefert (nach Abzug seiner Arbeit für die gemeinschaftlichen Fonds), und zieht mit diesem Schein aus dem gesellschaftlichen Vorrat von Konsumtionsmitteln soviel heraus, als gleich viel Arbeit kostet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.51.7
+  kind: p
+  original: Dasselbe Quantum Arbeit, das er der Gesellschaft in einer Form gegeben hat, erhält er in der andern zurück.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.52.1
+  kind: p
+  original: Es herrscht hier offenbar dasselbe Prinzip, das den Warenaustausch regelt, soweit er Austausch Gleichwertiger ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.52.2
+  kind: p
+  original: Inhalt und Form sind verändert, weil unter den veränderten Umständen niemand etwas geben kann außer seiner Arbeit und weil andrerseits nichts in das Eigentum der einzelnen übergehn kann außer individuellen Konsumtionsmitteln.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.52.3
+  kind: p
+  original: Was aber die Verteilung der letzteren unter die einzelnen Produzenten betrifft, herrscht dasselbe Prinzip wie beim Austausch von Warenäquivalenten, es wird gleich viel Arbeit in einer Form gegen gleich viel Arbeit in einer andern ausgetauscht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.53.1
+  kind: p
+  original: Das gleiche Recht ist hier daher immer noch - dem Prinzip nach - das bürgerliche Recht, obgleich Prinzip und Praxis sich nicht mehr in den Haaren liegen, während der Austausch von Äquivalenten beim Warenaustausch nur im Durchschnitt, nicht für den einzelnen Fall existiert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.54.1
+  kind: p
+  original: Trotz dieses Fortschritts ist dieses gleiche Recht stets noch mit einer bürgerlichen Schranke behaftet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.54.2
+  kind: p
+  original: Das Recht der Produzenten ist ihren Arbeitslieferungen proportionell; die Gleichheit besteht darin, daß an gleichem Maßstab, der Arbeit, gemessen wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '20'
+- id: I.54.3
+  kind: p
+  original: Der eine ist aber physisch oder geistig dem andern überlegen, liefert also in derselben Zeit mehr Arbeit oder kann während mehr Zeit arbeiten; und die Arbeit, um als Maß zu dienen, muß der Ausdehnung oder der Intensität nach bestimmt werden, sonst hörte sie auf, Maßstab zu sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 20-21
+- id: I.54.4
+  kind: p
+  original: Dies gleiche Recht ist ungleiches Recht für ungleiche Arbeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '21'
+- id: I.54.5
+  kind: p
+  original: Es erkennt keine Klassenunterschiede an, weil jeder nur Arbeiter ist wie der andre; aber es erkennt stillschweigend die ungleiche individuelle Begabung und daher Leistungsfähigkeit der Arbeiter als natürliche Privilegien an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T8
+    editions: '1891'
+    reading: 'fehlt: der Arbeiter'
+    base_text: … daher Leistungsfähigkeit der Arbeiter ‸ als natürliche Privilegien an. …
+  mew_page: '21'
+- id: I.54.6
+  kind: p
+  original: Es ist daher ein Recht der Ungleichheit, seinem Inhalt nach, wie alles Recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '21'
+- id: I.54.7
+  kind: p
+  original: Das Recht kann seiner Natur nach nur in Anwendung von gleichem Maßstab bestehn; aber die ungleichen Individuen (und sie wären nicht verschiedne Individuen, wenn sie nicht ungleiche wären) sind nur an gleichem Maßstab meßbar, soweit man sie unter einen gleichen Gesichtspunkt bringt, sie nur von einer bestimmten Seite faßt, z.B. im gegebnen Fall sie nur als Arbeiter betrachtet und weiter nichts in ihnen sieht, von allem andern absieht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '21'
+- id: I.54.8
+  kind: p
+  original: 'Ferner: Ein Arbeiter ist verheiratet, der andre nicht; einer hat mehr Kinder als der andre etc. etc.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '21'
+- id: I.54.9
+  kind: p
+  original: Bei gleicher Arbeitsleistung und daher gleichem Anteil an dem gesellschaftlichen Konsumtionsfonds erhält also der eine faktisch mehr als der andre, ist der eine reicher als der andre etc.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '21'
+- id: I.54.10
+  kind: p
+  original: Um alle diese Mißstände zu vermeiden, müßte das Recht, statt gleich, vielmehr ungleich sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T9
+    editions: '1891'
+    reading: 'fehlt: vielmehr'
+    base_text: … Recht, statt gleich, vielmehr ‸ ungleich sein. …
+  mew_page: '21'
+- id: I.55.1
+  kind: p
+  original: Aber diese Mißstände sind unvermeidbar in der ersten Phase der kommunistischen Gesellschaft, wie sie eben aus der kapitalistischen Gesellschaft nach langen Geburtswehen hervorgegangen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '21'
+- id: I.55.2
+  kind: p
+  original: Das Recht kann nie höher sein als die ökonomische Gestaltung und dadurch bedingte Kulturentwicklung der Gesellschaft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '21'
+- id: I.56.1
+  kind: p
+  original: 'In einer höheren Phase der kommunistischen Gesellschaft, nachdem die knechtende Unterordnung der Individuen unter die Teilung der Arbeit, damit auch der Gegensatz geistiger und körperlicher Arbeit verschwunden ist; nachdem die Arbeit nicht nur Mittel zum Leben, sondern selbst das erste Lebensbedürfnis geworden; nachdem mit der allseitigen Entwicklung der Individuen auch ihre Produktivkräfte gewachsen und alle Springquellen des genossenschaftlichen Reichtums voller fließen - erst dann kann der enge bürgerliche Rechtshorizont ganz überschritten werden und die Gesellschaft auf ihre Fahne schreiben: Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T10
+    editions: '1891'
+    reading: die Produktionskräfte
+    base_text: … Individuen auch ihre Produktivkräfte ‸ gewachsen und alle Springquellen …
+  mew_page: '21'
+- id: I.57.1
+  kind: p
+  original: Ich bin weitläufiger auf den "unverkürzten Arbeitsertrag" einerseits, "das gleiche Recht", "die gerechte Verteilung" andrerseits eingegangen, um zu zeigen, wie sehr man frevelt, wenn man einerseits Vorstellungen, die zu einer gewissen Zeit einen Sinn hatten, jetzt aber zu veraltetem Phrasenkram geworden, unsrer Partei wieder als Dogmen aufdrängen will, andrerseits aber die realistische Auffassung, die der Partei so mühvoll beigebracht worden, aber Wurzeln in ihr geschlagen, wieder durch ideologische Rechts- und andre, den Demokraten und französischen Sozialisten so geläufige Flausen verdreht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 21-22
+- id: I.58.1
+  kind: p
+  original: Abgesehn von dem bisher Entwickelten war es überhaupt fehlerhaft, von der sog. Verteilung Wesens zu machen und den Hauptakzent auf sie zu legen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.59.1
+  kind: p
+  original: Die jedesmalige Verteilung der Konsumtionsmittel ist nur Folge der Verteilung der Produktionsbedingungen selbst; letztere Verteilung aber ist ein Charakter der Produktionsweise selbst.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.59.2
+  kind: p
+  original: Die kapitalistische Produktionsweise z.B. beruht darauf, daß die sachlichen Produktionsbedingungen Nichtarbeitern zugeteilt sind unter der Form von Kapitaleigentum und Grundeigentum, während die Masse nur Eigentümer der persönlichen Produktionsbedingung, der Arbeitskraft, ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.59.3
+  kind: p
+  original: Sind die Elemente der Produktion derart verteilt, so ergibt sich von selbst die heutige Verteilung der Konsumtionsmittel.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.59.4
+  kind: p
+  original: Sind die sachlichen Produktionsbedingungen genossenschaftliches Eigentum der Arbeiter selbst, so ergibt sich ebenso eine von der heutigen verschiedne Verteilung der Konsumtionsmittel.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.59.5
+  kind: p
+  original: Der Vulgärsozialismus (und von ihm wieder ein Teil der Demokratie) hat es von den bürgerlichen Ökonomen überkommen, die Distribution als von der Produktionsweise unabhängig zu betrachten und zu behandeln, daher den Sozialismus hauptsächlich als um die Distribution sich drehend darzustellen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.59.6
+  kind: p
+  original: Nachdem das wirkliche Verhältnis längst klargelegt, warum wieder rückwärtsgehn?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.60.1
+  kind: p
+  original: 4. "Die Befreiung der Arbeit muß das Werk der Arbeiterklasse sein, der gegenüber alle andren Klassen nur eine reaktionäre Masse sind."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.61.1
+  kind: p
+  original: Die erste Strophe ist aus den Eingangsworten der internationalen Statuten, aber "verbessert".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.61.2
+  kind: p
+  original: 'Dort heißt es: "Die Befreiung der Arbeiterklasse muß die Tat der Arbeiter selbst sein"; hier hat dagegen "die Arbeiterklasse" zu befreien - was? "die Arbeit".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.61.3
+  kind: p
+  original: Begreife, wer kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.62.1
+  kind: p
+  original: 'Zum Schadenersatz ist dagegen die Gegenstrophe Lassallesches Zitat vom reinsten Wasser: "der (der Arbeiterklasse) gegenüber alle andern Klassen nur eine reaktionäre Masse bilden".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.63.1
+  kind: p
+  original: 'Im "Kommunistischen Manifest" heißt es: "Von allen Klassen, welche heutzutage der Bourgeoisie gegenüberstehn, ist nur das Proletariat eine wirklich revolutionäre Klasse.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.63.2
+  kind: p
+  original: Die übrigen Klassen verkommen und gehn unter mit der großen Industrie, das Proletariat ist ihr eigenstes Produkt."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '22'
+- id: I.64.1
+  kind: p
+  original: Die Bourgeoisie ist hier als revolutionäre Klasse aufgefaßt - als Trägerin der großen Industrie - gegenüber Feudalen und Mittelständen, welche alle gesellschaftlichen Positionen behaupten wollen, die das Gebilde veralteter Produktionsweisen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.64.2
+  kind: p
+  original: Sie bilden also nicht zusammen mit der Bourgeoisie nur eine reaktionäre Masse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.65.1
+  kind: p
+  original: Andrerseits ist das Proletariat der Bourgeoisie gegenüber revolutionär, weil es, selbst erwachsen auf dem Boden der großen Industrie, der Produktion den kapitalistischen Charakter abzustreifen strebt, den die Bourgeoisie zu verewigen sucht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.65.2
+  kind: p
+  original: 'Aber das Manifest setzt hinzu: daß die "Mittelstände... revolutionär (werden)... im Hinblick auf ihren bevorstehenden Übergang ins Proletariat".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.66.1
+  kind: p
+  original: Von diesem Gesichtspunkt ist es also wieder Unsinn, daß sie, "zusammen mit der Bourgeoisie" und obendrein den Feudalen, gegenüber der Arbeiterklasse "nur eine reaktionäre Masse bilden".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.67.1
+  kind: p
+  original: 'Hat man bei den letzten Wahlen Handwerkern, kleinen Industriellen etc. und Bauern zugerufen: Uns gegenüber bildet ihr mit Bourgeois und Feudalen nur eine reaktionäre Masse?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.68.1
+  kind: p
+  original: Lassalle wußte das "Kommunistische Manifest" auswendig wie seine Gläubigen die von ihm verfaßten Heilsschriften.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.68.2
+  kind: p
+  original: Wenn er es also so grob verfälschte, geschah es nur, um seine Allianz mit den absolutistischen und feudalen Gegnern wider die Bourgeoisie zu beschönigen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.69.1
+  kind: p
+  original: Im obigen Paragraph wird nun zudem sein Weisheitsspruch an den Haaren herbeigezogen, ohne allen Zusammenhang mit dem verballhornten Zitat aus dem Statut der Internationalen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.69.2
+  kind: p
+  original: Es ist also hier einfach eine Impertinenz, und zwar keineswegs Herrn Bismarck mißfällige, eine jener wohlfeilen Flegeleien, worin der Berliner Marat macht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.70.1
+  kind: p
+  original: 5. "Die Arbeiterklasse wirkt für ihre Befreiung zunächst im Rahmen des heutigen nationalen Staats, sich bewußt, daß das notwendige Ergebnis ihres Strebens, welches den Arbeitern aller Kulturländer gemeinsam ist, die internationale Völkerverbrüderung sein wird."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.71.1
+  kind: p
+  original: Lassalle hatte, im Gegensatz zum "Kommunistischen Manifest" und zu allem früheren Sozialismus, die Arbeiterbewegung vom engsten nationalen Standpunkt gefaßt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.71.2
+  kind: p
+  original: Man folgt ihm darin - und dies nach dem Wirken der Internationalen!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.72.1
+  kind: p
+  original: Es versteht sich ganz von selbst, daß, um überhaupt kämpfen zu können, die Arbeiterklasse sich bei sich zu Haus organisieren muß als Klasse, und daß das Inland der unmittelbare Schauplatz ihres Kampfs.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.72.2
+  kind: p
+  original: Insofern ist ihr Klassenkampf, nicht dem Inhalt, sondern, wie das "Kommunistische Manifest" sagt, "der Form nach" national.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '23'
+- id: I.72.3
+  kind: p
+  original: Aber der "Rahmen des heutigen nationalen Staats", z.B. des Deutschen Reichs, steht selbst wieder ökonomisch "im Rahmen des Weltmarkts", politisch "im Rahmen des Staatensystems".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 23-24
+- id: I.72.4
+  kind: p
+  original: Der erste beste Kaufmann weiß, daß der deutsche Handel zugleich ausländischer Handel ist, und die Größe des Herrn Bismarck besteht ja eben in seiner Art internationaler Politik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T11
+    editions: '1891'
+    reading: einer
+    base_text: … ja eben in seiner ‸ Art internationaler Politik. …
+  mew_page: '24'
+- id: I.73.1
+  kind: p
+  original: Und worauf reduziert die deutsche Arbeiterpartei ihren Internationalismus?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: I.73.2
+  kind: p
+  original: Auf das Bewußtsein, daß das Ergebnis ihres Strebens "die internationale Völkerverbrüderung sein wird" - eine dem bürgerlichen Freiheits- und Friedensbund entlehnte Phrase, die als Äquivalent passieren soll für die internationale Verbrüderung der Arbeiterklassen im gemeinschaftlichen Kampf gegen die herrschenden Klassen und ihre Regierungen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: I.73.3
+  kind: p
+  original: Von internationalen Funktionen der deutschen Arbeiterklasse also kein Wort!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: I.73.4
+  kind: p
+  original: Und so soll sie ihrer eignen, mit den Bourgeois aller andern Länder bereits gegen sie verbrüderten Bourgeoisie und Herrn Bismarcks internationaler Verschwörungspolitik das Paroli bieten!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: I.74.1
+  kind: p
+  original: In der Tat steht das internationale Bekenntnis des Programms noch unendlich tief unter dem der Freihandelspartei.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: I.74.2
+  kind: p
+  original: Auch sie behauptet, das Ergebnis ihres Strebens sei "die internationale Völkerverbrüderung".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: I.74.3
+  kind: p
+  original: Sie tut aber auch etwas, um den Handel international zu machen, und begnügt sich keineswegs bei dem Bewußtsein - daß alle Völker bei sich zu Haus Handel treiben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: I.75.1
+  kind: p
+  original: Die internationale Tätigkeit der Arbeiterklassen hängt in keiner Art von der Existenz der "Internationalen Arbeiterassoziation" ab.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: I.75.2
+  kind: p
+  original: Diese war nur der erste Versuch, jener Tätigkeit ein Zentralorgan zu schaffen; ein Versuch, der durch den Anstoß, welchen er gab, von bleibendem Erfolg, aber in seiner ersten historischen Form nach dem Fall der Pariser Kommune nicht länger durchführbar war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'
+- id: I.76.1
+  kind: p
+  original: Bismarcks "Norddeutsche" war vollständig im Recht, wenn sie zur Zufriedenheit ihres Meisters verkündete, die deutsche Arbeiterpartei habe in dem neuen Programm dem Internationalismus abgeschworen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '24'

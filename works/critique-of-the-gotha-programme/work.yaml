@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: critique-of-the-gotha-programme
+prefix: CGP                       # citation prefix: CGP I.56.1
+title: Critique of the Gotha Programme
+title_original: Kritik des Gothaer Programms
+authors: [Karl Marx, Friedrich Engels (1891 foreword)]
+year: 1875
+original_language: de
+base_text: "Marx's manuscript of April to May 1875 as printed in MEW 19, with the 1891 readings as variants and the passages Engels left out in 1891 in < >"
+order: 150
+columns:
+  original: German (MEW, from the manuscript)
+  en: ""                          # no public-domain English on a reachable mirror yet
+  modern: Modern draft (translated from the German)
+status: ready
+rights: Original public domain. No historical English column yet. See SOURCES.md.
