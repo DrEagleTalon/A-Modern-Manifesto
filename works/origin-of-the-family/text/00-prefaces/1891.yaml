@@ -1,0 +1,1321 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: P1891
+title_original: '[Vorwort zur vierten Auflage 1891]'
+title_en: Author's Preface to the Fourth Edition, 1891
+author: Friedrich Engels
+date: '1891-06-16'
+original_language: de
+anchor_language: de
+source_original: MEW 22, S. 211-222 (Dietz, Berlin 1963) via mlwerke.de; preface to the fourth edition (Stuttgart 1892), first printed in Die Neue Zeit, 1891
+source_en: Ernest Untermann's translation (Charles H. Kerr, Chicago 1902; 1908 printing), Project Gutenberg ebook 33111 (public domain)
+verses:
+- id: P1891.0.1
+  kind: heading
+  original: '[Vorwort zur vierten Auflage 1891]'
+  en: AUTHOR'S PREFACE TO THE FOURTH EDITION, 1891.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1891.1.1
+  kind: p
+  original: Die früheren starken Auflagen dieser Schrift sind seit fast einem halben Jahr vergriffen, und der Verleger [J. H. W. Dietz] hat schon seit längerer Zeit die Besorgung einer neuen Auflage von mir gewünscht.
+  en: The first large editions of this work have been out of print for nearly six months, and the publisher has for some time requested of me the arrangement of a new edition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: P1891.1.2
+  kind: p
+  original: Dringendere Arbeiten hielten mich bis jetzt davon ab.
+  en: Urgent duties have hitherto prevented me.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: P1891.1.3
+  kind: p
+  original: Seit dem Erscheinen der ersten Auflage sind sieben Jahre verflossen, in denen die Kenntnis der ursprünglichen Familienformen bedeutende Fortschritte gemacht hat.
+  en: Seven years have passed, since the first edition made its appearance; during this time, the study of primeval forms of the family has made considerable progress.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: P1891.1.4
+  kind: p
+  original: Es war hier also die nachbessernde und ergänzende Hand fleißig anzuwenden; und zwar um so mehr, als die beabsichtigte Stereotypierung des gegenwärtigen Textes mir fernere Änderungen für einige Zeit unmöglich machen wird.
+  en: Hence it became necessary to apply diligently the improving and supplementing hand, more especially, as the proposed stereotyping of the present text will make further changes impossible for some time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: 1891 (Die Neue Zeit)
+    reading: 'In der "Neuen Zeit" lautet der letzte Teil des Satzes: als die neue Auflage die heute in der deutschen sozialistischen Literatur übliche, in andren deutschen Büchergebieten noch immer sehr seltne Stärke erhalten soll'
+    base_text: … Zeit unmöglich machen wird ‸ . …
+  mew_page: '211'
+- id: P1891.2.1
+  kind: p
+  original: Ich habe also den ganzen Text einer sorgfältigen Durchsicht unterworfen und eine Reihe von Zusätzen gemacht, wodurch, wie ich hoffe, der heutige Stand der Wissenschaft gebührende Berücksichtigung gefunden hat.
+  en: Consequently, I have subjected the whole text to a thorough revision and made a number of additions which, I hope, will give due recognition to the present stage of scientific progress.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: P1891.2.2
+  kind: p
+  original: Ferner gebe ich im weitern Verlauf dieses Vorworts eine kurze Übersicht über die Entwicklung der Geschichte der Familie von Bachofen bis Morgan; und zwar hauptsächlich deswegen, weil die englische chauvinistisch angehauchte prähistorische Schule noch fortwährend ihr möglichstes tut, die durch Morgans Entdeckungen vollzogne Umwälzung der urgeschichtlichen Anschauungen totzuschweigen, wobei sie jedoch in der Aneignung von Morgans Resultaten sich keineswegs geniert.
+  en: Furthermore, I give in the course of this preface a short synopsis of the history of the family as treated by various writers from Bachofen to Morgan. I am doing this mainly because the English prehistoric school, tinged with chauvinism, is continually doing its utmost to kill by its silence the revolution in primeval conceptions effected by Morgan's discoveries. At the same time this school is not at all backward in appropriating to its own use the results of Morgan's study.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: P1891.2.3
+  kind: p
+  original: Auch anderwärts wird diesem englischen Beispiel stellenweise nur zu sehr gefolgt.
+  en: In certain other circles also this English example is unhappily followed rather extensively.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: P1891.3.1
+  kind: p
+  original: Meine Arbeit hat verschiedne Übertragungen in fremde Sprachen erfahren.
+  en: My work has been translated into different languages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+- id: P1891.3.2
+  kind: p
+  original: 'Zuerst italienisch: "L''origine della famiglia, della proprietà privata e dello stato".'
+  en: First into Italian; L'origine della famiglia, della proprieta privata e dello stato, versione riveduta dall' autore, di Pasquale Martignetti; Benevento, 1885.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '211'
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.3.3
+  kind: p
+  original: Versione riveduta dall' autore, di Pasquale Martignetti.
+  en: ''
+  joined_to: P1891.3.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '211'
+- id: P1891.3.4
+  kind: p
+  original: Benevento 1885.
+  en: ''
+  joined_to: P1891.3.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '211'
+- id: P1891.3.5
+  kind: p
+  original: 'Dann rumänisch: "Originea familiei, proprietăţii private şi a statului".'
+  en: 'Then into Roumanian: Origina familei, proprietatei private si a statului, traducere de Ivan Nadejde, in the Jassy periodical "Contemporanul," September, 1885, to May, 1886.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 211-212
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.3.6
+  kind: p
+  original: Traducere de Joan Nădejde, in der Jassyer Zeitschrift "Contemporanul", September 1885 bis Mai 1886.
+  en: ''
+  joined_to: P1891.3.5
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '212'
+- id: P1891.3.7
+  kind: p
+  original: 'Ferner dänisch: "Familjens, Privatejendommens og Statens Oprindelse".'
+  en: 'Furthermore into Danish: Familjens, Privatejendommens og Statens Oprindelse, Dansk, af Forfatteren gennemgaaet Udgave, besoerget af Gerson Trier, Kjoebenhavn, 1888.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.3.8
+  kind: p
+  original: Dansk af Forfatteren gennemgaaet Udgave, besorget af Gerson Trier.
+  en: ''
+  joined_to: P1891.3.7
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '212'
+- id: P1891.3.9
+  kind: p
+  original: København 1888.
+  en: ''
+  joined_to: P1891.3.7
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '212'
+- id: P1891.3.10
+  kind: p
+  original: Eine französische Übersetzung von Henri Ravé, der die gegenwärtige deutsche Ausgabe zugrunde liegt, ist unter der Presse.
+  en: A French translation by Henri Rave, founded on the present German edition, is under the press.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: P1891.4.1
+  kind: p
+  original: Bis zum Anfang der sechziger Jahre kann von einer Geschichte der Familie nicht die Rede sein.
+  en: Up to the beginning of the sixties, a history of the family cannot be spoken of.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: P1891.4.2
+  kind: p
+  original: Die historische Wissenschaft stand auf diesem Gebiet noch ganz unter dem Einflusse der fünf Bücher Mosis.
+  en: This branch of historical science was then entirely under the influence of the decalogue.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: P1891.4.3
+  kind: p
+  original: Die darin ausführlicher als anderswo geschilderte patriarchalische Familienform wurde nicht nur ohne weiteres als die älteste angenommen, sondern auch - nach Abzug der Vielweiberei - mit der heutigen bürgerlichen Familie identifiziert, so daß eigentlich die Familie überhaupt keine geschichtliche Entwicklung durchgemacht hatte; höchstens gab man zu, daß in der Urzeit eine Periode geschlechtlicher Regellosigkeit bestanden haben könne.
+  en: The patriarchal form of the family, described more exhaustively by Moses than by anybody else, was not only, without further comment, considered as the most ancient, but also as identical with the family of our times. No historical development of the family was even recognized. At best it was admitted that a period of sexual license might have existed in primeval times.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: P1891.4.4
+  kind: p
+  original: '- Allerdings kannte man außer der Einzelehe auch die orientalische Vielweiberei und die indisch-tibetanische Vielmännerei; aber diese drei Formen ließen sich nicht in eine historische Reihenfolge ordnen und figurierten zusammenhangslos nebeneinander.'
+  en: To be sure, aside from monogamy, oriental polygamy and Indo-Tibethan polyandry were known; but these three forms could not be arranged in any historical order and stood side by side without any connection.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: P1891.4.5
+  kind: p
+  original: Daß bei einzelnen Völkern der alten Geschichte sowie bei einigen noch existierenden Wilden die Abstammung nicht vom Vater, sondern von der Mutter gerechnet, also die weibliche Linie als die allein gültige angesehn wurde; daß bei vielen heutigen Völkern die Ehe innerhalb bestimmter größerer, damals nicht näher untersuchter Gruppen verboten ist, und daß diese Sitte sich in allen Weltteilen findet - diese Tatsachen waren zwar bekannt, und es wurden immer mehr Beispiele davon gesammelt.
+  en: That some nations of ancient history and some savage tribes of the present day did not trace their descent to the father, but to the mother, hence considered the female lineage as alone valid; that many nations of our time prohibit intermarrying inside of certain large groups, the extent of which was not yet ascertained and that this custom is found in all parts of the globe--these facts were known, indeed, and more examples were continually collected.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+- id: P1891.4.6
+  kind: p
+  original: Aber man wußte nichts damit anzufangen, und selbst noch in E. B. Tylors "Researches into the Early History of Mankind etc. etc." (1865) figurieren sie als bloße "sonderbare Gebräuche" neben dem bei einigen Wilden geltenden Verbot, brennendes Holz mit einem Eisenwerkzeug zu berühren, und ähnlichen religiösen Schnurrpfeifereien.
+  en: But nobody knew how to make use of them. Even in E. B. Taylor's "Researches into the Early History of Mankind," etc. (1865), they are only mentioned as "queer customs" together with the usage of some savage tribes to prohibit the touching of burning wood with iron, tools, and similar religious absurdities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.5.1
+  kind: p
+  original: Die Geschichte der Familie datiert von 1861, vom Erscheinen von Bachofens "Mutterrecht".
+  en: 'This history of the family dates from 1861, the year of the publication of Bachofen''s "Mutterrecht" (maternal law). Here the author makes the following propositions:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '212'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.5.2
+  kind: p
+  original: 'Hier stellt der Verfasser die folgenden Behauptungen auf: 1. daß die Menschen im Anfang in schrankenlosem Geschlechtsverkehr gelebt, den er, mit einem schiefen Ausdruck, als Hetärismus bezeichnet; 2. daß ein solcher Verkehr jede sichere Vaterschaft ausschließt, daß daher die Abstammung nur in der weiblichen Linie - nach Mutterrecht - gerechnet werden konnte, und daß dies ursprünglich bei allen Völkern des Altertums der Fall war; 3. daß in Folge hiervon den Frauen, als den Müttern, den einzigen sicher bekannten Eltern der jüngern Generation, ein hoher Grad von Achtung und Ansehn gezollt wurde, der sich nach Bachofens Vorstellung zu einer vollständigen Weiberherrschaft (Gynaikokratie) steigerte; 4. daß der Übergang zur Einzelehe, wo die Frau einem Mann ausschließlich gehörte, eine Verletzung eines uralten Religionsgebots in sich schloß (d.h. tatsächlich eine Verletzung des altherkömmlichen Anrechts der übrigen Männer auf dieselbe Frau), eine Verletzung, die gebüßt oder deren Duldung erkauft werden mußte durch eine zeitlich beschränkte Preisgebung der Frau.'
+  en: 1. That in the beginning people lived in unrestricted sexual intercourse, which he dubs, not very felicitously, hetaerism. 2. That such an intercourse excludes any absolutely certain means of determining parentage; that consequently descent could only be traced by the female line in compliance with maternal law--and that this was universally practiced by all the nations of antiquity. 3. That consequently women as mothers, being the only well known parents of younger generations, received a high tribute of respect and deference, amounting to a complete women's rule (gynaicocracy), according to Bachofen's idea. 4. That the transition to monogamy, reserving a certain woman exclusively to one man, implied the violation of a primeval religious law (i. e., practically a violation of the customary right of all other men to the same woman), which violation had to be atoned for or its permission purchased by the surrender of the women to the public for a limited time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 212-213
+  align: '1:4'
+  review: true
+  review_reason: 1 de sentence(s) matched to 4 en sentence(s)
+- id: P1891.6.1
+  kind: p
+  original: Die Beweise für diese Sätze findet Bachofen in zahllosen, mit äußerstem Fleiß zusammengesuchten Stellen der altklassischen Literatur.
+  en: Bachofen finds the proofs of these propositions in numerous quotations from ancient classics, collected with unusual diligence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: P1891.6.2
+  kind: p
+  original: Die Entwicklung vom "Hetärismus" zur Monogamie und vom Mutterrecht zum Vaterrecht vollzieht sich nach ihm, namentlich bei den Griechen, in Folge einer Fortentwicklung der religiösen Vorstellungen, einer Einschiebung neuer Gottheiten, Repräsentanten der neuen Anschauungsweise, in die altüberlieferte Göttergruppe, die Vertreterin der alten Anschauung, so daß die letztere mehr und mehr von der ersteren in den Hintergrund gedrängt wird.
+  en: The transition from "hetaerism" to monogamy and from maternal to paternal law is accomplished according to him--especially by the Greeks--through the evolution of religious ideas. New gods, the representatives of the new ideas, are added to the traditional group of gods, the representatives of old ideas; the latter are forced to the background more and more by the former.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.6.3
+  kind: p
+  original: Es ist also nicht die Entwicklung der tatsächlichen Lebensbedingungen der Menschen, sondern der religiöse Widerschein dieser Lebensbedingungen in den Köpfen derselben Menschen, der nach Bachofen die geschichtlichen Veränderungen in der gegenseitigen gesellschaftlichen Stellung von Mann und Weib bewirkt hat.
+  en: According to Bachofen, therefore, it is not the development of the actual conditions of life that has effected the historical changes in the relative social positions of man and wife, but the religious reflection of these conditions in the minds of men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: P1891.6.4
+  kind: p
+  original: Hiernach stellt Bachofen die "Oresteia" des Äschylos dar als die dramatische Schilderung des Kampfes zwischen dem untergehenden Mutterrecht und dem in der Heroenzeit aufkommenden und siegenden Vaterrecht.
+  en: Hence Bachofen represents the Oresteia of Aeschylos as the dramatic description of the fight between the vanishing maternal and the paternal law, rising and victorious during the time of the heroes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: P1891.6.5
+  kind: p
+  original: Klytämnestra hat, um ihres Buhlen Ägisthos willen, ihren vom Trojanerkrieg heimkehrenden Gatten Agamemnon erschlagen; aber ihr und Agamemnons Sohn Orestes rächt den Mord des Vaters, indem er seine Mutter erschlägt.
+  en: Klytaemnestra has killed her husband Agamemnon on his return from the Trojan war for the sake of her lover Aegisthos; but Orestes, her son by Agamemnon, avenges the death of his father by killing his mother.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: P1891.6.6
+  kind: p
+  original: Dafür verfolgen ihn die Erinnyen, die dämonischen Schützerinnen des Mutterrechts, wonach der Muttermord das schwerste, unsühnbarste Verbrechen.
+  en: Therefore he is persecuted by the Erinyes, the demonic protectors of maternal law, according to which the murder of a mother is the most horrible, inexpiable crime.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: P1891.6.7
+  kind: p
+  original: Aber Apollo, der den Orestes durch sein Orakel zu dieser Tat aufgefordert, und Athene, die als Richterin aufgerufen wird - die beiden Götter, die hier die neue, vaterrechtliche Ordnung vertreten -, schützen ihn; Athene hört beide Parteien an.
+  en: But Apollo, who has instigated Orestes to this act by his oracle, and Athene, who is invoked as arbitrator--the two deities representing the new paternal order of things--protect him. Athene gives a hearing to both parties.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.6.8
+  kind: p
+  original: Die ganze Streitfrage faßt sich kurz zusammen in der nun stattfindenden Debatte zwischen Orestes und den Erinnyen.
+  en: The whole question is summarized in the ensuing debate between Orestes and the Erinyes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: P1891.6.9
+  kind: p
+  original: 'Orest beruft sich darauf, daß Klytämnestra einen doppelten Frevel begangen: indem sie ihren Gatten, und damit auch seinen Vater getötet.'
+  en: 'Orestes claims that Klytemnaestra has committed a twofold crime: by killing her husband she has killed his father.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: P1891.6.10
+  kind: p
+  original: Warum denn verfolgten die Erinnyen ihn, und nicht sie, die weit Schuldigere?
+  en: Why do the Erinyes persecute him and not her who is far more guilty?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: P1891.6.11
+  kind: p
+  original: 'Die Antwort ist schlagend:'
+  en: 'The reply is striking:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '213'
+- id: P1891.7.1
+  kind: p
+  original: '"Sie war dem Mann, den sie erschlug, nicht blutsverwandt."'
+  en: '"She was not related by blood to the man whom she slew."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: P1891.8.1
+  kind: p
+  original: Der Mord eines nicht blutsverwandten Mannes, selbst wenn er der Gatte der Mörderin, ist sühnbar, geht die Erinnyen nichts an; ihres Amtes ist nur die Verfolgung des Mords unter Blutsverwandten, und da ist, nach Mutterrecht, der schwerste und unsühnbarste der Muttermord.
+  en: The murder of a man not consanguineous, even though he be the husband of the murderess, is expiable, does not concern the Erinyes; it is only their duty to prosecute the murder of consanguineous relatives. According to maternal law, therefore, the murder of a mother is the most heinous and inexpiable crime.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.8.2
+  kind: p
+  original: Nun tritt Apollo für Orestes als Verteidiger auf; Athene läßt die Areopagiten - die athenischen Gerichtsschöffen - abstimmen; die Stimmen sind gleich für Freisprechung und Verurteilung; da gibt Athene als Vorsitzerin ihre Stimme für Orestes ab und spricht ihn frei.
+  en: Now Apollo speaks in defense of Orestes. Athene then calls on the areopagites--the jurors of Athens--to vote; the votes are even for acquittal and for condemnation. Thereupon Athene as president of the jury casts her vote in favor of Orestes and acquits him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: P1891.8.3
+  kind: p
+  original: Das Vaterrecht hat den Sieg errungen über das Mutterrecht, die "Götter jungen Stamms", wie sie von den Erinnyen selbst bezeichnet werden, siegen über die Erinnyen, und diese lassen sich schließlich auch bereden, im Dienst der neuen Ordnung ein neues Amt zu übernehmen.
+  en: Paternal law has gained a victory over maternal law, the deities of the "younger generation," as the Erinyes call them, vanquish the latter. These are finally persuaded to accept a new office under the new order of things.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.9.1
+  kind: p
+  original: Diese neue, aber entschieden richtige Deutung der "Oresteia" ist eine der schönsten und besten Stellen im ganzen Buch, aber sie beweist gleichzeitig, daß Bachofen mindestens ebensosehr an die Erinnyen, Apollo und Athene glaubt, wie seiner Zeit Äschylos; er glaubt eben, daß sie in der griechischen Heroenzeit das Wunder vollbrachten, das Mutterrecht zu stürzen durch das Vaterrecht.
+  en: This new, but decidedly accurate interpretation of the Oresteia is one of the most beautiful and best passages in the whole book, but it proves at the same time that Bachofen himself believes as much in the Erinyes, in Apollo and in Athene, as Aeschylos did in his day. He really believes, that they performed the miracle of securing the downfall of maternal law through paternal law during the time of the Greek heroes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.9.2
+  kind: p
+  original: Daß eine solche Auffassung, wo die Religion als der entscheidende Hebel der Weltgeschichte gilt, schließlich auf reinen Mystizismus hinauslaufen muß, ist klar.
+  en: That a similar conception, representing religion as the main lever of the world's history, must finally lead to sheer mysticism, is evident.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: P1891.9.3
+  kind: p
+  original: Es ist daher eine saure und keineswegs immer lohnende Arbeit, sich durch den dicken Quartanten Bachofens durchzuarbeiten.
+  en: Therefore it is a troublesome and not always profitable task to work your way through the big volume of Bachofen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+- id: P1891.9.4
+  kind: p
+  original: Aber alles das schmälert nicht sein bahnbrechendes Verdienst; er, zuerst, hat die Phrase von einem unbekannten Urzustand mit regellosem Geschlechtsverkehr ersetzt durch den Nachweis, daß die altklassische Literatur uns Spuren in Menge aufzeigt, wonach vor der Einzelehe in der Tat bei Griechen und Asiaten ein Zustand existiert hat, worin nicht nur ein Mann mit mehreren Frauen, sondern eine Frau mit mehreren Männern geschlechtlich verkehrte, ohne gegen die Sitte zu verstoßen; daß diese Sitte nicht verschwand, ohne Spuren zu hinterlassen in einer beschränkten Preisgebung, wodurch die Frauen das Recht auf Einzelehe erkaufen mußten; daß daher die Abstammung ursprünglich nur in weiblicher Linie, von Mutter zu Mutter gerechnet werden konnte; daß diese Alleingültigkeit der weiblichen Linie sich noch lange in die Zeit der Einzelehe mit gesicherter oder doch anerkannter Vaterschaft hinein erhalten hat; und daß diese ursprüngliche Stellung der Mütter, als der einzigen sichern Eltern ihrer Kinder, ihnen und damit den Frauen überhaupt, eine höhere gesellschaftliche Stellung sicherte, als sie seitdem je wieder besessen haben.
+  en: Still, all this does not curtail the value of his fundamental work. He was the first to replace the assumption of an unknown primeval condition of licentious sexual intercourse by the demonstration that ancient classical literature points out a multitude of traces proving the actual existence among Greeks and Asiatics of other sexual relations before monogamy. These relations not only permitted a man to have intercourse with several women, but also left a woman free to have sexual intercourse with several men without violating good morals. This custom did not disappear without leaving as a survival the form of a general surrender for a limited time by which women had to purchase the right of monogamy. Hence descent could originally only be traced by the female line, from mother to mother. The sole legality of the female line was preserved far into the time of monogamy with assured, or at least acknowledged, paternity. Consequently, the original position of the mothers as the sole absolutely certain parents of their children secured for them and for all other women a higher social level than they have ever enjoyed since.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '214'
+  align: '1:7'
+  review: true
+  review_reason: 1 de sentence(s) matched to 7 en sentence(s); regrouped by the ingest (see REALIGN)
+- id: P1891.9.5
+  kind: p
+  original: Diese Sätze hat Bachofen zwar nicht in dieser Klarheit ausgesprochen - das verhinderte seine mystische Anschauung.
+  en: Although Bachofen, biased by his mystic conceptions, did not formulate these propositions so clearly, still he proved their correctness.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 214-215
+  review: true
+  review_reason: the English sentence also covers the first half of P1891.9.6 ("still he proved their correctness"); regrouped by the ingest (see REALIGN)
+- id: P1891.9.6
+  kind: p
+  original: Aber er hat sie bewiesen, und das bedeutete 1861 eine vollständige Revolution.
+  en: This was equivalent to a complete revolution in 1861.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.10.1
+  kind: p
+  original: Bachofens dicker Quartant war deutsch geschrieben, d.h. in der Sprache der Nation, die sich damals am wenigsten für die Vorgeschichte der heutigen Familie interessierte.
+  en: Bachofen's big volume was written In German, i. e., in the language of a nation that cared less than any other of its time for the history of the present family.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.10.2
+  kind: p
+  original: Er blieb daher unbekannt.
+  en: Therefore he remained unknown.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.10.3
+  kind: p
+  original: Sein nächster Nachfolger auf demselben Gebiet trat 1865 auf, ohne von Bachofen je gehört zu haben.
+  en: The man next succeeding him in the same field made his appearance in 1865 without having ever heard of Bachofen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.11.1
+  kind: p
+  original: Dieser Nachfolger war J. F. McLennan, das grade Gegenteil seines Vorgängers.
+  en: This successor was J. F. McLennan, the direct opposite of his predecessor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.11.2
+  kind: p
+  original: Statt des genialen Mystikers haben wir hier den ausgetrockneten Juristen; statt der überwuchernden dichterischen Phantasie die plausiblen Kombinationen des plädierenden Advokaten.
+  en: Instead of the talented mystic, we have here the dry jurist; in place of the rank growth of poetical imagination, we find the plausible combinations of the pleading lawyer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.11.3
+  kind: p
+  original: McLennan findet bei vielen wilden, barbarischen und selbst zivilisierten Völkern alter und neuer Zeit eine Form der Eheschließung, bei der der Bräutigam, allein oder mit seinen Freunden, die Braut ihren Verwandten scheinbar gewaltsam rauben muß.
+  en: McLennan finds among many savage, barbarian and even civilized people of ancient and modern times a type of marriage forcing the bride-groom, alone or in co-operation with his friends, to go through the form of a mock forcible abduction of the bride.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.11.4
+  kind: p
+  original: Diese Sitte muß das Überbleibsel sein einer früheren Sitte, worin die Männer eines Stammes sich ihre Frauen auswärts, von anderen Stämmen, wirklich mit Gewalt raubten.
+  en: This must needs be a survival of an earlier custom when men of one tribe actually secured their wives by forcible abduction from another tribe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.11.5
+  kind: p
+  original: Wie entstand nun diese "Raubehe"?
+  en: How did this "robber marriage" originate?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.11.6
+  kind: p
+  original: Solange die Männer hinreichend Frauen im eignen Stamm finden konnten, war durchaus kein Anlaß dazu vorhanden.
+  en: As long as the men could find women enough in their own tribe, there was no occasion for robbing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.11.7
+  kind: p
+  original: Nun finden wir aber ebenso häufig, daß bei unentwickelten Völkern gewisse Gruppen existieren (die um 1865 noch häufig mit den Stämmen selbst identifiziert wurden), innerhalb deren die Heirat verboten war, so daß die Männer ihre Frauen und die Frauen ihre Männer außerhalb der Gruppe zu nehmen genötigt sind, während bei andern die Sitte besteht, daß die Männer einer gewissen Gruppe genötigt sind, ihre Frauen nur innerhalb ihrer eignen Gruppe zu nehmen.
+  en: It so happens that we frequently find certain groups among undeveloped nations (which in 1865 were often considered identical with the tribes themselves), inside of which intermarrying was prohibited. In consequence the men (or women) of a certain group were forced to choose their wives (or husbands) outside of their group. Other tribes again observe the custom of forcing their men to choose their women inside of their own group only.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: P1891.11.8
+  kind: p
+  original: McLennan nennt die ersteren exogam, die zweiten endogam, und konstruiert nun ohne weiteres einen starren Gegensatz zwischen exogamen und endogamen "Stämmen".
+  en: McLennan calls the first exogamous, the second endogamous, and construes forthwith a rigid contrast between exogamous and endogamous "tribes."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.11.9
+  kind: p
+  original: Und obwohl seine eigne Untersuchung der Exogamie ihn mit der Nase darauf stößt, daß dieser Gegensatz in vielen, wo nicht den meisten oder gar allen Fällen nur in seiner Vorstellung besteht, so macht er ihn doch zur Grundlage seiner gesamten Theorie.
+  en: And though his own investigation of exogamy makes it painfully obvious that this contrast in many, if not in most or even in all cases, exists in his own imagination only, he nevertheless makes it the basis of his entire theory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.11.10
+  kind: p
+  original: Exogame Stämme können hiernach ihre Frauen nur von andern Stämmen beziehn; und bei dem der Wildheit entsprechenden permanenten Kriegszustand zwischen Stamm und Stamm habe dies nur geschehn können durch Raub.
+  en: According to the latter, exogamous tribes can choose their women only from other tribes. And as in conformity with their savage state a condition of continual warfare existed among such tribes, women could only be secured by abduction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.12.1
+  kind: p
+  original: 'McLennan fragt nun weiter: Woher diese Sitte der Exogamie?'
+  en: 'McLennan further asks: Whence this custom of exogamy?'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.12.2
+  kind: p
+  original: Die Vorstellung der Blutsverwandtschaft und Blutschande könne nichts damit zu tun haben, das seien Dinge, die sich erst viel später entwickelt.
+  en: The idea of consanguinity and rape could not have anything to do with it, since these conceptions were developed much later.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.12.3
+  kind: p
+  original: Wohl aber die unter Wilden vielverbreitete Sitte, weibliche Kinder gleich nach der Geburt zu töten.
+  en: But it was a widely spread custom among savages to kill female children immediately after their birth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '215'
+- id: P1891.12.4
+  kind: p
+  original: 'Dadurch entstehe ein Überschuß von Männern in jedem einzelnen Stamm, dessen notwendige nächste Folge sei, daß mehrere Männer eine Frau in Gemeinschaft besäßen: Vielmännerei.'
+  en: This produced a surplus of males in such a tribe which naturally resulted in the condition where several men had one woman--polyandry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 215-216
+- id: P1891.12.5
+  kind: p
+  original: 'Die Folge hiervon sei wieder, daß man wußte, wer die Mutter eines Kindes war, nicht aber, wer der Vater, daher: Verwandtschaft gerechnet nur in der weiblichen Linie mit Ausschluß der männlichen - Mutterrecht.'
+  en: 'The next consequence was that the mother of a child could be ascertained, but not its father; hence: descent only traced by the female line and exclusion of male lineage--maternal law.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: P1891.12.6
+  kind: p
+  original: Und eine zweite Folge des Mangels an Frauen innerhalb des Stammes - ein Mangel, gemildert, aber nicht beseitigt durch die Vielmännerei - war eben die systematische, gewaltsame Entführung von Frauen fremder Stämme.
+  en: And a second consequence of the scarcity of women in a certain tribe--a scarcity that was somewhat mitigated, but not relieved by polyandry--was precisely the forcible abduction of women from other tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: P1891.13.1
+  kind: p
+  original: '"Da Exogamie und Vielmännerei aus einer und derselben Ursache entspringen - dem Mangel der Gleichzahl zwischen beiden Geschlechtern -, müssen wir alle exogamen Racen als ursprünglich der Vielmännerei ergeben ansehn...'
+  en: '"As exogamy and polyandry are referable to one and the same cause--a want of balance between the sexes--we are forced to regard all the exogamous races as having originally been polyandrous....'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: P1891.13.2
+  kind: p
+  original: Und deshalb müssen wir es für unbestreitbar ansehn, daß unter exogamen Racen das erste Verwandtschaftssystem dasjenige war, welches Blutbande nur auf der Mutterseite kennt."
+  en: Therefore we must hold it to be beyond dispute that among exogamous races the first system of kinship was that which recognized blood-ties through mothers only."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+  en_note: 'Untermann''s footnote [2]: McLennan, Studies in Ancient History, 1886. Primitive Marriage, p. 124.'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.13.3
+  kind: p
+  original: (McLennan, "Studies in Ancient History", 1886. "Primitive Marriage", p.124.)
+  en: ''
+  joined_to: P1891.13.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '216'
+- id: P1891.14.1
+  kind: p
+  original: Es ist das Verdienst McLennans, auf die allgemeine Verbreitung und große Bedeutung dessen, was er Exogamie nennt, hingewiesen zu haben.
+  en: It is the merit of McLennan to have pointed out the general extent and the great importance of what he calls exogamy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: P1891.14.2
+  kind: p
+  original: Entdeckt hat er die Tatsache der exogamen Gruppen keineswegs, und verstanden hat er sie erst recht nicht.
+  en: However, he has by no means discovered the fact of exogamous groups; neither did he understand their presence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: P1891.14.3
+  kind: p
+  original: Von früheren, vereinzelten Notizen bei vielen Beobachtern - eben den Quellen McLennans - abgesehn, hatte Latham ("Descriptive Ethnology", 1859) diese Institution bei den indischen Magars genau und richtig beschrieben und gesagt, daß sie allgemein verbreitet sei und in allen Weltteilen vorkomme - eine Stelle, die McLennan selbst anführt.
+  en: Aside from earlier scattered notes of many observers--from which McLennan quoted--Latham had accurately and correctly described this institution among the Indian Magars and stated that it was widespread and practiced in all parts of the globe. McLennan himself quotes this passage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+  en_note: 'Untermann''s footnote [3]: Latham, Descriptive Ethnology, 1859.'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.14.4
+  kind: p
+  original: Und unser Morgan hatte sie ebenfalls bereits 1847 in seinen Briefen über die Irokesen (im "American Review") und 1851 in "The League of the Iroquois" bei diesem Volksstamm nachgewiesen und richtig beschrieben, während, wie wir sehn werden, der Advokatenverstand McLennans hier eine weit größere Verwirrung angerichtet hat, als Bachofens mystische Phantasie auf dem Gebiet des Mutterrechts.
+  en: As early as 1847, our friend Morgan had also pointed out and correctly described the same custom in his letters on the Iroquois (in the American Review) and in 1851 in "The League of the Iroquois." We shall see, how the lawyer's instinct of McLennan has introduced more disorder into this subject than the mystic imagination of Bachofen did into the field of maternal law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.14.5
+  kind: p
+  original: Es ist McLennans ferneres Verdienst, die mutterrechtliche Abstammungsordnung als die ursprüngliche erkannt zu haben, obwohl ihm, wie er später auch anerkennt, Bachofen hier zuvorgekommen war.
+  en: It must be said to McLennan's credit that he recognized the custom of tracing decent by maternal law as primeval, although Bachofen has anticipated him in this respect.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: P1891.14.6
+  kind: p
+  original: Aber auch hier ist er nicht im klaren; er spricht stets von "Verwandtschaft nur in weiblicher Linie" (kinship through females only) und wendet diesen für eine frühere Stufe richtigen Ausdruck fortwährend auch auf spätere Entwicklungsstufen an, wo Abstammung und Vererbung zwar noch ausschließlich nach weiblicher Linie gerechnet, aber Verwandtschaft auch nach männlicher Seite anerkannt und ausgedrückt wird.
+  en: McLennan has admitted this later on. But here again he is not clear on the subject. He always speaks of "kinship through females only" and uses this expression, correctly applicable to former stages, in connection with later stages of development, when descent and heredity were still exclusively traced along female lines, but at the same time kinship on the male side began to be recognized and expressed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: P1891.14.7
+  kind: p
+  original: Es ist die Beschränktheit des Juristen, der sich einen festen Rechtsausdruck schafft und diesen unverändert fort anwendet auf Zustände, die ihn inzwischen unanwendbar gemacht.
+  en: It is the narrow-mindedness of the jurist, establishing a fixed legal expression and employing it incessantly to denote conditions to which it should no longer be applied.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '216'
+- id: P1891.15.1
+  kind: p
+  original: Bei all ihrer Plausibilität, scheint es, kam die Theorie McLennans doch ihrem eignen Verfasser nicht zu fest gegründet vor.
+  en: In spite of its plausibility, McLennan's theory did not seem too well founded even in the eyes of its author.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+- id: P1891.15.2
+  kind: p
+  original: Wenigstens fällt ihm selbst auf, es sei "bemerkenswert, daß die Form des" (scheinbaren) "Frauenraubs am ausgeprägtesten und ausdruckvollsten ist grade bei den Völkern, wo männliche Verwandtschaft" (soll heißen Abstammung in männlicher Linie) "herrscht" (S. 140).
+  en: At least he finds it remarkable himself "that the form of capture is now most distinctly marked and impressive just among those races which have male kinship."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+  en_note: 'Untermann''s footnote [4]: McLennan, Studies In Ancient History, 1886. Primitive Marriage, p. 140.'
+- id: P1891.16.1
+  kind: p
+  original: 'Und ebenso:'
+  en: 'And again: "It is a curious fact that nowhere now, that we are aware of, is infanticide a system where exogamy and the earliest form of kinship co-exists."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+  en_note: 'Untermann''s footnote [5]: Ibidem, p. 146.'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: P1891.17.1
+  kind: p
+  original: '"Es ist eine sonderbare Tatsache, daß, soviel wir wissen, der Kindermord nirgendswo systematisch betrieben wird, wo die Exogamie und die älteste Verwandtschaftsform nebeneinander bestehn" (S. 146).'
+  en: ''
+  joined_to: P1891.16.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '217'
+- id: P1891.18.1
+  kind: p
+  original: Beides Tatsachen, die seiner Erklärungsweise direkt ins Gesicht schlagen, und denen er nur neue, noch verwickeltere Hypothesen entgegenhalten kann.
+  en: Both these facts directly disprove his method of explanation, and he can only meet them with new and still more complicated hypotheses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+- id: P1891.19.1
+  kind: p
+  original: 'Trotzdem fand seine Theorie in England großen Beifall und Anklang: McLennan galt hier allgemein als Begründer der Geschichte der Familie und als erste Autorität auf diesem Gebiet.'
+  en: In spite of this, his theory found great approval and favor in England. Here McLennan was generally considered as the founder of the history of the family and as the first authority on this subject.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.19.2
+  kind: p
+  original: Sein Gegensatz von exogamen und endogamen "Stämmen", so sehr man auch einzelne Ausnahmen und Modifikationen konstatierte, blieb doch die anerkannte Grundlage der herrschenden Anschauungsweise und wurde die Scheuklappe, die jeden freien Überblick über das untersuchte Gebiet und damit jeden entscheidenden Fortschritt unmöglich machte.
+  en: His contrast of exogamous and endogamous "tribes" remained the recognized foundation of the customary views, however much single exceptions and modifications were admitted. This antithesis became the eye-flap that rendered impossible any free view of the field under investigation and, therefore, any decided progress.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.19.3
+  kind: p
+  original: Der in England und nach englischem Vorbild auch anderswo üblich gewordenen Überschätzung McLennans ist es Pflicht, die Tatsache entgegenzuhalten, daß er mit seinem rein mißverständlichen Gegensatz von exogamen und endogamen "Stämmen" mehr Schaden angerichtet, als er durch seine Forschungen genützt hat.
+  en: It is our duty to confront this overrating of McLennan, practised in England and copied elsewhere, with the fact that he has done more harm with his ill-conceived contrast of exogamous and endogamous tribes than he has done good by his investigations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+- id: P1891.20.1
+  kind: p
+  original: Indes kamen schon bald mehr und mehr Tatsachen ans Licht, die in seinen zierlichen Rahmen nicht paßten.
+  en: Moreover, in the course of time more and more facts became known that did not fit into his neat frame.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+- id: P1891.20.2
+  kind: p
+  original: 'McLennan kannte nur drei Formen der Ehe: Vielweiberei, Vielmännerei und Einzelehe.'
+  en: 'McLennan knew only three forms of marriage: polygamy, polyandry and monogamy.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+- id: P1891.20.3
+  kind: p
+  original: Als aber einmal die Aufmerksamkeit auf diesen Punkt gelenkt, fanden sich mehr und mehr Beweise, daß bei unentwickelten Völkern Eheformen bestanden, worin eine Reihe von Männern eine Reihe von Frauen gemeinsam besaßen; und Lubbock ("The origin of Civilisation", 1870) erkannte diese Gruppenehe (Communal marriage) als geschichtliche Tatsache an.
+  en: But once attention had been directed to this point, then more and more proofs were found that among undeveloped nations there were connubial forms in which a group of men possessed a group of women. Lubbock in his "Origin of Civilization" (1870) recognized this "communal marriage" as a historical fact.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.21.1
+  kind: p
+  original: Gleich darauf, 1871, trat Morgan mit neuem und in vieler Beziehung entscheidendem Material auf.
+  en: Immediately after him, in 1871, Morgan appeared with fresh and, in many respects, conclusive material.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '217'
+- id: P1891.21.2
+  kind: p
+  original: Er hatte sich überzeugt, daß das bei den Irokesen geltende, eigentümliche Verwandtschaftssystem allen Ureinwohnern der Vereinigten Staaten gemeinsam, also über einen ganzen Kontinent verbreitet sei, obwohl es den Verwandtschaftsgraden, wie sie sich aus dem dort geltenden Ehesystem tatsächlich ergeben, direkt widerspricht.
+  en: He had convinced himself that the peculiar system of kinship in vogue among the Iroquois was common to all the aborigines of the United States, and practised all over the continent, although it was in direct contradiction with all the degrees of relation arising from the connubial system in practice there.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 217-218
+- id: P1891.21.3
+  kind: p
+  original: Er bewog nun die amerikanische Bundesregierung, auf Grund von ihm selbst aufgesetzter Fragebogen und Tabellen Auskunft über die Verwandtschaftssysteme der übrigen Völker einzuziehn, und fand aus den Antworten, 1. daß das amerikanisch-indianische Verwandtschaftssystem auch in Asien, und in etwas modifizierter Form in Afrika und Australien bei zahlreichen Volksstämmen in Geltung sei.
+  en: 'He prevailed on the federal government to collect information on the systems of kinship of other nations by the help of question blanks and tables drawn up by himself. The answers brought the following results: 1. The kinship system of the American Indians is also in vogue in Asia, and in a somewhat modified form among numerous tribes of Africa and Australia.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: P1891.21.4
+  kind: p
+  original: 2. daß es sich vollständig erkläre aus einer in Hawaii und andern australischen Inseln eben im Absterben begriffenen Form der Gruppenehe, und 3. daß aber neben dieser Eheform auf denselben Inseln ein Verwandtschaftssystem in Geltung sei, das sich nur durch eine noch urwüchsigere, jetzt ausgestorbne Form der Gruppenehe erklären lasse.
+  en: 2. This system finds a complete explanation in a certain form of communal marriage now in process of decline in Hawaii and some Australian islands. 3. By the side of this marital form, there is in practice on the same islands a system of kinship only explicable by a still more primeval and now extinct form of communal marriage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.21.5
+  kind: p
+  original: Die gesammelten Nachrichten nebst seinen Schlußfolgerungen daraus veröffentlichte er in seinen "Systems of Consanguinity and Affinity", 1871, und führte damit die Debatte auf ein unendlich umfassenderes Gebiet.
+  en: The collected data and the conclusions of Morgan were published in his "Systems of Consanguinity and Affinity," 1871, and discussion transferred to a far more extensive field.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: P1891.21.6
+  kind: p
+  original: Indem er, von den Verwandtschaftssystemen ausgehend, die ihnen entsprechenden Familienformen wiederkonstruierte, eröffnete er einen neuen Forschungsweg und einen weiterreichenden Rückblick in die Vorgeschichte der Menschheit.
+  en: Taking his departure from the system of affinity he reconstructed the corresponding forms of the family, thereby opening a new road to scientific investigation and extending the retrospective view into prehistoric periods of human life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: P1891.21.7
+  kind: p
+  original: Erhielt diese Methode Geltung, so war die niedliche Konstruktion McLennans in Dunst aufgelöst.
+  en: Once this view gained recognition, then the frail structure of McLennan, would vanish into thin air.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: P1891.22.1
+  kind: p
+  original: McLennan verteidigte seine Theorie in der Neuauflage von "Primitive Marriage" ("Studies in Ancient History", 1875).
+  en: McLennan defended his theory in the new edition of "Primitive Marriage" (Studies in Ancient History, 1875).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: P1891.22.2
+  kind: p
+  original: Während er selbst eine Geschichte der Familie aus lauter Hypothesen äußerst künstlich kombiniert, verlangt er von Lubbock und Morgan nicht nur Beweise für jede ihrer Behauptungen, sondern Beweise von der unanfechtbaren Bündigkeit, wie allein sie in einem schottischen Gerichtshof zugelassen werden.
+  en: While he himself most artificially combines into a history of the family a number of hypotheses, he not only demands proofs from Lubbock and Morgan for every one of their propositions, but insists on proofs of such indisputable validity as is solely recognized in a Scotch court.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: P1891.22.3
+  kind: p
+  original: Und das tut derselbe Mann, der aus dem engen Verhältnis zwischen Mutterbruder und Schwestersohn bei den Deutschen (Tacitus, "Germania", c. 20), aus Cäsars Bericht, daß die Briten je zehn oder zwölf ihre Frauen gemeinsam haben, und aus allen anderen Berichten der alten Schriftsteller über Weibergemeinschaft bei Barbaren ohne Zaudern den Schluß zieht, bei allen diesen Völkern habe Vielmännerei geherrscht!
+  en: 'And this is done by the same man who unhesitatingly concludes that the following people practiced polyandry: The Germans, on account of the intimate relation between uncle and nephew (mother''s brother and sister''s son); the Britons, because Cesar reports that the Britons have ten to twelve women in common; barbarians, because all other reports of the old writers on community of women are misinterpreted by him!'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: P1891.22.4
+  kind: p
+  original: Man meint einen Staatsanwalt zu hören, der sich bei Zurechtmachung seines Falls jede Freiheit erlauben kann, der aber vom Verteidiger für jedes Wort den formellsten juristisch gültigen Beweis beansprucht.
+  en: One is reminded of a prosecuting attorney who takes all possible liberty in making up his case, but who demands the most formal and legally valid proof for every word of the lawyer for the defense.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: P1891.23.1
+  kind: p
+  original: Die Gruppenehe sei eine pure Einbildung, behauptet er und fällt damit weit hinter Bachofen zurück.
+  en: He asserts that communal marriage is purely the outgrowth of imagination, and in so doing falls far behind Bachofen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '218'
+- id: P1891.23.2
+  kind: p
+  original: Die Verwandtschaftssysteme bei Morgan seien bloße Vorschriften gesellschaftlicher Höflichkeit, bewiesen durch die Tatsache, daß die Indianer auch einen Fremden, Weißen, als Bruder oder Vater anreden.
+  en: He represents Morgan's systems of affinity as mere codes of conventional politeness, proven by the fact that Indians address also strangers, white people, as brother or father.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 218-219
+- id: P1891.23.3
+  kind: p
+  original: Es ist, als wollte man behaupten, die Bezeichnungen Vater, Mutter, Bruder, Schwester seien bloße sinnlose Anredeformen, weil katholische Geistliche und Äbtissinnen ebenfalls mit Vater und Mutter, Mönche und Nonnen, ja selbst Freimaurer und englische Fachvereinsgenossen in solenner Sitzung als Bruder und Schwester angeredet werden.
+  en: This is like asserting that the terms father, mother, brother, sister are simply meaningless forms of address, because Catholic priests and abbesses are also addressed as father and mother, and monks and nuns, or even free-masons and members of English professional clubs in solemn session, as brother and sister.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.23.4
+  kind: p
+  original: Kurz, McLennans Verteidigung war elend schwach.
+  en: In short, McLennan's defense was extremely weak.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.24.1
+  kind: p
+  original: Noch aber blieb ein Punkt, wo er nicht gefaßt worden war.
+  en: One point still remained that had not been attacked.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.24.2
+  kind: p
+  original: Der Gegensatz von exogamen und endogamen "Stämmen", auf dem sein ganzes System beruhte, war nicht nur unerschüttert, er wurde sogar allgemein als Angelpunkt der gesamten Geschichte der Familie anerkannt.
+  en: The contrast of exogamous and endogamous tribes, on which his whole system was founded, was not only left unchallenged, but was even generally regarded as the pivotal point of the entire history of the family.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.24.3
+  kind: p
+  original: Man gab zu, McLennans Versuch, diesen Gegensatz zu erklären, sei ungenügend und widerspreche den von ihm selbst aufgezählten Tatsachen.
+  en: It was admitted that McLennan's attempt to explain this contrast was insufficient and in contradiction with the facts enumerated by himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.24.4
+  kind: p
+  original: Aber der Gegensatz selbst, die Existenz zweier einander ausschließender Arten von selbständigen und unabhängigen Stämmen, wovon die eine Art ihre Weiber innerhalb des Stamms nahm, während dies der andern Art absolut verboten war - dies galt als unbestreitbares Evangelium.
+  en: But the contrast itself, the existence of two diametrically opposed forms of independent and absolute groups, one of them marrying the women of its own group, the other strictly forbidding this habit, was considered irrefutable gospel.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.24.5
+  kind: p
+  original: Man vergleiche z.B. Giraud-Teulons "Origines de la famille" (1874) und selbst noch Lubbocks "Origin of Civilisation" (4. Auflage, 1882).
+  en: Compare e. g. Giraud-Teulon's "Origines de la famille" (1874) and even Lubbock's "Origin of Civilization" (4th edition, 1882).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.25.1
+  kind: p
+  original: 'An diesem Punkt setzt Morgans Hauptwerk an: "Ancient Society" (1877), das Werk, das der gegenwärtigen Arbeit zugrunde liegt.'
+  en: At this point Morgan's main work, "Ancient Society" (1877), inserts its lever. It is this work on which the present volume is based.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.25.2
+  kind: p
+  original: Was Morgan 1871 nur noch dunkel ahnte, das ist hier mit vollem Bewußtsein entwickelt.
+  en: Here we find clearly demonstrated what was only dimly perceived by Morgan in 1871.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.25.3
+  kind: p
+  original: Endogamie und Exogamie bilden keinen Gegensatz; exogame "Stämme" sind bis jetzt nirgends nachgewiesen.
+  en: There is no antithesis between endogamy and exogamy; no exogamous "tribes" have been found up to the present time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.25.4
+  kind: p
+  original: Aber zur Zeit, wo die Gruppenehe noch herrschte - und sie hat aller Wahrscheinlichkeit nach überall einmal geherrscht -, gliederte sich der Stamm in eine Anzahl von auf Mutterseite blutsverwandten Gruppen, Gentes, innerhalb deren strenges Eheverbot herrschte, so daß die Männer einer Gens ihre Frauen zwar innerhalb des Stammes nehmen konnten und in der Regel nahmen, aber sie außerhalb ihrer Gens nehmen mußten.
+  en: But at the time when communal marriage still existed--and in all probability it once existed everywhere--a tribe was subdivided into a number of groups--"gentes"--consanguineous on the mother's side, within which intermarrying was strictly forbidden. The men of a certain "gens," therefore, could choose their wives within the tribe, and did so as a rule, but had to choose them outside of the "gens."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.25.5
+  kind: p
+  original: So daß, wenn die Gens streng exogam,. der die Gesamtheit der Gentes umfassende Stamm ebensosehr endogam war.
+  en: And while thus the "gens" was strictly exogamous, the tribe comprising an aggregate of "gentes" was equally endogamous.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.25.6
+  kind: p
+  original: Damit war der letzte Rest der McLennanschen Künstelei endgültig abgetan.
+  en: This fact gave the final blow to McLennan's artificial structure.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.26.1
+  kind: p
+  original: Hiermit aber begnügte sich Morgan nicht.
+  en: But Morgan did not rest here.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.26.2
+  kind: p
+  original: Die Gens der amerikanischen Indianer diente ihm ferner dazu, den zweiten entscheidenden Fortschritt auf dem von ihm untersuchten Gebiet zu machen.
+  en: The "gens" of the American Indians furthermore assisted him in gaining another important step in the field under investigation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.26.3
+  kind: p
+  original: In dieser nach Mutterrecht organisierten Gens entdeckte er die Urform, woraus sich die spätere, vaterrechtlich organisierte Gens entwickelt hatte, die Gens, wie wir sie bei den antiken Kulturvölkern finden.
+  en: He found that this "gens," organized in conformity with maternal law, was the original form out of which later on the "gens" by paternal law developed, such as we find it among the civilized nations of antiquity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '219'
+- id: P1891.26.4
+  kind: p
+  original: Die griechische und römische Gens, allen bisherigen Geschichtsschreibern ein Rätsel, war erklärt aus der indianischen und damit eine neue Grundlage gefunden für die ganze Urgeschichte.
+  en: The Greek and Roman "gens," an unsolved riddle to all historians up to our time, found its explanation in the Indian "gens." A new foundation was discovered for the entire primeval history.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 219-220
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.27.1
+  kind: p
+  original: Diese Wiederentdeckung der ursprünglichen mutterrechtlichen Gens als der Vorstufe der vaterrechtlichen Gens der Kulturvölker hat für die Urgeschichte dieselbe Bedeutung wie Darwins Entwicklungstheorie für die Biologie und Marx' Mehrwertstheorie für die politische Ökonomie.
+  en: The repeated discovery that the original maternal "gens" was a preliminary stage of the paternal "gens" of civilized nations has the same signification for primeval history that Darwin's theory of evolution had for biology and Marx's theory of surplus value for political economy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: P1891.27.2
+  kind: p
+  original: Sie befähigte Morgan, zum erstenmal eine Geschichte der Familie zu entwerfen, worin wenigstens die klassischen Entwicklungsstufen im ganzen und großen, soweit das heute bekannte Material erlaubt, vorläufig festgestellt sind.
+  en: Morgan was thereby enabled to sketch the outline of a history of the family, showing in bold strokes at least the classic stages of development, so far as the available material will at present permit such a thing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: P1891.27.3
+  kind: p
+  original: Daß hiermit eine neue Epoche der Behandlung der Urgeschichte beginnt, ist vor aller Augen klar.
+  en: It is clearly obvious that this marks a new epoch in the treatment of primeval history.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: P1891.27.4
+  kind: p
+  original: Die mutterrechtliche Gens ist der Angelpunkt geworden, um den sich diese ganze Wissenschaft dreht; seit ihrer Entdeckung weiß man, in welcher Richtung und wonach man zu forschen und wie man das Erforschte zu gruppieren hat.
+  en: The maternal "gens" has become the pivot on which this whole science revolves. Since its discovery we know in what direction to continue our researches, what to investigate and how to arrange the results of our studies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.27.5
+  kind: p
+  original: Und dementsprechend werden jetzt auf diesem Gebiet ganz anders rasche Fortschritte gemacht als vor Morgans Buch.
+  en: In consequence, progress in this field is now much more rapid than before the publication of Morgan's book.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: P1891.28.1
+  kind: p
+  original: Die Entdeckungen Morgans sind jetzt allgemein anerkannt, oder vielmehr angeeignet von den Prähistorikern auch in England.
+  en: The discoveries of Morgan are now universally recognized, or rather appropriated, even by the archaeologists of England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: P1891.28.2
+  kind: p
+  original: Aber fast bei keinem findet sich das offene Zugeständnis, daß es Morgan ist, dem wir diese Revolution der Anschauungen verdanken.
+  en: But hardly one of them openly admits that we owe this revolution of thought to Morgan.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: P1891.28.3
+  kind: p
+  original: In England ist sein Buch soweit wie möglich totgeschwiegen, er selbst mit herablassendem Lob wegen seiner früheren Leistungen abgefertigt worden; an den Einzelheiten seiner Darstellung klaubt man eifrig herum, von seinen wirklich großen Entdeckungen schweigt man hartnäckig.
+  en: His book is ignored in England as much as possible, and he himself is dismissed with condescending praise for the excellence of his former works. The details of his discussion are diligently criticised, but his really great discoveries are covered up obstinately.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.28.4
+  kind: p
+  original: '"Ancient Society" ist in der Originalausgabe vergriffen; in Amerika ist für so etwas kein lohnender Absatz; in England wurde das Buch, scheint es, systematisch unterdrückt, und die einzige Ausgabe dieses epochemachenden Werks, die noch im Buchhandel zirkuliert, ist - die deutsche Übersetzung.'
+  en: The original edition of "Ancient Society" is out of print; there is no paying market for a work of this kind in America; in England, it appears, the book was systematically suppressed, and the only edition of this epochal work still circulating in the market is--the German translation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: P1891.29.1
+  kind: p
+  original: Woher diese Zurückhaltung, in der es schwer ist, nicht eine Totschweigungs-Verschwörung zu sehen, besonders gegenüber den zahlreichen bloßen Höflichkeitszitaten und andern Beweisen von Kameraderie, wovon die Schriften unsrer anerkannten Prähistoriker wimmeln?
+  en: Whence this reserve? We can hardly refrain from calling it a conspiracy to kill by silence, especially in view of the numerous meaningless and polite quotations and of other manifestations of fellowship in which the writings of our recognized archaeologists abound.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.29.2
+  kind: p
+  original: Etwa weil Morgan ein Amerikaner ist und es sehr hart ist für die englischen Prähistoriker, daß sie, trotz alles höchst anerkennenswerten Fleißes im Zusammentragen von Material, für die bei der Ordnung und Gruppierung dieses Materials geltenden allgemeinen Gesichtspunkte, kurz für ihre Ideen, angewiesen sind auf zwei geniale Ausländer, auf Bachofen und Morgan?
+  en: Is it because Morgan is an American, and because it is rather hard on the English archaeologists to be dependent on two talented foreigners like Bachofen and Morgan for the outlines determining the arrangement and grouping of their material, in spite of all praiseworthy diligence in accumulating material.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: P1891.29.3
+  kind: p
+  original: Den Deutschen konnte man sich noch gefallen lassen, aber den Amerikaner?
+  en: They could have borne with the German, but an American?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '220'
+- id: P1891.29.4
+  kind: p
+  original: Gegenüber dem Amerikaner wird jeder Engländer patriotisch, wovon ich in den Vereinigten Staaten ergötzliche Beispiele gesehn.
+  en: In face of an American, every Englishman becomes patriotic. I have seen amusing illustrations of this fact in the United States.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 220-221
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.29.5
+  kind: p
+  original: Nun kommt aber noch dazu, daß McLennan der sozusagen amtlich ernannte Stifter und Führer der englischen prähistorischen Schule war; daß es gewissermaßen zum prähistorischen guten Ton gehörte, nur mit der höchsten Ehrfurcht von seiner verkünstelten, vom Kindermord durch Vielmännerei und Raubehe zur mutterrechtlichen Familie führenden Geschichtskonstruktion zu reden; daß der geringste Zweifel an der Existenz von einander absolut ausschließenden exogamen und endogamen "Stämmen" für frevelhafte Ketzerei galt; daß also Morgan, indem er alle diese geheiligten Dogmen in Dunst auflöste, eine Art von Sakrileg beging.
+  en: Moreover, it must be remembered that McLennan was, so to say, the official founder and leader of the English prehistoric school. It was almost a requirement of good prehistoric manners to refer in terms of highest admiration to his artificial construction of history leading from infanticide through polyandry and abduction to maternal law. The least doubt in the strictly independent existence of exogamous and endogamous tribes was considered a frivolous sacrilege. According to this view, Morgan, in reducing all these sacred dogmas to thin air, committed an act of wanton destruction.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+  align: '1:4'
+  review: true
+  review_reason: 1 de sentence(s) matched to 4 en sentence(s)
+- id: P1891.29.6
+  kind: p
+  original: 'Und obendrein löste er sie auf in einer Weise, die nur ausgesprochen zu werden brauchte, um sofort einzuleuchten, so daß die bisher zwischen Exogamie und Endogamie ratlos umhertaumelnden " McLennan-Verehrer sich fast mit der Faust vor den Kopf schlagen und ausrufen mußten: Wie konnten wir so dumm sein und das nicht schon lange selbst finden!'
+  en: 'And worse still, his mere manner of reducing them sufficed to show their instability, so that the admirers of McLennan, who hitherto had been stumbling about helplessly between exogamy and endogamy, were almost forced to slap their foreheads and exclaim: "How silly of us, not to have found that out long ago!"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: P1891.30.1
+  kind: p
+  original: Und wenn das noch nicht der Verbrechen genug waren, um der offiziellen Schule jede andere Behandlung außer kühler Beiseiteschiebung zu verbieten, so machte Morgan das Maß übervoll, indem er nicht nur die Zivilisation, die Gesellschaft der Warenproduktion, die Grundform unserer heutigen Gesellschaft, in einer Weise kritisierte, die an Fourier erinnert, sondern von einer künftigen Umgestaltung dieser Gesellschaft in Worten spricht, die Karl Marx gesagt haben könnte.
+  en: Just as if Morgan had not committed crimes enough against the official archaeologists to justify them in discarding all fair methods and assuming an attitude of cool neglect, he persisted in filling their cup to overflowing. Not only does he criticise civilization, the society of production for profit, the fundamental form of human society, in a manner savoring of Fourier, but he also speaks of a future reorganization of society in language that Karl Marx might have used.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.30.2
+  kind: p
+  original: Es war also wohlverdient, wenn McLennan ihm entrüstet vorwirft, "die historische Methode sei ihm durchaus antipathisch", und wenn Herr Professor Giraud-Teulon in Genf ihm dies noch 1884 bestätigt.
+  en: Consequently, he receives his just deserts, when McLennan indignantly charges him with a profound antipathy against historical methods, and when Professor Giraud-Teulon of Geneva endorses the same view in 1884.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: P1891.30.3
+  kind: p
+  original: Wankte doch derselbe Herr Giraud-Teulon noch 1874 ("Origines de la famille") hülflos im Irrgarten der McLennanschen Exogamie herum, aus dem ihn Morgan erst befreien mußte!
+  en: For was not the same Professor Giraud-Teulon still wandering about aimlessly in the maze of McLennan's exogamy in 1874 (Origines de la famille)? And was it not Morgan who finally had to set him free?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.31.1
+  kind: p
+  original: Auf die übrigen Fortschritte, die die Urgeschichte Morgan verdankt, brauche ich hier nicht einzugehn; im Verlauf meiner Arbeit findet sich das Nötige darüber.
+  en: It is not necessary to dwell in this preface on the other forms of progress which primeval history owes to Morgan. Reference to them will be found in the course of my work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.31.2
+  kind: p
+  original: Die vierzehn Jahre, die seit dem Erscheinen seines Hauptwerkes verflossen, haben unser Material für die Geschichte der menschlichen Urgesellschaften sehr bereichert; zu den Anthropologen, Reisenden und Prähistorikern von Profession sind die vergleichenden Juristen getreten und haben teils neuen Stoff, teils neue Gesichtspunkte gebracht.
+  en: During the fourteen years that have elapsed since the publication of his main work, the material contributing to the history of primeval society has been considerably enriched. Anthropologists, travelers and professional historians were joined by comparative jurists who added new matter and opened up new points of view.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1891.31.3
+  kind: p
+  original: Manche Einzelhypothese Morgans ist dadurch schwankend oder selbst hinfällig geworden.
+  en: Here and there, some special hypothesis of Morgan has been shaken or even become obsolete.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: P1891.31.4
+  kind: p
+  original: Aber nirgendwo hat das neugesammelte Material dazu geführt, seine großen Hauptgesichtspunkte durch andere zu verdrängen.
+  en: But in no instance has the new material led to a weakening of his leading propositions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: P1891.31.5
+  kind: p
+  original: Die von ihm in die Urgeschichte gebrachte Ordnung gilt in ihren Hauptzügen noch heute.
+  en: The order he established in primeval history still holds good in its main outlines to this day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '221'
+- id: P1891.31.6
+  kind: p
+  original: Ja, man kann sagen, sie findet mehr und mehr allgemeine Anerkennung in demselben Maß, worin seine Urheberschaft dieses großen Fortschritts verheimlicht wird.
+  en: We may even say that this order receives recognition in the exact degree, in which the authorship of this great progress is concealed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - P1891.N1
+  mew_page: 221-222
+- id: P1891.32.1
+  kind: signature
+  original: London, 16. Juni 1891
+  en: London, June 16th, 1891.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: P1891.33.1
+  kind: signature
+  original: Friedrich Engels
+  en: FREDERICK ENGELS.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '222'
+- id: P1891.N1.1.1
+  kind: note
+  original: Auf der Rückreise von New York im September 1888 traf ich einen ehemaligen Kongreßdeputierten für den Wahlbezirk von Rochester, der Lewis Morgan gekannt hatte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: Untermann's 1902 English does not translate this note.
+- id: P1891.N1.1.2
+  kind: note
+  original: Er wußte mir leider nicht viel von ihm zu erzählen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1891.N1.1.3
+  kind: note
+  original: Morgan habe in Rochester als Privatmann gelebt, nur mit seinen Studien beschäftigt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1891.N1.1.4
+  kind: note
+  original: Sein Bruder sei Oberst und in Washington im Kriegsministerium angestellt gewesen; durch Vermittlung dieses Bruders habe er es fertiggebracht, die Regierung für seine Forschungen zu interessieren und mehrere seiner Werke auf öffentliche Kosten herauszugeben; er, der Erzähler, habe sich auch während seiner Kongreßzeit mehrfach dafür verwandt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

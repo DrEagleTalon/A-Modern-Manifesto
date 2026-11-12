@@ -1,0 +1,649 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: I
+title_original: I. Vorgeschichtliche Kulturstufen
+title_en: CHAPTER I. PREHISTORIC STAGES.
+author: Friedrich Engels
+date: 1884-03/05; revised 1891
+original_language: de
+anchor_language: de
+source_original: MEW 21, S. 25-173 (Dietz, Berlin 1962) via mlwerke.de; text of the fourth edition (Stuttgart 1892), 1884 readings as variants
+source_en: Ernest Untermann's translation (Charles H. Kerr, Chicago 1902; 1908 printing), Project Gutenberg ebook 33111 (public domain)
+verses:
+- id: I.0.1
+  kind: heading
+  original: I. Vorgeschichtliche Kulturstufen
+  en: CHAPTER I. PREHISTORIC STAGES.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: I.1.1
+  kind: p
+  original: Morgan ist der erste, der mit Sachkenntnis eine bestimmte Ordnung in die menschliche Vorgeschichte zu bringen versucht; solange nicht bedeutend erweitertes Material zu Änderungen nötigt, wird seine Gruppierung wohl in Kraft bleiben.
+  en: Morgan was the first to make an attempt at introducing a logical order into the history of primeval society. Until considerably more material is obtained, no further changes will be necessary and his arrangement will surely remain in force.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.2.1
+  kind: p
+  original: 'Von den drei Hauptepochen: Wildheit, Barbarei, Zivilisation beschäftigen ihn selbstredend nur die ersten zwei und der Übergang zur dritten.'
+  en: Of the three main epochs--savagery, barbarism and civilization--naturally only the first two and the transition to the third required his attention.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+- id: I.2.2
+  kind: p
+  original: 'Jede der beiden teilt er ein in eine untere, mittlere und obere Stufe, je nach den Fortschritten der Produktion der Lebensmittel; denn, sagt er:'
+  en: He subdivided each of these into a lower, middle and higher stage, according to the progress in the production of the means of sustenance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+- id: I.3.1
+  kind: p
+  original: '"Die Geschicklichkeit in dieser Produktion ist entscheidend für den Grad menschlicher Überlegenheit und Naturbeherrschung; von allen Wesen hat nur der Mensch es bis zu einer fast unbedingten Herrschaft über die Erzeugung von Nahrungsmitteln gebracht.'
+  en: His reason for doing so is that the degree of human supremacy over nature is conditioned on the ability to produce the necessities of life. For of all living beings, man alone has acquired an almost unlimited control over food production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.3.2
+  kind: p
+  original: Alle großen Epochen menschlichen Fortschritts fallen, mehr oder weniger direkt, zusammen mit Epochen der Ausweitung der Unterhaltsquellen."
+  en: All great epochs of human progress, according to Morgan, coincide more or less directly with times of greater abundance in the means that sustain life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+- id: I.4.1
+  kind: p
+  original: Die Entwicklung der Familie geht daneben, bietet aber keine so schlagenden Merkmale zur Trennung der Perioden.
+  en: The evolution of the family proceeds in the same measure without, however, offering equally convenient marks for sub-division.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+- id: I.5.1
+  kind: heading
+  original: 1. Wildheit
+  en: I. SAVAGERY.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+- id: I.6.1
+  kind: p
+  original: 1. Unterstufe.
+  en: 1. Lower Stage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+- id: I.6.2
+  kind: p
+  original: Kindheit des Menschengeschlechts, das, wenigstens teilweise, auf Bäumen lebend, wodurch allein sein Fortbestehn gegenüber großen Raubtieren erklärlich, noch in seinen ursprünglichen Sitzen, tropischen oder subtropischen Wäldern sich aufhielt.
+  en: Infancy of the human race. Human beings still dwelt in their original habitation, in tropical or subtropical forests. They lived at least part of the time in trees, for only in this way they could escape the attacks of large beasts of prey and survive.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: I.6.3
+  kind: p
+  original: Früchte, Nüsse, Wurzeln dienten zur Nahrung; die Ausbildung artikulierter Sprache ist Hauptergebnis dieser Zeit.
+  en: Fruit, nuts, and roots served as food. The formation of articulated speech is the principal result of this period.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.6.4
+  kind: p
+  original: Von allen Völkern, die innerhalb der geschichtlichen Periode bekannt geworden sind, gehörte kein einziges mehr diesem Urzustand an.
+  en: Not a single one of all the nations that have become known in historic times dates back to this primeval stage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '30'
+- id: I.6.5
+  kind: p
+  original: So lange Jahrtausende er auch gedauert haben mag, so wenig können wir ihn aus direkten Zeugnissen beweisen; aber die Abstammung des Menschen aus dem Tierreich einmal zugegeben, wird die Annahme dieses Übergangs unumgänglich.
+  en: Although the latter may extend over thousands of years, we have no means of proving its existence by direct evidence. But once the descent of man from the Animal Kingdom is acknowledged, the acceptance of this stage of transition becomes inevitable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 30-31
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s); regrouped by the ingest (see REALIGN)
+- id: I.7.1
+  kind: p
+  original: 2. Mittelstufe.
+  en: '2. Middle Stage: Commencing with the utilization of fish (including crabs, mollusks and other aquatic animals) and the use of fire.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s); regrouped by the ingest (see REALIGN)
+- id: I.7.2
+  kind: p
+  original: Beginnt mit der Verwertung von Fischen (wozu wir auch Krebse, Muscheln und andere Wassertiere zählen) zur Nahrung und mit dem Gebrauch des Feuers.
+  en: ''
+  joined_to: I.7.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '31'
+- id: I.7.3
+  kind: p
+  original: Beides gehört zusammen, da Fischnahrung erst vermittelst des Feuers vollständig vernutzbar wird.
+  en: Both these things belong together, because fish becomes thoroughly palatable by the help of fire only.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+- id: I.7.4
+  kind: p
+  original: Mit dieser neuen Nahrung aber wurden die Menschen unabhängig von Klima und Lokalität; den Strömen und Küsten folgend, konnten sie selbst im wilden Zustand sich über den größten Teil der Erde ausbreiten.
+  en: With this new kind of food, human beings became completely independent of climate and locality. Following the course of rivers and coastlines, they could spread over the greater part of the earth even in the savage state.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.7.5
+  kind: p
+  original: Die roh gearbeiteten, ungeschliffenen Steinwerkzeuge des früheren Steinalters, die sogenannten paläolithischen, die ganz oder größtenteils in diese Periode fallen, sind in ihrer Verbreitung über alle Kontinente Beweisstücke dieser Wanderungen.
+  en: The so-called palaeolithic implements of the early stone age, made of rough, unsharpened stones, belong almost entirely to this period. Their wide distribution over all the continents testifies to the extent of these wanderings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.7.6
+  kind: p
+  original: Die neubesetzten Zonen wie der ununterbrochen tätige Findungstrieb, verbunden mit dem Besitz des Reibfeuers, brachten neue Nahrungsmittel auf; so stärkmehlhaltige Wurzeln und Knollen, in heißer Asche oder in Backgruben (Erdöfen) gebacken; so Wild, das mit Erfindung der ersten Waffen, Keule und Speer, gelegentliche Zugabe zur Kost wurde.
+  en: The unceasing bent for discovery, together with the possession of fire gained by friction, created new products in the lately occupied regions. Such were farinaceous roots and tubers, baked in hot ashes or in baking pits (ground ovens). When the first weapons, club and spear, were invented, venison was occasionally added to the bill of fare.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: I.7.7
+  kind: p
+  original: Ausschließliche Jägervölker, wie sie in den Büchern figurieren, d.h. solche, die nur von der Jagd leben, hat es nie gegeben; dazu ist der Ertrag der Jagd viel zu ungewiß.
+  en: Nations subsisting exclusively by hunting, such as we sometimes find mentioned in books, have never existed; for the proceeds of hunting are too uncertain.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+- id: I.7.8
+  kind: p
+  original: Infolge andauernder Unsicherheit der Nahrungsquellen scheint auf dieser Stufe die Menschenfresserei aufzukommen, die sich von jetzt an lange erhält.
+  en: In consequence of continued precariousness of the sources of sustenance, cannibalism seems to arise at this stage. It continues in force for a long while.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.7.9
+  kind: p
+  original: Die Australier und viele Polynesier stehn noch heute auf dieser Mittelstufe der Wildheit.
+  en: Even in our day, Australians and Polynesians still remain in this middle stage of savagery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+- id: I.8.1
+  kind: p
+  original: 3. Oberstufe.
+  en: '3. Higher Stage: Coming with the invention of bow and arrow, this stage makes venison a regular part of daily fare and hunting a normal occupation.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: I.8.2
+  kind: p
+  original: Beginnt mit der Erfindung von Bogen und Pfeil, wodurch Wild regelmäßiges Nahrungsmittel, Jagd einer der normalen Arbeitszweige wurde.
+  en: ''
+  joined_to: I.8.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '31'
+- id: I.8.3
+  kind: p
+  original: Bogen, Sehne und Pfeil bilden schon ein sehr zusammengesetztes Instrument, dessen Erfindung lange, gehäufte Erfahrung und geschärfte Geisteskräfte voraussetzt, also auch die gleichzeitige Bekanntschaft mit einer Menge andrer Erfindungen.
+  en: Bow, arrow and cord represent a rather complicated instrument, the invention of which presupposes a long and accumulated experience and increased mental ability; incidentally they are conditioned on the acquaintance with a number of other inventions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+- id: I.8.4
+  kind: p
+  original: Vergleichen wir die Völker, die zwar Bogen und Pfeil kennen, aber noch nicht die Töpferkunst (von der Morgan den Übergang in die Barbarei datiert), so finden wir in der Tat bereits einige Anfänge der Niederlassung in Dörfern, eine gewisse Beherrschung der Produktion des Lebensunterhalts, hölzerne Gefäße und Geräte, Fingerweberei (ohne Webstuhl) mit Fasern von Bast, geflochtene Körbe von Bast oder Schilf, geschliffene (neolithische) Steinwerkzeuge.
+  en: In comparing the nations that are familiar with the use of bow and arrow, but not yet with the art of pottery (from which Morgan dates the transition to barbarism), we find among them the beginnings of village settlements, a control of food production, wooden vessels and utensils, weaving of bast fibre by hand (without a loom), baskets made of bast or reeds, and sharpened (neolithic) stone implements.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+- id: I.8.5
+  kind: p
+  original: Meist auch hat Feuer und Steinaxt bereits das Einbaum-Boot und stellenweise Balken und Bretter zum Hausbau geliefert.
+  en: Generally fire and the stone ax have also furnished the dugout and, here and there, timbers and boards for house-building.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '31'
+- id: I.8.6
+  kind: p
+  original: Alle diese Fortschritte finden wir z.B. bei den nordwestlichen Indianern Amerikas, die zwar Bogen und Pfeil, aber nicht die Töpferei kennen.
+  en: All these improvements are found, e. g., among the American Indians of the Northwest, who use bow and arrows, but know nothing as yet about pottery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 31-32
+- id: I.8.7
+  kind: p
+  original: 'Für die Wildheit war Bogen und Pfeil, was das eiserne Schwert für die Barbarei und das Feuerrohr für die Zivilisation: die entscheidende Waffe.'
+  en: Bow and arrows were for the stage of savagery what the iron sword was for barbarism and the fire-arm for civilization; the weapon of supremacy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.9.1
+  kind: heading
+  original: 2. Barbarei
+  en: II. BARBARISM.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.10.1
+  kind: p
+  original: 1. Unterstufe.
+  en: 1. Lower Stage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.10.2
+  kind: p
+  original: Datiert von der Einführung der Töpferei.
+  en: Dates from the introduction of the art of pottery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.10.3
+  kind: p
+  original: Diese ist nachweislich in vielen Fällen und wahrscheinlich überall entstanden aus der Überdeckung geflochtener oder hölzerner Gefäße mit Lehm, um sie feuerfest zu machen; wobei man bald fand, daß der geformte Lehm auch ohne das innere Gefäß den Dienst leistete.
+  en: The latter is traceable in many cases, and probably attributable in all cases, to the custom of covering wooden or plaited vessels with clay in order to render them fire-proof. It did not take long to find out that moulded clay served the same purpose without a lining of other material.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.11.1
+  kind: p
+  original: Bisher konnten wir den Gang der Entwicklung ganz allgemein, als gültig für eine bestimmte Periode aller Völker, ohne Rücksicht auf die Lokalität, betrachten.
+  en: Hitherto we could consider the course of evolution as being equally characteristic, in a general way, for all the nations of a certain period, without reference to locality.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.11.2
+  kind: p
+  original: Mit dem Eintritt der Barbarei aber haben wir eine Stufe erreicht, worauf sich die verschiedne Naturbegabung der beiden großen Erdkontinente geltend macht.
+  en: But with the beginning of barbarism, we reach a stage where the difference in the natural resources of the two great bodies of land makes itself felt.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.11.3
+  kind: p
+  original: Das charakteristische Moment der Periode der Barbarei ist die Zähmung und Züchtung von Tieren und die Kultur von Pflanzen.
+  en: The salient features of this stage of barbarism is the taming and raising of animals and the cultivation of plants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.11.4
+  kind: p
+  original: 'Nun besaß der östliche Kontinent, die sog. Alte Welt, fast alle zur Zähmung tauglichen Tiere und alle kulturfähigen Getreidearten außer einer; der westliche, Amerika, von zähmbaren Säugetieren nur das Lama, und auch dies nur in einem Teil des Südens, und von allen Kulturgetreiden nur eins, aber das beste: den Mais.'
+  en: 'Now the eastern body of land, the so-called old world, contained nearly all the tamable animals and all the cultivable species of grain but one; while the western continent, America, possessed only one tamable mammal, the llama (even this only in a certain part of the South), and only one, although the best, species of grain: the corn.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.11.5
+  kind: p
+  original: Diese verschiednen Naturbedingungen bewirken, daß von nun an die Bevölkerung jeder Halbkugel ihren besondern Gang geht, und die Marksteine an den Grenzen der einzelnen Stufen in jedem der beiden Fälle verschieden sind.
+  en: From now on, these different conditions of nature lead the population of each hemisphere along divergent roads, and the landmarks on the boundaries of the various stages differ in both cases.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.12.1
+  kind: p
+  original: 2. Mittelstufe.
+  en: 2. Middle Stage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.12.2
+  kind: p
+  original: Beginnt im Osten mit der Zähmung von Haustieren, im Westen mit der Kultur von Nährpflanzen mittelst Berieselung und dem Gebrauch von Adoben (an der Sonne getrockneten Ziegeln) und Stein zu Gebäuden.
+  en: Commencing in the East with the domestication of animals, in the West with the cultivation and irrigation of foodplants; also with the use of adobes (bricks baked in the sun) and stones for buildings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.13.1
+  kind: p
+  original: Wir beginnen mit dem Westen, da hier diese Stufe bis zur europäischen Eroberung nirgends überschritten wurde.
+  en: We begin in the West, because there this stage was never outgrown up to the time of the conquest by Europeans.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.14.1
+  kind: p
+  original: Bei den Indianern der Unterstufe der Barbarei (wozu alle östlich des Mississippi gefundnen gehörten) bestand zur Zeit ihrer Entdeckung schon eine gewisse Gartenkultur von Mais und vielleicht auch Kürbissen, Melonen und andern Gartengewächsen, die einen sehr wesentlichen Bestandteil ihrer Nahrung lieferte; sie wohnten in hölzernen Häusern, in verpalisadierten Dörfern.
+  en: At the time of their discovery, the Indians in the lower stage of barbarism (all those living east of the Mississippi) carried on cultivation on a small scale in gardens. Corn, and perhaps also pumpkins, melons and other garden truck were raised. A very essential part of their sustenance was produced in this manner. They lived in wooden houses, in fortified villages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+  align: '1:4'
+  review: true
+  review_reason: 1 de sentence(s) matched to 4 en sentence(s)
+- id: I.14.2
+  kind: p
+  original: Die nordwestlichen Stämme, besonders die im Gebiet des Kolumbiaflusses, standen noch auf der Oberstufe der Wildheit und kannten weder Töpferei noch Pflanzenkultur irgendeiner Art.
+  en: The tribes of the Northwest, especially those of the region along the Columbia river, were still in the higher stage of savagery, ignorant of pottery and of any cultivation of plants whatever.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '32'
+- id: I.14.3
+  kind: p
+  original: Die Indianer der sog. Pueblos in Neu-Mexiko dagegen, die Mexikaner, Zentral-Amerikaner und Peruaner zur Zeit der Eroberung standen auf der Mittelstufe der Barbarei; sie wohnten in festungsartigen Häusern von Adoben oder Stein, bauten Mais und andre nach Lage und Klima verschiedne Nährpflanzen in künstlich berieselten Gärten, die die Hauptnahrungsquelle lieferten, und hatten sogar einige Tiere gezähmt - die Mexikaner den Truthahn und andre Vögel, die Peruaner das Lama.
+  en: But the so-called Pueblo Indians in New Mexico, the Mexicans, Central-Americans and Peruvians, were in the middle-stage of barbarism. They lived in fortlike houses of adobe or stone, cultivated corn and other plants suitable to various conditions of localities and climate in artificially irrigated gardens that represented the main source of nourishment, and even kept a few tamed animals--the Mexicans the turkey and other birds, the Peruvians the llama.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 32-33
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.14.4
+  kind: p
+  original: Dazu kannten sie die Verarbeitung der Metalle - mit Ausnahme des Eisens, weshalb sie noch immer der Steinwaffen und Steinwerkzeuge nicht entbehren konnten.
+  en: Furthermore they were familiar with the use of metals--iron excepted, and for this reason they could not get along yet without stone weapons and stone implements.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.14.5
+  kind: p
+  original: Die spanische Eroberung schnitt dann alle weitere selbständige Entwicklung ab.
+  en: The conquest by the Spaniards cut short all further independent development.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.15.1
+  kind: p
+  original: Im Osten begann die Mittelstufe der Barbarei mit der Zähmung milch- und fleischgebender Tiere, während Pflanzenkultur hier noch bis tief in diese Periode unbekannt geblieben zu sein scheint.
+  en: In the East, the middle stage of barbarism began with the taming of milk and meat producing animals, while the cultivation of plants seems to have remained unknown far into this period.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.15.2
+  kind: p
+  original: Die Zähmung und Züchtung von Vieh und die Bildung größerer Herden scheinen den Anlaß gegeben zu haben zur Aussonderung der Arier und Semiten aus der übrigen Masse der Barbaren.
+  en: It appears that the taming and raising of animals and the formation of large herds gave rise to the separation of Aryans and Semites from the rest of the barbarians.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.15.3
+  kind: p
+  original: Den europäischen und asiatischen Ariern sind die Viehnamen noch gemeinsam, die der Kulturpflanzen aber fast gar nicht.
+  en: Names of animals are still common to the languages of European and Asian Aryans, while this is almost never the case with the names of cultivated plants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.16.1
+  kind: p
+  original: Die Herdenbildung führte an geeigneten Stellen zum Hirtenleben; bei den Semiten in den Grasebenen des Euphrat und Tigris, bei den Ariern in denen Indiens, des Oxus und Jaxartes, des Don und Dnjepr.
+  en: In suitable localities, the formation of herds led to a nomadic life, as with the Semites in the grassy plains of the Euphrates and Tigris, the Aryans in the plains of India, of the Oxus, Jaxartes, Don and Dnieper.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.16.2
+  kind: p
+  original: An den Grenzen solcher Weideländer muß die Zähmung des Viehs zuerst vollführt worden sein.
+  en: Along the borders of such pasture lands, the taming of animals must have been accomplished first.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.16.3
+  kind: p
+  original: Den späteren Geschlechtern erscheinen so die Hirtenvölker als aus Gegenden stammend, die, weit entfernt, die Wiege des Menschengeschlechts zu sein, im Gegenteil für ihre wilden Vorfahren und selbst für Leute der Unterstufe der Barbarei fast unbewohnbar waren.
+  en: But later generations conceived the mistaken idea that the nomadic tribes had their origin in regions supposed to be the cradle of humanity, while in reality their savage ancestors and even people in the lower stage of barbarism would have found these regions almost unfit for habitation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.16.4
+  kind: p
+  original: Umgekehrt, sobald diese Barbaren der Mittelstufe einmal an Hirtenleben gewöhnt, hätte es ihnen nie einfallen können, freiwillig aus den grastragenden Stromebenen in die Waldgebiete zurückzukehren, in denen ihre Vorfahren heimisch gewesen.
+  en: On the other hand, once these barbarians of the middle stage were accustomed to nomadic life, nothing could have induced them to return voluntarily from the grassy river plains to the forests that had been the home of their ancestors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.16.5
+  kind: p
+  original: Ja selbst als sie weiter nach Norden und Westen gedrängt wurden, war es den Semiten und Ariern unmöglich, in die westasiatischen und europäischen Waldgegenden zu ziehn, ehe sie durch Getreidebau in den Stand gesetzt wurden, ihr Vieh auf diesem weniger günstigen Boden zu ernähren und besonders zu überwintern.
+  en: Even when Semites and Aryans were forced further to the North and West, it was impossible for them to occupy the forest regions of Western Asia and Europe, until they were enabled by agriculture to feed their animals on this less favorable soil and especially to maintain them during the winter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.16.6
+  kind: p
+  original: Es ist mehr als wahrscheinlich, daß der Getreidebau hier zuerst aus dem Futterbedürfnis fürs Vieh entsprang und erst später für menschliche Nahrung wichtig wurde.
+  en: It is more than probable that the cultivation of grain was due primarily to the demand for stock feed, and became an important factor of human sustenance at a later period.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.17.1
+  kind: p
+  original: Der reichlichen Fleisch- und Milchnahrung bei Ariern und Semiten, und besonders ihrer günstigen Wirkung auf die Entwicklung der Kinder, ist vielleicht die überlegne Entwicklung beider Racen zuzuschreiben.
+  en: The superior development of Aryans and Semites is, perhaps, attributable to the copious meat and milk diet of both races, more especially to the favorable influence of such food on the growth of children.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '33'
+- id: I.17.2
+  kind: p
+  original: In der Tat haben die Pueblos-Indianer von Neu-Mexiko, die auf fast reine Pflanzenkost reduziert sind, ein kleineres Gehirn als die mehr fleisch- und fischessenden Indianer der niedern Stufe der Barbarei.
+  en: As a matter of fact, the Pueblo Indians of New Mexico who live on an almost purely vegetarian diet, have a smaller brain than the Indians in the lower stage of barbarism who eat more meat and fish.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 33-34
+- id: I.17.3
+  kind: p
+  original: Jedenfalls verschwindet auf dieser Stufe allmählich die Menschenfresserei und erhält sich nur als religiöser Akt oder, was hier fast identisch, als Zaubermittel.
+  en: At any rate, cannibalism gradually disappears at this stage and is maintained only as a religious observance or, what is here nearly identical, as a magic remedy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+  en_note: 'Untermann''s note [6]: Advocates of vegetarianism may, of course, challenge this statement and show that all the testimony of anthropology is not in favor of the meat-eaters. It must also be admitted that diet is not the only essential factor in environment which influences the development of races. And there is no conclusive evidence to prove the absolute superiority of one diet over another. Neither have we any proofs that cannibalism ever was in general practice. It rather seems to have been confined to limited groups of people in especially ill-favored localities or to times of great scarcity of food. Hence we can neither refer to cannibalism as a typical stage in human history, nor are we obliged to accept the vegetarian hypothesis of a transition from a meat diet to a plant diet as a condition sine qua non of higher human development.'
+- id: I.18.1
+  kind: p
+  original: 3. Oberstufe.
+  en: 3. Higher Stage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+- id: I.18.2
+  kind: p
+  original: Beginnt mit dem Schmelzen des Eisenerzes und geht über in die Zivilisation vermittelst der Erfindung der Buchstabenschrift und ihrer Verwendung zu literarischer Aufzeichnung.
+  en: Beginning with the melting of iron ore and merging into civilization by the invention of letter script and its utilization for writing records.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+- id: I.18.3
+  kind: p
+  original: Diese Stufe, die, wie gesagt, nur auf der östlichen Halbkugel selbständig durchgemacht wird, ist an Fortschritten der Produktion reicher als alle vorhergehenden zusammengenommen.
+  en: This stage which is passed independently only on the Eastern Hemisphere, is richer in improvements of production than all preceding stages together.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+- id: I.18.4
+  kind: p
+  original: Ihr gehören an die Griechen zur Heroenzeit, die italischen Stamme kurz vor der Gründung Roms, die Deutschen des Tacitus, die Normannen der Wikingerzeit.
+  en: It is the stage of the Greek heroes, the Italian tribes shortly before the foundation of Rome, the Germans of Tacitus, the Norsemen of the Viking age.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+- id: I.19.1
+  kind: p
+  original: Vor allem tritt uns hier zuerst entgegen die eiserne, von Vieh gezogene Pflugschar, die den Ackerbau auf großer Stufe, den Feldbau, möglich machte, und damit eine für damalige Verhältnisse praktisch unbeschränkte Vermehrung der Lebensmittel; damit auch die Ausrodung des Waldes und seine Verwandlung in Ackerland und Wiese - die wieder, auf großem Maßstab, ohne die eiserne Axt und den eisernen Spaten unmöglich blieb.
+  en: We are here confronted for the first time with the iron ploughshare drawn by animals, rendering possible agriculture on a large scale, in fields, and hence a practically unlimited increase in the production of food for the time being. The next consequence is the clearing of forests and their transformation into arable land and meadows--which process, however, could not be continued on a larger scale without the help of the iron ax and the iron spade.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.19.2
+  kind: p
+  original: Damit kam aber auch rasche Vermehrung der Bevölkerung und dichte Bevölkerung auf kleinem Gebiet.
+  en: Naturally, these improvements brought a more rapid increase of population and a concentration of numbers into a small area.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+- id: I.19.3
+  kind: p
+  original: Vor dem Feldbau müssen sehr ausnahmsweise Verhältnisse vorgekommen sein, wenn eine halbe Million Menschen sich unter einer einzigen Zentralleitung sollte vereinigen lassen; wahrscheinlich war das nie geschehn.
+  en: Before the time of field cultivation a combination of half a million of people under one central management could have been possible only under exceptionally favorable conditions; most likely this was never the case.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+- id: I.20.1
+  kind: p
+  original: Die höchste Blüte der Oberstufe der Barbarei tritt uns entgegen in den homerischen Gedichten, namentlich in der "Ilias".
+  en: The greatest attainments of the higher stage of barbarism are presented in Homer's poems, especially in the Iliad.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+- id: I.20.2
+  kind: p
+  original: Entwickelte Eisenwerkzeuge; der Blasbalg; die Handmühle; die Töpferscheibe; die Öl- und Weinbereitung; eine entwickelte, ins Kunsthandwerk übergehende Metallbearbeitung; der Wagen und Streitwagen; der Schiffbau mit Balken und Planken; die Anfänge der Architektur als Kunst; ummauerte Städte mit Türmen und Zinnen; das homerische Epos und die gesamte Mythologie - das sind die Haupterbschaften, die die Griechen aus der Barbarei hinübernahmen in die Zivilisation.
+  en: Improved iron tools; the bellows; the hand-mill; the potter's wheel; the preparation of oil and wine; a well developed fashioning of metals verging on artisanship; the wagon and chariot; ship-building with beams and boards; the beginning of artistic architecture; towns surrounded by walls with turrets and battlements; the Homeric epos and the entire mythology--these are the principal bequests transmitted by the Greeks from barbarism to civilization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+- id: I.20.3
+  kind: p
+  original: Wenn wir damit die Beschreibung der Germanen bei Cäsar und selbst Tacitus vergleichen, die am Anfang derselben Kulturstufe standen, aus der in eine höhere überzugehn die homerischen Griechen sich anschickten, so sehn wir, welchen Reichtum der Entwicklung der Produktion die Oberstufe der Barbarei in sich faßt.
+  en: In comparing these attainments with the description given by Cesar or even Tacitus of Germans, who were in the beginning of the same stage of evolution which the Greeks were preparing to leave for a higher one, we perceive the wealth of productive development comprised in the higher stage of barbarism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '34'
+- id: I.21.1
+  kind: p
+  original: Das Bild, das ich hier von der Entwicklung der Menschheit durch Wildheit und Barbarei zu den Anfängen der Zivilisation nach Morgan skizziert habe, ist schon reich genug an neuen und, was mehr ist, unbestreitbaren, weil unmittelbar der Produktion entnommenen Zügen.
+  en: The sketch which I have here produced after Morgan of the evolution of the human race through savagery and barbarism to the beginning of civilization is even now rich in new outlines. More still, these outlines are incontrovertible, because traced directly from production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '35'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.21.2
+  kind: p
+  original: Dennoch wird es matt und dürftig erscheinen, verglichen mit dem Bild, das sich am Ende unsrer Wanderschaft entrollen wird; erst dann wird es möglich sein, den Übergang aus der Barbarei in die Zivilisation und den schlagenden Gegensatz beider ins volle Licht zu stellen.
+  en: Nevertheless, this sketch will appear faint and meagre in comparison to the panorama unrolled to our view at the end of our pilgrimage. Not until then will it be possible to show in their true light both the transition from barbarianism to civilization and the striking contrast between them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '35'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: I.21.3
+  kind: p
+  original: 'Vorderhand können wir Morgans Einteilung dahin verallgemeinern: Wildheit - Zeitraum der vorwiegenden Aneignung fertiger Naturprodukte; die Kunstprodukte des Menschen sind vorwiegend Hülfswerkzeuge dieser Aneignung.'
+  en: 'For the present we can summarize Morgan''s arrangement in the following manner: Savagery--time of predominating appropriation of finished natural products; human ingenuity invents mainly tools useful in assisting this appropriation.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '35'
+- id: I.21.4
+  kind: p
+  original: Barbarei - Zeitraum der Erwerbung von Viehzucht und Ackerbau, der Erlernung von Methoden zur gesteigerten Produktion von Naturerzeugnissen durch menschliche Tätigkeit.
+  en: Barbarism--time of acquiring the knowledge of cattle raising, of agriculture and of new methods for increasing the productivity of nature by human agency.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '35'
+- id: I.21.5
+  kind: p
+  original: Zivilisation - Zeitraum der Erlernung der weiteren Verarbeitung von Naturerzeugnissen, der eigentlichen Industrie und der Kunst.
+  en: 'Civilization: time of learning a wider utilization, of natural products, of manufacturing and of art.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '35'

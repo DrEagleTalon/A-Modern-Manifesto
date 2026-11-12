@@ -1,0 +1,132 @@
+# Glossary of recurring and contested terms in The Origin of the Family, Private Property and the State (OF).
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+# Terms shared with other works (Bourgeoisie, Proletariat, Klasse ...) are in
+# works/communist-manifesto/glossary.yaml until a shared library glossary is agreed.
+
+- term: Geschlecht, Geschlechtsverband
+  de: Geschlecht, Geschlechtsverband, Geschlechtsbande, Geschlechtsgenossen
+  english_1902: sexual ties, sexual relations, sex organization, sexual organizations
+  literal: lineage, kin group, ties of kinship
+  options: [kinship, kin group, ties of kinship, lineage]
+  interim: kinship (Geschlechtsbande), kin group (Geschlechtsverband)
+  status: open
+  verses: [P1884.2.5, P1884.2.6, P1884.2.7, P1884.3.1, III.1.2, III.2.1]
+  note: The worst slip in Untermann. In these words "Geschlecht" means descent group, as in "Adelsgeschlecht", not sex. "Society dominated by sexual ties" (P1884.2.5) turns Engels's claim about kinship into a claim about sex. Fix it everywhere in the modern draft; keep "Geschlechtsliebe" (sexual love) and "Geschlechtsverkehr" (sexual intercourse) apart, where sex is meant.
+
+- term: Gens
+  de: Gens, Gentes, Gentilgenossen, Gentilverfassung, gentil
+  english_1902: gens, gentes, gentiles, gentile constitution
+  literal: clan, kin group
+  options: [gens, clan, kin group]
+  interim: gens (plural gentes), explained on first use; "members of the gens" for Gentilgenossen
+  status: open
+  verses: [III.2.1, III.3.6, III.46.6, IV.1.5, IX.3.1]
+  note: Morgan's Latin term, which Engels keeps on purpose so that the Iroquois, Greek, Roman and German cases read as one institution. "Clan" is easier but carries Scottish and modern associations (VII.6 shows Engels using "Clan" for the Scottish case only). "Gentiles" in Untermann means members of a gens and will be misread as non-Jews; avoid it.
+
+- term: Phratrie
+  de: Phratrie, Phratrien
+  english_1902: phratry, phratries
+  literal: brotherhood
+  options: [phratry, brotherhood of gentes]
+  interim: phratry, glossed once as a brotherhood of several gentes
+  status: interim
+  verses: [III.18.1, III.18.2, IV.9.1, IV.23.1]
+  note: Engels glosses it himself ("Brüderschaft", III.18.1).
+
+- term: Stamm
+  de: Stamm, Stämme, Stammesrat, Bund von Stämmen
+  english_1902: tribe, tribal council, league of tribes
+  literal: tribe
+  options: [tribe, people]
+  interim: tribe
+  status: open
+  verses: [III.21.2, IV.1.1, IV.24.1]
+  note: A technical term in Morgan's scheme (gens, phratry, tribe, league). Keep it fixed even where "people" would read better, but say in a note that "tribe" is now a loaded word for many of the peoples Engels discusses.
+
+- term: Wildheit, Barbarei, Zivilisation
+  de: Wildheit, Barbarei, Zivilisation; Unterstufe, Mittelstufe, Oberstufe
+  english_1902: savagery, barbarism, civilization; lower, middle, higher stage
+  literal: savagery, barbarism, civilization
+  options: [savagery / barbarism / civilization as Morgan's technical stages, foraging / farming and herding / state societies]
+  interim: keep Morgan's three words, in quotation marks on first use, with a note
+  status: open
+  verses: [I.2.1, I.5.1, I.8.7, IX.1.1, IX.29.1]
+  note: Morgan's stages are defined by technology (I.2.1, pottery and so on), not by worth, and the whole book is built on them. Replacing them silently would break every cross-reference. The racial ranking they carried in the 19th century is a matter for the note and for commentary/, not for quiet rewording.
+
+- term: Paarungsfamilie, Paarungsehe
+  de: Paarungsfamilie, Paarungsehe
+  english_1902: pairing family, syndyasmian family
+  literal: pairing family, pairing marriage
+  options: [pairing family, pairing marriage]
+  interim: pairing family; pairing marriage where Engels says Ehe
+  status: interim
+  verses: [II.1.2, II.35.1, II.40.1, II.54.1]
+  note: Untermann sometimes adds Morgan's Greek "syndyasmian" (II.1.2). Not needed in the modern draft.
+
+- term: Gruppenehe
+  de: Gruppenehe, Punaluafamilie, Blutsverwandtschaftsfamilie
+  english_1902: group marriage, communal marriage, Punaluan family, consanguine family
+  literal: group marriage
+  options: [group marriage]
+  interim: group marriage; Punaluan family; consanguine family
+  status: interim
+  verses: [II.18.1, II.20.1, II.22.5, P1891.20.3, P1891.23.1]
+  note: Untermann switches between "group marriage" and "communal marriage" (P1891.23.1). Use one term. Much of Morgan's scheme of family forms is rejected by later anthropology; that belongs in commentary/, and the draft should state Engels's claims as his.
+
+- term: Einzelehe, Monogamie
+  de: Einzelehe, Monogamie, monogame Familie, Einzelfamilie
+  english_1902: monogamy, monogamous family, single family
+  literal: single marriage, monogamy
+  options: [monogamy, monogamous marriage, the single family]
+  interim: monogamy; "the separate family" for Einzelfamilie as an economic unit
+  status: open
+  verses: [II.74.4, II.79.2, II.97.11, IX.12.4]
+  note: Engels uses "Einzelehe" and "Monogamie" for the institution and "Einzelfamilie" for the household as economic unit (II.97.11, IX.12.4). Keep the two apart; the argument of IX depends on the second.
+
+- term: Mutterrecht, Vaterrecht
+  de: Mutterrecht, Vaterrecht, mutterrechtlich
+  english_1902: maternal law, paternal law, paternal lineage
+  literal: mother right, father right
+  options: [mother right, maternal law, matrilineal descent]
+  interim: mother right / father right, with "descent through the mother" where only reckoning of descent is meant
+  status: open
+  verses: [P1891.5.1, P1891.6.2, II.60.1, IV.1.5]
+  note: Bachofen's terms. Engels uses them for the rule of descent, not for rule by women. "Der Umsturz des Mutterrechts" (II.60.1) should not become "the end of matriarchy".
+
+- term: Hetärismus
+  de: Hetärismus
+  english_1902: hetaerism
+  literal: hetaerism
+  options: [hetaerism, sex outside marriage]
+  interim: hetaerism, with a note on its two senses
+  status: open
+  verses: [P1891.5.2, II.51.1, II.83.1]
+  note: Two senses. In Bachofen it is the supposed primitive state (Engels calls the term "schief", P1891.5.2, and II.N1 says why); in Morgan and in II.83.1 it is sex outside monogamous marriage that sits alongside it. Say which one a verse means.
+
+- term: Hausgenossenschaft, Hausgemeinde
+  de: Hausgenossenschaft, Hausgemeinde, kommunistische Haushaltung
+  english_1902: household community, collective household, communistic household
+  literal: household community
+  options: [household community, communal household]
+  interim: household community
+  status: interim
+  verses: [II.40.1, II.66.3, II.70.1, IX.12.2]
+
+- term: öffentliche Gewalt
+  de: öffentliche Gewalt
+  english_1902: public power, public power of coercion
+  literal: public power
+  options: [public power, public force, armed public authority]
+  interim: public power
+  status: open
+  verses: [III.41.3, IV.30.1, V.9.8, V.1.1]
+  note: '"Gewalt" is both authority and force. Untermann adds "of coercion" (V.9.8), which states Engels''s point but is his addition. The theory of the state in IX turns on this term; keep it fixed.'
+
+- term: Gefolgschaft
+  de: Gefolgschaft, Gefolge
+  english_1902: military following, followers, retinue
+  literal: following, retinue
+  options: [war band, retinue, military following]
+  interim: war band (Gefolgschaft), retinue (Gefolge of a king)
+  status: open
+  verses: [III.28.13, VII.28.1, VII.28.6, VIII.10.4]

@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: origin-of-the-family
+prefix: OF                        # citation prefix: OF II.60.1
+title: The Origin of the Family, Private Property and the State
+title_original: Der Ursprung der Familie, des Privateigentums und des Staats
+authors: [Friedrich Engels]
+year: 1884
+original_language: de
+base_text: "Fourth edition (Stuttgart 1892) as printed in MEW 21, with the 1884 readings as variants; Engels's 1891 preface from MEW 22"
+order: 160
+columns:
+  original: German (MEW, 1892 text)
+  en: English 1902 (Untermann)
+  modern: Modern draft
+status: ready
+rights: Original public domain. Untermann's 1902 English public domain (Project Gutenberg text). See SOURCES.md.

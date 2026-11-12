@@ -1,0 +1,1754 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: III
+title_original: III. Die irokesische Gens
+title_en: CHAPTER III. THE IROQUOIS GENS.
+author: Friedrich Engels
+date: 1884-03/05; revised 1891
+original_language: de
+anchor_language: de
+source_original: MEW 21, S. 25-173 (Dietz, Berlin 1962) via mlwerke.de; text of the fourth edition (Stuttgart 1892), 1884 readings as variants
+source_en: Ernest Untermann's translation (Charles H. Kerr, Chicago 1902; 1908 printing), Project Gutenberg ebook 33111 (public domain)
+verses:
+- id: III.0.1
+  kind: heading
+  original: III. Die irokesische Gens
+  en: CHAPTER III. THE IROQUOIS GENS.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.1.1
+  kind: p
+  original: Wir kommen jetzt zu einer andern Entdeckung Morgans, die mindestens von derselben Wichtigkeit ist wie die Rekonstruktion der Urfamilienform aus den Verwandtschaftssystemen.
+  en: We now come to another discovery of Morgan that is at least as important as the reconstruction of the primeval form of the family from the systems of kinship.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '85'
+- id: III.1.2
+  kind: p
+  original: Der Nachweis, daß die durch Tiernamen bezeichneten Geschlechtsverbände innerhalb eines Stammes amerikanischer Indianer wesentlich identisch sind mit den genea der Griechen, den gentes der Römer; daß die amerikanische Form die ursprüngliche, die griechisch-römische die spätere, abgeleitete ist; daß die ganze Gesellschaftsorganisation der Griechen und Römer der Urzeit in Gens, Phratrie und Stamm ihre getreue Parallele findet in der amerikanisch-indianischen; daß die Gens eine allen Barbaren bis zu ihrem Eintritt in die Zivilisation, und selbst noch nachher, gemeinsame Einrichtung ist (soweit unsere Quellen bis jetzt reichen) - dieser Nachweis hat mit einem Schlag die schwierigsten Partien der ältesten griechischen und römischen Geschichte aufgeklärt und uns gleichzeitig über die Grundzüge der Gesellschaftsverfassung der Urzeit - vor Einführung des Staats - ungeahnte Aufschlüsse gegeben.
+  en: It is the proof that the sex organizations within the tribe of North American Indians, designated by animal names, are essentially identical with the genea of the Greeks and the gentes of the Romans; that the American form is the original from which the Greek and Roman forms were later derived; that the whole organization of Greek and Roman society during primeval times in gens, phratry and tribe finds its faithful parallel in that of the American Indians; that the gens is an institution common to all barbarians up to the time of civilization--at least so far as our present sources of information reach. This demonstration has cleared at a single stroke the most difficult passages of remotest ancient Greek and Roman history. At the same time it has given us unexpected information concerning the fundamental outlines of the constitution of society in primeval times--before the introduction of the state.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '85'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.1.3
+  kind: p
+  original: So einfach die Sache auch aussieht, sobald man sie einmal kennt, so hat Morgan sie doch erst in der letzten Zeit entdeckt; in seiner vorhergehenden, 1871 erschienenen Schrift war er noch nicht hinter dies Geheimnis gekommen, dessen Enthüllung seitdem die sonst so zuversichtlichen englischen Urhistoriker für eine Zeitlang mäuschenstill gemacht hat.
+  en: Simple as the matter is after we have once found it out, still it was only lately discovered by Morgan. In his work of 1871 he had not yet unearthed this mystery. Its revelation has completely silenced for the time being those generally so overconfident English authorities on primeval history.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: '1884'
+    reading: 'fehlt: für eine Zeitlang'
+    base_text: … Urhistoriker für eine Zeitlang ‸ mäuschenstill gemacht hat. …
+  mew_page: '85'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.2.1
+  kind: p
+  original: Das lateinische Wort gens, welches Morgan allgemein für diesen Geschlechtsverband anwendet, kommt wie das griechische gleichbedeutende genos von der allgemein-arischen Wurzel gan (deutsch, wo nach der Regel k für arisches g stehen muß, kan), welche erzeugen bedeutet.
+  en: The Latin word gens, used by Morgan generally for the designation of this sex organization, is derived, like the equivalent Greek word genos, from the common Aryan root gan, signifying to beget.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '85'
+- id: III.2.2
+  kind: p
+  original: Gens, genos, sanskrit dschanas, gotisch (nach der obigen Regel) kuni, altnordisch und angelsächsisch kyn, englisch kin, mittelhochdeutsch künne bedeuten gleichmäßig Geschlecht, Abstammung.
+  en: Gens, genos, Sanskrit dschanas, Gothic kuni, ancient Norse and Anglesaxon kyn, English kin, Middle High German kuenne, all signify lineage, descent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 85-86
+- id: III.2.3
+  kind: p
+  original: Gens im Lateinischen, genos im Griechischen, wird aber speziell für jenen Geschlechtsverband gebraucht, der sich gemeinsamer Abstammung (hier von einem gemeinsamen Stammvater) rühmt und durch gewisse gesellschaftliche und religiöse Einrichtungen zu einer besondern Gemeinschaft verknüpft ist, dessen Entstehung und Natur trotzdem allen unsern Geschichtschreibern bis jetzt dunkel blieb.
+  en: Gens in Latin, genos in Greek, specially designate that sex organization which boasted of common descent (from a common sire) and was united into a separate community by certain social and religious institutions, but the origin and nature of which nevertheless remained obscure to all our historians.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.3.1
+  kind: p
+  original: Wir haben schon oben, bei der Punaluafamilie, gesehn, was die Zusammensetzung einer Gens in der ursprünglichen Form ist.
+  en: Elsewhere, in speaking of the Punaluan family, we saw how the gens was constituted in its original form.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.3.2
+  kind: p
+  original: Sie besteht aus allen Personen, die vermittelst der Punaluaehe und nach den in ihr mit Notwendigkeit herrschenden Vorstellungen die anerkannte Nachkommenschaft einer bestimmten einzelnen Stammutter, der Gründerin der Gens, bilden.
+  en: It consisted of all individuals who by means of the Punaluan marriage and in conformity with the conceptions necessarily arising in it made up the recognized offspring of a certain ancestral mother, the founder of that gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.3.3
+  kind: p
+  original: Da in dieser Familienform die Vaterschaft ungewiß, gilt nur weibliche Linie.
+  en: Since fatherhood is uncertain in this form of the family, female lineage is alone valid.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.3.4
+  kind: p
+  original: Da die Brüder ihre Schwestern nicht heiraten dürfen, sondern nur Frauen andrer Abstammung, so fallen die mit diesen fremden Frauen erzeugten Kinder nach Mutterrecht außerhalb der Gens.
+  en: And as brothers must not marry their sisters, but only women of foreign descent, the children bred from these foreign women do not belong to the gens, according to maternal law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.3.5
+  kind: p
+  original: Es bleiben also nur die Nachkommen der Töchter jeder Generation innerhalb des Geschlechtsverbandes; die der Söhne gehn über in die Gentes ihrer Mütter.
+  en: Hence only the offspring of the daughters of every generation remain in the same sex organization. The descendants of the sons are transferred to the gentes of the new mothers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.3.6
+  kind: p
+  original: Was wird nun aus dieser Blutsverwandtschaftsgruppe, sobald sie sich als besondre Gruppe, gegenüber ähnlichen Gruppen innerhalb eines Stammes, konstituiert?
+  en: What becomes of this group of kinship when it constitutes itself a separate group, distinct from similar groups in the same tribe?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.4.1
+  kind: p
+  original: Als klassische Form dieser ursprünglichen Gens nimmt Morgan die der Irokesen, speziell des Senekastammes.
+  en: As the classical form of this original gens Morgan selects that of the Iroquois, more especially that of the Seneca tribe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.4.2
+  kind: p
+  original: 'Bei diesem gibt es acht Gentes, nach Tieren benannt: 1. Wolf, 2. Bär, 3. Schildkröte, 4. Biber, 5. Hirsch, 6. Schnepfe, 7. Reiher, 8. Falke.'
+  en: 'This tribe has eight gentes named after animals: 1. Wolf. 2. Bear. 3. Turtle. 4. Beaver. 5. Deer. 6. Snipe. 7. Heron. 8. Hawk.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.4.3
+  kind: p
+  original: 'In jeder Gens herrscht folgender Brauch:'
+  en: 'Every gens observes the following customs:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.5.1
+  kind: p
+  original: 1. Sie erwählt ihren Sachem (Friedensvorsteher) und Häuptling (Kriegsanführer).
+  en: 1. The gens elects its sachem (official head during peace) and its chief (leader in war).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.5.2
+  kind: p
+  original: Der Sachem muß aus der Gens selbst gewählt werden, und sein Amt war erblich in ihr, insofern es bei Erledigung sofort neu besetzt werden mußte; der Kriegsanführer konnte auch außerhalb der Gens gewählt werden und zeitweise ganz fehlen.
+  en: The sachem must be selected within the gens and his office was in a sense hereditary. It had to be filled immediately after a vacancy occurred. The chief could be selected outside of the gens, and his office could even be temporarily vacant.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.5.3
+  kind: p
+  original: Zum Sachem wurde nie der Sohn des vorigen gewählt, da bei den Irokesen Mutterrecht herrschte, der Sohn also einer andern Gens angehörte; wohl aber und oft der Bruder oder Schwestersohn.
+  en: The son never followed his father in the office of sachem, because the Iroquois observed maternal law, in consequence of which the son belonged to another gens. But the brother or the son of a sister was often elected as a successor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.5.4
+  kind: p
+  original: Bei der Wahl stimmten alle mit, Männer und Weiber.
+  en: Men and women both voted in elections.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.5.5
+  kind: p
+  original: Die Wahl mußte aber von den übrigen sieben Gentes bestätigt werden, und dann erst wurde der Gewählte feierlich eingesetzt, und zwar durch den gemeinsamen Rat des ganzen Irokesenbundes.
+  en: The election, however, had to be confirmed by the other seven gentes, and then only the sachem-elect was solemnly invested, by the common council of the whole Iroquois federation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.5.6
+  kind: p
+  original: Die Bedeutung hiervon wird sich später zeigen.
+  en: The significance of this will be seen later.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.5.7
+  kind: p
+  original: Die Gewalt des Sachem innerhalb des Gens war väterlich, rein moralischer Natur; Zwangsmittel hatte er nicht.
+  en: The power of the sachem within the tribe was of a paternal, purely moral nature. He had no means of coercion at his command.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.5.8
+  kind: p
+  original: Daneben war er von Amts wegen Mitglied des Stammesrats der Senekas wie des Bundesrats der Gesamtheit der Irokesen.
+  en: He was besides by virtue of his office a member of the tribal council of the Senecas and of the federal council of the whole Iroquois nation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.5.9
+  kind: p
+  original: Der Kriegshäuptling hatte nur auf Kriegszügen etwas zu befehlen.
+  en: The Chief had the right to command only in times of war.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '86'
+- id: III.6.1
+  kind: p
+  original: 2. Sie setzt den Sachem und Kriegshäuptling nach Belieben ab.
+  en: 2. The gens can retire the sachem and the chief at will.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.6.2
+  kind: p
+  original: Dies geschieht wieder von Männern und Weibern zusammen.
+  en: This again is done by men and women jointly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.6.3
+  kind: p
+  original: Die Abgesetzten sind nachher einfache Krieger wie die andern, Privatpersonen.
+  en: The retired men are considered simple warriors and private persons like all others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.6.4
+  kind: p
+  original: Der Stammesrat kann übrigens auch Sachems absetzen, selbst gegen den Willen der Gens.
+  en: The tribal council, by the way, can also retire the sachems, even against the will of the tribe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.7.1
+  kind: p
+  original: 3. Kein Mitglied darf innerhalb der Gens heiraten.
+  en: 3. No member is permitted to marry within the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.7.2
+  kind: p
+  original: Dies ist die Grundregel der Gens, das Band, das sie zusammenhält; es ist der negative Ausdruck der sehr positiven Blutsverwandtschaft, kraft deren die in ihr einbegriffenen Individuen erst eine Gens werden.
+  en: This is the fundamental rule of the gens, the tie that holds it together. It is the negative expression of the very positive blood relationship, by virtue of which the individuals belonging to it become a gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.7.3
+  kind: p
+  original: Durch die Entdeckung dieser einfachen Tatsache hat Morgan die Natur der Gens zum erstenmal enthüllt.
+  en: By the discovery of this simple fact Morgan for the first time revealed the nature of the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.7.4
+  kind: p
+  original: Wie wenig die Gens bisher verstanden wurde, beweisen die früheren Berichte über Wilde und Barbaren, wo die verschiedenen Körperschaften, aus denen die Gentilordnung sich zusammensetzt, unbegriffen und ununterschieden als Stamm, Clan, Thum usw. durcheinandergeworfen wurden und von diesen zuweilen gesagt wird, daß die Heirat innerhalb einer solchen Körperschaft verboten sei.
+  en: How little the gens had been understood before him is proven by former reports on savages and barbarians, in which the different organizations of which the gentile order is composed are jumbled together without understanding and distinction as tribe, clan, thum, etc. Sometimes it is stated that intermarrying within these organizations is forbidden.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.7.5
+  kind: p
+  original: 'Damit war denn die rettungslose Konfusion gegeben, in der Herr McLennan als Napoleon auftreten und Ordnung schaffen konnte, durch den Machtspruch: Alle Stämme teilen sich in solche, innerhalb deren die Ehe verboten ist (exogame),und solche, in denen sie erlaubt (endogame).'
+  en: 'This gave rise to the hopeless confusion, in which McLennan could pose as Napoleon and establish order by the decree: All tribes are divided into those that forbid intermarrying (exogamous) and those that permit it (endogamous).'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.7.6
+  kind: p
+  original: 'Und nachdem er so die Sache erst recht gründlich verfahren, konnte er sich in den tiefsinnigsten Untersuchungen ergehen, welche von seinen beiden abgeschmackten Klassen die ältere sei: die Exogamie oder die Endogamie.'
+  en: 'And after he had thus made confusion worse confounded, he could indulge in deep meditations which of his two preposterous classes was the older: exogamy or endogamy.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.7.7
+  kind: p
+  original: Mit der Entdeckung der auf Blutsverwandtschaft, und daraus hervorgehender Unmöglichkeit der Ehe unter ihren Mitgliedern, begründeten Gens hörte dieser Unsinn von selbst auf.
+  en: By the discovery of the gens founded on affinity of blood and the resulting impossibility of its members to intermarry, this nonsense found a natural end.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.7.8
+  kind: p
+  original: '- Es ist selbstverständlich, daß auf der Stufe, auf der wir die Irokesen vorfinden, das Eheverbot innerhalb der Gens unverbrüchlich eingehalten wird.'
+  en: It is self understood that the marriage interdict within the gens was strictly observed at the stage in which we find the Iroquois.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.8.1
+  kind: p
+  original: 4. Das Vermögen Verstorbner fiel an die übrigen Gentilgenossen, es mußte in der Gens bleiben.
+  en: 4. The property of deceased members fell to the share of the other gentiles; it had to remain in the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.8.2
+  kind: p
+  original: Bei der Unbedeutendheit der Gegenstände, die ein Irokese hinterlassen konnte, teilten sich die nächsten Gentilverwandten in die Erbschaft; starb ein Mann, dann seine leiblichen Brüder und Schwestern und der Mutterbruder; starb eine Frau, dann ihre Kinder und leiblichen Schwestern, nicht aber ihre Brüder.
+  en: In view of the insignificance of the objects an Iroquois could leave behind, the nearest gentile relations divided the heritage. Was the deceased a man, then his natural brothers, sisters and the brothers of the mother shared in his property. Was it a woman, then her children and natural sisters shared, but not her brothers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.8.3
+  kind: p
+  original: Ebendeshalb konnten Mann und Frau nicht voneinander erben, oder die Kinder vom Vater.
+  en: For this reason husband and wife could not inherit from one another, nor the children from the father.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.9.1
+  kind: p
+  original: 5. Die Gentilgenossen schuldeten einander Hülfe, Schutz und namentlich Beistand zur Rache für Verletzung durch Fremde.
+  en: 5. The gentile members owed to each other help, protection and especially assistance in revenging injury inflicted by strangers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+- id: III.9.2
+  kind: p
+  original: Der einzelne verließ sich für seine Sicherheit auf den Schutz der Gens und konnte es; wer ihn verletzte, verletzte die ganze Gens.
+  en: The individual relied for his protection on the gens and could be assured of it. Whoever injured the individual, injured the whole gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '87'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.9.3
+  kind: p
+  original: Hieraus, aus den Blutbanden der Gens, entsprang die Verpflichtung zur Blutrache, die von den Irokesen unbedingt anerkannt wurde.
+  en: From this blood kinship arose the obligation to blood revenge that was unconditionally recognized by the Iroquois.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 87-88
+- id: III.9.4
+  kind: p
+  original: Erschlug ein Gentilfremder einen Gentilgenossen, so war die ganze Gens des Getöteten zur Blutrache verpflichtet.
+  en: If a stranger killed a gentile member, the whole gens of the slain man was pledged to revenge his death. First mediation was tried.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.9.5
+  kind: p
+  original: Zuerst versuchte man Vermittlung; die Gens des Töters hielt Rat und machte dem Rat der Gens des Getöteten Beilegungsanträge, meist Ausdrücke des Bedauerns und bedeutende Geschenke anbietend.
+  en: The gens of the slayer deliberated and offered to the gentile council of the slain propositions for atonement, consisting generally in expressions of regret and presents of considerable value.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.9.6
+  kind: p
+  original: Wurden diese angenommen, war die Sache erledigt.
+  en: If these were accepted, the matter was settled.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.9.7
+  kind: p
+  original: Im andern Fall ernannte die verletzte Gens einen oder mehrere Rächer, die den Töter zu verfolgen und zu erschlagen verpflichtet waren.
+  en: In the opposite case the injured gens appointed one or more avengers who were obliged to pursue the slayer and to kill him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.9.8
+  kind: p
+  original: Geschah dies, so hatte die Gens des Erschlagnen kein Recht, sich zu beklagen, der Fall war ausgeglichen.
+  en: If they succeeded, the gens of the slayer had no right to complain. The account was squared.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.10.1
+  kind: p
+  original: 6. Die Gens hat bestimmte Namen oder Reihen von Namen, die im ganzen Stamm nur sie gebrauchen darf, so daß der Name des einzelnen zugleich sagt, welcher Gens er angehört.
+  en: 6. The gens had certain distinct names or series of names, which no other gens in the whole tribe could use, so that the name of the individual indicated to what gens he belonged.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.10.2
+  kind: p
+  original: Ein Gentilname führt Gentilrechte von vornherein mit sich.
+  en: A gentile name at the same time bestowed gentile rights.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.11.1
+  kind: p
+  original: 7. Die Gens kann Fremde in sich adoptieren und sie dadurch in den ganzen Stamm aufnehmen.
+  en: 7. The gens may adopt strangers who thereby are adopted into the whole tribe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.11.2
+  kind: p
+  original: Die Kriegsgefangnen, die man nicht tötete, wurden so vermittelst Adoption in einer Gens Stammesmitglieder der Senekas und erhielten damit die vollen Gentil- und Stammesrechte.
+  en: The prisoners of war who were not killed became by adoption into a gens tribal members of the Senecas and thus received full gentile and tribal rights.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.11.3
+  kind: p
+  original: Die Adoption geschah auf Antrag einzelner Gentilgenossen, Männer, die den Fremden als Bruder resp. Schwester, Frauen, die ihn als Kind annahmen; die feierliche Aufnahme in die Gens war zur Bestätigung nötig.
+  en: The adoption took place on the motion of some gentile members, of men who accepted the stranger as a brother or sister, of women who accepted him as a child. The solemn introduction into the gens was necessary to confirm the adoption.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.11.4
+  kind: p
+  original: Oft wurden so einzelne, ausnahmsweise zusammengeschrumpfte Gentes durch Massenadoption aus einer andern Gens, mit Einwilligung dieser, neu gestärkt.
+  en: Frequently certain gentes that had shrunk exceptionally were thus strengthened by mass adoptions from another gens with the consent of the latter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.11.5
+  kind: p
+  original: Bei den Irokesen fand die feierliche Aufnahme in die Gens in öffentlicher Sitzung des Stammesrats statt, wodurch sie tatsächlich eine religiöse Zeremonie wurde.
+  en: Among the Iroquois the solemn introduction into the gens took place in a public meeting of the tribal council, whereby it actually became a religious ceremony.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.12.1
+  kind: p
+  original: 8. Spezielle religiöse Feierlichkeiten kann man bei indianischen Gentes schwerlich nachweisen; aber die religiösen Zeremonien der Indianer hängen mehr oder minder mit den Gentes zusammen.
+  en: The existence of special religious celebrations among Indian gentes can hardly be demonstrated. But the religious rites of the Indians are more or less connected with the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.12.2
+  kind: p
+  original: Bei den sechs jährlichen religiösen Festen der Irokesen wurden die Sachems und Kriegshäuptlinge der einzelnen Gentes von Amts wegen den "Glaubenshütern" zugezählt und hatten priesterliche Funktionen.
+  en: At the six annual religious festivals of the Iroquois the sachems and chiefs of the different gentes were added to the "Keepers of the Faith" and had the functions of priests.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.13.1
+  kind: p
+  original: 9. Die Gens hat einen gemeinsamen Begräbnisplatz.
+  en: 9. The gens had a common burial place.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.13.2
+  kind: p
+  original: Dieser ist bei den mitten unter Weißen eingeengten Irokesen des Staats New York jetzt verschwunden, hat aber früher bestanden.
+  en: Among the Iroquois of the State of New York, who are crowded by white men all around them, the burial place has disappeared, but it existed formerly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.13.3
+  kind: p
+  original: Bei andern Indianern besteht er noch; so bei den den Irokesen nah verwandten Tuskaroras, die, obgleich Christen, für jede Gens eine bestimmte Reihe im Kirchhof haben, so daß zwar die Mutter in derselben Reihe begraben wird wie die Kinder, aber nicht der Vater.
+  en: Among other Indians it is still in existence, e. g., among the Tuscaroras, near relatives of the Iroquois, where every gens has a row by itself in the burial place, although they are Christians. The mother is buried in the same row as her children, but not the father.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.13.4
+  kind: p
+  original: Und auch bei den Irokesen geht die ganze Gens eines Verstorbenen zum Begräbnis, besorgt das Grab, die Grabreden etc.
+  en: And among the Iroquois the whole gens of the deceased attends the funeral, prepares the grave and provides the addresses, etc.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '88'
+- id: III.14.1
+  kind: p
+  original: 10. Die Gens hat einen Rat, die demokratische Versammlung aller männlichen und weiblichen erwachsenen Gentilen, alle mit gleichem Stimmrecht.
+  en: 10. The gens had a council, the democratic assembly of all male and female gentiles of adult age, all with equal suffrage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+- id: III.14.2
+  kind: p
+  original: Dieser Rat erwählte Sachems und Kriegshäuptlinge und setzte sie ab; ebenso die übrigen "Glaubenshüter"; er beschloß über Bußgaben (Wergeld) oder Blutrache für gemordete Gentilen; er adoptierte Fremde in die Gens.
+  en: This council elected and deposed its sachems and chiefs; likewise the other "Keepers of the Faith." It deliberated on gifts of atonement or blood revenge for murdered gentiles and it adopted strangers into the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.14.3
+  kind: p
+  original: Kurz, er war die souveräne Gewalt in der Gens.
+  en: In short, it was the sovereign power in the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+- id: III.15.1
+  kind: p
+  original: Dies sind die Befugnisse einer typischen indianischen Gens.
+  en: 'The following are the rights and privileges of the typical Indian gens, according to Morgan: "All the members of an Iroquois gens were personally free, and they were bound to defend each other''s freedom; they were equal in privileges and in personal rights, the sachems and chiefs claiming no superiority; and they were a brotherhood bound together by ties of kin. Liberty, equality and fraternity, though never formulated, were cardinal principles of the gens.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+  align: '2:2'
+  review: true
+  review_reason: 2 de sentence(s) matched to 2 en sentence(s)
+- id: III.16.1
+  kind: p
+  original: '"Alle ihre Mitglieder sind freie Leute, verpflichtet, einer des andern Freiheit zu schützen; gleich in persönlichen Rechten - weder Sachems noch Kriegsführer beanspruchen irgendwelchen Vorrang; sie bilden eine Brüderschaft, verknüpft durch Blutbande.'
+  en: ''
+  joined_to: III.15.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '89'
+- id: III.16.2
+  kind: p
+  original: Freiheit, Gleichheit, Brüderlichkeit, obwohl nie formuliert, waren die Grundprinzipien der Gens, und diese war wiederum die Einheit eines ganzen gesellschaftlichen Systems, die Grundlage der organisierten indianischen Gesellschaft.
+  en: These facts are material, because the gens was the unit of a social and governmental system, the foundation upon which Indian society was organized. A structure composed of such units would of necessity bear the impress of their character, for as the unit, so the compound.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.16.3
+  kind: p
+  original: Das erklärt den unbeugsamen Unabhängigkeitssinn und die persönliche Würde des Auftretens, die jedermann bei den Indianern anerkennt."
+  en: It serves to explain that sense of independence and personal dignity universally an attribute of Indian character."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+- id: III.17.1
+  kind: p
+  original: Zur Zeit der Entdeckung waren die Indianer von ganz Nordamerika in Gentes organisiert, nach Mutterrecht.
+  en: At the time of the discovery the Indians of entire North America were organized in gentes by maternal law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+- id: III.17.2
+  kind: p
+  original: Nur in einigen Stämmen, wie den der Dakotas, waren die Gentes verfallen, und in einigen andern, Ojibwas, Omahas, waren sie nach Vaterrecht organisiert.
+  en: Only "in some tribes, as among the Dakotas, the gentes had fallen out; in others as among the Ojibwas, the Omahas and the Mayas of Yucatan, descent had been changed from the female to the male line."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+- id: III.18.1
+  kind: p
+  original: Bei sehr vielen indianischen Stämmen mit mehr als fünf oder sechs Gentes finden wir je drei, vier oder mehr Gentes zu einer besondern Gruppe vereinigt, die Morgan in getreuer Übertragung des indianischen Namens nach ihrem griechischen Gegenbild Phratrie (Brüderschaft) nennt.
+  en: Among many Indian tribes with more than five or six gentes we find three, four or more gentes united into a separate group, called phratry by Morgan in accurate translation of the Indian name by its Greek equivalent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+- id: III.18.2
+  kind: p
+  original: So haben die Senekas zwei Phratrien; die erste umfaßt die Gentes 1-4, die zweite die Gentes 5-8. Die nähere Untersuchung zeigt, daß diese Phratrien meist die ursprünglichen Gentes darstellen, in die sich der Stamm anfänglich spaltete; denn bei dem Heiratsverbot innerhalb der Gens mußte jeder Stamm notwendig mindestens zwei Gentes umfassen, um selbständig bestehn zu können.
+  en: Thus the Senecas have two phratries, the first comprising gentes one to four, the second gentes five to eight. Closer investigation shows that these phratries generally represent the original gentes that formed the tribe in the beginning. For the marriage interdict necessitated the existence of at least two gentes in a tribe in order to realize its separate existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.18.3
+  kind: p
+  original: Im Maß, wie sich der Stamm vermehrte, spaltete sich jede Gens wieder in zwei oder mehrere, die nun jede als besondre Gens erscheinen, während die ursprüngliche Gens, die alle Tochtergentes umfaßt, fortlebt als Phratrie.
+  en: As the tribe increased, every gens segmented into two or more new gentes, while the original gens comprising all the daughter gentes, lived on in the phratry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+- id: III.18.4
+  kind: p
+  original: Bei den Senekas und den meisten andern Indianern sind die Gentes der einen Phratrie Brudergentes, während die der andern ihre Vettergentes sind - Bezeichnungen, die im amerikanischen Verwandtschaftssystem, wie wir sahn, einen sehr reellen und ausdrucksvollen Sinn haben.
+  en: Among the Senecas and most of the other Indians "the gentes in the same phratry are brother gentes to each other, and cousin gentes to those of the other phratry"--terms that have a very real and expressive meaning in the American system of kinship, as we have seen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+- id: III.18.5
+  kind: p
+  original: Ursprünglich durfte auch kein Seneka innerhalb seiner Phratrie heiraten, doch ist dies längst außer Gebrauch gekommen und auf die Gens beschränkt.
+  en: Originally no Seneca was allowed to marry within his phratry, but this custom has long become obsolete and is now confined to the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+- id: III.18.6
+  kind: p
+  original: Tradition der Senekas war, daß Bär und Hirsch die beiden ursprünglichen Gentes seien, von denen die andern abgezweigt.
+  en: According to the tradition among the Senecas, the bear and the deer were the two original gentes, from which the others were formed by segmentation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '89'
+- id: III.18.7
+  kind: p
+  original: Nachdem diese neue Einrichtung einmal eingewurzelt, wurde sie nach dem Bedürfnis modifiziert; starben Gentes einer Phratrie aus, so wurden zuweilen zur Ausgleichung ganze Gentes aus andern Phratrien in jene versetzt.
+  en: After this new institution had become well established it was modified according to circumstances. If certain gentes became extinct, it sometimes happened that by mutual consent the members of one gens were transferred in a body from other phratries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 89-90
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.18.8
+  kind: p
+  original: Daher finden wir bei verschiednen Stämmen die gleichnamigen Gentes verschieden gruppiert in den Phratrien.
+  en: Hence we find the gentes of the same name differently grouped in the phratries of the different tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.1
+  kind: p
+  original: Die Funktionen der Phratrie bei den Irokesen sind teils gesellschaftliche, teils religiöse.
+  en: '"The phratry, among the Iroquois, was partly for social and partly for religious objects."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.2
+  kind: p
+  original: 1. Das Ballspiel spielen die Phratrien gegeneinander; jede schickt ihre besten Spieler vor, die übrigen sehen zu, jede Phratrie besonders aufgestellt, und wetten gegeneinander auf das Gewinnen der ihrigen.
+  en: 1. In the ball game one phratry plays against another. Each one sends its best players, the other members, upon different sides of the field, watch the game and bet against one another on the result.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.19.3
+  kind: p
+  original: '- 2. Im Stammesrat sitzen die Sachems und Kriegsführer jeder Phratrie zusammen, die beiden Gruppen einander gegenüber, jeder Redner spricht zu den Repräsentanten jeder Phratrie als zu einer besondern Körperschaft.'
+  en: 2. In the tribal council the sachems and chiefs of each phratry are seated opposite one another, every speaker addressing the representatives of each phratry as separate bodies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.4
+  kind: p
+  original: '- 3. War ein Totschlag im Stamm vorgekommen, wo Töter und Getötete nicht zu derselben Phratrie gehörten, so appellierte die verletzte Gens oft an ihre Brudergentes; diese hielten einen Phratrienrat und wandten sich an die andre Phratrie als Gesamtheit, damit diese ebenfalls einen Rat versammle zur Beilegung der Sache.'
+  en: 3. When a murder had been committed in the tribe, the slayer and the slain belonging to different phratries, the injured gens often appealed to its brother gentes. These held a phratry council which in a body addressed itself to the other phratry, in order to prevail on the latter to assemble in council and effect a condonation of the matter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.19.5
+  kind: p
+  original: Hier tritt also die Phratrie wieder als ursprüngliche Gens auf und mit größerer Aussicht auf Erfolg als die schwächere einzelne Gens, ihre Tochter.
+  en: In this case the phratry re-appears in its original gentile capacity, and with a better prospect of success than the weaker gens, its daughter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.6
+  kind: p
+  original: '- 4. Bei Todesfällen hervorragender Leute übernahm die entgegengesetzte Phratrie die Besorgung der Bestattung und der Begräbnisfeierlichkeiten, während die Phratrie des Verstorbenen als leidtragend mitging.'
+  en: 4. At the funeral of prominent persons the opposite phratry prepared the interment and the burial rites, while the phratry of the deceased attended the funeral as mourners.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.7
+  kind: p
+  original: Starb ein Sachem, so meldete die entgegengesetzte Phratrie die Erledigung des Amts dem Bundesrat der Irokesen an.
+  en: If a sachem died, the opposite phratry notified the central council of the Iroquois that the office of the deceased had become vacant.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.8
+  kind: p
+  original: '- 5. Bei der Wahl eines Sachems kam ebenfalls der Phratrienrat ins Spiel.'
+  en: 5. In electing a sachem the phratry council also came into action.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.9
+  kind: p
+  original: Bestätigung durch die Brudergentes wurde als ziemlich selbstverständlich angesehn, aber die Gentes der andern Phratrie mochten opponieren.
+  en: Endorsement by the brother gentes was generally considered a matter of fact, but the gentes of the other phratry might oppose.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.10
+  kind: p
+  original: In solchem Fall kam der Rat dieser Phratrie zusammen; hielt er die Opposition aufrecht, so war die Wahl wirkungslos.
+  en: In such a case the council of this phratry met, and if it maintained its opposition, the election was null and void.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.11
+  kind: p
+  original: '- 6. Früher hatten die Irokesen besondre religiöse Mysterien, von den Weißen medicine-lodges genannt.'
+  en: 6. Formerly the Iroquois had special religious mysteries, called medicine lodges by the white men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.12
+  kind: p
+  original: Diese wurden bei den Senekas gefeiert durch zwei religiöse Genossenschaften, mit regelrechter Einweihung für neue Mitglieder; auf jede der beiden Phratrien entfiel eine dieser Genossenschaften.
+  en: These mysteries were celebrated among the Senecas by two religious societies that had a special form of initiation for new members; each phratry was represented by one of these societies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+- id: III.19.13
+  kind: p
+  original: '- 7. Wenn, wie fast sicher, die vier linages (Geschlechter), die die vier Viertel von Tlascalá zur Zeit der Eroberung bewohnten, vier Phratrien waren, so ist damit bewiesen, daß die Phratrien wie bei den Griechen und ähnliche Geschlechtsverbände bei den Deutschen auch als militärische Einheiten galten: diese vier linages zogen in den Kampf, jede einzelne als besondre Schar, mit eigner Uniform und Fahne und unter eignem Führer.'
+  en: 7. If, as is almost certain, the four lineages occupying the four quarters of Tlascala at the time of the conquest were four phratries, then it is proved that the phratries were at the same time military units, as were the Greek phratries and similar sex organizations of the Germans. Each of these four lineages went into battle as a separate group with its special uniform and flag and its own leader.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '90'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.20.1
+  kind: p
+  original: Wie mehrere Gentes eine Phratrie, so bilden, in der klassischen Form, mehrere Phratrien einen Stamm; in manchen Fällen fehlt bei stark geschwächten Stämmen das Mittelglied, die Phratrie.
+  en: Just as several genres form a phratry so in the classical form several phratries form a tribe. In some cases the middle group, the phratry, is missing in strongly decimated tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 90-91
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.20.2
+  kind: p
+  original: Was bezeichnet nun einen Indianerstamm in Amerika?
+  en: What constitutes an Indian tribe in America?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.21.1
+  kind: p
+  original: 1. Ein eignes Gebiet und ein eigner Name.
+  en: 1. A distinct territory and a distinct name.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.21.2
+  kind: p
+  original: Jeder Stamm besaß außer dem Ort seiner wirklichen Niederlassung noch ein beträchtliches Gebiet zu Jagd und Fischfang.
+  en: Every tribe had a considerable hunting and fishing ground beside the place of its actual settlement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.21.3
+  kind: p
+  original: Darüber hinaus lag ein weiter, neutraler Landstrich, der bis ans Gebiet des nächsten Stammes reichte, bei sprachverwandten Stämmen geringer, bei nichtsprachverwandten größer war.
+  en: Beyond this territory there was a wide neutral strip of land reaching over to the boundaries of the next tribe; a smaller strip between tribes of related languages, a larger between tribes of foreign languages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.21.4
+  kind: p
+  original: Es ist dies der Grenzwald der Deutschen, die Wüste, die Cäsars Sueven um ihr Gebiet schaffen, das îsarnholt (dänisch jarnved, limes Danicus) zwischen Dänen und Deutschen, der Sachsenwald und der branibor (slawisch = Schutzwald), von dem Brandenburg seinen Namen trägt, zwischen Deutschen und Slawen.
+  en: This corresponds to the boundary forest of the Germans, the desert created by Caesar's Suevi around their territory, the isarnholt (Danish jarnved, Latin limei Danicus) between Danes and Germans, the sachsen wald (Saxon forest) and the Slavish branibor between Slavs and Germans giving the province of Brandenburg its name.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.21.5
+  kind: p
+  original: Das solchergestalt durch unsichre Grenzen ausgeschiedne Gebiet war das Gemeinland des Stamms, von Nachbarstämmen als solches anerkannt, von ihm selbst gegen Übergriffe verteidigt.
+  en: The territory thus surrounded by neutral ground was the collective property of a certain tribe, recognized as such by other tribes and defended against the invasion of others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.21.6
+  kind: p
+  original: Die Unsicherheit der Grenzen wurde meist erst praktisch nachteilig, wenn die Bevölkerung sich stark vermehrt hatte.
+  en: The disadvantage of undefined boundaries became of practical importance only after the population had increased considerably.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.21.7
+  kind: p
+  original: '- Die Stammesnamen erscheinen meist mehr zufällig entstanden als absichtlich gewählt; mit der Zeit kam es häufig vor, daß ein Stamm von den Nachbarstämmen mit einem andern als dem von ihm selbst gebrauchten bezeichnet wurde; ähnlich wie die Deutschen ihren ersten geschichtlichen Gesamtnamen, Germanen, von den Kelten auferlegt bekamen.'
+  en: The tribal names generally seem to be more the result of chance than of intentional selection. In course of time it frequently happened that a tribe designated a neighboring tribe by another name than that chosen by itself. In this manner the Germans received their first historical name from the Celts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.22.1
+  kind: p
+  original: 2. Ein besondrer, nur diesem Stamm eigentümlicher Dialekt.
+  en: 2. A distinct dialect peculiar to this tribe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.22.2
+  kind: p
+  original: In der Tat fallen Stamm und Dialekt der Sache nach zusammen; Neubildung von Stämmen und Dialekten durch Spaltung ging noch bis vor kurzem in Amerika vor sich und wird auch jetzt kaum ganz aufgehört haben.
+  en: As a matter of fact the tribe and the dialect are co-extensive. In America, the formation of new tribes and dialects by segmentation was in progress until quite recently, and doubtless it is still going on.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.22.3
+  kind: p
+  original: Wo zwei geschwächte Stämme sich zu einem verschmolzen haben, kommt es ausnahmsweise vor, daß im selben Stamm zwei nahverwandte Dialekte gesprochen werden.
+  en: Where two weak tribes amalgamated into one, there it exceptionally happened that two closely related dialects were simultaneously spoken in the same tribe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.22.4
+  kind: p
+  original: Die Durchschnittsstärke amerikanischer Stämme ist unter 2.000 Köpfen; die Tscherokesen indes sind an 26.000 stark, die größte Zahl Indianer in den Vereinigten Staaten, die denselben Dialekt sprechen.
+  en: The average strength of American tribes is less than 2,000 members. The Cherokees, however, number about 26,000, the greatest number of Indians in the United States speaking the same dialect.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.23.1
+  kind: p
+  original: 3. Das Recht, die von den Gentes erwählten Sachems und Kriegsführer feierlich einzusetzen und
+  en: 3. The right to solemnly invest the sachems and chiefs elected by the gentes, and
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.24.1
+  kind: p
+  original: 4. das Recht, sie wieder abzusetzen, auch gegen den Willen ihrer Gens.
+  en: 4. The right to depose them, even against the will of the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.24.2
+  kind: p
+  original: Da diese Sachems und Kriegsführer Mitglieder des Stammesrats sind, erklären sich diese Rechte des Stamms ihnen gegenüber von selbst.
+  en: As these sachems and chiefs are members of the tribal council, these rights of the tribe explain themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.24.3
+  kind: p
+  original: Wo sich ein Bund von Stämmen gebildet hatte und die Gesamtzahl der Stämme in einem Bundesrat vertreten war, gingen obige Rechte auf diesen über.
+  en: Where a league of tribes had been formed and all the tribes were represented in a feudal council, the latter exercised these rights.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.25.1
+  kind: p
+  original: 5. Der Besitz gemeinsamer religiöser Vorstellungen (Mythologie) und Kultusverrichtungen.
+  en: 5. The possession of common religious conceptions (mythology) and rites.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '91'
+- id: III.26.1
+  kind: p
+  original: '"Die Indianer waren in ihrer barbarischen Art ein religiöses Volk."'
+  en: '"After the fashion of barbarians the American Indians were a religious people."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+- id: III.27.1
+  kind: p
+  original: Ihre Mythologie ist noch keineswegs kritisch untersucht; sie stellten sich die Verkörperungen ihrer religiösen Vorstellungen - Geister aller Art - bereits unter menschlicher Gestalt vor, aber die Unterstufe der Barbarei, auf der sie sich befanden, kennt noch keine bildlichen Darstellungen, sogenannte Götzen.
+  en: Their mythology has not yet been critically investigated. They materialized their religious conceptions--spirits of all sorts--in human shapes, but the lower stage of barbarism in which they lived, knows nothing as yet of so-called idols.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.27.2
+  kind: p
+  original: Es ist ein in der Entwicklung zur Vielgötterei sich befindender Natur- und Elementarkultus.
+  en: It is a cult of nature and of the elements, in process of evolution to pantheism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+- id: III.27.3
+  kind: p
+  original: Die verschiednen Stämme hatten ihre regelmäßigen Feste, mit bestimmten Kultusformen, namentlich Tanz und Spielen; der Tanz besonders war ein wesentlicher Bestandteil aller religiösen Feierlichkeiten; jeder Stamm hielt die seinigen besonders ab.
+  en: The different tribes had regular festivals with prescribed forms of worship, mainly dances and games. Especially dancing was an essential part of all religious celebrations. Every tribe celebrated by itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.28.1
+  kind: p
+  original: 6. Ein Stammesrat für gemeinsame Angelegenheiten.
+  en: 6. A tribal council for public affairs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+- id: III.28.2
+  kind: p
+  original: Er war zusammengesetzt aus sämtlichen Sachems und Kriegsführern der einzelnen Gentes, ihren wirklichen, weil stets absetzbaren Vertretern; er beriet öffentlich, umgeben von den übrigen Stammesgliedern, die das Recht hatten dreinzureden und mit ihrer Ansicht gehört zu werden; der Rat entschied.
+  en: It was composed of all the sachems and chiefs of the different gentes, real representatives because they could be deposed at any moment. It deliberated in public, surrounded by the rest of the tribal members, who had a right to take part in the discussions and claim attention. The council decided.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.28.3
+  kind: p
+  original: In der Regel wurde jeder Anwesende auf Verlangen gehört, auch die Weiber konnten durch einen Redner ihrer Wahl ihre Ansicht vortragen lassen.
+  en: As a rule any one present gained a hearing on his demand. The women could also present their views by a speaker of their choice.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.28.4
+  kind: p
+  original: Bei den Irokesen mußte der endliche Beschluß einstimmig gefaßt werden, wie dies auch in manchen Beschlüssen deutscher Markgemeinden der Fall war.
+  en: Among the Iroquois the final resolution had to be passed unanimously, as was also the case in some resolutions of German mark (border) communities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+- id: III.28.5
+  kind: p
+  original: Dem Stammesrat lag ob namentlich die Regelung des Verhältnisses zu fremden Stämmen; er empfing Gesandtschaften und sandte solche ab, er erklärte Krieg und schloß Frieden.
+  en: It was the special duty of the tribal council to regulate the relations with foreign tribes. The council received and despatched legations, declared war and made peace.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.28.6
+  kind: p
+  original: Kam es zum Krieg, so wurde dieser meist von Freiwilligen geführt.
+  en: War was carried on principally by volunteers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+- id: III.28.7
+  kind: p
+  original: Im Prinzip galt jeder Stamm als im Kriegszustand befindlich mit jedem andern Stamm, mit dem er keinen ausdrücklichen Friedensvertrag geschlossen.
+  en: '"Theoretically, each tribe was at war with every other tribe with which it had not formed a treaty of peace."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+- id: III.28.8
+  kind: p
+  original: Kriegerische Auszüge gegen solche Feinde wurden meist organisiert durch einzelne hervorragende Krieger; sie gaben einen Kriegstanz, wer mittanzte, erklärte damit seine Beteiligung am Zug.
+  en: Expeditions against such enemies were generally organized by certain prominent warriors. They started a war dance, and whoever took part in it thereby declared his intention to join the expedition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.28.9
+  kind: p
+  original: Die Kolonne wurde sofort gebildet und in Bewegung gesetzt.
+  en: Ranks were formed and the march began immediately.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+- id: III.28.10
+  kind: p
+  original: Ebenso wurde die Verteidigung des angegriffnen Stammesgebiets meist durch freiwillige Aufgebote geführt.
+  en: The defense of the attacked tribal territory was also generally carried on by volunteers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+- id: III.28.11
+  kind: p
+  original: Der Auszug und die Rückkehr solcher Kolonnen gaben stets Anlaß zu öffentlichen Festlichkeiten.
+  en: The exodus and the return of such columns was always the occasion of public festivities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+- id: III.28.12
+  kind: p
+  original: Genehmigung des Stammesrats zu solchen Auszügen war nicht erforderlich und wurde weder verlangt noch gegeben.
+  en: The consent of the tribal council for such expeditions was not required, and was neither asked nor given.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+- id: III.28.13
+  kind: p
+  original: Es sind ganz die Privatkriegszüge deutscher Gefolgschaften, wie Tacitus sie uns schildert, nur daß bei den Deutschen die Gefolgschaften bereits einen ständigem Charakter angenommen haben, einen festen Kern bilden, der schon in Friedenszeiten organisiert wird und um den sich im Kriegsfall die übrigen Freiwilligen gruppieren.
+  en: This corresponds to the private war expeditions of German followers described by Tacitus. Only these German groups of followers had already assumed a more permanent character, forming a standing center organized during peace, around which the other volunteers gathered in case of war.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '92'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.28.14
+  kind: p
+  original: Solche Kriegskolonnen waren selten zahlreich; die bedeutendsten Expeditionen der Indianer, auch auf große Entfernungen, wurden von unbedeutenden Streitkräften vollführt.
+  en: Such war columns were rarely strong in numbers. The most important expeditions of the Indians, even for long distances, were undertaken by insignificant forces.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 92-93
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.28.15
+  kind: p
+  original: Traten mehrere solche Gefolgschaften zu einer großen Unternehmung zusammen, so gehorchte jede nur ihrem eignen Führer; die Einheit des Feldzugsplans wurde durch einen Rat dieser Führer gut oder schlecht gesichert.
+  en: If more than one group joined for a great expedition, every group obeyed its own leader. The uniformity of the campaign plan was secured as well as possible by a council of these leaders.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.28.16
+  kind: p
+  original: Es ist die Kriegführung der Alamannen im vierten Jahrhundert am Oberrhein, wie wir sie bei Ammianus Marcellinus geschildert finden.
+  en: This is the mode of warfare among the Allemani in the fourth century on the Upper Rhine, as described by Ammianus Marcellinus.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+- id: III.29.1
+  kind: p
+  original: 7. In einigen Stämmen finden wir einen Oberhäuptling, dessen Befugnisse indessen sehr gering sind.
+  en: 7. In some tribes we find a head chief, whose power, however, is limited.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+- id: III.29.2
+  kind: p
+  original: Es ist einer der Sachems, der in Fällen, die rasches Handeln erfordern, provisorische Maßregeln zu treffen hat bis zu der Zeit, wo der Rat sich versammeln und endgültig beschließen kann.
+  en: He is one of the sachems who has to take provisional measures in cases requiring immediate action, until the council can assemble and decide.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+- id: III.29.3
+  kind: p
+  original: Es ist ein schwacher, aber in der weitren Entwicklung meist unfruchtbar gebliebner Ansatz zu einem Beamten mit vollstreckender Gewalt; dieser hat sich vielmehr, wie sich zeigen wird, in den meisten Fällen, wo nicht überall, aus dem obersten Heerführer entwickelt.
+  en: He represents a feeble, but generally undeveloped prototype of an official with executive power. The latter, as we shall see, developed in most cases out of the highest war chief.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.30.1
+  kind: p
+  original: Über die Vereinigung im Stamm kam die große Mehrzahl der amerikanischen Indianer nicht hinaus.
+  en: The great majority of American Indians did not go beyond the league of tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+- id: III.30.2
+  kind: p
+  original: In wenig zahlreichen Stämmen, durch weite Grenzstriche voneinander geschieden, durch ewige Kriege geschwächt, besetzten sie mit wenig Menschen ein ungeheures Gebiet.
+  en: With a few tribes of small membership, separated by wide boundary tracts, weakened by unceasing warfare, they occupied an immense territory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+- id: III.30.3
+  kind: p
+  original: Bündnisse zwischen verwandten Stämmen bildeten sich hie und da aus augenblicklicher Notlage und zerfielen mit ihr.
+  en: Leagues were now and then formed by kindred tribes as the result of momentary necessity and dissolved again under more favorable conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+- id: III.30.4
+  kind: p
+  original: Aber in einzelnen Gegenden hatten sich ursprünglich verwandte Stämme aus der Zersplitterung wieder zusammengeschlossen zu dauernden Bünden und so den ersten Schritt getan zur Bildung von Nationen.
+  en: But in certain districts, tribes of the same kin had again found their way out of disbandment into permanent federations, making the first step towards the formation of nations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+- id: III.30.5
+  kind: p
+  original: In den Vereinigten Staaten finden wir die entwickeltste Form eines solchen Bundes bei den Irokesen.
+  en: In the United States we find the highest form of such a league among the Iroquois.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+- id: III.30.6
+  kind: p
+  original: 'Von ihren Sitzen westlich vom Mississippi ausziehend, wo sie wahrscheinlich einen Zweig der großen Dakota-Familie gebildet, ließen sie sich nach langer Wanderung im heutigen Staat New York nieder, in fünf Stämme geteilt: Senekas, Cayugas, Onondagas, Oneidas und Mohawks.'
+  en: 'Emigrating from their settlements west of the Mississippi, where they probably formed a branch of the great Dakota family, they settled at last after long wanderings in the present State of New York. They had five tribes: Senecas, Cayugas, Onondagas, Oneidas and Mohawks.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.30.7
+  kind: p
+  original: Sie lebten von Fisch, Wild und rohem Gartenbau, wohnten in Dörfern, die meist durch ein Pfahlwerk geschützt.
+  en: They lived on fish, venison, and the products of rough gardening, inhabiting villages protected by stockades.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+- id: III.30.8
+  kind: p
+  original: Nie über 20.000 Köpfe stark, hatten sie in allen fünf Stämmen eine Anzahl von Gentes gemeinsam, sprachen nahverwandte Dialekte derselben Sprache und besetzten nun ein zusammenhängendes Gebiet, das unter die fünf Stämme verteilt war.
+  en: Their number never exceeded 20,000, and certain gentes were common to all five tribes. They spoke closely related dialects of the same language and occupied territories contiguous to one another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.30.9
+  kind: p
+  original: Da dies Gebiet neu erobert, war gewohnheitsmäßiges Zusammenhalten dieser Stamme gegen die Verdrängten natürlich und entwickelte sich, spätestens anfangs des 15. Jahrhunderts, zu einem förmlichen "ewigen Bund", einer Eidgenossenschaft, die auch sofort im Gefühl ihrer neuen Stärke einen angreifenden Charakter annahm und auf der Höhe ihrer Macht, gegen 1675, große Landstriche ringsumher erobert und die Bewohner teils vertrieben, teils tributpflichtig gemacht hatte.
+  en: As this land was won by conquest, it was natural for these tribes to stand together against the expelled former inhabitants. This led, not later than the beginning of the fifteenth century, to a regular "eternal league," a sworn alliance that immediately assumed an aggressive character, relying on its newly won strength. About 1675, at the summit of its power, it had conquered large districts round about and partly expelled the inhabitants, partly made them tributary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '93'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.30.10
+  kind: p
+  original: Der Irokesenbund liefert die fortgeschrittenste gesellschaftliche Organisation, zu der es die Indianer gebracht, soweit sie die Unterstufe der Barbarei nicht überschritten (also mit Ausnahme der Mexikaner, Neumexikaner und Peruaner).
+  en: The Iroquois League represented the most advanced social organization attained by Indians that had not passed the lower stage of barbarism. This excludes only the Mexicans, New Mexicans and Peruvians.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 93-94
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.30.11
+  kind: p
+  original: 'Die Grundbestimmungen des Bundes waren folgende:'
+  en: 'The fundamental provisions of the league were:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.31.1
+  kind: p
+  original: 1. Ewiger Bund der fünf blutsverwandten Stämme auf Grundlage vollkommner Gleichheit und Selbständigkeit in allen innern Stammesangelegenheiten.
+  en: 1. Eternal federation of the five consanguineous tribes on the basis of perfect equality and independence in all internal tribal matters.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.31.2
+  kind: p
+  original: Diese Blutsverwandtschaft bildete die wahre Grundlage des Bundes.
+  en: This consanguinity formed the true fundament of the league.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.31.3
+  kind: p
+  original: Von den fünf Stämmen hießen drei die Vaterstämme und waren Brüder untereinander; die beiden andern hießen Sohnstämme und waren ebenfalls Bruderstämme untereinander.
+  en: Three of these tribes, called father tribes, were brothers to one another; the other two, also mutual brothers, were called son tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.31.4
+  kind: p
+  original: Drei Gentes - die ältesten - waren in allen fünf, andre drei in drei Stämmen noch lebendig vertreten, die Mitglieder jeder dieser Gentes allesamt Brüder durch alle fünf Stämme.
+  en: The three oldest gentes were represented by living members in all five tribes, and these members were all regarded as brothers. Three other gentes were still alive in three tribes, and all of their members called one another brothers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.31.5
+  kind: p
+  original: Die gemeinsame, nur dialektisch verschiedne Sprache war Ausdruck und Beweis der gemeinsamen Abstammung.
+  en: The common language, only modified by variations of dialect, was the expression and proof of their common descent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.32.1
+  kind: p
+  original: 2. Das Organ des Bundes war ein Bundesrat von 50 Sachems, alle gleich in Rang und Ansehn; dieser Rat entschied endgültig über alle Angelegenheiten des Bundes.
+  en: 2. The official organ of the league was a federal council of fifty sachems, all equal in rank and prominence. This council had the supreme decision in all federal matters.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.33.1
+  kind: p
+  original: 3. Diese 50 Sachems waren bei Stiftung des Bundes auf die Stämme und Gentes verteilt worden, als Träger neuer Ämter, ausdrücklich für Bundeszwecke errichtet.
+  en: 3. On founding this league the fifty sachems had been assigned to the different tribes and gentes as holders of new offices created especially for federal purposes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.33.2
+  kind: p
+  original: Sie wurden von den betreffenden Gentes bei jeder Erledigung neu gewählt und konnten von ihnen jederzeit abgesetzt werden; das Recht der Einsetzung in ihr Amt aber gehört dem Bundesrat.
+  en: Vacancies were filled by new elections in the gens, and the holders of these offices could be deposed at will. But the right of installation belonged to the federal council.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.34.1
+  kind: p
+  original: 4. Diese Bundessachems waren auch Sachems in ihren jedesmaligen Stämmen und hatten Sitz und Stimme im Stammesrat.
+  en: 4. These federal sachems were at the same time sachems of their tribe and had a seat and a vote in the tribal council.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.35.1
+  kind: p
+  original: 5. Alle Beschlüsse des Bundesrats mußten einstimmig gefaßt werden.
+  en: 5. All decisions of the federal council had to be unanimous.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.36.1
+  kind: p
+  original: 6. Die Abstimmung geschah nach Stämmen, so daß jeder Stamm und in jedem Stamm alle Ratsmitglieder zustimmen mußten, um einen gültigen Beschluß zu fassen.
+  en: 6. The votes were cast by tribes, so that every tribe and the council members of each tribe had to vote together in order to adopt a final resolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.37.1
+  kind: p
+  original: 7. Jeder der fünf Stammesräte konnte den Bundesrat berufen, dieser aber nicht sich selbst.
+  en: 7. Any one of the five tribes could convoke the federal council, but the council could not convene itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.38.1
+  kind: p
+  original: 8. Die Sitzungen fanden vor versammeltem Volk statt; jeder Irokese konnte das Wort ergreifen; der Rat allein entschied.
+  en: 8. Federal meetings were held publicly in the presence of the assembled people. Every Iroquois could have the word, but the final decision rested with the council.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.39.1
+  kind: p
+  original: 9. Der Bund hatte keine persönliche Spitze, keinen Chef der vollziehenden Gewalt.
+  en: 9. The league had no official head, no executive chief.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.40.1
+  kind: p
+  original: 10. Dagegen hatte er zwei oberste Kriegsführer, mit gleichen Befugnissen und gleicher Gewalt (die beiden "Könige" der Spartaner, die beiden Konsuln in Rom).
+  en: 10. It had, however, two high chiefs of war, both with equal functions and power (the two "kings" of Sparta, the two consuls of Rome).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.41.1
+  kind: p
+  original: Das war die ganze öffentliche Verfassung, unter der die Irokesen über vierhundert Jahre gelebt haben und noch leben.
+  en: This was the whole constitution, under which the Iroquois lived over four hundred years and still live.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '94'
+- id: III.41.2
+  kind: p
+  original: Ich habe sie ausführlicher nach Morgan geschildert, weil wir hier Gelegenheit haben, die Organisation einer Gesellschaft zu studieren, die noch keinen Staat kennt.
+  en: I have described it more fully after Morgan, because we have here an opportunity for studying the organization of a society that does not yet know a state.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 94-95
+- id: III.41.3
+  kind: p
+  original: Der Staat setzt eine von der Gesamtheit der jedesmal Beteiligten getrennte, besondre öffentliche Gewalt voraus, und Maurer, der mit richtigem Instinkt die deutsche Markverfassung als eine vom Staat wesentlich verschiedne wenn auch ihm großenteils später zugrunde liegende, an sich rein gesellschaftliche Institution erkennt - Maurer untersucht daher in allen seinen Schriften das allmähliche Entstehn der öffentlichen Gewalt aus und neben den ursprünglichen Verfassungen der Marken, Dörfer, Höfe und Städte.
+  en: The state presupposes a public power of coercion separated from the aggregate body of its members. Maurer, with correct intuition, recognized the constitution of the German Mark as a purely social institution, essentially different from that of a state, though furnishing the fundament on which a state constitution could be erected later on. Hence in all of his writings, he traced the gradual rise of the public power of coercion from and by the side of primordial constitutions of marks, villages, farms and towns.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.41.4
+  kind: p
+  original: Wir sehn bei den nordamerikanischen Indianern, wie ein ursprünglich einheitlicher Volksstamm sich über einen ungeheuren Kontinent allmählich ausbreitet, wie Stämme durch Spaltung zu Völkern, ganzen Gruppen von Stämmen werden, die Sprachen sich verändern, bis nicht nur sie einander unverständlich werden, sondern auch fast jede Spur der ursprünglichen Einheit verschwindet; wie daneben in den Stämmen die einzelnen Gentes sich in mehrere spalten, die alten Muttergentes als Phratrien sich erhalten und doch die Namen dieser ältesten Gentes bei weit entfernten und lange getrennten Stämmen sich gleichbleiben - der Wolf und der Bär sind Gentilnamen noch bei einer Majorität aller indianischen Stämme.
+  en: The North American Indians show how an originally united tribe gradually spreads over an immense continent; how tribes by segmentation become nations, whole groups of tribes; how languages change so that they not only become unintelligible to one another, but also lose every trace of former unity; how at the same time one gens splits up into several gentes, how the old mother gentes are preserved in the phratries and how the names of these oldest gentes still remain the same in widely distant and long separated tribes. Wolf and bear still are gentile names in a majority of all Indian tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.41.5
+  kind: p
+  original: Und auf sie alle paßt im ganzen und großen die oben geschilderte Verfassung - nur daß viele es nicht bis zum Bund verwandter Stämme gebracht haben.
+  en: And the above named constitution is essentially applicable to all of them, except that many did not reach the point of forming leagues of related tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: III.42.1
+  kind: p
+  original: Wir sehn aber auch, wie sehr - die Gens als gesellschaftliche Einheit einmal gegeben - die ganze Verfassung von Gentes, Phratrien und Stamm sich mit fast zwingender Notwendigkeit - weil Natürlichkeit - aus dieser Einheit entwickelt.
+  en: But once the gens was given as a social unit, we also see how the whole constitution of gentes, phratries and tribes developed with almost unavoidable necessity--because naturally--from the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: III.42.2
+  kind: p
+  original: Alle drei sind Gruppen verschiedner Abstufungen von Blutsverwandtschaft, jede abgeschlossen in sich und ihre eignen Angelegenheiten ordnend, jede aber auch die andre ergänzend.
+  en: All three of them are groups of differentiated consanguine relations. Each is complete in itself, arranges its own local affairs and supplements the other groups.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.42.3
+  kind: p
+  original: Und der Kreis der ihnen anheimfallenden Angelegenheiten umfaßt die Gesamtheit der öffentlichen Angelegenheiten des Barbaren der Unterstufe.
+  en: And the cycle of functions performed by them includes the aggregate of the public affairs of men in the lower stage of barbarism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: III.42.4
+  kind: p
+  original: Wo wir also bei einem Volk die Gens als gesellschaftliche Einheit vorfinden, werden wir auch nach einer ähnlichen Organisation des Stammes suchen dürfen wie die hier geschilderte; und wo hinreichende Quellen vorliegen, wie bei Griechen und Römern, werden wir sie nicht nur finden, sondern uns auch überzeugen, daß, wo die Quellen uns im Stich lassen, die Vergleichung der amerikanischen Gesellschaftsverfassung uns über die schwierigsten Zweifel und Rätsel hinweghilft.
+  en: Wherever we find the gens as the social unit of a nation, we are justified in searching for a tribal organization similar to the one described above. And whenever sufficient material is at hand, as in Greek and Roman history, there we shall not only find such an organization, but we may also be assured, that the comparison with the American sex organizations will assist us in solving the most perplexing doubts and riddles in places where the material forsakes us.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.43.1
+  kind: p
+  original: Und es ist eine wunderbare Verfassung in all ihrer Kindlichkeit und Einfachheit, diese Gentilverfassung!
+  en: How wonderful this gentile constitution is in all its natural simplicity!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '95'
+- id: III.43.2
+  kind: p
+  original: Ohne Soldaten, Gendarmen und Polizisten, ohne Adel, Könige, Statthalter, Präfekten oder Richter, ohne Gefängnisse, ohne Prozesse geht alles seinen geregelten Gang.
+  en: No soldiers, gendarmes and policemen, no nobility, kings, regents, prefects or judges, no prisons, no lawsuits, and still affairs run smoothly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 95-96
+- id: III.43.3
+  kind: p
+  original: Allen Zank und Streit entscheidet die Gesamtheit derer, die es angeht, die Gens oder der Stamm, oder die einzelnen Gentes unter sich - nur als äußerstes, selten angewandtes Mittel droht die Blutrache, von der unsre Todesstrafe auch nur die zivilisierte Form ist, behaftet mit allen Vorteilen und Nachteilen der Zivilisation.
+  en: All quarrels and disputes are settled by the entire community involved in them, either the gens or the tribe or the various gentes among themselves. Only in very rare cases the blood revenge is threatened as an extreme measure. Our capital punishment is simply a civilized form of it, afflicted with all the advantages and drawbacks of civilization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.43.4
+  kind: p
+  original: Obwohl viel mehr gemeinsame Angelegenheiten vorhanden sind als jetzt - die Haushaltung ist einer Reihe von Familien gemein und kommunistisch, der Boden ist Stammesbesitz, nur die Gärtchen sind den Haushaltungen vorläufig zugewiesen -, so braucht man doch nicht eine Spur unsres weitläufigen und verwickelten Verwaltungsapparats.
+  en: 'Not a vestige of our cumbersome and intricate system of administration is needed, although there are more public affairs to be settled than nowadays: the communistic household is shared by a number of families, the land belongs to the tribe, only the gardens are temporarily assigned to the households.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: III.43.5
+  kind: p
+  original: Die Beteiligten entscheiden, und in den meisten Fällen hat jahrhundertelanger Gebrauch bereits alles geregelt.
+  en: The parties involved in a question settle it and in most cases the hundred-year-old traditions have settled everything beforehand.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: III.43.6
+  kind: p
+  original: Arme und Bedürftige kann es nicht geben - die kommunistische Haushaltung und die Gens kennen ihre Verpflichtungen gegen Alte, Kranke und im Kriege Gelähmte.
+  en: There cannot be any poor and destitute--the communistic households and the gentes know their duties toward the aged, sick and disabled.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: III.43.7
+  kind: p
+  original: Alle sind gleich und frei - auch die Weiber.
+  en: All are free and equal--the women included.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: III.43.8
+  kind: p
+  original: Für Sklaven ist noch kein Raum, für Unterjochung fremder Stämme in der Regel auch noch nicht.
+  en: There is no room yet for slaves, nor for the subjugation of foreign tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: III.43.9
+  kind: p
+  original: Als die Irokesen um 1651 die Eries und die "Neutrale Nation" besiegt hatten, boten sie ihnen an, als Gleichberechtigte in den Bund zu treten; erst als die Besiegten dies weigerten, wurden sie aus ihrem Gebiet vertrieben.
+  en: When about 1651 the Iroquois had vanquished the Eries and the "Neutral Nation," they offered to adopt them into the league on equal terms. Only when the vanquished declined this offer they were driven out of their territory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.43.10
+  kind: p
+  original: Und welche Männer und Weiber eine solche Gesellschaft erzeugt, beweist die Bewundrung aller Weißen, die mit unverdorbnen Indianern zusammenkamen, vor der persönlichen Würde, Geradheit, Charakterstärke und Tapferkeit dieser Barbaren.
+  en: What splendid men and women were produced by such a society! All the white men who came into contact with unspoiled Indians admired the personal dignity, straightforwardness, strength of character and bravery of these barbarians.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.44.1
+  kind: p
+  original: Von der Tapferkeit haben wir ganz neuerdings in Afrika Beispiele erlebt.
+  en: We lately received proofs of such bravery in Africa.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: III.44.2
+  kind: p
+  original: Die Zulukaffern vor einigen Jahren wie die Nubier vor ein paar Monaten - beides Stämme, bei denen Gentileinrichtungen noch nicht ausgestorben - haben getan, was kein europäisches Heer tun kann.
+  en: A few years ago the Zulus, and some months ago the Nubians, both of which tribes still retain the gentile organization, did what no European army can do.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: III.44.3
+  kind: p
+  original: Nur mit Lanzen und Wurfspeeren bewaffnet, ohne Feuergewehr, sind sie im Kugelregen der Hinterlader der englischen Infanterie - der anerkannt ersten der Welt für das geschlossene Gefecht - bis an die Bajonette vorgerückt und haben sie mehr als einmal in Unordnung gebracht und selbst geworfen, trotz der kolossalen Ungleichheit der Waffen und trotzdem, daß sie gar keine Dienstzeit haben und nicht wissen, was Exerzieren ist.
+  en: Armed only with lances and spears, without any firearms, they advanced under a hail of bullets from breechloaders up to the bayonets of the English infantry--the best of the world for fighting in closed ranks--and threw them into confusion more than once, yea, even forced them to retreat in spite of the immense disparity of weapons, and in spite of the fact that they have no military service and don't know anything about drill.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: III.44.4
+  kind: p
+  original: Was sie aushalten und leisten können, beweist die Klage der Engländer, daß ein Kaffer in 24 Stunden einen längeren Weg rascher zurücklegt als ein Pferd - der kleinste Muskel springt vor, hart und gestählt, wie Peitschenschnur, sagt ein englischer Maler.
+  en: How enduring and able they are, is proved by the complaints of the English who admit that a Kaffir can cover a longer distance in twenty-four hours than a horse. The smallest muscle springs forth, hard and tough like a whiplash, says an English painter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.45.1
+  kind: p
+  original: So sahn die Menschen und die menschliche Gesellschaft aus, ehe die Scheidung in verschiedne Klassen vor sich gegangen war.
+  en: Such was human society and its members, before the division into classes had taken place.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '96'
+- id: III.45.2
+  kind: p
+  original: Und wenn wir ihre Lage vergleichen mit der der ungeheuren Mehrzahl der heutigen zivilisierten Menschen, so ist der Abstand enorm zwischen dem heutigen Proletarier und Kleinbauer und dem alten freien Gentilgenossen.
+  en: And a comparison of that social condition with the condition of the overwhelming majority of present day society shows the enormous chasm that separates our proletarian and small farmer from the free gentile of old.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 96-97
+- id: III.46.1
+  kind: p
+  original: Das ist die eine Seite.
+  en: That is one side of the question.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+- id: III.46.2
+  kind: p
+  original: Vergessen wir aber nicht, daß diese Organisation dem Untergang geweiht war.
+  en: We must not overlook, however, that this organization was doomed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+- id: III.46.3
+  kind: p
+  original: Über den Stamm ging sie nicht hinaus; der Bund der Stämme bezeichnet schon den Anfang ihrer Untergrabung, wie sich zeigen wird und wie sich schon zeigte in den Unterjochungsversuchen der Irokesen.
+  en: It did not pass beyond the tribe. The league of tribes marked the beginning of its downfall, as we shall see, and as the attempts of the Iroquois at subjugating others showed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.46.4
+  kind: p
+  original: Was außerhalb des Stammes, war außerhalb des Rechts.
+  en: Whatever went beyond the tribe, went outside of gentilism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+- id: III.46.5
+  kind: p
+  original: Wo nicht ausdrücklicher Friedensvertrag vorlag, herrschte Krieg von Stamm zu Stamm, und der Krieg wurde geführt mit der Grausamkeit, die den Menschen vor den übrigen Tieren auszeichnet und die erst später gemildert wurde durch das Interesse.
+  en: Where no direct peace treaty existed, there war reigned from tribe to tribe. And this war was carried on with the particular cruelty that distinguishes man from other animals, and that was modified later on simply by self-interest.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.46.6
+  kind: p
+  original: Die Gentilverfassung in ihrer Blüte, wie wir sie in Amerika sahen, setzte voraus eine äußerst unentwickelte Produktion, also eine äußerst dünne Bevölkerung auf weitem Gebiet; also ein fast vollständiges Beherrschtsein des Menschen von der ihm fremd gegenüberstehenden, unverstandnen äußern Natur, das sich widerspiegelt in den kindischen religiösen Vorstellungen.
+  en: The gentile constitution in its most flourishing time, such as we saw it in America, presupposed a very undeveloped state of production, hence a population thinly scattered over a wide area. Man was almost completely dominated by nature, a strange and incomprehensible riddle to him. His simple religious conceptions clearly reflect this.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.46.7
+  kind: p
+  original: 'Der Stamm blieb die Grenze für den Menschen, sowohl dem Stammesfremden als auch sich selbst gegenüber: Der Stamm, die Gens und ihre Einrichtungen waren heilig und unantastbar, waren eine von Natur gegebne höhere Macht, der der einzelne in Fühlen, Denken und Tun unbedingt Untertan blieb.'
+  en: The tribe remained the boundary line for man, as well in regard to himself as to strangers outside. The gens, the tribe and their institutions were holy and inviolate. They were a superior power instituted by nature, and the feelings, thoughts and actions of the individual remained unconditionally subject to them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: III.46.8
+  kind: p
+  original: So imposant die Leute dieser Epoche uns erscheinen, so sehr sind sie Ununterschieden einer vom andern, sie hängen noch, wie Marx sagt, an der Nabelschnur des naturwüchsigen Gemeinwesens.
+  en: Commanding as the people of this epoch appear to us, nothing distinguishes one from another. They are still attached, as Marx has it, to the navel string of the primordial community.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.46.9
+  kind: p
+  original: Die Macht dieser naturwüchsigen Gemeinwesen mußte gebrochen werden - sie wurde gebrochen.
+  en: The power of these natural and spontaneous communities had to be broken, and it was.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+- id: III.46.10
+  kind: p
+  original: Aber sie wurde gebrochen durch Einflüsse, die uns von vornherein als eine Degradation erscheinen, als ein Sündenfall von der einfachen sittlichen Höhe der alten Gentilgesellschaft.
+  en: But it was done by influences that from the very beginning bear the mark of degradation, of a downfall from the simple moral grandeur of the old gentile society.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+- id: III.46.11
+  kind: p
+  original: Es sind die niedrigsten Interessen - gemeine Habgier, brutale Genußsucht, schmutziger Geiz, eigensüchtiger Raub am Gemeinbesitz -, die die neue, zivilisierte, die Klassengesellschaft einweihen; es sind die schmählichsten Mittel - Diebstahl, Vergewaltigung, Hinterlist, Verrat, die die alte klassenlose Gentilgesellschaft unterhöhlen und zu Fall bringen.
+  en: 'The new system of classes is inaugurated by the meanest impulses: vulgar covetousness, brutal lust, sordid avarice, selfish robbery of common wealth. The old gentile society without classes is undermined and brought to fall by the most contemptible means: theft, violence, cunning, treason.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: III.46.12
+  kind: p
+  original: Und die neue Gesellschaft selbst, während der ganzen dritthalbtausend Jahre ihres Bestehns, ist nie etwas andres gewesen als die Entwicklung der kleinen Minderzahl auf Kosten der ausgebeuteten und unterdrückten großen Mehrzahl, und sie ist dies jetzt mehr als je zuvor.
+  en: And during all the thousands of years of its existence, the new society has never been anything else but the development of the small minority at the expense of the exploited and oppressed majority. More than ever this is true at present.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '97'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)

@@ -1,0 +1,34 @@
+# Cruxes in The Origin of the Family, Private Property and the State
+
+Good first Discussions. Title the thread with the citation, for example `[OF II.60.1] the world historical defeat of the female sex`.
+
+| Verse | Problem |
+|---|---|
+| `P1884.2.1` to `P1884.2.7` | The materialist programme of the book: production and reproduction of immediate life, labour on one side and the family on the other. Untermann renders "Geschlechtsbande" and "Geschlechtsverbände" as "sexual ties" and "sexual relations", which turns a claim about kinship into a claim about sex. Translate from the German; see the glossary entry "Geschlecht". The same slip recurs in III.1.2 and III.2.1 ("sex organization"). |
+| `P1884.N1.1.3` | MEW gives the publisher of Morgan's *Ancient Society* as "London, Macmillan and Co."; Untermann gives "Henry Holt & Co.". Both editions existed in 1877. Keep the German in the original column and note the difference. |
+| `P1891.9.4` to `P1891.9.6` | Bachofen's four propositions, one German sentence that Untermann turns into seven. His "Although Bachofen ... did not formulate these propositions so clearly, still he proved their correctness" covers P1891.9.5 and half of P1891.9.6, so the English is grouped by hand (see REALIGN in SOURCES.md). |
+| `P1891.11.1` to `P1891.30.3` | The long polemic against McLennan and the "English prehistoric school". Many quotations carry page references to McLennan's *Studies in Ancient History* that Untermann moves into footnotes; they are kept as `en_note`. |
+| `I.7.8`, `I.17.3` | Cannibalism as a stage. Untermann adds a note of his own (on I.17.3) disputing the claim and defending vegetarians. Translate Engels; Untermann's note stays in `en_note`, not in the modern draft. |
+| `I.2.1`, `IX.29.1` | Savagery, barbarism, civilization. Morgan's stages are technical and the whole book hangs on them. Keep them, with a note on what they mean and what they were later used to justify. See the glossary. |
+| `II.18.1` to `II.35.1` | The family forms (consanguine, Punaluan, pairing, monogamous). Later anthropology rejects most of this sequence. The modern draft states Engels's claims as his; the scholarly verdict belongs in `commentary/`. |
+| `II.30.2`, `III.44.2`, `III.44.4`, `VI.2.1` | Names for peoples. "Australneger" (II.30.2, II.32.4, II.33.3), "Rothäute" (VI.2.1, VII.28.2, IX.3.1), "Kaffer" and "Zulukaffern" (III.44.2, III.44.4) are period terms, some of them slurs today. Decide once, for the whole work, how the modern draft names these peoples and how the note records Engels's word. Note that in III.43 to III.45 Engels uses these peoples to praise the gentile constitution, not to rank them low. |
+| `II.60.1` | "Der Umsturz des Mutterrechts war die weltgeschichtliche Niederlage des weiblichen Geschlechts." One of the most quoted sentences in the library. Mutterrecht here is descent through the mother, not rule by women; do not write "matriarchy". |
+| `II.73.6` to `II.73.8` | Polygamy as a privilege of the rich in "the whole Orient", and an aside on the "Haremswirtschaft der Muhamedaner". The aside repeats European stereotypes of the time and rests on no evidence in the book. Translate it as written and say so in a note. |
+| `II.78.3` | Engels condemns Greek pederasty ("Knabenliebe") and the Ganymede myth in strong words. Translate exactly; the note can give the Greek context without taking Engels's side or arguing against it. |
+| `II.80.5` | "The first class antagonism ... coincides with the antagonism of man and woman in monogamous marriage, and the first class oppression with that of the female sex by the male." Engels adds it to a line he quotes from his and Marx's unpublished manuscript of 1846 (II.80.4). A sentence that feminist and Marxist readers argue over; neutral wording, readings in `commentary/`. |
+| `II.84.8` to `II.85.1` | Code Napoléon, article 312, quoted in French with Engels's German gloss. The Gutenberg text drops the French accents. Keep the French with a note. |
+| `II.97.11` to `II.97.16` | The modern family founded on the open or hidden domestic slavery of the wife; in the family the husband is the bourgeois and the wife the proletarian; emancipation needs women in social production. The core of the chapter. Keep "Einzelfamilie" (the separate family as economic unit) apart from "Einzelehe". |
+| `II.N2.1.1` to `II.N2.1.13` | Marx on Wagner's *Nibelungen* ("In der Urzeit war die Schwester die Frau, und das war sittlich"). A claim about prehistory, not a recommendation; the note should say so plainly. The Old Norse lines Marx and Engels cite from the *Lokasenna* (II.N2.1.9) need glosses. |
+| `III.43.1` to `III.46.12` | Engels's praise of the gentile constitution ("wunderbare Verfassung") and his statement that it had to fall. Anarchist, communist and conservative readers all quote these paragraphs for different ends. Neutral wording. |
+| `IV.20.1` to `IV.22.8` | Marx's excerpts from Grote with his own sarcastic asides in brackets ("werter Herr, nicht ideal, sondern karnal, germanice fleischlich!", IV.21.3). Keep the voices of Grote, Marx and Engels apart. |
+| `VI.16.2` | The Latin of Livy XXXIX, 19 on Fecenia Hispala. Keep the Latin with a translation in a note. |
+| `VII.14.1` to `VII.16.1` | The Old Norse lines from the *Völuspá*. Untermann prints them in a different order ("ok at boenum verdask / Munu systrungar"). Keep the Old Norse as Engels gives it and the translation from VII.15.1. |
+| `VIII.N2.1.1` | Bishop Liutprand on the eunuch trade of Verdun. A note can name the source (Liutprand's *Antapodosis*) and say how far it is trusted. |
+| `IX.20.1` | "Der Staat ist also keineswegs eine der Gesellschaft von außen aufgezwungne Macht." The definition of the state that IX.20 to IX.27 builds out. Anarchist and Marxist readers draw opposite conclusions from it; neutral wording, readings in `commentary/`. |
+| `IX.26.7` to `IX.26.15` | The democratic republic and universal suffrage as "Gradmesser der Reife der Arbeiterklasse" (IX.26.15). Untermann adds five notes of his own on US, Belgian and German suffrage (IX.24.2 to IX.26.11, his notes 40 to 44). They stay in `en_note`. |
+| `IX.27.1` to `IX.27.7` | The state is not eternal and goes "ins Museum der Altertümer, neben das Spinnrad und die bronzene Axt". Keep the image. |
+| `IX.40.1` to `IX.40.9` | Morgan's closing judgement on civilization, ending in "liberty, equality and fraternity of the ancient gentes". Engels quotes Morgan in German; translate from the German, and a note can give Morgan's English (*Ancient Society*, p. 552). |
+
+## Alignment notes
+
+Untermann splits Engels's long sentences at semicolons and colons, so most review flags are `1:2` and `1:3` (513 of 556). Check that each English group covers exactly the German verse. The ingest regrouped six runs where the English slipped; see `REALIGN` in SOURCES.md.

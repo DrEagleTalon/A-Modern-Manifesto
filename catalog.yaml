@@ -214,11 +214,11 @@
   original_language: de
   tier: A
   priority: 16
-  stage: sourced
+  stage: ready
   sources:
-    original: ["mlwerke:me21/me21_025.htm..me21_152.htm"]
+    original: ["mlwerke:me21/me21_025.htm..me21_152.htm", "mlwerke:me22/me22_211.htm (Engels's preface to the fourth edition, 1891)"]
     english: ["gutenberg:The-Origin-of-the-Family-Private-Property-and-the-State_33111"]
-  notes: English by Ernest Untermann, 1902.
+  notes: "English by Ernest Untermann (Kerr, Chicago 1902). German of the fourth edition (1892) with the 1884 readings as variants; Engels's 1884 preface is P1884 and his 1891 preface P1891 (MEW 22)."
 
 - id: woman-and-socialism
   prefix: WAS

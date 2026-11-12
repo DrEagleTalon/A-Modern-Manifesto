@@ -1,0 +1,254 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: P1884
+title_original: Vorwort zur ersten Auflage 1884
+title_en: Author's Preface to the First Edition, 1884
+author: Friedrich Engels
+date: 1884-05
+original_language: de
+anchor_language: de
+source_original: MEW 21, S. 27-29 (Dietz, Berlin 1962) via mlwerke.de; preface to the first edition (Hottingen-Zürich 1884)
+source_en: Ernest Untermann's translation (Charles H. Kerr, Chicago 1902; 1908 printing), Project Gutenberg ebook 33111 (public domain)
+verses:
+- id: P1884.0.1
+  kind: heading
+  original: Vorwort zur ersten Auflage 1884
+  en: AUTHOR'S PREFACE TO THE FIRST EDITION, 1884.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1884.1.1
+  kind: p
+  original: Die nachfolgenden Kapitel bilden gewissermaßen die Vollführung eines Vermächtnisses.
+  en: The following chapters are, in a certain sense, executing a bequest.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '27'
+- id: P1884.1.2
+  kind: p
+  original: Es war kein Geringerer als Karl Marx, der sich vorbehalten hatte, die Resultate der Morganschen Forschungen im Zusammenhang mit den Ergebnissen seiner - ich darf innerhalb gewisser Grenzen sagen unsrer - materialistischen Geschichtsuntersuchung darzustellen und dadurch erst ihre ganze Bedeutung klarzumachen.
+  en: It was no less a man than Karl Marx who had reserved to himself the privilege of displaying the results of Morgan's investigations in connection with his own materialistic conception of history--which I might call ours within certain limits. He wished thus to elucidate the full meaning of this conception.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '27'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1884.1.3
+  kind: p
+  original: Hatte doch Morgan die von Marx vor vierzig Jahren entdeckte materialistische Geschichtsauffassung in Amerika in seiner Art neu entdeckt und war von ihr, bei Vergleichung der Barbarei und der Zivilisation, in den Hauptpunkten zu denselben Resultaten geführt worden wie Marx.
+  en: For in America, Morgan had, in a manner, discovered anew the materialistic conception of history, originated by Marx forty years ago. In comparing barbarism and civilization, he had arrived, in the main, at the same results as Marx.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '27'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1884.1.4
+  kind: p
+  original: Und wie "Das Kapital" von den zünftigen Ökonomen in Deutschland jahrelang ebenso eifrig ausgeschrieben wie hartnäckig totgeschwiegen wurde, ganz so wurde Morgans "Ancient Society" behandelt von den Wortführern der "prähistorischen" Wissenschaft in England.
+  en: And just as "Capital" was zealously plagiarized and persistently passed over in silence by the professional economists in Germany, so Morgan's "Ancient Society" was treated by the spokesmen of "prehistoric" science in England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - P1884.N1
+  mew_page: '27'
+- id: P1884.1.5
+  kind: p
+  original: Meine Arbeit kann nur einen geringen Ersatz bieten für das, was meinem verstorbenen Freunde zu tun nicht mehr vergönnt war.
+  en: My work can offer only a meager substitute for that which my departed friend was not destined to accomplish.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '27'
+- id: P1884.1.6
+  kind: p
+  original: Doch liegen mir in seinen ausführlichen Auszügen aus Morgan kritische Anmerkungen vor, die ich hier wiedergebe, soweit es irgend angeht.
+  en: But in his copious extracts from Morgan, I have critical notes which I herewith reproduce as fully as feasible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '27'
+- id: P1884.2.1
+  kind: p
+  original: 'Nach der materialistischen Auffassung ist das in letzter Instanz bestimmende Moment in der Geschichte: die Produktion und Reproduktion des unmittelbaren Lebens.'
+  en: According to the materialistic conception, the decisive element of history is pre-eminently the production and reproduction of life and its material requirements.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '27'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: P1884.2.2
+  kind: p
+  original: Diese ist aber selbst wieder doppelter Art.
+  en: ''
+  joined_to: P1884.2.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '27'
+- id: P1884.2.3
+  kind: p
+  original: Einerseits die Erzeugung von Lebensmitteln, von Gegenständen der Nahrung, Kleidung, Wohnung und den dazu erforderlichen Werkzeugen; andrerseits die Erzeugung von Menschen selbst, die Fortpflanzung der Gattung.
+  en: This implies, on the one hand, the production of the means of existence (food, clothing, shelter and the necessary tools); on the other hand, the generation of children, the propagation of the species.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 27-28
+- id: P1884.2.4
+  kind: p
+  original: 'Die gesellschaftlichen Einrichtungen, unter denen die Menschen einer bestimmten Geschichtsepoche und eines bestimmten Landes leben, werden bedingt durch beide Arten der Produktion: durch die Entwicklungsstufe einerseits der Arbeit, andrerseits der Familie.'
+  en: The social institutions, under which the people of a certain historical period and of a certain country are living, are dependent on these two forms of production; partly on the development of labor, partly on that of the family.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '28'
+- id: P1884.2.5
+  kind: p
+  original: Je weniger die Arbeit noch entwickelt ist, je beschränkter die Menge ihrer Erzeugnisse, also auch der Reichtum der Gesellschaft, desto überwiegender erscheint die Gesellschaftsordnung beherrscht durch Geschlechtsbande.
+  en: The less labor is developed, and the less abundant the quantity of its production and, therefore, the wealth of society, the more society is seen to be under the domination of sexual ties.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '28'
+- id: P1884.2.6
+  kind: p
+  original: 'Unter dieser, auf Geschlechtsbande begründeten Gliederung der Gesellschaft entwickelt sich indes die Produktivität der Arbeit mehr und mehr; mit ihr Privateigentum und Austausch, Unterschiede des Reichtums, Verwertbarkeit fremder Arbeitskraft und damit die Grundlage von Klassengegensätzen: neue soziale Elemente, die im Lauf von Generationen sich abmühen, die alte Gesellschaftsverfassung den neuen Zuständen anzupassen, bis endlich die Unvereinbarkeit beider eine vollständige Umwälzung herbeiführt.'
+  en: However, under this formation based on sexual ties, the productivity of labor is developed more and more. At the same time, private property and exchange, distinctions of wealth, exploitation of the labor power of others and, by this agency, the foundation of class antagonism, are formed. These new elements of society strive in the course of time to adapt the old state of society to the new conditions, until the impossibility of harmonizing these two at last leads to a complete revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '28'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: P1884.2.7
+  kind: p
+  original: Die alte, auf Geschlechtsverbänden beruhende Gesellschaft wird gesprengt im Zusammenstoß der neu entwickelten gesellschaftlichen Klassen; an ihre Stelle tritt eine neue Gesellschaft, zusammen gefaßt im Staat, dessen Untereinheiten nicht mehr Geschlechtsverbände sondern Ortsverbände sind, eine Gesellschaft, in der die Familienordnung ganz von der Eigentumsordnung beherrscht wird und in der sich nun jene Klassengegensätze und Klassenkämpfe frei entfalten, aus denen der Inhalt aller bisherigen geschriebnen Geschichte besteht.
+  en: The old form of society founded on sexual relations is abolished in the clash with the recently developed social classes. A new society steps into being, crystallized into the state. The units of the latter are no longer sexual, but local groups; a society in which family relations are entirely subordinated to property relations, thereby freely developing those class antagonisms and class struggles that make up the contents of all written history up to the present time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '28'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: P1884.3.1
+  kind: p
+  original: Es ist das große Verdienst Morgans, diese vorgeschichtliche Grundlage unsrer geschriebnen Geschichte in ihren Hauptzügen entdeckt und wiederhergestellt und in den Geschlechtsverbänden der nordamerikanischen Indianer den Schlüssel gefunden zu haben, der uns die wichtigsten, bisher unlösbaren Rätsel der ältesten griechischen, römischen und deutschen Geschichte erschließt.
+  en: Morgan deserves great credit for rediscovering and re-establishing in its main outlines this foundation of our written history, and of finding in the sexual organizations of the North American Indians the key that opens all the unfathomable riddles of most ancient Greek, Roman and German history.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '28'
+- id: P1884.3.2
+  kind: p
+  original: Es ist aber seine Schrift kein Eintagswerk.
+  en: His book is not the work of a short day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '28'
+- id: P1884.3.3
+  kind: p
+  original: An die vierzig Jahre hat er mit seinem Stoff gerungen, bis er ihn vollständig beherrschte.
+  en: For more than forty years he grappled with the subject, until he mastered it fully.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '28'
+- id: P1884.3.4
+  kind: p
+  original: Darum aber ist auch sein Buch eins der wenigen epochemachenden Werke unsrer Zeit.
+  en: Therefore his work is one of the few epochal publications of our time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '28'
+- id: P1884.4.1
+  kind: p
+  original: In der nachfolgenden Darstellung wird der Leser im ganzen und großen leicht unterscheiden, was von Morgan herrührt und was ich hinzugesetzt.
+  en: In the following demonstrations, the reader will, on the whole, easily distinguish what originated with Morgan and what was added by myself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '28'
+- id: P1884.4.2
+  kind: p
+  original: In den geschichtlichen Abschnitten über Griechenland und Rom habe ich mich nicht auf Morgans Belege beschränkt, sondern hinzugefügt, was mir zu Gebote stand.
+  en: In the historical sections on Greece and Rome, I have not limited myself to Morgan's material, but have added as much as I could supply.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '28'
+- id: P1884.4.3
+  kind: p
+  original: Die Abschnitte über Kelten und Deutsche gehören wesentlich mir an; Morgan verfügte hier fast nur über Quellen zweiter Hand und für die deutschen Zustände - außer Tacitus - nur über die schlechten liberalen Verfälschungen des Herrn Freeman.
+  en: The sections on Celts and Germans essentially belong to me. Morgan had only sources of minor quality at his disposal, and for German conditions--aside from Tacitus--only the worthless, unbridled falsifications of Freeman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 28-29
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1884.4.4
+  kind: p
+  original: Die ökonomischen Ausführungen, die bei Morgan für seinen Zweck hinreichend, für den meinigen aber durchaus ungenügend, sind alle von mir neu bearbeitet.
+  en: The economic deductions, sufficient for Morgan's purpose, but wholly inadequate for mine, were treated anew by myself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '29'
+- id: P1884.4.5
+  kind: p
+  original: Und endlich bin ich selbstredend verantwortlich für alle Schlußfolgerungen, soweit nicht Morgan ausdrücklich zitiert wird.
+  en: And lastly I am, of course, responsible for all final conclusions, unless Morgan is expressly quoted.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '29'
+- id: P1884.N1.1.1
+  kind: note
+  original: '"Ancient Society, or Researches in the Lines of Human Progress from Savagery, through Barbarism to Civilization".'
+  en: Ancient Society or Researches in the Lines of Human Progress from Savagery, through Barbarism, to Civilization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1884.N1.1.2
+  kind: note
+  original: By Lewis H. Morgan.
+  en: By Lewis H. Morgan.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1884.N1.1.3
+  kind: note
+  original: London, Macmillan and Co., 1877.
+  en: Henry Holt & Co. 1877.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: P1884.N1.1.4
+  kind: note
+  original: Das Buch ist in Amerika gedruckt und in London merkwürdig schwer zu haben.
+  en: The book, printed in America, was singularly difficult to obtain in London.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: P1884.N1.1.5
+  kind: note
+  original: Der Verfasser ist vor einigen Jahren gestorben.
+  en: The author died a few years ago.
+  modern: ''
+  modern_status: empty
+  notes: ''

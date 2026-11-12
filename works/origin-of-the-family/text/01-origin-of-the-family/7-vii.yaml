@@ -1,0 +1,1547 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: VII
+title_original: VII. Die Gens bei Kelten und Deutschen
+title_en: CHAPTER VII. THE GENS AMONG CELTS AND GERMANS.
+author: Friedrich Engels
+date: 1884-03/05; revised 1891
+original_language: de
+anchor_language: de
+source_original: MEW 21, S. 25-173 (Dietz, Berlin 1962) via mlwerke.de; text of the fourth edition (Stuttgart 1892), 1884 readings as variants
+source_en: Ernest Untermann's translation (Charles H. Kerr, Chicago 1902; 1908 printing), Project Gutenberg ebook 33111 (public domain)
+verses:
+- id: VII.0.1
+  kind: heading
+  original: VII. Die Gens bei Kelten und Deutschen
+  en: CHAPTER VII. THE GENS AMONG CELTS AND GERMANS.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.1.1
+  kind: p
+  original: Der Raum verbietet uns, auf die noch jetzt bei den verschiedensten wilden und barbarischen Völkern in reinerer oder getrübterer Form bestehenden Gentilinstitutionen einzugehn oder auf die Spuren davon in der älteren Geschichte asiatischer Kulturvölker.
+  en: Space forbids a consideration of the gentile institutions found in a more or less pure form among the savage and barbarian races of the present day; or of the traces of such institutions, discovered in the ancient history of civilized nations in Asia.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: '1884'
+    reading: 'fehlt der folgende Text bis zu den Worten: Hier nur einige kurze Notizen...'
+    base_text: ‸ Der Raum verbietet uns, …
+  mew_page: '127'
+- id: VII.1.2
+  kind: p
+  original: Die einen oder die andern finden sich überall.
+  en: One or the other are met everywhere.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '127'
+- id: VII.1.3
+  kind: p
+  original: 'Nur ein paar Beispiele: Ehe noch die Gens erkannt war, hat der Mann, der sich die meiste Mühe gab sie mißzuverstehen, hat McLennan sie nachgewiesen und im ganzen richtig beschrieben bei Kalmüken, Tscherkessen, Samojeden und bei drei indischen Völkern: den Waralls, den Magars und den Munnipuris.'
+  en: 'A few illustrations may suffice: Even before the gens had been recognized, it was pointed out and accurately described in its main outlines by the man who took the greatest pains to misunderstand it, McLennan, who wrote of this institution among the Kalmucks, the Circassians, the Samoyeds and three Indian nations: the Warals, the Magars and the Munnipurs.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '127'
+- id: VII.1.4
+  kind: p
+  original: Neuerdings hat M. Kowalewski sie entdeckt und beschrieben bei den Pschaven, Schevsuren, Svaneten und andern kaukasischen Stämmen.
+  en: Recently it was described by M. Kovalevsky, who discovered it among the Pshavs, Shevsurs, Svanets and other Caucasian tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '127'
+- id: VII.1.5
+  kind: p
+  original: Hier nur einige kurze Notizen über das Vorkommen der Gens bei Kelten und Germanen.
+  en: A few short notes about the existence of the gens among Celts and Germans may find a place here.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '127'
+- id: VII.2.1
+  kind: p
+  original: Die ältesten erhaltenen keltischen Gesetze zeigen uns die Gens noch in vollem Leben; in Irland lebt sie wenigstens instinktiv im Volksbewußtsein noch heute, nachdem die Engländer sie gewaltsam gesprengt; in Schottland stand sie noch Mitte des vorigen Jahrhunderts in voller Blüte und erlag auch hier nur den Waffen, der Gesetzgebung und den Gerichtshöfen der Engländer.
+  en: The oldest Celtic laws preserved for us still show the gens in full bloom. In Ireland, it is alive in the popular instinct to this day, after it has been forced out of actual existence by the English. It was in full force in Scotland until the middle of the eighteenth century, and here it also succumbed only to the weapons, laws and courts of the English.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '127'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: VII.3.1
+  kind: p
+  original: Die altwalisischen Gesetze, die mehrere Jahrhunderte vor der englischen Eroberung, spätestens im 11. Jahrhundert, niedergeschrieben wurden, zeigen noch gemeinschaftlichen Ackerbau ganzer Dörfer, wenn auch nur als ausnahmsweisen Rest früherer allgemeiner Sitte; jede Familie hatte fünf Acker zur eignen Bebauung; ein Stück wurde daneben gemeinsam bebaut und der Ertrag verteilt.
+  en: The old Welsh laws, written several centuries before the English invasion, not later than the 11th century, still show collective agriculture of whole villages, although only exceptionally and as the survival of a former universal custom. Every family had five acres for its special use; another lot was at the same time cultivated collectively and its yield divided among the different families.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '127'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.3.2
+  kind: p
+  original: Daß diese Dorfgemeinden Gentes repräsentieren oder Unterabteilungen von Gentes, ist bei der Analogie von Irland und Schottland nicht zu bezweifeln, selbst wenn eine erneuerte Prüfung der walisischen Gesetze, zu der mir die Zeit fehlt (meine Auszüge sind vom Jahr 1869), dies nicht direkt beweisen sollte.
+  en: In view of Irish and Scotch analogies it cannot be doubted that these village communities represent gentes or subdivisions of gentes, even though a repeated investigation of the Welsh laws, which I cannot undertake from lack of time (my notes are from 1869), should not directly corroborate this.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 127-128
+- id: VII.3.3
+  kind: p
+  original: Was aber die walisischen Quellen, und mit ihnen die irischen, direkt beweisen, ist, daß bei den Kelten die Paarungsehe im 11. Jahrhundert noch keineswegs durch die Monogamie verdrängt war.
+  en: One thing, however, is plainly proven by the Welsh and Irish laws, namely that the pairing family had not yet given way to monogamy among the Celts of the 11th century.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.3.4
+  kind: p
+  original: In Wales wurde eine Ehe erst unlöslich, oder besser unkündbar, nach sieben Jahren.
+  en: In Wales, marriage did not become indissoluble by divorce, or rather by notification, until after seven years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.3.5
+  kind: p
+  original: Fehlten nur drei Nächte an den sieben Jahren, so konnten die Gatten sich trennen.
+  en: Even if no more than three nights were lacking to make up the seven years, a married couple could still separate.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.3.6
+  kind: p
+  original: 'Dann wurde geteilt: Die Frau teilte, der Mann wählte sein Teil.'
+  en: 'Their property was divided among them: the woman made the division, the man selected his share.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.3.7
+  kind: p
+  original: Die Möbel wurden nach gewissen, sehr humoristischen Regeln geteilt.
+  en: The furniture was divided according to certain very funny rules.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.3.8
+  kind: p
+  original: Löste der Mann die Ehe, so mußte er der Frau ihre Mitgift und einiges andre zurückgeben; war es die Frau, so erhielt sie weniger.
+  en: If the marriage was dissolved by the man, he had to return the woman's dowry and a few other articles; if the woman wished a separation, then she received less.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.3.9
+  kind: p
+  original: Von den Kindern bekam der Mann zwei, die Frau eines, und zwar das mittelste.
+  en: Of three children the man took two, the woman one, viz., the second child.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.3.10
+  kind: p
+  original: Wenn die Frau nach der Scheidung einen andern Mann nahm und der erste Mann holte sie sich wieder, so mußte sie ihm folgen, auch wenn sie schon einen Fuß im neuen Ehebett hatte.
+  en: If the woman married again after her divorce, and her first husband claimed her back, she was obliged to follow him, even if she had one foot in her new husband's bed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.3.11
+  kind: p
+  original: Waren die beiden aber sieben Jahre zusammengewesen, so waren sie Mann und Frau, auch ohne vorherige förmliche Heirat.
+  en: But if two had lived together for seven years, they were considered man and wife, even without the preliminaries of a formal marriage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.3.12
+  kind: p
+  original: Keuschheit der Mädchen vor der Heirat wurde durchaus nicht streng eingehalten oder gefordert; die hierauf bezüglichen Bestimmungen sind äußerst frivoler Natur und keineswegs der bürgerlichen Moral gemäß.
+  en: Chasteness of the girls before marriage was by no means strictly observed, nor was it required. The regulations regarding this subject are of an extremely frivolous nature and in contradiction with civilized morals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.3.13
+  kind: p
+  original: Beging eine Frau einen Ehebruch, so durfte der Mann sie prügeln (einer der drei Fälle, wo ihm dies erlaubt, sonst verfiel er in Strafe), dann aber weiter keine Genugtuung fordern, denn "für dasselbe Vergehen soll entweder Sühnung sein oder Rache, aber nicht beides zugleich".
+  en: When a woman committed adultery, her husband had a right to beat her--this was one of three cases when he could do so without incurring a penalty--but after that he could not demand any other satisfaction, for "the same crime shall either be atoned for or avenged, but not both."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.4.1
+  kind: p
+  original: 'Die Gründe, auf die hin die Frau die Scheidung verlangen durfte, ohne in ihren Ansprüchen bei der Auseinandersetzung zu verlieren, waren sehr umfassender Art: Übler Atem des Mannes genügte.'
+  en: 'The reasons that entitled a woman to a divorce without curtailing her claims to a fair settlement were of a very diverse nature: bad breath of the man was sufficient.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.4.2
+  kind: p
+  original: Das an den Stammeshäuptling oder König zu zahlende Loskaufgeld für das Recht der ersten Nacht (gobr merch, daher der mittelalterliche Name marcheta, französisch marquette) spielt eine große Rolle im Gesetzbuch.
+  en: The ransom to be paid to the chief or king for the right of the first night (gobr merch, hence the medieval name marcheta, French marquette) plays a conspicuous part in the code of laws.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.4.3
+  kind: p
+  original: Die Weiber hatten Stimmrecht in den Volksversammlungen.
+  en: The women had the right to vote in the public meetings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+- id: VII.4.4
+  kind: p
+  original: Fügen wir hinzu, daß in Irland ähnliche Verhältnisse bezeugt sind; daß dort ebenfalls Ehen auf Zeit ganz gebräuchlich und der Frau bei der Trennung genau geregelte, große Begünstigungen, sogar Entschädigung für ihre häuslichen Dienste zugesichert waren; daß dort eine "erste Frau" neben andern Frauen vorkommt und bei Erbteilungen zwischen ehelichen und unehelichen Kindern kein Unterschied gemacht wird - so haben wir ein Bild der Paarungsehe, wogegen die in Nordamerika gültige Eheform streng erscheint, wie es aber im 11. Jahrhundert bei einem Volk nicht verwundern kann, das noch zu Cäsars Zeit in der Gruppenehe lebte.
+  en: Add to this that similar conditions are vouched for in Ireland; that marriage on time was also quite the custom there, and that the women were assured of liberal and well defined privileges in case of divorce, even to the point of remuneration for domestic services; that a "first wife" existed by the side of others, and that legal and illegal children without distinction received a share of their deceased parent's property--and we have a picture of the pairing family among the Celts. The marriage laws of the American Indians seem strict in comparison to the Celtic, but this is not surprising when we remember that the Celts were still living in group marriage at Cesar's time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '128'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.5.1
+  kind: p
+  original: Die irische Gens (Sept, der Stamm heißt Clainne, Clan) wird nicht nur durch die alten Rechtsbücher, sondern auch durch die zur Verwandlung des Clanlandes in Domäne des englischen Königs hinübergesandten englischen Juristen des 17. Jahrhunderts bestätigt und beschrieben.
+  en: The Irish gens (Sept; the tribe was called clainne, clan) is confirmed and described not alone by the ancient law codes, but also by the English jurists of the 17th century who were sent across for the purpose of transforming the clan lands into royal dominions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+- id: VII.5.2
+  kind: p
+  original: Der Boden war bis zu dieser letzteren Zeit Gemeineigentum des Clans oder der Gens, soweit er nicht bereits von den Häuptlingen in ihre Privatdomäne verwandelt worden war.
+  en: Up to this time, the soil had been the collective property of the gens or the clan, except where the chiefs had already claimed it as their private dominion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+- id: VII.5.3
+  kind: p
+  original: Wenn ein Gentilgenosse starb, also eine Haushaltung einging, so nahm der Vorsteher (caput cognationis nannten ihn die englischen Juristen) eine neue Landteilung des ganzen Gebiets unter den übrigen Haushaltungen vor.
+  en: When a gentile died, and a household was thus dissolved, the gentile chief (called caput cognationis by the English jurists) made a new assignment of the whole gentile territory to the rest of the household.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+- id: VII.5.4
+  kind: p
+  original: Diese muß im ganzen nach den in Deutschland gültigen Regeln erfolgt sein.
+  en: This division of land probably took place according to such rules as were observed in Germany.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+- id: VII.5.5
+  kind: p
+  original: Noch jetzt finden sich einige - vor vierzig oder fünfzig Jahren sehr zahlreiche - Dorffluren in sog. Rundale.
+  en: Until about fifty years ago, village marks were quite frequent, and some of these so-called rundales may be found to this day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+- id: VII.5.6
+  kind: p
+  original: Die Bauern, Einzelpächter des früher der Gens gemeinsam gehörigen, vom englischen Eroberer geraubten Bodens, zahlen jeder die Pacht für sein Stück, werfen aber das Acker- und Wiesenland aller Stücke zusammen, teilen es nach Lage und Qualität in "Gewanne", wie es an der Mosel heißt, und geben jedem seinen Anteil in jedem Gewann; Moor- und Weideland wird gemeinsam genutzt.
+  en: The farmers of a rundale, individual tenants on the soil that once was the collective property of the gens, but had been confiscated by the English conquerors, each pay the rent for his respective parcel. But they all combine their lands and parcel it off according to situation and quality. These parcels, called "Gewanne" on the German river Mosel, are cultivated collectively and their yield is divided into shares. Marshland and pastures are used in common.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+  align: '1:4'
+  review: true
+  review_reason: 1 de sentence(s) matched to 4 en sentence(s)
+- id: VII.5.7
+  kind: p
+  original: Noch vor fünfzig Jahren wurde von Zeit zu Zeit, manchmal jährlich, neu umgeteilt.
+  en: Fifty years ago, new divisions were still made occasionally, sometimes annually.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+- id: VII.5.8
+  kind: p
+  original: Die Flurkarte eines solchen Rundale-Dorfes sieht ganz genauso aus wie die einer deutschen Gehöferschaft an der Mosel oder im Hochwald.
+  en: The field map of such a rundale village looks exactly like that of a German "Gehoeferschaft" (farming commune) on the Mosel or in the Hochwald.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+- id: VII.5.9
+  kind: p
+  original: Auch in den "factions" ["Parteien"] lebt die Gens fort.
+  en: The gens also survives in the "factions."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+- id: VII.5.10
+  kind: p
+  original: Die irischen Bauern teilen sich oft in Parteien, die auf scheinbar ganz widersinnigen oder sinnlosen Unterschieden beruhen, den Engländern ganz unverständlich sind und keinen andern Zweck zu haben scheinen als die beliebten solennen Prügeleien der einen Faktion gegen die andre.
+  en: The Irish farmers often form parties that seem to be founded on absolutely contradictory or senseless distinctions, quite incomprehensible to Englishmen. The only purpose of these factions is apparently to rally for the popular sport of hammering the life out of one another.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.5.11
+  kind: p
+  original: Es sind künstliche Wiederbelebungen, nachgeborner Ersatz für die zersprengten Gentes, die die Fortdauer des ererbten Gentilinstinkts in ihrer Weise dartun.
+  en: They are artificial reincarnations, modern substitutes for the dispersed gentes that demonstrate the continuation of the old gentile instinct in their own peculiar manner.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '129'
+- id: VII.5.12
+  kind: p
+  original: In manchen Gegenden sind übrigens die Gentilgenossen noch ziemlich auf dem alten Gebiet zusammen; so hatte noch in den dreißiger Jahren die große Mehrzahl der Bewohner der Grafschaft Monaghan nur vier Familiennamen, d.h. stammte aus vier Gentes oder Clans.
+  en: By the way, in some localities the gentiles are still living together on what is practically their old territory. During the thirties, for instance, the great majority of the inhabitants of the old county of Monaghan had only four family names, i. e., they were descended from four gentes or tribes (clans).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N1
+  mew_page: '129'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.6.1
+  kind: p
+  original: In Schottland datiert der Untergang der Gentilordnung von der Niederwerfung des Aufstandes von 1745.
+  en: The downfall of the gentile order in Scotland dates from the suppression of the revolt in 1745.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '130'
+- id: VII.6.2
+  kind: p
+  original: Welches Glied dieser Ordnung der schottische Clan speziell darstellt, bleibt noch zu untersuchen; daß er aber ein solches, ist unzweifelhaft.
+  en: What link of this order the Scotch clan represented remains to be investigated; that it is a link, is beyond doubt.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '130'
+- id: VII.6.3
+  kind: p
+  original: In Walter Scotts Romanen sehn wir diesen hochschottischen Clan lebendig vor uns.
+  en: Walter Scott's novels bring this Scotch highland clan vividly before our eyes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '130'
+- id: VII.6.4
+  kind: p
+  original: Er ist, sagt Morgan, "ein vortreffliches Musterbild der Gens in seiner Organisation und in seinem Geist, ein schlagendes Beispiel der Herrschaft des Gentillebens über die Gentilen...
+  en: It is, as Morgan says, "an excellent type of the gens in organization and in spirit, and an extraordinary illustration of the power of the gentile life over its members....
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '130'
+- id: VII.6.5
+  kind: p
+  original: In ihren Fehden und in ihrer Blutrache, in der Gebietsverteilung nach Clans, in ihrer gemeinsamen Bodennutzung, in der Treue der Clanglieder gegen den Häuptling und gegeneinander finden wir die überall wiederkehrenden Züge der Gentilgesellschaft...
+  en: We find in their feuds and blood revenge, in their localization by gentes, in their use of lands in common, in the fidelity of the clansman to his chief and of the members of the clan to each other, the usual and persistent features of gentile society....
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '130'
+- id: VII.6.6
+  kind: p
+  original: Die Abstammung zählte nach Vaterrecht, so daß die Kinder der Männer in den Clans blieben, während die der Weiber in die Clans ihrer Vater übertraten."
+  en: Descent was in the male line, the children of the males remaining members of the clan, while the children of its female members belonged to the clans of their respective fathers."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '130'
+- id: VII.7.1
+  kind: p
+  original: Daß aber in Schottland früher Mutterrecht herrschte, beweist die Tatsache, daß in der königlichen Familie der Pikten, nach Beda, weibliche Erbfolge galt.
+  en: The fact that matriarchal law was formerly in force in Scotland is proved by the royal family of the Picts, who according to Beda observed female lineage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '130'
+- id: VII.7.2
+  kind: p
+  original: Ja selbst ein Stück Punaluafamilie hatte sich, wie bei den Walisern, so bei den Skoten, bis ins Mittelalter bewahrt in dem Recht der ersten Nacht, das der Clanhäuptling oder der König als letzter Vertreter der früheren gemeinsamen Ehemänner bei jeder Braut auszuüben berechtigt war, sofern es nicht abgekauft wurde.
+  en: Even a survival of the Punaluan family had been preserved among the Scots, as among the Welsh. For until the middle ages, the chief of the clan or king, the last representatives of the former common husbands, had the right to claim the first night with every bride, unless a ransom was given.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T2
+    editions: '1884'
+    reading: 'folgt: Dasselbe Recht - in Nordamerika kommt es im äußersten Nordwesten vielfach vor - galt auch bei den Russen, wo die Großfürstin Olga es im zehnten Jahrhundert abschaffte.'
+    base_text: … es nicht abgekauft wurde. ‸  …
+  mew_page: '130'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.8.1
+  kind: p
+  original: Daß die Deutschen bis zur Völkerwanderung in Gentes organisiert waren, ist unzweifelhaft.
+  en: It is an indisputable fact, that the Germans were organized in gentes up to the time of the great migrations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '131'
+- id: VII.8.2
+  kind: p
+  original: Sie können das Gebiet zwischen Donau, Rhein, Weichsel und den nördlichen Meeren erst wenige Jahrhunderte vor unsrer Zeitrechnung besetzt haben; die Cimbern und Teutonen waren noch in voller Wanderung, und die Sueven fanden erst zu Cäsars Zeit feste Wohnsitze.
+  en: The territory between the Danube, the Rhine, the Vistula and the northern seas was evidently occupied by them only a few centuries before Christ. The Cimbri and Teutons were then still in full migration, and the Suebi did not settle down until Cesar's time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '131'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.8.3
+  kind: p
+  original: Von ihnen sagt Cäsar ausdrücklich, sie hatten sich nach Gentes und Verwandtschaften (gentibus cognationibusque) niedergelassen, und im Munde eines Römers der gens Julia hat dies Wort gentibus eine nicht wegzudemonstrierende bestimmte Bedeutung.
+  en: Cesar expressly states that they settled down in gentes and kins (gentibus cognatibusque), and in the mouth of a Roman of the gens Julia this term gentibus has a definite meaning, that no amount of disputation can obliterate.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '131'
+- id: VII.8.4
+  kind: p
+  original: Dies galt von allen Deutschen; selbst die Ansiedlung in den eroberten Römerprovinzen scheint noch nach Gentes erfolgt zu sein.
+  en: This holds good for all Germans. It seems that even the provinces taken by them from the Romans were settled by distribution to gentes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T3
+    editions: '1884'
+    reading: 'Der folgende Text bis zum Absatz: Wie bei Mexikanern und Griechen... (S. 132) ist die von Engels 1891 erweiterte Fassung. Er lautete 1884: geschah noch nach Gentes. Im alamannischen Volksrecht des achten Jahrhunderts wird genealogia gradezu mit Markgenossenschaft gleichbedeutend gesetzt; so daß wir hier ein deutsches Volk, und zwar wiederum Sueven, nach Geschlechtern, gentes, angesiedelt und jeder Gens einen bestimmten Bezirk zugewiesen sehn. Bei den Burgundern und Langobarden hieß die Gens fara, und die Bezeichnung für Gentilgenossen (faramanni) wird im burgundischen Volksrecht gradezu gleichbedeutend mit Burgunder gebraucht, im Gegensatz zu den romanischen Einwohnern, die natürlich nicht in den burgundischen Gentes einbegriffen waren. Die Landteilung ging also auch in Burgund nach Gentes vor sich. So löst sich die Frage wegen der faramanni, an der sich die germanischen Juristen seit hundert Jahren vergebens die Köpfe zerbrochen. Dieser Name fara für Gens hat schwerlich allgemein bei den Deutschen gegolten, obwohl wir ihn hier sowohl bei einem Volk gotischer wie bei einem andern herminonischer (hochdeutscher) Abstammung finden. Die im Deutschen für Verwandtschaft angewandten Sprachwurzeln sind sehr zahlreich und werden gleichmäßig für Ausdrücke angewandt, bei denen wir Beziehung zur Gens voraussetzen dürfen.'
+    base_text: … in den eroberten Römerprovinzen ‸ scheint noch nach Gentes …
+  mew_page: '131'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.8.5
+  kind: p
+  original: Im alamannischen Volksrecht wird bestätigt, daß das Volk auf dem eroberten Boden südlich der Donau nach Geschlechtern (genealogiae) sich ansiedelte; genealogia wird ganz in demselben Sinn gebraucht wie später Mark- oder Dorfgenossenschaft.
+  en: The Alemanian code of laws affirms that the people settled in gentes (genealogiae) on the conquered land south of the Danube. Genealogia is used in exactly the same sense as was later on Mark--or Dorfgenossenschaft (mark or village community).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '131'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.8.6
+  kind: p
+  original: Es ist neuerdings von Kowalewski die Ansicht aufgestellt worden, diese genealogiae seien die großen Hausgenossenschaften, unter die das Land verteilt worden sei und aus denen sich erst später die Dorfgenossenschaft entwickelt.
+  en: Kovalevsky recently maintained that these genealogiae were the great household communities among which the land was divided, and from which the village communities developed later on.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '131'
+- id: VII.8.7
+  kind: p
+  original: Dasselbe dürfte denn auch von der fara gelten, mit welchem Ausdruck bei Burgundern und Langobarden - also bei einem gotischen und einem herminonischen oder hochdeutschen Volksstamm - so ziemlich, wenn nicht genau dasselbe bezeichnet wird wie mit genealogia im alamannischen Rechtsbuch.
+  en: The same may be true of the fara, by which term the Burgundians and Langobards--a Gothic and a Herminonian or High German tribe--designated nearly, if not exactly, the same thing as the Alemanian genealogiae.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '131'
+- id: VII.8.8
+  kind: p
+  original: 'Was hier in Wirklichkeit vorliegt: Gens oder Hausgenossenschaft, muß noch näher untersucht werden.'
+  en: Whether this is really the gens or the household community, must be settled by further investigation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '131'
+- id: VII.9.1
+  kind: p
+  original: Die Sprachdenkmäler lassen uns im Zweifel darüber, ob bei allen Deutschen ein gemeinsamer Ausdruck für Gens bestand und welcher.
+  en: The language records leave us in doubt, whether all the Germans had a common expression for gens or not, and as to what this term was.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 131-132
+- id: VII.9.2
+  kind: p
+  original: Etymologisch entspricht dem griechischen genos, lateinischen gens das gotische kuni, mittelhochdeutsch künne, und wird auch in dem selben Sinn gebraucht.
+  en: Etymologically, the Gothic, kuni, middle High German kuenne, corresponds to the Grecian genos and the Latin gens, and is used in the same sense.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '132'
+- id: VII.9.3
+  kind: p
+  original: 'Auf die Zeiten des Mutterrechts weist zurück, daß der Name für Weib von derselben Wurzel stammt: griechisch gyne, slawisch žena, gotisch qvino, altnordisch kona, kuna.'
+  en: 'We are led back to the time of matriarchy by the terms for "woman" which are derived from the same root: Greek gyne, Slav zena, Gothic qvino, Norse kona, kuna.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '132'
+- id: VII.9.4
+  kind: p
+  original: '- Bei Langobarden und Burgundern finden wir, wie gesagt, fara, d as Grimm von einer hypothetischen Wurzel fisan, zeugen, ableitet.'
+  en: Among Langobards and Burgundians, I repeat, we find the term fara which Grimm derives from the hypothetical root fisan, to beget.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '132'
+- id: VII.9.5
+  kind: p
+  original: Ich möchte lieber auf die handgreiflichere Herleitung von faran, fahren, wandern, zurückgehn, als Bezeichnung einer fast selbstredend aus Verwandten sich zusammensetzenden, festen Abteilung des Wanderzugs, eine Bezeichnung, die im Lauf der mehrhundertjährigen Wanderung erst nach Ost, dann nach West, sich allmählich auf die Geschlechtsgenossenschaft selbst übertrug.
+  en: I should prefer to trace it to the more obvious root faran, German fahren, to ride or to wander, in order to designate a certain well defined section of the wandering corps, composed quite naturally of relatives. As a result of centuries of wanderings from West to East and back again, this term was gradually applied to the sex group itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '132'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.9.6
+  kind: p
+  original: '- Ferner gotisch sibja, angelsächsisch sib, althochdeutsch sippia, sippa, Sippe.'
+  en: There is furthermore the Gothic sibja, Anglosaxon sib, old High German sippia, sippa, High German sippe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '132'
+- id: VII.9.7
+  kind: p
+  original: Altnordisch kommt nur der Plural sifjar, die Verwandten vor; der Singular nur als Name einer Göttin, Sif.
+  en: Old Norse has only the plural sifjar, the relatives; the singular occurs only as the name of a goddess, Sif.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '132'
+- id: VII.9.8
+  kind: p
+  original: '- Und endlich kommt noch ein andrer Ausdruck im "Hildebrandslied" vor, wo Hildebrand den Hadubrand fragt, "wer sein Vater wäre unter den Männern im Volk... oder welches Geschlechtes du seist" (eddo huêlihhes cnuosles du sîs).'
+  en: Finally, another expression occurs in the Hildebrand Song, where Hildebrand asks Hadubrand "who is your father among the men of the nation... or what is your kin?" (eddo huellihhes cnuosles du sis).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '132'
+- id: VII.10.1
+  kind: p
+  original: Soweit ein gemeinsamer deutscher Name für die Gens bestanden hat, wird er wohl gotisch kuni gelautet haben; dafür spricht nicht nur die Identität mit dem entsprechenden Ausdruck der verwandten Sprachen, sondern auch der Umstand, daß von ihm das Wort kuning, König, sich herleitet, welches ursprünglich einen Gentil- oder Stammesvorsteher bedeutet.
+  en: If there was a common German term for gens, it was presumably the Gothic kuni. This is not only indicated by its identity with the corresponding term in related languages, but also by the fact that the word kuning, German Koenig, English king, is derived from it, all of which originally signified chief of gens or tribe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '132'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.10.2
+  kind: p
+  original: Sibja, Sippe, scheint außer Betracht zu kommen, wenigstens bedeutet sifjar im Altnordischen nicht nur Blutsverwandte, sondern auch Verschwägerte, umfaßt also die Angehörigen mindestens zweier Gentes; sif kann also nicht selbst der Ausdruck für Gens gewesen sein.
+  en: Sibja, German Sippe (relationship), does not appear worthy of consideration. In old Norse, at least, sifjar signifies not alone kin by blood, but also kin through marriage; hence it comprises the members of at least two gentes, and the term sif cannot have been applied to the gens itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '132'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.11.1
+  kind: p
+  original: 'Wie bei Mexikanern und Griechen war auch bei den Deutschen die Schlachtordnung, sowohl die Reiterschwadron wie die Keilkolonne des Fußvolks, nach Gentilkörperschaften gegliedert; wenn Tacitus sagt: nach Familien und Verwandtschaften, so erklärt sich dieser unbestimmte Ausdruck daher, daß zu seiner Zeit die Gens in Rom längst aufgehört hatte, eine lebendige Vereinigung zu sein.'
+  en: In the order of battle, the Germans, like the Mexicans and Greeks, arranged the horsemen as well as the wedge-like columns of the troops on foot by gentes. Tacitus' indefinite expression, "by families and kinships," is explained by the fact that at his time the gens had long ceased to be a living body in Rome. Another passage of Tacitus is decisive.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '132'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: VII.12.1
+  kind: p
+  original: 'Entscheidend ist eine Stelle bei Tacitus, wo es heißt: Der Mutterbruder sieht seinen Neffen an wie seinen Sohn, ja einige halten das Blutband zwischen mütterlichem Onkel und Neffen noch heiliger und enger als das zwischen Vater und Sohn, so daß, wenn Geiseln gefordert werden, der Schwestersohn für eine größere Garantie gilt als der eigne Sohn dessen, den man binden will.'
+  en: 'There he says: "The mother''s brother regards his nephew as his son; some even hold that the bond of blood between the maternal uncle and the nephew is more sacred and close than that between father and son, so that when persons are demanded as securities, the sister''s son is considered a better security than the natural son of the man whom they desire to place under bonds."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 132-133
+- id: VII.12.2
+  kind: p
+  original: Hier haben wir ein lebendiges Stück aus der nach Mutterrecht organisierten, also ursprünglichen Gens, und zwar als etwas die Deutschen besonders Auszeichnendes.
+  en: Here we have a living proof of the matriarchal, and hence natural, gens, and it is described as a characteristic mark of the Germans.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N2
+  mew_page: '133'
+- id: VII.12.3
+  kind: p
+  original: Wurde vom Genossen einer solchen Gens der eigne Sohn zum Pfand eines Gelöbnisses gegeben und fiel als Opfer bei Vertragsbruch des Vaters, so hatte dieser das mit sich selbst auszumachen.
+  en: If a member of such a gens gave his own son as a security for the fulfillment of a vow and this son became the victim of his father's breach of faith, that was the concern of the father alone.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '133'
+- id: VII.12.4
+  kind: p
+  original: War es aber der Schwestersohn, der geopfert wurde, so war das heiligste Gentilrecht verletzt; der nächste, zum Schutz des Knaben oder Jünglings vor allen andern verpflichtete Gentilverwandte hatte seinen Tod verschuldet; entweder durfte er ihn nicht verpfänden, oder er mußte den Vertrag halten.
+  en: But when the son of a sister was sacrificed, then the most sacred gentile law was violated. The next relative who was bound above all others to protect the boy or young man, was held responsible for his death; either he should not have given the boy in bail or he should have kept the contract.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '133'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.12.5
+  kind: p
+  original: Hätten wir sonst nicht eine Spur von Gentilverfassung bei den Deutschen, diese eine Stelle würde hinreichen.
+  en: If we had no other trace of gentile law among the Germans, this one passage would be sufficient proof of its existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T4
+    editions: '1884'
+    reading: 'fehlt der folgende Text bis zum Absatz: Im übrigen war das Mutterrecht... (S. 134)'
+    base_text: … eine Stelle würde hinreichen. ‸  …
+  mew_page: '133'
+- id: VII.13.1
+  kind: p
+  original: Noch entscheidender, weil um etwa 800 Jahre später, ist eine Stelle aus dem altnordischen Lied von der Götterdämmerung und vom Weltuntergang, der "Völuspâ".
+  en: But there is another passage in the Old Norse song of the "Dawn of the Gods" and the "End of the World," the Voeluspa, which is still stronger evidence, because it is 800 years younger.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '133'
+- id: VII.13.2
+  kind: p
+  original: 'In diesem "Gesicht der Seherin", worin, wie jetzt durch Bang und Bugge nachgewiesen, auch christliche Elemente verwoben sind, heißt es bei der Schilderung der die große Katastrophe einleitenden Zeit allgemeiner Entartung und Verderbtheit:'
+  en: 'In this "Vision of the Seeress," in which Bang and Bugge have now demonstrated the existence of Christian elements, also, the description of the time of general degeneration and corruption inaugurating the great catastrophe contains this passage:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '133'
+- id: VII.14.1
+  kind: p
+  original: Broedhr munu berjask munu systrungar ok at bönum verdask, sifjum spilla.
+  en: Broedhr munu berjask ok at boenum verdask Munu systrungar sifjum spilla.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '133'
+- id: VII.15.1
+  kind: p
+  original: '"Brüder werden sich befehden und einander zu Mördern werden, es werden Schwesterkinder die Sippe brechen."'
+  en: '"Brothers will wage war against one another and become each other''s murderers, and sisters'' children will break the bonds of blood."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '133'
+- id: VII.16.1
+  kind: p
+  original: Systrungr heißt der Sohn der Mutterschwester, und daß solche die Blutsverwandtschaft gegeneinander verleugnen, gilt dem Dichter noch als eine Steigerung selbst des Verbrechens des Brudermords.
+  en: Systrungr means the son of the mother's sister, and an abnegation of the blood kinship from that side surpasses in the eyes of the poet even the crime of fratricide.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 133-134
+- id: VII.16.2
+  kind: p
+  original: Die Steigerung liegt in dem systrungar, das die Verwandtschaft auf Mutterseite betont; stände statt dessen syskina-börn, Geschwisterkinder, oder syskina-synir, Geschwistersöhne, so böte die zweite Zeile gegen die erste keine Steigerung, sondern einen schwächenden Abstieg.
+  en: There is a deliberate climax in that systrungar, emphasizing the maternal kinship. If the term syskina-boern, brother's and sister's children, or syskina-synir, brother's and sister's sons, had been used, there would have been a weakening of the effect, instead of a climax.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '134'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.16.3
+  kind: p
+  original: Also selbst zur Wikingerzeit, wo die "Völuspâ" entstand, war die Erinnerung an das Mutterrecht in Skandinavien noch nicht verwischt.
+  en: That shows that even at the time of the Vikings, when the Voeluspa was composed, the recollection of maternal law was not yet blotted out.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '134'
+- id: VII.17.1
+  kind: p
+  original: 'Im übrigen war das Mutterrecht zu Tacitus'' Zeit wenigstens bei den ihm näher bekannten Deutschen schon dem Vaterrecht gewichen: Die Kinder erbten vom Vater; wo keine Kinder waren, die Brüder und die Onkel von Vater- und Mutterseite.'
+  en: Among the Germans with whom Tacitus was familiar maternal law had already given way to paternal lineage. The children were the next heirs of the father; in the absence of children, the brothers and uncles on both sides were next in line.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T5
+    editions: '1884'
+    reading: 'fehlt: wenigstens'
+    base_text: … zu Tacitus' Zeit wenigstens ‸ bei den ihm näher …
+  - ref: T6
+    editions: '1884'
+    reading: 'fehlt: ihm näher bekannten'
+    base_text: … den ihm näher bekannten ‸ Deutschen schon dem Vaterrecht …
+  mew_page: '134'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.17.2
+  kind: p
+  original: Die Zulassung des Mutterbruders zur Erbschaft hängt mit der Erhaltung der eben erwähnten Sitte zusammen und beweist ebenfalls, wie jung das Vaterrecht damals noch bei den Deutschen war.
+  en: The admission of the mother's brother to the inheritance is a relic of maternal law and proves that paternal law had only recently been introduced by the Germans.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '134'
+- id: VII.17.3
+  kind: p
+  original: Auch bis tief ins Mittelalter finden sich Spuren von Mutterrecht.
+  en: Traces of maternal law were preserved until late in the middle ages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '134'
+- id: VII.17.4
+  kind: p
+  original: Damals noch scheint man der Vaterschaft, namentlich bei Leibeignen, nicht recht getraut zu haben; wenn also ein Feudalherr von einer Stadt einen entlaufnen Leibeignen zurückforderte, mußte z.B. in Augsburg, Basel und Kaiserslautern die Leibeigenschaft des Verklagten beschworen werden von sechs seiner nächsten Blutsverwandten, und zwar ausschließlich von Mutterseite (Maurer, "Städteverfassung", I, S. 381).
+  en: It seems that even at this late date people still felt certain misgivings about the reliability of fatherhood, especially among serfs. For when a feudal lord demanded the return of a fugitive serf from a city, it was first required, for instance in Augsburg, Basel and Kaiserslautern, that the fact of his serfdom should be established by the oaths of six of his next blood relations, all of whom had to belong to his mother's kin. (Maurer, Staedteverfassung, I, page 381.)
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '134'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.18.1
+  kind: p
+  original: Einen ferneren Rest des eben erst absterbenden Mutterrechts bietet die dem Römer fast unbegreifliche Achtung der Deutschen vor dem weiblichen Geschlecht.
+  en: Another relic of declining matriarchy was the (from the Roman standpoint) almost inexplicable respect of the Germans for the female sex.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '134'
+- id: VII.18.2
+  kind: p
+  original: Jungfrauen aus edler Familie galten für die bindendsten Geiseln bei Verträgen mit den Deutschen; der Gedanke daran, daß ihre Frauen und Töchter in Gefangenschaft und Sklaverei fallen können, ist ihnen fürchterlich und stachelt mehr als alles andere ihren Mut in der Schlacht; etwas Heiliges und Prophetisches sehn sie in der Frau, sie hören auf ihren Rat auch in den wichtigsten Angelegenheiten, wie denn Veleda, die brukterische Priesterin an der Lippe, die treibende Seele des ganzen Bataveraufstandes war, in dem Civilis an der Spitze von Deutschen und Belgiern die ganze Römerherrschaft in Gallien erschütterte.
+  en: Young girls of noble family were considered the safest bonds to secure the keeping of contracts with Germans. In battle, nothing stimulated their courage so much as the horrible thought that their wives and daughters might be captured and carried into slavery. A woman was to them something holy and prophetical, and they listened to her advice in the most important matters. Veleda, the Bructerian priestess on the river Lippe, was the soul of the insurrection of the Batavians, in which Civilis at the head of German and Belgian tribes shook the foundations of Roman rule in Gaul.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '134'
+  align: '1:4'
+  review: true
+  review_reason: 1 de sentence(s) matched to 4 en sentence(s)
+- id: VII.18.3
+  kind: p
+  original: Im Hause scheint die Herrschaft der Frau unbestritten; sie, die Alten und Kinder haben freilich auch alle Arbeit zu besorgen, der Mann jagt, trinkt oder faulenzt.
+  en: The women held undisputed sway in the house. If we may believe Tacitus, they, together with the old men and children, had to do all the work, for the men went hunting, drank and loafed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '134'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.18.4
+  kind: p
+  original: So sagt Tacitus; da er aber nicht sagt, wer den Acker bestellt, und bestimmt erklärt, die Sklaven leisteten nur Abgaben, aber keine Fronarbeit, so wird die Masse der erwachsenen Männer doch wohl die wenige Arbeit haben tun müssen, die der Landbau erforderte.
+  en: But as Tacitus does not say who cultivated the fields, and as according to his explicit statement the slaves paid only tithes, but did not work under compulsion, it seems that the adult men would have had to do what little agricultural work was required.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '134'
+- id: VII.19.1
+  kind: p
+  original: Die Form der Ehe war, wie schon oben gesagt, eine allmählich der Monogamie sich nähernde Paarungsehe.
+  en: The form of marriage, as stated above, was the pairing family in gradual transition to monogamy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+- id: VII.19.2
+  kind: p
+  original: Strikte Monogamie war es noch nicht, da Vielweiberei der Vornehmen gestattet war.
+  en: It was not yet strict monogamy, for polygamy was permitted for the wealthy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+- id: VII.19.3
+  kind: p
+  original: Im ganzen wurde streng auf Keuschheit der Mädchen gehalten (im Gegensatz zu den Kelten), und ebenso spricht Tacitus mit einer besondern Wärme von der Unverbrüchlichkeit des Ehebandes bei den Deutschen.
+  en: Chasteness of the girls was in general carefully maintained, different from the custom of the Celts. Tacitus speaks with special ardor of the sacredness of the matrimonial bond among the Germans.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.19.4
+  kind: p
+  original: Nur Ehebruch der Frau gibt er als Scheidungsgrund an.
+  en: Adultery of the woman is alone quoted by him as a reason for a divorce.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+- id: VII.19.5
+  kind: p
+  original: Aber sein Bericht läßt hier manches lückenhaft und trägt ohnehin den den liederlichen Römern vorgehaltnen Tugendspiegel gar zu sehr zur Schau.
+  en: But his treatment of this subject leaves many a flaw and besides, it too openly holds up the mirror of virtue to the dissipated Romans.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+- id: VII.19.6
+  kind: p
+  original: 'Soviel ist sicher: Waren die Deutschen in ihren Wäldern diese ausnahmsweisen Tugendritter, so hat es nur geringer Berührung mit der Außenwelt bedurft, um sie auf das Niveau der übrigen europäischen Durchschnittsmenschen herunterzubringen; die letzte Spur der Sittenstrenge verschwand inmitten der Römerwelt noch weit rascher als die deutsche Sprache.'
+  en: 'So much is certain: Granted that the Germans were such exceptional models of virtue in their forests, it required only a short contact with the outer world to bring them down to the level of the other average Europeans. In the whirl of Roman life the last trace of pure morals disappeared even faster than the German language.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.19.7
+  kind: p
+  original: Man lese nur Gregor von Tours.
+  en: Just read Gregorius of Tours.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+- id: VII.19.8
+  kind: p
+  original: Daß in den deutschen Urwäldern nicht die raffinierte Üppigkeit der Sinnenlust herrschen konnte wie in Rom, versteht sich von selbst, und so bleibt den Deutschen auch in dieser Beziehung noch Vorzug genug vor der Römerwelt, ohne daß wir ihnen eine Enthaltsamkeit in fleischlichen Dingen andichten, die nie und nirgends bei einem ganzen Volk geherrscht hat.
+  en: It is obvious that in the primeval forests of Germany no such hyper-refined voluptuousness could exist as in Rome. That implies fully enough superiority of the Germans over the Roman world, and there is no necessity for ascribing to them a moderation and chastity that have never been the qualities of any nation as a whole.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.20.1
+  kind: p
+  original: Der Gentilverfassung entsprungen ist die Verpflichtung, die Feindschaften des Vaters oder der Verwandten ebenso zu erben wie die Freundschaften; ebenso das Wergeld, die Buße, anstatt der Blutrache, für Totschlag oder Verletzungen.
+  en: A result of gentile law is the obligation to inherit the enmities as well as the friendships of one's father and relatives; so is furthermore the displacement of blood revenge by the Wergeld, a fine to be paid in atonement of manslaughter and injuries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+- id: VII.20.2
+  kind: p
+  original: Dies Wergeld, das noch vor einem Menschenalter als eine spezifisch deutsche Institution angesehen wurde, ist jetzt bei Hunderten von Völkern als allgemeine Milderungsform der aus der Gentilordnung entspringenden Blutrache nachgewiesen.
+  en: A generation ago this Wergeld was considered a specifically German institution, but it has since been found that hundreds of nations introduced this mitigation of gentile blood revenge.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+- id: VII.20.3
+  kind: p
+  original: Wir finden es, ebenso wie die Verpflichtung zur Gastfreundschaft, unter andern bei den amerikanischen Indianern; die Beschreibung, wie die Gastfreundschaft nach Tacitus ("Germania", c. 21) ausgeübt wurde, ist fast bis in die Einzelnheiten dieselbe, die Morgan von seinen Indianern gibt.
+  en: Like the obligatory hospitality, it is found, for instance, among the American Indians. Tacitus' description of the manner in which hospitality was observed (Germania, chapt. 21) is almost identical with Morgan's.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.21.1
+  kind: p
+  original: Der heiße und endlose Streit darüber, ob die Deutschen des Tacitus das Ackerland schon endgültig aufgeteilt oder nicht und wie die betreffenden Stellen zu deuten, gehört jetzt der Vergangenheit an.
+  en: The hot and ceaseless controversy as to whether or not the Germans had already made a definite repartition of the cultivated land at Tacitus' time, and how the passages relating to this question should be interpreted, is now a thing of the past.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '135'
+- id: VII.21.2
+  kind: p
+  original: Seitdem die gemeinsame Bebauung des Ackerlands durch die Gens und später durch kommunistische Familiengemeinden, die Cäsar noch bei den Sueven bezeugt, und die ihr folgende Landzuweisung an einzelne Familien mit periodischer Neuaufteilung fast bei allen Völkern nachgewiesen, seitdem festgestellt ist, daß diese periodische Wiederverteilung des Ackerlands in Deutschland selbst stellenweise bis auf unsre Tage sich erhalten hat, ist darüber kein Wort weiter zu verlieren.
+  en: 'After the following facts had been established: that the cultivated land of nearly all nations was tilled collectively by the gens and later on by communistic family groups, a practice which Cesar still found among the Suebi; that as a result of this practice the land was re-apportioned periodically; and that this periodical repartition of the cultivated land was preserved in Germany down to our days--after such evidence we need not waste any more breath on the subject.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 135-136
+- id: VII.21.3
+  kind: p
+  original: Wenn die Deutschen von dem gemeinsamen Landbau, den Cäsar den Sueven ausdrücklich zuschreibt (geteilten oder Privatacker gibt es bei ihnen durchaus nicht, sagt er), in den 150 Jahren bis zu Tacitus übergegangen waren zur Einzelbebauuung mit jährlicher Neuverteilung des Bodens, so ist das wahrlich Fortschritt genug; der Übergang von jener Stufe zum vollen Privateigentum am Boden während jener kurzen Zwischenzeit und ohne jede fremde Einmischung schließt eine einfache Unmöglichkeit ein.
+  en: A transition within 150 years from collective cultivation, such as Cesar expressly attributes to the Suebi, to individual cultivation with annual repartition of the soil, such as Tacitus found among the Germans, is surely progress enough for any one. The further transition from this stage to complete private ownership of land during such a short period and without any external intervention would involve an absolute impossibility.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '136'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.21.4
+  kind: p
+  original: 'Ich lese also im Tacitus nur, was er mit dürren Worten sagt: Sie wechseln (oder teilen neu um) das bebaute Land jedes Jahr, und es bleibt Gemeinland genug dabei übrig.'
+  en: 'Hence I can only read in Tacitus what he states in so many words: They change (or re-divide) the cultivated land every year, and enough land is left for common use.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '136'
+- id: VII.21.5
+  kind: p
+  original: Es ist die Stufe des Ackerbaus und der Bodenaneignung, die der damaligen Gentilverfassung der Deutschen genau entspricht.
+  en: It is the stage of agriculture and appropriation of the soil which exactly tallies with the contemporaneous gentile constitution of the Germans.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T7
+    editions: '1884'
+    reading: 'fehlt der folgende Text bis zum Absatz: Während bei Cäsar... (S. 137)'
+    base_text: … der Deutschen genau entspricht. ‸  …
+  mew_page: '136'
+- id: VII.22.1
+  kind: p
+  original: Den vorstehenden letzten Absatz lasse ich unverändert, wie er in den früheren Auflagen steht.
+  en: I leave the preceding paragraph unchanged, just as it stood in former editions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '136'
+- id: VII.22.2
+  kind: p
+  original: Inzwischen hat sich die Frage anders gedreht.
+  en: Meantime the question has assumed another aspect.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '136'
+- id: VII.22.3
+  kind: p
+  original: Seit dem von Kowalewski (vgl. oben S. 44) nachgewiesenen weitverbreiteten, wo nicht allgemeinen Vorkommen der patriarchalischen Hausgenossenschaft als Zwischenstufe zwischen der mutterrechtlichen kommunistischen und der modernen isolierten Familie fragt es sich nicht mehr, wie noch zwischen Maurer und Waitz, um Gemeineigentum oder Privateigentum am Boden, sondern um die Form des Gemeineigentums.
+  en: Since Kovalevsky has demonstrated that the patriarchal household community existed nearly everywhere, perhaps even everywhere, as the connecting link between the matriarchal communistic and the modern isolated family, the question is no longer "Collective property or private property?" as discussed between Maurer and Waitz, but "What was the form of that collective property?"
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '136'
+- id: VII.22.4
+  kind: p
+  original: Daß zur Zeit des Cäsar bei den Sueven nicht nur Gemeineigentum, sondern auch gemeinsame Bebauung für gemeinsame Rechnung bestand, darüber ist kein Zweifel.
+  en: Not alone is there no doubt whatever, that the Suebi were the collective owners of their land at Cesar's time, but also that they tilled the soil collectively.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '136'
+- id: VII.22.5
+  kind: p
+  original: Ob die wirtschaftliche Einheit die Gens war oder die Hausgenossenschaft oder eine zwischen beiden liegende kommunistische Verwandtschaftsgruppe, oder ob je nach den Bodenverhältnissen alle drei Gruppen vorkamen, darüber wird sich noch lange streiten lassen.
+  en: The questions, whether their economic unit was the gens, or the household, or an intermediate communistic group, or whether all three of these groups existed at the same time as a result of different local conditions, may remain undecided for a long while yet.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '136'
+- id: VII.22.6
+  kind: p
+  original: Nun aber behauptet Kowalewski, der von Tacitus geschilderte Zustand habe nicht die Mark- oder Dorfgenossenschaft, sondern die Hausgenossenschaft zur Voraussetzung; erst aus dieser letzteren habe sich dann viel später, infolge des Anwachsens der Bevölkerung, die Dorfgenossenschaft entwickelt.
+  en: Kovalevsky maintains that the conditions described by Tacitus were not founded on the mark or village community, but on the household community, which developed much later into the village community by the growth of the population.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '136'
+- id: VII.23.1
+  kind: p
+  original: Hiernach hätten die Ansiedlungen der Deutschen auf dem zur Römerzeit von ihnen besetzten wie auf dem den Römern später abgenommenen Gebiet nicht aus Dörfern bestanden, sondern aus großen Familiengenossenschaften, die mehrere Generationen umfaßten, eine entsprechende Landstrecke unter Bebauung nahmen und das umliegende Ödland mit den Nachbarn als gemeine Mark nutzten.
+  en: Hence the settlements of the Germans on the territory they occupied at the time of the Romans, and on territory later taken by them from the Romans, would not have consisted of villages, but of large co-operative families comprising several generations, who cultivated a sufficient piece of land and used the surrounding wild land in common with their neighbors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '136'
+- id: VII.23.2
+  kind: p
+  original: 'Die Stelle des Tacitus vom Wechseln des bebauten Landes wäre dann in der Tat im agronomischen Sinn zu fassen: Die Genossenschaft habe jedes Jahr eine andre Strecke umgeackert und das Ackerland des Vorjahrs brachliegen oder wieder ganz verwildern lassen.'
+  en: If this was the case, then the passage in Tacitus regarding the changing of the cultivated land would indeed have an agronomic meaning, viz., that the co-operative household cultivated a different piece of land every year, and the land cultivated during the previous year was left untilled or entirely abandoned.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 136-137
+- id: VII.23.3
+  kind: p
+  original: Bei der dünnen Bevölkerung sei dann immer noch Ödland genug übriggeblieben, um jeden Streit um Landbesitz unnötig zu machen.
+  en: The scarcity of the population would have left enough spare wild lands to make all dispute about land unnecessary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+- id: VII.23.4
+  kind: p
+  original: Erst nach Jahrhunderten, als die Kopfzahl der Hausgenossen eine solche Stärke erreicht, daß gemeinsame Wirtschaft unter den damaligen Produktionsbedingungen nicht mehr möglich, hätten sie sich aufgelöst; die bisher gemeinsamen Äcker und Wiesen seien in der bekannten Weise unter die sich nunmehr bildenden Einzelhaushaltungen verteilt worden, anfangs auf Zeit, später ein für allemal, während Wald, Weide und Gewässer gemeinsam blieben.
+  en: Only after the lapse of centuries, when the members of the family had increased so that the collective cultivation became incompatible with the prevailing conditions of production, the household communities were dissolved. The former common fields and meadows were then divided in the well-known manner among the various individual families that had now formed. The division of farm lands was first periodical, but later final, while forest, pasture and watercourses remained common property.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: VII.24.1
+  kind: p
+  original: Für Rußland scheint dieser Entwicklungsgang historisch vollständig nachgewiesen.
+  en: It seems that this process of development has been fully established for Russia by historical investigation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+- id: VII.24.2
+  kind: p
+  original: Was Deutschland und in zweiter Linie die übrigen germanischen Länder betrifft, so ist nicht zu leugnen, daß diese Annahme in vieler Beziehung die Quellen besser erklärt und Schwierigkeiten leichter löst als die bisherige, die die Dorfgemeinschaft bis zu Tacitus zurückreichen läßt.
+  en: As for Germany and, in the second place, for other German countries, it cannot be denied that this view affords in many instances a better interpretation of historical authorities and a readier solution of difficulties than the idea of tracing the village community to the time of Tacitus.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+- id: VII.24.3
+  kind: p
+  original: Die ältesten Dokumente z.B. des Codex Laureshamensis erklären sich im ganzen weit besser mit Hülfe der Hausgenossenschaft als der Dorfmarkgenossenschaft.
+  en: The oldest documents, e. g. of the Codex Laureshamensis, are easier explained by the help of the household than of the village community.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+- id: VII.24.4
+  kind: p
+  original: Andrerseits eröffnet sie wieder neue Schwierigkeiten und neue, erst zu lösende Fragen.
+  en: On the other hand, new difficulties now arise and new questions pose themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+- id: VII.24.5
+  kind: p
+  original: Hier können nur neue Untersuchungen Entscheidung bringen; ich kann jedoch nicht leugnen, daß die Zwischenstufe der Hausgenossenschaft auch für Deutschland, Skandinavien und England sehr viele Wahrscheinlichkeit für sich hat.
+  en: It will require further investigations to arrive at definite conclusions. However, I cannot deny that the probability is very much in favor of the intermediate stage of the household community.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+  en_note: 'Untermann''s note [29]: The household community is still a distinct stage of production in Georgia (South Russia). The northern boundary of Georgia is the Caucasus. The Georgians, a people of high intelligence, have for centuries maintained their independence against Persians, Arabs, Turcs and Tartars. Dr. Philipp Gogitshayshvili gives the following interesting description of their condition in an article, entitled "Das Gewerbe in Georgien" (Zeitschrift fuer die gesammte Staatswissenschaft, Ergaenzungsheft I., Tuebingen, 1901). "The Swanians (a district of Georgia is called Swania) have all the necessities of life. They weave their own clothing, make their own weapons, powder and even silver, and gold ornaments. There is no modern trading.... They are acquainted with exchange, but only of products for products. Money does not circulate and there are neither shops nor markets.... There is not a single beggar, not a single man who asks for charity. With the exception of iron, salt and chintz, the Swanians produce all they need themselves. They prepare their linen from hemp, their clothing from skins of wild animals and wool, their footwear from hides and leather. They make feltcaps, household goods, weapons, saddles, bridles and agricultural implements."'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.25.1
+  kind: p
+  original: Während bei Cäsar die Deutschen teils eben erst zu festen Wohnsitzen gekommen sind, teils noch solche suchen, haben sie zu Tacitus' Zeit schon ein volles Jahrhundert der Ansässigkeit hinter sich; dementsprechend ist der Fortschritt m der Produktion des Lebensunterhalts unverkennbar.
+  en: While the Germans of Cesar's time had either just taken up settled abodes, or were still looking for them, they had been settled for a full century at the time of Tacitus. As a result there is a manifest progress in the production of necessities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.25.2
+  kind: p
+  original: Sie wohnen in Blockhäusern; ihre Kleidung ist noch sehr waldursprünglich; grober Wollenmantel, Tierfelle, für Frauen und Vornehme leinene Unterkleider.
+  en: The Germans lived in block houses; their clothing was still as primitive as their forests, consisting of rough woolen cloaks, animal skins and linen underclothing for the women and the wealthy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+- id: VII.25.3
+  kind: p
+  original: Ihre Nahrung ist Milch, Fleisch, wilde Früchte und, wie Plinius hinzufügt, Haferbrei (noch jetzt keltische Nationalkost in Irland und Schottland).
+  en: They lived on milk, meat, wild fruit and, as Pliny adds, oatmeal porridge which is the Celtic national dish in Ireland and Scotland to-day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+- id: VII.25.4
+  kind: p
+  original: 'Ihr Reichtum besteht in Vieh: Dies aber ist von schlechter Race, die Rinder klein, unansehnlich, ohne Hörner; die Pferde kleine Ponies und keine Renner.'
+  en: Their wealth consisted in cattle of an inferior race. The kine were small, of unattractive appearance and without horns; the horses, little ponies, were not fast runners.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.25.5
+  kind: p
+  original: Geld wurde selten und wenig gebraucht, nur römisches.
+  en: Money, Roman coin only, was rarely used.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+- id: VII.25.6
+  kind: p
+  original: Gold und Silber verarbeiteten sie nicht und achteten seiner nicht, Eisen war selten und scheint wenigstens bei den Stämmen an Rhein und Donau fast nur eingeführt, nicht selbstgewonnen zu sein.
+  en: They did not make ornaments of gold and silver, nor did they value these metals. Iron was scarce and, at least among the tribes on the Rhine and the Danube, was apparently only imported, not mined by themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '137'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.25.7
+  kind: p
+  original: Die Runenschrift (griechischen oder lateinischen Buchstaben nachgeahmt) war nur als Geheimschrift bekannt und wurde nur zu religiöser Zauberei gebraucht.
+  en: The Runen script (imitations of Greek and Latin letters) was only used as a cipher and exclusively for religious sorcery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 137-138
+- id: VII.25.8
+  kind: p
+  original: Menschenopfer waren noch im Gebrauch.
+  en: Human sacrifices were still in vogue.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+- id: VII.25.9
+  kind: p
+  original: Kurz, wir haben hier ein Volk vor uns, das sich soeben aus der Mittelstufe der Barbarei auf die Oberstufe erhoben hatte.
+  en: In short, they were a nation just emerged out of the middle stage of barbarism into the upper stage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+- id: VII.25.10
+  kind: p
+  original: Während aber die an die Römer unmittelbar angrenzenden Stämme durch die erleichterte Einfuhr römischer Industrieprodukte an der Entwicklung einer selbständigen Metall- und Textilindustrie verhindert wurden, bildete sich eine solche im Nordosten, an der Ostsee, ganz unzweifelhaft aus.
+  en: But while the tribes whose immediate contact with the Romans facilitated the import of Roman products, were thereby prevented from acquiring a metal and textile industry of their own, there is not the least doubt that the tribes of the Northeast, on the Baltic, developed these industries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+- id: VII.25.11
+  kind: p
+  original: Die in den schleswigschen Mooren gefundenen Rüstungsstücke - langes Eisenschwert, Kettenpanzer, Silberhelm etc., mit römischen Münzen vom Ende des zweiten Jahrhunderts - und die durch die Völkerwanderung verbreiteten deutschen Metallsachen zeigen einen ganz eignen Typus von nicht geringer Ausbildung, selbst wo sie sich an ursprünglich römische Muster anlehnen.
+  en: The pieces of armor found in the bogs of Sleswick--a long iron sword, a coat of mail, a silver helmet, etc., together with Roman coins from the close of the second century--, and the German metal ware spread by the migrations represent a peculiar type of a superior finish, even such as were modeled after Roman originals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+- id: VII.25.12
+  kind: p
+  original: Die Auswanderung in das zivilisierte Römerreich machte dieser einheimischen Industrie überall ein Ende, außer in England.
+  en: With the exception of England, the emigration into the civilized Roman empire everywhere put an end to this home industry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+- id: VII.25.13
+  kind: p
+  original: Wie einheitlich diese Industrie entstanden und fortgebildet war, zeigen z.B. die bronzenen Spangen; die in Burgund, in Rumänien, am Asowschen Meer gefundenen könnten mit englischen und schwedischen aus derselben Werkstatt hervorgegangen sein und sind ebenso unbezweifelt germanischen Ursprungs.
+  en: How simultaneously this industry arose and developed, is shown e. g. by the bronze spangles. The specimens found in Burgundy, in Roumania and on the Sea of Asow, might have been manufactured in the same shop with those found in England or Sweden and are of undoubted German origin.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.26.1
+  kind: p
+  original: Der Oberstufe der Barbarei entspricht auch die Verfassung.
+  en: The German constitution was also in keeping with the upper stage of barbarism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+- id: VII.26.2
+  kind: p
+  original: Allgemein bestand nach Tacitus der Rat der Vorsteher (principes), der geringere Sachen entschied, wichtigere aber für die Entscheidung der Volksversammlung vorbereitete; diese selbst besteht auf der Unterstufe der Barbarei, wenigstens da, wo wir sie kennen, bei den Amerikanern, nur erst für die Gens, noch nicht für den Stamm oder den Stämmebund.
+  en: According to Tacitus, the council of chiefs (principes) universally decided matters of minor importance and prepared important matters for the decision of the public meetings. So far as we know anything of the public meeting in the lower stage of barbarism, viz., among the American Indians, it was only held by gentes, not by tribes or leagues of tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.26.3
+  kind: p
+  original: Die Vorsteher (principes) scheiden sich noch scharf von den Kriegsführern (duces), ganz wie bei Irokesen.
+  en: The chiefs of peace (principes) were still sharply distinguished from the chiefs of war (duces), just as among the Iroquois.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+- id: VII.26.4
+  kind: p
+  original: Erstere leben schon zum Teil von Ehrengeschenken an Vieh, Korn etc. von den Stammesgenossen; sie werden, wie in Amerika, meist aus derselben Familie gewählt; der Übergang zum Vaterrecht begünstigt, wie in Griechenland und Rom, die allmähliche Verwandlung der Wahl in Erblichkeit und damit die Bildung einer Adelsfamilie in jeder Gens.
+  en: The peace chiefs were already living in part on honorary donations of the gentiles, such as cattle, grain, etc. They were generally elected from the same family, analogous to America. The transition to paternal law favored, as in Greece and Rome, the gradual transformation of office by election into hereditary office. A "noble" family was thus gradually raised in each gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: VII.26.5
+  kind: p
+  original: Dieser alte, sogenannte Stammesadel ging meist unter in der Völkerwanderung oder doch bald nachher.
+  en: Most of this hereditary nobility came to grief during the migrations or shortly after.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+- id: VII.26.6
+  kind: p
+  original: Die Heerführer wurden ohne Rücksicht auf Abstammung, bloß nach der Tüchtigkeit gewählt.
+  en: The military leaders were elected solely on their merits.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+- id: VII.26.7
+  kind: p
+  original: Sie hatten wenig Gewalt und mußten durchs Beispiel wirken; die eigentliche Disziplinargewalt beim Heer legt Tacitus ausdrücklich den Priestern bei.
+  en: They had little power and were obliged to rely on the force of their example. The actual disciplinary power in the army was held by the priests, as Tacitus implicitly states.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.26.8
+  kind: p
+  original: Die wirkliche Macht lag bei der Volksversammlung.
+  en: The public meeting was the real executive.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+- id: VII.26.9
+  kind: p
+  original: 'Der König oder Stammesvorsteher präsidiert; das Volk entscheidet - nein: durch Murren; ja: durch Akklamation und Waffenlärm.'
+  en: The king or chief of the tribe presided. The people decided. A murmur signified "No," acclamation and clanging of weapons meant "Yes."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '138'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: VII.26.10
+  kind: p
+  original: Sie ist zugleich Gerichtsversammlung; hier werden Klagen vorgebracht und abgeurteilt, hier Todesurteile gefällt, und zwar steht der Tod nur auf Feigheit, Volksverrat und unnatürlicher Wollust.
+  en: The public meeting was at the same time a court of justice. Complaints were here brought forth and decided, and death sentences pronounced. Only cowardice, treason and unnatural lust were capital crimes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 138-139
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: VII.26.11
+  kind: p
+  original: Auch in den Gentes und andern Unterabteilungen richtet die Gesamtheit unter Vorsitz des Vorstehers, der, wie in allem deutschen ursprünglichen Gericht, nur Leiter der Verhandlung und Fragesteller gewesen sein kann; Urteilsfinder war von jeher und überall bei Deutschen die Gesamtheit.
+  en: The gentes and other subdivisions decided in a body under the chairmanship of the chief, who in all original German courts was only the manager of the transactions and questioner. Among Germans, the sentence has ever and everywhere been pronounced by the community.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.27.1
+  kind: p
+  original: Bünde von Stämmen hatten sich seit Cäsars Zeit ausgebildet; bei einigen von ihnen gab es schon Könige; der oberste Heerführer, wie bei Griechen und Römern, strebte bereits der Tyrannis zu und erlangte sie zuweilen.
+  en: Leagues of tribes came into existence since Cesar's time. Some of them already had kings. The first chief of war began to covet the usurper's place, as among Greeks and Romans, and sometimes succeeded in obtaining it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: VII.27.2
+  kind: p
+  original: Solche glückliche Usurpatoren waren nun keineswegs unbeschränkte Herrscher; aber sie fingen doch schon an, die Fesseln der Gentilverfassung zu brechen.
+  en: Such successful usurpers were by no means absolute rulers. But still they began to break through the bonds of the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.27.3
+  kind: p
+  original: Während sonst freigelaßne Sklaven eine untergeordnete Stellung einnahmen, weil sie keiner Gens angehören konnten, kamen solche Günstlinge bei den neuen Königen oft zu Rang, Reichtum und Ehren.
+  en: While freed slaves generally occupied an inferior position, because they could not be members of any gens, they often gained rank, wealth and honors as favorites of the new kings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.27.4
+  kind: p
+  original: Gleiches geschah nach der Eroberung des Römerreichs von den nun zu Königen großer Länder gewordnen Heerführern.
+  en: The same thing took place after the conquest of the Roman empire by those military leaders who had now become kings of great countries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.27.5
+  kind: p
+  original: Bei den Franken spielten Sklaven und Freigelaßne des Königs erst am Hof, dann im Staat eine große Rolle; zum großen Teil stammt der neue Adel von ihnen ab.
+  en: Among the Frankons, slaves and freed slaves of the king played a leading role first at the court, then in the state. A large part of the new nobility were descended from them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.28.1
+  kind: p
+  original: 'Eine Einrichtung begünstigte das Aufkommen des Königtums: die Gefolgschaften.'
+  en: 'There was one institution that especially favored the rise of royalty: the military following.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.28.2
+  kind: p
+  original: Schon bei den amerikanischen Rothäuten sahen wir, wie sich neben der Gentilverfassung Privatgesellschaften zur Kriegführung auf eigne Faust bilden.
+  en: We have already seen, how among the American redskins private war groups were formed independently of the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.28.3
+  kind: p
+  original: Diese Privatgesellschaften waren bei den Deutschen bereits ständige Vereine geworden.
+  en: Among the Germans, these private groups had developed into standing bodies.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.28.4
+  kind: p
+  original: Der Kriegsführer, der sich einen Ruf erworben, versammelte eine Schar beutelustiger junger Leute um sich, ihm zu persönlicher Treue, wie er ihnen, verpflichtet.
+  en: The military leader who had acquired fame, gathered around his person a host of booty loving young warriors. They were pledged to personal faithfulness by their leader who in return pledged himself to them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.28.5
+  kind: p
+  original: Der Führer verpflegte und beschenkte sie, ordnete sie hierarchisch; eine Leibgarde und schlagfertige Truppe zu kleineren, ein fertiges Offizierkorps für größere Auszüge.
+  en: 'He fed them, gave them presents and organized them on hierarchic principles: a body guard and a troop for immediate emergencies and short expeditions, a trained corps of officers for larger enterprises.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.28.6
+  kind: p
+  original: Schwach wie diese Gefolgschaften gewesen sein müssen und auch z.B. bei Odovakar in Italien später erscheinen, so bildeten sie doch schon den Keim des Verfalls der alten Volksfreiheit und bewährten sich als solche in und nach der Völkerwanderung.
+  en: These followings must have been rather insignificant, in fact we find them so later under Odoaker in Italy, still they portended the decay of the old gentile liberty, and the events during and after the migrations proved that military retainers were heralds of evil.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.28.7
+  kind: p
+  original: Denn erstens begünstigten sie das Aufkommen der königlichen Gewalt.
+  en: For in the first place, they fostered the growth of royalty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.28.8
+  kind: p
+  original: Zweitens aber konnten sie, wie schon Tacitus bemerkt, zusammengehalten werden nur durch fortwährende Kriege und Raubzüge.
+  en: In the second place, Tacitus affirms that they could only be held together by continual warfare and plundering expeditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.28.9
+  kind: p
+  original: Der Raub wurde Zweck.
+  en: Robbery became their life purpose.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.28.10
+  kind: p
+  original: Hatte der Gefolgsherr in der Nähe nichts zu tun, so zog er mit seiner Mannschaft zu andern Völkern, bei denen es Krieg und Aussicht auf Beute gab; die deutschen Hülfsvölker, die unter römischer Fahne selbst gegen Deutsche in großer Menge fochten, waren zum Teil durch solche Gefolgschaften zusammengebracht.
+  en: If the leader found nothing to do in his neighborhood, he marched his troops to other countries, where a prospect of war and booty allured him. The German auxiliaries, many of whom fought under the Roman standard even against Germans, had been largely recruited among such followings.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.28.11
+  kind: p
+  original: Das Landsknechtswesen, die Schmach und der Fluch der Deutschen, war hier schon in der ersten Anlage vorhanden.
+  en: They represent the first germs of the "Landsknecht" profession, the shame and curse of the Germans.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '139'
+- id: VII.28.12
+  kind: p
+  original: Nach Eroberung des Römerreichs bildeten diese Gefolgsleute der Könige neben den unfreien und römischen Hofbedienten den zweiten Hauptbestandteil des späteren Adels.
+  en: After the conquest of the Roman empire, these retainers of kings together with the unfree Roman courtiers formed the other half of the nobility of later days.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 139-140
+- id: VII.29.1
+  kind: p
+  original: 'Im ganzen gilt also für die zu Völkern verbündeten deutschen Stämme dieselbe Verfassung, wie sie sich bei den Griechen der Heroenzeit und den Römern der sogenannten Königszeit entwickelt hatte: Volksversammlung, Rat der Gentilvorsteher, Heerführer, der schon einer wirklichen königlichen Gewalt zustrebt.'
+  en: 'In general, then, the German tribes combined into nations had the same constitution that had developed among the Greeks of the heroic era and the Romans at the time of the so-called kings: public meetings, councils of gentile chiefs and military leaders who coveted actual royal power.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '140'
+- id: VII.29.2
+  kind: p
+  original: Es war die ausgebildetste Verfassung, die die Gentilordnung überhaupt entwickeln konnte; sie war die Musterverfassung der Oberstufe der Barbarei.
+  en: It was the highest constitution which the gentile order could produce; it was the standard constitution of the higher stage of barbarism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '140'
+- id: VII.29.3
+  kind: p
+  original: Schritt die Gesellschaft hinaus über die Grenzen, innerhalb deren diese Verfassung genügte, so war es aus mit der Gentilordnung; sie wurde gesprengt, der Staat trat an ihre Stelle.
+  en: If society passed the limits for which this constitution sufficed, then the end of the gentile order had come. It collapsed and the state took its place.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '140'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.N1.1.1
+  kind: note
+  original: Zur vierten Auflage.
+  en: Author's note to the fourth edition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N1.1.2
+  kind: note
+  original: Während einiger in Irland zugebrachten Tage ist mir wieder frisch ins Bewußtsein getreten, wie sehr das Landvolk dort noch in den Vorstellungen der Gentilzeit lebt.
+  en: During a few days passed in Ireland, I once more became conscious to what extent the rural population is still living in the conceptions of the gentile period.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N1.1.3
+  kind: note
+  original: Der Grundbesitzer, dessen Pächter der Bauer ist, gilt diesem noch immer als eine Art Clanchef, der den Boden im Interesse aller zu verwalten hat, dem der Bauer Tribut in der Form von Pacht bezahlt, von dem er aber auch in Notfällen Unterstützung erhalten soll.
+  en: The great landholder, whose tenant the farmer is, still enjoys a position similar to that of a clan chief, who has to supervise the cultivation of the soil in the interest of all, who is entitled to a tribute from the farmer in the form of rent, but who also has to assist the farmer in cases of need.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N1.1.4
+  kind: note
+  original: Und ebenso gilt jeder Wohlhabendere als verpflichtet zur Unterstützung seiner ärmeren Nachbarn, sobald diese in Not geraten.
+  en: Likewise everyone in comfortable circumstances is considered under obligation to help his poorer neighbors whenever they are in need.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N1.1.5
+  kind: note
+  original: Solche Hülfe ist nicht Almosen, sie ist das, was dem ärmeren vom reicheren Clangenossen oder Clanchef von Rechts wegen zukommt.
+  en: Such assistance is not charity, it is simply the prerogative of the poor gentile, which the rich gentile or the chief of the clan must respect.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N1.1.6
+  kind: note
+  original: Man begreift die Klage der politischen Ökonomen und Juristen über die Unmöglichkeit, dem irischen Bauer den Begriff des modernen bürgerlichen Eigentums beizubringen; ein Eigentum, das nur Rechte hat, aber keine Pflichten, will dem Irländer platterdings nicht in den Kopf.
+  en: This explains why the professors of political economy and the jurists complain of the impossibility of imparting the idea of the modern private property to the Irish farmers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N1.1.7
+  kind: note
+  original: Man begreift aber auch, wie Irländer, die mit solchen naiven Gentilvorstellungen plötzlich in die großen englischen oder amerikanischen Städte verschlagen werden, unter eine Bevölkerung mit ganz andern Moral- und Rechtsanschauungen, wie solche Irländer da leicht an Moral und Recht total irre werden, allen Halt verlieren und oft massenhaft der Demoralisation verfallen mußten.
+  en: Property that has only rights, but no duties, is absolutely beyond the ken of the Irishman. No wonder that so many Irishmen who are suddenly cast into one of the modern great cities of England and America, among a population with entirely different moral and legal standards, despair of all morals and justice, lose all hold and become an easy prey to demoralization.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.N2.1.1
+  kind: note
+  original: Die aus der Zeit des Mutterrechts stammende besonders enge Natur des Bandes zwischen mütterlichem Onkel und Neffen, die bei vielen Völkern vorkommt, kennen die Griechen nur in der Mythologie der Heroenzeit.
+  en: The Greeks know this special sacredness of the bond between the mother's brother and his nephew, a relic of maternal law found among many nations, only in the mythology of heroic times.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.2
+  kind: note
+  original: Nach Diodor (IV, 34) erschlägt Meleager die Söhne des Thestius, die Brüder seiner Mutter Althäa.
+  en: According to Diodorus IV., 34, Meleagros kills the sons of Thestius, the brother of his mother Althaia.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.3
+  kind: note
+  original: Diese sieht in dieser Tat einen so unsühnbaren Frevel, daß sie dem Mörder, ihrem eignen Sohn, flucht und ihm den Tod anwünscht.
+  en: The latter regards this deed as such a heinous crime that she curses the murderer, her own son, and prays for his death.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.4
+  kind: note
+  original: '"Die Götter erhörten, wie man erzählt, ihre Wünsche und machten dem Leben des Meleager ein Ende."'
+  en: '"It is said that the gods fulfilled her wish and ended the life of Meleagros."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.5
+  kind: note
+  original: Nach demselben Diodor (IV, 44) landen die Argonauten unter Herakles in Thrazien und finden dort, daß Phineus seine mit seiner verstoßenen Gemahlin, der Boreade Kleopatra, erzeugten beiden Söhne auf Antreiben seiner neuen Gemahlin schmählich mißhandelt.
+  en: According to the same Diordorus, IV., 44, the Argonauts under Herakles land in Thracia and there find that Phineus, at the instigation of his second wife, shamefully maltreats his two sons, the offspring of his first deserted wife, the Boread Kleopatra.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.6
+  kind: note
+  original: Aber unter den Argonauten sind auch Boreaden, Brüder der Kleopatra, als Mutterbrüder der Mißhandelten.
+  en: But among the Argonauts there are also some Boreads, the brothers of Kleopatra, the uncles of the maltreated boys.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.7
+  kind: note
+  original: Sie nehmen sich sofort ihrer Neffen an, befreien sie und erschlagen die Wächter.
+  en: They at once champion their nephews, set them free and kill their guards.
+  modern: ''
+  modern_status: empty
+  notes: ''

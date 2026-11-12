@@ -1,0 +1,1031 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: IV
+title_original: IV. Die griechische Gens
+title_en: CHAPTER IV. THE GRECIAN GENS.
+author: Friedrich Engels
+date: 1884-03/05; revised 1891
+original_language: de
+anchor_language: de
+source_original: MEW 21, S. 25-173 (Dietz, Berlin 1962) via mlwerke.de; text of the fourth edition (Stuttgart 1892), 1884 readings as variants
+source_en: Ernest Untermann's translation (Charles H. Kerr, Chicago 1902; 1908 printing), Project Gutenberg ebook 33111 (public domain)
+verses:
+- id: IV.0.1
+  kind: heading
+  original: IV. Die griechische Gens
+  en: CHAPTER IV. THE GRECIAN GENS.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.1.1
+  kind: p
+  original: 'Griechen wie Pelasger und andre stammverwandte Völker waren schon seit vorgeschichtlicher Zeit geordnet nach derselben organischen Reihe wie die Amerikaner: Gens, Phratrie, Stamm, Bund von Stämmen.'
+  en: 'Greeks, Pelasgians and other nations of the same tribal origin were constituted since prehistoric times on the same systematic plan as the Americans: gens, phratry, tribe, league of tribes.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '98'
+- id: IV.1.2
+  kind: p
+  original: Die Phratrie konnte fehlen wie bei den Doriern, der Bund von Stämmen brauchte noch nicht überall ausgebildet zu sein, aber in allen Fällen war die Gens die Einheit.
+  en: The phratry might be missing, as e. g. among the Dorians; the league of tribes might not be fully developed in every case; but the gens was everywhere the unit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '98'
+- id: IV.1.3
+  kind: p
+  original: Zur Zeit, wo die Griechen in die Geschichte eintreten, stehn sie an der Schwelle der Zivilisation; zwischen ihnen und den amerikanischen Stämmen, von denen oben die Rede war, liegen fast zwei ganze große Entwicklungsperioden, um welche die Griechen der Heroenzeit den Irokesen voraus sind.
+  en: At the time of their entrance into history, the Greeks were on the threshold of civilization. Two full periods of evolution are stretching between the Greeks and the above named American tribes. The Greeks of the heroic age are by so much ahead of the Iroquois.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '98'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: IV.1.4
+  kind: p
+  original: Die Gens der Griechen ist daher auch keineswegs mehr die archaische der Irokesen, der Stempel der Gruppenehe fängt an, sich bedeutend zu verwischen.
+  en: For this reason the Grecian gens no longer retains the archaic character of the Iroquois gens. The stamp of group marriage is becoming rather blurred.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: '1884'
+    reading: Punaluafamilie
+    base_text: … der Stempel der Gruppenehe ‸ fängt an, sich bedeutend …
+  mew_page: '98'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.1.5
+  kind: p
+  original: Das Mutterrecht ist dem Vaterrecht gewichen; damit hat der aufkommende Privatreichtum seine erste Bresche in die Gentilverfassung gelegt.
+  en: Maternal law had given way to paternal lineage. Rising private property had thus made its first opening in the gentile constitution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '98'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.1.6
+  kind: p
+  original: 'Eine zweite Bresche war natürliche Folge der ersten: Da nach Einführung des Vaterrechts das Vermögen einer reichen Erbin durch ihre Heirat an ihren Mann, also in eine andre Gens gekommen wäre, durchbrach man die Grundlage alles Gentilrechts und erlaubte nicht nur, sondern gebot in diesem Fall, daß das Mädchen innerhalb der Gens heiratete, um dieser das Vermögen zu erhalten.'
+  en: 'A second opening naturally followed the first: Paternal law being now in force, the fortune of a wealthy heiress would have fallen to her husband in the case of her marriage. That would have meant the transfer of her wealth from her own gens to that of her husband. In order to avoid this, the fundament of gentile law was shattered. In such a case, the girl was not only permitted, but obliged to intermarry within the gens, in order to retain the wealth in the latter.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '98'
+  align: '1:4'
+  review: true
+  review_reason: 1 de sentence(s) matched to 4 en sentence(s)
+- id: IV.2.1
+  kind: p
+  original: 'Nach Grotes griechischer Geschichte wurde speziell die athenische Gens zusammengehalten durch:'
+  en: 'According to Grote''s History of Greece, the gens of Attica was held together by the following bonds:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '98'
+- id: IV.3.1
+  kind: p
+  original: 1. Gemeinsame religiöse Feierlichkeiten und ausschließliches Recht des Priestertums zu Ehren eines bestimmten Gottes, des angeblichen Stammvaters der Gens, der in dieser Eigenschaft durch einen besondern Beinamen bezeichnet wurde.
+  en: 1. Common religious rites and priests installed exclusively in honor of a certain divinity, the alleged gentile ancestor, who was designated by a special by-name in this capacity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '98'
+- id: IV.4.1
+  kind: p
+  original: 2. Gemeinsamen Begräbnisplatz (vgl. Demosthenes' "Eubulides")
+  en: 2. A common burial ground. (See Demosthenes' Eubulides.)
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '98'
+- id: IV.5.1
+  kind: p
+  original: 3. Gegenseitiges Beerbungsrecht.
+  en: 3. Right of mutual inheritance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.6.1
+  kind: p
+  original: 4. Gegenseitige Verpflichtung zu Hülfe, Schutz und Unterstützung bei Vergewaltigung.
+  en: 4. Obligation to mutually help, protect and assist one another in case of violence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.7.1
+  kind: p
+  original: 5. Gegenseitiges Recht und Verpflichtung zur Heirat in der Gens in gewissen Fällen, besonders wo es Waisentöchter oder Erbinnen betraf.
+  en: 5. Mutual right and duty to intermarry in the gens in certain cases, especially for orphaned girls or heiresses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.8.1
+  kind: p
+  original: 6. Besitz, wenigstens in einigen Fällen, von gemeinsamem Eigentum mit einem eignen Archon (Vorsteher) und Schatzmeister.
+  en: 6. Possession of common property, at least in some cases, and an archon (supervisor) and treasurer elected for this special case.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.9.1
+  kind: p
+  original: Sodann band die Vereinigung in der Phratrie mehrere Gentes zusammen, doch weniger eng; doch auch hier finden wir gegenseitige Rechte und Pflichten ähnlicher Art, besonders Gemeinsamkeit bestimmter Religionsübungen und das Recht der Verfolgung, wenn ein Phrator getötet worden.
+  en: The phratry united several gentes, but rather loosely. Still we find in it similar rights and duties, especially common religious rites and the right of avenging the death of a phrator.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.9.2
+  kind: p
+  original: Die Gesamtheit der Phratrien eines Stammes hatte wiederum gemeinsame, regelmäßig wiederkehrende heilige Feierlichkeiten unter Vortritt eines aus den Adligen (Eupatriden) gewählten Phylobasileus (Stammvorstehers).
+  en: Again, all the phratries of a tribe had certain religious festivals in common that recurred at regular intervals and were celebrated under the guidance of a phylobasileus (tribal head) selected from the ranks of the nobles (eupatrides).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.10.1
+  kind: p
+  original: So weit Grote.
+  en: So far Grote.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.10.2
+  kind: p
+  original: 'Und Marx fügt hinzu: "Durch die griechische Gens guckt der Wilde (Irokese z.B.) aber auch unverkennbar durch."'
+  en: 'And Marx adds: "The savage (e. g. the Iroquois) is still plainly visible in the Grecian gens."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.10.3
+  kind: p
+  original: Er wird noch unverkennbarer, sobald wir etwas weiter untersuchen.
+  en: On further investigation we find additional proofs of this.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.11.1
+  kind: p
+  original: 'Der griechischen Gens kommt nämlich ferner zu:'
+  en: 'For the Grecian gens has also the following attributes:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.12.1
+  kind: p
+  original: 7. Abstammung nach Vaterrecht.
+  en: 7. Paternal Lineage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.13.1
+  kind: p
+  original: 8. Verbot der Heirat in der Gens außer im Fall von Erbinnen.
+  en: 8. Prohibition of intermarrying in the gens except in the case of heiresses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.13.2
+  kind: p
+  original: Diese Ausnahme und ihre Fassung als Gebot beweisen die Geltung der alten Regel.
+  en: This exception formulated as a law clearly proves the validity of the old rule.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.13.3
+  kind: p
+  original: Diese folgt ebenfalls aus dem allgemein gültigen Satz, daß die Frau durch die Heirat auf die religiösen Riten ihrer Gens verzichtete und in die ihres Mannes übertrat, in dessen Phratrie sie auch eingeschrieben wurde.
+  en: This is further substantiated by the universally accepted custom that a woman in marrying renounced the religious rites of her gens and accepted those of her husband's gens. She was also registered in his phratry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.13.4
+  kind: p
+  original: Heirat außerhalb der Gens war hiernach und nach einer berühmten Stelle des Dikäarchos Regel, und Becker im "Charikles" nimmt geradezu an, daß niemand innerhalb seiner eignen Gens heiraten durfte.
+  en: According to this custom and to a famous quotation in Dikaearchos, marriage outside of the gens was the rule. Becker in "Charikles" directly assumes that nobody was permitted to intermarry in the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.14.1
+  kind: p
+  original: 9. Das Recht der Adoption in die Gens; es erfolgte durch Adoption in die Familie, aber mit öffentlichen Formalitäten und nur ausnahmsweise.
+  en: 9. The right to adopt strangers in the gens. It was exercised by adoption into the family under public formalities; but it was used sparingly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.15.1
+  kind: p
+  original: 10. Das Recht, die Vorsteher zu erwählen und abzusetzen.
+  en: 10. The right to elect and depose the archons.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+- id: IV.15.2
+  kind: p
+  original: Daß jede Gens ihren Archon hatte, wissen wir; daß das Amt erblich in bestimmten Familien sei, wird nirgends gesagt.
+  en: We know that every gens had its archon. As to the heredity of the office, there is no reliable information.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '99'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.15.3
+  kind: p
+  original: Bis ans Ende der Barbarei ist die Vermutung stets gegen strikte Erblichkeit, die ganz unverträglich ist mit Zuständen, wo Reiche und Arme innerhalb der Gens vollkommen gleiche Rechte hatten.
+  en: Until the end of barbarism, the probability is always against strict heredity. For it is absolutely incompatible with conditions where rich and poor had perfectly equal rights in the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T2
+    editions: '1884'
+    reading: 'fehlt: strikte'
+    base_text: … Vermutung stets gegen strikte ‸ Erblichkeit, die ganz unverträglich …
+  mew_page: '99'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.16.1
+  kind: p
+  original: Nicht nur Grote, sondern auch Niebuhr, Mommsen und alle andern bisherigen Geschichtsschreiber des klassischen Altertums sind gescheitert an der Gens.
+  en: Not alone Grote, but also Niebuhr, Mommsen and all other historians of classical antiquity, were foiled by the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 99-100
+- id: IV.16.2
+  kind: p
+  original: So richtig sie auch viele ihrer Merkmale aufgezeichnet haben, so sahn sie in ihr stets eine Gruppe von Familien und machten es sich damit unmöglich, die Natur und den Ursprung der Gens zu verstehn.
+  en: Though they chronicled many of its distinguishing marks correctly, still they always regarded it as a group of families and thus prevented their understanding the nature and origin of gentes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+- id: IV.16.3
+  kind: p
+  original: Die Familie ist unter der Gentilverfassung nie eine Organisationseinheit gewesen und konnte es nicht sein, weil Mann und Frau notwendig zu zwei verschiednen Gentes gehörten.
+  en: Under the gentile constitution, the family never was a unit of organization, nor could it be so, because man and wife necessarily belonged to two different gentes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+- id: IV.16.4
+  kind: p
+  original: Die Gens ging ganz ein in die Phratrie, die Phratrie in den Stamm; die Familie ging auf halb in die Gens des Mannes und halb in die der Frau.
+  en: The gens was wholly comprised in the phratry, the phratry in the tribe. But the family belonged half to the gens of the man, and half to that of the woman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.16.5
+  kind: p
+  original: Auch der Staat erkennt im öffentlichen Recht keine Familie an; sie existiert bis heute nur für das Privatrecht.
+  en: Nor does the state recognize the family in public law. To this day, the family has only a place in private law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.16.6
+  kind: p
+  original: Und dennoch geht unsre ganze bisherige Geschichtsschreibung von der, namentlich im achtzehnten Jahrhundert unantastbar gewordnen, absurden Voraussetzung aus, die monogame Einzelfamilie, die kaum älter ist als die Zivilisation, sei der Kristallkern, um den sich Gesellschaft und Staat allmählich angesetzt habe.
+  en: Yet all historical records take their departure from the absurd supposition, which was considered almost inviolate during the eighteenth century, that the monogamous family, an institution scarcely older than civilization, is the nucleus around which society and state gradually crystallized.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+- id: IV.17.1
+  kind: p
+  original: '"Herrn Grote ferner zu bemerken", fügt Marx ein, "daß, obgleich die Griechen ihre Gentes aus der Mythologie herleiten, jene Gentes älter sind als die von ihnen selbst geschaffne Mythologie mit ihren Göttern und Halbgöttern."'
+  en: '"Mr. Grote will also please note," throws in Marx, "that the gentes, which the Greeks traced to their mythologies, are older than the mythologies. The latter together with their gods and demi-gods were created by the gentes."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.18.1
+  kind: p
+  original: Grote wird von Morgan mit Vorliebe angeführt, weil er ein angesehner und doch ganz unverdächtiger Zeuge.
+  en: Grote is quoted with preference by Morgan as a prominent and quite trustworthy witness.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+- id: IV.18.2
+  kind: p
+  original: 'Er erzählt weiterhin, daß jede athenische Gens einen von ihrem vermeintlichen Stammvater abgeleiteten Namen hatte, daß vor Solon allgemein, und noch nach Solon bei Abwesenheit eines Testaments, die Gentilgenossen (gennêtes) des Verstorbenen sein Vermögen erbten, und daß im Fall von Totschlag zunächst die Verwandten, dann die Gentilgenossen und endlich die Phratoren des Erschlagenen das Recht und die Pflicht hatten, den Verbrecher vor den Gerichten zu verfolgen:'
+  en: He relates that every Attic gens had a name derived from its alleged ancestor; that before Solon's time, and even after, it was customary for the gentiles (gennetes) to inherit the fortunes of their intestate deceased; and that in case of murder first the relatives of the victim had the duty and the right to prosecute the criminal, after them the gentiles and finally the phrators.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+- id: IV.19.1
+  kind: p
+  original: '"Alles, was wir von den ältesten athenischen Gesetzen hören, ist begründet auf die Einteilung in Gentes und Phratrien."'
+  en: '"Whatever we may learn about the oldest Attic laws is founded on the organization in gentes and phratries."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+- id: IV.20.1
+  kind: p
+  original: Die Abstammung der Gentes von gemeinsamen Urahnen hat den "schulgelehrten Philistern" (Marx) schweres Kopfbrechen gemacht.
+  en: The descent of the gentes from common ancestors has caused the "schoolbred philistines," as Marx has it, much worry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+- id: IV.20.2
+  kind: p
+  original: Da sie diese natürlich für rein mythisch ausgeben, so können sie sich die Entstehung einer Gens aus nebeneinanderstehenden, ursprünglich gar nicht verwandten Familien platterdings nicht erklären, und doch müssen sie dies fertigbringen, um nur das Dasein der Gentes zu erklären.
+  en: Representing this descent as purely mythical, they are at a loss to explain how the gentes developed out of independent and wholly unrelated families. But this explanation must be given, if they wish to explain the existence of the gentes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.20.3
+  kind: p
+  original: 'Da wird denn ein sich im Kreise drehender Wortschwall aufgeboten, der nicht über den Satz hinauskommt: Der Stammbaum ist zwar eine Fabel, aber die Gens ist eine Wirklichkeit, und schließlich heißt es denn bei Grote - mit Einschiebungen von Marx - wie folgt:'
+  en: 'They then turn around in a circle of meaningless gibberish and do not get beyond the phrase: the pedigree is indeed a fable, but the gens is a reality. Grote finally winds up--the parenthetical remarks are by Marx: "We rarely hear about this pedigree, because it is used in public only on certain very festive occasions.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '100'
+  align: '2:2'
+  review: true
+  review_reason: 2 de sentence(s) matched to 2 en sentence(s)
+- id: IV.21.1
+  kind: p
+  original: '"Wir hören von diesem Stammbaum nur selten, weil er vor die Öffentlichkeit nur in gewissen, besonders feierlichen Fällen gebracht wird.'
+  en: ''
+  joined_to: IV.20.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '101'
+- id: IV.21.2
+  kind: p
+  original: Aber die geringeren Gentes hatten ihre gemeinsamen Religionsübungen" (sonderbar dies, Mr. Grote!)
+  en: But the less prominent gentes had their common religious rites (very peculiar, Mr. Grote!) and their common superhuman ancestor and pedigree just like the more prominent gentes (how very peculiar this, Mr. Grote, in less prominent gentes!); and the ground plan and the ideal fundament (my dear sir! Not ideal, but carnal, anglice "fleshly") was the same in all of them."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: IV.21.3
+  kind: p
+  original: '"und gemeinsamen übermenschlichen Stammvater und Stammbaum ganz wie die berühmteren" (wie gar sonderbar dies, Herr Grote, bei geringeren Gentes!); "der Grundplan und die ideale Grundlage" (werter Herr, nicht ideal, sondern karnal, germanice fleischlich!), war bei allen dieselbe."'
+  en: ''
+  joined_to: IV.21.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '101'
+- id: IV.22.1
+  kind: p
+  original: 'Marx faßt Morgans Antwort hierauf wie folgt zusammen: "Das der Gens in ihrer Urform - und die Griechen hatten diese einst besessen wie andre Sterbliche - entsprechende Blutsverwandtschaftssystem bewahrte die Kenntnis der Verwandtschaften aller Mitglieder der Gentes untereinander.'
+  en: 'Marx sums up Morgan''s reply to this as follows: "The system of consanguinity corresponding to the archaic form of the gens--which the Greeks once possessed like other mortals--preserved the knowledge of the mutual relation of all members of the gens.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+- id: IV.22.2
+  kind: p
+  original: Sie lernten dies für sie entscheidend Wichtige durch Praxis von Kindesbeinen.
+  en: They learned this important fact by practice from early childhood.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+- id: IV.22.3
+  kind: p
+  original: Mit der monogamen Familie fiel dies in Vergessenheit.
+  en: With the advent of the monogamous family this was gradually forgotten.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+- id: IV.22.4
+  kind: p
+  original: Der Gentilname schuf einen Stammbaum, neben dem der der Einzelfamilie unbedeutend erschien.
+  en: The gentile name created a pedigree by the side of which that of the monogamous family seemed insignificant.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+- id: IV.22.5
+  kind: p
+  original: Es war nunmehr dieser Name, der die Tatsache der gemeinsamen Abstammung seiner Träger zu bewahren hatte; aber der Stammbaum der Gens ging so weit zurück, daß die Mitglieder ihre gegenseitige wirkliche Verwandtschaft nicht mehr nachweisen konnten, außer in beschränkter Zahl von Fällen bei neueren, gemeinschaftlichen Vorfahren.
+  en: This name had now the function of preserving the memory of the common descent of its bearers. But the pedigree of the gens went so far back that the gentiles could no longer actually ascertain their mutual kinship, except in a limited number of more recent common ancestors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.22.6
+  kind: p
+  original: Der Name selbst war Beweis gemeinsamer Abstammung, und endgültiger Beweis, abgesehn von Adoptionsfällen.
+  en: The name itself was the proof of a common descent and sufficed always except in cases of adoption.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+- id: IV.22.7
+  kind: p
+  original: Dahingegen ist die tatsächliche Leugnung aller Verwandtschaft zwischen Gentilgenossen à la Grote und Niebuhr, welche die Gens in eine rein ersonnene und erdichtete Schöpfung verwandelt, würdig 'idealer', d.h. stubenhockerischer Schriftgelehrter.
+  en: To actually dispute all kinship between gentiles after the manner of Grote and Niebuhr, who thus transform the gens into a purely hypothetical and fictitious creation of the brain, is indeed worthy of "ideal" scientists, that is book worms.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+- id: IV.22.8
+  kind: p
+  original: Weil die Verkettung der Geschlechter, namentlich mit Anbruch der Monogamie, in die Ferne gerückt und die vergangne Wirklichkeit im mythologischen Phantasiegebild widergespiegelt erscheint, schlossen und schließen Philister-Biedermänner, daß der Phantasiestammbaum wirkliche Gentes schuf!"
+  en: Because the relation of the generations, especially on the advent of monogamy, is removed to the far distance, and the reality of the past seems reflected in phantastic imaginations, therefore the brave old philistines concluded and conclude that the imaginary pedigree created real gentes!"
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+- id: IV.23.1
+  kind: p
+  original: Die Phratrie war, wie bei den Amerikanern, eine in mehrere Tochtergentes gespaltne und sie einigende Muttergens und leitete sie alle oft noch vom gemeinsamen Stammvater ab.
+  en: The phratry was, as among the Americans, a mother-gens comprising several daughter gentes, and often traced them all to the same ancestor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+- id: IV.23.2
+  kind: p
+  original: So hatten nach Grote "alle gleichzeitigen Glieder der Phratrie des Hekatäus einen und denselben Gott zum Stammvater im sechzehnten Glied"; alle Gentes dieser Phratrie waren also buchstäblich Brudergentes.
+  en: According to Grote "all contemporaneous members of the phratry of Hekataeos were descendants in the sixteenth degree of one and the same divine ancestor." All the gentes of this phratry were therefore literally brother gentes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.23.3
+  kind: p
+  original: 'Die Phratrie kommt noch bei Homer als militärische Einheit vor, in der berühmten Stelle, wo Nestor dem Agamemnon rät: Ordne die Männer nach Stämmen und nach Phratrien, daß die Phratrie der Phratrie beistehe und der Stamm dem Stamm.'
+  en: 'The phratry is mentioned by Homer as a military unit in that famous passage where Nestor advises Agamemnon: "Arrange the men by phratries and tribes so that phratry may assist phratry, and tribe the tribe."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '101'
+- id: IV.23.4
+  kind: p
+  original: '- Sonst hat sie das Recht und die Pflicht der Verfolgung der an einem Phrator begangnen Blutschuld, also in früherer Zeit auch die Verpflichtung zur Blutrache.'
+  en: The phratry has the right and the duty to prosecute the death of a phrator, hence in former times the duty of blood revenge.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 101-102
+- id: IV.23.5
+  kind: p
+  original: Sie hat ferner gemeinsame Heiligtümer und Feste, wie denn die Ausbildung der gesamten griechischen Mythologie aus dem mitgebrachten altarischen Naturkultus wesentlich bedingt war durch die Gentes und Phratrien und innerhalb ihrer vor sich ging.
+  en: It has, furthermore, common religious rites and festivals. As a matter of fact, the development of the entire Grecian mythology from the traditional old Aryan cult of nature was essentially due to the gentes and phratries and took place within them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.23.6
+  kind: p
+  original: Ferner hatte sie einen Vorsteher (phratriarchos) und nach de Coulanges auch Versammlungen und bindende Beschlüsse, eine Gerichtsbarkeit und Verwaltung.
+  en: The phratry had an official head (phratriarchos) and also, according to De Coulanges, meetings and binding resolutions, a jurisdiction and administration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+- id: IV.23.7
+  kind: p
+  original: Selbst der spätere Staat, der die Gens ignorierte, ließ der Phratrie gewisse öffentliche Amtsverrichtungen.
+  en: Even the state of a later period, while ignoring the gens, left certain public functions to the phratry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+- id: IV.24.1
+  kind: p
+  original: Aus mehreren verwandten Phratrien besteht der Stamm.
+  en: The tribe consisted of several kindred phratries.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+- id: IV.24.2
+  kind: p
+  original: In Attika gab es vier Stämme, zu je drei Phratrien, von denen jede dreißig Gentes zählte.
+  en: In Attica there were four tribes of three phratries each; the number of gentes in each phratry was thirty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+- id: IV.24.3
+  kind: p
+  original: Solche Abzirkelung der Gruppen setzt bewußtes, planmäßiges Eingreifen in die naturwüchsig entstandne Ordnung voraus.
+  en: Such an accurate division of groups reveals the fact of a conscious and well-planned interference with the natural order.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+- id: IV.24.4
+  kind: p
+  original: Wie, wann und warum dies geschehn, darüber schweigt die griechische Geschichte, von der die Griechen selbst nur bis ins Heldenzeitalter hinein sich Erinnerung bewahrt haben.
+  en: How, when and why this was done is not disclosed by Grecian history. The historical memory of the Greeks themselves does not reach beyond the heroic age.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.25.1
+  kind: p
+  original: Dialektische Abweichung war bei den auf verhältnismäßig kleinem Gebiet zusammengedrängten Griechen weniger entwickelt als in den weiten amerikanischen Wäldern; doch auch hier finden wir nur Stämme derselben Hauptmundart zu einem größern Ganzen vereinigt und selbst in dem kleinen Attika einen besondern Dialekt, der später als allgemeine Prosasprache der herrschende wurde.
+  en: Closely packed in a comparatively small territory as the Greeks were, their dialectic differences were less conspicuous than those developed in the wide American forests. Yet even here we find only tribes of the same main dialect united in a larger organization. Little Attica had its own dialect which later on became the prevailing language in Grecian prose.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: IV.26.1
+  kind: p
+  original: In den homerischen Gedichten finden wir die griechischen Stämme meist schon zu kleinen Völkerschaften vereinigt, innerhalb deren Gentes, Phratrien und Stämme indes ihre Selbständigkeit noch vollkommen bewahrten.
+  en: In the epics of Homer we generally find the Greek tribes combined into small nations, but so that their gentes, phratries and tribes retained their full independence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+- id: IV.26.2
+  kind: p
+  original: Sie wohnten bereits in mit Mauern befestigten Städten; die Bevölkerungszahl stieg mit der Ausdehnung der Herden, des Feldbaus und den Anfängen des Handwerks; damit wuchsen die Reichtumsverschiedenheiten und mit ihnen das aristokratische Element innerhalb der alten, naturwüchsigen Demokratie.
+  en: They already lived in towns fortified by walls. The population increased with the growth of the herds, with agriculture and the beginnings of the handicrafts. At the same time the differences in wealth became more marked and gave rise to an aristocratic element within the old primordial democracy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: IV.26.3
+  kind: p
+  original: Die einzelnen Völkchen führten unaufhörliche Kriege um den Besitz der besten Landstriche und auch wohl der Beute wegen; Sklaverei der Kriegsgefangnen war bereits anerkannte Einrichtung.
+  en: The individual little nations carried on an unceasing warfare for the possession of the best land and also for the sake of looting. Slavery of the prisoners of war was already well established.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.27.1
+  kind: p
+  original: 'Die Verfassung dieser Stämme und Völkchen war nun wie folgt:'
+  en: 'The constitution of these tribes and nations was as follows:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+- id: IV.28.1
+  kind: p
+  original: 1. Stehende Behörde war der Rat, bulê, ursprünglich wohl aus den Vorstehern der Gentes zusammengesetzt, später, als deren Zahl zu groß wurde, aus einer Auswahl, die Gelegenheit bot zur Ausbildung und Stärkung des aristokratischen Elements; wie denn auch Dionysios geradezu den Rat der Heroenzeit aus den Vornehmen (kratistoi) zusammengesetzt sein läßt.
+  en: 1. A permanent authority was the council (bule), originally composed of the gentile archons, but later on, when their number became too great, recruited by selection in such a way that the aristocratic element was developed and strengthened. Dionysios openly speaks of the council at the time of the heroes as being composed of nobles (kratistoi).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '102'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.28.2
+  kind: p
+  original: Der Rat entschied endgültig in wichtigen Angelegenheiten; so faßt der von Theben, bei Äschylos, den für die gegebne Sachlage entscheidenden Beschluß, den Eteokles ehrenvoll zu begraben, die Leiche des Polynikes aber hinauszuwerfen, den Hunden zur Beute.
+  en: The council had the final decision in all important matters. In Aeschylos, e. g. the council of Thebes decides that the body of Eteokles be buried with full honors, the body of Polynikes, however, thrown out to be devoured by the dogs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 102-103
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.28.3
+  kind: p
+  original: Mit Errichtung des Staats ging dieser Rat über in den späteren Senat.
+  en: With the rise of the state this council was transformed into the senate.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.29.1
+  kind: p
+  original: 2. Die Volksversammlung (agora).
+  en: 2. The public meeting (agora).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.29.2
+  kind: p
+  original: Bei den Irokesen fanden wir das Volk, Männer und Weiber, die Ratsversammlung umstehend, dreinredend in geordneter Weise und so ihre Beschlüsse beeinflussend.
+  en: We saw how the Iroquois, men and women, attended the council meetings, taking an orderly part in the discussions and influencing them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.29.3
+  kind: p
+  original: Bei den homerischen Griechen hat sich dieser "Umstand", um einen altdeutschen Gerichtsausdruck zu gebrauchen, bereits entwickelt zur vollständigen Volksversammlung, wie dies ebenfalls bei den Deutschen der Urzeit der Fall war.
+  en: Among the Homeric Greeks, this attendance had developed to a complete public meeting. This was also the case with the Germans of the archaic period.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.29.4
+  kind: p
+  original: Sie wurde vom Rat berufen zur Entscheidung wichtiger Angelegenheiten; jeder Mann konnte das Wort ergreifen.
+  en: The meeting was called by the council. Every man could demand the word.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.29.5
+  kind: p
+  original: Die Entscheidung erfolgte durch Handerheben (Äschylos in den "Schutzflehenden") oder durch Zuruf.
+  en: The final vote was taken by hand raising (Aeschylos in "The Suppliants," 607), or by acclamation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.29.6
+  kind: p
+  original: Sie war souverän in letzter Instanz, denn, sagt Schoemann ("Griechische Alterthümer"), "handelt es sich um eine Sache, zu deren Ausführung die Mitwirkung des Volks erforderlich ist, so verrät uns Homer kein Mittel, wie dasselbe gegen seinen Willen dazu gezwungen werden könne".
+  en: The decision of the meeting was supreme and final. "Whenever a matter is discussed," says Schoemann in "Antiquities of Greece," "which requires the participation of the people for its execution, Homer does not indicate any means by which the people could be forced to it against their will."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.30.1
+  kind: p
+  original: Es gab eben zu dieser Zeit, wo jedes erwachsene männliche Stammesmitglied Krieger war, noch keine vom Volk getrennte öffentliche Gewalt, die ihm hätte entgegengesetzt werden können.
+  en: It is evident that at a time when every able-bodied member of the tribe was a warrior, there existed as yet no public power apart from the people that might have been used against them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.30.2
+  kind: p
+  original: Die naturwüchsige Demokratie stand noch in voller Blüte, und dies muß der Ausgangspunkt bleiben zur Beurteilung der Macht und der Stellung sowohl des Rats wie des Basileus.
+  en: The primordial democracy was still in full force, and by this standard the influence and position of the council and of the basileus must be judged.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.31.1
+  kind: p
+  original: 3. Der Heerführer (basileus).
+  en: 3. The military chief (basileus).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.31.2
+  kind: p
+  original: 'Hierzu bemerkt Marx: "Die europäischen Gelehrten, meist geborne Fürstenbediente, machen aus dem Basileus einen Monarchen im modernen Sinn.'
+  en: 'Marx makes the following comment: "The European scientists, mostly born servants of princes, represent the basileus as a monarch in the modern sense.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.31.3
+  kind: p
+  original: Dagegen verwahrt sich der Yankee-Republikaner Morgan.
+  en: The Yankee republican Morgan objects to this.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.31.4
+  kind: p
+  original: 'Er sagt sehr ironisch, aber wahr, vom öligen Gladstone und dessen ''Juventus Mundi'':'
+  en: 'Very ironically but truthfully he says of the oily Gladstone and his "Juventus Mundi": ''Mr. Gladstone, who presents to his readers the Grecian chiefs of the heroic age as kings and princes, with the superadded qualities of gentlemen, is forced to admit that, on the whole we seem to have the custom or law of primogeniture sufficiently, but not oversharply defined.'''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: IV.32.1
+  kind: p
+  original: '''Herr Gladstone präsentiert uns die griechischen Häuptlinge der Heldenzeit als Könige und Fürsten, mit der Zugabe, daß sie auch Gentlemen seien; er selbst muß aber zugeben: Im ganzen scheinen wir die Sitte oder das Gesetz der Erstgeburtsfolge hinreichend, aber nicht allzu scharf bestimmt vorzufinden.''"'
+  en: ''
+  joined_to: IV.31.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '103'
+- id: IV.33.1
+  kind: p
+  original: Es wird auch wohl dem Herrn Gladstone selbst scheinen, daß eine so verklausulierte Erstgeburtsfolge hinreichend, wenn auch nicht allzu scharf, geradesoviel wert ist wie gar keine.
+  en: As a matter of fact, Mr. Gladstone himself must have perceived that a primogeniture resting on a clause of 'sufficient but not oversharp' definition is as bad as none at all."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.34.1
+  kind: p
+  original: Wie es mit der Erblichkeit der Vorsteherschaften bei den Irokesen und andern Indianern stand, sahen wir.
+  en: We saw how the law of heredity was applied to the offices of sachems and chiefs among the Iroquois and other Indians.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '103'
+- id: IV.34.2
+  kind: p
+  original: Alle Ämter waren Wahlämter meist innerhalb einer Gens und insofern in dieser erblich.
+  en: All offices were subject to the vote of the gentiles and for this reason hereditary in the gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 103-104
+- id: IV.34.3
+  kind: p
+  original: Bei Erledigungen wurde der nächste Gentilverwandte - Bruder oder Schwestersohn - allmählich vorgezogen, falls nicht Gründe vorlagen, ihn zu übergehn.
+  en: A vacancy was filled preferably by the next gentile relative--the brother or the sister's son--unless good reasons existed for passing him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+- id: IV.34.4
+  kind: p
+  original: Ging also bei den Griechen unter der Herrschaft des Vaterrechts das Amt des Basileus in der Regel auf den Sohn oder einen der Söhne über, so ist das nur Beweis, daß die Söhne hier die Wahrscheinlichkeit der Nachfolge durch Volkswahl für sich hatten, keineswegs aber Beweis rechtskräftiger Erbfolge ohne Volkswahl.
+  en: That in Greece, under paternal law, the office of basileus was generally transmitted to the son or one of the sons, indicates only that the probability of succession by public election was in favor of the sons. It implies by no means a legal succession without a vote of the people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.34.5
+  kind: p
+  original: Was hier vorliegt, ist bei den Irokesen und Griechen die erste Anlage zu besondern Adelsfamilien innerhalb der Gentes, und bei den Griechen noch dazu die erste Anlage einer künftigen erblichen Führerschaft oder Monarchie.
+  en: We here perceive simply the first rudiments of segregated families of aristocrats among Iroquois and Greeks, which led to a hereditary leadership or monarchy in Greece.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+- id: IV.34.6
+  kind: p
+  original: Die Vermutung spricht also dafür, daß bei den Griechen der Basileus entweder vom Volk gewählt oder doch durch seine anerkannten Organe - Rat oder Agora - bestätigt werden mußte, wie dies für den römischen "König" (rex) galt.
+  en: Hence the facts are in favor of the opinion that among Greeks the basileus was either elected by the people or at last was subject to the indorsement of their appointed organs, the council or agora, as was the case with the Roman king (rex).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+- id: IV.35.1
+  kind: p
+  original: In der "Ilias" erscheint der Männerbeherrscher Agamemnon nicht als oberster König der Griechen, sondern als oberster Befehlshaber eines Bundesheers vor einer belagerten Stadt.
+  en: In the Iliad the ruler of men, Agamemnon, does not appear as the supreme king of the Greeks, but as general in chief of a federal army besieging a city.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+- id: IV.35.2
+  kind: p
+  original: 'Und auf diese seine Eigenschaft weist Odysseus hin, als Zwist unter den Griechen ausgebrochen war, in der berühmten Stelle: Nicht gut ist die Vielkommandiererei, einer sei Befehlshaber usw. (wobei noch der beliebte Vers mit dem Zepter späterer Zusatz).'
+  en: 'And when dissensions had broken out among the Greeks, it is this quality which Odysseus points out in a famous passage: "Evil is the rule of the many; let one be the ruler, one the chief" (to which the popular verse about the scepter was added later on).'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+- id: IV.35.3
+  kind: p
+  original: '"Odysseus hält hier keine Vorlesung über eine Regierungsform, sondern verlangt Gehorsam gegen den obersten Feldherrn im Kriege.'
+  en: Odysseus does not lecture on the form of government, but demands obedience to the general in chief.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+- id: IV.35.4
+  kind: p
+  original: Für die Griechen, die vor Troja nur als Heer erscheinen, geht es in der Agora demokratisch genug zu.
+  en: Considering that the Greeks before Troy appear only in the character of an army, the proceedings of the agora are sufficiently democratic.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+- id: IV.35.5
+  kind: p
+  original: Achilles, wenn er von Geschenken, d.h. Verteilung der Beute spricht, macht stets zum Verteiler weder den Agamemnon noch einen andern Basileus, sondern 'die Söhne der Achäer', d.h. das Volk.
+  en: In referring to presents, that is the division of the spoils, Achilles always leaves the division, not to Agamemnon or some other basileus, but to the "sons of the Achaeans," the people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+- id: IV.35.6
+  kind: p
+  original: 'Die Prädikate: von Zeus erzeugt, von Zeus ernährt, beweisen nichts, da jede Gens von einem Gott abstammt, die des Stammeshaupts schon von einem ''vornehmeren'' Gott - hier Zeus.'
+  en: The attributes, descendant of Zeus, bred by Zeus, do not prove anything, because every gens is descended from some god--the gens of the leader of the tribe from a "prominent" god, in this case Zeus.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+- id: IV.35.7
+  kind: p
+  original: Selbst die persönlich Unfreien, wie der Sauhirt Eumäus u.a. sind 'göttlich' (dioi und theioi) und dies in der 'Odyssee', also in viel späterer Zeit als die 'Ilias'; in derselben 'Odyssee' wird der Name Heros noch dem Herold Mulios beigelegt, wie dem blinden Sänger Demodokos.
+  en: Even those who are without personal freedom, as the swineherd Eumaeos and others, are "divine" (dioi or theioi), even in the Odyssey, which belongs to a much later period than the Iliad. In the same Odyssey, the name of "heros" is given to the herald Mulios as well as to the blind bard Demodokos.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.35.8
+  kind: p
+  original: Kurz, das Wort basileia, das die griechischen Schriftsteller für das homerische sogenannte Königtum anwenden (weil die Heerführerschaft ihr Hauptkennzeichen), mit Rat und Volksversammlung daneben, bedeutet nur - militärische Demokratie." (Marx.)
+  en: In short, the word "basileia," with which the Greek writers designate the so-called monarchy of Homer (because the military leadership is its distinguishing mark, by the side of which the council and the agora are existing), means simply--military democracy (Marx).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '104'
+- id: IV.36.1
+  kind: p
+  original: Der Basileus hatte außer den militärischen noch priesterliche und richterliche Amtsbefugnisse; letztere nicht näher bestimmt, erstere in seiner Eigenschaft als oberster Vertreter des Stamms oder Bundes von Stämmen.
+  en: The basileus had also sacerdotal and judiciary functions beside those of a military leader. The judiciary functions are not clearly defined, but the functions of priesthood are due to his position of chief representative of the tribe or of the league of tribes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 104-105
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.36.2
+  kind: p
+  original: Von bürgerlichen, verwaltenden Befugnissen ist nie die Rede; er scheint aber von Amts wegen Ratsmitglied gewesen zu sein.
+  en: There is never any mention of civil, administrative functions. But it seems that he was ex-officio a member of the council.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '105'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.36.3
+  kind: p
+  original: Basileus mit König zu übersetzen, ist also etymologisch ganz richtig, da König (Kuning) von Kuni, Künne abstammt und Vorsteher einer Gens bedeutet.
+  en: The translation of basileus by king is etymologically quite correct, because king (Kuning) is derived from Kuni, Kuenne, and signifies chief of a gens.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '105'
+- id: IV.36.4
+  kind: p
+  original: Aber der heutigen Bedeutung des Wortes König entspricht der altgriechische Basileus in keiner Weise.
+  en: But the modern meaning of the word king in no way designates the functions of the Grecian basileus.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '105'
+- id: IV.36.5
+  kind: p
+  original: Thukydides nennt die alte Basileia ausdrücklich eine patrikê, d.h. von Gentes abgeleitete, und sagt, sie habe festbestimmte, also begrenzte Befugnisse gehabt.
+  en: Thucydides expressly refers to the old basileia as patrike, that is "derived from the gens," and states that it had well defined functions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '105'
+- id: IV.36.6
+  kind: p
+  original: Und Aristoteles sagt, die Basileia der Heroenzeit sei eine Führerschaft über Freie gewesen, und der Basileus Heerführer, Richter und Oberpriester; Regierungsgewalt im spätern Sinne hatte er also nicht.
+  en: And Aristotle says that the basileia of heroic times was a leadership of free men and that the basileus was a military chief, a judge and a high priest. Hence the basileus had no governmental power in a modern sense.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - IV.N1
+  mew_page: '105'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.37.1
+  kind: p
+  original: 'Wir sehn also in der griechischen Verfassung der Heldenzeit die alte Gentilorganisation noch in lebendiger Kraft, aber auch schon den Anfang ihrer Untergrabung: Vaterrecht mit Vererbung des Vermögens an die Kinder, wodurch die Reichtumsanhäufung in der Familie begünstigt und die Familie eine Macht wurde gegenüber der Gens; Rückwirkung der Reichtumsverschiedenheit auf die Verfassung vermittelst Bildung der ersten Ansätze zu einem erblichen Adel und Königtum; Sklaverei, zunächst noch bloß von Kriegsgefangnen, aber schon die Aussicht eröffnend auf Versklavung der eignen Stammes- und selbst Gentilgenossen; der alte Krieg von Stamm gegen Stamm bereits ausartend in systematische Räuberei zu Land und zur See, um Vieh, Sklaven, Schätze zu erobern, in regelrechte Erwerbsquelle; kurz, Reichtum gepriesen und geachtet als höchstes Gut und die alten Gentilordnungen gemißbraucht, um den gewaltsamen Raub von Reichtümern zu rechtfertigen.'
+  en: In the Grecian constitution of heroic times, then, we still find the old gentilism fully alive, but we also perceive the beginnings of the elements that undermine it; paternal law and inheritance of property by the father's children, favoring accumulation of wealth in the family and giving to the latter a power apart from the gens; influence of the difference of wealth on the constitution by the formation of the first rudiments of hereditary nobility and monarchy; slavery, first limited to prisoners of war, but already paving the way to the enslavement of tribal and gentile associates; degeneration of the old feuds between tribes a regular mode of existing by systematic plundering on land and sea for the purpose of acquiring cattle, slaves, and treasures. In short, wealth is praised and respected as the highest treasure, and the old gentile institutions are abused in order to justify the forcible robbery of wealth.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '105'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.37.2
+  kind: p
+  original: 'Es fehlte nur noch eins: eine Einrichtung, die die neuerworbnen Reichtümer der einzelnen nicht nur gegen die kommunistischen Traditionen der Gentilordnung sicherstellte, die nicht nur das früher so geringgeschätzte Privateigentum heiligte und diese Heiligung für den höchsten Zweck aller menschlichen Gemeinschaft erklärte, sondern die auch die nacheinander sich entwickelnden neuen Formen der Eigentumserwerbung, also der stets beschleunigten Vermehrung des Reichtums mit dem Stempel allgemein gesellschaftlicher Anerkennung versah; eine Einrichtung, die nicht nur die aufkommende Spaltung der Gesellschaft in Klassen verewigte, sondern auch das Recht der besitzenden Klasse auf Ausbeutung der nichtbesitzenden und die Herrschaft jener über diese.'
+  en: 'Only one thing was missing: an institution that not only secured the newly acquired property of private individuals against the communistic traditions of the gens, that not only declared as sacred the formerly so despised private property and represented the protection of this sacred property as the highest purpose of human society, but that also stamped the gradually developing new forms of acquiring property, of constantly increasing wealth, with the universal sanction of society. An institution that lent the character of perpetuity not only to the newly rising division into classes, but also to the right of the possessing classes to exploit and rule the non-possessing classes.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 105-106
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.37.3
+  kind: p
+  original: Und diese Einrichtung kam.
+  en: And this institution was found.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '106'
+- id: IV.37.4
+  kind: p
+  original: Der Staat wurde erfunden.
+  en: The state arose.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '106'
+- id: IV.N1.1.1
+  kind: note
+  original: Wie dem griechischen Basileus, so ist auch dem aztekischen Heerführer ein moderner Fürst untergeschoben worden.
+  en: Just as the Grecian basileus, so the Aztec military chief was misrepresented as a modern prince.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.N1.1.2
+  kind: note
+  original: 'Morgan unterwirft die erst mißverständlichen und übertriebnen, später direkt lügenhaften Berichte der Spanier zum erstenmal der historischen Kritik und weist nach, daß die Mexikaner auf der Mittelstufe der Barbarei, höher jedoch als die neumexikanischen Pueblos-Indianer, standen und daß ihre Verfassung, soweit die entstellten Berichte sie erkennen lassen, dem entsprach: ein Bund dreier Stämme, der eine Anzahl andrer zur Tributpflichtigkeit unterworfen hatte und der regiert wurde von einem Bundesrat und Bundesfeldherrn, aus welchem letzteren die Spanier einen "Kaiser" machten.'
+  en: 'Morgan was the first to submit to historical criticism the reports of the Spaniards who first misapprehended and exaggerated, and later on consciously misrepresented the functions of this office. He showed that the Mexicans were in the middle stage of barbarism, but on a higher plane than the New Mexican Pueblo Indians, and that their constitution, so far as the garbled accounts show, corresponded to this stage: a league of three tribes which had made a number of others tributary and was administered by a federal council and a federal chief of war, whom the Spaniards construed into an "emperor."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
