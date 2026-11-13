@@ -1,0 +1,115 @@
+# GI AT2 · Old Testament, 2. The Economy of the Old Covenant
+
+*2. Ökonomie des Alten Bundes*
+
+Original: MEW 3, S. 113-119 (Dietz, Berlin 1969) via mlwerke.de; written 1845-1846, first printed in full 1932; the authors' footnotes from mlwerke's me03_anm.htm  
+English: None: no public-domain English translation
+
+| Verse | German (MEW 3, from the manuscript) | Modern draft (translated from the German) | Notes |
+|---|---|---|---|
+| <a id="AT2.0.1"></a>**AT2.0.1** | 2. Ökonomie des Alten Bundes |  |  |
+| <a id="AT2.1.1"></a>**AT2.1.1** | Wir müssen hier für einen Augenblick aus "dem Gesetz" in "die Propheten" überspringen, indem wir das Geheimnis des einzigen Haushalts im Himmel und auf Erden schon an dieser Stelle enthüllen. |  |  |
+| <a id="AT2.1.2"></a>**AT2.1.2** | Die Geschichte des Reiches des Einzigen auch im Alten Testamente, wo noch das Gesetz, der Mensch, als ein Zuchtmeister auf den Einzigen (Gal[ater] 3,24) herrscht, hat einen weisen Plan, der von Ewigkeit her beschlossen war. |  |  |
+| <a id="AT2.1.3"></a>**AT2.1.3** | Es ist Alles zuvorgesehen und verordnet, damit der Einzige in die Welt kommen konnte, als die Zeit erfüllet war, um die heiligen Menschen von ihrer Heiligkeit zu erlösen. |  |  |
+| <a id="AT2.2.1"></a>**AT2.2.1** | Das erste Buch, "Ein Menschenleben", heißt auch darum "Genesis", weil es den ganzen Einzigen Haushalt im Keime enthält, weil es die ganze spätere Entwickelung bis dahin, wo die Zeit erfüllet ist und das Ende der Tage hereinbricht, prototypisch uns vorführt. |  |  |
+| <a id="AT2.2.2"></a>**AT2.2.2** | Die ganze Einzige Geschichte dreht sich um die drei Stufen: Kind, Jüngling, Mann, die "unter mancherlei Wandlungen" und in stets sich erweiternden Kreisen wiederkehren, bis endlich die ganze Geschichte der Welt der Dinge und der Welt des Geistes sich in "Kind, Jüngling und Mann" aufgelöst hat. |  |  |
+| <a id="AT2.2.3"></a>**AT2.2.3** | Wir werden überall nur verkleidete "Kind, Jüngling und Mann" wiederfinden, wie wir schon in diesen die Verkleidungen dreier Kategorien fanden. |  |  |
+| <a id="AT2.3.1"></a>**AT2.3.1** | Wir haben oben über die deutsche philosophische Geschichtsauffassung gesprochen. |  |  |
+| <a id="AT2.3.2"></a>**AT2.3.2** | Hier bei Sankt Max finden wir ein glänzendes Beispiel. |  |  |
+| <a id="AT2.3.3"></a>**AT2.3.3** | Die spekulative Idee, die abstrakte Vorstellung wird zur treibenden Kraft der Geschichte und dadurch die Geschichte zur bloßen Geschichte der Philosophie gemacht. |  |  |
+| <a id="AT2.3.4"></a>**AT2.3.4** | Aber auch diese wird nicht einmal so aufgefaßt, wie sie - nach den existierenden Quellen sich zugetragen, geschweige wie sie sich durch die Einwirkung der realen geschichtlichen Verhältnisse entwickelt hat, sondern wie sie von den neueren deutschen Philosophen, speziell Hegel und Feuerbach, aufgefaßt und dargestellt worden ist. |  |  |
+| <a id="AT2.3.5"></a>**AT2.3.5** | Und aus diesen Darstellungen selbst wird wieder nur das genommen, was für den vorliegenden Zweck passend gemacht werden kann und unserm Heiligen traditionell zugekommen ist. |  |  |
+| <a id="AT2.3.6"></a>**AT2.3.6** | Die Geschichte wird so zu einer bloßen Geschichte der vorgeblichen Ideen, zu einer Geister- und Gespenstergeschichte, und die wirkliche, empirische Geschichte, die Grundlage dieser Gespenstergeschichte wird nur dazu exploitiert, um die Leiber für diese Gespenster herzugeben; ihr werden die nötigen Namen entnommen, die diese Gespenster mit dem Schein der Realität bekleiden sollen. |  |  |
+| <a id="AT2.3.7"></a>**AT2.3.7** | Unser Heiliger fällt häufig bei diesem Experiment aus der Rolle und schreibt unverhüllte Gespenstergeschichte. |  |  |
+| <a id="AT2.4.1"></a>**AT2.4.1** | Bei ihm finden wir diese Art, Geschichte zu machen, in der naivsten, klassischsten Einfalt. |  |  |
+| <a id="AT2.4.2"></a>**AT2.4.2** | Die einfachen drei Kategorien: Realismus, Idealismus, absolute Negativität als Einheit Beider (hier "Egoismus" benamst), die wir schon als Kind, Jüngling und Mann vorfanden, werden der ganzen Geschichte zugrunde gelegt und mit verschiedenen geschichtlichen Aushängeschildern behangen; sie sind, mit ihrem bescheidenen Gefolge von Hülfskategorien, der Inhalt aller vorgeführten, vorgeblich geschichtlichen Phasen. |  |  |
+| <a id="AT2.4.3"></a>**AT2.4.3** | Der heilige Max bewährt hier wieder seinen riesenhaften Glauben, indem er den Glauben an den von deutschen Philosophen zubereiteten spekulativen Inhalt der Geschichte weiter treibt als irgendeiner seiner Vorgänger. |  |  |
+| <a id="AT2.4.4"></a>**AT2.4.4** | Es handelt sich also in dieser feierlichen und langwierigen Geschichtskonstruktion nur darum, für drei Kategorien, die so abgedroschen sind, daß sie sich unter ihrem eignen Namen gar nicht mehr öffentlich sehen lassen dürfen, eine pomphafte Reihe volltönender Namen zu finden. |  |  |
+| <a id="AT2.4.5"></a>**AT2.4.5** | Unser gesalbter Autor hätte ganz gut von dem "Manne", p. 20, sogleich auf "Ich", p. 201, oder noch besser auf den "Einzigen", p. 485, übergehen können; das aber wäre viel zu einfach gewesen. |  |  |
+| <a id="AT2.4.6"></a>**AT2.4.6** | Zudem macht die große Konkurrenz unter den deutschen Spekulanten jedem neuen Mitbewerber eine schmetternde historische Annonce für seine Ware zur Pflicht. |  |  |
+| <a id="AT2.5.1"></a>**AT2.5.1** | Die "Kraft des wahren Verlaufs", um mit dem Dottore Graziano zu sprechen, "verläuft sich aufs kräftigste" in folgenden "Wandlungen": |  |  |
+| <a id="AT2.6.1"></a>**AT2.6.1** | Grundlage: |  |  |
+| <a id="AT2.7.1"></a>**AT2.7.1** | I. Realismus. |  |  |
+| <a id="AT2.8.1"></a>**AT2.8.1** | II. Idealismus. |  |  |
+| <a id="AT2.9.1"></a>**AT2.9.1** | III. Negative Einheit Beider. |  |  |
+| <a id="AT2.9.2"></a>**AT2.9.2** | "Man" (p. 485) |  |  |
+| <a id="AT2.10.1"></a>**AT2.10.1** | Erste Namengebung: |  |  |
+| <a id="AT2.11.1"></a>**AT2.11.1** | I. Kind, abhängig von den Dingen (Realismus). |  |  |
+| <a id="AT2.12.1"></a>**AT2.12.1** | II. Jüngling, abhängig von Gedanken (Idealismus). |  |  |
+| <a id="AT2.13.1"></a>**AT2.13.1** | III. Mann - (als negative Einheit) |  |  |
+| <a id="AT2.14.1"></a>**AT2.14.1** | positiv ausgedrückt: Eigner der Gedanken und Dinge, (Egoismus). |  |  |
+| <a id="AT2.15.1"></a>**AT2.15.1** | negativ ausgedrückt: Los von Gedanken und Dingen |  |  |
+| <a id="AT2.16.1"></a>**AT2.16.1** | Zweite, historische Namengebung: |  |  |
+| <a id="AT2.17.1"></a>**AT2.17.1** | I. Neger (Realismus, Kind). |  |  |
+| <a id="AT2.18.1"></a>**AT2.18.1** | II. Mongole (Idealismus, Jüngling). |  |  |
+| <a id="AT2.19.1"></a>**AT2.19.1** | III. Kaukasier (Negative Einheit von Realismus und Idealismus, Mann). |  |  |
+| <a id="AT2.20.1"></a>**AT2.20.1** | Dritte, allgemeinste Namengebung: |  |  |
+| <a id="AT2.21.1"></a>**AT2.21.1** | I. Realistischer Egoist (Egoist im gewöhnlichen Verstande) - Kind, Neger. |  |  |
+| <a id="AT2.22.1"></a>**AT2.22.1** | II. Idealistischer Egoist (Aufopfernder) - Jüngling, Mongole. |  |  |
+| <a id="AT2.23.1"></a>**AT2.23.1** | III. Wahrer Egoist (der Einzige) - Mann, Kaukasier. |  |  |
+| <a id="AT2.24.1"></a>**AT2.24.1** | Vierte, historische Namengebung. |  |  |
+| <a id="AT2.24.2"></a>**AT2.24.2** | Wiederholung der früheren Stufen innerhalb der Kaukasier. |  |  |
+| <a id="AT2.25.1"></a>**AT2.25.1** | I. Die Alten. |  |  |
+| <a id="AT2.25.2"></a>**AT2.25.2** | Negerhafte Kaukasier - kindische Männer - Heiden - abhängig von den Dingen - Realisten - Welt. |  |  |
+| <a id="AT2.25.3"></a>**AT2.25.3** | Übergang (Kind, das hinter die "Dinge dieser Welt" kommen): Sophisten; Skeptiker etc. |  |  |
+| <a id="AT2.26.1"></a>**AT2.26.1** | II. Die Neuen. |  |  |
+| <a id="AT2.26.2"></a>**AT2.26.2** | Mongolenhafte Kaukasier - jugendliche Männer - Christen - abhängig von Gedanken - Idealisten - Geist. |  |  |
+| <a id="AT2.26.3"></a>**AT2.26.3** | 1. Reine Geistergeschichte. |  |  |
+| <a id="AT2.26.4"></a>**AT2.26.4** | Christentum als Geist. |  |  |
+| <a id="AT2.26.5"></a>**AT2.26.5** | "Der Geist". |  |  |
+| <a id="AT2.26.6"></a>**AT2.26.6** | 2. Unreine Geistergeschichte. |  |  |
+| <a id="AT2.26.7"></a>**AT2.26.7** | Geist in Beziehung zu Andern. |  |  |
+| <a id="AT2.26.8"></a>**AT2.26.8** | "Die Besessenen". |  |  |
+| <a id="AT2.27.1"></a>**AT2.27.1** | A) Reine unreine Geistergeschichte. |  |  |
+| <a id="AT2.28.1"></a>**AT2.28.1** | a) der Spuk, das Gespenst, der Geist im negerhaften Zustand, als dinglicher Geist und geistiges Ding - gegenständliches Wesen für den Christen, Geist als Kind. |  |  |
+| <a id="AT2.29.1"></a>**AT2.29.1** | b) Der Sparren, die fixe Idee, der Geist im mongolischen Zustand, als geistig im Geist, Bestimmung im Bewußtsein, gedachtes Wesen im Christen - Geist als Jüngling. |  |  |
+| <a id="AT2.30.1"></a>**AT2.30.1** | B) Unreine unreine (historische) Geistergeschichte. |  |  |
+| <a id="AT2.31.1"></a>**AT2.31.1** | a) Katholizismus - Mittelalter (Neger, Kind, Realismus pp.). |  |  |
+| <a id="AT2.32.1"></a>**AT2.32.1** | b) Protestantismus - Neue Zeit in der neuen Zeit - (Mongole, Jüngling, Idealismus pp.) |  |  |
+| <a id="AT2.32.2"></a>**AT2.32.2** | Innerhalb des Protestantismus kann man wieder Unterabteilungen machen, z.B. |  |  |
+| <a id="AT2.33.1"></a>**AT2.33.1** | α) englische Philosophie - Realismus, Kind, Neger. |  |  |
+| <a id="AT2.34.1"></a>**AT2.34.1** | β) deutsche Philosophie - Idealismus, Jüngling, Mongole. |  |  |
+| <a id="AT2.35.1"></a>**AT2.35.1** | 3. Die Hierarchie - negative Einheit Beider innerhalb des mongolenhaft-kaukasischen Standpunktes. |  |  |
+| <a id="AT2.35.2"></a>**AT2.35.2** | Diese Tritt nämlich ein, wo das geschichtliche Verhältnis in ein gegenwärtiges verwandelt oder die Gegensätze als nebeneinander existierend vorgestellt werden. |  |  |
+| <a id="AT2.35.3"></a>**AT2.35.3** | Hier haben wir also zwei koexistierende Stufen: |  |  |
+| <a id="AT2.36.1"></a>**AT2.36.1** | A) Die Unjebildeten - (Böse, Bourgeois, Egoisten im gewöhnlichen Verstande) = Neger, Kinder, Katholiken, Realisten pp. |  |  |
+| <a id="AT2.37.1"></a>**AT2.37.1** | B) Die Jebildeten (Gute, citoyens, Aufopfernde, Pfaffen pp.) |  |  |
+| <a id="AT2.37.2"></a>**AT2.37.2** | Mongolen, Jünglinge, Protestanten, Idealisten. |  |  |
+| <a id="AT2.38.1"></a>**AT2.38.1** | Diese beiden Stufen existieren nebeneinander, und daraus ergibt sich "leicht", daß die Jebildeten über die Unjebildeten herrschen - dies ist die Hierarchie. |  |  |
+| <a id="AT2.38.2"></a>**AT2.38.2** | In der weiteren geschichtlichen Entwicklung wird dann |  |  |
+| <a id="AT2.39.1"></a>**AT2.39.1** | aus dem Unjebildeten der Nichthegelianer, |  |  |
+| <a id="AT2.40.1"></a>**AT2.40.1** | aus dem Jebildeten der Hegelianer, |  | Author notes: AT2.N1 |
+| <a id="AT2.41.1"></a>**AT2.41.1** | woraus folgt, daß die Hegelianer über die Nichthegelianer herrschen. |  |  |
+| <a id="AT2.41.2"></a>**AT2.41.2** | So verwandelt Stirner die spekulative Vorstellung von der Herrschaft der spekulativen Idee in der Geschichte in die Vorstellung von der Herrschaft der spekulativen Philosophen selbst. |  |  |
+| <a id="AT2.41.3"></a>**AT2.41.3** | Seine bisherige Anschauung von der Geschichte, die Herrschaft der Idee, wird in der Hierarchie zu einem gegenwärtig wirklich existierenden Verhältnis, zur Weltherrschaft der Ideologen. |  |  |
+| <a id="AT2.41.4"></a>**AT2.41.4** | Dies zeigt die Tiefe, bis zu der Stirner in die Spekulation versunken ist. |  |  |
+| <a id="AT2.41.5"></a>**AT2.41.5** | Diese Herrschaft der Spekulanten und Ideologen entwickelt sich zu guter Letzt, "da die Zeit erfüllet war", in die folgende schließliche Namengebung: |  |  |
+| <a id="AT2.42.1"></a>**AT2.42.1** | a) der politische Liberalismus, abhängig von den Dingen, unabhängig von den Personen - Realismus, Kind, Neger, Alter, Spuk, Katholizismus, Unjebildeter, herrenlos. |  |  |
+| <a id="AT2.43.1"></a>**AT2.43.1** | b) der soziale Liberalismus, unabhängig von den Dingen, abhängig vom Geist, gegenstandlos - Idealismus, Jüngling, Mongole, Neuer, Sparren, Protestantismus, Jebildeter, besitzlos. |  |  |
+| <a id="AT2.44.1"></a>**AT2.44.1** | c) der humane Liberalismus, herrenlos und besitzlos, nämlich gottlos, weil Gott zugleich der höchste Herr und der höchste Besitz, Hierarchie - negative Einheit innerhalb der Sphäre des Liberalismus, als solche Herrschaft über die Welt der Dinge und der Gedanken, zugleich der vollendete Egoist in der Aufhebung des Egoismus - die vollendete Hierarchie. |  |  |
+| <a id="AT2.44.2"></a>**AT2.44.2** | Bildet zugleich den Übergang (Jüngling, der hinter die Welt der Gedanken kommt) zum |  |  |
+| <a id="AT2.45.1"></a>**AT2.45.1** | III. "Ich" - d.h. dem vollendeten Christen, vollendeten Mann, kaukasischen Kaukasier und wahren Egoisten, der, wie der Christ durch Aufhebung der alten Welt der Geist - so durch Auflösung des Geisterreichs der Leibhaftige wird, indem er die Erbschaft des Idealismus, Jünglings, Mongolen, Neuen, Christen, Besessenen, Sparrens, Protestanten, Jebildeten, Hegelianers und humanen Liberalen sine beneficio deliberandi et inventarii <wörtlich: ohne die Vergünstigung der Bedenkzeit und der Bestandsaufnahme>antritt. |  |  |
+| <a id="AT2.46.1"></a>**AT2.46.1** | NB. 1. Es können nun noch "mitunter" Feuerbachsche und sonstige Kategorien, wie Verstand, Herz etc. bei passender Gelegenheit "episodisch eingelegt" werden, um den Farbenschmelz dieses Gemäldes zu erhöhen und neue Effekte zu produzieren. |  |  |
+| <a id="AT2.46.2"></a>**AT2.46.2** | Es versteht sich, daß auch diese nur neue Verkleidungen des stets durchgehenden Idealismus und Realismus sind. |  |  |
+| <a id="AT2.47.1"></a>**AT2.47.1** | 2. Von der wirklichen profanen Geschichte weiß der recht gläubige Sankt Max, Jacques le bonhomme, Nichts Wirkliches und Profanes zu sagen, als daß er sie unter dem Namen der "Natur", der "Welt der Dinge", der "Welt des Kindes" pp. stets dem Bewußtsein gegenüberstellt als einen Gegenstand, worüber es spekuliert, als eine Welt, die trotz ihres beständigen Vertilgtwerdens in einem mystischen Dunkel fortexistiert, um bei jeder Gelegenheit wieder zum Vorschein zu kommen; wahrscheinlich weil die Kinder und Neger fortexistieren, also auch "leicht" ihre Welt, die sogenannte Welt der Dinge. |  |  |
+| <a id="AT2.47.2"></a>**AT2.47.2** | Über dergleichen historische und unhistorische Konstruktionen hat bereits der gute alte Hegel, bei Gelegenheit Schellings, des Musterreiters aller Konstruktoren, gesagt, daß hier dies zu sagen sei: |  |  |
+| <a id="AT2.48.1"></a>**AT2.48.1** | "Das Instrument dieses gleichtönigen Formalismus ist nicht schwerer zu handhaben als die Palette eines Malers, auf der sich nur zwei Farben vorfinden, etwa schwarz" (realistisch, kindlich, negerhaft etc.) "und Gelb" <Bei Hegel: Rot und Grün> (idealistisch, jünglingshaft, mongolisch etc.), "um mit jener eine Fläche anzufärben, wenn ein historisches Stück" (die "Welt der Dinge"), "mit dieser, wenn eine Landschaft" ("der Himmel", Geist, das Heilige etc.) "verlangt wäre." |  |  |
+| <a id="AT2.48.2"></a>**AT2.48.2** | "Phänom[enologie]" p. 39. |  |  |
+| <a id="AT2.49.1"></a>**AT2.49.1** | Noch treffender hat das "gemeine Bewußtsein" diese Art Konstruktionen indem folgenden Liede verspottet: |  |  |
+| <a id="AT2.50.1"></a>**AT2.50.1** | Der Herr, der schickt den Jochem aus, Er sollt' den Hafer schneiden, Der Jochem schneidt den Hafer nicht Und kommt auch nicht nach Haus. |  |  |
+| <a id="AT2.51.1"></a>**AT2.51.1** | Da schickt der Herr den Pudel aus, Er sollt' den Jochem beißen. |  |  |
+| <a id="AT2.51.2"></a>**AT2.51.2** | Der Pudel beißt den Jochem nicht, Der Jochem schneidt den Hafer nicht Und kommen nicht nach Haus. |  |  |
+| <a id="AT2.52.1"></a>**AT2.52.1** | Da schickt der Herr den Prügel aus, Er sollt' den Pudel prügeln. |  |  |
+| <a id="AT2.52.2"></a>**AT2.52.2** | Der Prügel prügelt den Pudel nicht, Der Pudel beißt den Jochem nicht, Der Jochem schneidt den Hafer nicht Und kommen nicht nach Haus. |  |  |
+| <a id="AT2.53.1"></a>**AT2.53.1** | Da schickt der Herr das Feuer aus, Es sollt' den Prügel brennen. |  |  |
+| <a id="AT2.53.2"></a>**AT2.53.2** | Das Feuer brennt den Prügel nicht, Der Prügel prügelt Pudel nicht, Der Pudel beißt den Jochem nicht, Der Jochem, schneidt den Hafer nicht Und kommen nicht nach Haus. |  |  |
+| <a id="AT2.54.1"></a>**AT2.54.1** | Da schickt der Herr das Wasser aus, Es sollt' das Feuer löschen. |  |  |
+| <a id="AT2.54.2"></a>**AT2.54.2** | Das Wasser löscht das Feuer nicht, Das Feuer brennt den Prügel nicht, Der Prügel prügelt Pudel nicht, Der Pudel beißt den Jochem nicht, Der Jochem schneidt den Hafer nicht Und kommen nicht nach Haus. |  |  |
+| <a id="AT2.55.1"></a>**AT2.55.1** | Da schickt der Herr den Ochsen aus, Er sollt' das Wasser saufen. |  |  |
+| <a id="AT2.55.2"></a>**AT2.55.2** | Der Ochse säuft das Wasser nicht, Das Wasser löscht das Feuer nicht, Das Feuer brennt den Prügel nicht, Der Prügel prügelt Pudel nicht, Der Pudel beißt den Jochem nicht, Der Jochem schneidt den Hafer nicht Und kommt auch nicht nach Haus. |  |  |
+| <a id="AT2.56.1"></a>**AT2.56.1** | Da schickt der Herr den Schlächter aus, Er sollt' den Ochsen schlachten. |  |  |
+| <a id="AT2.56.2"></a>**AT2.56.2** | Der Schlächter schlacht't den Ochsen nicht, Der Ochse säuft das Wasser nicht, Das Wasser löscht das Feuer nicht, Das Feuer brennt den Prügel nicht, Der Prügel prügelt Pudel nicht, Der Pudel beißt den Jochem nicht, Der Jochem schneidt den Hafer nicht Und kommen nicht nach Haus. |  |  |
+| <a id="AT2.57.1"></a>**AT2.57.1** | Da schickt der Herr den Henker aus, Er sollt' den Schlächter henken. |  |  |
+| <a id="AT2.57.2"></a>**AT2.57.2** | Der Henker hängt den Schlächter, Der Schlächter schlacht't den Ochsen, Der Ochse säuft das Wasser, Das Wasser löscht das Feuer, Das Feuer brennt den Prügel, Der Prügel prügelt Pudel, Der Pudel beißt den Jochem, Der Jochem schneidt den Hafer, Und kommen all nach Haus. |  |  |
+| <a id="AT2.58.1"></a>**AT2.58.1** | Mit welcher "Virtuosität im Denken" und mit welchem Gymnasiastenmaterial Jacques le bonhomme dieses Schema ausfüllt, werden wir sogleich zu sehen Gelegenheit haben. |  |  |
+| <a id="AT2.N1.1.1"></a>**AT2.N1.1.1** | "Der Schamane und der spekulative Philosoph bezeichnen die unterste und oberste Sprosse auf der Stufenleiter des innerlichen Menschen, des Mongolen." p. 453. |  |  |

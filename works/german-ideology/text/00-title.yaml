@@ -1,0 +1,33 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: '0'
+title_original: Die deutsche Ideologie
+title_en: The German Ideology
+author: Karl Marx, Friedrich Engels
+date: 1845-1846
+original_language: de
+anchor_language: de
+source_original: MEW 3, S. 11 (Dietz, Berlin 1969) via mlwerke.de; written 1845-1846, first printed in full 1932; the authors' footnotes from mlwerke's me03_anm.htm
+source_en: 'None: no public-domain English translation'
+verses:
+- id: 0.0.1
+  kind: heading
+  original: Die deutsche Ideologie
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.1.1
+  kind: p
+  original: Kritik der neuesten deutschen Philosophie in ihren Repräsentanten Feuerbach, B. Bauer und Stirner und des deutschen Sozialismus in seinen verschiedenen Propheten
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.2.1
+  kind: heading
+  original: I. Band [Kritik der neuesten deutschen Philosophie in ihren Repräsentanten Feuerbach, B. Bauer und Stirner]
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

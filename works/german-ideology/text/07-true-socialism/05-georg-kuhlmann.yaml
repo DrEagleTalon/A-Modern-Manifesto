@@ -1,0 +1,1205 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: WSV
+title_original: V "Der Dr. Georg Kuhlmann aus Holstein" oder Die Prophetie des wahren Sozialismus "Die Neue Welt oder das Reich des Geistes auf Erden. Verkündigung"
+title_en: V. Dr. Georg Kuhlmann of Holstein, or The Prophecy of True Socialism
+author: Karl Marx, Friedrich Engels
+date: 1845-1846
+original_language: de
+anchor_language: de
+source_original: MEW 3, S. 521-530 (Dietz, Berlin 1969) via mlwerke.de; written 1845-1846, first printed in full 1932; the authors' footnotes from mlwerke's me03_anm.htm
+source_en: 'None: no public-domain English translation'
+verses:
+- id: WSV.0.1
+  kind: heading
+  original: V "Der Dr. Georg Kuhlmann aus Holstein" oder Die Prophetie des wahren Sozialismus
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '521'
+- id: WSV.0.2
+  kind: heading
+  original: '"Die Neue Welt oder das Reich des Geistes auf Erden. Verkündigung"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '521'
+- id: WSV.1.1
+  kind: p
+  original: '"Es fehlte an einem Manne", heißt es im Vorworte, "in dessen Munde all unser Leiden und all unser Sehnen und Hoffen, mit einem Worte Alles, was unsre Zeit im Innersten bewegt, zur Sprache würde.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '521'
+- id: WSV.1.2
+  kind: p
+  original: Und der mußte mitten in diesem Drängen und Ringen des Zweifels und der Sehnsucht hervortreten aus der Einsamkeit des Geistes mit der Lösung des Rätsels, das uns alle in so lebendigen Bildern umringt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '521'
+- id: WSV.1.3
+  kind: p
+  original: Dieser Mann, den unsre Zeit erwartet - er ist aufgetreten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '521'
+- id: WSV.1.4
+  kind: p
+  original: Es ist der Dr. Georg Kuhlmann aus Holstein."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '521'
+- id: WSV.2.1
+  kind: p
+  original: 'August Becker, der Verfasser dieser Zeilen, ließ sich also von einem sehr einfältigen Geiste und sehr zweideutigen Charakter in den Kopf setzen, es sei noch kein einziges Rätsel gelöst, noch keine einzige Tatkraft geweckt - die kommunistische Bewegung, welche bereits alle zivilisierten Länder ergriffen hat, sei eine taube Nuß, deren Kern nicht zu entdecken, ein Weltei, das vom großen Welthuhn ohne Hahn gezeugt worden - der wahre Kern und der eigentliche Hahn im Korbe: das sei der Doktor Georg Kuhlmann aus Holstein!...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '521'
+- id: WSV.3.1
+  kind: p
+  original: Dieser große Welthahn ist aber ein ganz gewöhnlicher Kapaun, der sich einige Zeit von den deutschen Handwerkern in der Schweiz füttern ließ und seinem Schicksale nicht entgeht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '521'
+- id: WSV.4.1
+  kind: p
+  original: Nicht, als ob wir den Doktor Kuhlmann aus Holstein für einen ganz ordinären Charlatan und schlauen Betrüger hielten, der selbst nicht an die Heilkraft seiner Lebenstinktur glaubt und mit seiner ganzen Makrobiotik nur bezweckt, seine eigne Person dem Leben zu erhalten - nein, wir wissen es sehr wohl, dieser inspirierte Doktor ist ein spiritualistischer Charlatan, ein frommer Betrüger, ein mystischer Schlaukopf, der aber, wie seine ganze Spezies, in der Wahl der Mittel nicht allzu gewissenhaft verfährt, weil mit seinem heiligen Zwecke seine Person innig verwachsen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 521-522
+- id: WSV.4.2
+  kind: p
+  original: Die heiligen Zwecke sind nämlich immer mit den heiligen Personen auf das Innigste verwachsen; denn sie sind rein idealistischer Natur und haben ihre Existenz nur in den Köpfen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '522'
+- id: WSV.4.3
+  kind: p
+  original: Alle Idealisten, die philosophischen wie die religiösen, die alten wie die modernen, glauben an Inspirationen, an Offenbarungen, an Heilande, an Wundermänner, und es hängt nur von der Stufe ihrer Bildung ab, ob dieser Glaube eine rohe, religiöse oder eine gebildete, philosophische Gestalt annimmt, wie es nur von dem Maße ihrer Energie, ihrem Charakter, ihrer gesellschaftlichen Stellung usw. abhängt, ob sie sich passiv oder aktiv zum Wunderglauben verhalten, d.h. Wunderschäfer oder Schafe sind, ob sie ferne theoretische oder praktische Zwecke dabei verfolgen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '522'
+- id: WSV.5.1
+  kind: p
+  original: Kuhlmann ist ein sehr energischer Mann und nicht ohne philosophische Bildung; er verhält sich keineswegs passiv zum Wunderglauben und verfolgt dabei sehr praktische Zwecke.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '522'
+- id: WSV.6.1
+  kind: p
+  original: August Becker teilt nur mit Kuhlmann die nationale Gemütskrankheit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '522'
+- id: WSV.6.2
+  kind: p
+  original: Der gute Mann "bedauert die, welche es nicht über sich bringen können, einzusehen, daß der Wille und Gedanke der Zeit immer nur von Einzelnen ausgesprochen werden kann".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '522'
+- id: WSV.6.3
+  kind: p
+  original: Für den Idealisten hat jede weltumgestaltende Bewegung ihre Existenz nur im Kopfe eines Auserwählten, und das Schicksal der Welt hängt davon ab, ob dieser eine Kopf, der alle Weisheit als Privateigentümer besitzt, durch irgendeinen realistischen Stein tödlich verletzt wird, bevor er seine Offenbarungen von sich gegeben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '522'
+- id: WSV.6.4
+  kind: p
+  original: '"Oder wäre dem nicht so?" fügt August Becker herausfordernd hinzu.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '522'
+- id: WSV.6.5
+  kind: p
+  original: '"Setzet alle Philosophen und Theologen der Zeit zusammen und laßt sie raten und abstimmen, und dann sehet, was da herauskommt!"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '522'
+- id: WSV.7.1
+  kind: p
+  original: Die ganze historische Entwicklung reduziert sich für den Ideologen auf die theoretischen Abstraktionen der historischen Entwicklung, wie sie in den "Köpfen" aller "Philosophen und Theologen der Zeit" sich gebildet haben, und da man alle die "Köpfe" unmöglich "zusammensetzen" und "raten und abstimmen" lassen kann, so muß es Einen heiligen Kopf geben, der die Spitze von allen jenen philosophischen und theologischen Köpfen bildet, und dieser Spitzkopf ist die spekulative Einheit jener Dickköpfe - der Erlöser.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '522'
+- id: WSV.8.1
+  kind: p
+  original: Dieses Kopfsystem ist so alt wie die ägyptischen Pyramiden, mit denen es mancherlei Ähnlichkeit hat, und so neu wie die preußische Monarchie, in deren Hauptstadt es kürzlich wieder verjüngt auferstand.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 522-523
+- id: WSV.8.2
+  kind: p
+  original: Die idealistischen Dalai-Lamas haben das mit dem wirklichen gemein, daß sie sich einreden möchten, die Welt, aus der sie ihre Nahrung ziehen, könne ohne ihre heiligen Exkremente nicht bestehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.8.3
+  kind: p
+  original: Sobald diese idealistische Tollheit praktisch wird, tritt alsbald ihr bösartiger Charakter an den Tag, ihre pfäffische Herrschsucht, ihr religiöser Fanatismus, ihre Charlatanerie, ihre pietistische Heuchelei, ihr frommer Betrug.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.8.4
+  kind: p
+  original: Das Wunder ist die Eselsbrücke aus dem Reiche der Idee zur Praxis.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.8.5
+  kind: p
+  original: Herr Dr. Georg Kuhlmann aus Holstein ist eine solche Eselsbrücke - er ist inspiriert - und es kann daher nicht fehlen, daß sein Zauberwort die stabilsten Berge versetzt; das ist ein Trost für die geduldigen Geschöpfe, die nicht genug Energie in sich verspüren, diese Berge durch natürliches Pulver zu sprengen, eine Zuversicht für die Blinden und Zaghaften, welche den materiellen Zusammenhang in den mannigfaltig zersplitterten Erscheinungen der revolutionären Bewegung nicht sehen können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.9.1
+  kind: p
+  original: '"Es fehlte bisher", sagt August Becker, "an einem Vereinigungspunkt."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.10.1
+  kind: p
+  original: 'Der heilige Georg überwindet mit leichter Mühe alle realen Hindernisse, indem er alle realen Dinge in Ideen verwandelt und sich als die spekulative Einheit derselben konstruiert, wodurch er sie zu "regieren und ordnen" vermag:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.11.1
+  kind: p
+  original: '"Die Gesellschaft der Ideen ist die Welt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.11.2
+  kind: p
+  original: Und ihre Einheit ordnet und regiert die Welt." (138.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.12.1
+  kind: p
+  original: In dieser "Gesellschaft der Ideen" schaltet und waltet unser Prophet nach Herzenslust.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.13.1
+  kind: p
+  original: '"Da wollen wir, geführt von unsrer eignen Idee, umherwandeln und Alles bis ins Einzelne betrachten, soweit es unsre Zeit erfordert." (138.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.14.1
+  kind: p
+  original: Welch eine spekulative Einheit des Unsinns!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.15.1
+  kind: p
+  original: Aber das Papier ist geduldig, und das deutsche Publikum, dem der Prophet seine Orakelsprüche vortrug, wußte von der philosophischen Entwickelung des eignen Vaterlandes so wenig, daß es nicht einmal merkte, wie der große Prophet in seinen spekulativen Orakelsprüchen nur die verkommensten philosophischen Phrasen wiederholt und sie für seine praktischen Zwecke zurechtgemacht hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.16.1
+  kind: p
+  original: Wie die medizinischen Wundermänner und Wunderkuren auf der Unbekanntschaft mit den Gesetzen der natürlichen, so fußen die sozialen Wundermänner und Wunderkuren auf der Unbekanntschaft mit den Gesetzen der sozialen Welt - und der Wunderdoktor aus Holstein ist eben der sozialistische Wunderschäfer aus Niederempt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '523'
+- id: WSV.17.1
+  kind: p
+  original: 'Dieser Wunderschäfer eröffnet zunächst seinen Schafen:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.18.1
+  kind: p
+  original: '"Ich sehe vor mir eine Versammlung Auserwählter, die mir vorangegangen, durch Wort und Tat zu wirken für das Heil der Zeit, und nun gekommen sind, zu hören, was ich über das Wohl und Wehe der Menschheit reden werde."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.19.1
+  kind: p
+  original: '"Viele schon haben in ihrem Namen geredet und geschrieben; noch aber hat Niemand ausgesprochen, woran sie eigentlich leidet, was sie hoffet und erwartet und wie sie das erreichen kann.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.19.2
+  kind: p
+  original: Das aber ist es, was ich tun will."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.20.1
+  kind: p
+  original: Und seine Schafe glauben ihm das.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.21.1
+  kind: p
+  original: Im ganzen Werke dieses "heiligen Geistes", der bereits veraltete, sozialistische Theorien auf die kahlsten, allgemeinsten Abstraktionen reduziert, ist kein einziger origineller Gedanke.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.21.2
+  kind: p
+  original: Selbst in der Form, im Stil ist nichts Originelles.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.21.3
+  kind: p
+  original: Der heilige Stil der Bibel ist schon von Andern glücklicher nachgeahmt worden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.21.4
+  kind: p
+  original: Kuhlmann hat sich in dieser Beziehung Lamennais zum Muster genommen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.21.5
+  kind: p
+  original: Aber er ist nur die Karikatur Lamennais'.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.21.6
+  kind: p
+  original: 'Wir wollen unsern Lesern hier eine Probe von den Schönheiten seines Stils geben:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.22.1
+  kind: p
+  original: '"Sagt mir erstens, wie wird Euch zumute, wenn Ihr daran denkt, was aus Euch werden soll in alle Ewigkeit?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.23.1
+  kind: p
+  original: 'Viele lachen zwar und sagen: ''Was kümmert mich die Ewigkeit?'''
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.24.1
+  kind: p
+  original: 'Andre reiben sich die Augen aus und fragen: ''Ewigkeit - was ist das?...'''
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.25.1
+  kind: p
+  original: Wie ist Euch ferner, wenn Ihr an die Stunde denkt, wo Euch das Grab verschlingen wird?"
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.26.1
+  kind: p
+  original: '"Und ich höre viele Stimmen."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.26.2
+  kind: p
+  original: '- Darunter eine, welche also spricht:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.27.1
+  kind: p
+  original: '"Man lehrt in neuester Zeit, der Geist sei ewig, er werde im Tode nur wieder aufgelöst in Gott, von dem er ausgegangen sei.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.27.2
+  kind: p
+  original: Die aber solches lehren, können mir nicht sagen, was dann von mir übrigbleibt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.27.3
+  kind: p
+  original: O, daß ich nie geboren wäre!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.27.4
+  kind: p
+  original: Und gesetzt, ich daure fort - o, meine Eltern, meine Schwestern, meine Brüder, meine Kinder und Alle, die ich liebe, werd' ich Euch dann jemals wiedersehen?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.27.5
+  kind: p
+  original: O, hätt' ich Euch nie gesehen!" usw.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.28.1
+  kind: p
+  original: '"Wie wird Euch ferner, wenn Ihr denkt an die Unendlichkeit?"...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.29.1
+  kind: p
+  original: Es wird uns übel, Herr Kuhlmann - nicht vor dem Gedanken des Todes, sondern vor Ihrer Phantasie des Todes, vor Ihrem Stil, vor Ihren armseligen Mitteln, auf die Gemüter zu wirken!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.30.1
+  kind: p
+  original: '"Wie wird Dir zumute", lieber Leser, wenn Du einen Pfaffen hörst, der seinen Schafen die Hölle recht heiß und das Gemüt recht weich macht, dessen ganze Beredsamkeit sich darauf beschränkt, die Tränendrüsen seiner Zuhörer in Aktivität zu setzen, und der nur auf die Feigheit seiner Gemeinde spekuliert?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '524'
+- id: WSV.31.1
+  kind: p
+  original: Was den magern Inhalt der "Verkündigung" betrifft, so läßt sich zunächst die erste Abteilung oder die Einleitung in die "Neue Welt" auf den einfachen Gedanken reduzieren, daß Herr Kuhlmann aus Holstein gekommen ist, um das "Reich des Geistes", das "Himmelreich" auf Erden, zu gründen, daß kein Mensch vor ihm gewußt habe, was die eigentliche Hölle und was der eigentliche Himmel - das nämlich jene die bisherige, dieser die zukünftige Gesellschaft, das "Reich des Geistes" - und er selbst der ersehnte heilige "Geist" sei...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 524-525
+- id: WSV.32.1
+  kind: p
+  original: Alle diese großen Gedanken sind nicht gerade ganz originelle Gedanken des heiligen Georg, und er hätte sich nicht von Holstein nach der Schweiz zu bemühen und aus der "Einsamkeit des Geistes"' zu den Handwerkern herabzulassen und sich zu "offenbaren" nötig gehabt, um der "Welt" dieses "Gesicht" zu zeigen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.33.1
+  kind: p
+  original: Daß aber der Herr Dr. Kuhlmann aus Holstein der "ersehnte heilige Geist", dieser Gedanke ist allerdings sein ganz ausschließliches Privateigentum und wird es bleiben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.34.1
+  kind: p
+  original: 'Die heilige Schrift unsres St. Georg nimmt nun, wie er dieses selbst "offenbart"'', folgenden Verlauf:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.35.1
+  kind: p
+  original: '"Sie wird eröffnen", sagt er, "das Reich des Geistes in irdischer Gestalt, damit Ihr schauet dessen Herrlichkeit und sehet, daß kein ander Heil ist als im Reich des Geistes.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.35.2
+  kind: p
+  original: Auf der anderen Seite wird sie enthüllen Euer Jammertal, damit Ihr Euer Elend schauet und erkennt den Grund aller Eurer Leiden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.35.3
+  kind: p
+  original: Dann werde ich den Weg zeigen, der hinüberführt aus dieser kummervollen Gegenwart in eine freudenvolle Zukunft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.35.4
+  kind: p
+  original: Zu diesem Ende folget mir im Geist auf eine Höhe, von wannen wir eine freie Aussicht haben in die weite Gegend."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.36.1
+  kind: p
+  original: Der Prophet läßt uns also zunächst seine "schöne Gegend", sein Himmelreich, schauen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.36.2
+  kind: p
+  original: Wir sehen nichts als ein erbärmlich in Szene gesetztes Mißverständnis des Saint-Simonismus in karikiertem Lamennaisschem Kostüm, verbrämt mit Erinnerungen aus Herrn Stein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.37.1
+  kind: p
+  original: Wir zitieren nun die wichtigsten Offenbarungen aus dem Himmelreich, welche die prophetische Methode konstatieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.37.2
+  kind: p
+  original: 'Z.B. Seite 37:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.38.1
+  kind: p
+  original: '"Die Wahl ist frei und richtet sich nach eines Jeden Neigung, Die Neigung richtet sich nach seinen Anlagen."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.39.1
+  kind: p
+  original: '"Wenn in der Gesellschaft", orakelt St. Georg, "Jeder seiner Neigung folgt, so werden alle ihre Anlagen insgesamt entwickelt, und wenn dieses ist, so wird auch stets hervorgebracht, was Alle insgesamt bedürfen, im Reich des Geistes wie im Reich der Materie.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.39.2
+  kind: p
+  original: Denn die Gesellschaft besitzt stets so viele Anlagen und Kräfte, als sie Bedürfnisse hat"...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.39.3
+  kind: p
+  original: '"Les attractions sont proportionelles aux Destinées" <"Die Neigungen sind den Bestimmungen proportional">, vergleiche auch Proudhon.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '525'
+- id: WSV.40.1
+  kind: p
+  original: Der Herr Kuhlmann unterscheidet sich hier von den Sozialisten und Kommunisten nur durch ein Mißverständnis, dessen Grund in der Verfolgung seiner praktischen Zwecke und ohne Zweifel auch in seiner Borniertheit zu suchen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.40.2
+  kind: p
+  original: Er verwechselt die Verschiedenheit der Anlagen und Fähigkeiten mit der Ungleichheit des Besitzes und des vom Besitze bedingten Genusses und polemisiert daher gegen den Kommunismus.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.41.1
+  kind: p
+  original: '"Niemand soll da" (nämlich im Kommunismus) " einen Vorzug haben vor dem Andern", eifert der Prophet, "Niemand mehr besitzen und besser leben als der Andre...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.41.2
+  kind: p
+  original: Und wenn Ihr daran Zweifel heget und nicht einstimmt in ihr Geschrei, dann schmähen sie, verdammen und verfolgen Euch und hängen Euch an den Galgen." (p. 100.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.42.1
+  kind: p
+  original: Kuhlmann prophezeit zuweilen doch ganz richtig.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.43.1
+  kind: p
+  original: '"In ihrer Reihe stehen darauf Alle, die da rufen: Weg mit der Bibel!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.43.2
+  kind: p
+  original: Weg vor Allem mit der christlichen Religion, denn es ist die Religion der Demut und der knechtischen Gesinnung!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.43.3
+  kind: p
+  original: Weg überhaupt mit allem Glauben!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.43.4
+  kind: p
+  original: Wir wissen nichts von Gott noch von Unsterblichkeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.43.5
+  kind: p
+  original: 'Das sind nur Hirngespinste, zu ihrem Vorteil ausgebeutet" (soll heißen: die von den Pfaffen zu ihrem Vorteil ausgebeutet werden) "und fortgesponnen von Lügnern und Betrügern.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.43.6
+  kind: p
+  original: Fürwahr, wer noch an solche Dinge glaubt, der ist der größte Narr!"
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.44.1
+  kind: p
+  original: Kuhlmann polemisiert namentlich heftig gegen die prinzipiellen Widersacher der Lehre vom Glauben, von der Demut und Ungleichheit, d.h. dem "Unterschied des Standes und der Geburt".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.45.1
+  kind: p
+  original: Auf die niederträchtige Lehre der prädestinierten Sklaverei, die, in der Kuhlmannschen Weise ausgedrückt, stark an Friedrich Rohmer erinnert - auf die theokratische Hierarchie und in letzter Instanz auf seine eigne heilige Person begründet er seinen Sozialismus!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.46.1
+  kind: p
+  original: '"Jeder Zweig der Arbeit", heißt es p. 42, "wird geleitet vom Geschicktesten, der selber mitarbeitet, und jeder Zweig im Reiche des Genusses vom Vergnügtesten, der selber mitgenießet.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.46.2
+  kind: p
+  original: Wie aber die Gesellschaft ungeteilt ist und nur einen Geist hat, so wird die ganze Ordnung nur von einem Menschen geleitet und regiert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.46.3
+  kind: p
+  original: Und dieses ist der Weiseste, der Tugendhafteste und Seligste."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.47.1
+  kind: p
+  original: 'Seite 34 erfahren wir:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.48.1
+  kind: p
+  original: '"Wenn der Mensch im Geist nach Tugend strebt, so reget und bewegt er seine Glieder und entwickelt und bildet und gestaltet Alles an und außer sich nach seinem Wohlgefallen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.48.2
+  kind: p
+  original: Und wenn er sich im Geiste wohlbefindet, so muß er es empfinden an Allem, was da an ihm leibt und lebt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.48.3
+  kind: p
+  original: Daher ißt und trinkt der Mensch und läßt sich's schmecken; daher singt und spielt und tanzt er und küßt und weint und lacht."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '526'
+- id: WSV.49.1
+  kind: p
+  original: Der Einfluß der Anschauung Gottes auf den Appetit und der geistigen Seligkeit auf den Geschlechtstrieb ist zwar auch nicht eben das Privateigentum des Kuhlmannismus; aber er enthüllt doch manche dunkle Stelle im Propheten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 526-527
+- id: WSV.50.1
+  kind: p
+  original: Z.B. p. 36. "Beides" (Besitz und Genuß) "richtet sich nach seiner" (nämlich des Menschen) "Arbeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.50.2
+  kind: p
+  original: Diese ist der Maßstab seiner Bedürfnisse."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.50.3
+  kind: p
+  original: (So verdreht Kuhlmann den Satz, daß die kommunistische Gesellschaft im Ganzen stets so viele Anlagen und Kräfte als Bedürfnisse hat.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.50.4
+  kind: p
+  original: '"Denn die Arbeit ist die Äußerung der Ideen und der Triebe.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.50.5
+  kind: p
+  original: Und darin ruhen die Bedürfnisse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.50.6
+  kind: p
+  original: Da aber die Anlagen und Bedürfnisse der Menschen stets verschieden sind und so verteilt, daß jene nur entwickelt und diese nur befriedigt werden können, wenn Einer stets für Alle schafft und das Erzeugnis Aller ausgewechselt und verteilt wird nach Verdienst" - (?)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.50.7
+  kind: p
+  original: '- "so empfängt Jeder nur den Wert für seine Arbeit."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.51.1
+  kind: p
+  original: Dieser ganze tautologische Galimathias wäre - wie die folgenden Sätze und wie noch viele andere, mit denen wir den Leser verschonen - trotz der von A. Becker gerühmten "erhabenen Einfachheit und Klarheit " der "Offenbarung" schlechterdings undurchdringlich, wenn man nicht in den praktischen Zwecken, die der Prophet verfolgt, einen Schlüssel hätte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.51.2
+  kind: p
+  original: Es wird sogleich Alles verständlich sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.52.1
+  kind: p
+  original: '"Der Wert" - orakelt Herr K[uhlmann] weiter - "bestimmt sich selbst nach dem Bedürfnis Aller." (?)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.52.2
+  kind: p
+  original: '"Im Wert ist eines Jeden Arbeit stets enthalten, und dafür" (?) "kann er sich verschaffen, was sein Herz nur wünschen mag."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.53.1
+  kind: p
+  original: '"Sehet, meine Freunde", heißt es p. 39, "die Gesellschaft wahrer Menschen betrachtet das Leben stets als eine Schule... um sich... zu erziehen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.53.2
+  kind: p
+  original: Und dabei will sie selig sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.53.3
+  kind: p
+  original: Solches" (?) "aber muß erscheinen und sichtbar werden" (?), "sonst ist es" (?) "nicht möglich."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.54.1
+  kind: p
+  original: 'Was Herr Georg Kuhlmann aus Holstein damit sagen will, daß "solches" (das Leben? oder die Seligkeit?) "erscheinen" und "sichtbar" werden müsse, weil "es" sonst nicht "möglich" sei - daß die "Arbeit" im "Wert enthalten" sei und man sich dafür (wofür?) verschaffen könne, was das Herz wünscht - daß endlich der "Wert" nach dem "Bedürfnis" sich selbst bestimme: ist wiederum nicht abzusehen, wenn man die Pointe der ganzen Offenbarung, die praktische Pointe, außer acht läßt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.55.1
+  kind: p
+  original: Versuchen wir daher eine praktische Erklärung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.56.1
+  kind: p
+  original: Der heilige Georg Kuhlmann aus Holstein hat, wie wir von August Becker erfahren, im Vaterlande kein Glück gemacht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.56.2
+  kind: p
+  original: 'Er kommt nach der Schweiz und findet hier eine ganz "neue Welt": die kommunistischen Gesellschaften der deutschen Handwerker.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.56.3
+  kind: p
+  original: Das ist ihm schon recht - und er macht sich sofort an den Kommunismus und die Kommunisten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '527'
+- id: WSV.56.4
+  kind: p
+  original: Er hat immer, wie August Becker uns erzählt, "unablässig daran gearbeitet, seine Lehre weiterzubilden und sie auf die Höhe der großen Zeit zu erheben ", d.h., er wurde unter den Kommunisten ad majorem Dei gloriam <zum höheren Ruhme Gottes> Kommunist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 527-528
+- id: WSV.56.5
+  kind: p
+  original: So weit ging Alles ganz gut.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '528'
+- id: WSV.57.1
+  kind: p
+  original: 'Nun aber besteht eines der wesentlichsten Prinzipien des Kommunismus, wodurch er sich von jedem reaktionären Sozialismus unterscheidet, in der auf die Natur des Menschen begründeten empirischen Ansicht, daß die Unterschiede des Kopfes und der intellektuellen Fähigkeiten überhaupt keine Unterschiede des Magens und der physischen Bedürfnisse bedingen; daß mithin der falsche, auf unsre bestehenden Verhältnisse begründete Satz: "Jedem nach seinen Fähigkeiten", sofern er sich auf den Genuß im engeren Sinne bezieht, umgewandelt werden muß in den Satz: Jedem nach Bedürfnis; daß, mit andern Worten, die Verschiedenheit in der Tätigkeit, in den Arbeiten, keine Ungleichheit, kein Vorrecht des Besitzes und Genusses begründet.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '528'
+- id: WSV.58.1
+  kind: p
+  original: Das konnte der Prophet nicht zugeben; denn das Vorrecht, der Vorzug, das Auserwähltsein vor andern ist eben der Kitzel des Propheten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '528'
+- id: WSV.58.2
+  kind: p
+  original: '"Solches aber muß erscheinen und sichtbar werden, sonst ist es nicht möglich."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '528'
+- id: WSV.58.3
+  kind: p
+  original: Ohne praktischen Vorzug, ohne fühlbaren Kitzel wäre eben der Prophet kein Prophet, kein praktischer, sondern nur ein theoretischer Gottesmann, ein Philosoph.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '528'
+- id: WSV.58.4
+  kind: p
+  original: Der Prophet muß also den Kommunisten begreiflich machen, daß die Verschiedenheit der Tätigkeit, der Arbeit, eine Verschiedenheit des Wertes und der Seligkeit (oder des Genusses, Verdienstes, Vergnügens, was Alles dasselbe) begründe, und daß, da Jeder seine Seligkeit, wie seine Arbeit, selbst bestimme, folglich er, der Prophet - dieses ist die praktische Pointe der Offenbarung - ein besseres Leben zu beanspruchen habe als der gemeine Handwerker.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - WSV.N1
+  mew_page: '528'
+- id: WSV.59.1
+  kind: p
+  original: 'Hiernach werden alle dunklen Stellen des Propheten klar: daß der "Besitz" und "Genuß" eines Jeden sich nach seiner "Arbeit" richte; daß die "Arbeit" des Menschen der Maßstab seiner "Bedürfnisse" sei; daß alsdann Jeder den "Wert" für seine Arbeit empfange; daß der "Wert" sich nach dem "Bedürfnis" selbst bestimme; daß eines Jeden Arbeit im Werte "enthalten" sei und er sich dafür, was sein "Herz" verlangt, verschaffen kann; daß endlich die "Seligkeit" des Auserwählten "erscheinen und sichtbar werden" müsse, weil sie sonst nicht "möglich" ist.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '528'
+- id: WSV.59.2
+  kind: p
+  original: All dieser Unsinn wird jetzt begreiflich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '528'
+- id: WSV.60.1
+  kind: p
+  original: Wir wissen nicht, wie weit die praktischen Ansprüche des Dr. Kuhlmann den Handwerkern gegenüber in der Wirklichkeit gehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '528'
+- id: WSV.60.2
+  kind: p
+  original: Wir wissen aber, daß seine Lehre das Grunddogma aller geistlichen und weltlichen Herrschsucht, der mystische Schleier aller muckerhaften Genußsucht, die Beschönigung jeder Niederträchtigkeit und die Quelle vieler Verrücktheiten ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 528-529
+- id: WSV.61.1
+  kind: p
+  original: Wir dürfen nicht unterlassen, dem Leser noch den Weg zu zeigen, der, nach Herrn Kuhlmann aus Holstein, "hinüberführt aus dieser kummervollen Gegenwart in eine freudenvolle Zukunft".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.61.2
+  kind: p
+  original: Dieser Weg ist lieblich und ergötzlich wie der Frühling in einem Blumengefilde - oder wie ein Blumengefilde im Frühling.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.62.1
+  kind: p
+  original: '"Sanft und leise - mit warmer Hand - und treibet Knospen - aus den Knospen werden Blüten - und ruft die Lerche und die Nachtigall - und weckt die Grille im Grase.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.62.2
+  kind: p
+  original: Wie der Frühling, so komme daher die neue Welt." (p. 114 sq.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.63.1
+  kind: p
+  original: Wahrhaft idyllisch malt der Prophet den Übergang aus der jetzigen sozialen Isolierung in die Gemeinschaft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.63.2
+  kind: p
+  original: Wie er die wirkliche Gesellschaft in eine "Gesellschaft von Ideen" verwandelt, um, "geführt von der eignen Idee, darin umherzuwandeln und Alles bis ins Einzelne betrachten zu können, soweit es seine Zeit erfordert", ebenso verwandelt er die wirkliche soziale Bewegung, die schon in allen zivilisierten Ländern sich als Vorläuferin einer furchtbaren Umwälzung der Gesellschaft ankündigt - in eine gemütliche und stille Bekehrung, in ein Stilleben, bei dem die Besitzer und Beherrscher der Welt sehr ruhig schlafen können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.63.3
+  kind: p
+  original: Die theoretischen Abstraktionen der wirklichen Begebenheiten, ihre ideellen Zeichen, sind für den Idealisten die Wirklichkeit - die wirklichen Begebenheiten nur " Zeichen, daß die alte Welt zu Grabe geht".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.64.1
+  kind: p
+  original: '"Was greift Ihr so ängstlich nach den Erscheinungen des Tages", grollt der Prophet p. 118, "die nichts weiter sind als Zeichen, daß die alte Welt zu Grabe geht, und vergeudet Eure Kräfte auf Bestrebungen, die Eure Hoffnungen und Erwartungen nicht erfüllen können?"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.65.1
+  kind: p
+  original: '"Ihr sollet nicht niederreißen und zerstören, was Euch da im Wege stehet, sondern es umgehen und verlassen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.65.2
+  kind: p
+  original: Und wenn Ihr es umgangen und verlassen habt, dann höret es von selber auf, denn es findet keine Nahrung mehr."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.66.1
+  kind: p
+  original: '"Wenn Ihr die Wahrheit suchet und das Licht verbreitet, so verschwindet unter Euch die Lüge und die Finsternis." (p. 116.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.67.1
+  kind: p
+  original: '"Es werden aber Viele sagen: ''Wie sollen wir ein neues Leben gründen, solange die alte Ordnung noch besteht, die uns daran verhindert?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.67.2
+  kind: p
+  original: Müßte sie nicht erst zerstört werden?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.67.3
+  kind: p
+  original: '- ''Nimmermehr'', antwortet der Weiseste, Tugendhafteste und Seligste, ''nimmermehr.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.67.4
+  kind: p
+  original: Wenn Ihr mit Andern in einem Hause wohnt, das morsch geworden ist und Euch zu eng und unbequem, und die Andern wollen darin wohnen bleiben, so brechet Ihr's nicht ab und wohnet unter freiem Himmel, sondern bauet erst ein neues, und wenn es fertig ist, da zieht Ihr ein und überlaßt das alte seinem Schicksal.'" (p. 120.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '529'
+- id: WSV.68.1
+  kind: p
+  original: Der Prophet gibt nun zwei Seiten lang Regeln, wie man sich in die neue Welt hineinschleichen kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '530'
+- id: WSV.68.2
+  kind: p
+  original: Dann wird er kriegerisch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '530'
+- id: WSV.69.1
+  kind: p
+  original: '"Es ist aber nicht genug, daß Ihr zusammenstehet und der alten Welt entsagt - Ihr werdet auch die Waffen wider sie gebrauchen, um sie zu bekämpfen, und Euer Reich erweitern und verstärken.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '530'
+- id: WSV.69.2
+  kind: p
+  original: Doch nicht auf dem Wege der Gewalt, sondern auf dem Wege der freien Überzeugung."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '530'
+- id: WSV.70.1
+  kind: p
+  original: 'Sollte man aber dennoch dazu kommen, daß man ein wirkliches Schwert ergreifen und das wirkliche Leben daransetzen müßte, um "den Himmel zu erobern mit Gewalt", dann verspricht der Prophet seiner heiligen Schar eine russische Unsterblichkeit (die Russen glauben in ihren respektiven Ortschaften wieder lebendig aufzustehen, wenn sie im Kriege vom Feinde getötet werden):'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '530'
+- id: WSV.71.1
+  kind: p
+  original: '"Und die da fallen auf dem Wege, werden neu geboren werden und schöner auferblühen, denn sie vorher waren.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '530'
+- id: WSV.71.2
+  kind: p
+  original: Darum" (darum) "sorget nicht für Euer Leben und fürchtet nicht den Tod." (129.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '530'
+- id: WSV.72.1
+  kind: p
+  original: Also auch im Kampfe mit wirklichen Waffen, beruhigt der Prophet seine heilige Schar, braucht Ihr Euer Leben nicht wirklich, sondern nur zum Scheine einzusetzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '530'
+- id: WSV.73.1
+  kind: p
+  original: Die Lehre des Propheten ist in jedem Sinne beruhigend, und man kann sich nach diesen Proben seiner heiligen Schrift gewiß nicht über den Beifall wundern, den sie bei einigen gemütlichen Schlafmützen gefunden hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '530'
+- id: WSV.N1.1.1
+  kind: note
+  original: In einer nicht gedruckten Vorlesung hat der Prophet dies übrigens unverhüllt ausgesprochen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

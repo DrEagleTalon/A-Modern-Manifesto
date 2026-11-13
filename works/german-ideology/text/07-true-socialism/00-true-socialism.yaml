@@ -1,0 +1,260 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: WS
+title_original: II. Band [Kritik des deutschen Sozialismus in seinen verschiedenen Propheten] Der wahre Sozialismus
+title_en: Volume II. True Socialism
+author: Karl Marx, Friedrich Engels
+date: 1845-1846
+original_language: de
+anchor_language: de
+source_original: MEW 3, S. 441-443 (Dietz, Berlin 1969) via mlwerke.de; written 1845-1846, first printed in full 1932; the authors' footnotes from mlwerke's me03_anm.htm
+source_en: 'None: no public-domain English translation'
+verses:
+- id: WS.0.1
+  kind: heading
+  original: II. Band [Kritik des deutschen Sozialismus in seinen verschiedenen Propheten]
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '441'
+- id: WS.0.2
+  kind: heading
+  original: Der wahre Sozialismus
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '441'
+- id: WS.1.1
+  kind: p
+  original: Dasselbe Verhältnis, das wir im ersten Bande (vgl. "Sankt Max", "Der politische Liberalismus") zwischen dem bisherigen deutschen Liberalismus und der französischen und englischen Bourgeoisie-Bewegung nachgewiesen haben, findet statt zwischen dem deutschen Sozialismus und der Proletariatsbewegung Frankreichs und Englands.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '441'
+- id: WS.1.2
+  kind: p
+  original: Neben den deutschen Kommunisten hat sich eine Anzahl Schriftsteller aufgetan, die einige französische und englische kommunistische Ideen aufgenommen und mit ihren deutsch-philosophischen Voraussetzungen verquickt haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '441'
+- id: WS.1.3
+  kind: p
+  original: Diese "Sozialisten" oder "wahren Sozialisten", wie sie sich nennen, sehen in der kommunistischen Literatur des Auslandes nicht den Ausdruck und das Produkt einer wirklichen Bewegung, sondern rein theoretische Schriften, die ganz, wie sie es sich von den deutschen philosophischen Systemen vorstellen, aus dem "reinen Gedanken" hervorgegangen sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '441'
+- id: WS.1.4
+  kind: p
+  original: Sie denken nicht daran, daß diesen Schriften, selbst wenn sie Systeme predigen, die praktischen Bedürfnisse, die ganzen Lebensverhältnisse einer bestimmten Klasse bestimmter Länder zugrunde liegen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '441'
+- id: WS.1.5
+  kind: p
+  original: Sie nehmen die Illusion mancher dieser literarischen Parteirepräsentanten, als handle es sich bei ihnen um die "vernünftigste" Ordnung der Gesellschaft und nicht um die Bedürfnisse einer bestimmten Klasse und Epoche, auf Treu und Glauben an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '441'
+- id: WS.1.6
+  kind: p
+  original: Die deutsche Ideologie, in der diese "wahren Sozialisten" befangen sind, erlaubt ihnen nicht, das wirkliche Verhältnis zu betrachten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '441'
+- id: WS.1.7
+  kind: p
+  original: Ihre Tätigkeit gegenüber den "unwissenschaftlichen" Franzosen und Engländern besteht nun darin, vor allen Dingen die Oberflächlichkeit oder den "rohen" Empirismus dieser Ausländer gehörig der Verachtung des deutschen Publikums preiszugeben, der "deutschen Wissenschaft" einen Hymnus zu singen und ihr die Mission zu geben, die Wahrheit des Kommunismus und Sozialismus, den absoluten, den wahren Sozialismus erst an den Tag zu bringen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '441'
+- id: WS.1.8
+  kind: p
+  original: Sie geben sich auch sogleich an die Arbeit, um als Vertreter der "deutschen Wissenschaft" diese Mission zu erfüllen, obwohl in den meisten Fällen diese "deutsche Wissenschaft" ihnen fast ebenso fremd geblieben ist wie die Originalschriften der Franzosen und Engländer, die sie nur aus den Kompilationen von Stein und Oelckers etc. kennen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 441-442
+- id: WS.1.9
+  kind: p
+  original: Und worin besteht diese "Wahrheit", die sie dem Sozialismus und Kommunismus geben?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.1.10
+  kind: p
+  original: Sie suchen sich die ihnen teils wegen ihrer Unkenntnis schon des bloß literarischen Zusammenhangs, teils wegen ihrer erwähnten falschen Auffassung der sozialistischen und kommunistischen Literatur gänzlich unerklärlichen Ideen dieser Literatur mit Hülfe der deutschen, namentlich Hegelschen und Feuerbachschen Ideologie klarzumachen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.1.11
+  kind: p
+  original: Sie heben die kommunistischen Systeme, Kritiken und Streitschriften ab von der wirklichen Bewegung, deren bloßer Ausdruck sie sind, und bringen sie dann in einen willkürlichen Zusammenhang mit der deutschen Philosophie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.1.12
+  kind: p
+  original: Sie trennen das Bewußtsein bestimmter geschichtlich bedingter Lebenssphären von diesen Lebenssphären und messen es an dem wahren, absoluten, d.h. deutsch-philosophischen Bewußtsein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.1.13
+  kind: p
+  original: Sie verwandeln ganz konsequent die Verhältnisse dieser bestimmten Individuen in Verhältnisse " des Menschen", sie erklären sich die Gedanken dieser bestimmten Individuen über ihre eignen Verhältnisse dahin, daß sie Gedanken über " den Menschen" seien.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.1.14
+  kind: p
+  original: Sie sind damit vom wirklichen geschichtlichen Boden auf den Boden der Ideologie zurückgekommen und können nun, da sie den wirklichen Zusammenhang nicht kennen, mit Hülfe der "absoluten" oder einer andern ideologischen Methode leicht einen phantastischen Zusammenhang konstruieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.1.15
+  kind: p
+  original: Diese Übersetzung der französischen Ideen in die Sprache der deutschen Ideologen und dieser willkürlich fabrizierte Zusammenhang zwischen dem Kommunismus und der deutschen Ideologie bilden dann den sogenannten "wahren Sozialismus", der, wie die englische Konstitution von den Tories, für "den Stolz der Nation und den Neid aller Nachbarvölker" ausposaunt wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.2.1
+  kind: p
+  original: Dieser "wahre Sozialismus" ist also weiter nichts als die Verklärung des proletarischen Kommunismus und der ihm mehr oder minder verwandten Parteien und Sekten Frankreichs und Englands im Himmel des deutschen Geistes und, wie wir ebenfalls sehen werden, des deutschen Gemütes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.2.2
+  kind: p
+  original: Der wahre Sozialismus, der auf der "Wissenschaft" zu beruhen vorgibt, ist vor allen Dingen selbst wieder eine esoterische Wissenschaft; seine theoretische Literatur ist nur für Die, die in die Mysterien des "denkenden Geistes" eingeweiht sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.2.3
+  kind: p
+  original: Er hat aber auch eine exoterische Literatur, er muß, schon weil er sich um gesellschaftliche, exoterische Verhältnisse kümmert, eine Art Propaganda machen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.2.4
+  kind: p
+  original: In dieser exoterischen Literatur appelliert er nicht mehr an den deutschen "denkenden Geist", sondern an das deutsche "Gemüt".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '442'
+- id: WS.2.5
+  kind: p
+  original: Dies ist um so leichter, als der wahre Sozialismus, dem es nicht mehr um die wirklichen Menschen, sondern um " den Menschen" zu tun ist, alle revolutionäre Leidenschaft verloren hat und an ihrer Stelle allgemeine Menschenliebe proklamiert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 442-443
+- id: WS.2.6
+  kind: p
+  original: Er wendet sich somit nicht an die Proletarier, sondern an die beiden zahlreichsten Menschenklassen Deutschlands, an die Kleinbürger und ihre philanthropischen Illusionen und an die Ideologen ebendieser Kleinbürger, die Philosophen und Philosophenschüler; er wendet sich überhaupt an das gegenwärtig in Deutschland herrschende "gemeine" und ungemeine Bewußtsein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '443'
+- id: WS.3.1
+  kind: p
+  original: Es war nach den in Deutschland faktisch vorliegenden Verhältnissen notwendig, daß sich diese Zwischensekte bildete, daß eine Vermittlung des Kommunismus mit den herrschenden Vorstellungen versucht wurde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '443'
+- id: WS.3.2
+  kind: p
+  original: Es war ebenso notwendig, daß eine Menge deutscher Kommunisten, die von der Philosophie ausgingen, erst durch einen solchen Übergang zum Kommunismus kamen und noch kommen, während Andere, die den Schlingen der Ideologie sich nicht entwinden können, diesen wahren Sozialismus bis an ihr seliges Ende predigen werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '443'
+- id: WS.3.3
+  kind: p
+  original: Wir können daher nicht wissen, ob diejenigen der "wahren Sozialisten", deren hier kritisierte Schriften vor einiger Zeit verfaßt wurden, diesen Standpunkt noch behaupten oder ob sie weitergegangen sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '443'
+- id: WS.3.4
+  kind: p
+  original: Wir haben überhaupt gegen die Personen nichts, wir nehmen bloß die gedruckten Aktenstücke als Ausdruck einer für ein so versumpftes Land wie Deutschland unvermeidlichen Richtung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '443'
+- id: WS.4.1
+  kind: p
+  original: Außerdem aber hat der wahre Sozialismus allerdings einer Masse jung-deutscher Belletristen, Wunderdoktoren und sonstiger Literaten ein Tür eröffnet zur Exploitation der sozialen Bewegung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '443'
+- id: WS.4.2
+  kind: p
+  original: Der Mangel wirklicher, leidenschaftlicher, praktischer Parteikämpfe in Deutschland machte auch die soziale Bewegung anfangs zu einer bloß literarischen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '443'
+- id: WS.4.3
+  kind: p
+  original: Der wahre Sozialismus ist die vollkommenste soziale Literaturbewegung, die ohne wirkliche Parteiinteressen entstand und nun, nachdem die kommunistische Partei sich formiert hat, trotz ihr fortbestehen will.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '443'
+- id: WS.4.4
+  kind: p
+  original: Es versteht sich, daß seit dem Entstehen einer wirklichen kommunistischen Partei in Deutschland die wahren Sozialisten immer mehr auf Kleinbürger als Publikum und impotente und verlumpte Literaten als Repräsentanten dieses Publikums sich beschränken werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '443'

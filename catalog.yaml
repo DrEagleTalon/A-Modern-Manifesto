@@ -266,10 +266,10 @@
   original_language: de
   tier: B
   priority: 20
-  stage: planned
+  stage: ready
   sources:
-    original: ["mlwerke:me03/me03_009.htm and following"]
-  notes: Long and fragmentary; English translations from the 1930s onward need checking.
+    original: ["mlwerke:me03/me03_009.htm..me03_521.htm (MEW 3, pp. 9-530: base text)", "mlwerke:me03/me03_anm.htm (the authors' footnotes)", "mia:docs/MEW-ZENO/3/ME03-011.html..ME03-521.html (zeno.org transcription: collation copy)"]
+  notes: German only, from MEW 3 (mlwerke.de) with the authors' marginal notes and struck passages as footnotes; the zeno.org transcription is the collation copy. The English translations (1938 onward) are not public domain, so the modern column is translated from the German.
 
 - id: mass-strike
   prefix: MS

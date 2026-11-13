@@ -1,0 +1,1973 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: NT6
+title_original: 6. Das hohe Lied Salomonis oder Der Einzige
+title_en: New Testament, 6. The Song of Songs, or The Unique
+author: Karl Marx, Friedrich Engels
+date: 1845-1846
+original_language: de
+anchor_language: de
+source_original: MEW 3, S. 413-429 (Dietz, Berlin 1969) via mlwerke.de; written 1845-1846, first printed in full 1932; the authors' footnotes from mlwerke's me03_anm.htm
+source_en: 'None: no public-domain English translation'
+verses:
+- id: NT6.0.1
+  kind: heading
+  original: 6. Das hohe Lied Salomonis oder Der Einzige
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.1.1
+  kind: p
+  original: Cessem do sabio Grego, e do Troiano, As navegacoes grandes que fizeram; Calle-se de Alexandro, e de Trajano A fama das victorias que tiveram ------------------------------------------ Cesse tudo o que a Musa antigua canta, Que outro valor mais alto se alevanta.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.1.2
+  kind: p
+  original: E vós, Spreïdes minhas - - Dai-me huma furia grande, e sonorosa, E naõ de agreste avena, on frauta ruda; Mas de tuba canora, e bellicosa Que o peito accende, e o côr ao gesto mudai,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.2.1
+  kind: p
+  original: <Verstumme denn, was weiser Griechen Ahnen, was Troias Söhn' auf weiter See vermocht; von Alexandern schweige, von Trajanen, der Ruf der Siege, die ihr Arm erfocht... ------------------------------------------ Verstumme, was die Muse grauer Zeiten besang, vor andern, größern Herrlichkeiten!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.2.2
+  kind: p
+  original: Und ihr, der Spree Jungfrauen...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.2.3
+  kind: p
+  original: Leiht mir Begeisterung, die mächtig schalle, nicht, wie von rauher Flöt' und wildem Rohr, nein, von der Tuba stolzem Kriegeshalle, der Wangen rötet, Geister hebt empor...>
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.3.1
+  kind: p
+  original: gebt mir, o Nymphen der Spree, ein Lied, wie es würdig ist der Helden, die an Eurem Ufer wider die Substanz und den Menschen kämpfen, ein Lied, das über alle Welt sich verbreitet und in allen Landen gesungen wird - denn es handelt sich hier um den Mann, der getan hat,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.4.1
+  kind: p
+  original: Mais do que promettia a força humana,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.5.1
+  kind: p
+  original: < was niemals Menschenkraft vollbracht >
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.6.1
+  kind: p
+  original: mehr als die bloß "menschliche" Kraft zu leisten vermag, um den Mann, der --
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.7.1
+  kind: p
+  original: edificára Novo reino que tanto sublimára,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.8.1
+  kind: p
+  original: <... errichtete ein neues Reich... in ferner Zone>
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: NT6.9.1
+  kind: p
+  original: der ein neues Reich gestiftet hat unter entferntem Volk, nämlich den "Verein"
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.10.1
+  kind: p
+  original: '- es handelt sich hier um den'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.11.1
+  kind: p
+  original: '- tenro, e novo ramo florescente De huma arvore de Christo, mais amada,'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.12.1
+  kind: p
+  original: <- zarten Sproß, am Baume neu entfaltet dem Christus sich vor allen zugewandt,>
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.13.1
+  kind: p
+  original: um den zarten und jungen, blühenden Schößling eines von Christo vorzugsweise geliebten Baumes, der nicht weniger
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.14.1
+  kind: p
+  original: certissima esperança Do augmento da pequena Christiandade,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.15.1
+  kind: p
+  original: <zum sichern Hoffnungsstern erkoren, daß wachse stets die kleine Christenheit>
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.16.1
+  kind: p
+  original: die gewisseste Hoffnung des Wachstums ist für die kleinmütige Christenheit - es handelt sich mit Einem Wort um etwas "Noch nie Dagewesenes", um den "Einzigen ".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - NT6.N1
+  mew_page: '414'
+- id: NT6.17.1
+  kind: p
+  original: Alles, was sich in diesem noch nie dagewesenen hohen Liede vom Einzigen findet, ist bereits früher im "Buch" dagewesen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.17.2
+  kind: p
+  original: Bloß der Ordnung wegen erwähnen wir dies Kapitel; um dies mit Anstand tun zu können, haben wir uns einige Punkte bis jetzt aufgespart und werden andre kurz rekapitulieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.18.1
+  kind: p
+  original: Das "Ich" Sanchos macht eine komplette Seelenwanderung durch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.18.2
+  kind: p
+  original: Wir fanden es schon als mit sich einigen Egoisten, als Fronbauer, als Gedankenhändler, als unglücklichen Konkurrenten, als Eigner, als Sklaven, dem ein Bein ausgerissen wird, als von der Wechselwirkung zwischen Geburt und Umständen in die Luft geprellten Sancho und in hundert andern Gestalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.18.3
+  kind: p
+  original: Hier nimmt es Abschied als " Unmensch "; unter derselben Devise, unter der es seinen Einzug ins Neue Testament hielt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.19.1
+  kind: p
+  original: '" Wirklicher Mensch ist nur der - Unmensch." p. 232.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.20.1
+  kind: p
+  original: Dies ist eine der Tausend und ein Gleichungen, in welche Sancho seine Legende vom Heiligen setzt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.21.1
+  kind: p
+  original: Der Begriff Mensch ist nicht wirklicher Mensch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.22.1
+  kind: p
+  original: Der Begriff Mensch = Der Mensch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.23.1
+  kind: p
+  original: Der Mensch = Nicht wirklicher Mensch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.24.1
+  kind: p
+  original: Wirklicher Mensch = Der Nicht-Mensch. = Der Unmensch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.25.1
+  kind: p
+  original: '"Wirklicher Mensch ist nur der - Unmensch."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: NT6.26.1
+  kind: p
+  original: 'Sancho sucht sich die Harmlosigkeit dieses Satzes in folgenden Wendungen klarzumachen:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.27.1
+  kind: p
+  original: '"Mit dürren Worten zu sagen, was ein Unmensch sei, hält nicht eben schwer; es ist ein Mensch, [...] welcher dem Begriffe des Menschlichen nicht angemessen ist.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.27.2
+  kind: p
+  original: Die Logik nennt dies ein widersinniges Urteil.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.27.3
+  kind: p
+  original: Dürfte man wohl dies Urteil, daß einer Mensch sein könne, ohne Mensch zu sein, aussprechen, wenn man nicht die Hypothese gelten ließe, daß der Begriff des Menschen von der Existenz, das Wesen von der Erscheinung getrennt sein könne.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.27.4
+  kind: p
+  original: 'Man sagt: Der erscheint zwar als Mensch, ist aber kein Mensch.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.27.5
+  kind: p
+  original: Dies widersinnige Urteil haben die Menschen eine lange Reihe von Jahrhunderten hindurch gefällt, ja was noch mehr ist, in dieser langen Zeit gab es nur Unmenschen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.27.6
+  kind: p
+  original: Welcher Einzelne hätte je seinem Begriffe entsprochen?" p. 232.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.28.1
+  kind: p
+  original: Die hier wieder zugrunde liegende Einbildung unsres Schulmeisters von dem Schulmeister, der sich ein Ideal "des Menschen" gemacht und dies den Übrigen "in den Kopf gesetzt" habe, ist der Grundtext "des Buches".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.29.1
+  kind: p
+  original: Sancho nennt das eine Hypothese, daß Begriff und Existenz, Wesen und Erscheinung "des Menschen" getrennt sein können, als wenn er in den Worten selbst nicht schon die Möglichkeit der Trennung ausspräche.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.29.2
+  kind: p
+  original: Sobald er Begriff sagt, sagt er etwas Unterschiedenes von der Existenz, sobald er Wesen sagt, sagt er etwas Unterschiedenes von der Erscheinung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.29.3
+  kind: p
+  original: Nicht diese Aussagen bringt er in Gegensatz, sondern sie sind die Aussagen eines Gegensatzes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.29.4
+  kind: p
+  original: Die einzige Frage wäre also gewesen, ob er etwas unter diese Gesichtspunkte rangieren dürfe; und um hierauf einzugehen, hätte Sancho sich die wirklichen Verhältnisse der Menschen, die in diesen metaphysischen Verhältnissen andre Namen erhalten haben, betrachten müssen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.29.5
+  kind: p
+  original: Im übrigen zeigen Sanchos eigne Abhandlungen über den mit sich einigen Egoisten und die Empörung, wie man diese Gesichtspunkte auseinanderfallen lassen, und über Eigenheit, Möglichkeit und Wirklichkeit im "Selbstgenuß", wie man sie zu gleicher Zeit zusammen- und auseinanderfallen lassen kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.30.1
+  kind: p
+  original: Das widersinnige Urteil der Philosophen, daß der wirkliche Mensch nicht Mensch sei, ist nur innerhalb der Abstraktion der universellste, umfassendste Ausdruck des faktisch bestehenden universellen Widerspruchs zwischen den Verhältnissen und den Bedürfnissen der Menschen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.30.2
+  kind: p
+  original: Die widersinnige Form des abstrakten Satzes entspricht ganz der Widersinnigkeit der auf ihre höchste Spitze getriebenen Verhältnisse der bürgerlichen Gesellschaft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.30.3
+  kind: p
+  original: 'Gerade wie Sanchos widersinniges Urteil über seine Umgebung: sie sind Egoisten und sind es nicht, dem faktischen Widerspruch entspricht zwischen dem Dasein der deutschen Kleinbürger und den ihnen durch die Verhältnisse aufgedrungenen und als fromme Wünsche und Gelüste in ihnen selbst hausenden Aufgaben.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: NT6.30.4
+  kind: p
+  original: Übrigens haben die Philosophen die Menschen nicht darum für unmenschlich erklärt, weil sie dem Begriff des Menschen nicht entsprachen, sondern weil ihr Begriff des Menschen nicht dem wahren Begriff des Menschen entsprach, oder weil sie nicht das wahre Bewußtsein vom Menschen hatten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 415-416
+- id: NT6.30.5
+  kind: p
+  original: Tout comme chez nous <ganz wie bei uns> im "Buche", wo Sancho auch die Menschen nur deshalb für Nichtegoisten erklärt, weil sie nicht das wahre Bewußtsein vom Egoismus haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: NT6.31.1
+  kind: p
+  original: Der durchaus harmlose Satz, daß die Vorstellung vom Menschen nicht wirklicher Mensch sei, daß die Vorstellung eines Dinges nicht das Ding selbst ist - dieser auch vom Stein und der Vorstellung des Steins geltende Satz, wonach Sancho sagen müßte, daß wirklicher Stein nur der Unstein ist, hätte wegen seiner enormen Trivialität und unbezweifelten Gewißheit keiner Erwähnung bedurft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: NT6.31.2
+  kind: p
+  original: Aber Sanchos bekannte Einbildung, daß die Menschen bisher nur durch die Herrschaft der Vorstellungen und Begriffe in allerlei Unglück gestürzt worden, macht es ihm möglich, an diesen Satz seine alten Folgerungen wieder anzuknüpfen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: NT6.31.3
+  kind: p
+  original: Sanchos alte Meinung, man habe sich nur einige Vorstellung[en] aus dem Kopf zu schlagen, um die Verhältnisse, aus denen diese Vorstellungen entstanden sind, aus der Welt zu schlagen, reproduziert sich hier in der Gestalt, daß man sich nur die Vorstellung Mensch aus dem Kopf zu schlagen habe, um die heute unmenschlich genannten wirklichen Verhältnisse zu vernichten, sei dies Prädikat "unmenschlich" nun das Urteil des im Widerspruch mit seinen Verhältnissen stehenden Individuums oder das Urteil der normalen, herrschenden Gesellschaft über die abnorme, beherrschte Klasse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: NT6.31.4
+  kind: p
+  original: Gerade wie ein aus seinem Salzwasser in den Kupfergraben versetzter Walfisch, wenn er Bewußtsein hätte, diese durch "Ungunst der Umstände" bewirkte Lage für unwalfischmäßig erklären würde, obwohl ihm Sancho demonstrieren könnte, sie sei schon deswegen walfischmäßig, weil sie seine, des Walfisches, Lage sei - geradeso urteilen die Menschen unter gewissen Umständen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: NT6.32.1
+  kind: p
+  original: 'p.185 wirft Sancho die große Frage auf:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: NT6.33.1
+  kind: p
+  original: '"Aber der Unmensch, der doch in jedem Einzelnen steckt, wie dämmt man den?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: NT6.33.2
+  kind: p
+  original: Wie stellt man's an, daß man mit dem Menschen nicht zugleich den Unmenschen freiläßt?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: NT6.33.3
+  kind: p
+  original: 'Der gesamte Liberalismus hat einen Todfeind, einen unüberwindlichen Gegensatz, wie Gott den Teufel: dem Menschen steht der Unmensch, der Egoist, der Einzelne, stets zur Seite.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: NT6.33.4
+  kind: p
+  original: Staat, Gesellschaft, Menschheit bewältigen diesen Teufel nicht."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: NT6.34.1
+  kind: p
+  original: '"Und wenn tausend Jahre vollendet sind, wird der Satanas los werden aus seinem Gefängnis und wird ausgehen zu verführen die Heiden in den vier Örtern der Erde, den Gog und Magog, sie zu versammeln in einem Streit...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 416-417
+- id: NT6.34.2
+  kind: p
+  original: Und sie traten auf die Breite der Erde und umringten das Heerlager des Heiligen und die geliebte Stadt."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: NT6.34.3
+  kind: p
+  original: Offenbarung Johannis, 20, 7-9.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: NT6.35.1
+  kind: p
+  original: Die Frage, wie Sancho sie selbst versteht, läuft wieder auf reinen Unsinn hinaus.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: NT6.35.2
+  kind: p
+  original: Er bildet sich ein, die Menschen hätten sich bisher immer einen Begriff vom Menschen gemacht und sich dann so weit befreit, als nötig war, um diesen Begriff in sich zu verwirklichen; das jedesmalige Maß der Freiheit, das sie sich errungen, sei durch ihre jedesmalige Vorstellung vom Ideal des Menschen bestimmt worden; wobei denn nicht fehlen konnte, daß in jedem Individuum ein Rest zurückblieb, der diesem Ideal nicht entsprach und daher als "unmenschlich" nicht oder nur malgré eux <gegen ihren Willen> befreit wurde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: NT6.36.1
+  kind: p
+  original: In der Wirklichkeit trug sich die Sache natürlich so zu, daß die Menschen sich jedesmal so weit befreiten, als nicht ihr Ideal vom Menschen, sondern die existierenden Produktivkräfte ihnen vorschrieben und erlaubten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: NT6.36.2
+  kind: p
+  original: Allen bisherigen Befreiungen lagen indes beschränkte Produktivkräfte zugrunde, deren für die ganze Gesellschaft unzureichende Produktion nur dann eine Entwicklung möglich machte, wenn die Einen auf Kosten der Andern ihre Bedürfnisse befriedigten und dadurch die Einen - die Minorität - das Monopol der Entwicklung erhielten, während die Andern - die Majorität - durch den fortgesetzten Kampf um die Befriedigung der notwendigsten Bedürfnisse einstweilen (d.h. bis zur Erzeugung neuer revolutionierender Produktivkräfte) von aller Entwicklung ausgeschlossen wurden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: NT6.36.3
+  kind: p
+  original: So hat sich die Gesellschaft bisher immer innerhalb eines Gegensatzes entwickelt, der bei den Alten der Gegensatz von Freien und Sklaven, im Mittelalter der vom Adel und Leibeignen, in der neueren Zeit der von Bourgeoisie und Proletariat ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: NT6.36.4
+  kind: p
+  original: Hieraus erklärt sich einerseits die abnorme "unmenschliche" Weise, in der die beherrschte Klasse ihre Bedürfnisse befriedigt, und andererseits die Beschränkung, innerhalb deren der Verkehr und mit ihm die ganze herrschende Klasse sich entwickelt; so daß diese Beschränktheit der Entwicklung nicht nur in dem Ausschließen der einen Klasse, sondern auch in der Borniertheit der ausschließenden Klasse besteht und das "Unmenschliche" ebenfalls in der herrschenden Klasse vorkommt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: NT6.36.5
+  kind: p
+  original: Dies sogenannte "Unmenschliche" ist ebensogut ein Produkt der jetzigen Verhältnisse wie das "Menschliche"; es ist ihre negative Seite, die auf keiner neuen revolutionären Produktivkraft beruhende Rebellion gegen die auf den bestehenden Produktivkräften beruhenden herrschenden Verhältnisse und die ihnen entsprechende Weise der Befriedigung der Bedürfnisse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: NT6.36.6
+  kind: p
+  original: Der positive Ausdruck "menschlich" entspricht den bestimmten, einer gewissen Produktionsstufe gemäß he rrschenden Verhältnissen und der durch sie bedingten Weise, die Bedürfnisse zu befriedigen, wie der negative Ausdruck "unmenschlich" dem durch dieselbe Produktionsstufe täglich neu hervorgerufenen Versuche entspricht, diese herrschenden Verhältnisse und die in ihnen herrschende Weise der Befriedigung innerhalb der existierenden Produktionsweise zu negieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 417-418
+- id: NT6.37.1
+  kind: p
+  original: Solche weltgeschichtliche Kämpfe verlaufen sich für unsren Heiligen in eine bloße Kollision Sankt Brunos und "der Masse".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: NT6.37.2
+  kind: p
+  original: Vgl. die ganze Kritik des humanen Liberalismus, namentlich p. 192 seqq.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: NT6.38.1
+  kind: p
+  original: Unser einfältiger Sancho kommt also mit seinem einfältigen Sprüchlein über den Unmenschen und seinem Sich-aus-dem-Kopf-Schlagen des Menschen, womit auch der Unmensch verschwindet und kein Maß mehr für die Individuen existiert, schließlich zu folgendem Resultat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: NT6.38.2
+  kind: p
+  original: Er anerkennt die Verkrüpplung und Knechtung, der ein Individuum durch die bestehenden Verhältnisse physisch, intellektuell und sozial anheimgefallen ist, als die Individualität und Eigenheit dieses Individuums; er erkennt als ordinärer Konservateur diese Verhältnisse ruhig an, nachdem er sich dadurch von allem Kummer befreit hat, daß er sich die Vorstellung der Philosophen von diesen Verhältnissen aus dem Kopfe geschlagen hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: NT6.38.3
+  kind: p
+  original: Wie er hier die dem Individuum aufgedrungene Zufälligkeit für seine Individualität erklärt, so abstrahierte er früher (vgl. Logik) bei seinem Ich nicht nur von aller Zufälligkeit, sondern auch überhaupt von aller Individualität.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: NT6.39.1
+  kind: p
+  original: 'Dies sein "unmenschlich" großes Resultat besingt Sancho in folgendem Kyrie eleison, das er " dem Unmenschlichen" in den Mund legt:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: NT6.40.1
+  kind: p
+  original: '"Ich war verächtlich, weil Ich Mein besseres Selbst außer Mir suchte; Ich war das Unmenschliche, weil Ich vom Menschlichen träumte; Ich glich den Frommen, die nach ihrem wahren Ich hungern und immer arme Sünder bleiben; Ich dachte Mich nur im Vergleich zu einem Andern; Ich war nicht Alles in Allem, war nicht - einzig.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: NT6.40.2
+  kind: p
+  original: Jetzt aber höre Ich auf, Mir als das Unmenschliche vorzukommen; Höre auf, Mich am Menschen zu messen und messen zu lassen; Höre auf, etwas über Mir anzuerkennen - Ich bin das Unmenschliche nur gewesen, bin es nicht mehr, bin das - Einzige!"
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: NT6.41.1
+  kind: p
+  original: Hallellujah!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: NT6.42.1
+  kind: p
+  original: Ohne hier weiter darauf einzugehen, wie "das Unmenschliche", das sich, beiläufig gesagt, dadurch in den nötigen Humor versetzt hat, daß es "sich selbst und dem Kritiker" Sankt Bruno " den Rücken kehrt " - wie "das Unmenschliche" sich hier "vorkommt" oder nicht "vorkommt", notieren wir, daß das oder der "Einzige" hier dadurch qualifiziert wird, daß er sich zum neunhundertsten Male das Heilige aus dem Kopfe schlägt, womit, wie wir ebenfalls zum neunhundertsten Male wiederholen müssen, Alles beim Alten bleibt, abgesehen davon, daß es nur ein frommer Wunsch ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 418-419
+- id: NT6.43.1
+  kind: p
+  original: Wir haben hier den Einzigen zum ersten Mal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.43.2
+  kind: p
+  original: Sancho, der unter der obigen Litanei zum Ritter geschlagen worden ist, eignet sich jetzt seinen neuen adligen Namen an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.43.3
+  kind: p
+  original: Sancho kommt dadurch zu seiner Einzigkeit, daß er sich " den Menschen" aus dem Kopfe schlägt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.43.4
+  kind: p
+  original: Hiermit hört er auf, "sich nur im Vergleiche zu einem Andern zu denken" und "etwas über sich anzuerkennen".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.43.5
+  kind: p
+  original: Er wird unvergleichlich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.43.6
+  kind: p
+  original: Wir haben hier wieder die alte Marotte Sanchos, daß Vorstellungen, Ideen, "das Heilige", hier in Gestalt " des Menschen", das alleinige tertium comparationis <der Vergleichspunkt> und das alleinige Band zwischen den Individuen seien, nicht ihre Bedürfnisse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.43.7
+  kind: p
+  original: Er schlägt sich eine Vorstellung aus dem Kopfe und wird dadurch einzig.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.44.1
+  kind: p
+  original: Um "einzig" in seinem Sinne zu sein, muß er uns vor allem seine Voraussetzungslosigkeit beweisen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.45.1
+  kind: p
+  original: 'p. 470: " Dein Denken hat nicht das Denken zur Voraussetzung, sondern Dich.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.45.2
+  kind: p
+  original: Aber so setzest Du Dich doch voraus?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.45.3
+  kind: p
+  original: Ja, aber nicht Mir, sondern Meinem Denken.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.45.4
+  kind: p
+  original: Vor Meinem Denken bin - Ich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.45.5
+  kind: p
+  original: Daraus folgt, daß Meinem Denken nicht ein Gedanke vorhergeht oder daß Mein Denken ohne eine Voraussetzung ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.45.6
+  kind: p
+  original: Denn die Voraussetzung, welche Ich für Mein Denken bin, ist keine vom Denken gemachte, keine gedachte, sondern - ist der Eigner des Denkens und beweist nur, daß das Denken nichts weiter ist als - Eigentum."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.46.1
+  kind: p
+  original: Daß Sancho nicht eher denkt, als bis er denkt, und daß er und jeder Andre in dieser Hinsicht ein voraussetzungsloser Denker ist, "wird ihm hiermit zugegeben".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.46.2
+  kind: p
+  original: Ebenso wird ihm konzediert, daß er, keinen Gedanken zur Voraussetzung seines Daseins hat, d.h., daß er nicht von Gedanken gemacht worden ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.46.3
+  kind: p
+  original: Wenn Sancho einen Augenblick von seinem ganzen Gedankenkram abstrahiert, was ihm bei seinem spärlichen Sortiment nicht schwerfallen kann, so bleibt sein wirkliches Ich, aber sein wirkliches Ich innerhalb der für es existierenden wirklichen Weltverhältnisse übrig.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.46.4
+  kind: p
+  original: Er hat sich damit aller dogmatischen Voraussetzungen für einen Augenblick entledigt, aber dafür fangen die wirklichen Voraussetzungen für ihn erst an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.46.5
+  kind: p
+  original: Und diese wirklichen Voraussetzungen sind auch die Voraussetzungen seiner dogmatischen Voraussetzungen, die ihm mit den wirklichen wiederkommen, er mag wollen oder nicht, solange er nicht andre wirkliche Voraussetzungen und damit auch andre dogmatische Voraussetzungen erhält oder solange er die wirklichen Voraussetzungen nicht materialistisch als Voraussetzungen seines Denkens anerkennt, womit die dogmatischen überhaupt aufhören.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: NT6.46.6
+  kind: p
+  original: Wie ihm mit seiner bisherigen Entwicklung und mit seinen Berliner Umgebungen jetzt die dogmatische Voraussetzung des mit sich einigen Egoismus gegeben ist, so wird sie ihm trotz aller eingebildeten Voraussetzungslosigkeit bleiben, solange er nicht ihre wirklichen Voraussetzungen überwindet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 419-420
+- id: NT6.47.1
+  kind: p
+  original: Sancho trachtet als echter Schulmeister noch immer nach dem vielberühmten Hegelschen "voraussetzungslosen Denken", d.h. dem Denken ohne dogmatische Voraussetzungen, das bei Hegel auch ein frommer Wunsch ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.47.2
+  kind: p
+  original: Er glaubte es durch eine feine Volte erhaschen und es dadurch überbieten zu können, daß er auch auf das voraussetzungslose Ich Jagd machte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.47.3
+  kind: p
+  original: Aber sowohl das Eine wie das Andre ist ihm entwischt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.48.1
+  kind: p
+  original: 'Sancho versucht sein Glück nun auf eine andre Manier:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.49.1
+  kind: p
+  original: p. 214, 215.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.49.2
+  kind: p
+  original: '"Erschöpft" die Freiheitsforderung!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.49.3
+  kind: p
+  original: '"Wer soll frei werden?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.49.4
+  kind: p
+  original: Du, Ich, Wir.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.49.5
+  kind: p
+  original: Wovon frei?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.49.6
+  kind: p
+  original: Von allem, was nicht Du, nicht Ich, nicht Wir ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.49.7
+  kind: p
+  original: Ich also bin der Kern...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.49.8
+  kind: p
+  original: Was bleibt übrig, wenn Ich von allem, was nicht Ich bin, frei worden?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.49.9
+  kind: p
+  original: Nur Ich und nichts als Ich."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.50.1
+  kind: p
+  original: '"Das also war des Pudels Kern!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.50.2
+  kind: p
+  original: Ein fahrender Scholast?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.50.3
+  kind: p
+  original: Der Kasus macht mich lachen."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.51.1
+  kind: p
+  original: '"Alles, was nicht Du, nicht Ich, nicht Wir ist", ist natürlich hier wieder eine dogmatische Vorstellung, wie Staat, Nationalität, Teilung der Arbeit pp. Nachdem diese Vorstellungen kritisiert sind, was Sancho von "der Kritik", nämlich der kritischen, schon vollführt glaubt, bildet er sich wieder ein, auch vom wirklichen Staat, der wirklichen Nationalität und Teilung der Arbeit befreit zu sein.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.51.2
+  kind: p
+  original: Das Ich, das hier "der Kern" ist, das "von Allem, was nicht Ich bin, frei worden", ist also wieder das obige voraussetzungslose Ich mit Allem, was es nicht losgeworden ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.52.1
+  kind: p
+  original: Nähme Sancho indes das "Freiwerden" einmal so, daß er nicht bloß von den Kategorien, sondern von den wirklichen Fesseln frei werden wollte, so setzt diese Befreiung wieder eine ihm mit einer großen Masse Anderer gemeinsame Veränderung voraus und bewirkt einen veränderten Weltzustand, der ihm wieder mit den Andern gemeinsam ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.52.2
+  kind: p
+  original: Hiernach "bleibt" nach der Befreiung allerdings sein "Ich", aber als ein ganz verändertes Ich, übrig, das mit Andern eine veränderte Weltlage gemeinsam hat, die eben die ihm mit Andern gemeinsame Voraussetzung seiner und ihrer Freiheit ist, und hiernach gerät die Einzigkeit, Unvergleichlichkeit und Unabhängigkeit seines "Ich" wieder in die Brüche.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.53.1
+  kind: p
+  original: 'Sancho versucht''s noch auf eine dritte Manier:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.54.1
+  kind: p
+  original: p. 237.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.54.2
+  kind: p
+  original: '"Nicht daß sie" (Jude und Christ) "sich ausschließen, ist ihre Schmach, sondern daß dies nur halb geschieht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.54.3
+  kind: p
+  original: Könnten sie vollkommen Egoisten sein, so schlössen sie sich ganz aus."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: NT6.55.1
+  kind: p
+  original: p. 273.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.55.2
+  kind: p
+  original: '"Man faßt die Bedeutung des Gegensatzes zu formell und schwächlich, wenn man ihn nur auflösen will.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.55.3
+  kind: p
+  original: Der Gegensatz verdient vielmehr verschärft zu werden."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.56.1
+  kind: p
+  original: p. 274.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.56.2
+  kind: p
+  original: Ihr werdet Euren Gegensatz erst dann nicht länger bloß verhehlen, wenn Ihr ihn ganz anerkannt und Jedermann vom Wirbel bis zur Zehe sich als einzig behauptet...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.56.3
+  kind: p
+  original: Der letzte und entschiedenste Gegensatz, der des Einzigen gegen den Einzigen, ist im Grunde über das, was Gegensatz heißt, hinaus...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.56.4
+  kind: p
+  original: Du hast als Einziger nichts Gemeinsames mehr mit dem Andern und darum auch nichts Trennendes oder Feindliches...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.56.5
+  kind: p
+  original: Der Gegensatz verschwindet in der vollkommenen...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.56.6
+  kind: p
+  original: Geschiedenheit oder Einzigkeit."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.1
+  kind: p
+  original: p. 183.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.2
+  kind: p
+  original: '"Ich will nichts Besonderes vor Andern haben oder sein; Ich messe Mich auch nicht an...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.3
+  kind: p
+  original: Ich will Alles sein und Alles haben, was Ich sein und haben kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.4
+  kind: p
+  original: Ob Andre Ähnliches sind und haben, was kümmert's Mich?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.5
+  kind: p
+  original: Das Gleiche, dasselbe können sie weder sein noch haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.6
+  kind: p
+  original: Ich tue ihnen keinen Abbruch, wie Ich dem Felsen dadurch keinen Abbruch tue, daß Ich die Bewegung vor ihm voraus habe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.7
+  kind: p
+  original: Wenn sie's haben könnten, so hätten sie's. Den andern Menschen keinen Abbruch zu tun, darauf kommt die Forderung hinaus, kein Vorrecht zu besitzen...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.8
+  kind: p
+  original: Man soll sich nicht für 'etwas Besonderes' halten, wie z. B. Jude oder Christ.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.9
+  kind: p
+  original: Nun, Ich halte Mich nicht für etwas Besonderes, sondern für einzig.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.10
+  kind: p
+  original: Ich habe wohl Ähnlichkeit mit Andern; das gilt jedoch nur für die Vergleichung oder Reflexion; in der Tat bin Ich unvergleichlich, einzig.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.11
+  kind: p
+  original: Mein Fleisch ist nicht ihr Fleisch, Mein Geist ist nicht ihr Geist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.57.12
+  kind: p
+  original: Bringt Ihr sie unter die Allgemeinheiten 'Fleisch', 'Geist', so sind das Eure Gedanken, die mit Meinem Fleische, Meinem Geiste nichts zu schaffen haben."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.58.1
+  kind: p
+  original: p. 234.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.58.2
+  kind: p
+  original: '"An den Egoisten geht die menschliche Gesellschaft zugrunde, denn sie beziehen sich nicht mehr als Menschen aufeinander, sondern treten egoistisch als ein Ich gegen ein von Mir durchaus verschiedenes und gegnerisches Du auf."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.59.1
+  kind: p
+  original: p. 180.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.59.2
+  kind: p
+  original: '"Als ob nicht immer Einer den Andern suchen wird, und als ob nicht Einer in den Andern sich fügen muß, wenn er ihn braucht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.59.3
+  kind: p
+  original: Der Unterschied ist aber der, daß dann wirklich der Einzelne sich mit dem Einzelnen vereinigt, indes er früher durch ein Band mit ihm verbunden war."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.60.1
+  kind: p
+  original: p.178.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.60.2
+  kind: p
+  original: '"Nur wenn Ihr einzig seid, könnt Ihr als das, was Ihr wirklich seid, miteinander verkehren."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.61.1
+  kind: p
+  original: Was die Illusion Sanchos über den Verkehr der Einzigen "als das, was sie wirklich sind", über die "Vereinigung des Einzelnen mit dem Einzelnen", kurz über den "Verein" betrifft, so ist das vollständig abgemacht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.61.2
+  kind: p
+  original: 'Bemerken wir nur: wenn im Verein Jeder den Andern nur als seinen Gegenstand, als sein Eigentum betrachtete und behandelte (vgl. p.167 und die Eigentums- und Exploitationstheorie), so sieht der Statthalter der Insel Barataria im Kommentar (Wig[and] p.157) dagegen ein und erkennt es an, daß der Andre auch sich selbst gehört, Sein eigen, einzig ist und auch in dieser Qualität Gegenstand Sanchos wird, obgleich nicht mehr Sanchos Eigentum.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: NT6.61.3
+  kind: p
+  original: In seiner Verzweiflung rettet er sich nur durch den unerwarteten Einfall, daß er sich "hierüber selbst vergißt in süßer Selbstvergessenheit", ein Genuß, den er sich "in jeder Stunde tausendmal macht" und den ihm das süße Bewußtsein noch versüßt, daß er dann doch nicht "ganz verschwunden" ist, Es kommt hier also der alte Witz heraus, daß Jeder für sich und für Andre ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.62.1
+  kind: p
+  original: Lösen wir jetzt Sanchos pomphafte Sätze in ihren bescheidenen Inhalt auf.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.63.1
+  kind: p
+  original: Die gewaltigen Redensarten über den "Gegensatz", der verschärft und auf die Spitze getrieben werden soll, und über das "Besondre", das Sancho nicht voraus haben will, laufen auf Ein und Dasselbe hinaus.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.63.2
+  kind: p
+  original: Sancho will oder glaubt vielmehr zu wollen, daß die Individuen rein persönlich miteinander verkehren sollen, daß ihr Verkehr nicht durch ein Drittes, eine Sache vermittelt sein soll (vgl. die Konkurrenz).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.63.3
+  kind: p
+  original: Dies Dritte ist hier das "Besondre" oder der besondre, nicht absolute Gegensatz, d.h. die durch die jetzigen gesellschaftlichen Verhältnisse bedingte Stellung der Individuen zueinander.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.63.4
+  kind: p
+  original: Sancho will z.B. nicht, daß zwei Individuen als Bourgeois und Proletarier zueinander im "Gegensatz" stehen, er protestiert gegen das "Besondre", das der Bourgeois vor dem Proletarier "voraus hat"; er möchte sie in ein rein persönliches Verhältnis treten, als bloße Individuen miteinander verkehren lassen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.63.5
+  kind: p
+  original: Er bedenkt nicht, daß innerhalb der Teilung der Arbeit die persönlichen Verhältnisse notwendig und unvermeidlich sich zu Klassenverhältnissen fortbilden und fixieren und daß darum sein ganzes Gerede auf einen bloßen frommen Wunsch herausläuft, den er zu realisieren denkt, indem er die Individuen dieser Klassen vermahnt, sich die Vorstellung ihres "Gegensatzes" und ihres "besondern" "Vorrechts" aus dem Kopf zu schlagen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.63.6
+  kind: p
+  original: In den oben zitierten Sätzen Sanchos kommt es überhaupt nur darauf an, wofür sich die Leute halten und wofür er sie hält, was sie wollen und was er will.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.63.7
+  kind: p
+  original: Durch ein verändertes "Dafürhalten " und "Wollen" wird der "Gegensatz" und das "Besondre" aufgehoben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.64.1
+  kind: p
+  original: Selbst das, was ein Individuum als solches vor dem andern voraus hat, ist heutzutage zugleich ein Produkt der Gesellschaft und muß sich in seiner Verwirklichung wieder als Privilegium geltend machen, wie wir Sancho schon bei Gelegenheit der Konkurrenz gezeigt haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.64.2
+  kind: p
+  original: Das Individuum als solches, für sich selbst betrachtet, ist ferner unter die Teilung der Arbeit subsumiert, durch sie vereinseitigt, verkrüppelt, bestimmt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.65.1
+  kind: p
+  original: Worauf läuft Sanchos Zuspitzung des Gegensatzes und Aufhebung der Besonderheit im besten Falle hinaus?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: NT6.65.2
+  kind: p
+  original: Daß die Verhältnisse der Individuen ihr Verhalten sein sollen und ihre gegenseitigen Unterschiede ihre Selbstunterscheidungen (wie das eine empirische Selbst sich vom Andern unterscheidet).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 422-423
+- id: NT6.65.3
+  kind: p
+  original: Beides ist entweder, wie bei Sancho, eine ideologische Umschreibung des Bestehenden, denn die Verhältnisse der Individuen können unter allen Umständen nichts andres als ihr wechselseitiges Verhalten, und ihre Unterschiede können nichts andres als ihre Selbstunterscheidungen sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: NT6.65.4
+  kind: p
+  original: Oder es ist der fromme Wunsch, daß sie sich so verhalten und so voneinander unterscheiden möchten, daß ihr Verhalten nicht als von ihnen unabhängiges gesellschaftliches Verhältnis verselbständigt, daß ihre Unterschiede voneinander nicht den sachlichen (von der Person unabhängigen) Charakter annehmen möchten, den sie angenommen haben und noch täglich annehmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: NT6.66.1
+  kind: p
+  original: Die Individuen sind immer und unter allen Umständen "von sich ausgegangen", aber da sie nicht einzig in dem Sinne waren, daß sie keine Beziehung zueinander nötig gehabt hätten, da ihre Bedürfnisse, also ihre Natur, und die Weise, sie zu befriedigen, sie aufeinander bezog (Geschlechtsverhältnis, Austausch, Teilung der Arbeit), so mußten sie in Verhältnisse treten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: NT6.66.2
+  kind: p
+  original: Da sie ferner nicht als reine Ichs, sondern als Individuen auf einer bestimmten Entwicklungsstufe ihrer Produktivkräfte und Bedürfnisse in Verkehr traten, in einen Verkehr, der seinerseits wieder die Produktion und die Bedürfnisse bestimmte, so war es eben das persönliche, individuelle Verhalten der Individuen, ihr Verhalten als Individuen zueinander, das die bestehenden Verhältnisse schuf und täglich neu schafft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: NT6.66.3
+  kind: p
+  original: Sie traten als das miteinander in Verkehr, was sie waren, sie gingen "von sich aus", wie sie waren, gleichgültig, welche "Lebensanschauung" sie hatten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: NT6.66.4
+  kind: p
+  original: Diese "Lebensanschauung", selbst die windschiefe der Philosophen, konnte natürlich immer nur durch ihr wirkliches Leben bestimmt sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: NT6.66.5
+  kind: p
+  original: Es stellt sich hierbei allerdings heraus, daß die Entwicklung eines Individuums durch die Entwicklung aller andern, mit denen es in direktem oder indirektem Verkehr steht, bedingt ist, und daß die verschiedenen Generationen von Individuen, die miteinander in Verhältnisse treten, einen Zusammenhang unter sich haben, daß die Späteren in ihrer physischen Existenz durch ihre Vorgänger bedingt sind, die von ihnen akkumulierten Produktivkräfte und Verkehrsformen übernehmen und dadurch in ihren eignen gegenseitigen Verhältnissen bestimmt werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: NT6.66.6
+  kind: p
+  original: Kurz, es zeigt sich, daß eine Entwicklung stattfindet und die Geschichte eines einzelnen Individuums keineswegs von der Geschichte der vorhergegangenen und gleichzeitigen Individuen loszureißen ist, sondern von ihr bestimmt wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: NT6.67.1
+  kind: p
+  original: Das Umschlagen des individuellen Verhaltens in sein Gegenteil, ein bloß sachliches Verhalten, die Unterscheidung von Individualität und Zufälligkeit durch die Individuen selbst, ist, wie wir bereits nachgewiesen haben, ein geschichtlicher Prozeß und nimmt auf verschiednen Entwicklungsstufen verschiedene, immer schärfere und universellere Formen an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 423-424
+- id: NT6.67.2
+  kind: p
+  original: In der gegenwärtigen Epoche hat die Herrschaft der sachlichen Verhältnisse über die Individuen, die Erdrückung der Individualität durch die Zufälligkeit, ihre schärfste und universellste Form erhalten und damit den existierenden Individuen eine ganz bestimmte Aufgabe gestellt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: NT6.67.3
+  kind: p
+  original: Sie hat ihnen die Aufgabe gestellt, an die Stelle der Herrschaft der Verhältnisse und der Zufälligkeit über die Individuen die Herrschaft der Individuen über die Zufälligkeit und die Verhältnisse zu setzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: NT6.67.4
+  kind: p
+  original: Sie hat nicht, wie Sancho sich einbildet, die Forderung gestellt, daß "Ich Mich entwickle", was jedes Individuum bis jetzt ohne Sanchos guten Rat getan hat, sie hat vielmehr die Befreiung von einer ganz bestimmten Weise der Entwicklung vorgeschrieben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: NT6.67.5
+  kind: p
+  original: Diese durch die gegenwärtigen Verhältnisse vorgeschriebene Aufgabe fällt zusammen mit der Aufgabe, die Gesellschaft kommunistisch zu organisieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: NT6.68.1
+  kind: p
+  original: Wir haben bereits oben gezeigt, daß die Aufhebung der Verselbständigung der Verhältnisse gegenüber den Individuen, der Unterwerfung der Individualität unter die Zufälligkeit, der Subsumtion ihrer persönlichen Verhältnisse unter die allgemeinen Klassenverhältnisse etc. in letzter Instanz bedingt ist durch die Aufhebung der Teilung der Arbeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: NT6.68.2
+  kind: p
+  original: Wir haben ebenfalls gezeigt, daß die Aufhebung der Teilung der Arbeit bedingt ist durch die Entwicklung des Verkehrs und der Produktivkräfte zu einer solchen Universalität, daß das Privateigentum und die Teilung der Arbeit für sie zu einer Fessel wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: NT6.68.3
+  kind: p
+  original: Wir haben ferner gezeigt, daß das Privateigentum nur aufgehoben werden kann unter der Bedingung einer allseitigen Entwicklung der Individuen, weil eben der vorgefundene Verkehr und die vorgefundenen Produktivkräfte allseitig sind und nur von allseitig sich entwickelnden Individuen angeeignet, d.h. zur freien Betätigung ihres Lebens gemacht werden können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: NT6.68.4
+  kind: p
+  original: Wir haben gezeigt, daß die gegenwärtigen Individuen das Privateigentum aufheben müssen, weil die Produktivkräfte und die Verkehrsformen sich so weit entwickelt haben, daß sie unter der Herrschaft des Privateigentums zu Destruktivkräften geworden sind, und weil der Gegensatz der Klassen auf seine höchste Spitze getrieben ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: NT6.68.5
+  kind: p
+  original: Schließlich haben wir gezeigt, daß die Aufhebung des Privateigentums und der Teilung der Arbeit selbst die Vereinigung der Individuen auf der durch die jetzigen Produktivkräfte und den Weltverkehr gegebenen Basis ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: NT6.69.1
+  kind: p
+  original: Innerhalb der kommunistischen Gesellschaft, der einzigen, worin die originelle und freie Entwicklung der Individuen keine Phrase ist, ist sie bedingt eben durch den Zusammenhang der Individuen, ein Zusammenhang, der teils in den ökonomischen Voraussetzungen besteht, teils in der notwendigen Solidarität der freien Entwicklung Aller, und endlich in der universellen Betätigungsweise der Individuen auf der Basis der vorhandenen Produktivkräfte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 424-425
+- id: NT6.69.2
+  kind: p
+  original: Es handelt sich hier also um Individuen auf einer bestimmten historischen Entwicklungsstufe, keineswegs um beliebige zufällige Individuen, auch abgesehen von der notwendigen kommunistischen Revolution, die selbst eine gemeinsame Bedingung ihrer freien Entwicklung ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.69.3
+  kind: p
+  original: Das Bewußtsein der Individuen über ihre gegenseitige Beziehung wird natürlich ebenfalls ein ganz andres und daher ebensowenig das "Liebesprinzip" oder das Dévoûment <[die] Aufopferung> wie der Egoismus sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.70.1
+  kind: p
+  original: Die "Einzigkeit", in dem Sinne der originellen Entwicklung und des individuellen Verhaltens, wie es oben entwickelt wurde, genommen, setzt also nicht nur ganz andre Dinge als den guten Willen und das rechte Bewußtsein voraus, sondern auch gerade das Gegenteil von den Phantastereien Sanchos.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.70.2
+  kind: p
+  original: Bei ihm ist sie weiter nichts als eine Beschönigung der bestehenden Verhältnisse, ein tröstliches Balsamtröpflein für die arme, ohnmächtige, in der Misère miserabel gewordene Seele.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.71.1
+  kind: p
+  original: Wie mit der "Einzigkeit" verhält es sich mit Sanchos "Unvergleichlichkeit".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.71.2
+  kind: p
+  original: Er selbst wird sich erinnern, wenn er nicht ganz "verschwunden" ist "in süßer Selbstvergessenheit", daß die Organisation der Arbeit im " Stirnerschen Verein von Egoisten" nicht nur auf der Vergleichlichkeit, sondern auf der Gleichheit der Bedürfnisse beruht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.71.3
+  kind: p
+  original: Und er unterstellte nicht nur gleiche Bedürfnisse, sondern auch gleiche Betätigung, so daß Einer den andern in der "menschlichen Arbeit" ersetzen konnte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.71.4
+  kind: p
+  original: Und das Extrasalär des "Einzigen", das seine Erfolge krönt, worauf beruhte es anders, als daß seine Leistung mit denen andrer verglichen und wegen ihres Vorzugs besser versilbert wurde?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.71.5
+  kind: p
+  original: Und wie kann Sancho überhaupt von Unvergleichlichkeit sprechen, wenn er die praktisch verselbständigte Vergleichung, das Geld, bestehen läßt, sich ihm subordiniert, sich zur Vergleichung mit Andern an diesem Universalmaßstabe messen läßt?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.71.6
+  kind: p
+  original: Wie sehr er selbst also seine Unvergleichlichkeit Lügen straft, ist evident.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.71.7
+  kind: p
+  original: Nichts leichter, als Gleichheit und Ungleichheit, Ähnlichkeit und Unähnlichkeit Reflexionsbestimmungen zu nennen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.71.8
+  kind: p
+  original: Auch die Unvergleichlichkeit ist eine Reflexionsbestimmung, welche die Tätigkeit des Vergleichens zu ihrer Voraussetzung hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.71.9
+  kind: p
+  original: Wie wenig die Vergleichung eine reine willkürliche Reflexionsbestimmung ist, davon brauchen wir nur ein Beispiel anzuführen, das Geld, das stehende tertium comparationis <[den stehenden] Vergleichspunkt> aller Menschen und Dinge.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.72.1
+  kind: p
+  original: Übrigens kann die Unvergleichlichkeit verschiedne Bedeutungen haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: NT6.72.2
+  kind: p
+  original: Die einzige, die hier in Betracht kommt, die "Einzigkeit" im Sinne von Originalität, setzt voraus, daß die Tätigkeit des unvergleichlichen Individuums in einer bestimmten Sphäre sich selbst von der Tätigkeit Gleicher unterscheidet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 425-426
+- id: NT6.72.3
+  kind: p
+  original: Unvergleichliche Sängerin ist die Persiani, eben weil sie Sängerin ist und mit andren Sängerinnen verglichen wird, und zwar von Ohren, welche durch die auf normaler Konstruktion und musikalischer Bildung beruhende Vergleichung zur Erkenntnis ihrer Unvergleichlichkeit befähigt sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.72.4
+  kind: p
+  original: Unvergleichlich ist der Gesang der Persiani mit dem Gequake eines Frosches, obgleich auch hier eine Vergleichung stattfinden könnte, die aber dann eine Vergleichung zwischen Mensch und Frosch, nicht zwischen der Persiani und diesem einzigen Frosch wäre.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.72.5
+  kind: p
+  original: Nur im ersten Fall ist von Vergleichung zwischen Individuen zu reden, im zweiten geht die Vergleichung ihre Art oder Gattungseigenschaft an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.72.6
+  kind: p
+  original: Eine dritte Art der Unvergleichlichkeit, die Unvergleichlichkeit des Gesanges der Persiani mit dem Schwanze eines Kometen, überlassen wir Sancho zu seinem "Selbstgenuß", da er ohnehin am "widersinnigen Urteil" solche Freude hat, aber selbst diese widersinnige Vergleichung hat in der Widersinnigkeit der heutigen Verhältnisse eine Realität.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.72.7
+  kind: p
+  original: Das Geld ist der gemeinsame Maßstab aller, auch der heterogensten Dinge.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.73.1
+  kind: p
+  original: Übrigens kommt Sanchos Unvergleichlichkeit wieder auf dieselbe Phrase hinaus wie die Einzigkeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.73.2
+  kind: p
+  original: Die Individuen sollen nicht mehr an einem von ihnen unabhängigen tertium comparationis gemessen werden, sondern die Vergleichung soll zu ihrer Selbstunterscheidung, id est zur freien Entwicklung ihrer Individualität umschlagen, und zwar dadurch, daß sie sich die "fixen Ideen" aus dem Kopf schlagen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.74.1
+  kind: p
+  original: Übrigens kennt Sancho nur die Literaten- und Kannegießer-Vergleichung, die zu dem großartigen Resultate kommt, daß Sancho nicht Bruno und Bruno nicht Sancho ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.74.2
+  kind: p
+  original: Die Wissenschaften dagegen, die erst durch die Vergleichung und die Feststellung der Unterschiede innerhalb der Sphären der Vergleichung zu bedeutenden Fortschritten gekommen sind und in denen die Vergleichung einen allgemein bedeutenden Charakter erhält, die vergleichende Anatomie, Botanik, Sprachforschung etc., kennt er natürlich nicht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.75.1
+  kind: p
+  original: Große Nationen, Franzosen, Nordamerikaner, Engländer, vergleichen sich fortwährend untereinander praktisch und theoretisch, in der Konkurrenz wie in der Wissenschaft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.75.2
+  kind: p
+  original: Kleinkrämer und Spießbürger wie die Deutschen, die die Vergleichung und Konkurrenz zu scheuen haben, verkriechen sich hinter den Schild der Unvergleichlichkeit, den ihnen ihr philosophischer Etikettenfabrikant liefert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.75.3
+  kind: p
+  original: Sancho hat nicht nur in ihrem, sondern auch in seinem eignen Interesse sich alle Vergleichung verbeten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: NT6.76.1
+  kind: p
+  original: 'p. 415 sagt Sancho:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.77.1
+  kind: p
+  original: '"Es ist Keiner Meines Gleichen ",'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.78.1
+  kind: p
+  original: 'und p. 408 wird der Umgang mit "Meines Gleichen" als die Auflösung der Gesellschaft in den Verkehr dargestellt:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.79.1
+  kind: p
+  original: Es zieht das Kind den Verkehr, den es mit Seines Gleichen eingeht, der Gesellschaft vor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.80.1
+  kind: p
+  original: 'Sancho braucht indes mitunter "Meines Gleichen" und "das Gleiche" überhaupt für "Dasselbe", z.B. die oben zitierte Stelle p.183:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.81.1
+  kind: p
+  original: '"Das Gleiche, dasselbe können sie weder sein noch haben."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.82.1
+  kind: p
+  original: Und hiermit nimmt er seine schließliche "neue Wendung", die namentlich im Kommentar verbraucht wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.83.1
+  kind: p
+  original: Die Einzigkeit, die Originalität, die "eigne" Entwicklung der Individuen, die nach Sancho z.B. bei allen "menschlichen Arbeiten" nicht stattfindet, obgleich Niemand leugnen wird, daß ein Ofensetzer den Ofen nicht auf "dieselbe" Weise setzt wie der andre; die "einzige Entwicklung der Individuen, die nach demselben Sancho in den religiösen, politischen etc. Sphären nicht stattfindet (siehe die "Phänomenologie"), obgleich Niemand leugnen wird, daß unter Allen, die an den Islam glauben, Keiner auf "dieselbe" Weise an ihn glaubt und sich insofern "einzig" verhält, wie unter allen Staatsbürgern keiner auf "dieselbe" Weise sich zum Staat verhält, schon weil Er es ist und nicht der Andre, der sich verhält - die vielgerühmte "Einzigkeit", die so sehr von der "Dieselbigkeit", der Identität der Person sich unterschied, daß Sancho in allen bisherigen Individuen fast nur "Exemplare" einer Gattung sah, löst sich also hier auf in die polizeilich konstatierte Identität einer Person mit sich selbst, darin, daß Ein Individuum nicht das Andre ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.83.2
+  kind: p
+  original: So schrumpft der Weltstürmer Sancho zum Schreiber eines Paßbüros zusammen,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.84.1
+  kind: p
+  original: p.184 des Kommentars setzt er mit vieler Salbung und großem Selbstgenuß auseinander, daß Er nicht davon satt wird, wenn der Kaiser von Japan ißt, weil sein und des Kaisers von Japan Eingeweide "einzige", "unvergleichliche Eingeweide", id est, nicht dieselben seien.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.84.2
+  kind: p
+  original: Wenn Sancho glaubt, hierdurch die bisherigen sozialen Verhältnisse oder auch nur Naturgesetze aufgehoben zu haben, so ist diese Naivetät gar zu groß und rührt bloß daher, daß die Philosophen die sozialen Verhältnisse nicht als die gegenseitigen Verhältnisse dieser mit sich identischen Individuen und die Naturgesetze als die gegenseitigen Beziehungen dieser bestimmten Körper dargestellt haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: NT6.85.1
+  kind: p
+  original: 'Berühmt ist der klassische Ausdruck, den Leibniz diesem alten Satz (der in jedem Handbuch der Physik als Lehre von der Undurchdringlichkeit der Körper auf der ersten Seite figuriert) gegeben hat:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.86.1
+  kind: p
+  original: '"Opus tamen est... ut quaelibet monas differat ab alia quacunque, neque enim unquam dantur in natura duo entia, quorum unum exasse conveniat cum altero." <"Mit Notwendigkeit jedoch unterscheidet sich jede beliebige Monade von jeder anderen; denn niemals gibt es in der Natur zwei Wesen, die miteinander gänzlich übereinstimmen."> ("Principia Philos[ophiae] seu Theses" pp.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.87.1
+  kind: p
+  original: Sanchos Einzigkeit ist hier zu einer Qualität herabgesunken, die er mit jeder Laus und jedem Sandkorn teilt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.88.1
+  kind: p
+  original: Das größte Dementi, mit dem die Philosophie enden konnte, war, daß sie die Einsicht jedes Bauerlümmels und Polizeisergeanten, daß Sancho nicht Bruno ist, für eine der größten Entdeckungen, und die Tatsache dieser Verschiedenheit für ein wahres Wunder ansieht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.89.1
+  kind: p
+  original: So hat sich das "kritische Juchhe" unsres "Virtuosen im Denken" in ein unkritisches Miserere verwandelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.90.1
+  kind: p
+  original: Nach allen diesen Abenteuern segelt unser "einziger" Schildknapp wieder in den Hafen seiner heimischen Fronkote ein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.90.2
+  kind: p
+  original: '"Das Titelgespenst seines Buchs" springt ihm "jauchzend" entgegen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.90.3
+  kind: p
+  original: Ihre erste Frage ist, wie sich der Graue befinde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.91.1
+  kind: p
+  original: Besser als sein Herr, antwortet Sancho.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.92.1
+  kind: p
+  original: Gott sei gedankt dafür, daß er mir so viel Gutes getan hat; aber erzähle mir jetzt, mein Freund, was hat Dir denn Deine Knappschaft eingebracht?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.92.2
+  kind: p
+  original: Was für ein neues Kleid bringst Du mir mit?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.93.1
+  kind: p
+  original: Ich bringe Nichts der Art, antwortet Sancho, aber "das schöpferische Nichts, das Nichts, aus dem Ich selbst als Schöpfer Alles schaffe", das heißt, Du sollst mich noch sehen als Kirchenvater und Erzbischof einer Insel, und zwar einer der besten, die man finden kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.94.1
+  kind: p
+  original: Der Himmel gebe das, mein Schatz, und bald, denn wir haben's nötig.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.94.2
+  kind: p
+  original: Aber was ist denn das mit der Insel, ich versteh' das nicht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.95.1
+  kind: p
+  original: Honig ist nichts für das Maul des Esels, erwidert Sancho.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.95.2
+  kind: p
+  original: Du wirst das seinerzeit sehen, Weib.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.95.3
+  kind: p
+  original: Aber das kann ich Dir jetzt schon sagen, daß es nichts Angenehmeres auf der Welt gibt denn die Ehre, als mit sich einiger Egoist und Schildknapp von der traurigen Gestalt Abenteuer zu suchen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: NT6.95.4
+  kind: p
+  original: Es ist freilich wahr, daß die meisten, die man findet, nicht so "ihr letztes Absehen erreichen", daß "die menschliche Forderung befriedigt wird" (tan como el hombre querria <so, wie es sich der Mensch wünscht>), denn von Hunderten, die man trifft, pflegen neunundneunzig schief und verzwickt abzulaufen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 428-429
+- id: NT6.95.5
+  kind: p
+  original: Ich weiß das aus Erfahrung, denn aus Einigen bin ich geprellt, aus andern gemahlen und gedroschen heimgegangen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '429'
+- id: NT6.95.6
+  kind: p
+  original: Aber bei Alledem ist es doch eine schöne Sache, denn die "einzige" Forderung wird jedenfalls dabei befriedigt, wenn man so durch die ganze Geschichte vagabundiert, alle Bücher des Berliner Lesekabinetts zitiert, in allen Sprachen ein etymologisches Nachtlager hält, in allen Ländern politische Fakta verfälscht, gegen alle Drachen und Strauße, Kobolde, Feldteufel und "Gespenster" fanfaronierende Herausforderungen erläßt, sich mit allen Kirchenvätern und Philosophen herumschlägt und schließlich doch nur mit seinem eigenen Körper bezahlt. (Vgl. Cervantes I, Cap. 52.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '429'
+- id: NT6.N1.1.1
+  kind: note
+  original: Vgl. Camoes, "Lusiadas", 1, 1-7.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

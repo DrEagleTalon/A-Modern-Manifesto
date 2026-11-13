@@ -1,0 +1,772 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: AT5
+title_original: 5. Der in seiner Konstruktion vergnügte Stirner
+title_en: Old Testament, 5. "Stirner" Delighted in His Construction
+author: Karl Marx, Friedrich Engels
+date: 1845-1846
+original_language: de
+anchor_language: de
+source_original: MEW 3, S. 168-176 (Dietz, Berlin 1969) via mlwerke.de; written 1845-1846, first printed in full 1932; the authors' footnotes from mlwerke's me03_anm.htm
+source_en: 'None: no public-domain English translation'
+verses:
+- id: AT5.0.1
+  kind: heading
+  original: 5. Der in seiner Konstruktion vergnügte Stirner
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '168'
+- id: AT5.1.1
+  kind: p
+  original: Wir sind jetzt grade wieder so weit, als wir p. 19 bei dem Jüngling, der in den Mann überging, und p. 90 bei dem mongolenhaften Kaukasier waren, der sich in den kaukasischen Kaukasier verwandelt und "sich selber findet".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 168-169
+- id: AT5.1.2
+  kind: p
+  original: Wir sind also bei der dritten Selbstfindung des geheimnisvollen Individuums, dessen "saure Lebenskämpfe" uns der heilige Max vorführt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.1.3
+  kind: p
+  original: Nur haben wir jetzt die ganze Geschichte hinter uns und müssen wegen des großen Materials, das wir verarbeitet haben, einen Rückblick auf den ungeheuern Kadaver des ruinierten Menschen werfen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.2.1
+  kind: p
+  original: Wenn der heilige Max auf einer spätern Seite, wo er längst seine Geschichte vergessen hat, behauptet, daß "schon längst die Genialität als die Schöpferin neuer weltgeschichtlicher Produktionen angesehen wird" (p. 214), so haben wir gesehen, daß dies wenigstens seiner Geschichte auch seine schlimmsten Feinde nicht nachlästern können, da hier keine Personen, geschweige Genies, sondern nur versteinerte Gedankenkrüppel und Hegelsche Wechselbälge auftreten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.3.1
+  kind: p
+  original: Repetitio est mater studiorum <Die Wiederholung ist die Mutter der Studien>.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.3.2
+  kind: p
+  original: Sankt Max, der seine ganze Historie der "Philosophie oder Zeit" nur gegeben hat, um Gelegenheit zu einigen flüchtigen Studien Hegels zu finden, repetiert schließlich noch einmal seine ganze einzige Geschichte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.3.3
+  kind: p
+  original: Dies geschieht indes mit einer naturgeschichtlichen Wendung, die uns wichtige Aufschlüsse über die "einzige" Naturwissenschaft gibt und sich daraus erklärt, daß bei ihm die "Welt" jedesmal, wo sie eine wichtige Rolle zu spielen hat, sich sogleich in die Natur verwandelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.3.4
+  kind: p
+  original: Die "einzige" Naturwissenschaft beginnt sofort mit dem Geständnis ihrer Ohnmacht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.3.5
+  kind: p
+  original: Sie betrachtet nicht das wirkliche, durch die Industrie und Naturwissenschaft gegebene Verhältnis, sie proklamiert das phantastische Verhältnis des Menschen zur Natur.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.3.6
+  kind: p
+  original: '"Wie Weniges vermag der Mensch zu bezwingen!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.3.7
+  kind: p
+  original: Er muß die Sonne ihre Bahn ziehen, das Meer seine Wellen treiben, die Berge zum Himmel ragen lassen." (p. 122.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.3.8
+  kind: p
+  original: Sankt Max, der die Mirakel liebt, wie alle Heiligen, es aber dennoch nur bis zum logischen Mirakel bringt, ärgert sich darüber, daß er die Sonne nicht den Cancan tanzen lassen, er jammert, daß er das Meer, nicht in Ruhestand versetzen kann, es entrüstet ihn, daß er die Berge zum Himmel ragen lassen muß.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.3.9
+  kind: p
+  original: Obwohl p. 124 die Welt bereits am Ende der alten Zeit "prosaisch" wird, so ist sie für unsern Heiligen noch immer höchst unprosaisch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '169'
+- id: AT5.3.10
+  kind: p
+  original: 'Für ihn zieht noch immer "die Sonne", nicht die Erde ihre Bahn, und sein Gram ist, daß er nicht à la Josua ihr ein: "Sonne, stehe stille" kommandieren kann. p. 123 entdeckt Stirner, daß "der Geist" am Ende der alten Welt "unaufhaltsam wieder überschäumte, weil in seinem Innern Gase (Geister) sich entwickelten und, nachdem der mechanische Stoß, der von Außen kommt, unwirksam geworden, chemische Spannungen, die im Innern erregen, ihr wunderbares Spiel zu treiben begannen".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 169-170
+- id: AT5.4.1
+  kind: p
+  original: Dieser Satz enthält die bedeutendsten Data der "einzigen" Naturphilosophie, die bereits auf der vorigen Seite dahin gekommen war, daß die Natur für den Menschen "das Unbezwingliche" sei.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.4.2
+  kind: p
+  original: Die profane Physik weiß Nichts von einem mechanischen Stoß, der unwirksam wird - die einzige Physik hat allein das Verdienst ihrer Entdeckung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.4.3
+  kind: p
+  original: Die profane Chemie kennt keine "Gase", die "chemische Spannungen" und noch dazu "im Innern" erregen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.4.4
+  kind: p
+  original: Gase, die neue Mischungen, neue chemische Verhältnisse eingehen, erregen keine "Spannungen", sondern höchstens Abspannungen, indem sie in den tropfbaren Aggregatzustand übergehen und dadurch ihr Volumen auf weniger als ein Tausendstel des früheren reduzieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.4.5
+  kind: p
+  original: Wenn der heilige Max "in" seinem eignen "Innern" "Spannungen" infolge von "Gasen" verspürt, so sind das höchst "mechanische Stöße", keineswegs "chemische Spannungen" - sie werden hervorgebracht durch die chemische, wieder auf physiologischen Ursachen beruhende Verwandlung gewisser Mischungen in andre, wodurch ein Teil der Bestandteile der früheren Mischung luftförmig wird, dadurch ein größeres Volumen einnimmt, und wenn dazu kein Raum vorhanden ist, nach außen hin einen "mechanischen Stoß" oder Druck [ver]ursacht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.4.6
+  kind: p
+  original: '[Daß] diese nicht existierenden ["chemi]schen Spannungen" "im Innern", nämlich diesmal im Kopfe des heiligen Max, ein höchst "wunder[bares] Spiel treiben", "sehen wir [nun"] an der Rolle, die sie [in] der "einzigen" Naturwissenschaft spielen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.4.7
+  kind: p
+  original: Übrigens möge der heilige Max den profanen Naturforschern nicht länger vorenthalten, welchen Unsinn er sich bei dem verrückten Wort "chemische Spannungen" vorstellt und noch dazu bei solchen "chemischen Spannungen", die "im Innern erregen" (als ob ein "mechanischer Stoß" auf den Magen ihn nicht auch "im Innern errege").
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.5.1
+  kind: p
+  original: Die "einzige" Naturwissenschaft ist bloß deswegen geschrieben worden, weil Sankt Max diesmal die Alten doch nicht anständigerweise berühren konnte, ohne zugleich ein paar Worte über die "Welt der Dinge", die Natur, fallen zu lassen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.6.1
+  kind: p
+  original: Die Alten lösen sich, wie uns hier versichert wird, am Ende der alten Welt in lauter Stoiker auf, "die durch keinen Einsturz der Welt" (wie oft soll sie denn einstürzen?) "aus ihrer Fassung zu bringen sind" (p. 123).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.6.2
+  kind: p
+  original: Die Alten werden also Chinesen, die auch "aus dem Himmel ihrer Ruhe kein unvorhergesehener Fall" (oder Einfall) "stürzt" (p. 88).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.6.3
+  kind: p
+  original: Ja, Jacques le bonhomme glaubt wirklich, daß gegen die letzten Alten "der mechanische Stoß, der von Außen kommt, unwirksam geworden sei".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '170'
+- id: AT5.6.4
+  kind: p
+  original: Wie sehr dies der wirklichen Lage der Römer und Griechen am Ende der alten Welt entspricht, der gänzlichen Haltlosigkeit und Unsicherheit, die dem "mechanischen Stoß" kaum noch einen Rest von vis inertiae <Trägheit; Beharrungsvermögen> entgegenzusetzen hatte, darüber ist u.a.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 170-171
+- id: AT5.6.5
+  kind: p
+  original: Lukian zu vergleichen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.6.6
+  kind: p
+  original: Die gewaltigen mechanischen Stöße, die das römische Weltreich durch seine Zerteilung unter die verschiednen Cäsaren und deren Kriege miteinander, durch die kolossale Konzentration des Besitzes, namentlich des Grundbesitzes, in Rom, die dadurch hervorgerufene Verminderung der Bevölkerung in Italien, durch die Hunnen und Germanen erhielt, sind für unsern heiligen Historiker "unwirksam geworden"; nur die "chemischen Spannungen", nur die "Gase", die das Christentum "im Innern erregte", haben das römische Reich gestürzt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.6.7
+  kind: p
+  original: Die großen Erdbeben [im Westen] und im Osten, u.a., [die durch] "mechanische Stöße" Hun[derttau]sende unter den R[uinen] ihrer Städte begruben, [wovon] die Menschen auch geistig [keines]wegs unalteriert verblieben [,sind] nach "Stirner" wohl ebenfalls "[un]wirksam" oder chemische Spannungen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.6.8
+  kind: p
+  original: 'Und "in der Tat" (!) "schließt die alte Geschichte damit, daß Ich an der Welt Mein Eigentum errungen habe", was vermittelst des Bibelspruchs bewiesen wird: "Mir" (d.h. Christus) "sind alle Dinge übergeben vom Vater."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.6.9
+  kind: p
+  original: Hier ist also Ich = Christus.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.6.10
+  kind: p
+  original: Bei dieser Gelegenheit versäumt Jacques le bonhomme nicht, dem Christen zu glauben, daß er Berge versetzen pp. könne, wenn "ihm nur daran läge".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.6.11
+  kind: p
+  original: Er proklamiert sich als Christen zum Herrn der Welt, ist es denn aber auch nur als Christ; er proklamiert sich zum "Eigner der Welt".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.6.12
+  kind: p
+  original: '"Hiermit hatte der Egoismus den ersten vollständigen Sieg errungen, indem Ich Mich dazu erhoben hatte, der Eigner der Welt zu sein." (p. 124.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.6.13
+  kind: p
+  original: Um sich zum vollendeten Christen zu erheben, hatte das Stirnersche Ich nur noch den Kampf durchzusetzen, auch geistlos zu werden (was ihm gelungen ist, ehe denn die Berge waren).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.6.14
+  kind: p
+  original: '"Selig sind, die da arm an Geist sind, denn das Himmelreich ist ihrer."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.6.15
+  kind: p
+  original: Sankt Max hat die Armut am Geist vollendet und rühmt sich dessen sogar in seiner großen Freude vor dem Herrn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.7.1
+  kind: p
+  original: Der geistlose Sankt Max glaubt an die aus der Auflösung der alten Welt hervorgehenden phantastischen Gasbildungen der Christen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.7.2
+  kind: p
+  original: Der alte Christ hatte kein Eigentum an dieser Welt, er begnügte sich daher mit der Einbildung seines himmlischen Eigentums und mit seinem göttlichen Besitztitel.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.7.3
+  kind: p
+  original: Statt an der Welt das Eigentum des Volks zu haben, stempelte er sich selbst und seine Lumpengenossenschaft zum "Volk des Eigentums" (1 Petri 2,9).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '171'
+- id: AT5.7.4
+  kind: p
+  original: Die christliche Vorstellung von der Welt ist nach "Stirner" die Welt, worin sich wirklich die alte Welt auflöst, obgleich es doch höchstens [eine Welt] der Einbildungen ist, worin [sich die W]elt der alten Vorstellungen [auflöst in ei]ne Welt, in der der Christ [im Glauben] auch Berge versetzen, sich [mächtig f]ühlen und zur "Unwirksam[keit des] mechanischen Stoßes" vor[wärts]dringen kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 171-172
+- id: AT5.7.5
+  kind: p
+  original: Da die Menschen [bei "S]tirner" nicht mehr durch die [Außen]welt bestimmt, auch nicht mehr [durch] den mechanischen Stoß des [Be]dürfnisses zum Produzieren fort[ge]trieben werden, überhaupt der mechanische Stoß, und damit auch der Geschlechtsakt, seine Wirkung verloren hatte, so können [sie] nur durch Wunder fortexistiert haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.7.6
+  kind: p
+  original: Es ist allerdings für deutsche Schöngeister und Schulmeister von der Gashaltigkeit "Stirners" viel leichter, statt die Umgestaltung der wirklichen Eigentums- und Produktionsverhältnisse der alten Welt darzustellen, sich zu begnügen mit der christlichen Phantasie des Eigentums, die in Wahrheit Nichts ist als das Eigentum der christlichen Phantasie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.8.1
+  kind: p
+  original: Derselbe Urchrist, der in Jacques le bonhommes Einbildung der Eigner der alten Welt war, gehörte in der Wirklichkeit meist zur Welt der Eigner, war Sklave und konnte verschachert werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.8.2
+  kind: p
+  original: Doch "Stirner", in seiner Konstruktion vergnügt, jubelt unaufhaltsam weiter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.9.1
+  kind: p
+  original: '"Das erste Eigentum, die erste Herrlichkeit ist erworben!" (p. 124.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.10.1
+  kind: p
+  original: In derselben Weise fährt der Stirnersche Egoismus fort, sich Eigentum und Herrlichkeit zu erwerben und "vollständige Siege" zu erringen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.10.2
+  kind: p
+  original: In dem theologischen Verhältnis des Urchristen zur alten Welt ist all sein Eigentum und all seine Herrlichkeit prototypisch vollendet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.11.1
+  kind: p
+  original: 'Dies Eigentum des Christen wird so motiviert:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.12.1
+  kind: p
+  original: '"Die Welt ist entgöttert..., prosaisch geworden. sie ist Mein Eigentum, mit dem Ich schalte, wie Mir''s (nämlich dem Geiste) beliebt." p. 124.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.13.1
+  kind: p
+  original: 'Dies will heißen: Die Welt ist entgöttert, also von Meinen Phantasien für Mein eignes Bewußtsein befreit, sie ist prosaisch geworden, verhält sich also prosaisch zu Mir, und schaltet und waltet mit Mir nach ihrer beliebten Prosa, keineswegs Mir zuliebe.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.13.2
+  kind: p
+  original: Abgesehen davon, daß "Stirner" hier wirklich glaubt, im Altertum habe keine prosaische Welt existiert und habe das Göttliche in der Welt gesessen, verfälscht er sogar die christliche Vorstellung, die ihre Ohnmacht gegen die Welt beständig bejammert und ihren Sieg über die Welt in ihrer Phantasie selbst wieder als einen idealen darstellt, indem sie ihn auf den Jüngsten Tag verlegt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.13.3
+  kind: p
+  original: Erst als das Christentum von der wirklichen Weltmacht mit Beschlag belegt und exploitiert wurde, womit es natürlich aufgehört hatte, weltlos zu sein, konnte es sich einbilden, der Eigner der Welt zu sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '172'
+- id: AT5.13.4
+  kind: p
+  original: Sankt Max gibt dem Christen dasselbe falsche Verhältnis zur alten Welt wie dem Jüngling zur "Welt des Kindes"; er gibt dem Egoisten dasselbe Verhältnis zur Welt des Christen wie dem Mann zur Welt des Jünglings.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 172-173
+- id: AT5.14.1
+  kind: p
+  original: Der Christ hat nun auch nichts mehr zu tun, als möglichst schnell geistlos zu werden und ebenso die Welt des Geistes in ihrer Eitelkeit zu erkennen, wie dies von ihm mit der Welt der Dinge geschah - um dann auch mit der Welt des Geistes "nach Belieben schalten und walten" zu können, wodurch er vollendeter Christ, Egoist wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.14.2
+  kind: p
+  original: Das Verhalten des Christen zur alten Welt gibt also die Norm für das Verhalten des Egoisten zur neuen Welt ab.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.14.3
+  kind: p
+  original: Die Vorbereitung zu dieser Geistlosigkeit war der Inhalt eines "fast zweitausendjährigen" Lebens, ein Leben, das natürlich in seinen Hauptepochen nur in Deutschland sich zuträgt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.15.1
+  kind: p
+  original: '" Unter mancherlei Wandlungen wurde aus dem heiligen Geiste mit der Zeit die absolute Idee, welche wieder in mannigfaltigen Brechungen zu den verschiedenen Ideen der Menschenliebe, Bürgertugend, Vernünftigkeit usw. auseinanderschlug." p. 125, p. 126'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.16.1
+  kind: p
+  original: Der deutsche Stubenhocker dreht hier wieder die Sache um.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.16.2
+  kind: p
+  original: Die Ideen der Menschenliebe pp., Münzen, deren Gepräge schon ganz abgegriffen war, namentlich durch ihre große Zirkulation im achtzehnten Jahrhundert, wurden von Hegel zusammengeschlagen in das Sublimat der absoluten Idee, in welcher Umprägung es ihnen indes ebensowenig gelang, im Auslande Kurs zu erhalten, wie dem preußischen Papiergelde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.17.1
+  kind: p
+  original: 'Der konsequente, aber und abermals dagewesene Schluß der Stirnerschen Geschichtsanschauung ist folgender: "Begriffe sollen überall entscheiden, Begriffe das Leben regeln, Begriffe herrschen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.17.2
+  kind: p
+  original: 'Das ist die religiöse Welt, welcher Hegel einen systematischen Ausdruck gab" (p. 126), und welche unser gutmütiger Biedermann so sehr für die wirkliche Welt versieht, daß er auf der folgenden Seite, p. 127, sagen kann: "Jetzt herrscht in der Welt Nichts als der Geist."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.17.3
+  kind: p
+  original: In dieser Welt des Wahns festgeritten, kann er nun auch p.128 erst einen "Altar" bauen und dann "um diesen Altar" "eine Kirche wölben", eine Kirche, deren "Mauern" Fortschrittsbeine haben und "immer weiter hinausrücken".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.17.4
+  kind: p
+  original: '"Bald umspannt jene Kirche die ganze Erde"; Er, der Einzige, und Szeliga, sein Knecht, stehen draußen, "schweifen um die Mauern herum und werden zum äußersten Rande hinausgetrieben"; "aufschreiend in verzehrendem Hunger" ruft Sankt Max seinem Knechte zu: "Noch ein Schritt, und die Welt des Heiligen hat gesiegt."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.17.5
+  kind: p
+  original: Plötzlich "versinkt" Szeliga "in den äußersten Abgrund", der über ihm liegt - ein schriftstellerisches Wunder.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.17.6
+  kind: p
+  original: Da nämlich die Erde eine Kugel ist, kann der Abgrund, sobald die Kirche die ganze Erde umspannt, nur über Szeliga liegen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '173'
+- id: AT5.17.7
+  kind: p
+  original: So verkehrt er die Gesetze der Schwere, fährt ärschlings gen Himmel und bringt dadurch die "einzige" Naturwissenschaft zu Ehren, was ihm um so leichter wird, als nach p. 126 "die Natur der Sache und der Begriff des Verhältnisses" dem "Stirner" gleichgültig sind, "ihn nicht in der Behandlung oder Schließung desselben leiten", und "das Verhältnis, das" Szeliga mit der Schwere "eingegangen", durch Szeligas "Einzigkeit selbst einzig" ist und keineswegs von der Natur der Schwere "abhängt" oder davon, "wie Andere", z.B. die Naturforscher, "es rubrizieren".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 173-174
+- id: AT5.17.8
+  kind: p
+  original: '"Stirner" verbittet sich überdem schließlich, daß man Szeligas "Handlung vom wirklichen" Szeliga "trenne und nach dem menschlichen Werte veranschlage".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.18.1
+  kind: p
+  original: Nachdem der heilige Max seinem treuen Diener so ein anständiges Unterkommen im Himmel besorgt hat, schreitet er zu seiner eignen Passion.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.18.2
+  kind: p
+  original: Er hat p. 95 entdeckt, daß selbst der "Galgen" die "Farbe des Heiligen" habe; es "graut den Menschen vor der Berührung desselben, es liegt etwas Unheimliches, d.h. Unheimisches, Uneigenes, darin".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.18.3
+  kind: p
+  original: Um diese Uneigenheit des Galgens aufzuheben, macht er ihn zu seinem eignen Galgen, was er nur dadurch vollziehen kann, daß er sich daran hängt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.18.4
+  kind: p
+  original: Auch dies letzte Opfer bringt der Löwe aus Juda dem Egoismus.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.18.5
+  kind: p
+  original: Der heilige Christ läßt sich ans Kreuz hangen, nicht um das Kreuz, sondern um die Menschen von ihrer Unheiligkeit zu erlösen; der heillose Christ hängt sich selbst an den Galgen, um den Galgen von der Heiligkeit oder sich selbst von der Uneigenheit desGalgens zu erlösen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.19.1
+  kind: p
+  original: '"Die erste Herrlichkeit, das erste Eigentum ist erworben, der erste vollständige Sieg ist errungen!"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.19.2
+  kind: p
+  original: Der heilige Streiter hat jetzt die Geschichte überwunden, er hat sie in Gedanken, reine Gedanken, die Nichts als Gedanken sind, aufgelöst und am Ende der Tage nur ein Gedankenheer sich gegenüberstehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.19.3
+  kind: p
+  original: So zieht er aus, Er, Sankt Max, der seinen "Galgen" jetzt auf den Rücken genommen hat wie der Esel das Kreuz, und Szeliga, sein Knecht, der, mit Fußtritten im Himmel empfangen, gesenkten Hauptes wieder bei seinem Herrn sich einfindet, um dieses Gedankenheer oder vielmehr bloß den Heiligenschein dieser Gedanken zu bekämpfen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.19.4
+  kind: p
+  original: Diesmal ist es Sancho Pansa, voller Sittensprüche, Maximen und Sprüchwörter, der den Kampf gegen das Heilige übernimmt, und Don Quixote tritt als sein frommer und getreuer Knecht auf.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.19.5
+  kind: p
+  original: Der ehrliche Sancho kämpft mit derselben Tapferkeit wie vorzeiten der caballero Manchego <manchanische Ritter> und verfehlt nicht, wie dieser, mehrmals eine mongolische Hammelherde für einen Schwarm von Gespenstern zu versehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '174'
+- id: AT5.19.6
+  kind: p
+  original: Der feiste Maritornes hat sich "unter mancherlei Wandlungen mit der Zeit in mannigfaltigen Brechungen" in eine keusche Berliner Nähterin verwandelt, die an der Bleichsucht zugrunde geht, worüber Sankt Sancho eine Elegie anstimmt - eine Elegie, die allen Referendarien und Gardelieutnants den Satz des Rabelais zum Bewußtsein gebracht hat, daß des weltbefreienden "Kriegsknechts erstes Waffenstück der Hosenlatz ist".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '175'
+- id: AT5.20.1
+  kind: p
+  original: Sancho Pansa vollbringt seine Heldentaten dadurch, daß er das ganze ihm gegenüberstehende Gedankenheer in seiner Nichtigkeit und Eitelkeit erkennt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '175'
+- id: AT5.20.2
+  kind: p
+  original: Die ganze große Aktion beschränkt sich auf ein bloßes Erkennen, das am Ende der Tage Alles bestehen läßt, wie es war, und nur seine Vorstellung, nicht einmal von den Dingen, sondern von den philosophischen Phrasen über die Dinge, ändert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '175'
+- id: AT5.21.1
+  kind: p
+  original: Nun also, nachdem die Alten als Kind, Neger, negerhafte Kaukasier, Tier, Katholiken, englische Philosophie, Ungebildete, Nichthegelianer, Welt der Dinge, realistisch, und die Neuen als Jüngling, Mongole, mongolenhafte Kaukasier, der Mensch, Protestanten, deutsche Philosophie, Gebildete, Hegelianer, Welt der Gedanken, idealistisch dagewesen sind, nachdem Alles geschehen ist, was da beschlossen war von Ewigkeit im Rate der Wächter, nun ist endlich die Zeit erfüllet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '175'
+- id: AT5.21.2
+  kind: p
+  original: Die negative Einheit Beider, die schon als Mann, Kaukasier, kaukasischer Kaukasier, vollendeter Christ, in Knechtsgestalt, gesehen "durch einen Spiegel in einem dunklen Wort" (1. Cor[inther] 13, 12), aufgetreten war, kann jetzt, nach der Passion und dem Galgentod Stirners und der Himmelfahrt Szeligas in ihrer Glorie, auf die einfachste Namengebung zurückkehrend, kommen in den Wolken des Himmels mit großer Kraft und Herrlichkeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '175'
+- id: AT5.21.3
+  kind: p
+  original: '"So heißt es nun": Was früher "Man" war (vgl. Ök[onomie] d[es] A[lten] Bundes), wird jetzt "ich" - die negative Einheit von Realismus und Idealismus, der Welt der Dinge und der Welt des Geistes.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '175'
+- id: AT5.21.4
+  kind: p
+  original: 'Diese Einheit von Realismus und Idealismus heißt bei Schelling "Indifferenz", oder Berlinisch verdolmetscht: Jleichjiltigkeit; bei Hegel wird sie negative Einheit, in der die beiden Momente aufgehoben werden; Sankt Max, den als guten deutschen Spekulanten noch immer die "Einheit der Gegensätze" nicht schlafen läßt, ist damit nicht zufrieden; er will diese Einheit an einem "leibhaftigen Individuum", in einem "ganzen Kerl" vor sich sehen, wozu ihm Feuerbach in den "Anekdotis" und der "Philosophie der Vernunft" Vorschub geleistet hat.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '175'
+- id: AT5.21.5
+  kind: p
+  original: Dieses Stirnersche "Ich", das am Ende der bisherigen Welt herauskommt, ist also kein "leibhaftiges Individuum", sondern eine durch die von Appositionen unterstützte Hegelsche Methode konstruierte Kategorie, deren weitere "Flohsprünge" wir im Neuen Testament verfolgen werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '175'
+- id: AT5.21.6
+  kind: p
+  original: Hier bemerken wir nur noch, daß dies Ich in letzter Instanz dadurch zustande kommt, daß es über die Welt des Christen sich dieselben Einbildungen macht wie der Christ über die Welt der Dinge.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 175-176
+- id: AT5.21.7
+  kind: p
+  original: Wie der Christ sich die Welt der Dinge aneignet, indem er sich phantastisches Zeug über sie "in den Kopf setzt", so eignet "Ich" sich die christliche Welt, die Welt der Gedanken, vermöge einer Reihe phantastischer Einbildungen über dieselbe an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '176'
+- id: AT5.21.8
+  kind: p
+  original: Was der Christ sich über sein Verhältnis zur Welt einbildet, glaubt ihm "Stirner", findet es probat und macht es ihm gutmütig nach.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '176'
+- id: AT5.22.1
+  kind: p
+  original: '"So halten wir nun, daß der Mensch gerecht werde ohne die Werke, allein durch den Glauben."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '176'
+- id: AT5.22.2
+  kind: p
+  original: Römer 3, 28.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '176'
+- id: AT5.23.1
+  kind: p
+  original: Hegel, dem sich die neue Welt auch in die Welt abstrakter Gedanken auf gelöst hatte, bestimmt die Aufgabe des neuen Philosophen im Gegensatz zum alten dahin, statt wie die alten sich vom "natürlichen Bewußtsein" zu befreien und "das Individuum aus der unmittelbaren sinnlichen Weise zu reinigen und es zur gedachten und denkenden Substanz" (Geist) "zu machen" - die "festen, bestimmten, fixen Gedanken aufzuheben".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '176'
+- id: AT5.23.2
+  kind: p
+  original: Dies, fügt er hinzu, vollbringe "die Dialektik".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '176'
+- id: AT5.23.3
+  kind: p
+  original: '"Phänomenologie", p. 26, 27. "Stirner unterscheidet sich von Hegel dadurch, daß er dasselbe ohne Dialektik vollbringt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '176'

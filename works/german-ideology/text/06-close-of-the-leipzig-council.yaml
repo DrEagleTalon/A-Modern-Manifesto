@@ -1,0 +1,260 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: SLK
+title_original: Schluß des Leipziger Konzils
+title_en: Close of the Leipzig Council
+author: Karl Marx, Friedrich Engels
+date: 1845-1846
+original_language: de
+anchor_language: de
+source_original: MEW 3, S. 437-438 (Dietz, Berlin 1969) via mlwerke.de; written 1845-1846, first printed in full 1932; the authors' footnotes from mlwerke's me03_anm.htm
+source_en: 'None: no public-domain English translation'
+verses:
+- id: SLK.0.1
+  kind: heading
+  original: Schluß des Leipziger Konzils
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.1.1
+  kind: p
+  original: Nachdem Sankt Bruno und Sankt Sancho, der auch Max heißt, alle Opponenten vom Konzil verjagt haben, schließen sie einen ewigen Bund, indem sie folgendes rührende Duett absingen und dabei wie zwei Mandarine einander freundlich mit den Köpfen zuwackeln.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.2.1
+  kind: heading
+  original: Sankt Sancho.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.3.1
+  kind: p
+  original: '"Der Kritiker ist der wahre Wortführer der Masse... er ist ihr Fürst und Feldherr in dem Freiheitskriege gegen den Egoismus."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.3.2
+  kind: p
+  original: (Das Buch p. 187.),
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.4.1
+  kind: heading
+  original: Sankt Bruno.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.5.1
+  kind: p
+  original: '"Max Stirner ist der Anführer und Heerführer der Kreuzfahrer" (gegen die Kritik).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.5.2
+  kind: p
+  original: '"Zugleich der Tüchtigste und Tapferste von allen Kämpfern." (Wig[and,] p.124.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.6.1
+  kind: heading
+  original: Sankt Sancho.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.7.1
+  kind: p
+  original: '"Wir gehen jetzt dazu über, den politischen und sozialen Liberalismus vor den Richterstuhl des humanen oder kritischen Liberalismus" (id est kritische Kritik) "zu stellen." (Das Buch, p. 163.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.8.1
+  kind: heading
+  original: Sankt Bruno.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.9.1
+  kind: p
+  original: '"Vor dem Einzigen und seinem Eigentum fällt der politische Liberale, der den Eigenwillen brechen will, und der soziale Liberale der das Eigentum zerstören will.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.9.2
+  kind: p
+  original: Sie fallen vor dem kritischen" (d.h. dem der Kritik gestohlnen) "Messer des Einzigen." (Wig. p. 124.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.10.1
+  kind: heading
+  original: Sankt Sancho.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.11.1
+  kind: p
+  original: '"Vor der Kritik ist kein Gedanke sicher, weil sie der denkende Geist selber ist...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.11.2
+  kind: p
+  original: Die Kritik oder vielmehr Er" (sc. Sankt Bruno). (Das Buch p. 195; 199.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.12.1
+  kind: heading
+  original: Sankt Bruno.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '437'
+- id: SLK.13.1
+  kind: p
+  original: (unterbricht ihn mit Verneigungen)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.14.1
+  kind: p
+  original: '"Allein der kritische Liberale -- der will nicht fallen [vor] der Kritik, weil Er selber [der Kritiker] ist."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.14.2
+  kind: p
+  original: '[Wig[and,] p. 124.]'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.15.1
+  kind: heading
+  original: Sankt Sancho.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.16.1
+  kind: p
+  original: '"Die Kritik, und allein die Kritik, steht auf der Höhe der Zeit...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.16.2
+  kind: p
+  original: Unter den Sozialtheorien ist unstreitig die Kritik die vollendetste...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.16.3
+  kind: p
+  original: 'In ihr kommt das Liebesprinzip des Christentums, das wahre Sozialprinzip, zum reinsten Vollzug, und es wird das letzte mögliche Experiment gemacht, die Ausschließlichkeit [und] das Abstoßen den Menschen zu benehmen: ein Kampf gegen den Egoismus in seiner einfachsten und darum härtesten Form." (Das Buch, p. 177.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.17.1
+  kind: heading
+  original: Sankt Bruno.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.18.1
+  kind: p
+  original: '"Dies Ich ist... die Vollendung und der Höhepunkt einer vergangnen Geschichtsepoche.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.18.2
+  kind: p
+  original: Der Einzige ist der letzte Zufluchtsort in der alten Welt, der letzte Schlupfwinkel, von wo aus sie ihre Angriffe" auf die kritische Kritik "machen kann...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.18.3
+  kind: p
+  original: Dieses Ich ist der gesteigertste, mächtigste und kräftigste Egoismus der alten Welt" (id est des Christentums). "...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.18.4
+  kind: p
+  original: Dieses Ich ist die Substanz in ihrer härtesten Härte."(Wig. p. 124.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.19.1
+  kind: p
+  original: Nach diesem traulichen Zwiegespräch heben die beiden großen Kirchenväter das Konzil auf.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'
+- id: SLK.19.2
+  kind: p
+  original: Dann drücken sie sich stumm die Hand, der Einzige "vergißt sich selbst in süßer Selbstvergessenheit", ohne jedoch darüber "ganz zu verschwinden", und der Kritiker "lächelt" dreimal und "geht" dann "unaufhaltsam, siegsgewiß und siegreich seiner Wege".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '438'

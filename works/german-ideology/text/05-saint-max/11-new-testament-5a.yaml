@@ -1,0 +1,4604 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: NT5A
+title_original: 5. Der Eigner
+title_en: New Testament, 5. The Owner. A) My Power
+author: Karl Marx, Friedrich Engels
+date: 1845-1846
+original_language: de
+anchor_language: de
+source_original: MEW 3, S. 296-329 (Dietz, Berlin 1969) via mlwerke.de; written 1845-1846, first printed in full 1932; the authors' footnotes from mlwerke's me03_anm.htm
+source_en: 'None: no public-domain English translation'
+verses:
+- id: NT5A.0.1
+  kind: heading
+  original: 5. Der Eigner
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '296'
+- id: NT5A.1.1
+  kind: p
+  original: 'Wie "der Eigner" in die drei "Brechungen": "Meine Macht", "Mein Verkehr" und "Mein Selbstgenuß" auseinanderfällt, darüber siehe die Ökonomie des Neuen Bundes.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '296'
+- id: NT5A.1.2
+  kind: p
+  original: Wir gehen gleich zur ersten dieser Brechungen über.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '296'
+- id: NT5A.2.1
+  kind: heading
+  original: A) Meine Macht
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '296'
+- id: NT5A.3.1
+  kind: p
+  original: Das Kapitel von der Macht ist wieder trichotomisch gegliedert, indem 1. Recht, 2. Gesetz und 3. Verbrechen darin abgehandelt werden - eine Trichotomie, zu deren sorgsamer Verdeckung Sancho die "Episode" überaus häufig anwendet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '296'
+- id: NT5A.3.2
+  kind: p
+  original: Wir werden das Ganze tabellarisch, mit den nötigen episodischen Einlagen, behandeln.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '296'
+- id: NT5A.4.1
+  kind: heading
+  original: I. Das Recht
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '296'
+- id: NT5A.5.1
+  kind: heading
+  original: A) Kanonisation im Allgemeinen
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '296'
+- id: NT5A.6.1
+  kind: p
+  original: Ein anderes Beispiel des Heiligen ist das Recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.7.1
+  kind: p
+  original: Das Recht ist nicht Ich Das Heilige = Nicht Mein Recht = das fremde Recht = das bestehende Recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.8.1
+  kind: p
+  original: Alles bestehende Recht = fremdes Recht = Recht von Fremden (nicht von mir) = von Fremden gegebenes Recht. = (Recht, welches man Mir gibt, Mir widerfahren läßt). p. 244, [2]45.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.9.1
+  kind: p
+  original: Note Nr. 1.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.10.1
+  kind: p
+  original: Der Leser wird sich wundern, warum der Nachsatz von Gleichung Nr. 4 in Gleichung Nr. 5 plötzlich als Vordersatz zum Nachsatze von Gleichung Nr. 3 auftritt und so an die Stelle "des Rechtes" auf Einmal "Alles bestehende Recht" als Vordersatz tritt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.10.2
+  kind: p
+  original: Dies geschieht, um den Schein hervorzubringen, als spreche Sankt Sancho vom wirklichen, bestehenden Recht, was ihm indes keineswegs einfällt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.10.3
+  kind: p
+  original: Er spricht vom Recht nur, insofern es als heiliges "Prädikat" vorgestellt wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.11.1
+  kind: p
+  original: Note Nr. 2.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.12.1
+  kind: p
+  original: Nachdem das Recht als "fremdes Recht" bestimmt ist, können ihm nun beliebige Namen gegeben werden, als "sultanisches Recht", "Volksrecht" pp., je nachdem Sankt Sancho gerade den Fremden bestimmen will, von dem er es erhält.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.12.2
+  kind: p
+  original: Es kann dann weiter gesagt werden, daß das "fremde Recht von Natur, Gott, Volkswahl pp. gegeben" sei (p. 250), also "nicht von Mir".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.12.3
+  kind: p
+  original: Naiv ist nur die Art, wie unser Heiliger vermittelst der Synonymik in die obigen simpeln Gleichungen den Schein einer Entwicklung zu bringen sucht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.13.1
+  kind: p
+  original: '"Wenn ein Dummkopf Mir Recht gibt (wenn nun der Dummkopf, der ihm Recht gibt, er selber wäre?), "so werde Ich mißtrauisch gegen mein Recht" (es wäre in "Stirners" Interesse zu wünschen, daß dies der Fall gewesen wäre).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.13.2
+  kind: p
+  original: '"Aber auch wenn ein Weiser Mir Recht gibt, habe Ich''s drum doch noch nicht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.13.3
+  kind: p
+  original: Ob Ich Recht habe, ist völlig unabhängig von dem Rechtgeben der Toren und Weisen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.13.4
+  kind: p
+  original: Gleichwohl haben Wir bis jetzt nach diesem Recht getrachtet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.13.5
+  kind: p
+  original: Wir suchen Recht und wenden Uns zu diesem Zweck ans Gericht...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.13.6
+  kind: p
+  original: Was suche Ich also bei diesem Gericht?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.13.7
+  kind: p
+  original: Ich suche sultanisches Recht, nicht mein Recht, Ich suche fremdes Recht... vor einem Oberzensurgericht also das Recht der Zensur." p. 244, 245.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '297'
+- id: NT5A.14.1
+  kind: p
+  original: In diesem meisterhaften Satze ist zu bewundern die schlaue Anwendung der Synonymik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.14.2
+  kind: p
+  original: Recht geben in der gewöhnlichen Konversationsbedeutung und Rechtgeben in der juristischen Bedeutung werden identifiziert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.14.3
+  kind: p
+  original: Noch bewunderungswürdiger ist der Berge versetzende Glaube, als ob man sich "ans Gericht wende" des Vergnügens halber, Recht zu behalten - ein Glaube, der die Gerichte aus der Rechthaberei erklärt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - NT5A.N1
+  mew_page: '298'
+- id: NT5A.15.1
+  kind: p
+  original: Endlich ist noch die Pfiffigkeit bemerkenswert, womit Sancho, wie oben bei Gleichung 5, den konkreteren Namen, hier das "sultanische Recht", vorher einschmuggelt, um seine allgemeine Kategorie "fremdes Recht" nachher desto sicherer anbringen zu können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.16.1
+  kind: p
+  original: Fremdes Recht = Nicht Mein Recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.17.1
+  kind: p
+  original: Mein Fremdes Recht haben = Nicht Recht haben = Kein Recht haben = die Rechtlosigkeit haben (p. 247).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.18.1
+  kind: p
+  original: Mein Recht = Nicht Dein Recht = Dein Unrecht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.19.1
+  kind: p
+  original: Dein Recht = Mein Unrecht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.20.1
+  kind: p
+  original: Note.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.21.1
+  kind: p
+  original: '"Ihr wollt gegen die Andern im Rechte sein" (soll heißen in Eurem Rechte sein).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.21.2
+  kind: p
+  original: Das könnt Ihr nicht, gegen sie bleibt Ihr ewig 'im Unrecht'; denn sie wären ja Eure Gegner nicht, wenn sie nicht auch in 'ihrem' Rechte wären.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.21.3
+  kind: p
+  original: Sie werden Euch stets 'Unrecht geben'...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.21.4
+  kind: p
+  original: Bleibt Ihr auf dem Rechtsboden, so bleibt Ihr bei der - Rechthaberei." p. 248, 253.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.22.1
+  kind: p
+  original: '"Fassen Wir inzwischen die Sache noch anders."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '298'
+- id: NT5A.22.2
+  kind: p
+  original: 'Nachdem Sankt Sancho so seine Kenntnisse vom Recht hinlänglich dokumentiert hat, kann er sich jetzt darauf beschränken, das Recht nochmals als das Heilige zu bestimmen und bei dieser Gelegenheit einige der dem Heiligen bereits vorhin gegebenen Beiwörter mit dem Zusatze: "Das Recht" zu wiederholen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 298-299
+- id: NT5A.23.1
+  kind: p
+  original: '"Ist das Recht nicht ein religiöser Begriff, d.h. etwas Heiliges?" p. 247.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.24.1
+  kind: p
+  original: '"Wer kann, wenn er sich nicht auf dem religiösen Standpunkte befindet, nach dem ''Rechte'' fragen?" ibid.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.25.1
+  kind: p
+  original: '"Recht ''an und für sich''.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.25.2
+  kind: p
+  original: Also ohne Beziehung auf Mich?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.25.3
+  kind: p
+  original: '''Absolutes Recht''!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.25.4
+  kind: p
+  original: Also getrennt von Mir.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.25.5
+  kind: p
+  original: '- Ein ''an und für sich Seiendes'' - Ein Absolutes!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.25.6
+  kind: p
+  original: Ein ewiges Recht, wie eine ewige Wahrheit" - das Heilige. p. 270.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.26.1
+  kind: p
+  original: '"Ihr schreckt vor den Andern zurück, weil Ihr neben ihnen das Gespenst des Rechts zu sehen glaubt" p. 253.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.27.1
+  kind: p
+  original: '"Ihr schleicht umher, um den Spuk für Euch zu gewinnen." ibid.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.28.1
+  kind: p
+  original: '"Recht ist ein Sparren, erteilt von einem Spuk " (Synthese obiger zwei Sätze). p. 276.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.29.1
+  kind: p
+  original: '"Das Recht ist... eine fixe Idee." p. 270.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.30.1
+  kind: p
+  original: '"Das Recht ist der Geist..." p. 244.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.31.1
+  kind: p
+  original: '"Weil Recht nur von einem Geiste erteilt werden kann." p. 275.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.32.1
+  kind: p
+  original: Jetzt entwickelt Sankt Sancho nochmals, was er bereits im Alten Testament entwickelte - nämlich was eine "fixe Idee" ist, nur mit dem Unterschiede, daß hier überall "das Recht" als "ein anderes Beispiel" der "fixen Idee" dazwischenläuft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.33.1
+  kind: p
+  original: '"Das Recht ist ursprünglich Mein Gedanke, oder er" (!) "hat seinen Ursprung in Mir.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.33.2
+  kind: p
+  original: Ist er aber aus Mir entsprungen" (vulgo durchgebrannt), "ist das 'Wort' heraus, so ist es Fleisch geworden" (woran Sankt Sancho sich satt essen mag), "eine fixe Idee " - weshalb das ganze Stirnersche Buch aus "fixen Ideen" besteht, die "aus" ihm "entsprungen", von uns aber wieder eingefangen und in das vielbelobte "Sittenverbesserungshaus" gesperrt worden sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.33.3
+  kind: p
+  original: '"Ich komme nun von dem Gedanken nicht mehr los" (nachdem der Gedanke von ihm los geworden!); "wie Ich Mich drehe, er steht vor Mir." (Der Zopf, der hängt ihm hinten.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.33.4
+  kind: p
+  original: '"So sind die Menschen des Gedankens ''Recht'', den sie selber erschufen, nicht wieder Meister geworden.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.33.5
+  kind: p
+  original: Die Kreatur geht mit ihnen durch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.33.6
+  kind: p
+  original: Das ist das absolute Recht, das von Mir absolvierte " (o Synonymik) "und abgelöste.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.33.7
+  kind: p
+  original: Wir können es, indem Wir's als Absolutes verehren, nicht weder aufzehren, und es benimmt Uns die Schöpferkraft; das Geschöpf ist mehr als der Schöpfer, ist an und für sich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.33.8
+  kind: p
+  original: Laß das Recht einmal nicht mehr frei umherlaufen..."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.34.1
+  kind: p
+  original: (Wir werden diesen Rat gleich mit diesem Satz befolgen und ihn hier bis zur weiteren Verfügung an die Kette legen.) p. 270.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '299'
+- id: NT5A.35.1
+  kind: p
+  original: Nachdem Sankt Sancho so das Recht durch alle möglichen Wasser- und Feuerproben der Heiligung hindurchgeschleift und kanonisiert hat, hat er es damit vernichtet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 299-300
+- id: NT5A.36.1
+  kind: p
+  original: '"Mit dem absoluten Recht vergeht das Recht selbst, wird die Herrschaft des Rechtsbegriffs " (die Hierarchie), "zugleich getilgt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.36.2
+  kind: p
+  original: Denn es ist nicht zu vergessen, daß seither Begriffe, Ideen und Prinzipien Uns beherrschten und daß unter diesen Herrschern der Rechtsbegriff oder der Begriff der Gerechtigkeit eine der bedeutendsten Rollen spielte." p. 276.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.37.1
+  kind: p
+  original: Daß die rechtlichen Verhältnisse hier wieder als Herrschaft des Rechtsbegriffs auftreten und daß er das Recht schon dadurch tötet, daß er es für einen Begriff und damit für das Heilige erklärt, das sind wir gewohnt, und darüber siehe die "Hierarchie".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.37.2
+  kind: p
+  original: Das Recht entsteht nicht aus den materiellen Verhältnissen der Menschen und ihrem daraus entstehenden Widerstreit untereinander, sondern aus ihrem Widerstreit mit ihrer Vorstellung, die sie sich "aus dem Kopfe zu schlagen" haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.37.3
+  kind: p
+  original: Siehe "Logik".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.38.1
+  kind: p
+  original: Zu dieser letzten Form der Kanonisation des Rechts gehören noch folgende drei Noten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.39.1
+  kind: p
+  original: Note 1.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.40.1
+  kind: p
+  original: '"Solange dies fremde Recht mit dem Meinigen übereinstimmt, werde Ich freilich auch das letztere bei ihm finden." p. 245.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.41.1
+  kind: p
+  original: Über diesen Satz möge Sankt Sancho vorläufig nachdenken.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.42.1
+  kind: p
+  original: Note 2.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.43.1
+  kind: p
+  original: '"Schlich sich einmal ein egoistisches Interesse ein, so war die Gesellschaft verdorben... wie z.B. das Römertum beweist mit seinem ausgebildeten Privatrecht." p. 278.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.44.1
+  kind: p
+  original: Hiernach mußte die römische Gesellschaft von vornherein die verdorbene römische Gesellschaft gewesen sein, da in den zehn Tafeln das egoistische Interesse noch viel krasser hervortritt als in dem "ausgebildeten Privatrecht" der Kaiserzeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.44.2
+  kind: p
+  original: In dieser unglücklichen Reminiszenz aus Hegel wird also das Privatrecht als ein Symptom des Egoismus, und nicht des Heiligen, aufgefaßt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.44.3
+  kind: p
+  original: Sankt Sancho möge auch hier nachdenken, inwiefern das Privatrecht mit dem Privateigentum zusammenhängt und inwiefern mit dem Privatrecht eine ganze Masse anderer Rechtsverhältnisse gegeben sind (vgl. "Privateigentum, Staat und Recht"), von denen Sankt Max nichts zu sagen weiß, als daß sie das Heilige seien.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.45.1
+  kind: p
+  original: Note 3.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.46.1
+  kind: p
+  original: '" Wenn das Recht auch aus dem Begriffe kommt, so tritt es doch nur in die Existenz, weil es nützlich für die Bedürfnisse ist."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.47.1
+  kind: p
+  original: So Hegel ("Rechtsphil[osophie]" § 209, Zusatz) - von dem unsrem Heiligen die Hierarchie der Begriffe in der modernen Welt überkommen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '300'
+- id: NT5A.48.1
+  kind: p
+  original: Hegel erklärt also die Existenz des Rechtes aus den empirischen Bedürfnissen der Individuen und rettet den Begriff nur durch eine einfache Versicherung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.48.2
+  kind: p
+  original: Man sieht, wie unendlich materialistischer Hegel verfährt als unser "leibhaftiges Ich", Sankt Sancho.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.49.1
+  kind: heading
+  original: B) Aneignung durch einfache Antithese
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.50.1
+  kind: p
+  original: a) Das Recht des Menschen - Das Recht Meiner.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.51.1
+  kind: p
+  original: b) Das Menschliche Recht - Das egoistische Recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.52.1
+  kind: p
+  original: c) Fremdes Recht = von Fremden berechtigt sein - Mein Recht = von Mir berechtigt sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.53.1
+  kind: p
+  original: d) Recht ist, was dem Menschen recht ist - Recht ist, was Mir recht ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.54.1
+  kind: p
+  original: '"Dies ist das egoistische Recht, d.h., Mir ist''s so recht, darum ist es Recht." (passim <überall>, letzter Satz p. 251.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.55.1
+  kind: p
+  original: Note 1.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.56.1
+  kind: p
+  original: '"Ich bin durch Mich berechtigt zu morden, wenn Ich Mir''s selbst nicht verbiete, wenn Ich selbst Mich nicht vorm Morde, als vor einem Unrechte, fürchte." p. 249.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.57.1
+  kind: p
+  original: 'Muß heißen: Ich morde, wenn Ich Mir''s selbst nicht verbiete, wenn Ich Mich nicht vorm Morde fürchte.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.57.2
+  kind: p
+  original: Dieser ganze Satz ist eine renommistische Ausfüllung der zweiten Gleichung in Antithese c, wo das "berechtigt" den Sinn verloren hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.58.1
+  kind: p
+  original: Note 2.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.59.1
+  kind: p
+  original: '"Ich entscheide, ob es in Mir das Rechte ist; außer Mir gibt es kein Recht," p. 249.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.59.2
+  kind: p
+  original: '- "Sind wir das, was in uns ist?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.59.3
+  kind: p
+  original: Sowenig als das, was außer uns ist...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.59.4
+  kind: p
+  original: Gerade weil Wir nicht der Geist sind, der in uns wohnt, gerade darum mußten wir ihn außer uns versetzen... außer uns existierend denken... im Jenseits." p. 43.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.60.1
+  kind: p
+  original: Nach seinem eignen Satze von p. 43 also muß Sankt Sancho das Recht "in ihm" wieder "außer sich", und zwar "ins Jenseits" versetzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.60.2
+  kind: p
+  original: Will er aber einmal nach dieser Manier sich aneignen, so kann er die Moral, die Religion, das ganze "Heilige" "in sich" versetzen und entscheiden, ob es "in ihm" das Moralische, das Religiöse, Heilige ist; "außer ihm gibt es keine" Moral, Religion, Heiligkeit, um sie alsdann nach p. 43 wieder außer sich, ins Jenseits zu versetzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.60.3
+  kind: p
+  original: Womit die "Wiederbringung aller Dinge" nach christlichem Vorbild hergestellt ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '301'
+- id: NT5A.61.1
+  kind: p
+  original: Note 3.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.62.1
+  kind: p
+  original: '"Außer Mir gibt es kein Recht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.62.2
+  kind: p
+  original: Ist es Mir Recht, so ist es recht, Möglich, daß es darum den Andern noch nicht recht ist." p. 249.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.63.1
+  kind: p
+  original: 'Soll heißen: Ist es Mir recht, so ist es Mir recht, noch nicht den Andern.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.63.2
+  kind: p
+  original: Wir haben jetzt Exempel genug davon gehabt, welche synonymische "Flohsprünge" Sankt Sancho mit dem Worte "Recht" vornimmt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.63.3
+  kind: p
+  original: Recht und recht, das juristische "Recht", das moralische "Rechte", das, was ihm "recht" ist usw. werden durcheinander gebraucht, wie es gerade konveniert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.63.4
+  kind: p
+  original: Sankt Max möge versuchen, seine Sätze über das Recht in irgendeiner andern Sprache wiederzugeben, wo der Unsinn vollständig an den Tag kommt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.63.5
+  kind: p
+  original: Da in der Logik diese Synonymik ausführlich behandelt wurde, so brauchen wir hier bloß darauf zu verweisen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.64.1
+  kind: p
+  original: 'Derselbe obige Satz wird noch in folgenden drei "Wandlungen" vorgebracht:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.65.1
+  kind: p
+  original: A) Ob Ich Recht habe oder nicht, darüber gibt es keinen andern Richter als Mich selbst.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.65.2
+  kind: p
+  original: Darüber nur können Andre urteilen und richten, ob sie Meinem Rechte beistimmen und ob es auch für sie als Recht besteht." p. 246.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.66.1
+  kind: p
+  original: 'B) "Die Gesellschaft will zwar haben, daß Jeder zu seinem Rechte komme, aber doch nur zu dem von der Gesellschaft sanktionierten, dem Gesellschaftsrechte, nicht wirklich zu seinem Rechte" (soll heißen: zu Seinem; - Recht ist hier ein ganz nichtssagendes Wort.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.66.2
+  kind: p
+  original: Und nun renommiert er weiter:) "Ich aber gebe oder nehme Mir das Recht aus eigner Machtvollkommenheit...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.66.3
+  kind: p
+  original: Eigner und Schöpfer Meines Rechts" ("Schöpfer" nur insofern er erst das Recht für seinen Gedanken erklärt und dann diesen Gedanken in sich zurückgenommen zu haben versichert), - "erkenne Ich keine andre Rechtsquelle als - Mich, weder Gott noch den Staat, noch die Natur, noch den Menschen, weder göttliches noch menschliches Recht." p. 269.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.67.1
+  kind: p
+  original: C) "Da das menschliche Recht immer ein Gegebenes ist, so läuft es in der Wirklichkeit immer auf das Recht hinaus, welches die Menschen einander geben, d. h. einräumen." p. 251.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.68.1
+  kind: p
+  original: Das egoistische Recht dagegen ist das Recht, was Ich Mir gebe oder nehme.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.69.1
+  kind: p
+  original: '"Es kann" indessen, "um hiermit zu schließen, einleuchten", daß das egoistische Recht im Sanchoschen Millennium, worüber man sich gegenseitig "verständigt", von dem nicht sehr verschieden ist, was man sich gegenseitig "gibt" oder "einräumt".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.70.1
+  kind: p
+  original: Note 4.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '302'
+- id: NT5A.71.1
+  kind: p
+  original: '"Zum Schlusse muß Ich nun noch die halbe Ausdrucksweise zurücknehmen, von der Ich nur solange Gebrauch machen wollte, als Ich in den Eingeweiden des Rechts wühlte und das Wort wenigstens bestehen ließ.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 302-303
+- id: NT5A.71.2
+  kind: p
+  original: Es verliert aber in der Tat mit dem Begriffe auch das Wort seinen Sinn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.71.3
+  kind: p
+  original: Was Ich Mein Recht nannte, das ist gar nicht mehr Recht." p. 275.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.72.1
+  kind: p
+  original: Warum Sankt Sancho in den obigen Antithesen "das Wort " Recht bestehen ließ, sieht Jeder auf den ersten Blick.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.72.2
+  kind: p
+  original: Da er nämlich vom Inhalt des Rechts gar nicht spricht, noch weniger ihn kritisiert, so kann er sich nur durch die Beibehaltung des Wortes Recht den Schein geben, als spräche er vom Recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.72.3
+  kind: p
+  original: Läßt man das Wort Recht in der Antithese weg, so ist Nichts darin gesagt als "Ich", "Mein" und die übrigen grammatikalischen Pronominalformen der ersten Person.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.72.4
+  kind: p
+  original: 'Der Inhalt kam auch immer erst durch die Beispiele herein, die aber, wie wir sahen, nichts als Tautologien waren, wie: wenn Ich morde, so morde Ich usw., und in denen die Worte "Recht", "berechtigt" pp. bloß deshalb untergebracht wurden, um die einfache Tautologie verdecken und mit den Antithesen in irgendeine Verbindung zu bringen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.72.5
+  kind: p
+  original: Auch die Synonymik hatte diesen Beruf, den Schein hervorzubringen, als handle es sich um irgendeinen Inhalt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.72.6
+  kind: p
+  original: Man sieht übrigens sogleich welch eine reichhaltige Fundgrube der Renommage dieses inhaltslose Geschwätz über das Recht liefert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.73.1
+  kind: p
+  original: Das ganze "Wühlen in den Eingeweiden des Rechts" bestand also darin, daß Sankt Sancho von "der halben Ausdrucksweise Gebrauch machte" und "das Wort wenigstens bestehen ließ", weil er von der Sache gar nichts zu sagen wußte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.73.2
+  kind: p
+  original: Wenn die Antithese irgendeinen Sinn haben soll, d.h., wenn "Stirner" in ihr einfach seinen Widerwillen gegen das Recht manifestieren wollte, so ist vielmehr zu sagen, daß nicht er "in den Eingeweiden des Rechts", sondern das Recht in seinen Eingeweiden "wühlte", daß er nur zu Protokoll gab, daß das Recht Ihm nicht recht sei.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.73.3
+  kind: p
+  original: '"Halte Er sich dies Recht unverkümmert", Jacques le bonhomme!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.74.1
+  kind: p
+  original: Damit in diese Leerheit irgendein Inhalt hereinkomme, muß Sankt Sancho noch ein andres logisches Manöver vornehmen, das er mit vieler "Virtuosität" mit der Kanonisation und der einfachen Antithese gehörig durcheinanderwürfelt und mit häufigen Episoden vollends so verdeckt, daß das deutsche Publikum und die deutschen Philosophen es allerdings nicht durchschauen konnten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.75.1
+  kind: heading
+  original: C) Aneignung durch zusammengesetzte Antithese
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.76.1
+  kind: p
+  original: '"Stirner" muß jetzt eine empirische Bestimmung des Rechts hereinbringen, die er dem Einzelnen vindizieren kann, d.h., er muß in dem Recht noch etwas Anderes als die Heiligkeit anerkennen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '303'
+- id: NT5A.76.2
+  kind: p
+  original: Er hätte sich hierbei seine ganzen schwerfälligen Machinationen sparen können, da seit Machiavelli, Hobbes, Spinoza, Bodinus pp. in der neueren Zeit, von den Früheren gar nicht zu reden, die Macht als die Grundlage des Rechtes dargestellt worden ist; womit die theoretische Anschauung der Politik von der Moral emanzipiert und weiter nichts als das Postulat einer selbständigen Behandlung der Politik gegeben war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 303-304
+- id: NT5A.76.3
+  kind: p
+  original: Später, im achtzehnten Jahrhundert in Frankreich und im neunzehnten in England, wurde das gesamte Recht auf das Privatrecht, wovon Sankt Max nicht spricht, und dies auf eine ganz bestimmte Macht, die Macht der Privateigentümer, reduziert, wobei man sich aber keineswegs mit der bloßen Phrase begnügte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.77.1
+  kind: p
+  original: 'Sankt Sancho nimmt sich also die Bestimmung Macht aus dem Recht heraus und verdeutlicht sie sich an Folgendem:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.78.1
+  kind: p
+  original: '"Wir pflegen die Staaten nach der verschiedenen Art, wie die ''höchste Gewalt'' verteilt ist, zu klassifizieren... also die höchste Gewalt!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.78.2
+  kind: p
+  original: Gewalt gegen wen?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.78.3
+  kind: p
+  original: Gegen den Einzelnen... der Staat übt Gewalt... des Staats Betragen ist Gewalttätigkeit und seine Gewalt nennt er Recht...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.78.4
+  kind: p
+  original: Die Gesamtheit... hat eine Gewalt, welche berechtigt genannt, d.h. welche Recht ist." p. 259, 260.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.79.1
+  kind: p
+  original: Durch "Unser" "Pflegen" kommt unser Heiliger zu seiner ersehnten Gewalt und kann sich nun selber "pflegen".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.80.1
+  kind: p
+  original: Recht, die Macht des Menschen -- Macht, das Recht Meiner.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.81.1
+  kind: p
+  original: 'Zwischengleichungen:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.82.1
+  kind: p
+  original: Berechtigt sein = Ermächtigt sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.83.1
+  kind: p
+  original: Sich berechtigen = Sich ermächtigen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.84.1
+  kind: p
+  original: 'Antithese:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.85.1
+  kind: p
+  original: Vom Menschen berechtigt sein -- Von Mir ermächtigt sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.86.1
+  kind: p
+  original: 'die erste Antithese:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.87.1
+  kind: p
+  original: Recht, Macht des Menschen -- Macht, Recht Meiner
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.88.1
+  kind: p
+  original: 'verwandelt sich jetzt in:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.89.1
+  kind: p
+  original: Recht des Menschen Macht Meiner,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.90.1
+  kind: p
+  original: Meine Macht,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.91.1
+  kind: p
+  original: da in der These Recht und Macht identisch sind und in der Antithese die "halbe Ausdrucksweise" "zurückgenommen" werden muß, nachdem das Recht "allen Sinn verloren" hat, wie wir gesehen haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.92.1
+  kind: p
+  original: 'Note 1. Proben bombastischer und renommistischer Umschreibung obiger Antithesen und Gleichungen:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '304'
+- id: NT5A.93.1
+  kind: p
+  original: '"Was Du zu sein die Macht hast, dazu hast Du das Recht."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.93.2
+  kind: p
+  original: '- "Ich leite alles Recht und alle Berechtigung aus Mir her, Ich bin zu Allem berechtigt, dessen Ich mächtig bin."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.93.3
+  kind: p
+  original: '- "Ich fordere kein Recht, darum brauche Ich auch keins anzuerkennen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.93.4
+  kind: p
+  original: 'Was Ich Mir zu erzwingen vermag, erzwinge Ich Mir, und was Ich nicht erzwinge, darauf habe Ich auch kein Recht pp. - Berechtigt oder unberechtigt - darauf kommt Mir''s nicht an: bin Ich nur mächtig, so bin ich schon von selbst ermächtigt und bedarf keiner andern Ermächtigung oder Berechtigung." p. 248, 275.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.94.1
+  kind: p
+  original: 'Note 2. Proben von der Art, wie Sankt Sancho die Macht als die reale Basis des Rechts entwickelt:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.95.1
+  kind: p
+  original: 'So sagen ''die'' Kommunisten" (woher nur "Stirner" das alles weiß, was die Kommunisten sagen, da er außer dem Bluntschlibericht, Beckers "Volksphilosophie" und einigen wenigen andern Sachen Nichts von ihnen zu Gesichte bekommen hat?):'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.96.1
+  kind: p
+  original: '"Die gleiche Arbeit berechtige die Menschen zu gleichem Genusse...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.96.2
+  kind: p
+  original: Nein, die gleiche Arbeit berechtigt Dich nicht dazu, sondern der gleiche Genuß allein berechtigt Dich zum gleichen Genuß.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.96.3
+  kind: p
+  original: Genieße, so bist Du zum Genuß berechtigt...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.96.4
+  kind: p
+  original: Wenn Ihr den Genuß nehmt, so ist er Euer Recht; schmachtet Ihr hingegen nur danach, ohne zuzugreifen, so bleibt er nach wie vor ein 'wohlerworbnes Recht' Derer, welche für den Genuß privilegiert sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.96.5
+  kind: p
+  original: Er ist ihr Recht, wie er durch Zugreifen Euer Recht wird." p. 250.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.97.1
+  kind: p
+  original: Über das, was hier den Kommunisten in den Mund gelegt wird, vergleiche man oben den "Kommunismus".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.97.2
+  kind: p
+  original: Sankt Sancho unterstellt hier wieder die Proletarier als eine "geschlossene Gesellschaft", die nur den Beschluß des "Zugreifens" zu fassen habe, um am nächsten Tage der ganzen bisherigen Weltordnung summarisch ein Ende zu machen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.97.3
+  kind: p
+  original: Die Proletarier kommen aber in der Wirklichkeit erst durch eine lange Entwicklung zu dieser Einheit, eine Entwicklung, in der der Appell an ihr Recht auch eine Rolle spielt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.97.4
+  kind: p
+  original: Dieser Appell an ihr Recht ist übrigens nur ein Mittel, sie zu "Sie", zu einer revolutionären, verbündeten Masse zu machen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.97.5
+  kind: p
+  original: '- Was den Satz im Übrigen angeht, so bildet er von Anfang bis zu Ende ein brillantes Exempel der Tautologie, wie sogleich klar wird, wenn man, was unbeschadet des Inhalts geschehen kann, sowohl Macht wie Recht herausläßt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.97.6
+  kind: p
+  original: Zweitens macht Sankt Sancho selbst den Unterschied zwischen persönlichem und sachlichem Vermögen, womit er also zwischen Genießen und Macht zu genießen unterscheidet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.97.7
+  kind: p
+  original: Ich kann große persönliche Macht (Fähigkeit) zum Genießen haben, ohne daß ich darum auch die sachliche Macht (Geld pp.) zu haben brauche.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.97.8
+  kind: p
+  original: Mein wirkliches "Genießen" ist also noch immer hypothetisch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '305'
+- id: NT5A.98.1
+  kind: p
+  original: '"Daß das Königskind sich über andre Kinder stellt", fährt der Schulmeister fort in seinen für den Kinderfreund passenden Exempeln, "das ist schon seine Tat, die ihm den Vorzug sichert, und daß die andern Kinder diese Tat billigen und anerkennen, das ist ihre Tat, die sie würdig macht, Untertanen zu sein." p. 250.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 305-306
+- id: NT5A.99.1
+  kind: p
+  original: In diesem Exempel wird das gesellschaftliche Verhältnis, in dem ein Königskind zu andern Kindern steht, als die Macht, und zwar persönliche Macht des Königskindes und als die Ohnmacht der andern Kinder gefaßt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.99.2
+  kind: p
+  original: Will man es einmal als die " Tat " der andern Kinder fassen, daß sie sich von dem Königskinde kommandieren lassen, so beweist dies höchstens, daß sie Egoisten sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.99.3
+  kind: p
+  original: '"Die Eigenheit arbeitet in den kleinen Egoisten" und treibt sie dazu, das Königskind zu exploitieren, einen Vorteil von ihm zu erhaschen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.100.1
+  kind: p
+  original: '"Man" (Hegel nämlich) sagt, die Strafe sei das Recht des Verbrechers.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.100.2
+  kind: p
+  original: Allein die Straflosigkeit ist ebenso sein Recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.100.3
+  kind: p
+  original: Gelingt ihm sein Unternehmen, so geschieht ihm Recht, und gelingt es nicht, so geschieht ihm gleichfalls Recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.100.4
+  kind: p
+  original: 'Begibt sich Jemand tollkühn in Gefahren, und kommt er darin um, so sagen wir wohl: es geschieht ihm recht, er hat es nicht besser gewollt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.100.5
+  kind: p
+  original: Besiegt er aber die Gefahren, d.h. siegt seine Macht, so hätte er auch Recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.100.6
+  kind: p
+  original: Spielt ein Kind mit dem Messer und schneidet sich, so geschieht ihm recht; aber schneidet sich's nicht, so geschieht ihm auch recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.100.7
+  kind: p
+  original: Dem Verbrecher widerfährt daher wohl Recht, wenn er leidet, was er riskierte; warum riskiert er's auch, da er die möglichen Folgen kannte?" p. 255.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.101.1
+  kind: p
+  original: 'In dem Schluß dieses Satzes, in der Frage an den Verbrecher: Warum er''s auch riskierte, wird der schulmeisterliche Unsinn des Ganzen latent.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.101.2
+  kind: p
+  original: Ob einem Verbrecher Recht geschieht, wenn er beim Einsteigen in ein Haus fällt und das Bein bricht, ob einem Kinde, wenn es sich schneidet - bei diesen wichtigen Fragen, die nur einen Sankt Sancho beschäftigen können, kommt also nur heraus, daß hier der Zufall für Meine Macht erklärt wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.101.3
+  kind: p
+  original: Also im ersten Beispiel war Mein Tun, im zweiten das von mir unabhängige gesellschaftliche Verhältnis, im dritten der Zufall "Meine Macht".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.101.4
+  kind: p
+  original: Doch diese widersprechenden Bestimmungen haben wir schon bei der Eigenheit gehabt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.102.1
+  kind: p
+  original: 'Zwischen die obigen kinderfreundlichen Exempel legt Sancho noch folgendes erheiterndes Zwischenschiebsel ein:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.103.1
+  kind: p
+  original: '" Sonst eben hat das Recht eine wächserne Nase.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.103.2
+  kind: p
+  original: Der Tiger, der Mich anfällt, hat Recht, und Ich, der ihn niederstößt, hab auch Recht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.103.3
+  kind: p
+  original: Nicht Mein Recht wahre Ich gegen ihn, sondern Mich." p. 251.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.104.1
+  kind: p
+  original: Im Vordersatz stellt sich Sankt Sancho in ein Rechtsverhältnis zum Tiger, und im Nachsatz fällt ihm ein, daß doch im Grunde kein Rechtsverhältnis stattfindet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.104.2
+  kind: p
+  original: Darum "eben hat das Recht eine wächserne Nase".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.104.3
+  kind: p
+  original: Das Recht " des Menschen" löst sich auf in das Recht " des Tigers".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '306'
+- id: NT5A.105.1
+  kind: p
+  original: Hiermit ist die Kritik des Rechts beendet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.105.2
+  kind: p
+  original: Nachdem wir aus hundert früheren Schriftstellern längst wußten, daß das Recht aus der Gewalt hervorgegangen sei, erfahren wir noch von Sankt Sancho, daß "das Recht" "die Gewalt des Menschen" ist, womit er alle Fragen über den Zusammenhang des Rechts mit den wirklichen Menschen und ihren Verhältnissen glücklich beseitigt und seine Antithese zustande gebracht hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.105.3
+  kind: p
+  original: Er beschränkt sich darauf, das Recht als das aufzuheben, als was er es setzt, nämlich als das Heilige, d.h. das Heilige aufzuheben und das Recht stehenzulassen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.106.1
+  kind: p
+  original: Diese Kritik des Rechts ist mit einer Menge von Episoden verziert, nämlich mit allerlei Zeug, wovon bei Stehely nachmittags von zwei bis vier gesprochen zu werden "pflegt".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.107.1
+  kind: p
+  original: Episode I. "Menschenrecht" und "wohlerworbnes Recht".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.108.1
+  kind: p
+  original: '"Als die Revolution die ''Gleichheit'' zu einem ''Rechte'' stempelte, flüchtete sie ins religiöse Gebiet, in die Region des Heiligen, des Ideals.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.108.2
+  kind: p
+  original: Daher seitdem der Kampf um die heiligen, unveräußerlichen Menschenrechte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.108.3
+  kind: p
+  original: Gegen das ewige Menschenrecht wird ganz natürlich und gleichberechtigt das 'wohlerworbne Recht des Bestehenden' geltend gemacht; Recht gegen Recht, wo natürlich Eins vom Andern als Unrecht verschrien wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.108.4
+  kind: p
+  original: Das ist der Rechtsstreit seit der Revolution." p. 248.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.109.1
+  kind: p
+  original: Zuerst wird wiederholt, daß die Menschenrechte "das Heilige" sind und daher seitdem der Kampf um die Menschenrechte stattfindet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.109.2
+  kind: p
+  original: Womit Sankt Sancho bloß beweist, daß die materielle Basis dieses Kampfes ihm heilig, d.h. fremd geblieben ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.110.1
+  kind: p
+  original: Weil "Menschenrecht" und "wohlerworbnes Recht" Beides "Rechte" sind, so sind sie "gleichberechtigt", und zwar hier im historischen Sinn "berechtigt".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.110.2
+  kind: p
+  original: Weil Beides im juristischen Sinn "Rechte" sind, darum sind sie im historischen Sinn "gleichberechtigt".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.110.3
+  kind: p
+  original: 'In dieser Weise kann man Alles in kürzester Frist abmachen, ohne etwas von der Sache zu wissen, und z.B. bei dem Kampfe um die Korngesetze in England sagen: Gegen den Profit (Vorteil) "wird dann ganz natürlich und gleichberechtigt" die Rente, die auch Profit (Vorteil) ist, "geltend gemacht".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.110.4
+  kind: p
+  original: Vorteil gegen Vorteil, "wo natürlich Eins vom Andern verschrieen wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.110.5
+  kind: p
+  original: 'Das ist der Kampf" um die Korngesetze seit 1815 in England - Übrigens konnte Stirner von vornherein sagen: Das bestehende Recht ist das Recht des Menschen, das Menschenrecht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.110.6
+  kind: p
+  original: Man "pflegt" es auch, von gewisser Seite her, "wohlerworbnes Recht" zu nennen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.110.7
+  kind: p
+  original: Wo bleibt also der Unterschied zwischen "Menschenrecht" und "wohlerworbnem Recht"?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.111.1
+  kind: p
+  original: Wir wissen schon, daß das fremde, heilige Recht das ist, was von Fremden gegeben wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '307'
+- id: NT5A.111.2
+  kind: p
+  original: Da nun die Menschenrechte auch die natürlichen angebornen Rechte genannt werden und bei Sankt Sancho der Name die Sache selbst ist, so sind sie also die mir von der Natur, d.h. der Geburt gegebenen Rechte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 307-308
+- id: NT5A.111.3
+  kind: p
+  original: Aber
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.112.1
+  kind: p
+  original: '"die wohlerworbnen Rechte kommen auf dasselbe hinaus, nämlich auf die Natur, welche Mir ein Recht gibt, d. h. die Geburt und weiter die Erbschaft" und so weiter.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.112.2
+  kind: p
+  original: '"Ich bin als Mensch geboren ist gleich: Ich bin als Königssohn geboren."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.113.1
+  kind: p
+  original: p. 249, 250, wo denn auch dem Babeuf der Vorwurf gemacht wird, daß er nicht dies dialektische Talent der Auflösung des Unterschiedes besessen habe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.113.2
+  kind: p
+  original: Da "Ich" "unter allen Umständen" "auch" Mensch ist, wie Sankt Sancho später konzediert, und diesem Ich daher "auch" das, was es als Mensch hat, zugute kommt, wie ihm z.B. als Berliner der Berliner Tiergarten zugute kommt, so kommt ihm "auch" das Menschenrecht "unter allen Umständen" zugute.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.113.3
+  kind: p
+  original: Da er aber keineswegs "unter allen Umständen" als "Königssohn" geboren ist, kommt ihm das "wohlerworbne Recht" keineswegs "unter allen Umständen" zugute.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.113.4
+  kind: p
+  original: Auf dem Rechtsboden ist daher ein wesentlicher Unterschied zwischen "Menschenrecht" und "wohlerworbnem Recht".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.113.5
+  kind: p
+  original: 'Hätte er nicht seine Logik verdecken müssen, so "war hier zu sagen": Nachdem Ich den Rechtsbegriff aufgelöst zu haben meine, in der Weise, wie Ich überhaupt aufzulösen "pflege", so ist der Kampf um diese beiden speziellen Rechte ein Kampf innerhalb eines von Mir in Meiner Meinung aufgelösten Begriffes und braucht "daher" von Mir gar nicht weiter berührt zu werden.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.114.1
+  kind: p
+  original: 'Zur Vermehrung der Gründlichkeit hätte Sankt Sancho noch folgende neue Wendung hinzufügen können: Auch das Menschenrecht ist erworben, also wohl erworben, und das wohlerworbene Recht ist von Menschen besessenes, menschliches, Menschenrecht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.115.1
+  kind: p
+  original: Daß man übrigens solche Begriffe, wenn man sie von der ihnen zugrunde liegenden empirischen Wirklichkeit trennt, wie einen Handschuh umdrehen kann, ist bereits von Hegel ausführlich genug bewiesen, bei dem diese Methode den abstrakten Ideologen gegenüber berechtigt war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.115.2
+  kind: p
+  original: Sankt Sancho braucht sie also nicht erst durch seine "unbeholfenen" "Machinationen" lächerlich zu machen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.116.1
+  kind: p
+  original: Bis jetzt "liefen" das wohlerworbne und das Menschenrecht "auf dasselbe hinaus", damit Sankt Sancho einen außer seinem Kopf in der Geschichte existierenden Kampf in nichts verflüchtigen konnte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.116.2
+  kind: p
+  original: Nun beweist uns unser Heiliger, daß er ebenso scharfsinnig im Distinguieren wie allmächtig im Zusammenwerfen ist, um einen neuen, im "schöpferischen Nichts" seines Kopfes existierenden schrecklichen Kampf hervorbringen zu können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '308'
+- id: NT5A.117.1
+  kind: p
+  original: '"Ich will auch zugeben" (großmütiger Sancho), "daß Jeder als Mensch geboren werde" (mithin nach der obigen, dem Babeuf vorgehaltenen Weisung, auch als "Königssohn"), "mithin die Neugebornen darin einander gleich seien... nur deshalb" weil sie sich noch als nichts anderes zeigen und betätigen, als eben als bloße - Menschenkinder, nackte Menschlein."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 308-309
+- id: NT5A.117.2
+  kind: p
+  original: Dagegen die Erwachsenen sind "Kinder ihrer eignen Schöpfung".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.117.3
+  kind: p
+  original: Sie "besitzen mehr als bloß angeborne Rechte, sie haben Rechte erworben ".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.118.1
+  kind: p
+  original: (Glaubt Stirner, daß das Kind ohne seine eigne Tat aus dem Mutterleib herauskam, eine Tat, durch die es sich erst das "Recht", außer dem Mutterleib zu sein, erwarb; und zeigt und betätigt sich jedes Kind nicht gleich von vornherein als "einziges" Kind?)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.119.1
+  kind: p
+  original: '"Welcher Gegensatz, welch ein Kampffeld!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.119.2
+  kind: p
+  original: Der alte Kampf der angebornen Rechte und der wohlerworbnen Rechte!" p. 252.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.120.1
+  kind: p
+  original: Welch ein Kampf der bärtigen Männer gegen die Säuglinge!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.121.1
+  kind: p
+  original: Übrigens spricht Sancho bloß gegen die Menschenrechte, weil "man in neuester Zeit" wieder dagegen zu sprechen "pflegte".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.121.2
+  kind: p
+  original: In Wahrheit hat er auch diese angebornen Menschenrechte sich "erworben".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.121.3
+  kind: p
+  original: In der Eigenheit hatten wir schon den "gebornen Freien", wo er die Eigenheit zum angebornen Menschenrechte machte, indem er sich als bloß Geborner schon als Freier zeigte und betätigte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.121.4
+  kind: p
+  original: 'Noch mehr: "Jedes Ich ist von Geburt schon ein Verbrecher gegen den Staat", wo das Staatsverbrechen zum angebornen Menschenrecht wird und das Kind schon gegen etwas verbricht, was noch nicht für es, sondern wofür es existiert.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.121.5
+  kind: p
+  original: Endlich spricht "Stirner" später von " gebornen beschränkten Köpfen", " gebornen Dichtern", " gebornen Musikern" usw. Da hier die Macht (musikalisches, dichterisches, resp. beschränktes Vermögen) angeboren und Recht = Macht ist, so sieht man, wie "Stirner" dem "Ich" die angebornen Menschenrechte vindiziert, wenn auch die Gleichheit diesmal nicht unter ihnen figuriert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.122.1
+  kind: p
+  original: Episode 2. Bevorrechtigt und gleichberechtigt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.122.2
+  kind: p
+  original: Den Kampf um Vorrecht und gleiches Recht verwandelt unser Sancho zunächst in den Kampf um die bloßen "Begriffe" bevorrechtigt und gleichberechtigt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.122.3
+  kind: p
+  original: Damit erspart er es sich, etwas von der mittelalterlichen Produktionsweise, deren politischer Ausdruck das Vorrecht, und der modernen, deren Ausdruck das Recht schlechthin, das gleiche Recht ist, und von dem Verhältnisse dieser beiden Produktionsweisen zu den ihnen entsprechenden Rechtsverhältnissen zu wissen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.122.4
+  kind: p
+  original: Er kann sogar die obigen beiden "Begriffe" auf den noch einfacheren Ausdruck gleich und ungleich reduzieren und nachweisen, daß Einem dasselbe (z.B. die andern Menschen, ein Hund usw.) je nachdem gleichgültig, d.h. gleich oder nicht gleich gültig, d.h. ungleich, verschieden, bevorzugt sein können usw. usw.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.123.1
+  kind: p
+  original: '"Ein Bruder aber, der niedrig ist, rühme sich seiner Höhe."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.123.2
+  kind: p
+  original: Saint-Jacques le bonhomme 1, 9.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.124.1
+  kind: heading
+  original: II. Das Gesetz
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '309'
+- id: NT5A.125.1
+  kind: p
+  original: Wir haben hier dem Leser ein großes Mysterium unsres heiligen Mannes zu enthüllen - nämlich, daß er seine ganze Abhandlung über das Recht mit einer allgemeinen Erklärung des Rechts beginnt, die ihm "entspringt", solange er vom Recht spricht, und von ihm erst dann wieder eingefangen wird, sobald er auf ganz etwas Anderes, nämlich auf das Gesetz, zu sprechen kommt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.125.2
+  kind: p
+  original: 'Damals rief das Evangelium unserm Heiligen zu: Richtet nicht, auf daß Ihr nicht gerichtet werdet - und er tat seinen Mund auf, lehrete und sprach:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.126.1
+  kind: p
+  original: '" Das Recht ist der Geist der Gesellschaft." (Die Gesellschaft aber ist das Heilige.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.126.2
+  kind: p
+  original: '" Hat die Gesellschaft einen Willen, so ist dieser Wille eben das Recht: sie besteht nur durch das Recht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.126.3
+  kind: p
+  original: Da sie aber nur dadurch besteht " (nicht durch das Recht, sondern nur dadurch), "daß sie über die Einzelnen eine Herrschaft ausübt, so ist das Recht ihr Herrscherwille." p. 244.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.127.1
+  kind: p
+  original: D.h., "das Recht... ist... hat... so... eben..., besteht nur... da... aber nur dadurch besteht... daß... so...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.127.2
+  kind: p
+  original: Herrscherwille."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.127.3
+  kind: p
+  original: Dieser Satz ist der vollendete Sancho.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.128.1
+  kind: p
+  original: Dieser Satz "entsprang" unsrem Heiligen damals, weil er nicht in seine Thesen paßte, und wird jetzt teilweise wieder eingefangen, weil er ihm jetzt teilweise wieder paßt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.129.1
+  kind: p
+  original: '"Es dauern die Staaten so lange, als es einen herrschenden Willen gibt und dieser herrschende Wille als gleichbedeutend mit dem eignen Willen angesehen wird.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.129.2
+  kind: p
+  original: Des Herrn Wille ist Gesetz." p. 256.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.130.1
+  kind: p
+  original: Der Herrscherwille der Gesellschaft = Recht,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.131.1
+  kind: p
+  original: Der herrschende Wille = Gesetz ---
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.132.1
+  kind: p
+  original: Recht = Gesetz.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.133.1
+  kind: p
+  original: '"Mitunter", d.h. als Wirtshausschild seiner "Abhandlung" über das Gesetz, wird sich auch noch ein Unterschied zwischen Recht und Gesetz herausstellen, der merkwürdigerweise beinahe ebensowenig mit seiner "Abhandlung" über das Gesetz zu tun hat als die "entsprungene" Definition des Rechts mit der "Abhandlung" über das "Recht":'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.134.1
+  kind: p
+  original: '"Was aber Recht, was in einer Gesellschaft Rechtens ist, das kommt auch zu Worte - im Gesetze." p. 255.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.135.1
+  kind: p
+  original: 'Dieser Satz ist eine "unbeholfene" Kopie aus Hegel:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.136.1
+  kind: p
+  original: '"Was gesetzmäßig, ist die Quelle der Erkenntnis dessen, was Recht ist oder was Rechtens ist."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.137.1
+  kind: p
+  original: Was Sankt Sancho "zu Worte kommen" heißt, nennt Hegel auch "gesetzt", "gewußt" etc. "Rechtsphilosophie". § 211 seqq.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '310'
+- id: NT5A.138.1
+  kind: p
+  original: Warum Sankt Sancho das Recht als "den Willen" oder "Herrscherwillen" der Gesellschaft aus seiner "Abhandlung" über das Recht ausschließen mußte, ist sehr begreiflich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.138.2
+  kind: p
+  original: Nur insoweit das Recht als Macht des Menschen bestimmt war, konnte er es als seine Macht in sich zurücknehmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.138.3
+  kind: p
+  original: Er mußte also seiner Antithese zulieb die materialistische Bestimmung der "Macht" festhalten und die idealistische des "Willens" "entspringen" lassen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.138.4
+  kind: p
+  original: Warum er jetzt, wo er vom "Gesetze" spricht, den "Willen" wieder einfängt, werden wir bei den Antithesen über das Gesetz sehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.139.1
+  kind: p
+  original: In der wirklichen Geschichte bildeten diejenigen Theoretiker, die die Macht als die Grundlage des Rechts betrachteten, den direktesten Gegensatz gegen diejenigen, die den Willen für die Basis des Rechts ansehen - einen Gegensatz, den Sankt Sancho auch als den von Realismus (Kind, Alter, Neger pp.) und Idealismus (Jüngling, Neuer, Mongole PP.) auffassen könnte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.139.2
+  kind: p
+  original: Wird die Macht als die Basis des Rechts angenommen, wie es Hobbes etc. tun, so sind Recht, Gesetz pp. nur Symptom, Ausdruck anderer Verhältnisse, auf denen die Staatsmacht beruht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.139.3
+  kind: p
+  original: Das materielle Leben der Individuen, welches keineswegs von ihrem bloßen "Willen" abhängt, ihre Produktionsweise und die Verkehrsform, die sich wechselseitig bedingen, ist die reelle Basis des Staats und bleibt es auf allen Stufen, auf denen die Teilung der Arbeit und das Privateigentum noch nötig sind, ganz unabhängig vom Willen der Individuen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.139.4
+  kind: p
+  original: Diese wirklichen Verhältnisse sind keineswegs von der Staatsmacht geschaffen, sie sind vielmehr die sie schaffende Macht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.139.5
+  kind: p
+  original: Die unter diesen Verhältnissen herrschenden Individuen müssen, abgesehen davon, daß ihre Macht sich als Staat konstituieren muß, ihrem durch diese bestimmten Verhältnisse bedingten Willen einen allgemeinen Ausdruck als Staatswillen geben, als Gesetz - einen Ausdruck, dessen Inhalt immer durch die Verhältnisse dieser Klasse gegeben ist, wie das Privat- und Kriminalrecht aufs Klarste beweisen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.139.6
+  kind: p
+  original: So wenig es von ihrem idealistischen Willen oder Willkür abhängt, ob ihre Körper schwer sind, so wenig hängt es von ihm ab, ob sie ihren eignen Willen in der Form des Gesetzes durchsetzen und zugleich von der persönlichen Willkür jedes Einzelnen unter ihnen unabhängig setzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.139.7
+  kind: p
+  original: Ihre persönliche Herrschaft muß sich zugleich als eine Durchschnittsherrschaft konstituieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.139.8
+  kind: p
+  original: Ihre persönliche Macht beruht auf Lebensbedingungen, die sich als Vielen gemeinschaftliche entwickeln, deren Fortbestand sie als Herrschende gegen andere und zugleich als für Alle geltende zu behaupten haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.139.9
+  kind: p
+  original: Der Ausdruck dieses durch ihre gemeinschaftlichen Interessen bedingten Willens ist das Gesetz.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '311'
+- id: NT5A.139.10
+  kind: p
+  original: Gerade das Durchsetzen der voneinander unabhängigen Individuen und ihrer eignen Willen, das auf dieser Basis in ihrem Verhalten gegeneinander notwendig egoistisch ist, macht die Selbstverleugnung im Gesetz und Recht nötig, Selbstverleugnung im Ausnahmsfall, Selbstbehauptung ihrer Interessen im Durchschnittsfall (die daher nicht ihnen, sondern nur dem "mit sich einigen Egoisten" für Selbstverleugnung gilt).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 311-312
+- id: NT5A.139.11
+  kind: p
+  original: Dasselbe gilt von den beherrschten Klassen, von deren Willen es ebensowenig abhängt, ob Gesetz und Staat bestehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.139.12
+  kind: p
+  original: Z.B. solange die Produktivkräfte noch nicht so weit entwickelt sind, um die Konkurrenz überflüssig zu machen, und deshalb die Konkurrenz immer wieder hervorrufen würden, solange würden die beherrschten Klassen das Unmögliche wollen, wenn sie den "Willen hätten, die Konkurrenz und mit ihr Staat und Gesetz abzuschaffen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.139.13
+  kind: p
+  original: Übrigens entsteht dieser "Wille", ehe die Verhältnisse so weit entwickelt sind, daß sie ihn produzieren können, auch nur in der Einbildung des Ideologen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.139.14
+  kind: p
+  original: Nachdem die Verhältnisse weit genug entwickelt waren, ihn zu produzieren, kann der Ideologe diesen Willen als einen bloß willkürlichen und daher zu allen Zeiten und unter allen Umständen faßbaren sich vorstellen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.1
+  kind: p
+  original: Ebensowenig wie das Recht geht das Verbrechen, d.h. der Kampf des isolierten Einzelnen gegen die herrschenden Verhältnisse, aus der reinen Willkür hervor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.2
+  kind: p
+  original: Es hat vielmehr dieselben Bedingungen wie jene Herrschaft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.3
+  kind: p
+  original: Dieselben Visionäre, die im Recht und Gesetz die Herrschaft eines für sich selbständigen allgemeinen Willens erblicken, können im Verbrechen den bloßen Bruch des Rechts und Gesetzes sehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.4
+  kind: p
+  original: Nicht der Staat besteht also durch den herrschenden Willen, sondern der aus der materiellen Lebensweise der Individuen hervorgehende Staat hat auch die Gestalt eines herrschenden Willens.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.5
+  kind: p
+  original: Verliert dieser die Herrschaft, so hat sich nicht nur der Wille, sondern auch das materielle Dasein und Leben der Individuen, und bloß deswegen ihr Wille, verändert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.6
+  kind: p
+  original: Es ist möglich, daß Rechte und Gesetze sich "forterben", aber sie sind dann auch nicht mehr herrschend, sondern nominell, wovon die altrömische und englische Rechtsgeschichte eklatante Beispiele liefern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.7
+  kind: p
+  original: Wir sahen schon früher, wie bei den Philosophen vermittelst der Trennung der Gedanken von den ihnen zur Basis dienenden Individuen und ihren empirischen Verhältnissen eine Entwicklung und Geschichte der bloßen Gedanken entstehen konnte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.8
+  kind: p
+  original: Ebenso kann man hier wieder das Recht von seiner realen Basis trennen, womit man dann einen "Herrscherwillen" herausbekommt, der sich in den verschiedenen Zeiten verschieden modifiziert und in seinen Schöpfungen, den Gesetzen, eine eigne selbständige Geschichte hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.9
+  kind: p
+  original: Womit sich die politische und bürgerliche Geschichte in eine Geschichte der Herrschaft von aufeinanderfolgenden Gesetzen ideologisch auflöst.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.10
+  kind: p
+  original: Dies ist die spezifische Illusion der Juristen und Politiker, die Jacques le bonhomme sans façon <ohne Umstände> adoptiert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '312'
+- id: NT5A.140.11
+  kind: p
+  original: Er macht sich dieselbe Illusion wie etwa Friedrich Wilhelm IV., der auch die Gesetze für bloße Einfälle des Herrscherwillens hält und daher immer findet, daß sie am "plumpen Etwas" der Welt scheitern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 312-313
+- id: NT5A.140.12
+  kind: p
+  original: Kaum [eine] seine[r] durchaus unschädlichen Marotten realisiert er weiter als in Cabinetsordren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.140.13
+  kind: p
+  original: Er befehle einmal 25 Millionen Anleihen, den hundertzehnten Teil der englischen Staatsschuld, und er wird sehen, wessen Wille sein Herrscherwille ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.140.14
+  kind: p
+  original: Wir werden übrigens auch später finden, daß Jacques le bonhomme die Phantome oder Spuke seines Souveräns und Mitberliners als Dokumente benutzt, um daraus seine eignen theoretischen Sparren über Recht, Gesetz, Verbrechen usw. zu spinnen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.140.15
+  kind: p
+  original: Es darf uns dies um so weniger wundern, da selbst der Spuk der "Vossischen Zeitung" ihm zu wiederholten Malen etwas "präsentiert", z.B. den Rechtsstaat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.140.16
+  kind: p
+  original: Die oberflächlichste Betrachtung der Gesetzgebung, z.B. der Armengesetzgebung in allen Ländern, wird zeigen, wie weit es die Herrschenden brachten, wenn sie durch ihren bloßen "Herrscherwillen", d.h. als nur Wollende, irgend etwas durchsetzen zu können sich einbildeten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.140.17
+  kind: p
+  original: Sankt Sancho muß übrigens die Illusion der Juristen und Politiker über den Herrscherwillen akzeptieren, um in den Gleichungen und Antithesen, an denen wir uns gleich ergötzen werden, seinen eignen Willen herrlich leuchten lassen zu können und dahin zu kommen, daß er sich irgendeinen Gedanken, den er sich in den Kopf gesetzt hat, wieder aus dem Kopf schlagen kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.141.1
+  kind: p
+  original: '"Meine lieben Brüder, achtet es eitel Freude, wenn ihr in Anfechtungen fallet."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.141.2
+  kind: p
+  original: Saint-Jacques le bonhomme 1,2.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.142.1
+  kind: p
+  original: Gesetz = Herrscherwille des Staats, = Staatswillen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.143.1
+  kind: p
+  original: 'Antithesen:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.144.1
+  kind: p
+  original: Staatswillen, fremder Wille -- Mein Wille, eigner Wille.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.145.1
+  kind: p
+  original: Herrscherwille des Staats -- Eigner Wille Meiner. -- Mein Eigenwille.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.146.1
+  kind: p
+  original: Staatseigne, die das Gesetz des Staates tragen - "Selbsteigne (Einzige), die ihr Gesetz in sich selbst tragen." p. 268
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.147.1
+  kind: p
+  original: 'Gleichungen:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.148.1
+  kind: p
+  original: A) Der Staatswille = Nicht Mein Wille.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.149.1
+  kind: p
+  original: B) Mein Wille = Nicht der Staatswille.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.150.1
+  kind: p
+  original: C) Wille = Wollen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.151.1
+  kind: p
+  original: D) Mein Wille = Nichtwollen des Staats, = Wille wider den Staat, = Widerwille gegen den Staat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '313'
+- id: NT5A.152.1
+  kind: p
+  original: E) Den Nichtstaat wollen = Eigenwille.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.153.1
+  kind: p
+  original: Eigenwille = Den Staat nicht wollen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.154.1
+  kind: p
+  original: F) Der Staatswille = Das Nichts Meines Willens, = Meine Willenlosigkeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.155.1
+  kind: p
+  original: G) Meine Willenlosigkeit = Sein des Staatswillens.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.156.1
+  kind: p
+  original: (Schon aus dem Früheren wissen wir, daß das Sein des Staatswillens gleich ist dem Sein des Staats, woraus sich folgende neue Gleichung ergibt:)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.157.1
+  kind: p
+  original: H) Meine Willenlosigkeit = Sein des Staats.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.158.1
+  kind: p
+  original: I) Das Nicht Meiner Willenlosigkeit = Nichtsein des Staats.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.159.1
+  kind: p
+  original: K) Der Eigenwille = Das Nichts des Staats.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.160.1
+  kind: p
+  original: L) Mein Wille = Nichtsein des Staats.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.161.1
+  kind: p
+  original: Note 1. Schon nach dem oben zitierten Satze von p. 256
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.162.1
+  kind: p
+  original: '"dauern die Staaten so lange, als der herrschende Wille als gleichbedeutend mit dem eignen Willen angesehen wird.".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.163.1
+  kind: p
+  original: Note 2.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.164.1
+  kind: p
+  original: '"Wer, um zu bestehen" (wird dem Staat ins Gewissen geredet), auf die Willenlosigkeit Andrer rechnen muß, der ist ein Machwerk dieser Andern, wie der Herr ein Machwerk des Dieners ist." p. 257. (Gleichungen F, G, H, I.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.165.1
+  kind: p
+  original: Note 3.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.166.1
+  kind: p
+  original: '"Der eigne Wille Meiner ist der Verderber des Staats.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.166.2
+  kind: p
+  original: Er wird deshalb von Letzterem als Eigenwille gebrandmarkt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.166.3
+  kind: p
+  original: Der eigne Wille und der Staat sind todfeindliche Mächte, zwischen welchen kein ewiger Friede möglich ist." p. 257.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.166.4
+  kind: p
+  original: '- "Daher überwacht er auch wirklich Alle, er sieht in Jedem einen Egoisten" (den Eigenwillen), "und vor dem Egoisten fürchtet er sich." p. 263.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.166.5
+  kind: p
+  original: '" Der Staat... widersetzt sich dem Zweikampf... selbst jede Prügelei wird gestraft" (auch wenn man die Polizei nicht herbeiruft), p. 245.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.167.1
+  kind: p
+  original: Note 4.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.168.1
+  kind: p
+  original: '"Für ihn, den Staat, ist''s unumgänglich nötig, daß Niemand einen eignen Willen habe; hätte ihn Einer, so müßte der Staat ihn ausschließen" (einsperren, verbannen); hätten ihn Alle " ("wer ist diese Person, die Ihr ''Alle'' nennt?"), "so schafften sie den Staat ab." p. 257.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.169.1
+  kind: p
+  original: 'Dies kann nun auch rhetorisch ausgeführt werden:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '314'
+- id: NT5A.170.1
+  kind: p
+  original: '"Was helfen Deine Gesetze, wenn sie Keiner befolgt, was Deine Befehle, wenn sich Niemand befehlen läßt?" p. 256.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - NT5A.N2
+  mew_page: '314'
+- id: NT5A.171.1
+  kind: p
+  original: Note 5.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '315'
+- id: NT5A.172.1
+  kind: p
+  original: 'Die einfache Antithese: Staatswille - Mein Wille erhält im Folgenden eine scheinbare Motivierung: "Dächte Man sich auch selbst den Fall, daß jeder Einzelne im Volk den gleichen Willen ausgesprochen hätte und hierdurch ein vollkommener Gesamtwille (!) "zustande gekommen wäre: die Sache bliebe dennoch dieselbe.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '315'
+- id: NT5A.172.2
+  kind: p
+  original: Wäre Ich nicht an Meinen gestrigen Willen heute und ferner gebunden?...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '315'
+- id: NT5A.172.3
+  kind: p
+  original: Mein Geschöpf, nämlich ein bestimmter Willensausdruck, wäre Mein Gebieter geworden; ich aber... der Schöpfer, wäre in Meinem Flusse und Meiner Auflösung gehemmt...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '315'
+- id: NT5A.172.4
+  kind: p
+  original: Weil Ich gestern ein Wollender war, bin Ich heute ein Willenloser, gestern freiwillig, heute unfreiwillig." p. 258.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '315'
+- id: NT5A.173.1
+  kind: p
+  original: Den alten, von Revolutionären wie Reaktionären schon oft ausgesprochenen Satz, daß in der Demokratie die Einzelnen ihre Souveränität nur für einen Moment ausüben, dann aber sogleich wieder von der Herrschaft zurücktreten, sucht sich Sankt Sancho hier auf eine "unbeholfene" Art anzueignen, indem er seine phänomenologische Theorie von Schöpfer und Geschöpf auf ihn anwendet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '315'
+- id: NT5A.173.2
+  kind: p
+  original: Die Theorie von Schöpfer und Geschöpf benimmt diesem Satze aber allen Sinn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '315'
+- id: NT5A.173.3
+  kind: p
+  original: Sankt Sancho ist nach dieser seiner Theorie nicht heute ein Willenloser, weil er seinen gestrigen Willen geändert hat, d.h. einen anders bestimmten Willen hat, und nun das dumme Zeug, was er gestern als seinen Willensausdruck zum Gesetz erhob, seinen heutigen besser erleuchteten Willen als Band oder Fessel drückt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '315'
+- id: NT5A.173.4
+  kind: p
+  original: Nach seiner Theorie muß vielmehr sein heutiger Wille die Verneinung seines gestrigen sein, weil er die Verpflichtung hat, sich als Schöpfer auflösend zu seinem gestrigen Willen zu verhalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '315'
+- id: NT5A.173.5
+  kind: p
+  original: Nur als "Willenloser" ist er Schöpfer, als wirklich Wollender ist er stets Geschöpf. (Siehe die "Phänomenologie".)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '315'
+- id: NT5A.173.6
+  kind: p
+  original: Dann aber ist er, "weil er gestern ein Wollender war", keineswegs heute ein "Willenloser", sondern vielmehr ein Widerwilliger gegen seinen gestrigen Willen, mag dieser die Form des Gesetzes angenommen haben oder nicht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 315-316
+- id: NT5A.173.7
+  kind: p
+  original: Er kann ihn in beiden Fällen auflösen, wie er überhaupt aufzulösen pflegt, nämlich als seinen Willen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.173.8
+  kind: p
+  original: Damit hat er dem mit sich einigen Egoismus vollkommen Genüge geleistet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.173.9
+  kind: p
+  original: Ob also sein gestriger Wille als Gesetz eine Existenzform außer seinem Kopfe angenommen hat oder nicht ist hier ganz gleichgültig, besonders wenn wir bedenken, wie schon oben das "aus ihm heraus entsprungene Wort" sich ebenfalls rebellisch gegen ihn verhielt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.173.10
+  kind: p
+  original: Und dann will im obigen Satze Sankt Sancho ja nicht seine Eigenwilligkeit, sondern seine Freiwilligkeit, Willensfreiheit, Freiheit wahren, was ein arger Verstoß gegen den Moralkodex des mit sich einigen Egoisten ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.173.11
+  kind: p
+  original: In diesem Verstoße befangen, geht Sankt Sancho sogar so weit, daß er die oben so sehr verschriene innerliche Freiheit, die Freiheit des Widerwillens, als die wahre Eigenheit proklamiert. bloß
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.174.1
+  kind: p
+  original: '"Wie zu ändern?" ruft Sancho aus.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.174.2
+  kind: p
+  original: Nur dadurch, daß Ich keine Pflicht anerkenne, d.h. Mich nicht binde oder binden lasse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.174.3
+  kind: p
+  original: '- Allein man wird Mich binden!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.174.4
+  kind: p
+  original: Meinen Willen kann niemand binden und Mein Widerwille bleibt frei!" p. 258.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.175.1
+  kind: p
+  original: Pauken und Trompeten huld'gen Seiner jungen Herrlichkeit!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.176.1
+  kind: p
+  original: Wobei Sankt Sancho vergißt, die "einfache Reflexion anzustellen", daß sein "Wille" allerdings insofern "gebunden" ist, als er wider seinen Willen ein " Widerwille " ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '316'
+- id: NT5A.177.1
+  kind: p
+  original: In dem obigen Satze über das Gebundensein des Einzelwillens durch den als Gesetz ausgedrückten allgemeinen Willen vollendet sich übrigens die idealistische Anschauungsweise vom Staat, für die es sich bloß vom Willen handelt und die bei französischen und deutschen Schriftstellern zu den spitzfindigsten Quästiunculis <winzigen (gelehrten) Fragen> geführt hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - NT5A.N3
+  mew_page: '316'
+- id: NT5A.178.1
+  kind: p
+  original: Wenn es sich übrigens nur um das "Wollen", nicht um das "Können", und im schlimmsten Falle nur um den "Widerwillen" handelt, so ist nicht abzusehen, warum Sankt Sancho einen so ergiebigen Gegenstand des "Wollens" und "Widerwillens", wie das Staatsgesetz ist, platterdings beseitigen will.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 316-317
+- id: NT5A.179.1
+  kind: p
+  original: '"Gesetz überhaupt pp. - soweit sind wir heute." p. 256.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.180.1
+  kind: p
+  original: Was Jacques le bonhomme nicht alles glaubt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.181.1
+  kind: p
+  original: Die bisherigen Gleichungen waren rein vernichtend gegen den Staat und das Gesetz.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.181.2
+  kind: p
+  original: Der wahre Egoist mußte sich rein vernichtend gegen Beide verhalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.181.3
+  kind: p
+  original: Die Aneignung vermißten wir, obwohl wir dagegen die Freude hatten, Sankt Sancho das große Kunststück verrichten zu sehen, wie man durch eine bloße Veränderung des Willens, die natürlich wieder vom bloßen Willen abhängt, den Staat vernichtet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.181.4
+  kind: p
+  original: Indessen auch an der Aneignung fehlt es hier nicht, obgleich sie hier nur ganz nebenherläuft und erst später "mitunter" Resultate haben kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.181.5
+  kind: p
+  original: Die obigen zwei Antithesen
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.182.1
+  kind: p
+  original: Staatswille, fremder Wille - Mein Wille, eigner Wille,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.183.1
+  kind: p
+  original: Herrscherwille des Staats - Eigner Wille Meiner
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.184.1
+  kind: p
+  original: 'können auch so zusammengefaßt werden:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.185.1
+  kind: p
+  original: Herrschaft des fremden Willens - Herrschaft des eignen Willens.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.186.1
+  kind: p
+  original: In dieser neuen Antithese, die übrigens seiner Vernichtung des Staats durch seinen Eigenwillen fortwährend versteckt zugrunde lag, eignet er sich die politische Illusion über die Herrschaft der Willkür, des ideologischen Willens an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.186.2
+  kind: p
+  original: 'Er konnte dies auch so ausdrücken:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.187.1
+  kind: p
+  original: Willkür des Gesetzes - Gesetz der Willkür.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.188.1
+  kind: p
+  original: Zu dieser Einfachheit des Ausdrucks hat es Sankt Sancho indes nicht gebracht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '317'
+- id: NT5A.189.1
+  kind: p
+  original: 'In der Antithese III haben wir schon ein "Gesetz in ihm"; aber er eignet sich das Gesetz noch direkter an in folgender Antithese:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '318'
+- id: NT5A.190.1
+  kind: p
+  original: Gesetz, Willenserklärung des Staats - Gesetz, Willenserklärung Meiner, Meine Willenserklärung
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '318'
+- id: NT5A.191.1
+  kind: p
+  original: '"Es kann Jemand wohl erklären, was er sich gefallen lassen will, mithin durch ein Gesetz das Gegenteil sich verbitten" pp., p. 256.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '318'
+- id: NT5A.192.1
+  kind: p
+  original: Dies Verbitten wird mit obligaten Drohungen begleitet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '318'
+- id: NT5A.192.2
+  kind: p
+  original: Diese letzte Antithese ist von Wichtigkeit für den Abschnitt über das Verbrechen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '318'
+- id: NT5A.193.1
+  kind: p
+  original: Episoden. p. 256 wird uns erklärt, daß "Gesetz" von "willkürlichem Befehl, Ordonnanz" nicht verschieden sei, weil Beides "Willenserklärung", mithin "Befehl". - p. 254, 255, 260, 263 wird unter dem Schein, als werde von " dem Staat" gesprochen, der preußische Staat untergeschoben und die wichtigen Fragen der "Vossischen Zeitung" über Rechtsstaat, Absetzbarkeit der Beamten, Beamtenhochmut und dergl. dummes Zeug verhandelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '318'
+- id: NT5A.193.2
+  kind: p
+  original: Das einzig Wichtige ist die Entdeckung, daß die altfranzösischen Parlamente auf dem Rechte bestanden, königliche Edikte zu registrieren, weil sie "nach eignem Rechte richten" wollten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '318'
+- id: NT5A.193.3
+  kind: p
+  original: Das Registrieren der Gesetze durch die französischen Parlamente kam auf zugleich mit der Bourgeoisie und der für die damit absolut werdenden Könige gesetzten Notwendigkeit, sowohl dem Feudaladel wie fremden Staaten gegenüber einen fremden Willen, von dem der ihrige abhängig sei, vorzuschützen und zugleich den Bourgeois eine Garantie zu geben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '318'
+- id: NT5A.193.4
+  kind: p
+  original: Sankt Max kann sich dies aus der Geschichte seines geliebten Franz I. eines Weiteren verständlich machen; im Übrigen möge er sich aus den vierzehn Bänden "Des Etats généraux et autres assemblées nationales", Paris 1788, über das, was die französischen Parlamente wollten oder nicht wollten und was sie zu bedeuten hatten, einigermaßen Rats erholen, ehe er sie wieder in den Mund nimmt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '318'
+- id: NT5A.193.5
+  kind: p
+  original: Überhaupt wäre es wohl am Ort, hier eine kurze Episode über die Belesenheit unsres eroberungssüchtigen Heiligen einzulegen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '318'
+- id: NT5A.193.6
+  kind: p
+  original: 'Abgesehen von den theoretischen Büchern, wie Feuerbachs und B. Bauers Schriften, sowie von der Hegelschen Tradition, die seine Hauptquelle bildet - abgesehen von diesen notdürftigsten theoretischen Quellen benutzt und zitiert unser Sancho folgende historische Quellen: Für die französische Revolution Rutenbergs "Politische Reden" und die Bauerschen "Denkwürdigkeiten"; für den Kommunismus Proudhon, A.Beckers "Volksphilosophie", die "Einundzwanzig Bogen" und den Bluntschlibericht; für den Liberalismus die "Vossische Zeitung", die sächsischen Vaterlandsblätter, die badische Kammer, wieder die "Einundzwanzig Bogen" und E. Bauers epochemachende Schrift; außerdem werden noch hier und da als historische Belege zitiert: die Bibel, Schlossers "18. Jahrhundert", Louis Blancs "Histoire de dix ans", Hinrichs'' "Politische Vorlesungen", Bettina: "Dies Buch gehört dem König", Heß'' "Triarchie", die "Deutsch-Französischen Jahrbücher", die Züricher "Anekdota", Moriz Carrière über den Kölner Dom, Sitzung der Pariser Pairskammer vom 25. April 1844, Karl Nauwerck, "Emilia Galotti", die Bibel - kurz, das ganze Berliner Lesekabinett samt seinem Eigentümer Willibald Alexis Cabanis.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 318-319
+- id: NT5A.193.7
+  kind: p
+  original: Man wird es nach dieser Probe von Sanchos tiefen Studien erklärlich finden, daß so unendlich viel Fremdes, d.h. Heiliges für ihn in dieser Welt existiert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.194.1
+  kind: heading
+  original: III. Das Verbrechen
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.195.1
+  kind: p
+  original: Note 1.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.196.1
+  kind: p
+  original: '"Läßt Du Dir von einem Andern Recht geben, so mußt Du nicht minder Dir von ihm Unrecht geben lassen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.196.2
+  kind: p
+  original: Kommt Dir von ihm die Rechtfertigung und Belohnung, so erwarte auch seine Anklage und Strafe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.196.3
+  kind: p
+  original: Dem Rechte geht das Unrecht, der Gesetzlichkeit das Verbrechen zur Seite.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.196.4
+  kind: p
+  original: Was - bist - Du?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.196.5
+  kind: p
+  original: '- Du - bist - ein - Verbrecher!!" p. 262.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.197.1
+  kind: p
+  original: Dem code civil <bürgerlichen Gesetzbuch> geht der code pénal <Strafgesetzbuch>, dem code pénal der code de commerce <Handelsgesetzbuch> zur Seite.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.197.2
+  kind: p
+  original: Was bist Du?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.197.3
+  kind: p
+  original: Du bist ein - Commerçant!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.198.1
+  kind: p
+  original: Sankt Sancho konnte uns diese nervenerschütternde Überraschung sparen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.198.2
+  kind: p
+  original: 'Bei ihm hat das "Läßt Du Dir von einem Andern Recht geben, so mußt Du Dir auch Unrecht von ihm geben lassen" allen Sinn verloren, insofern dadurch eine neue Bestimmung hinzukommen soll; denn bei ihm heißt es schon nach einer früheren Gleichung: Läßt Du Dir von einem Andern Recht geben, so läßt Du Dir fremdes Recht, also Dein Unrecht geben.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.199.1
+  kind: heading
+  original: A) Einfache Kanonisation von Verbrechen und Strafe
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.200.1
+  kind: heading
+  original: a) Verbrechen
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.201.1
+  kind: p
+  original: Was das Verbrechen anbetrifft, so ist es, wie wir schon sahen, der Name für eine allgemeine Kategorie des mit sich einigen Egoisten, Negation des Heiligen, Sünde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.201.2
+  kind: p
+  original: 'In den angeführten Antithesen und Gleichungen über die Beispiele des Heiligen: Staat, Recht, Gesetz konnte die negative Beziehung des Ich auf diese Heiligen oder die Kopula auch Verbrechen genannt werden, wie bei der Hegelschen Logik, die ebenfalls ein Beispiel des Heiligen ist, Sankt Sancho auch sagen kann: Ich bin nicht die Hegelsche Logik, Ich bin ein Sünder gegen die Hegelsche Logik.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '319'
+- id: NT5A.201.3
+  kind: p
+  original: 'Er mußte nun, da er vom Recht, Staat pp. sprach, fortfahren: Ein andres Beispiel der Sünde oder des Verbrechens sind die sogenannten juristischen oder politischen Verbrechen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 319-320
+- id: NT5A.201.4
+  kind: p
+  original: Statt dessen tut er uns wieder ausführlich dar, daß diese Verbrechen seien
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.202.1
+  kind: p
+  original: die Sünde gegen das Heilige,
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.203.1
+  kind: p
+  original: '" " " die fixe Idee,'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.204.1
+  kind: p
+  original: '" " " das Gespenst,'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.205.1
+  kind: p
+  original: '" " " " den Menschen".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.206.1
+  kind: p
+  original: '"Nur gegen ein Heiliges gibt es Verbrecher." p. 268.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.207.1
+  kind: p
+  original: '" Der Kriminalkodex hat nur durch das Heilige Bestand." p. 318.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.208.1
+  kind: p
+  original: '"Aus der fixen Idee entstehen die Verbrechen." p. 269.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.209.1
+  kind: p
+  original: '"Man sieht hier, wie es wieder '' der Mensch'' ist, der auch den Begriff des Verbrechens, der Sünde und damit den des Rechts zuwege bringt." (Vorhin war es umgekehrt.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.209.2
+  kind: p
+  original: '"Ein Mensch, in welchem Ich nicht den Menschen erkenne, ist ein Sünder." p. 268.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.210.1
+  kind: p
+  original: Note 1.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.211.1
+  kind: p
+  original: '"Kann Ich annehmen, daß Einer gegen Mich ein Verbrechen begehe" (wird im Gegensatz zum französischen Volk in der Revolution behauptet), "ohne anzunehmen, daß er so handeln müsse, wie Ich''s für gut finde?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.211.2
+  kind: p
+  original: Und dieses Handeln nenne Ich das Rechte, Gute pp., das Abweichende ein Verbrechen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.211.3
+  kind: p
+  original: Mithin denke Ich, die Andern müßten auf dasselbe Ziel mit Mir losgehen... als Wesen, die irgendeinem 'vernünftigen' Gesetze" (Beruf! Bestimmung! Aufgabe! Das Heilige!!!) "gehorchen sollen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.211.4
+  kind: p
+  original: Ich stelle auf, was der Mensch sei und was wahrhaft menschlich handeln heiße, und fordere von Jedem, daß ihm dies Gesetz Norm und Ideal werde, widrigenfalls er sich als Sünder und Verbrecher ausweise..." p. [267,] 268.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.212.1
+  kind: p
+  original: Dabei weint er eine ahnungsvolle Träne auf dem Grabe der "eigenen Menschen", die zur Schreckenszeit vom souveränen Volk im Namen des Heiligen geschlachtet wurden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.212.2
+  kind: p
+  original: Er zeigt weiter an einem Beispiel, wie von diesem heiligen Standpunkt aus die Namen der wirklichen Verbrechen konstruiert werden können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.213.1
+  kind: p
+  original: '"Wird, wie in der Revolution, das, was das Gespenst, der Mensch sei, als ''guter Bürger'' gefaßt, so gibt es von diesem Begriffe des Menschen die bekannten ''politischen Vergehen und Verbrechen''."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.213.2
+  kind: p
+  original: '(Soll heißen: so gibt dieser Begriff pp. die bekannten Verbrechen von sich.) p. 268.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.214.1
+  kind: p
+  original: Wie sehr die Leichtgläubigkeit in dem Abschnitt über das Verbrechen die vorherrschende Qualität unsres Sancho ist, davon haben wir hier ein glänzendes Exempel, indem er die Sansculotten der Revolution vermittelst einer synonymischen Mißhandlung des Wortes citoyen in Berliner "gute Bürger" verwandelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.214.2
+  kind: p
+  original: '"Gute Bürger und treue Beamte" gehören nach Sankt Max unzertrennlich zusammen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: NT5A.214.3
+  kind: p
+  original: '"Robespierre z.B., Saint-Just usw." wären also die "treuen Beamten", während Danton einen Kassendefekt sich zuschulden kommen ließ und die Gelder des Staats verschleuderte.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 320-321
+- id: NT5A.214.4
+  kind: p
+  original: Sankt Sancho hat einen guten Anfang zu einer Revolutionsgeschichte für den preußischen Bürger und Landmann gemacht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.215.1
+  kind: p
+  original: Note 2.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.216.1
+  kind: p
+  original: 'Nachdem Sankt Sancho uns so das politische und juristische Verbrechen als ein Beispiel des Verbrechens überhaupt, nämlich seiner Kategorie des Verbrechens, der Sünde, der Negation, Feindschaft, Beleidigung, Verachtung des Heiligen, des unanständigen Betragens gegen das Heilige, vorgeführt hat, kann er nun getrost erklären:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.217.1
+  kind: p
+  original: '"Im Verbrechen hat sich bisher der Egoist behauptet und das Heilige verspottet." p. 319.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.218.1
+  kind: p
+  original: An dieser Stelle werden alle bisherigen Verbrechen dem mit sich einigen Egoisten ins Credit geschrieben, obwohl wir späterhin wieder Einiges davon ins Debet werden übertragen müssen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.218.2
+  kind: p
+  original: Sancho glaubt, man habe bisher nur Verbrechen begangen, um "das Heilige" zu verspotten und sich nicht gegen die Dinge, sondern gegen das Heilige an den Dingen zu behaupten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.218.3
+  kind: p
+  original: Weil der Diebstahl eines armen Teufels, der sich einen fremden Taler aneignet, unter die Kategorie des Verbrechens gegen das Gesetz subsumiert werden kann, darum beging dieser arme Teufel den Diebstahl aus reiner Lust, das Gesetz zu brechen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.218.4
+  kind: p
+  original: Gerade wie Jacques le bonhomme sich oben einbildete, nur um des Heiligen willen seien überhaupt Gesetze gegeben worden und nur um des Heiligen willen würden Diebe eingesteckt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.219.1
+  kind: heading
+  original: b) Strafe
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.220.1
+  kind: p
+  original: Da wir gerade mit juristischen und politischen Verbrechen uns zu schaffen machen, so findet sich bei dieser Gelegenheit, daß dergleichen Verbrechen "im gewöhnlichen Verstande" eine Strafe nach sich zu ziehen pflegen, oder auch, wie geschrieben steht, "der Tod der Sünde Sold ist".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.220.2
+  kind: p
+  original: Es versteht sich nun, nach dem, was wir bereits über das Verbrechen vernommen haben, daß die Strafe die Selbstverteidigung und Abwehr des Heiligen gegen die Entheiliger ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.221.1
+  kind: p
+  original: Note 1.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.222.1
+  kind: p
+  original: '"Die Strafe hat nur dann einen Sinn, wenn sie Sühne für Verletzung eines Heiligen sein soll." p. 316.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.222.2
+  kind: p
+  original: In der Strafe "verfallen Wir in die Torheit, das Recht, den Spuk" (das Heilige) "befriedigen zu wollen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.222.3
+  kind: p
+  original: Das Heilige soll sich" hier "gegen den Menschen wehren."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.222.4
+  kind: p
+  original: (Sankt Sancho verfällt hier in die Torheit", " den Menschen" für die Einzigen" "eignen Ichs" usw. zu versehen.) p. 318.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: NT5A.223.1
+  kind: p
+  original: Note 2.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.224.1
+  kind: p
+  original: '"Der Kriminalkodex hat nur durch das Heilige Bestand und verkommt von selbst, wenn man die Strafe aufgibt." p. 318.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.225.1
+  kind: p
+  original: 'Sankt Sancho will eigentlich sagen: die Strafe verkommt von selbst, wenn man den Kriminalkodex aufgibt, d.h., die Strafe besteht nur durch den Kriminalkodex.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.225.2
+  kind: p
+  original: '"Ist aber nicht ein" nur durch die Strafe existierender Kriminalkodex "ein Unsinn, und ist eine" nur durch den Kriminalkodex existierende Strafe "nicht auch ein Unsinn?" (Sancho contra Heß, Wig[and,] p. 186.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.225.3
+  kind: p
+  original: Sancho versieht hier den Kriminalkodex für ein Lehrbuch der theologischen Moral.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.226.1
+  kind: p
+  original: Note 3.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.227.1
+  kind: p
+  original: 'Als Beispiel, wie aus der fixen Idee das Verbrechen entsteht, Folgendes:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.228.1
+  kind: p
+  original: '"Die Heiligkeit der Ehe ist eine fixe Idee.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.228.2
+  kind: p
+  original: Aus der Heiligkeit folgt, daß die Untreue ein Verbrechen ist, und es setzt daher ein gewisses Ehegesetz " (zum großen Ärger der "d....... <deutschen> Kammern" und des "Kaisers aller R...... <Reußen>", nicht minder des "Kaisers von Japan" und des "Kaisers von China" und speziell des "Sultans") "eine kürzere oder längere Strafe darauf." p. 269.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.229.1
+  kind: p
+  original: Friedrich Wilhelm IV., der da glaubt, nach dem Maßstabe des Heiligen Gesetze geben zu können, und sich deswegen stets mit aller Welt brouilliert, kann sich damit trösten, daß er an unsrem Sancho wenigstens Einen Staatsgläubigen gefunden hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.229.2
+  kind: p
+  original: Sankt Sancho vergleiche das preußische Ehegesetz, das bloß im Kopfe seines Autors existiert, einmal mit den praktisch geltenden Bestimmungen des Code civil, wo er den Unterschied zwischen heiligen und weltlichen Ehegesetzen finden kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.229.3
+  kind: p
+  original: In der preußischen Phantasmagorie soll die Heiligkeit der Ehe von Staats wegen sowohl gegen den Mann wie gegen die Frau geltend gemacht werden; in der französischen Praxis, wo die Frau als Privateigentum des Mannes angesehen wird, kann nur die Frau, und auch sie nur auf Verlangen des Mannes, der sein Eigentumsrecht geltend macht, wegen Ehebruch bestraft werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.230.1
+  kind: heading
+  original: B) Aneignung von Verbrechen und Strafe durch Antithese
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.231.1
+  kind: p
+  original: Verbrechen im Sinne der Menschen = Brechen des Gesetzes des Menschen (der Willenserklärung des Staats, der Staatsgewalt) p. 259 ff.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: NT5A.232.1
+  kind: p
+  original: Verbrechen im Sinn Meiner = Brechen des Gesetzes Meiner (Meiner Willenserklärung, Meiner Gewalt) p. 256 und passim.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.233.1
+  kind: p
+  original: Diese beiden Gleichungen stehen einander antithetisch gegenüber und gehen bloß aus dem Gegensatz von "der Mensch" und "Ich" hervor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.233.2
+  kind: p
+  original: Sie sind nur Zusammenfassung des bereits Dagewesenen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.233.3
+  kind: p
+  original: Das Heilige straft den "Ich" -"Ich strafe den 'Ich'."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.234.1
+  kind: p
+  original: Verbrechen = Feindschaft gegen das Gesetz des Menschen (das Heilige). = Feindschaft = Verbrechen gegen das Gesetz Meiner.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.235.1
+  kind: p
+  original: Verbrecher = der Feind oder Gegner gegen den Heiligen (das heilige als moralische Person). = Feind oder Gegner = der Verbrecher gegen das "Ich", den Leiblichen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.236.1
+  kind: p
+  original: Strafen = Sich wehren des Heiligen gegen das "Ich". = Mich Wehren = Strafe Meiner gegen "Ich".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.237.1
+  kind: p
+  original: Strafe = Genugtuung (Rache) des Menschen gegen "Ich". = Genugtuung (Rache) = Strafe Meiner gegen "Ich".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.238.1
+  kind: p
+  original: In der letzten Antithese kann die Genugtuung auch Selbstgenugtuung genannt werden, da es die Genugtuung Meiner im Gegensatz zur Genugtuung des Menschen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.239.1
+  kind: p
+  original: Hält man nun in den obigen antithetischen Gleichungen immer nur das erste Glied im Auge, so ergibt sich folgende Reihe einfacher Antithesen, wo in der These immer der heilige, allgemeine, fremde Namen, in der Antithese immer der profane, persönliche, angeeignete Namen steht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.240.1
+  kind: p
+  original: Verbrechen - Feindschaft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.241.1
+  kind: p
+  original: Verbrecher - Feind oder Gegner.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.242.1
+  kind: p
+  original: Strafen - Mich Wehren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.243.1
+  kind: p
+  original: Strafe - Genugtuung, Rache, Selbstgenugtuung
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: NT5A.244.1
+  kind: p
+  original: Wir werden sogleich ein geringes Wörtchen über diese Gleichungen und Antithesen zu sagen haben, die so einfach sind, daß selbst "ein geborner Dummerjan" (p. 434) sich diese "einzige" Methode des Denkens in fünf Minuten aneignen kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 323-324
+- id: NT5A.244.2
+  kind: p
+  original: Vorher noch einige andre Belegstellen als die schon dagewesenen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.245.1
+  kind: p
+  original: Note 1.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.246.1
+  kind: p
+  original: '"Gegen Mich kannst du nie ein Verbrecher sein, sondern nur ein Gegner ", p. 268 - und "Feind" in demselben Sinne p. 256.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.246.2
+  kind: p
+  original: '- Verbrechen als Feindschaft des Menschen - hierfür werden p. 268 die "Feinde des Vaterlandes" als Beispiel angeführt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.246.3
+  kind: p
+  original: '- "An die Stelle der Strafe soll " (moralisches Postulat) "die Genugtuung treten, die wiederum nicht darauf abzielen kann, dem Recht oder der Gerechtigkeit genungzutun, sondern Uns ein Genüge zu verschaffen." p. 318.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.247.1
+  kind: p
+  original: Note 2.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.248.1
+  kind: p
+  original: Indem Sankt Sancho gegen den Heiligenschein (die Klappermühle) der bestehenden Gewalt kämpft, lernt er nicht einmal diese Gewalt kennen und greift sie selbst noch viel weniger an; er stellt nur die moralische Forderung, daß man die Beziehung des Ich auf sie formell ändere. (Siehe Logik.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.249.1
+  kind: p
+  original: '"Ich muß Mir''s gefallen lassen" (aufgespreizte Beteuerung), "daß er" (sc. <silicet = nämlich> Mein Feind, der ein paar Millionen hinter sich stehen hat) "Mich als seinen Feind behandelt; allein niemals, daß er mit Mir als seiner Kreatur umspringt und daß er seine Vernunft oder Unvernunft zu Meiner Richtschnur macht." p. 256 (wo er dem P.P. Sancho eine sehr beschränkte Freiheit läßt, nämlich die Wahl, sich als seine Kreatur behandeln zu lassen oder die 3300 ihm von Merlin auf die posaderas <Sitzfleischhälften> gebundenen Prügel zu ertragen. Diese Freiheit läßt ihm jeder Kriminalkodex, der ihn freilich nicht erst fragt, in welcher Weise er dem P.P. Sancho seine Feindschaft zu erklären hat).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.249.2
+  kind: p
+  original: '- "Aber wenn Ihr dem Gegner auch als Macht imponiert " (ihm eine " imposante Macht" seid), "eine geheiligte Autorität seid Ihr darum doch nicht; er müßte denn ein Schächer sein.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.249.3
+  kind: p
+  original: Respekt und Achtung ist er Euch nicht schuldig, wenn er sich auch vor Euch und Eurer Gewalt in Acht nimmt." p. 258.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.250.1
+  kind: p
+  original: Sankt Sancho tritt hier selbst als "Schächer"' auf, indem er um den Unterschied von "Imponieren" und "Respektiert werden", "in Acht nehmen" und "Achtung haben", einen Unterschied von höchstens einem Sechzehntel, mit vielem Ernste schachert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.250.2
+  kind: p
+  original: Wenn Sankt Sancho sich vor Jemand "in Acht nimmt", so "lebt er in der Reflexion und hat er einen Gegenstand, auf den er reflektiert, den er respektiert und vor dem er Ehrfurcht und Furcht empfindet". p. 115.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.250.3
+  kind: p
+  original: '- In den obigen Gleichungen ist die Strafe, Rache, Genugtuung pp. bloß als von Mir ausgehend dargestellt; insofern Sankt Sancho der Gegenstand der Genugtuung ist, können die Antithesen umgedreht werden: Hiermit verwandelt sich die Selbstgenugtuung in das Einem-Andern-an-Mir-genug-getan-Werden oder Meinem-Genüge-Abbruch-getan-Werden.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '324'
+- id: NT5A.251.1
+  kind: p
+  original: Note 3.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.1
+  kind: p
+  original: Dieselben Ideologen, die sich einbilden konnten, daß das Recht, Gesetz, der Staat pp. aus einem allgemeinen Begriff, etwa in letzter Instanz dem Begriff des Menschen, hervorgegangen und um dieses Begriffes willen ausgeführt worden seien, dieselben Ideologen können sich natürlich auch einbilden, Verbrechen würden aus reinem Übermut gegen einen Begriff begangen, Verbrechen seien überhaupt weiter Nichts als Verspottung von Begriffen und würden nur bestraft, um den verletzten Begriffen Genüge zu leisten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.2
+  kind: p
+  original: Hierüber haben wir oben beim Recht und schon früher bei der Hierarchie bereits das Nötige gesagt, worauf wir hiermit zurückverweisen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.3
+  kind: p
+  original: '- In den obigen Antithesen wird den kanonisierten Bestimmungen Verbrechen, Strafe pp. der Name einer andern Bestimmung gegenübergestellt, die Sankt Sancho sich aus diesen ersten Bestimmungen nach seiner beliebten Manier herausnimmt und aneignet.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.4
+  kind: p
+  original: Diese neue Bestimmung, die, wie gesagt, als bloßer Namen hier auftritt, soll als profan die unmittelbar individuelle Beziehung enthalten und das tatsächliche Verhältnis ausdrücken. (Siehe Logik.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.5
+  kind: p
+  original: In der Rechtsgeschichte findet sich nun, daß in den frühesten und rohesten Epochen diese individuellen, tatsächlichen Verhältnisse in ihrer krassesten Gestalt ohne Weiteres das Recht konstituierten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.6
+  kind: p
+  original: Mit der Entwickelung der bürgerlichen Gesellschaft, also mit der Entwickelung der persönlichen Interessen zu Klasseninteressen veränderten sich die Rechtsverhältnisse und zivilisierten ihren Ausdruck.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.7
+  kind: p
+  original: Sie wurden nicht mehr als individuelle, sondern als allgemeine aufgefaßt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.8
+  kind: p
+  original: Gleichzeitig übertrug die Teilung der Arbeit die Wahrung der kollidierenden Interessen der einzelnen Individuen an Wenige, womit auch die barbarische Geltendmachung des Rechts verschwand.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.9
+  kind: p
+  original: Die ganze Kritik Sankt Sanchos über das Recht beschränkt sich in den obigen Antithesen darauf, den zivilisierten Ausdruck der Rechtsverhältnisse und die zivilisierte Teilung der Arbeit für eine Frucht der "fixen Idee", des Heiligen, zu erklären und dagegen den barbarischen Ausdruck und die barbarische Art, sie zu schlichten, sich zu vindizieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.10
+  kind: p
+  original: Es handelt sich für ihn nur um die Namen, die Sache selbst berührt er nicht, da er die wirklichen Verhältnisse nicht kennt, auf denen diese verschiedenen Formen des Rechts beruhen, und in dem juristischen Ausdruck der Klassenverhältnisse nur die idealisierten Namen jener barbarischen Verhältnisse erblickt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '325'
+- id: NT5A.252.11
+  kind: p
+  original: So finden wir in der Stirnerischen Willenserklärung das Befehden, in der Feindschaft, Sichwehren etc. den Abklatsch des Faustrechts und die Praxis des älteren Feudalwesens, in der Genugtuung, Rache pp. das jus talionis, die altgermanische Gewere, die compensatio, satisfactio, kurz die Hauptsachen aus den leges barbarorum und den consuetudines feudorum wieder - die Sancho nicht aus Bibliotheken, sondern aus den Erzählungen seines ehmaligen Herrn von Amadis von Gallien sich angeeignet und liebgewonnen hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 325-326
+- id: NT5A.252.12
+  kind: p
+  original: Sankt Sancho kommt also in letzter Instanz wieder nur zu einem ohnmächtigen Moralgebot, daß Jeder sich selbst Genugtuung verschaffen und Strafen vollziehen soll.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.252.13
+  kind: p
+  original: Er glaubt dem Don Quijote, er könne die aus der Teilung der Arbeit entstehenden sachlichen Mächte ohne weiteres durch ein bloßes Moralgebot in persönliche Mächte verwandeln.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.252.14
+  kind: p
+  original: Wie sehr die juristischen Verhältnisse mit der aus der Teilung der Arbeit hervorgegangenen Entwickelung dieser sachlichen Mächte zusammenhängen, kann man schon ersehn aus der historischen Entwickelung der Macht der Gerichte und aus dem Jammer der Feudalen über die Rechtsentwicklung. (Siehe z.B Monteil l. c. XIVe, XVe siècle.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.252.15
+  kind: p
+  original: Grade in der Epoche zwischen der Herrschaft der Aristokratie und der der Bourgeoisie, als die Interessen zweier Klassen kollidierten, als der Handelsverkehr unter den europäischen Nationen bedeutend zu werden begann und das internationale Verhältnis daher selbst einen bürgerlichen Charakter annahm, fing die Macht der Gerichte an, bedeutend zu werden, und unter der Bourgeoisherrschaft, wo diese ausgebildete Teilung der Arbeit unumgänglich nötig ist, erreicht sie ihre höchste Spitze.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.252.16
+  kind: p
+  original: Was sich die Knechte der Teilung der Arbeit, die Richter, und nun gar die professores juris <Professoren der Rechtswissenschaft> dabei einbilden, ist höchst gleichgültig.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.253.1
+  kind: heading
+  original: C) Das Verbrechen im gewöhnlichen und außergewöhnlichen Verstande
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.254.1
+  kind: p
+  original: Vorhin wurde das Verbrechen im gewöhnlichen Verstande dem Egoisten im außergewöhnlichen Verstande kreditiert, indem es verfälscht wurde; jetzt kommt diese Verfälschung an den Tag.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.254.2
+  kind: p
+  original: Der außergewöhnliche Egoist findet nun, daß er nur außergewöhnliche Verbrechen begeht, die gegen das gewöhnliche Verbrechen geltend gemacht werden müssen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.254.3
+  kind: p
+  original: 'Wir belasten also dem P.P. Egoisten die gewöhnlichen Verbrechen wieder, wie pr. contra <wörtlich: [Wie] vorher gegenüberliegend; hier: wie wir sie vorher auf der Habenseite verbuchten>.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.255.1
+  kind: p
+  original: Den Kampf der gewöhnlichen Verbrecher gegen das fremde Eigentum kann man auch so ausdrücken (obgleich das von jedem Konkurrenten gilt),
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.256.1
+  kind: p
+  original: daß sie - " fremdes Gut suchen" (p. 265), heiliges Gut suchen, das Heilige suchen, womit der gewöhnliche Verbrecher in einen "Gläubigen" (p. 265) verwandelt ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '326'
+- id: NT5A.257.1
+  kind: p
+  original: Dieser Vorwurf des Egoisten im außergewöhnlichen Verstande gegen den Verbrecher im gewöhnlichen Verstande ist indes nur scheinbar - er ist es ja selbst, der nach dem Heiligenschein der ganzen Welt trachtet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.257.2
+  kind: p
+  original: Was er dem Verbrecher eigentlich vorwirft, ist nicht, daß er "das Heilige", sondern daß er das "Gut" sucht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.1
+  kind: p
+  original: Nachdem Sankt Sancho sich eine "eigne Welt, einen Himmel", nämlich diesmal eine Welt der Fehden und fahrenden Ritter für seinen eignen Kopf in der modernen Welt erbaut, nachdem er zugleich seinen Unterschied als ritterlicher Verbrecher von den gemeinen Verbrechern dokumentiert hat, unternimmt er abermals einen Kreuzzug gegen die "Drachen und Straußen, Feldteufel", "Gespenster, Spuke und fixen Ideen".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.2
+  kind: p
+  original: Sein getreuer Knecht Szeliga reitet andächtig hinter ihm her.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.3
+  kind: p
+  original: Da sie aber ihres Weges ziehen, so begibt sich das erstaunliche Abenteuer von den Unglücklichen, so dahin geschleppt wurden, wohin sie nicht gehen wollten, wie geschrieben steht Cervantes am zweiundzwanzigsten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.4
+  kind: p
+  original: Derweil nämlich unser fahrender Ritter und sein Knecht Don Quijote fürbaß trabten, schlug Sancho die Augen auf und sah an die zwölf Männer ihnen entgegenkommen, geschlossen mit Handschellen und einer langen Kette und begleitet von einem Kommissär und vier Gensdarmen, so da angehörten der heiligen Hermandad [127], der Hermandad der Heiligen, dem Heiligen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.5
+  kind: p
+  original: Da sie aber nahe herzugekommen waren, bat Sankt Sancho ihre Wächter gar höflich, sie möchten ihm doch, wenn's gefällig, sagen, warum diese Leute so zusammengeschlossen geführt würden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.6
+  kind: p
+  original: '- Baugefangene Sr. Majestät, nach Spandau kommandiert, mehr braucht Ihr nicht zu wissen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.7
+  kind: p
+  original: '- Wie, rief Sankt Sancho, gezwungene Leute?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.8
+  kind: p
+  original: Ist's möglich, daß der König einem "eigenen Ich" Gewalt antun kann?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.9
+  kind: p
+  original: So berufe Ich Mich zu dem Berufe, dieser Gewalt zu steuern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.10
+  kind: p
+  original: '"Des Staats Betragen ist Gewalttätigkeit, und dies nennt er Recht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.11
+  kind: p
+  original: Die Gewalttätigkeit aber des Einzelnen nennt er Verbrechen."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.12
+  kind: p
+  original: Hierauf hub Sankt Sancho zuerst an, die Sträflinge zu vermahnen, und sagte, sie sollten sich nicht grämen, sie seien zwar "nicht frei", aber doch "eigen", und ihre "Knochen" würden vielleicht unter einigen Geißelhieben zu "ächzen" haben, auch werde man ihnen vielleicht ein "Bein ausreißen" - aber, sprach er, in dem Allen überwindet Ihr weit - denn "Euren Willen kann Niemand binden!"
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.13
+  kind: p
+  original: '"Und Ich weiß gewiß, daß es keine Hexerei auf der Welt gibt, so den Willen bewegen und zwingen könne, wie einige Einfaltspinsel sich einbilden; denn er ist Unsre freie Willkür, und es gibt kein Kraut noch Zauberspruch, der ihn bezwinge."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.258.14
+  kind: p
+  original: Ja, "Euren Willen kann Niemand binden, und Euer Widerwille bleibt frei!"
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '327'
+- id: NT5A.259.1
+  kind: p
+  original: 'Da sich aber die Baugefangenen bei diesem Sermon nicht beruhigen wollten, sondern nach der Reihe erzählten, wie ungerecht man sie verurteilt habe, sprach Sancho: "Lieben Brüder, aus Allem, so Ihr Mir erzählt habt, habe Ich ins Klare gebracht, daß, obgleich man Euch für Eure Verbrechen gestraft hat, Euch die Strafe, die Ihr leiden sollt, wenig Vergnügen macht, also daß ihr derselbigen widerwillig und gar ohne Lust entgegengehet.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 327-328
+- id: NT5A.259.2
+  kind: p
+  original: Und es kann sehr wohl sein, daß der Kleinmut des Einen auf der Prügelmaschine, die Armut des Andern, der Mangel an Gunst für den Dritten und endlich das parteiische Gericht des Richters die Ursache von Eurem Verderben sind und daß man Euch nicht das Recht zugute kommen ließ, das Euch gehörte, 'das Recht Eurer'.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.259.3
+  kind: p
+  original: Alles dies zwingt Mich, Euch zu zeigen, warum der Himmel Mich in die Welt gesetzt hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.259.4
+  kind: p
+  original: Da es aber die Klugheit des mit sich einigen Egoisten erfordert, Nichts durch Gewalt zu tun, was man durch Verständigung erlangen kann, so bitt' ich hiermit den Herrn Commissarius und die Herren Gensdarmen, Euch loszuschließen und Eures Weges wandern zu lassen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.259.5
+  kind: p
+  original: Überdies, meine Herren Gensdarmen, haben Euch alle diese Armen nichts zuleide getan.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.259.6
+  kind: p
+  original: Es geziemt mit sich einigen Egoisten nicht, Henker andrer Einzigen zu werden, die ihnen nichts getan haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.259.7
+  kind: p
+  original: Bei Euch scheint 'die Kategorie des Bestohlenen in den Vordergrund zu treten'.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.259.8
+  kind: p
+  original: Warum 'eifert' Ihr 'gegen das Verbrechen?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.259.9
+  kind: p
+  original: '''Wahrlich, wahrlich, ich sage Euch, Ihr seid für die Sittlichkeit begeistert, von der Idee der Sittlichkeit erfüllt'', ''was ihr feindlich ist, das verfolgt Ihr'' - Ihr ''bringt'' diese armen Baugefangenen ''durch Amtseid ins Loch'', Ihr seid das Heilige!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.259.10
+  kind: p
+  original: Also laßt diese Leute gutwillig los.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.259.11
+  kind: p
+  original: Wo nicht, so bekommt Ihrs mit Mir zu tun, der 'mit einem Hauche des lebendigen Ich Völker umbläst', 'die maßloseste Entweihung begeht' und 'sich selbst vor dem Monde nicht fürchtet'."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.260.1
+  kind: p
+  original: '"Na seht mir doch die schöne Flegelei!" rief der Kommissär.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.260.2
+  kind: p
+  original: '"Rück Er sich lieber das Bartbecken gerade auf dem Kopf und scher Er sich seines Weges!"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.261.1
+  kind: p
+  original: Sankt Sancho aber legte erbost über diese preußische Grobheit seinen Spieß ein und rannte so hastig auf ihn los, als die Apposition nur laufen wollte, so daß er ihn alsbald zu Boden warf.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.261.2
+  kind: p
+  original: Jetzt entspann sich ein allgemeiner Kampf, in welchem die Baugefangenen sich befreiten, Szeliga-Don Quijote von einem Gensdarmen in den Landwehr- oder Schafgraben geworfen wurde und Sankt Sancho die größten Heldentaten gegen das Heilige verrichtete.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.261.3
+  kind: p
+  original: Nach wenig Minuten waren die Gensdarmen zerstreut, Szeliga aus dem Graben gekrochen und das Heilige vorläufig beseitigt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.262.1
+  kind: p
+  original: Sankt Sancho versammelte nun die befreiten Baugefangenen um sich und hielt folgende Rede an sie (p. 265, 266 "des Buchs").
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '328'
+- id: NT5A.263.1
+  kind: p
+  original: '"Was ist der gewöhnliche Verbrecher" (der Verbrecher im gewöhnlichen Verstande) "anders als Einer, der das verhängnisvolle Versehen begangen hat" (verhängnisvoller Belletrist für Bürger und Landmann!), "nach dem zu streben, was des Volkes ist, statt nach dem Seinen zu suchen?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 328-329
+- id: NT5A.263.2
+  kind: p
+  original: Er hat das verächtliche " (allgemeines Murren der Baugefangenen über dies moralische Urteil) " fremde Gut gesucht, hat getan, was die Gläubigen tun, die nach dem trachten, was Gottes ist" (der Verbrecher als schöne Seele).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '329'
+- id: NT5A.263.3
+  kind: p
+  original: '"Was tut der Priester, der den Verbrecher vermahnt?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '329'
+- id: NT5A.263.4
+  kind: p
+  original: Er stellt ihm das große Unrecht vor, das vom Staat Geheiligte, das Eigentum desselben, wozu ja auch das Leben der Staatsangehörigen gerechnet werden muß, durch seine Tat entweiht zu haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '329'
+- id: NT5A.263.5
+  kind: p
+  original: 'Dafür könnte er ihm lieber vorhalten, daß er sich besudelt habe" (Kichern der Baugefangenen über diese egoistische Aneignung der banalen Pfaffenredensarten), "indem er das Fremde nicht verachtet, sondern des Raubes wert hielt" (Grunzen der Baugefangenen): "er könnte es, wenn er nicht ein Pfaffe" (ein Baugefangener: "Im gewöhnlichen Verstande!") "wäre."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '329'
+- id: NT5A.263.6
+  kind: p
+  original: Ich aber "rede mit dem Verbrecher als mit einem Egoisten, und er wird sich schämen " (schamloses, lautes Hurrah der Verbrecher, die sich nicht zur Scham berufen lassen wollen), "nicht daß er gegen Eure Gesetze und Güter sich verging, sondern daß er Eure Gesetze des Umgehens" (hier ist nur vom "Umgehen" "im gewöhnlichen Verstande" die Rede, sonst aber "umgehe Ich einen Felsen, bis Ich ihn sprengen kann", und "umgehe" z.B. selbst "die Zensur"), "Eure Güter des Verlangens wert hielt" (abermaliges Hurrah), "wird sich schämen -"
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '329'
+- id: NT5A.264.1
+  kind: p
+  original: 'Gines von Passamonte, der Erzdieb, der überhaupt nicht viel ertragen konnte, schrie: "Sollen wir denn nichts tun als uns der Scham ergeben, Ergebung zeigen, sobald der Pfaff im außergewöhnlichen Verstande uns ''vermahnt''?"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '329'
+- id: NT5A.265.1
+  kind: p
+  original: '"Wird sich schämen", fährt Sancho fort, "daß er Euch mitsamt den Eurigen nicht verachtete, daß er zu wenig Egoist war."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '329'
+- id: NT5A.265.2
+  kind: p
+  original: (Sancho legt hier einen fremden Maßstab an den Egoismus des Verbrechers. Daher entsteht ein allgemeines Gebrülle unter den Baugefangenen; etwas verwirrt lenkt Sancho ein, sich mit einer rhetorischen Bewegung gegen die abwesenden "guten Bürger" wendend:) "Aber Ihr könnt nicht egoistisch mit ihm reden, denn Ihr seid nicht so groß wie ein Verbrecher, Ihr - verbrecht Nichts."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '329'
+- id: NT5A.266.1
+  kind: p
+  original: 'Gines fällt wieder ein: "Welche Leichtgläubigkeit, guter Mann!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '329'
+- id: NT5A.266.2
+  kind: p
+  original: Unsre Zuchtmeister im Gefängnis verbrechen allerdings, machen Kassendefekte und Unterschleife und begehen Schändung [...] <Hier fehlen im Manuskript 12 Seiten>
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '329'
+- id: NT5A.N1.1.1
+  kind: note
+  original: '[Im Manuskript gestrichen:] Welche Vorstellung Saint Jacques le bonhomme überhaupt von einem Gericht hat, geht schon daraus hervor, daß er als Exempel das Oberzensurgericht anführt, was höchstens in der preußischen Vorstellung für ein Gericht gilt, ein Gericht, das bloß Verwaltungsmaßregeln zu beschließen, keine Strafe zu diktieren, keine Zivilprozesse zu schlichten hat.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N1.1.2
+  kind: note
+  original: Daß zwei ganz verschiedne Produktionszustände den Individuen zugrunde liegen, wo Gericht und Administration getrennt sind und wo sie patriarchalisch zusammenfallen, kümmert einen Heiligen nicht, der es immer mit den wirklichen Individuen zu tun hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N1.2.1
+  kind: note
+  original: Die obigen Gleichungen werden hier in "Beruf", Bestimmung", "Aufgabe", Moralgebote verwandelt, die Sankt Max seinem getreuen Knecht Szeliga, den er hier als preußischer Unteroffizier (sein eigner "Gendarm" spricht aus ihm) mit "Er" anredet, ins beklommene Gewissen zugedonnert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N1.2.2
+  kind: note
+  original: Halte Er sich das Recht zu essen unverkümmert usw. Das Recht zu essen hat man den Proletariern nie "verkümmert", trotzdem aber kommt es "von selbst", daß sie es sehr oft nicht "üben" können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N2.1.1
+  kind: note
+  original: '[Im Manuskript gestrichen:] Note 5. "Man bemüht sich, Gesetz von willkürlichem Befehl, von einer Ordonnanz zu unterscheiden...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N2.1.2
+  kind: note
+  original: Allein Gesetz über menschliches Handeln... ist eine Willenserklärung, mithin Befehl (Ordonnanz)" p. 256...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N2.1.3
+  kind: note
+  original: '"Es mag Jemand wohl erklären, was er sich gefallen lassen wolle, mithin durch ein Gesetz das Gegenteil sich verbitten, widrigenfalls er den Übertreter als seinen Feind behandeln werde...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N2.1.4
+  kind: note
+  original: Ich muß Mir's gefallen lassen, daß er Mich als seinen Feind behandelt, allein niemals, daß er mit Mir als seiner Kreatur umspringt, und daß er seine Vernunft oder auch Unvernunft zu Meiner Richtschnur macht." p. 256.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N2.1.5
+  kind: note
+  original: '- Hier hat also unser Sancho gegen das Gesetz Nichts einzuwenden, sobald es den Übertreter als einen Feind behandelt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N2.1.6
+  kind: note
+  original: Die Feindschaft wider das Gesetz geht nur gegen die Form, nicht gegen den Inhalt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N2.1.7
+  kind: note
+  original: Jedes Repressivgesetz, das ihm mit Galgen und Rad droht, ist ihm ganz recht, insofern er es als eine Kriegserklärung fassen kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N2.1.8
+  kind: note
+  original: Sankt Sancho beruhigt sich, wenn man ihm nur die Ehre antut, ihn als Feind, nicht als Kreatur anzusehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N2.1.9
+  kind: note
+  original: In der Wirklichkeit ist er höchstens der Feind " des Menschen", aber die Kreatur der Berliner Verhältnisse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N3.1.1
+  kind: note
+  original: '[Im Manuskript gestrichen:] Ob der Eigenwille eines Individuums sich morgen unter dem Gesetz gedrückt fühlt, das er gestern machen half, hängt davon ab, ob neue Umstände eingetreten, ob seine Interessen so weit verändert sind, daß das gestern gemachte Gesetz nicht mehr diesen veränderten Interessen entspricht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N3.1.2
+  kind: note
+  original: Wirken diese neuen Umstände auf die Interessen der ganzen herrschenden Klasse, so wird diese Klasse das Gesetz ändern, wirken sie nur auf Einzelne, so bleibt ihr Widerwille von der Majorität natürlich unbeachtet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N3.2.1
+  kind: note
+  original: Mit dieser Freiheit des Widerwillens ausgerüstet, kann Sancho nun die Beschränkung des Willens des Einen durch den Willen der Andern, die eben die Grundlage obigen idealistischen Auffassung des Staats bildet, wiederherstellen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N3.3.1
+  kind: note
+  original: '"Es müßte ja Alles drunter und drüber gehen, wenn Jeder tun könnte, was er wollte.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N3.3.2
+  kind: note
+  original: '- Wer sagt denn, daß Jeder Alles tun kann?"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N3.3.3
+  kind: note
+  original: (" was er will", ist hier weislich ausgelassen). -
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N3.4.1
+  kind: note
+  original: '"Werde Jeder von Euch ein allmächtiges Ich!" ging die Rede des mit sich einigen Egoisten.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N3.5.1
+  kind: note
+  original: '"Wozu", heißt es weiter, "wozu bist Du denn da, der Du nicht Alles Dir gefallen zu lassen brauchst?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: NT5A.N3.5.2
+  kind: note
+  original: Wehre Dich, so wird Dir keiner was tun." p. 259 - und um den letzten Schein des Unterschieds wegfallen zu lassen, läßt er hinter dem einen "Dir" noch "einige Millionen" "zum Schutz stehen", so daß seine ganze Verhandlung sehr wohl als "unbeholfener" Anfang einer Staatstheorie im Rousseauschen Sinne dieser dienen kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

@@ -1,0 +1,269 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: LK
+title_original: Das Leipziger Konzil
+title_en: The Leipzig Council
+author: Karl Marx, Friedrich Engels
+date: 1845-1846
+original_language: de
+anchor_language: de
+source_original: MEW 3, S. 78-80 (Dietz, Berlin 1969) via mlwerke.de; written 1845-1846, first printed in full 1932; the authors' footnotes from mlwerke's me03_anm.htm
+source_en: 'None: no public-domain English translation'
+verses:
+- id: LK.0.1
+  kind: heading
+  original: Das Leipziger Konzil
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.1.1
+  kind: p
+  original: Im dritten Bande der "Wigand'schen Vierteljahrsschrift" für 1845 ereignet sich die von Kaulbach prophetisch gemalte Hunnenschlacht wirklich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.1.2
+  kind: p
+  original: Die Geister der Erschlagenen, deren Grimm auch im Tode sich nicht beruhigt, erheben ein Getöse und Heulen in der Luft, wie von Kriegen und Kriegsgeschrei, von Schwertern, Schilden und eisernen Wagen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.1.3
+  kind: p
+  original: Aber es handelt sich nicht um irdische Dinge.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.1.4
+  kind: p
+  original: Der heilige Krieg wird geführt nicht um Schutzzölle, Konstitution, Kartoffelkrankheit, Bankwesen und Eisenbahnen, sondern um die heiligsten Interessen des Geistes, um die "Substanz", das "Selbstbewußtsein", die "Kritik", den "Einzigen" und den "wahren Menschen".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.1.5
+  kind: p
+  original: Wir befinden uns auf einem Konzil von Kirchenvätern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.1.6
+  kind: p
+  original: Da sie die letzten Exemplare ihrer Art sind und hier hoffentlich zum letzten Mal in Sachen des Allerhöchsten, alias Absoluten, plädiert wird, so lohnt es sich, über die Verhandlungen procès-verbal <Protokoll> aufzunehmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.2.1
+  kind: p
+  original: Da ist zuerst der heilige Bruno, der an seinem Stock leicht zu erkennen ist, ("werde Sinnlichkeit, werde ein Stock", Wigand, p. 130).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.2.2
+  kind: p
+  original: Er trägt um sein Haupt die Glorie der "reinen Kritik" und hüllt sich weltverachtend in sein "Selbstbewußtsein" ein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.2.3
+  kind: p
+  original: Er hat "die Religion in ihrer Totalität und den Staat in seinen Erscheinungen gebrochen " (p. 138), indem er den Begriff der "Substanz" im Namen des allerhöchsten Selbstbewußtseins genotzüchtigt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.2.4
+  kind: p
+  original: Die Trümmer der Kirche und die "Bruch"-stücke des Staats liegen zu seinen Füßen, während sein Blick "die Masse" in den Staub "niedermetzelt".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.2.5
+  kind: p
+  original: Er ist wie Gott, er hat weder Vater noch Mutter, er ist "sein eignes Geschöpf, sein eignes Machwerk" (p. 136).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.2.6
+  kind: p
+  original: 'Mit Einem Wort: Er ist der "Napoleon" des Geistes - im Geist "Napoleon".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '78'
+- id: LK.2.7
+  kind: p
+  original: Seine geistlichen Übungen bestehen darin, daß er stets "sich vernimmt und in diesem Selbstvernehmen den Antrieb zur Selbstbestimmung findet" (p. 136); infolge welches anstrengenden Selbstprotokollierens er sichtlich abmagert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 78-79
+- id: LK.2.8
+  kind: p
+  original: Außer sich selbst "vernimmt" er, wie wir sehen werden, von Zeit zu Zeit auch das "Westphälische Dampfboot".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.3.1
+  kind: p
+  original: Ihm gegenüber steht der heilige Max, dessen Verdienste um das Reich Gottes darin bestehen, daß er seine Identität nunmehr auf zirka 600 Druckseiten konstatiert und bewiesen zu haben behauptet, wie er nicht Dieser und Jener, nicht "Hans oder Kunz", sondern eben der heilige Max und kein andrer sei.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.3.2
+  kind: p
+  original: Von seiner Glorie und seinen sonstigen Abzeichen läßt sich nur sagen, daß sie "sein Gegenstand und darum sein Eigentum", daß sie "einzig" und "unvergleichlich" sind und daß "Namen sie nicht nennen" (p. 148).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.3.3
+  kind: p
+  original: Er ist zu gleicher Zeit die "Phrase" und der "Phraseneigner", zu gleicher Zeit Sancho Pansa und Don Quijote.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.3.4
+  kind: p
+  original: Seine asketischen Übungen bestehen in sauren Gedanken über die Gedankenlosigkeit, in bogenlangen Bedenken über die Unbedenklichkeit, in der Heiligsprechung der Heillosigkeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.3.5
+  kind: p
+  original: 'Im übrigen brauchen wir nicht viel von ihm zu rühmen, da er die Manier hat, von allen ihm zugeschriebenen Eigenschaften, und wären ihrer mehr als der Namen Gottes bei den Muhammedanern, zu sagen: Ich bin das Alles und noch etwas mehr, Ich bin das Alles von diesem Nichts und das Nichts von diesem Allen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.3.6
+  kind: p
+  original: Er unterscheidet sich dadurch vorteilhaft von seinem düstern Nebenbuhler, daß er einen gewissen feierlichen "Leichtsinn" besitzt und von Zeit zu Zeit seine ernsten Meditationen durch ein "kritisches Juchhe" unterbricht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.4.1
+  kind: p
+  original: Vor diese beiden Großmeister der heiligen Inquisition wird der Häretiker Feuerbach zitiert, um sich wegen einer schweren Anklage des Gnostizismus zu verantworten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.4.2
+  kind: p
+  original: Der Ketzer Feuerbach, "donnert" der heilige Bruno, ist im Besitz der Hyle, der Substanz, und verweigert sie herauszugeben, auf daß sich mein unendliches Selbstbewußtsein nicht darin spiegle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.4.3
+  kind: p
+  original: Das Selbstbewußtsein muß solange wie ein Gespenst umgehen, bis es alle Dinge, die von ihm und zu ihm sind, in sich zurückgenommen hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.4.4
+  kind: p
+  original: Nun hat es bereits die ganze Welt verschluckt, außer dieser Hyle, der Substanz, die der Gnostiker Feuerbach unter Schloß und Riegel hält und nicht herausgeben will.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.5.1
+  kind: p
+  original: Der heilige Max klagt den Gnostiker an, das durch seinen Mund geoffenbarte Dogma zu bezweifeln, daß "jede Gans, jeder Hund, jedes Pferd" der "vollkommene, ja wenn man einen Superlativ gerne hört, der vollkommenste Mensch" sei.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.5.2
+  kind: p
+  original: '(Wigand, p. 187): "Dem pp. fehlt auch nicht ein Titelchen von dem, was den Menschen zum Menschen macht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.5.3
+  kind: p
+  original: Freilich ist das auch derselbe Fall mit jeder Gans, jedem Hunde, jedem Pferde.")
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '79'
+- id: LK.6.1
+  kind: p
+  original: Außer der Verhandlung dieser wichtigen Anklagen wird noch ein Prozeß der beiden Heiligen gegen Moses Heß und des heiligen Bruno gegen die Verfasser der "Heiligen Familie" entschieden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 79-80
+- id: LK.6.2
+  kind: p
+  original: Da diese Inkulpaten sich indes unter den "Dingen dieser Welt" herumtreiben und deshalb nicht vor der Santa Casa erscheinen, werden sie in Kontumaz verurteilt zu ewiger Verbannung aus dem Reiche des Geistes für die Dauer ihres natürlichen Lebens.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '80'
+- id: LK.7.1
+  kind: p
+  original: Schließlich verführen die beiden Großmeister wieder absonderliche Intrigen unter- und gegeneinander.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - LK.N1
+  mew_page: '80'
+- id: LK.N1.1.1
+  kind: note
+  original: '[Im Manuskript gestrichen:] Im Hintergrunde erscheint Dottore Graziano alias Arnold Ruge, unter dem Vorwande eines ungemein pfiffigen und politischen Kopfes (Wigand, p. 192).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

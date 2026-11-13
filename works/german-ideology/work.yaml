@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: german-ideology
+prefix: GI                        # citation prefix: GI I.53.1
+title: The German Ideology
+title_original: Die deutsche Ideologie
+authors: [Karl Marx, Friedrich Engels]
+year: 1846
+original_language: de
+base_text: "The manuscript of 1845-1846 as printed in MEW 3 (Dietz, Berlin 1969), with the authors' marginal notes and struck passages as footnotes"
+order: 200
+columns:
+  original: German (MEW 3, from the manuscript)
+  en: ""                          # no public-domain English translation
+  modern: Modern draft (translated from the German)
+status: ready
+rights: Original public domain. No historical English column. See SOURCES.md.

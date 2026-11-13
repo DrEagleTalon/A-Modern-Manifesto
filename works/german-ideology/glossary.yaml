@@ -1,0 +1,146 @@
+# Glossary of recurring and contested terms in The German Ideology (GI).
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+# There is no historical English column, so `english_usual` records the rendering most readers will have met in
+# the later translations; it is a reference point, not a source.
+# Terms shared with other works (Bourgeoisie, Proletariat, Klasse ...) are in
+# works/communist-manifesto/glossary.yaml until a shared library glossary is agreed.
+
+- term: Verkehr
+  de: Verkehr; Verkehrsform
+  english_usual: intercourse; form of intercourse
+  literal: traffic, dealings, commerce, contact between people
+  options: [intercourse, form of intercourse, relations of exchange, social relations]
+  interim: form of intercourse for Verkehrsform; Verkehr by context, with a note at first use
+  status: open
+  verses: [I.15.1, I.19.5, I.26.1, I.37.2, I.42.1, I.46.1, I.106.2, I.114.1, I.115.8, I.116.1]
+  note: The work's key term for what Marx later calls relations of production. "Intercourse" now reads as sexual to most readers; "relations" loses the sense of trade and travel. Keep one rendering for Verkehrsform across all of I so the argument in I.106 to I.116 (productive forces against the form of intercourse) stays visible.
+
+- term: Produktivkräfte
+  de: Produktivkräfte; Produktionskräfte
+  english_usual: productive forces
+  literal: productive powers
+  options: [productive forces, forces of production]
+  interim: productive forces
+  status: interim
+  verses: [I.15.1, I.21.5, I.26.4, I.34.2, I.43.1, I.46.3, I.51.2]
+  note: MEW has both forms. Translate both the same way.
+
+- term: Teilung der Arbeit
+  de: Teilung der Arbeit; Arbeitsteilung
+  english_usual: division of labour
+  literal: division of labour
+  options: [division of labor, division of labour]
+  interim: division of labor (US spelling, as in the library's modern drafts)
+  status: interim
+  verses: [I.15.1, I.16.1, I.36.5, I.36.6, I.39.3]
+  note: I.36.6 says division of labour becomes real only when material and mental labour divide; I.39.3 is the hunter, fisher, herdsman and critic. Keep the phrase fixed so the reader can follow it through I.
+
+- term: Bewußtsein und Sein
+  de: das Bewußtsein; das bewußte Sein
+  english_usual: consciousness; conscious being
+  literal: consciousness; the conscious being (also "being conscious")
+  options: [consciousness and being, consciousness and existence]
+  interim: consciousness; "conscious existence" for das bewußte Sein, with the German in a note
+  status: open
+  verses: [I.26.5, I.27.6, NT6.66.4]
+  note: I.26.5 plays on "Bewußtsein" as "bewußte Sein". English cannot keep the pun; say so in a note rather than invent one.
+
+- term: Selbstbetätigung
+  de: Selbstbetätigung
+  english_usual: self-activity
+  literal: self-activation, acting on one's own account
+  options: [self-activity, self-directed activity, free activity, self-realisation]
+  interim: self-activity
+  status: open
+  verses: [I.108.1, I.108.2, I.109.1, I.109.6, I.111.1, I.116.1]
+  note: Opposed to "Arbeit" in I.108 to I.111, where labour is the negative form of self-activity. A modern draft that says "work" for both loses the argument.
+
+- term: bürgerliche Gesellschaft
+  de: bürgerliche Gesellschaft
+  english_usual: civil society
+  literal: civil society; bourgeois society
+  options: [civil society, bourgeois society]
+  interim: civil society, with a note where the sense is the society of the bourgeoisie
+  status: open
+  verses: [I.42.1, I.42.2, I.43.1, I.43.3, I.43.4, I.96.1, NT1.6.1]
+  note: I.43 defines the term as the whole material intercourse of individuals at a given stage, says the word came up in the eighteenth century (I.43.3) and that civil society as such develops only with the bourgeoisie (I.43.4). Both English renderings are defensible; decide per passage and record it in `notes`.
+
+- term: aufheben
+  de: aufheben; Aufhebung
+  english_usual: abolish; supersede
+  literal: lift up, cancel, keep, all at once
+  options: [abolish, overcome, supersede, do away with]
+  interim: abolish, except where the Hegelian sense of keeping while overcoming is meant
+  status: open
+  verses: [I.39.5, I.40.3, I.41.2, I.45.2, I.113.1, I.121.1]
+  note: I.41.2, "die wirkliche Bewegung, welche den jetzigen Zustand aufhebt", is among the most quoted lines in the work. "Abolishes" is the usual choice; give the alternatives in a note.
+
+- term: Gemeinschaft
+  de: Gemeinschaft; scheinbare Gemeinschaft
+  english_usual: community; illusory community
+  literal: community, fellowship
+  options: [community, collective life]
+  interim: community
+  status: interim
+  verses: [I.39.4, I.121.5, I.121.6]
+  note: The contrast between the illusory community of the state and the real community of free individuals (I.121) matters to readers from every tradition in this library. Keep the adjectives exact.
+
+- term: Ideologie
+  de: Ideologie; Ideologen
+  english_usual: ideology; ideologists
+  literal: ideology
+  options: [ideologists, ideologues]
+  interim: ideology; "ideologists" for Ideologen
+  status: interim
+  verses: [0.0.1, I.4.1, I.26.6, I.27.4, I.31.7, I.66.1]
+  note: Here the word means thought taken for independent of the conditions that produce it, not "a set of political beliefs". Do not modernise it into the second sense.
+
+- term: der Einzige
+  de: der Einzige; Der Einzige und sein Eigentum; Eigenheit; Eigner
+  english_usual: the Unique (or the Ego); ownness and owner
+  literal: the only one
+  options: [the Unique, the Unique One, the One and Only, the Ego]
+  interim: the Unique; "ownness" for Eigenheit; "owner" for Eigner
+  status: open
+  verses: [III.4.1, III.11.1, NT1.3.1, NT1.8.1, AT6.178.1]
+  note: Stirner's own terms, which Marx and Engels quote and twist. Use the renderings of Stirner's book that readers of anarchist literature will know, and keep them stable so the parody stays legible.
+
+- term: Empörung
+  de: Empörung; empören
+  english_usual: insurrection; rebellion
+  literal: uprising, indignation
+  options: [insurrection, rebellion, revolt, uprising]
+  interim: insurrection
+  status: open
+  verses: [AT6.129.2, NT3.105.1, NT5B.147.1, NT5B.163.1]
+  note: Stirner sets Empörung (the individual's rising) against Revolution (the overturning of conditions); NT5B.163 lists the pairs as equations. The two words must stay distinct in English.
+
+- term: Verein
+  de: Verein; Verein von Egoisten
+  english_usual: union; union of egoists
+  literal: association, club, union
+  options: [union, association]
+  interim: union
+  status: interim
+  verses: [AT6.56.3, NT3.75.7, NT5B.41.1, NT5B.236.1]
+  note: Stirner's word for a voluntary association of egoists, and the target of section NT5B. Not "club" and not "society" (Gesellschaft is the thing it is set against).
+
+- term: Sankt Max, Sankt Sancho, Jacques le bonhomme
+  de: Sankt Max; Sankt Sancho; Jacques le bonhomme; Sankt Bruno; Szeliga
+  english_usual: Saint Max; Saint Sancho
+  literal: all four first names mean Stirner; Sancho is Don Quixote's squire, Jacques le bonhomme the French nickname for a peasant
+  options: [keep the nicknames, add the real name in a note]
+  interim: keep the nicknames as they stand; a note at first use says who is meant
+  status: decided
+  verses: [III.2.1, AT2.47.1, LK.3.3, AT4.55.1]
+  note: The mockery is part of the argument. Do not replace the nicknames with "Stirner".
+
+- term: der wahre Sozialismus
+  de: der wahre Sozialismus; die wahren Sozialisten
+  english_usual: true socialism; the true socialists
+  literal: true socialism
+  options: [true socialism, '"true" socialism']
+  interim: true socialism, in quotation marks where the authors set them
+  status: interim
+  verses: [WS.0.2, WS.1.7, WS.2.1, AT6.59.1]
+  note: The name the German writers gave themselves, used by Marx and Engels with scorn. The Communist Manifesto attacks the same current (CM III).

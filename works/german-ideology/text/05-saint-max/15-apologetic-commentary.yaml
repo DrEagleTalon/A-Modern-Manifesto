@@ -1,0 +1,725 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: AK
+title_original: 2. Apologetischer Kommentar
+title_en: 2. Apologetic Commentary
+author: Karl Marx, Friedrich Engels
+date: 1845-1846
+original_language: de
+anchor_language: de
+source_original: MEW 3, S. 430-436 (Dietz, Berlin 1969) via mlwerke.de; written 1845-1846, first printed in full 1932; the authors' footnotes from mlwerke's me03_anm.htm
+source_en: 'None: no public-domain English translation'
+verses:
+- id: AK.0.1
+  kind: heading
+  original: 2. Apologetischer Kommentar
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.1.1
+  kind: p
+  original: Obgleich Sancho vorzeiten und im Stande seiner Erniedrigung, Cervantes Cap. 26 und 29, allerlei "Bedenken" trug, eine Kirchenpfründe zu genießen, hat er sich doch in Erwägung der veränderten Umstände und seiner früheren vorbereitenden Stellung als Famulus einer andächtigen Bruderschaft (Cervantes am einundzwanzigsten) endlich entschlossen, sich dies Bedenken "aus dem Kopf zu schlagen".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.1.2
+  kind: p
+  original: Er ist Erzbischof der Insel Barataria und Kardinal geworden und sitzt als solcher mit feierlicher Miene und erzpriesterlichem Anstande unter den Ersten unsres Konzils.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.1.3
+  kind: p
+  original: Zu diesem Konzil kehren wir jetzt nach der langen Episode "des Buchs" zurück.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.2.1
+  kind: p
+  original: Wir finden "Bruder Sancho" in seiner neuen Lebensstellung freilich sehr verändert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.2.2
+  kind: p
+  original: Er stellt die ecclesia triumphans <triumphierende Kirche> dar im Gegensatz zur ecclesia militans <streitbaren Kirche>, in der er sich früher befand.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.2.3
+  kind: p
+  original: An die Stelle der kriegerischen Fanfaren "des Buchs" ist ein feierlicher Ernst, an die Stelle von "Ich" ist "Stirner" getreten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.2.4
+  kind: p
+  original: Dies zeigt, wie wahr das französische Sprüchwort ist, qu'il n'y a qu'un pas du sublime au ridicule <daß vom Erhabenen zum Lächerlichen nur ein Schritt ist>.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.2.5
+  kind: p
+  original: Sancho nennt sich nur noch "Stirner", seitdem er Kirchenvater geworden ist und Hirtenbriefe erläßt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.2.6
+  kind: p
+  original: Er hat diese "einzige" Manier des Selbstgenusses von Feuerbach gelernt, aber leider steht sie ihm nicht besser an wie seinem Grauen das Lautenschlagen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.2.7
+  kind: p
+  original: Wenn er von sich in der dritten Person spricht, so sieht Jeder, daß Sancho der "Schöpfer" nach Art der preußischen Unteroffiziere sein "Geschöpf" Stirner mit "Er" anredet und keineswegs mit Cäsar zu verwechseln ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.2.8
+  kind: p
+  original: Der Eindruck wird noch komischer dadurch, daß Sancho, bloß um Feuerbach Konkurrenz zu machen, diese Inkonsequenz begeht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.2.9
+  kind: p
+  original: Sanchos "Selbstgenuß" seines Auftretens als großer Mann wird hier malgré lui <gegen seinen Willen> zum Genuß für Andere.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '430'
+- id: AK.3.1
+  kind: p
+  original: Das "Besondere", was Sancho in seinem Kommentar tut, soweit wir ihn nicht schon in der Episode "verbraucht" haben, besteht darin, daß er eine neue Reihe von Variationen über die bekannten Themata zum besten gibt, die im "Buche" bereits so weitläuftig abgeleiert wurden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '431'
+- id: AK.3.2
+  kind: p
+  original: Sanchos Musik, die wie die der indischen Wischnupriester nur Eine Note kennt, wird hier einige Tonarten höher gesetzt, Ihre opiumartige Wirkung bleibt dabei natürlich dieselbe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '431'
+- id: AK.3.3
+  kind: p
+  original: So z.B. wird der Gegensatz von "egoistisch" und "heilig" hier unter den Wirtshausschildern von "interessant" und "uninteressant", dann "interessant" und "absolut interessant" wieder durchgeknetet, eine Neuerung, die übrigens nur für Liebhaber des ungesäuerten Brotes, vulgo <in der Umgangssprache> Matzekuchens, interessant sein kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '431'
+- id: AK.3.4
+  kind: p
+  original: Die belletristische Verdrehung des Interessierten in das Interessante ist natürlich einem "jebildeten" Berliner Kleinbürger nicht zu verübeln.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '431'
+- id: AK.3.5
+  kind: p
+  original: '- Sämtliche Illusionen, die nach Sanchos Lieblingsmarotte von den "Schulmeistern "geschaffen wurden, erscheinen hier "als Schwierigkeiten - Bedenken ", die "nur der Geist geschaffen" und welche "die armen Seelen, die sich jene Bedenken haben aufschwatzen lassen", durch "Leichtsinn" (das berüchtigte Sich-aus-dem-Kopf-Schlagen) "überwinden müssen" (p. 162).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '431'
+- id: AK.3.6
+  kind: p
+  original: 'Folgt dann eine "Abhandlung", ob man sich die "Bedenken" durch "Denken" oder "Gedankenlosigkeit" aus dem Kopf schlagen soll, und ein kritisch-moralisches Adagio, in dem er in Mollakkorden jammert: "Das Denken darf nicht etwa durch Jauchzen unterdrückt werden." (p. 166.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '431'
+- id: AK.4.1
+  kind: p
+  original: 'Zur Beruhigung Europas, namentlich des bedrängten Old merry and young sorry England <Alten fröhlichen und jungen traurigen Englands>, erläßt Sancho, sobald er sich in seiner bischöflichen chaise percée <Nachtstuhl> etwas eingesessen hat, von dieser aus folgenden gnädigen Hirtenbrief:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '431'
+- id: AK.5.1
+  kind: p
+  original: '"Dem Stirner liegt die bürgerliche Gesellschaft ganz und gar nicht am Herzen, und er gedenkt sie keineswegs so auszudehnen, daß sie Staat und Familie verschlinge " (p. 189)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '431'
+- id: AK.6.1
+  kind: p
+  original: '- wonach Herr Cobden und Herr Dunoyer zu achten.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '431'
+- id: AK.7.1
+  kind: p
+  original: Als Erzbischof nimmt Sancho zugleich die geistliche Polizei in seine Hände und erteilt Heß p. 193 einen Verweis wegen "polizeiwidriger" Verwechslungen, die um so unverzeihlicher sind, je größere Mühe sich unser Kirchenvater fortwährend gibt, die Identität festzustellen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '431'
+- id: AK.7.2
+  kind: p
+  original: 'Um demselben Heß zu beweisen, daß "Stirner" auch den "Heldenmut der Lüge" besitzt, diese orthodoxe Eigenschaft des mit sich einigen Egoisten, singt er p. 188: "Aber Stirner spricht gar nicht davon, daß, wie Heß ihn reden läßt, der ganze Fehler der bisherigen Egoisten nur darin bestehe, daß sie kein Bewußtsein von ihrem Egoismus hätten."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 431-432
+- id: AK.7.3
+  kind: p
+  original: Vgl. die "Phänomenologie" und das ganze "Buch".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.7.4
+  kind: p
+  original: Die andre Eigenschaft des mit sich einigen Egoisten, die Leichtgläubigkeit, beweist er p. 182, wo er dem Feuerbach "nicht bestreitet", daß " das Individuum Kommunist sei".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.7.5
+  kind: p
+  original: Eine weitere Ausübung seiner Polizeigewalt besteht darin, daß er p. 154 seinen sämtlichen Rezensenten die Rüge appliziert, daß sie nicht "auf den Egoismus, wie er von Stirner aufgefaßt wird, näher" eingegangen seien.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.7.6
+  kind: p
+  original: Sie begingen allerdings Alle den Fehler, zu glauben, es handle sich um den wirklichen Egoismus, während es sich nur um "Stirners" Auffassung desselben handelte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.8.1
+  kind: p
+  original: Der apologetische Kommentar beweist auch noch dadurch Sanchos Befähigung zum Kirchenvater, daß er mit einer Heuchelei beginnt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.9.1
+  kind: p
+  original: '"Wenn auch vielleicht nicht den genannten Rezensenten, so mag doch manchem andern Leser des Buchs eine kurze Erwiderung von Nutzen sein". p. 47.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.10.1
+  kind: p
+  original: Sancho spielt hier den Devouierten und behauptet, seine kostbare Zeit zum "Nutzen" des Publikums aufzuopfern, obwohl er uns überall versichert, er habe stets nur seinen eignen Nutzen im Auge, obwohl er hier nur sein kirchenväterliches Fell zu salvieren strebt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.11.1
+  kind: p
+  original: Damit wäre das "Besondre" des Kommentars erledigt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.11.2
+  kind: p
+  original: Das "Einzige", das sich indes auch schon "im Buche" p. 491 findet, haben wir weniger zum "Nutzen" "mancher andren Leser" als zum eignen Nutzen "Stirners" bis hieher aufbewahrt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.11.3
+  kind: p
+  original: Eine Hand wäscht die andre, worauf unbestreitbar folgt, daß "das Individuum Kommunist ist".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.12.1
+  kind: p
+  original: Für die Philosophen ist es eine der schwierigsten Aufgaben, aus der Welt des Gedankens in die wirkliche Welt herabzusteigen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.12.2
+  kind: p
+  original: Die unmittelbare Wirklichkeit des Gedankens ist die Sprache.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.12.3
+  kind: p
+  original: Wie die Philosophen das Denken verselbständigt haben, so mußten sie die Sprache zu einem eignen Reich verselbständigen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.12.4
+  kind: p
+  original: Dies ist das Geheimnis der philosophischen Sprache, worin die Gedanken als Worte einen eignen Inhalt haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.12.5
+  kind: p
+  original: Das Problem, aus der Welt der Gedanken in die wirkliche Welt herabzusteigen, verwandelt sich in das Problem, aus der Sprache ins Leben herabzusteigen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.13.1
+  kind: p
+  original: Wir haben gezeigt, daß die Verselbständigung der Gedanken und Ideen eine Folge der Verselbständigung der persönlichen Verhältnisse und Beziehungen der Individuen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.13.2
+  kind: p
+  original: Wir haben gezeigt, daß die ausschließliche systematische Beschäftigung mit diesen Gedanken von seiten der Ideologen und Philosophen und damit die Systematisierung dieser Gedanken eine Folge der Teilung der Arbeit ist, und namentlich die deutsche Philosophie eine Folge der deutschen kleinbürgerlichen Verhältnisse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '432'
+- id: AK.13.3
+  kind: p
+  original: Die Philosophen hätten ihre Sprache nur in die gewöhnliche Sprache, aus der sie abstrahiert ist, aufzulösen, um sie als die verdrehte Sprache der wirklichen Welt zu erkennen und einzusehen, daß weder die Gedanken noch die Sprache für sich ein eignes Reich bilden; daß sie nur Äußerungen des wirklichen Lebens sind
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 432-433
+- id: AK.14.1
+  kind: p
+  original: Sancho, der den Philosophen durch Dick und Dünn folgt, muß notwendig nach dem Stein der Weisen, der Quadratur des Zirkels und dem Lebenselixier suchen, nach einem "Wort", welches als Wort die Wunderkraft besitzt, aus dem Reich der Sprache und des Denkens ins wirkliche Leben hinauszuführen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.14.2
+  kind: p
+  original: Sancho ist so angesteckt von seinem langjährigen Umgang mit Don Quijote, daß er nicht merkt, daß diese seine "Aufgabe", dieser sein "Beruf", selbst nichts weiter als eine Folge des Glaubens an seine dickleibigen philosophischen Ritterbücher ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.15.1
+  kind: p
+  original: Sancho beginnt damit, die Herrschaft des Heiligen und der Ideen in der Welt abermals, und zwar in der neuen Form der Herrschaft der Sprache oder der Phrase, uns vorzuführen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.15.2
+  kind: p
+  original: Die Sprache wird natürlich zur Phrase, sobald sie verselbständigt wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.16.1
+  kind: p
+  original: p. 151 nennt Sancho die jetzige Welt "eine Phrasenwelt, eine Welt, in deren Anfang das Wort war".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.16.2
+  kind: p
+  original: 'Er beschreibt näher die Motive seiner Jagd auf das Zauberwort:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.17.1
+  kind: p
+  original: '"Es war die Spekulation darauf gerichtet, ein Prädikat zu finden, welches so allgemein wäre, daß es Jeden in sich begriffe...'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.17.2
+  kind: p
+  original: Soll das Prädikat einen Jeden in sich begreifen, so muß ein Jeder darin als Subjekt erscheinen, d.h. nicht bloß als das, was er ist, sondern als der, der er ist." p. 152.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.18.1
+  kind: p
+  original: Weil die Spekulation solche Prädikate, früher von Sancho als Beruf, Bestimmung, Aufgabe, Gattung usw. ausgesprochen, "suchte", "suchten" sich die wirklichen Menschen bisher "im Worte, im Logos, im Prädikat". p. 153.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.18.2
+  kind: p
+  original: Solange man bisher innerhalb der Sprache ein Individuum vom andern bloß als identische Person unterscheiden wollte, brauchte man den Namen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.18.3
+  kind: p
+  original: Sancho beruhigt sich aber nicht bei den gewöhnlichen Namen, sondern weil ihm die Spekulation die Aufgabe gestellt hat, ein Prädikat zu finden, was so allgemein wäre, daß es Jeden als Subjekt in sich begreift, so sucht er den philosophischen, abstrakten Namen, den "Namen", der über alle Namen ist, den Namen aller Namen, den Namen als Kategorie, der z.B. Sancho von Bruno und Beide von Feuerbach so präzis unterscheidet wie ihre eignen Namen und dennoch auf sie alle drei so gut wie auf alle andern Menschen und beleibte Wesen paßt - eine Neuerung, die in alle Wechselbriefe, Heiratskontrakte usw. die größte Verwirrung bringen und alle Notariats- und Zivilstandsbüros mit einem Schlage vernichten würde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '433'
+- id: AK.18.4
+  kind: p
+  original: Dieser wunderbare Name, dies Zauberwort, welches in der Sprache der Tod der Sprache ist, die Eselsbrücke zum Leben und die höchste Stufe der chinesischen Himmelsleiter, ist - der Einzige.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 433-434
+- id: AK.18.5
+  kind: p
+  original: 'Die wundertätigen Eigenschaften dieses Wortes werden in folgenden Strophen besungen:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.19.1
+  kind: p
+  original: '"Der Einzige soll nur die letzte, die sterbende Aussage von Dir und Mir, soll nur diejenige Aussage sein, welche in die Meinung umschlägt: eine Aussage, die keine mehr ist, eine verstummende, stumme Aussage." p. 153.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.19.2
+  kind: p
+  original: '"Bei ihm" (dem Einzigen) "ist das Unausgesprochene die Hauptsache." p. 149.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.19.3
+  kind: p
+  original: Er ist "bestimmungslos". (ibid.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.19.4
+  kind: p
+  original: '"Er weist auf seinen Inhalt außerhalb oder jenseits des Begriffes hin." (ibid.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.19.5
+  kind: p
+  original: Er ist "ein bestimmungsloser Begriff und kann durch keine andern Begriffe bestimmter gemacht werden". p. 150.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.19.6
+  kind: p
+  original: Er ist die philosophische "Taufe" der profanen Namen. p. 50. "Der Einzige ist ein gedankenloses Wort.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.19.7
+  kind: p
+  original: Er hat keinen Gedankeninhalt."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.19.8
+  kind: p
+  original: '"Er drückt Einen aus", "der nicht zum zweiten Male dasein, folglich auch nicht ausgedrückt werden kann; Denn könnte er wirklich und ganz ausgedrückt werden, so wäre er zum zweiten Male da, wäre im Ausdruck da." p. 151.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.20.1
+  kind: p
+  original: 'Nachdem er so die Eigenschaften dieses Wortes besungen hat, feiert er die Resultate, die mit der Entdeckung seiner Wunderkräfte gewonnen sind, in folgenden Antistrophen:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.21.1
+  kind: p
+  original: '"Mit dem Einzigen ist das Reich der absoluten Gedanken abgeschlossen." (p. 150.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.21.2
+  kind: p
+  original: '"Er ist der Schlußstein unsrer Phrasenwelt." p. 151.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.21.3
+  kind: p
+  original: '"Er ist die als Phrase verendende Logik." p. 153.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.21.4
+  kind: p
+  original: '"Im Einzigen kann die Wissenschaft in das Leben aufgehn, indem ihr Das zum Der und Der wird, Der sich dann nicht mehr im Worte, im Logos, im Prädikate sucht." p. 153.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.22.1
+  kind: p
+  original: 'Allerdings hat Sancho an seinen Rezensenten die üble Erfahrung gemacht, daß auch der Einzige "als Begriff fixiert" werden kann, "und das tun die Gegner" (p.149), die so sehr Sanchos Gegner sind, daß sie die erwartete magische Wirkung des Zauberwortes gar nicht empfinden, vielmehr wie in der Oper singen: Ce n''est pas ça, n''est pas ça! <Das ist es nicht, das ist es nicht!> Namentlich gegen seinen Don Quijote-Szeliga wendet sich Sancho mit großer Erbitterung und feierlichem Ernst, da bei diesem das Mißverständnis eine offene "Empörung" und ein gänzliches Verkennen seiner Stellung als "Geschöpf" voraussetzt:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.23.1
+  kind: p
+  original: '"Hätte Szeliga verstanden, daß der Einzige, weil die völlig inhaltlose Phrase oder Kategorie, darum keine Kategorie mehr ist, so hätte er ihn vielleicht als den Namen dessen, was ihm noch namenlos ist, anerkannt." p. 179.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '434'
+- id: AK.24.1
+  kind: p
+  original: Sancho erkennt also hier ausdrücklich an, daß er und sein Don Quijote auf Ein und dasselbe Ziel lossteuern, nur mit dem Unterschiede, daß Sancho den rechten Morgenstern entdeckt zu haben glaubt, während Don Quijote noch im Dunkeln
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.25.1
+  kind: p
+  original: ûf dem wildin leber-mer der grunt-lôsen werlde swebt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.26.1
+  kind: p
+  original: <auf dem öden Lebermeer der abgrundtiefen Welt treibt. >
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - AK.N1
+  mew_page: '435'
+- id: AK.27.1
+  kind: p
+  original: 'Feuerbach sagte, "Philosophie der Zukunft", p. 49:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.28.1
+  kind: p
+  original: '"Das Sein, gegründet auf lauter Unsagbarkeiten, ist darum selbst etwas Unsagbares.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.28.2
+  kind: p
+  original: Jawohl, das Unsagbare.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.28.3
+  kind: p
+  original: Wo die Worte aufhören, da fängt erst das Leben an, erschließt sich erst das Geheimnis des Seins."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.29.1
+  kind: p
+  original: Sancho hat den Übergang aus dem Sagbaren in das Unsagbare, er hat das Wort gefunden, welches zu gleicher Zeit mehr und weniger ist als ein Wort.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.30.1
+  kind: p
+  original: Wir haben gesehen, daß das ganze Problem, vom Denken zur Wirklichkeit und daher von der Sprache zum Leben zu kommen, nur in der philosophischen Illusion existiert, d.h. nur berechtigt ist für das philosophische Bewußtsein, das über die Beschaffenheit und den Ursprung seiner scheinbaren Trennung vom Leben unmöglich klar sein kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.30.2
+  kind: p
+  original: Dies große Problem, sobald es überhaupt in den Köpfen unsrer Ideologen spukte, mußte natürlich den Verlauf nehmen, daß zuletzt einer dieser fahrenden Ritter ein Wort zu suchen ausging, das als Wort den fraglichen Übergang bildete, als Wort aufhörte, bloßes Wort zu sein, als Wort in mysteriöser, übersprachlicher Weise aus der Sprache heraus auf das wirkliche Objekt, das es bezeichnet, hinweist, kurz, unter den Worten dieselbe Rolle spielt wie der erlösende Gottmensch unter den Menschen in der christlichen Phantasie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.30.3
+  kind: p
+  original: Der hohlste und dürftigste Schädel unter den Philosophen mußte die Philosophie damit "verenden" lassen, daß er seine Gedankenlosigkeit als das Ende der Philosophie und damit als den triumphierenden Eingang in das "leibhaftige" Leben proklamierte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.30.4
+  kind: p
+  original: Seine philosophierende Gedankenlosigkeit war ja schon von selbst das Ende der Philosophie, wie seine unaussprechliche Sprache das Ende aller Sprache.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.30.5
+  kind: p
+  original: Sanchos Triumph war noch dadurch bedingt, daß er unter allen Philosophen am Allerwenigsten von den wirklichen Verhältnissen wußte, daher bei ihm die philosophischen Kategorien den letzten Rest von Beziehung auf die Wirklichkeit und damit den letzten Rest von Sinn verloren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '435'
+- id: AK.31.1
+  kind: p
+  original: 'Und nun gehe ein, Du frommer und getreuer Knecht Sancho, gehe oder vielmehr reite auf Deinem Grauen ein zu Deines Einzigen Selbstgenuß, "verbrauche" Deinen "Einzigen" bis auf den letzten Buchstaben, ihn, dessen wunderbare Titel, Kraft und Tapferkeit bereits Calderon besungen hat wie folgt:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '436'
+- id: AK.32.1
+  kind: p
+  original: Der Einzige -
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '436'
+- id: AK.33.1
+  kind: p
+  original: El valiente Campeon, El generoso Adalid, El gallardo Caballero, El ilustre Paladin, El siempre fiel Cristiano, El Almirante feliz De Africa, el Rey soberano De Alexandría, el Cadé De Berberia, de Egipto el Cid, Morabito, y Gran Señor De Jerusalem.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '436'
+- id: AK.34.1
+  kind: p
+  original: <Der tapfere Kämpfer, der edelmütige Anführer, der stattliche Ritter, der berühmte Paladin, der jederzeit gläubige Christ, der glückliche Admiral von Afrika, der erhabene König von Alexandria, der Richter der Berberei, von Ägypten der Cid, Marabut und Großherr von Jerusalem. >
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '436'
+- id: AK.35.1
+  kind: p
+  original: '"Zum Schlusse dürfte es nicht unpassend sein", Sancho, den Großherrn von Jerusalem, an Cervantes'' "Kritik" Sanchos, "Don Quijote", Cap. 20, pag. 171 der Brüsseler Ausgabe von 1617, "zu erinnern". (Vgl. Kommentar p. 194.)'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '436'
+- id: AK.N1.1.1
+  kind: note
+  original: Meister Kuonrat von Wurzeburc, "Diu guldin Smitte", v. 143.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
