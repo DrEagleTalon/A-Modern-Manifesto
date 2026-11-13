@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: condition-of-the-working-class
+prefix: CWC                       # citation prefix: CWC V.2.4
+title: The Condition of the Working Class in England
+title_original: Die Lage der arbeitenden Klasse in England
+authors: [Friedrich Engels]
+year: 1845
+original_language: de
+base_text: "First edition (Leipzig 1845) as printed in MEW 2, with the readings of the second edition (Stuttgart 1892) and MEW's corrections as variants; Engels's English preface of 1892 from the London edition"
+order: 190
+columns:
+  original: German (MEW, 1845 text)
+  en: English 1887/1892 (Wischnewetzky)
+  modern: Modern draft
+status: ready
+rights: Original public domain. Wischnewetzky's English (1887, London edition 1892) public domain (Project Gutenberg text). See SOURCES.md.

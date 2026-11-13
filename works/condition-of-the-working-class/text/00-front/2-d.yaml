@@ -1,0 +1,196 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: D
+title_original: An die arbeitenden Klassen Großbritanniens
+title_en: To the Working-Classes of Great Britain
+author: Friedrich Engels
+date: '1845-03-15'
+original_language: en
+anchor_language: de
+source_original: MEW 2, S. 229-231 (Dietz, Berlin 1972) via mlwerke.de; German is MEW's editorial translation of Engels's English, NOT an original
+source_en: 'None: Engels''s English text of 1845 is not in the sources used yet'
+verses:
+- id: D.0.1
+  kind: heading
+  original: An die arbeitenden Klassen Großbritanniens
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: Engels wrote the dedication in English; his English text is not in the sources used yet. The German is MEW's translation.
+- id: D.1.1
+  kind: p
+  original: Arbeiter!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '229'
+- id: D.2.1
+  kind: p
+  original: Euch widme ich ein Werk, in dem ich den Versuch gemacht habe, meinen deutschen Landsleuten ein treues Bild eurer Lebensbedingungen, eurer Leiden und Kämpfe, eurer Hoffnungen und Perspektiven zu zeichnen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '229'
+- id: D.2.2
+  kind: p
+  original: Ich habe lange genug unter euch gelebt, um einiges von euren Lebensumständen zu wissen; ich habe ihrer Kenntnis meine ernsteste Aufmerksamkeit gewidmet; ich habe die verschiedenen offiziellen und nichtoffiziellen Dokumente studiert, soweit ich die Möglichkeit hatte, sie mir zu beschaffen - ich habe mich damit nicht begnügt, mir war es um mehr zu tun als um die nur abstrakte Kenntnis meines Gegenstandes, ich wollte euch in euren Behausungen sehen, euch in eurem täglichen Leben beobachten, mit euch plaudern über eure Lebensbedingungen und Schmerzen, Zeuge sein eurer Kämpfe gegen die soziale und politische Macht eurer Unterdrücker.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '229'
+- id: D.2.3
+  kind: p
+  original: 'Ich verfuhr dabei so: Ich verzichtete auf die Gesellschaft und die Bankette, den Portwein und den Champagner der Mittelklasse und widmete meine Freistunden fast ausschließlich dem Verkehr mit einfachen Arbeitern; ich bin froh und stolz zugleich, so gehandelt zu haben.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '229'
+- id: D.2.4
+  kind: p
+  original: Froh, weil ich mir auf diese Weise manche frohe Stunde verschaffte, während ich gleichzeitig euer wirkliches Leben kennenlernte - manche Stunde, die sonst vertan worden wäre in konventionellem Geschwätz und langweiliger Etikette; stolz, weil mir dies Gelegenheit gab, einer unterdrückten und verleumdeten Klasse Gerechtigkeit widerfahren zu lassen, der bei allen ihren Fehlern und unter allen Nachteilen ihrer Lage eine englische Krämerseele die Achtung versagen wird; stolz auch, weil ich auf diese Weise in die Lage versetzt wurde, das englische Volk zu bewahren vor der wachsenden Verachtung, die auf dem Festland die unvermeidliche Konsequenz der brutal-eigennützigen Politik und überhaupt des Auftretens eurer herrschenden Mittelklasse gewesen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '229'
+- id: D.3.1
+  kind: p
+  original: Dank meiner gleichzeitigen umfassenden Gelegenheit zur Beobachtung der Mittelklasse, eures Gegners, bin ich sehr schnell zu dem Schluß gelangt, daß ihr im Recht, völlig im Recht seid, wenn ihr von ihnen keinerlei Hilfe erwartet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.3.2
+  kind: p
+  original: Ihre Interessen sind den euren diametral entgegengesetzt, obgleich sie immer versuchen werden, das Gegenteil zu behaupten und in euch den Glauben zu wecken an ihr herzlichstes Mitgefühl mit eurem Schicksal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.3.3
+  kind: p
+  original: Ihre Taten strafen sie Lügen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.3.4
+  kind: p
+  original: Ich hoffe mehr als genügendes Beweismaterial dafür erbracht zu haben, daß die Mittelklasse - was immer sie zu sagen beliebt - in Wirklichkeit kein anderes Ziel kennt, als sich durch eure Arbeit zu bereichern, solange sie deren Produkt verkaufen kann, und euch dem Hungertod zu überlassen, sobald sie aus diesem indirekten Handel mit Menschenfleisch keinen Profit schlagen kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.3.5
+  kind: p
+  original: Was haben sie getan, um ihre vorgeblichen guten Absichten euch gegenüber zu beweisen?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.3.6
+  kind: p
+  original: Haben sie euren Leiden jemals irgendwie ernste Beachtung geschenkt?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.3.7
+  kind: p
+  original: Haben sie mehr getan, als die Kosten zu bewilligen für ein halbes Dutzend Untersuchungskommissionen, deren umfangreiche Berichte verurteilt sind, ewig unter Haufen von Makulatur auf den Regalen des Home Office [Ministerium des Innern] zu schlummern?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.3.8
+  kind: p
+  original: Haben sie sich je dazu aufgeschwungen, aus ihren modernen Blaubüchern auch nur ein einziges lesbares Buch zusammenzustellen, das jedem die Möglichkeit geben würde, sich ohne Mühe einiges Material über die Lebenslage der großen Mehrheit der "freigebornen Briten" zu machen?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.3.9
+  kind: p
+  original: Natürlich nicht, das sind Dinge, über die sie nicht zu sprechen lieben - sie überließen es einem Ausländer, der zivilisierten Welt über die entwürdigende Lage zu berichten, in der ihr zu leben gezwungen seid.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.4.1
+  kind: p
+  original: Ein Ausländer für sie, ich hoffe, nicht für euch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.4.2
+  kind: p
+  original: Mag auch mein Englisch nicht rein sein, so werdet ihr doch hoffentlich finden, daß es deutliches Englisch ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.4.3
+  kind: p
+  original: Kein Arbeiter in England - nebenbei gesagt, auch in Frankreich nicht - hat mich je als Ausländer behandelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '230'
+- id: D.4.4
+  kind: p
+  original: Mit dem größten Vergnügen sah ich euer Freisein von dem verderblichen Fluch der nationalen Beschränktheit und der nationalen Überheblichkeit, die schließlich nichts ist als Egoismus im großen - ich beobachtete eure Sympathie mit jedem, der seine Kräfte ehrlich dem menschlichen Fortschritt widmet, ob er ein Engländer oder nicht - eure Bewunderung für alles Edle und Gute, ob auf eurem Heimatboden er wachsen oder nicht - ich fand, daß ihr mehr seid als nur Engländer Angehörige einer einzelnen, isolierten Nation ich fand, daß ihr Menschen seid, Angehörige der großen und internationalen Familie der Menschheit, die erkannt haben, daß ihre Interessen und die der ganzen menschlichen Rasse die gleichen sind, und als solche als Glieder dieser Familie der "einen und unteilbaren" Menschheit, als menschliche Wesen in der nachdrücklichsten Bedeutung des Wortes, als solche begrüßen ich und viele andere auf dem Festland eure Fortschritte in jeder Richtung und wünschen euch schnellen Erfolg.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 230-231
+- id: D.4.5
+  kind: p
+  original: Vorwärts denn auf dem beschrittenen Wege.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '231'
+- id: D.4.6
+  kind: p
+  original: Vieles steht euch noch bevor; seid standhaft, laßt euch nicht entmutigen - euer Erfolg ist gewiß, und jeder einzelne Schritt vorwärts auf dem Wege, den ihr zu gehen habt, wird unserer gemeinsamen Sache dienen, der Sache der Menschheit!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '231'
+- id: D.5.1
+  kind: p
+  original: Barmen (Rheinpreußen), 15. März 1845
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '231'
+- id: D.6.1
+  kind: signature
+  original: Friedrich Engels
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '231'

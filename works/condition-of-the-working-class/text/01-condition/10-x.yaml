@@ -1,0 +1,1632 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: X
+title_original: Das Ackerbauproletariat
+title_en: The Agricultural Proletariat
+author: Friedrich Engels
+date: 1844-11/1845-03
+original_language: de
+anchor_language: de
+source_original: MEW 2, S. 225-506 (Dietz, Berlin 1972) via mlwerke.de; text of the first edition (Leipzig 1845), readings of the second edition (Stuttgart 1892) as variants
+source_en: Florence Kelley Wischnewetzky's translation (New York 1887) in the London edition of 1892 (Swan Sonnenschein), Project Gutenberg ebook 17306 (public domain)
+verses:
+- id: X.0.1
+  kind: heading
+  original: Das Ackerbauproletariat
+  en: THE AGRICULTURAL PROLETARIAT.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.1.1
+  kind: p
+  original: Schon in der Einleitung sahen wir, wie gleichzeitig mit der kleinen Bourgeoisie und dem Wohlstande der bisherigen Arbeiter auch die kleine Bauernschaft ruiniert wurde, indem die bisherige Vereinigung der industriellen mit der ackerbauenden Arbeit sich auflöste, die vakant gewordenen Felder in große Pachten zusammengeworfen und die kleinen Bauern durch die überwiegende Konkurrenz der großen Wirtschaften aus dem Felde geschlagen wurden.
+  en: We have seen in the introduction how, simultaneously with the small bourgeoisie and the modest independence of the former workers, the small peasantry also was ruined when the former Union of industrial and agricultural work was dissolved, the abandoned fields thrown together into large farms, and the small peasants superseded by the overwhelming competition of the large farmers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '473'
+- id: X.1.2
+  kind: p
+  original: Statt, wie bisher, selbst Grundbesitzer oder Pächter zu sein, wurden sie gezwungen, ihre Wirtschaft aufzugeben und sich als Ackerknechte bei den großen Pächtern und Gutsbesitzern zu verdingen.
+  en: Instead of being landowners or leaseholders, as they had been hitherto, they were now obliged to hire themselves as labourers to the large farmers or the landlords.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '473'
+- id: X.1.3
+  kind: p
+  original: Eine Zeitlang war dieser Zustand, wenn auch gegen ihren früheren verschlechtert, doch erträglich.
+  en: For a time this position was endurable, though a deterioration in comparison with their former one.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '473'
+- id: X.1.4
+  kind: p
+  original: Die Ausdehnung der Industrie hielt der vermehrten Bevölkerung die Waagschale, bis endlich der industrielle Fortschritt etwas langsamer zu werden anfing und die stets neuen Vervollkommnungen der Maschinerie die Industrie außerstand setzten, den ganzen Überschuß der arbeitenden Bevölkerung aus den Ackerbaubezirken zu absorbieren.
+  en: The extension of industry kept pace with the increase of population until the progress of manufacture began to assume a slower pace, and the perpetual improvement of machinery made it impossible for manufacture to absorb the whole surplus of the agricultural population.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '473'
+- id: X.1.5
+  kind: p
+  original: Von diesem Zeitpunkte an zeigte sich das Elend, das bisher in den Fabrikdistrikten allein und auch da nur zeitweise existiert hatte, auch in den Ackerbaubezirken.
+  en: From this time forward, the distress which had hitherto existed only in the manufacturing districts, and then only at times, appeared in the agricultural districts too.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '473'
+- id: X.1.6
+  kind: p
+  original: Dazu kam, daß ungefähr um dieselbe Zeit der fünfundzwanzigjährige Krieg mit Frankreich aufhörte; die verminderte Produktion auf den Kriegsschauplätzen, die Sperrung der Zufuhren und die Notwendigkeit, die britischen Armeen in Spanien zu versorgen, hatten dem britischen Ackerbau einen künstlichen Aufschwung gegeben und zudem eine Menge von Arbeitskräften der Arbeit entzogen.
+  en: The twenty-five years' struggle with France came to an end at about the same time; the diminished production at the various seats of the wars, the shutting off of imports, and the necessity of providing for the British army in Spain, had given English agriculture an artificial prosperity, and had besides withdrawn to the army vast numbers of workers from their ordinary occupations.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '473'
+- id: X.1.7
+  kind: p
+  original: Diese Stockung der Zufuhr, die Notwendigkeit des Exports und der Mangel an Arbeitern hörten nun mit einem Male auf, und die notwendige Folge war, wie die Engländer es nennen, agricultural distress, Ackerbau-Elend.
+  en: This check upon the import trade, the opportunity for exportation, and the military demand for workers, now suddenly came to an end; and the necessary consequence was what the English call agricultural distress.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '473'
+- id: X.1.8
+  kind: p
+  original: Die Pächter mußten ihr Korn niedrig verkaufen und konnten daher nur niedrigen Lohn bezahlen.
+  en: The farmers had to sell their corn at low prices, and could, therefore, pay only low wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '473'
+- id: X.1.9
+  kind: p
+  original: Um die Kornpreise hoch zu halten, wurden 1815 die Korngesetze passiert, die die Einfuhr von Korn solange prohibierten, als der Preis des Weizens unter 80 Shilling für das Quarter war.
+  en: In 1815, in order to keep up prices, the Corn Laws were passed, prohibiting the importation of corn so long as the price of wheat continued less than 80 shillings per quarter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 473-474
+- id: X.1.10
+  kind: p
+  original: Später wurden diese natürlich fruchtlosen Gesetze noch mehrere Male verändert, ohne indes das Elend der Ackerbaudistrikte mildern zu können.
+  en: These naturally ineffective laws were several times modified, but did not succeed in ameliorating the distress in the agricultural districts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+- id: X.1.11
+  kind: p
+  original: Alles, was sie taten, war das, daß sie die Krankheit, die bei freier Konkurrenz des Auslandes akut geworden wäre und ihre Krisen gehabt hätte, in eine chronische verwandelten, die einen gleichmäßigen, aber immer noch harten Druck auf die Lage der ackerbauenden Arbeiter ausübte.
+  en: All that they did was to change the disease, which, under free competition from abroad, would have assumed an acute form, culminating in a series of crises, into a chronic one which bore heavily but uniformly upon the farm labourers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+- id: X.2.1
+  kind: p
+  original: In der ersten Zeit nach der Entstehung des Ackerbauproletariats entwickelte sich hier das patriarchalische Verhältnis, das gleichzeitig für die Industrie zerstört wurde - dasselbe Verhältnis des Bauern zu seinen Ackerknechten, wie es in Deutschland fast überall jetzt noch besteht.
+  en: For a time after the rise of the agricultural proletariat, the patriarchal relation between master and man, which was being destroyed for manufacture, developed here the same relation of the farmer to his hands which still exists almost everywhere in Germany.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+- id: X.2.2
+  kind: p
+  original: Solange dies bestand, trat die Not unter den Arbeitern weniger und seltner hervor, die Knechte teilten das Schicksal der Pächter und wurden nur im schlimmsten Notfalle entlassen.
+  en: So long as this lasted, the poverty of the farm hands was less conspicuous; they shared the fate of the farmer, and were discharged only in cases of the direst necessity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+- id: X.2.3
+  kind: p
+  original: Jetzt ist das aber anders.
+  en: But now all this is changed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+- id: X.2.4
+  kind: p
+  original: Die Leute sind fast alle Tagelöhner, die von den Pächtern beschäftigt werden, wenn diese ihrer bedürfen, und daher oft wochenlang, besonders aber winters, gar keine Arbeit haben.
+  en: The farm hands have become day labourers almost everywhere, are employed only when needed by the farmers, and, therefore, often have no work for weeks together, especially in winter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+- id: X.2.5
+  kind: p
+  original: Bei dem patriarchalischen Verhältnis, wo die Knechte und ihre Familien auf dem Hofe des Pächters wohnten und ihre Kinder dort heranwuchsen, wo also natürlich der Pächter die heranwachsende Generation auf seinem Hofe zu beschäftigen suchte und die Taglöhner die Ausnahme, nicht die Regel ausmachten, fand sich auf jedem Gute eine größere Zahl Arbeiter als, streng genommen, nötig war.
+  en: In the patriarchal time, the hands and their families lived on the farm, and their children grew up there, the farmer trying to find occupation on the spot for the oncoming generation; day labourers, then, were the exception, not the rule. Thus there was, on every farm, a larger number of hands than were strictly necessary.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.2.6
+  kind: p
+  original: Daher lag es auch im Interesse der Pächter, dies Verhältnis aufzulösen, den Ackerknecht vom Hof zu treiben und ihn in einen Taglöhner zu verwandeln.
+  en: It became, therefore, the interest of the farmers to dissolve this relation, drive the farm hand from the farm, and transform him into a day labourer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+- id: X.2.7
+  kind: p
+  original: Dies geschah ziemlich allgemein gegen das Ende der zwanziger Jahre dieses Jahrhunderts, und die Folge davon war, daß jetzt die bisher, um den Ausdruck der Physik zu gebrauchen, latente Überflußbevölkerung entbunden, der Lohn gedrückt und die Armensteuern enorm gesteigert wurden.
+  en: This took place pretty generally towards the year 1830, and the consequence was that the hitherto latent over-population was set free, the rate of wages forced down, and the poor-rate enormously increased.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+- id: X.2.8
+  kind: p
+  original: Von dieser Zeit an wurden die Ackerbaudistrikte die Hauptsitze des permanenten, wie die Fabrikdistrikte die des wechselnden Pauperismus, und die Umgestaltung der Armengesetze war die erste Maßregel, welche die öffentliche Macht gegen die täglich wachsende Verarmung der Landgemeinden ergreifen mußte.
+  en: From this time the agricultural districts became the headquarters of permanent, as the manufacturing districts had long been of periodic, pauperism; and the modification of the Poor Law was the first measure which the State was obliged to apply to the daily increasing impoverishment of the country parishes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+- id: X.2.9
+  kind: p
+  original: Dazu kam aber noch, daß, bei fortwährender Ausbreitung des Systems der Bewirtschaftung im großen, die Einführung von Dresch- und andern Maschinen in den Ackerbau und die vielfach eingeführte Arbeit von Weibern und Kindern in den Feldern, die so allgemein ist, daß ihre Folgen neulich durch eine besondre, offizielle Kommission untersucht wurden, auch hier eine große Zahl von Arbeitern brotlos machen.
+  en: Moreover, the constant extension of farming on a large scale, the introduction of threshing and other machines, and the employment of women and children (which is now so general that its effects have recently been investigated by a special official commission), threw a large number of men out of employment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '474'
+- id: X.2.10
+  kind: p
+  original: Wir sehen also, wie auch hier das System der industriellen Produktion sich durch große Wirtschaft, Aufhebung des patriarchalischen Verhältnisses - die gerade hier von der größten Bedeutung ist - und Einführung von Maschinerie, Dampfkraft und Arbeit von Weibern und Kindern Eingang verschafft und die letzte, stabilste Seite der arbeitenden Menschheit in die revolutionäre Bewegung hineingerissen hat.
+  en: It is manifest, therefore, that here, too, the system of industrial production has made its entrance, by means of farming on a large scale, by the abolition of the patriarchal relation, which is of the greatest importance just here, by the introduction of machinery, steam, and the labour of women and children. In so doing, it has swept the last and most stationary portion of working humanity into the revolutionary movement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 474-475
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.2.11
+  kind: p
+  original: Je länger aber der Ackerbau seine Stabilität bewährt hatte, um so schwerer fiel die Last nun auf den Arbeiter, um so gewaltsamer äußerte sich hier die Desorganisation des alten sozialen Zusammenhangs.
+  en: But the longer agriculture had remained stationary, the heavier now became the burden upon the worker, the more violently broke forth the results of the disorganisation of the old social fabric.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.12
+  kind: p
+  original: Die "Überbevölkerung" trat mit einem Male ans Tageslicht und war nicht, wie in den Industriebezirken, durch vermehrte Produktion zu beseitigen.
+  en: The "over-population" came to light all at once, and could not, as in the manufacturing districts, be absorbed by the needs of an increasing production.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.13
+  kind: p
+  original: Neue Fabriken konnten immer angelegt werden, wenn Abnehmer für ihre Produkte da waren, aber neues Land konnte nicht geschafft werden.
+  en: New factories could always be built, if there were consumers for their products, but new land could not be created.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.14
+  kind: p
+  original: Die Kultur der unbebauten Gemeindeländereien war eine zu riskante Spekulation, als daß sich seit dem Frieden viel Kapital hierauf geworfen hätte.
+  en: The cultivation of waste common land was too daring a speculation for the bad times following the conclusion of peace.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.15
+  kind: p
+  original: Die notwendige Folge von war, daß die Konkurrenz der Arbeiter unter sich auf den höchsten Punkt gesteigert wurde und der Lohn auf sein Minimum fiel.
+  en: The necessary consequence was that the competition of the workers among each other reached the highest point of intensity, and wages fell to the minimum.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.16
+  kind: p
+  original: Solange das alte Armengesetz existierte, wurde den Arbeitern aus der Armenkasse zugesetzt; natürlich fiel der Lohn hierdurch noch mehr, indem jetzt die Pächter einen möglichst großen Teil desselben der Armenkasse zuzuschieben suchten.
+  en: So long as the old Poor Law existed, the workers received relief from the rates; wages naturally fell still lower, because the farmers forced the largest possible number of labourers to claim relief.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.17
+  kind: p
+  original: Die schon durch die überflüssige Bevölkerung nötig gewordene Steigerung der Armensteuer wurde hierdurch nur vermehrt und so das neue Armengesetz, wovon wir noch sprechen werden, nötig gemacht.
+  en: The higher poor-rate, necessitated by the surplus population, was only increased by this measure, and the new Poor Law, of which we shall have more to say later, was now enacted as a remedy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.18
+  kind: p
+  original: Dies machte die Sache indes nicht besser.
+  en: But this did not improve matters.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.19
+  kind: p
+  original: Der Arbeitslohn stieg nicht, die überflüssige Bevölkerung war nicht wegzuschaffen, und die Grausamkeit des neuen Gesetzes diente nur dazu, das Volk aufs höchste zu erbittern.
+  en: Wages did not rise, the surplus population could not be got rid of, and the cruelty of the new law did but serve to embitter the people to the utmost.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.20
+  kind: p
+  original: Selbst die Armensteuer, die anfangs abnahm, erreichte nach wenigen Jahren dieselbe Höhe, die sie früher hatte.
+  en: Even the poor-rate, which diminished at first after the passage of the new law, attained its old height after a few years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.21
+  kind: p
+  original: Die einzige Frucht war die, daß wenn früher drei bis vier Millionen Halbpaupers bestanden hatten, jetzt eine Million ganzer Paupers zum Vorschein kam und die übrigen darum auch halbe Paupers, nur ohne Unterstützung blieben Das Elend der Ackerbaubezirke hat mit jedem Jahre zugenommen.
+  en: Its only effect was that whereas previously three to four million half paupers had existed, a million of total paupers now appeared, and the rest, still half paupers, merely went without relief. The poverty in the agricultural districts has increased every year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.2.22
+  kind: p
+  original: Die Leute leben in der größten Not, ganze Familien müssen sich mit 6, 7 oder 8 Shilling wöchentlich durchschlagen und haben zeitweise gar nichts.
+  en: The people live in the greatest want, whole families must struggle along with 6, 7, or 8 shillings a week, and at times have nothing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.2.23
+  kind: p
+  original: 'Hören wir eine Schilderung, die ein liberales Parlamentsglied von dem Zustande dieser Bevölkerung schon 1830 entwarf:'
+  en: Let us hear a description of this population given by a Liberal member of Parliament as early as 1830.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: '1892'
+    reading: Parlamentsmitglied
+    base_text: … die ein liberales Parlamentsglied ‸ von dem Zustande dieser …
+  mew_page: '475'
+- id: X.3.1
+  kind: p
+  original: '"Ein englischer Bauer (d.h. Ackerbautaglöhner) "und ein englischer Pauper - die Worte sind synonym.'
+  en: '"An English agricultural labourer and an English pauper, these words are synonymous.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+- id: X.3.2
+  kind: p
+  original: Sein Vater war ein Pauper und seiner Mutter Milch war ohne nährende Kraft; von Kind auf hat er schlechte Nahrung und immer nur halbsatt bekommen, und jetzt noch fühlt er die Qual unbefriedigten Hungers fast immer, wenn er nicht schläft.
+  en: His father was a pauper and his mother's milk contained no nourishment. From his earliest childhood he had bad food, and only half enough to still his hunger, and even yet he undergoes the pangs of unsatisfied hunger almost all the time that he is not asleep.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '475'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.3.3
+  kind: p
+  original: Er ist halbbekleidet, ohne mehr Feuerung, als grade ausreicht, seine magern Mahlzeiten zu kochen, und so kehren Kälte und Nässe stets mit dem Wetter bei ihm ein und verlassen ihn nur mit dem Wetter.
+  en: He is half clad, and has not more fire than barely suffices to cook his scanty meal. And so cold and damp are always at home with him, and leave him only in fine weather.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 475-476
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.3.4
+  kind: p
+  original: Er ist verheiratet, aber er kennt nicht die Freuden des Gatten und Vaters.
+  en: He is married, but he knows nothing of the joys of the husband and father.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '476'
+- id: X.3.5
+  kind: p
+  original: Sein Weib und seine Kleinen, hungrig, selten warm, oft krank und hülflos, stets sorgenvoll und hoffnungslos wie er, sind natürlich gierig, selbstsüchtig und quälerisch, und so, um seine eignen Worte zu gebrauchen, haßt er ihren Anblick (hates the sight of them) und geht nur zu seiner Baracke zurück, weil sie ihm immer noch etwas mehr Schutz gegen Regen und Wind gewährt als eine Hecke.
+  en: His wife and children, hungry, rarely warm, often ill and helpless, always careworn and hopeless like himself, are naturally grasping, selfish, and troublesome, and so, to use his own expression, he hates the sight of them, and enters his cot only because it offers him a trifle more shelter from rain and wind than a hedge.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '476'
+- id: X.3.6
+  kind: p
+  original: Er muß seine Familie erhalten, wo er es doch nicht kann; das gibt Bettelei, heimliche Anschläge aller Art und endigt in ausgebildeter Verschlagenheit.
+  en: He must support his family, though he cannot do so, whence come beggary, deceit of all sorts, ending in fully developed craftiness.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '476'
+- id: X.3.7
+  kind: p
+  original: Wenn er auch Lust hätte, so fehlte ihm doch der Mut, um, wie andre, energischere Leute seiner Klasse, ein Wilddieb oder Schmuggler im großen zu werden; aber er stibitzt gelegentlich und lehrt seine Kinder lügen und stehlen.
+  en: If he were so inclined, he yet has not the courage which makes of the more energetic of his class wholesale poachers and smugglers. But he pilfers when occasion offers, and teaches his children to lie and steal.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '476'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.3.8
+  kind: p
+  original: Sein unterwürfiges und sklavisches Betragen gegen seine reichen Nachbarn zeigt, daß sie ihn rauh und mit Verdacht behandeln; daher fürchtet und haßt er sie, aber er wird ihnen nie auf gewaltsame Weise Leid antun.
+  en: His abject and submissive demeanour towards his wealthy neighbours shows that they treat him roughly and with suspicion; hence he fears and hates them, but he never will injure them by force.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '476'
+- id: X.3.9
+  kind: p
+  original: Er ist durch und durch depraviert, zu sehr herabgedrückt, um die Kraft der Verzweiflung noch zu haben.
+  en: He is depraved through and through, too far gone to possess even the strength of despair.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '476'
+- id: X.3.10
+  kind: p
+  original: Sein elendes Leben ist kurz, Rheumatismus und Asthma bringen ihn ins Arbeitshaus, wo er seinen letzten Atemzug ohne eine einzige angenehme Rückerinnerung tun und für einen andern Unglücklichen Platz machen wird, der ebenso leben und sterben mag wie er."
+  en: His wretched existence is brief, rheumatism and asthma bring him to the workhouse, where he will draw his last breath without a single pleasant recollection, and will make room for another luckless wretch to live and die as he has done."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '476'
+- id: X.4.1
+  kind: p
+  original: Unser Autor fügt hinzu, daß es außer dieser Klasse der Ackerbautaglöhner noch eine zweite gebe, die etwas energischer und physisch, intellektuell und moralisch besser begabt sei; diejenigen nämlich, die zwar ebenso elend lebten, aber nicht in dieser Lage geboren seien.
+  en: Our author adds that besides this class of agricultural labourers, there is still another, somewhat more energetic and better endowed physically, mentally, and morally; those, namely, who live as wretchedly, but were not born to this condition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '476'
+- id: X.4.2
+  kind: p
+  original: Diese seien bessere Familienmitglieder, aber Schmuggler und Wilddiebe, die oft blutige Konflikte mit den Wildhütern und Douaniers der Küste hätten, oft durch die Gefängnisse, die häufig ihr Aufenthalt würden, sich noch mehr gegen die Gesellschaft erbittern lernten und in ihrem Haß gegen die Besitzenden so der ersten Klasse ganz gleich ständen.
+  en: These he represents as better in their family life, but smugglers and poachers who get into frequent bloody conflicts with the gamekeepers and revenue officers of the coast, become more embittered against society during the prison life which they often undergo, and so stand abreast of the first class in their hatred of the property-holders.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '476'
+- id: X.5.1
+  kind: p
+  original: '"Und", schließt er, "aus Höflichkeit (by courtesy) wird diese ganze Klasse die ''kühne Bauerschaft von England'' (bold Peasantry of England, nach Shakespeare) genannt."'
+  en: '"And," he says, in closing, "this whole class is called, by courtesy, the bold peasantry of England."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - X.N1
+  mew_page: '476'
+- id: X.6.1
+  kind: p
+  original: Bis auf den heutigen Tag gilt diese Schilderung für den größten Teil der Taglöhner in den Ackerbaubezirken.
+  en: Down to the present time, this description applies to the greater portion of the agricultural labourers of England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '476'
+- id: X.6.2
+  kind: p
+  original: Die "Times" sandte im Juni 1844 einen Korrespondenten in diese Gegenden, um über die Lage dieser Klasse zu berichten, und der Bericht, den er gibt, stimmt vollkommen mit Obigem überein.
+  en: In June, 1844, the Times sent a correspondent into the agricultural districts to report upon the condition of this class, and the report which he furnished agreed wholly with the foregoing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 476-477
+- id: X.6.3
+  kind: p
+  original: In einigen Gegenden war der Lohn nicht höher als sechs Shilling wöchentlich, also nicht höher als in vielen Gegenden Deutschlands, während die Preise aller Lebensbedürfnisse in England doch wenigstens doppelt so hoch sind als hier.
+  en: In certain districts wages were not more than six shillings a week; not more, that is, that in many districts in Germany, while the prices of all the necessaries of life are at least twice as high.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '477'
+- id: X.6.4
+  kind: p
+  original: Wie das Leben beschaffen ist, das diese Leute führen, läßt sich denken.
+  en: What sort of life these people lead may be imagined; their food scanty and bad, their clothing ragged, their dwellings cramped and desolate, small, wretched huts, with no comforts whatsoever; and, for young people, lodging-houses, where men and women are scarcely separated, and illegitimate intercourse thus provoked.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '477'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: X.6.5
+  kind: p
+  original: Ihre Nahrung schlecht und knapp, ihre Kleidung zerlumpt und ihre Wohnungen eng und erbärmlich - eine kleine elende Hütte ohne alle Komforts, und für junge Leute Logierhäuser, wo Männer und Frauen fast gar nicht getrennt sind und die zu illegitimem Verkehr herausfordern.
+  en: ''
+  joined_to: X.6.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '477'
+- id: X.6.6
+  kind: p
+  original: Ein paar unbeschäftigte Tage im Monat müssen solche Leute notwendig in das tiefste Elend stürzen.
+  en: One or two days without work in the course of a month must inevitably plunge such people into the direst want.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '477'
+- id: X.6.7
+  kind: p
+  original: Dazu können sie sich nicht assoziieren, um den Lohn hoch zu halten, weil sie zerstreut wohnen, und weigert einer, zu niedrigem Lohn zu arbeiten, so sind Dutzende von Brotlosen und Armenhausgenossen, die sich freuen, wenn ihnen das Geringste geboten wird, während dem Weigernden als einem faulen, liederlichen Taugenichts von der Armenverwaltung jede andre Unterstützung als die verhaßte des Armenhauses abgeschlagen wird; denn in der Verwaltung sitzen ja grade die Pächter, von denen oder deren Nachbarn und Standesgenossen er allein Arbeit erhalten kann.
+  en: Moreover, they cannot combine to raise wages, because they are scattered, and if one alone refuses to work for low wages, there are dozens out of work, or supported by the rates, who are thankful for the most trifling offer, while to him who declines work, every other form of relief than the hated workhouse is refused by the Poor Law guardians as to a lazy vagabond; for the guardians are the very farmers from whom or from whose neighbours and acquaintances alone he can get work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '477'
+- id: X.6.8
+  kind: p
+  original: Und nicht nur aus einem oder dem andern der ackerbauenden Distrikte Englands erhalten wir solche Berichte; im Gegenteil, die Not ist gleich groß im Süden und Osten, im Norden und Westen; die Lage der Arbeiter in Suffolk und Norfolk stimmt genau mit der von Devonshire, Hampshire und Sussex; der Lohn ist in Dorsetshire und Oxfordshire so niedrig wie in Kent und Surrey, Buckinghamshire und Cambridgeshire.
+  en: And not from one or two special districts of England do such reports come. On the contrary, the distress is general, equally great in the North and South, the East and West. The condition of the labourers in Suffolk and Norfolk corresponds with that of Devonshire, Hampshire, and Sussex. Wages are as low in Dorsetshire and Oxfordshire as in Kent and Surrey, Buckinghamshire and Cambridgeshire.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '477'
+  align: '1:4'
+  review: true
+  review_reason: 1 de sentence(s) matched to 4 en sentence(s)
+- id: X.7.1
+  kind: p
+  original: Eine besonders hervorzuhebende Barbarei gegen das Ackerbauproletariat sind die Jagdgesetze, die in England so streng sind wie nirgends, während zu gleicher Zeit der Wildstand über alle Begriffe zahlreich ist.
+  en: One especially barbaric cruelty against the working-class is embodied in the Game Laws, which are more stringent than in any other country, while the game is plentiful beyond all conception.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '477'
+- id: X.7.2
+  kind: p
+  original: Der englische Bauer, der nach alter Sitte und Gewohnheit in der Wilddieberei nur eine ganz natürliche, noble Äußerung des Mutes und der Verwegenheit sieht, wird durch den Gegensatz zwischen seinem eignen Elend und dem car tel est notre plaisir [denn das ist unser Vergnügen] des Lords, der Tausende von Hasen und jagdbaren Vögeln zu seinem Privatvergnügen hegt, noch mehr dazu gereizt.
+  en: The English peasant who, according to the old English custom and tradition, sees in poaching only a natural and noble expression of courage and daring, is stimulated still further by the contrast between his own poverty and the car tel est notre plaisir of the lord, who preserves thousands of hares and game birds for his private enjoyment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '477'
+- id: X.7.3
+  kind: p
+  original: Er legt Schlingen, schießt auch wohl einmal ein Stück Wild - es schadet ja dem Lord im Grunde nichts, der hat ja doch Überfluß daran, und ihm bringt es einen Braten übers Feuer für seine hungernde Familie.
+  en: The labourer lays snares, or shoots here and there a piece of game. It does not injure the landlord as a matter of fact, for he has a vast superfluity, and it brings the poacher a meal for himself and his starving family.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '477'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.7.4
+  kind: p
+  original: Wird er entdeckt, so wandert er ins Gefängnis, beim Wiederholungsfalle wird er mindestens sieben Jahre transportiert.
+  en: But if he is caught he goes to jail, and for a second offence receives at the least seven years' transportation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '477'
+- id: X.7.5
+  kind: p
+  original: Aus der Strenge dieser Strafen entstehen die häufigen blutigen Konflikte mit den Wildhütern, die jedes Jahr eine Reihe von Morden herbeiführen.
+  en: From the severity of these laws arise the frequent bloody conflicts with the gamekeepers, which lead to a number of murders every year Hence the post of gamekeeper is not only dangerous, but of ill-repute and despised.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '477'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: X.7.6
+  kind: p
+  original: Das Gewerbe eines Wildhüters wird dadurch nicht nur gefährlich, sondern auch verrufen und geächtet.
+  en: ''
+  joined_to: X.7.5
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: 477-478
+- id: X.7.7
+  kind: p
+  original: Im vorigen Jahre kamen zwei Fälle vor, daß Wildhüter sich lieber eine Kugel durch den Kopf jagten als bei ihrem Handwerk blieben.
+  en: Last year, in two cases, gamekeepers shot themselves rather than continue their work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.7.8
+  kind: p
+  original: 'Das ist der wohlfeile Preis, um den sich die grundbesitzende Aristokratie das edle Vergnügen der Jagd erkauft - aber was verschlägt das den edlen "lords of the soil [deutsch etwa: "Herren von Ar und Halm""]"?'
+  en: Such is the moderate price at which the landed aristocracy purchases the noble sport of shooting; but what does it matter to the lords of the soil?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.7.9
+  kind: p
+  original: Ob ein paar Überflüssige mehr oder minder am Leben sind, ist ja doch höchst gleichgültig, und wenn die Hälfte der "Überflüssigen" erst infolge der Jagdgesetze auf die Seite geschafft wären, so würde es der übrigbleibenden Hälfte desto besser gehen - so räsoniert die Philanthropie der englischen Besitzenden.
+  en: Whether one or two more or less of the "surplus" live or die matters nothing, and even if in consequence of the Game Laws half the surplus population could be put out of the way, it would be all the better for the other half--according to the philanthropy of the English landlords.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.8.1
+  kind: p
+  original: Aber obwohl die ländlichen Verhältnisse, die isolierten Wohnungen, die Stabilität der Umgebung, der Beschäftigung und also auch der Ideen aller Entwicklung entschieden ungünstig sind, so trägt die Armut und Not auch hier ihre Früchte.
+  en: Although the conditions of life in the country, the isolated dwellings, the stability of the surroundings and occupations, and consequently of the thoughts, are decidedly unfavourable to all development, yet poverty and want bear their fruits even here.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.8.2
+  kind: p
+  original: Die Industrie- und Bergwerksarbeiter kamen bald über die erste Stufe der Opposition gegen den sozialen Zustand, über die unmittelbare Auflehnung des Vereinzelten durch Verbrechen, hinaus; die Bauern stecken noch bis auf den heutigen Tag in dieser ersten Stufe.
+  en: The manufacturing and mining proletariat emerged early from the first stage of resistance to our social order, the direct rebellion of the individual by the perpetration of crime; but the peasants are still in this stage at the present time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.8.3
+  kind: p
+  original: Ihre beliebte Weise des sozialen Krieges ist die Brandstiftung.
+  en: Their favourite method of social warfare is incendiarism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.8.4
+  kind: p
+  original: In dem Winter, der auf die Julirevolution folgte, im Winter 1830/31 wurden diese Brandstiftungen zum ersten Mal allgemein, nachdem schon anfangs Oktober in Sussex und den anstoßenden Grafschaften Unruhen wegen verstärkter Küstenpolizei (wodurch das Schmuggeln erschwert und die Küste, nach dem Ausdruck eines Pächters, ruiniert wurde), wegen Neuerungen in der Armenverwaltung, niedrigen Lohns und Maschineneinführung stattgefunden und die ganze Gegend in Aufregung versetzt hatten.
+  en: In the winter which followed the Revolution of July, in 1830-31, these incendiarisms first became general. Disturbances had taken place, and the whole region of Sussex and the adjacent counties has been brought into a state of excitement in October, in consequence of an increase of the coastguard (which made smuggling much more difficult and "ruined the coast"--in the words of a farmer), changes in the Poor Law, low wages, and the introduction of machinery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.8.5
+  kind: p
+  original: Im Winter also wurden den Pächtern die Korn- und Heuschober auf den Feldern, ja die Scheunen und Ställe unter ihren Fenstern angezündet.
+  en: In the winter the farmers' hay and corn-stacks were burnt in the fields, and the very barns and stables under their windows.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.8.6
+  kind: p
+  original: Fast jede Nacht flammten ein paar solcher Feuer und verbreiteten Entsetzen unter den Pächtern und Grundeigentümern.
+  en: Nearly every night a couple of such fires blazed up, and spread terror among the farmers and landlords.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.8.7
+  kind: p
+  original: Die Täter wurden nie oder sehr selten entdeckt, und das Volk übertrug diese Brandstiftungen auf eine mythische Person, die es Swing nannte.
+  en: The offenders were rarely discovered, and the workers attributed the incendiarism to a mythical person whom they named "Swing."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.8.8
+  kind: p
+  original: Man zerbrach sich die Köpfe darüber, wer dieser Swing sein möge, woher diese Wut unter den Armen der Landdistrikte entstehe; an die große bewegende Kraft; die Not, die Unterdrückung dachten die wenigsten - in den Ackerbaudistrikten selbst gewiß niemand.
+  en: Men puzzled their brains to discover who this Swing could be and whence this rage among the poor of the country districts. Of the great motive power, Want, Oppression, only a single person here and there thought, and certainly no one in the agricultural districts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.8.9
+  kind: p
+  original: Seit jenem Jahre haben sich die Brandstiftungen mit jedem Winter, mit der für die Taglöhner brotlosen Jahreszeit, wiederholt.
+  en: Since that year the incendiarisms have been repeated every winter, with each recurring unemployed season of the agricultural labourers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.8.10
+  kind: p
+  original: Im Winter 1843/44 waren sie wieder einmal außerordentlich häufig.
+  en: In the winter of 1843-44, they were once more extraordinarily frequent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '478'
+- id: X.8.11
+  kind: p
+  original: Mir liegen eine Reihe Nummern des "Northern Star" aus jener Zeit vor, deren jede mehrere Berichte von Brandstiftungen mit Angabe der Quelle enthält.
+  en: There lies before me a series of numbers of the Northern Star of that time, each one of which contains a report of several incendiarisms, stating in each case its authority.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 478-479
+- id: X.8.12
+  kind: p
+  original: Die fehlenden Nummern dieses wöchentlichen Blattes in der folgenden Liste liegen mir nicht vor, enthalten aber jedenfalls noch eine Menge Fälle.
+  en: The numbers wanting in the following list I have not at hand; but they, too, doubtless contain a number of cases.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.8.13
+  kind: p
+  original: Ohnehin kann ein solches Blatt nicht alle Fälle geben.
+  en: Moreover, such a sheet cannot possibly ascertain all the cases which occur.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.8.14
+  kind: p
+  original: '"N[orthern] S[tar]", 25. November 1843: zwei Fälle, von mehreren früheren wird gesprochen.'
+  en: November 25th, 1843, two cases; several earlier ones are discussed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.8.15
+  kind: p
+  original: '- 16. Dezember: In Bedfordshire seit 14 Tagen allgemeine Aufregung wegen häufiger Brandstiftungen, deren jede Nacht mehrere vorkommen.'
+  en: December 16th, in Bedfordshire, general excitement for a fortnight past in consequence of frequent incendiarisms, of which several take place every night.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.8.16
+  kind: p
+  original: In den letzten Tagen zwei große Pachthöfe niedergebrannt.
+  en: Two great farmhouses burnt down within the last few days; in Cambridgeshire four great farmhouses, Hertfordshire one, and besides these, fifteen other incendiarisms in different districts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: X.8.17
+  kind: p
+  original: In Cambridgeshire vier große Pachthöfe, Hertfordshire einer und außerdem noch fünfzehn Brandstiftungen in verschiedenen Gegenden.
+  en: ''
+  joined_to: X.8.16
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '479'
+- id: X.8.18
+  kind: p
+  original: 30. Dezember in Norfolk eine, Suffolk zwei, Essex zwei, Herts drei, Cheshire eine, Lancashire eine, in Derby, Lincoln und dem Süden zwölf Brandstiftungen.
+  en: December 30th, in Norfolk one, Suffolk two, Essex two, Cheshire one, Lancashire one, Derby, Lincoln, and the South twelve.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.8.19
+  kind: p
+  original: '- 6. Januar 1844: im ganzen zehn, 13. Januar: sieben, 20. Januar: vier Brandstiftungen.'
+  en: January 6th, 1844, in all ten. January 13th, seven. January 20th, four incendiarisms.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: X.8.20
+  kind: p
+  original: Von jetzt an werden wöchentlich im Durchschnitt drei bis vier Brände gemeldet, und zwar nicht nur wie früher bis ins Frühjahr, sondern bis in den Juli und August hinein, und daß mit dem Herannahen der strengen Jahreszeit 1844/45 diese Art Verbrechen einen neuen Aufschwung nahm, beweisen die mir seitdem zukommenden englischen Zeitungen und die Berichte in deutschen Blättern.
+  en: From this time forward, three or four incendiarisms per week are reported, and not as formerly until the spring only, but far into July and August. And that crimes of this sort are expected to increase in the approaching hard season of 1844-45, the English papers already indicate.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.9.1
+  kind: p
+  original: Was sagen meine Leser zu einem solchen Zustande der stillen, idyllischen Landdistrikte von England?
+  en: What do my readers think of such a state of things in the quiet, idyllic country districts of England?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.9.2
+  kind: p
+  original: Ist das sozialer Krieg oder nicht?
+  en: Is this social war, or is it not?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.9.3
+  kind: p
+  original: Ist das ein natürlicher, ein der Dauer fähiger Zustand?
+  en: Is it a natural state of things which can last?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.9.4
+  kind: p
+  original: Und doch sind hier die Pächter und Grundbesitzer ebenso dumm und verstockt, ebenso blind gegen alles, was ihnen nicht bares Geld in die Tasche schafft, wie in den Industriebezirken die Fabrikanten und Bourgeois überhaupt.
+  en: Yet here the landlords and farmers are as dull and stupefied, as blind to everything which does not directly put money into their pockets, as the manufacturers and the bourgeoisie in general in the manufacturing districts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.9.5
+  kind: p
+  original: Wenn diese ihren Arbeitern alles Heil von der Abschaffung der Korngesetze versprechen, so versprechen die Grundbesitzer und ein großer Teil der Pächter den ihrigen den Himmel von der Beibehaltung derselben.
+  en: If the latter promise their employees salvation through the repeal of the Corn Laws, the landlords and a great part of the farmers promise theirs Heaven upon earth from the maintenance of the same laws.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.9.6
+  kind: p
+  original: Aber in beiden Fällen gelingt es den Besitzenden nicht, die Arbeiter für ihre Lieblingsmarotte zu gewinnen.
+  en: But in neither case do the property-holders succeed in winning the workers to the support of their pet hobby.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.9.7
+  kind: p
+  original: Wie die Fabrikarbeiter, so sind auch die Ackerbautaglöhner gegen die Abschaffung oder Beibehaltung der Korngesetze durchaus gleichgültig.
+  en: Like the operatives, the agricultural labourers are thoroughly indifferent to the repeal or non-repeal of the Corn Laws.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.9.8
+  kind: p
+  original: Dennoch ist die Frage für beide wichtig.
+  en: Yet the question is an important one for both.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+- id: X.9.9
+  kind: p
+  original: Durch die Abschaffung der Korngesetze wird nämlich die freie Konkurrenz, die jetzige soziale Wirtschaft auf die Spitze getrieben; alle weitere Entwicklung innerhalb der bestehenden Verhältnisse hört dann auf, und der einzige mögliche Fortschritt ist dann die radikale Umwälzung des sozialen Zustandes.
+  en: That is to say--by the repeal of the Corn Laws, free competition, the present social economy is carried to its extreme point; all further development within the present order comes to an end, and the only possible step farther is a radical transformation of the social order.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+  en_note: 'English note {268}: This has been literally fulfilled. After a period of unexampled extension of trade, Free Trade has landed England in a crisis, which began in 1878, and is still increasing in energy in 1886.'
+- id: X.9.10
+  kind: p
+  original: Den Ackerbautaglöhnern hat die Sache noch folgende Bedeutung.
+  en: 'For the agricultural labourers the question has, further, the following important bearing: Free importation of corn involves (how, I cannot explain here) the emancipation of the farmers from the landlords, their transformation into Liberals.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '479'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: X.9.11
+  kind: p
+  original: Die Freigebung der Korneinfuhr bedingt - wie, kann ich hier nicht entwickeln - die Emanzipation der Pächter von den Grundbesitzern, mit andern Worten die Verwandlung der torystischen Pächter in liberale.
+  en: ''
+  joined_to: X.9.10
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '479'
+- id: X.9.12
+  kind: p
+  original: Dazu hat die Antikorngesetzligue - und das ist ihr einziges Verdienst - schon tüchtig vorgearbeitet.
+  en: Towards this consummation the Anti-Corn Law League has already largely contributed, and this is its only real service.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 479-480
+- id: X.9.13
+  kind: p
+  original: Werden aber die Pächter liberal, d.h. bewußte Bourgeois, so werden die Taglöhner notwendig Chartisten und Sozialisten, d.h. bewußte Proletarier.
+  en: When the farmers become Liberals, i.e., conscious bourgeois, the agricultural labourers will inevitably become Chartists and Socialists; the first change involves the second.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: X.9.14
+  kind: p
+  original: Das eine zieht das andre nach sich.
+  en: ''
+  joined_to: X.9.13
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '480'
+- id: X.9.15
+  kind: p
+  original: Und daß schon jetzt unter den Ackerbauproletariern eine neue Bewegung anfängt sich geltend zu machen, zeigt eine Versammlung, welche Graf Radnor, ein liberaler Grundbesitzer, im Oktober 1844 bei Highworth, wo seine Güter liegen, abhalten ließ, um Beschlüsse gegen die Korngesetze zu passieren, und wo die Arbeiter. durchaus apathisch gegen diese Gesetze, ganz andre Dinge, nämlich kleine Pachtungen zu billiger Pacht für sich forderten und dem Grafen Radnor allerlei bittere Wahrheiten ins Gesicht sagten.
+  en: And that a new movement is already beginning among the agricultural labourers is proved by a meeting which Earl Radnor, a Liberal landlord, caused to be held in October, 1844, near Highworth, where his estates lie, to pass resolutions against the Corn Laws. At this meeting, the labourers, perfectly indifferent as to these laws, demanded something wholly different, namely small holdings, at low rent, for themselves, telling Earl Radnor all sorts of bitter truths to his face.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.9.16
+  kind: p
+  original: '- So dringt die Bewegung der arbeitenden Klasse auch in die abgelegnen, stabilen, geistig toten Ackerbaubezirke und wird hier bei der herrschenden Not sehr bald ebenso sicher begründet und lebendig sein wie in den Fabrikdistrikten.'
+  en: Thus the movement of the working-class is finding its way into the remote, stationary, mentally dead agricultural districts; and, thanks to the general distress, will soon be as firmly rooted and energetic as in the manufacturing districts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+  en_note: 'English note {269}: The agricultural labourers have now a Trade''s Union; their most energetic representative, Joseph Arch, was elected M.P. in 1885.'
+- id: X.10.1
+  kind: p
+  original: Was die religiöse Stufe der Ackerbautaglöhner betrifft, so haben sie allerdings mehr Religion als die industriellen Arbeiter, aber sie sind doch sehr mit der Kirche - denn in diesen Bezirken gibt es fast nur Anhänger der Hochkirche - zerfallen.
+  en: As to the religious state of the agricultural labourers, they are, it is true, more pious than the manufacturing operatives; but they, too, are greatly at odds with the Church--for in these districts members of the Established Church almost exclusively are to be found.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+- id: X.10.2
+  kind: p
+  original: 'Ein Korrespondent des "Morning Chronicle", der mit der Unterschrift: Einer, der hinter dem Pfluge gepfiffen hat [Pseudonym Alexander Somervilles], Berichte über die von ihm bereisten Ackerbaubezirke gibt, erzählt unter anderm folgende Unterhaltung mit einigen Taglöhnern nach der Kirche:'
+  en: 'A correspondent of the Morning Chronicle, who, over the signature, "One who has whistled at the plough," reports his tour through the agricultural districts, relates, among other things, the following conversation with some labourers after service: "I asked one of these people whether the preacher of the day was their own clergyman.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+- id: X.11.1
+  kind: p
+  original: '"Ich frug einen dieser Leute, ob der heutige Prediger ihr eigner Geistlicher sei - yes, blast him [Ja, hol ihn der Teufel], ja, wohl ist er unser eigner Pfaff, er bettelt in einem fort, er hat immer gebettelt, solange ich ihn kenne."'
+  en: '"Yes, blast him! He is our own parson, and begs the whole time. He''s been always a-begging as long as I''ve known him."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: X.11.2
+  kind: p
+  original: (Es war nämlich eine Predigt für die Heidenmission gehalten worden.)
+  en: (The sermon had been upon a mission to the heathen.)
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+- id: X.11.3
+  kind: p
+  original: '- "Und seit ich ihn kenne, auch, setzte ein anderer hinzu, und ich hab'' nie einen Pfaffen gekannt, der nicht immer für dies oder das gebettelt hätte.'
+  en: '"And as long as I''ve known him too," added another; "and I never knew a parson but what was begging for this or the other."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+- id: X.11.4
+  kind: p
+  original: '- Ja, sagte eine Frau, die eben aus der Kirche kam, und seht, wie der Lohn heruntergeht, und seht mal die reichen Vagabunden an, wo die Pfaffen mit essen und trinken und auf die Jagd gehen.'
+  en: '"Yes," said a woman, who had just come out of the church, "and look how wages are going down, and see the rich vagabonds with whom the parsons eat and drink and hunt.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+- id: X.11.5
+  kind: p
+  original: So helf' mir Gott, wir sind eher reif, ins Arbeitshaus zu gehen und zu verhungern, als für Pfaffen zu bezahlen, die unter die Heiden gehen.
+  en: So help me God, we are more fit to starve in the workhouse than pay the parsons as go among the heathen."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+- id: X.11.6
+  kind: p
+  original: '- Und warum, sagte eine andre, warum schicken sie nicht die Pfaffen hin, die alle Tage im Dome zu Salisbury plärren, und das für niemand als für die nackten Steine?'
+  en: '"And why," said another, "don''t they send the parsons as drones every day in Salisbury Cathedral, for nobody but the bare stones?'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+- id: X.11.7
+  kind: p
+  original: Warum gehen die nicht unter die Heiden?
+  en: Why don't they go among the heathen?"
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+- id: X.11.8
+  kind: p
+  original: '- Die gehen nicht, sagte der Alte, den ich zuerst gefragt, weil sie reich sind, sie haben mehr Land, als sie brauchen, sie wollen Geld haben, um sich die armen Pfaffen vom Halse zu schaffen; ich weiß, was sie wollen, dafür kenn'' ich sie zu lange.'
+  en: '"They don''t go," said the old man whom I had first asked, "because they are rich, they have all the land they need, they want the money in order to get rid of the poor parsons. I know what they want. I know them too long for that."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: X.11.9
+  kind: p
+  original: '- Aber, gute Freunde, frug ich, ihr kommt doch nicht immer mit solchen bittern Gefühlen gegen den Prediger aus der Kirche?'
+  en: '"But, good friends," I asked, "you surely do not always come out of the church with such bitter feelings towards the preacher?'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+- id: X.11.10
+  kind: p
+  original: Weshalb geht ihr denn sonst überhaupt hin?
+  en: Why do you go at all?"
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+- id: X.11.11
+  kind: p
+  original: '- Weshalb gehen wir hin, sagte die Frau, wir müssen wohl, wenn wir nicht alles verlieren wollen, Arbeit und alles, wir müssen wohl.'
+  en: '"What for do we go?" said the woman. "We must, if we do not want to lose everything, work and all, we must."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '480'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.11.12
+  kind: p
+  original: '- Ich sah später, daß sie einige kleine Vorrechte wegen Feuerung und etwas Kartoffelland, das sie bezahlen mußten, erhielten, wenn sie in die Kirche gingen!"'
+  en: I learned later that they had certain little privileges of fire-wood and potato land (which they paid for!) on condition of going to church."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 480-481
+- id: X.12.1
+  kind: p
+  original: 'Nach einer Schilderung ihrer Armut und Unwissenheit schließt unser Korrespondent:'
+  en: 'After describing their poverty and ignorance, the correspondent closes by saying: "And now I boldly assert that the condition of these people, their poverty, their hatred of the church, their external submission and inward bitterness against the ecclesiastical dignitaries, is the rule among the country parishes of England, and its opposite is the exception."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '481'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: X.13.1
+  kind: p
+  original: '"Und nun versichre ich kühn, daß die Lage dieser Leute, ihre Armut, ihr Haß gegen die Kirche, ihre äußerliche Fügsamkeit und ihre innerliche Bitterkeit gegen die kirchlichen Würdenträger die Regel ist durch die Landgemeinden von England und das Gegenteil nur die Ausnahme."'
+  en: ''
+  joined_to: X.12.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '481'
+- id: X.14.1
+  kind: p
+  original: Wenn uns die Bauernschaft des eigentlichen Englands die Folgen zeigt, die ein zahlreiches Ackerbauproletariat bei großen Gütern auf den Zustand der Landgemeinden hat, so sehen wir in Wales das Vorkommen der kleinen Pächter.
+  en: If the peasantry of England shows the consequences which a numerous agricultural proletariat in connection with large farming involves for the country districts, Wales illustrates the ruin of the small holders.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '481'
+- id: X.14.2
+  kind: p
+  original: Wenn die englischen Landgemeinden den Gegensatz von Proletariern und großen Kapitalisten reproduzieren, so entspricht der Zustand der welschen Bauern dem fortschreitenden Ruin der kleinen Bourgeoisie in den Städten.
+  en: If the English country parishes reproduce the antagonism between capitalist and proletarian, the state of the Welsh peasantry corresponds to the progressive ruin of the small bourgeoisie in the towns.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T2
+    editions: MEW
+    reading: so bei Engels für walisisch
+    base_text: … der Zustand der welschen ‸ Bauern dem fortschreitenden Ruin …
+  mew_page: '481'
+- id: X.14.3
+  kind: p
+  original: In Wales existieren meist nur kleine Pächter, die nicht imstande sind, ihre Ackerbauprodukte mit gleichem Vorteil ebenso billig zu verkaufen wie die großen, begünstigteren englischen Pächter, mit denen sie in demselben Markte konkurrieren.
+  en: In Wales are to be found, almost exclusively, small holders, who cannot with like profit sell their products as cheaply as the larger, more favourably situated English farmers, with whom, however, they are obliged to compete.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '481'
+- id: X.14.4
+  kind: p
+  original: Dazu läßt die Beschaffenheit des Landes an vielen Stellen nur die Viehzucht zu, die wenig profitabel ist, und dann sind diese Welschen schon wegen ihrer aparten Nationalität, an der sie festhalten, noch viel stabiler als die englischen Pächter.
+  en: Moreover, in some places the quality of the land admits of the raising of live stock only, which is but slightly profitable. Then, too, these Welsh farmers, by reason of their separate nationality, which they retain pertinaciously, are much more stationary than the English farmers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '481'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.14.5
+  kind: p
+  original: Vor allem aber die Konkurrenz unter sich und mit ihren englischen Nachbarn und die daraus folgende Steigerung des Grundzinses hat sie so heruntergebracht, daß sie kaum leben können, und weil sie die wahre Ursache ihrer schlimmen Lage nicht einsehen, so suchen sie diese in allerlei Kleinigkeiten, hohen Weggeldern usw., die zwar die Ausbildung der Agrikultur und den Verkehr hemmen, aber doch von jedem, der eine Pachtung übernimmt, als bestehende Lasten in Anschlag gebracht und also eigentlich doch vom Grundeigentümer bezahlt werden.
+  en: But the competition among themselves and with their English neighbours (and the increased mortgages upon their land consequent upon this) has reduced them to such a state that they can scarcely live at all; and because they have not recognised the true cause of their wretched condition, they attribute it to all sorts of small causes, such as high tolls, etc, which do check the development of agriculture and commerce, but are taken into account as standing charges by every one who takes a holding, and are therefore really ultimately paid by the landlord.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '481'
+- id: X.14.6
+  kind: p
+  original: Dazu hat hier das neue Armengesetz, da die Pächter selbst stets in Gefahr schweben, ihm zu verfallen, auch unter ihnen sich gründlich verhaßt gemacht.
+  en: Here, too, the new Poor Law is cordially hated by the tenants, who hover in perpetual danger of coming under its sway.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '481'
+- id: X.14.7
+  kind: p
+  original: Im Februar 1843 brach die Unzufriedenheit der welschen Bauern in den bekannten Rebekka-Unruhen aus; die Männer zogen Weiberkleider an, schwärzten ihre Gesichter und fielen in zahlreichen bewaffneten Scharen über die Tore, die in England die Stelle der Schlagbäume vertreten, her, zerschlugen sie unter Jubelgeschrei und Schießen, demolierten auch die Häuschen der Weggeldempfänger, schrieben Drohbriefe im Namen der fingierten "Rebekka" und stürmten sogar einmal das Arbeitshaus in Caermarthen.
+  en: In 1843, the famous "Rebecca" disturbances broke out among the Welsh peasantry; the men dressed in women's clothing, blackened their faces, and fell in armed crowds upon the toll-gates, destroyed them amidst great rejoicing and firing of guns, demolished the toll-keepers' houses, wrote threatening letters in the name of the imaginary "Rebecca," and once went so far as to storm the workhouse of Carmarthen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '481'
+- id: X.14.8
+  kind: p
+  original: Als später Truppen einberufen und die Polizei verstärkt wurde, führten sie diese mit außerordentlicher Geschicklichkeit auf Abwege, zerstörten Tore hier, während das Militär, dem die Signalhörner von allen Bergen her voraustönten, in der entgegengesetzten Richtung marschierte, und gingen endlich, als die Truppen zu sehr verstärkt wurden, zu einzelnen Brandstiftungen und selbst Mordversuchen über.
+  en: Later, when the militia was called out and the police strengthened, the peasants drew them off with wonderful skill upon false scents, demolished toll-gates at one point while the militia, lured by false signal bugles, was marching in some opposite direction; and betook themselves finally, when the police was too thoroughly reinforced, to single incendiarisms and attempts at murder.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 481-482
+- id: X.14.9
+  kind: p
+  original: Wie immer, waren diese größeren Verbrechen das Ende der Bewegung.
+  en: As usual, these greater crimes were the end of the movement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.14.10
+  kind: p
+  original: Viele sagten sich aus Unwillen, andere aus Furcht los, und die Ruhe trat von selbst wieder ein.
+  en: Many withdrew from disapproval, others from fear, and peace was restored of itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.14.11
+  kind: p
+  original: Die Regierung schickte eine Kommission zur Untersuchung der Geschichte und ihrer Ursachen, und damit war alles am Ende.
+  en: The Government appointed a commission to investigate the affair and its causes, and there was an end of the matter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.14.12
+  kind: p
+  original: Die Armut der Bauern währt indes fort und wird, da sie bei den bestehenden Verhältnissen in der Gesellschaft nur größer, aber nicht geringer werden kann, gelegentlich einmal ernsthaftere Sachen produzieren als diese humoristischen Rebekka-Maskeraden.
+  en: The poverty of the peasantry continues, however, and will one day, since it cannot under existing circumstances grow less, but must go on intensifying, produce more serious manifestations than these humorous Rebecca masquerades.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.15.1
+  kind: p
+  original: Wenn in England das System der großen Bewirtschaftung und in Wales das der kleineren Pachtung in seinen Resultaten uns vorgeführt wird, so haben, wir in Irland die Folgen der Parzellierung des Bodens vor Augen.
+  en: If England illustrates the results of the system of farming on a large scale and Wales on a small one, Ireland exhibits the consequences of overdividing the soil.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.15.2
+  kind: p
+  original: Die große Masse der Bevölkerung von Irland besteht aus kleinen Pächtern, welche eine erbärmliche Lehmhütte ohne innere Abteilung und ein Kartoffelstück gepachtet haben, das gerade groß genug ist, um ihnen für den Winter die notdürftigste Nahrung zu verschaffen.
+  en: The great mass of the population of Ireland consists of small tenants who occupy a sorry hut without partitions, and a potato patch just large enough to supply them most scantily with potatoes through the winter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.15.3
+  kind: p
+  original: Bei der großen Konkurrenz, die zwischen diesen kleinen Pächtern herrscht, ist der Grundzins auf eine unerhörte Höhe, auf das Doppelte, Drei- und Vierfache des englischen gestiegen.
+  en: In consequence of the great competition which prevails among these small tenants, the rent has reached an unheard-of height, double, treble, and quadruple that paid in England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.15.4
+  kind: p
+  original: Denn jeder Ackerbautaglöhner sucht Pächter zu werden, und obwohl die Teilung der Ländereien schon so hoch gestiegen ist, so bleiben dennoch eine große Menge sich um Pachtungen bewerbender Taglöhner übrig.
+  en: For every agricultural labourer seeks to become a tenant-farmer, and though the division of land has gone so far, there still remain numbers of labourers in competition for plots.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.15.5
+  kind: p
+  original: Obgleich in Großbritannien 32 Millionen englische Morgen und in Irland nur 14 Millionen Morgen bebaut sind, obgleich Großbritannien jährlich für 150 Millionen Pfund Sterling und Irland nur für 36 Millionen Pfund Sterling Ackerbauprodukte erzeugt, so sind in Irland doch 75 000 Ackerbautaglöhner mehr als in der Nachbarinsel.
+  en: Although in Great Britain 32,000,000 acres of land are cultivated, and in Ireland but 14,000,000; although Great Britain produces agricultural products to the value of 150,000,000 pounds, and Ireland of but 36,000,000 pounds, there are in Ireland 75,000 agricultural proletarians more than in the neighbouring island.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - X.N2
+  mew_page: '482'
+- id: X.15.6
+  kind: p
+  original: Wie groß die Konkurrenz um den Boden also in Irland sein muß, geht aus diesem außerordentlichen Mißverhältnis hervor, besonders wenn man bedenkt, daß schon die britischen Taglöhner in der äußersten Not leben.
+  en: How great the competition for land in Ireland must be is evident from this extraordinary disproportion, especially when one reflects that the labourers in Great Britain are living in the utmost distress.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.15.7
+  kind: p
+  original: Die Folge dieser Konkurrenz ist natürlich ein so hoher Grundzins, daß es den Pächtern nicht möglich wird, viel besser zu leben als die Taglöhner.
+  en: The consequence of this competition is that it is impossible for the tenants to live much better than the labourers, by reason of the high rents paid.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.15.8
+  kind: p
+  original: Auf diese Weise wird das irische Volk in einer erdrückenden Armut gehalten, aus der es sich bei den jetzigen sozialen Verhältnissen nicht herausreißen kann.
+  en: The Irish people is thus held in crushing poverty, from which it cannot free itself under our present social conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '482'
+- id: X.15.9
+  kind: p
+  original: Die Leute leben in den elendesten Lehmhütten, die kaum zu Viehställen geeignet sind, haben den Winter über knappe Nahrung - oder wie der zitierte Bericht es ausdrückt, sie haben 30 Wochen im Jahr Kartoffeln genug, um sich halbsatt zu essen, und für die übrigen 22 Wochen gar nichts.
+  en: These people live in the most wretched clay huts, scarcely good enough for cattle-pens, have scant food all winter long, or, as the report above quoted expresses it, they have potatoes half enough thirty weeks in the year, and the rest of the year nothing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 482-483
+- id: X.15.10
+  kind: p
+  original: Kommt dann im Frühjahr die Zeit, wo der Vorrat zu Ende geht oder wegen der auswachsenden Keime ungenießbar wird, so geht die Frau mit ihren Kindern betteln und durchstreicht, den Teekessel in der Hand, die ganze Gegend, während der Mann nach bestellter Aussaat entweder im Lande selbst oder in England Arbeit sucht und zur Kartoffelernte sich wieder bei seiner Familie einfindet.
+  en: When the time comes in the spring at which this provision reaches its end, or can no longer be used because of its sprouting, wife and children go forth to beg and tramp the country with their kettle in their hands. Meanwhile the husband, after planting potatoes for the next year, goes in search of work either in Ireland or England, and returns at the potato harvest to his family.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.15.11
+  kind: p
+  original: In diesem Zustande leben neun Zehntel des irischen Landvolks.
+  en: This is the condition in which nine-tenths of the Irish country folks live.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+- id: X.15.12
+  kind: p
+  original: Sie sind arm wie die Kirchenmäuse, tragen die elendesten Lumpen und stehen auf der tiefsten Bildungsstufe, die in einem halbzivilisierten Lande möglich ist.
+  en: They are poor as church mice, wear the most wretched rags, and stand upon the lowest plane of intelligence possible in a half-civilised country.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+- id: X.15.13
+  kind: p
+  original: Nach dem zitierten Bericht leben unter einer Bevölkerung von 8 1/2 Millionen 585 000 Familienhäupter in totaler Armut (destitution), und nach andern, von Sheriff Alison angeführten, Quellen sind in Irland 2 300 000 Menschen, die ohne öffentliche oder Privatunterstützung nicht leben können; also sind 27 Prozent der Bevölkerung Paupers!
+  en: According to the report quoted, there are, in a population of 8.5 millions, 585,000 heads of families in a state of total destitution; and according to other authorities, cited by Sheriff Alison, there are in Ireland 2,300,000 persons who could not live without public or private assistance--or 27 per cent. of the whole population paupers!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - X.N3
+  mew_page: '483'
+- id: X.16.1
+  kind: p
+  original: Die Ursache dieser Armut sind die bestehenden sozialen Verhältnisse, namentlich die Konkurrenz, nur hier in einer andern Form, in der der Parzellierung des Bodens.
+  en: The cause of this poverty lies in the existing social conditions, especially in competition here found in the form of the subdivision of the soil.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+- id: X.16.2
+  kind: p
+  original: Man hat sich abgemüht, andere Ursachen aufzufinden; man behauptet, die Stellung des Pächters zum Grundbesitzer, der seine Ländereien in großen Stücken an Pächter verdingt, die wieder ihre Unterpächter und Unter-Unterpächter haben, so daß oft zehn Zwischendränger zwischen dem Grundbesitzer und dem eigentlichen Bebauer sind - man hat behauptet, das allerdings schändliche Gesetz, das dem Grundbesitzer das Recht gibt, wenn sein nächster Pächter nicht bezahlt, den wirklichen Bebauer wegzutreiben, selbst wenn dieser an seinen Oberpächter seinen Zins bezahlt hat, das sei Schuld an der Armut.
+  en: Much effort has been spent in finding other causes. It has been asserted that the relation of the tenant to the landlord who lets his estate in large lots to tenants, who again have their sub-tenants, and sub-sub-tenants, in turn, so that often ten middlemen come between the landlord and the actual cultivator--it has been asserted that the shameful law which gives the landlord the right of expropriating the cultivator who may have paid his rent duly, if the first tenant fails to pay the landlord, that this law is to blame for all this poverty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.16.3
+  kind: p
+  original: Aber dies bedingt ja nur die Form, in der das Elend zur Erscheinung kommt.
+  en: But all this determines only the form in which the poverty manifests itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+- id: X.16.4
+  kind: p
+  original: Macht die kleinen Pächter selbst zu Grundbesitzern, was wird die Folge sein?
+  en: Make the small tenant a landowner himself and what follows?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+- id: X.16.5
+  kind: p
+  original: Die Mehrzahl wird selbst dann, wenn sie keine Pacht mehr zu bezahlen hat, nicht von ihrem Felde leben können, und was sich etwa bessert, wird durch den fortwährenden raschen Zuwachs der Bevölkerung in wenig Jahren wieder ausgeglichen.
+  en: The majority could not live upon their holdings even if they had no rent to pay, and any slight improvement which might take place would be lost again in a few years in consequence of the rapid increase of population.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+- id: X.16.6
+  kind: p
+  original: Denen, die dadurch in bessere Verhältnisse kommen, wachsen dann die Kinder heran, die jetzt infolge der Not und des Mangels in den ersten Jahren sterben.
+  en: The children would then live to grow up under the improved conditions who now die in consequence of poverty in early childhood.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+- id: X.16.7
+  kind: p
+  original: Von andern Seiten ist behauptet worden, die schamlose Unterdrückung des Volks durch die Engländer sei schuld daran.
+  en: From another side comes the assertion that the shameless oppression inflicted by the English is the cause of the trouble.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+- id: X.16.8
+  kind: p
+  original: Allerdings daran, daß die Armut etwas früher eintrat, aber nicht daran, daß sie überhaupt eintrat.
+  en: It is the cause of the somewhat earlier appearance of this poverty, but not of the poverty itself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '483'
+- id: X.16.9
+  kind: p
+  original: Oder die protestantische Staatskirche, die der katholischen Nation aufgedrängt wurde - verteilt auf die Irländer das, was sie nimmt, und es kommen noch keine zwei Taler auf den Kopf.
+  en: Or the blame is laid on the Protestant Church forced upon a Catholic nation; but divide among the Irish what the Church takes from them, and it does not reach six shillings a head.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 483-484
+- id: X.16.10
+  kind: p
+  original: Ohnehin sind die Zehnten ja eine Steuer auf den Grundbesitz, nicht auf den Pächter, obwohl dieser sie auszahlte; jetzt - nach der Kommutationsbill von 1838 - bezahlt der Grundbesitzer sie direkt und rechnet dafür soviel mehr Pacht, so daß der Pächter darum nicht besser dran ist.
+  en: Besides, tithes are a tax upon landed property, not upon the tenant, though he may nominally pay them; now, since the Commutation Bill of 1838, the landlord pays the tithes directly and reckons so much higher rent, so that the tenant is none the better off.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T3
+    editions: '1892'
+    reading: Kommutationsakte
+    base_text: … - nach der Kommutationsbill ‸ von 1838 - bezahlt …
+  mew_page: '484'
+- id: X.16.11
+  kind: p
+  original: Und so werden noch hundert andere Ursachen angeführt, die ebensowenig beweisen.
+  en: And in the same way a hundred other causes of this poverty are brought forward, all proving as little as these.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '484'
+- id: X.16.12
+  kind: p
+  original: Die Armut ist eine notwendige Folge der gegenwärtigen sozialen Einrichtungen, und außer diesen kann nur für die Art und Weise, in der die Armut auftritt, nicht aber für die Armut selbst eine Ursache gesucht werden.
+  en: This poverty is the result of our social conditions; apart from these, causes may be found for the manner in which it manifests itself, but not for the fact of its existence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '484'
+- id: X.16.13
+  kind: p
+  original: Daß aber die Armut in Irland so und nicht anders auftritt, daran ist der nationale Charakter des Volks und seine geschichtliche Entwicklung schuld.
+  en: That poverty manifests itself in Ireland thus and not otherwise, is owing to the character of the people, and to their historical development.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '484'
+- id: X.16.14
+  kind: p
+  original: Die Irländer sind ein seinem ganzen Charakter nach mit den romanischen Nationen, den Franzosen und besonders den Italienern, verwandtes Volk.
+  en: The Irish are a people related in their whole character to the Latin nations, to the French, and especially to the Italians.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T4
+    editions: '1892'
+    reading: dem
+    base_text: … Irländer sind ein seinem ‸ ganzen Charakter nach mit …
+  mew_page: '484'
+- id: X.16.15
+  kind: p
+  original: 'Die schlechten Seiten ihrer Nationalität haben wir oben schon von Carlyle entwickelt gesehen; hören wir nun einen Irländer, der wenigstens etwas mehr recht hat als der für das germanische Wesen eingenommene Carlyle:'
+  en: 'The bad features of their character we have already had depicted by Carlyle. Let us now hear an Irishman, who at least comes nearer to the truth than Carlyle, with his prejudice in favour of the Teutonic character:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '484'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.17.1
+  kind: p
+  original: '"Sie sind unruhig und doch träg (indolent); aufgeweckt und indiskret, stürmisch, ungeduldig und ohne Voraussicht; tapfer aus Instinkt, großmütig, ohne viel zu überlegen; rasch bei der Hand, um Beleidigungen zu rächen und zu vergeben, Freundschaften zu schließen und aufzujagen; verschwenderisch begabt mit Genie, sparsam mit Urteilskraft."'
+  en: '"They are restless, yet indolent, clever and indiscreet, stormy, impatient, and improvident; brave by instinct, generous without much reflection, quick to revenge and forgive insults, to make and to renounce friendships, gifted with genius prodigally, sparingly with judgment."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - X.N4
+  mew_page: '484'
+- id: X.18.1
+  kind: p
+  original: Bei den Irländern herrscht das Gefühl, die Leidenschaft durchaus vor, der Verstand muß sich ihnen fügen.
+  en: With the Irish, feeling and passion predominate; reason must bow before them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '484'
+- id: X.18.2
+  kind: p
+  original: Ihr sinnliches, erregbares Wesen läßt die Überlegung und ruhige, anhaltende Tätigkeit nicht zur Entwicklung kommen - ein solches Volk taugt zur Industrie, wie sie jetzt betrieben wird, durchaus nicht.
+  en: Their sensuous, excitable nature prevents reflection and quiet, persevering activity from reaching development--such a nation is utterly unfit for manufacture as now conducted.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '484'
+- id: X.18.3
+  kind: p
+  original: Daher blieben sie beim Ackerbau, und selbst hier auf der niedrigsten Stufe.
+  en: Hence they held fast to agriculture, and remained upon the lowest plane even of that.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '484'
+- id: X.18.4
+  kind: p
+  original: Bei den kleinen Parzellen, die hier nicht, wie in Frankreich und am Rhein, künstlich aus der Zersplitterung großer Güter entstanden, sondern von jeher dagewesen sind, war an eine Verbesserung des Bodens durch angelegtes Kapital nicht zu denken, und so würde es nach Alisons Angabe 120 Millionen Pfd. St. erfordern, um den Boden in Irland auf dieselbe, noch gar nicht so hohe Stufe der Produktivität zu bringen, welche der englische Boden erhalten hat.
+  en: With the small subdivisions of land, which were not here artificially created, as in France and on the Rhine, by the division of great estates, but have existed from time immemorial, an improvement of the soil by the investment of capital was not to be thought of; and it would, according to Alison, require 120 million pounds sterling to bring the soil up to the not very high state of fertility already attained in England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - X.N5
+  mew_page: 484-485
+- id: X.18.5
+  kind: p
+  original: Die englische Einwanderung, welche die Kulturstufe des irischen Volks hätte heben können, hat sich mit der brutalsten Ausbeutung desselben begnügt, und während die Irländer durch ihre Einwanderung der englischen Nation einen Gärungsstoff mitgeteilt haben, der in der Zukunft seine Früchte tragen wird, so hat Irland doch der englischen Einwanderung wenig zu verdanken.
+  en: The English immigration, which might have raised the standard of Irish civilisation, has contented itself with the most brutal plundering of the Irish people; and while the Irish, by their immigration into England, have furnished England a leaven which will produce its own results in the future, they have little for which to be thankful to the English immigration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+- id: X.19.1
+  kind: p
+  original: Die Versuche der irischen Nation, sich aus der bestehenden Verkommenheit zu retten, sind einerseits Verbrechen, die hier in den Landdistrikten an der Tagesordnung sind und fast alle in Mordtaten gegen die nächsten Feinde - die Agenten der Grundbesitzer oder deren gehorsame Diener, die protestantischen Eindringlinge, die großen Pächter, deren Gut aus den Kartoffelfeldern von hundert vertriebenen Familien zusammengesetzt usw. - bestehen und namentlich im Süden und Westen häufig vorkommen; andererseits in der Repeal-Agitation.
+  en: The attempts of the Irish to save themselves from their present ruin, on the one hand, take the form of crimes. These are the order of the day in the agricultural districts, and are nearly always directed against the most immediate enemies, the landlord's agents, or their obedient servants, the Protestant intruders, whose large farms are made up of the potato patches of hundreds of ejected families. Such crimes are especially frequent in the South and West. On the other hand, the Irish hope for relief by means of the agitation for the repeal of the Legislative Union with England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+  align: '1:4'
+  review: true
+  review_reason: 1 de sentence(s) matched to 4 en sentence(s)
+- id: X.19.2
+  kind: p
+  original: Nach dem oben Gesagten ist es klar, daß die ungebildeten Irländer in den Engländern ihre nächsten Feinde sehen müssen und der nächste Fortschritt für sie in der Erringung nationaler Selbständigkeit liegt.
+  en: From all the foregoing, it is clear that the uneducated Irish must see in the English their worst enemies; and their first hope of improvement in the conquest of national independence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+- id: X.19.3
+  kind: p
+  original: Ebenso klar ist aber auch, daß die Armut durch keine Repeal mit abgeschafft, sondern daß durch sie nur bewiesen werden kann, wie die Ursache des irischen Elends, die jetzt noch auswärts zu liegen scheint, zu Hause zu suchen ist.
+  en: But quite as clear is it, too, that Irish distress cannot be removed by any Act of Repeal. Such an Act would, however, at once lay bare the fact that the cause of Irish misery, which now seems to come from abroad, is really to be found at home.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.19.4
+  kind: p
+  original: Ob indes die wirkliche Durchführung der Repeal nötig ist, um den Irländern zu dieser Einsicht zu verhelfen, will ich dahingestellt sein lassen.
+  en: Meanwhile, it is an open question whether the accomplishment of repeal will be necessary to make this clear to the Irish.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+- id: X.19.5
+  kind: p
+  original: Bis jetzt haben weder der Chartismus noch der Sozialismus besondern Erfolg in Irland gehabt.
+  en: Hitherto, neither Chartism nor Socialism has had marked success in Ireland.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+- id: X.20.1
+  kind: p
+  original: Ich schließe meine Bemerkungen über Irland hiermit um so eher, als die Repeal-Agitation von 1843 und der O'Connellsche Prozeß die Veranlassung waren, daß das irische Elend in Deutschland mehr und mehr bekannt wurde.
+  en: I close my observations upon Ireland at this point the more readily, as the Repeal Agitation of 1843 and O'Connell's trial have been the means of making the Irish distress more and more known in Germany.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+- id: X.21.1
+  kind: p
+  original: So haben wir denn das Proletariat der britischen Inseln durch alle Zweige seiner Tätigkeit verfolgt und überall Elend und Not, überall durchaus unmenschliche Lebensverhältnisse gefunden.
+  en: We have now followed the proletariat of the British Islands through all branches of its activity, and found it everywhere living in want and misery under totally inhuman conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+- id: X.21.2
+  kind: p
+  original: Wir haben mit dem Proletariat die Unzufriedenheit entstehen, wachsen, sich ausbilden und organisieren, wir haben offne, blutige und unblutige Kämpfe des Proletariats gegen die Bourgeoisie gesehen.
+  en: We have seen discontent arise with the rise of the proletariat, grow, develop, and organise; we have seen open bloodless and bloody battles of the proletariat against the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+- id: X.21.3
+  kind: p
+  original: Wir haben die Prinzipien untersucht, nach denen das Schicksal, die Hoffnungen und Befürchtungen der Proletarier sich bestimmen, und gefunden, daß keine Aussicht auf Besserung ihrer Lage da ist.
+  en: We have investigated the principles according to which the fate, the hopes, and fears of the proletariat are determined, and we have found that there is no prospect of improvement in their condition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+- id: X.21.4
+  kind: p
+  original: Wir haben Gelegenheit gehabt, hier und da die Bourgeoisie in ihrem Benehmen gegen das Proletariat zu beobachten, und gefunden, daß sie nur sich im Auge hatte, nur ihren eignen Vorteil verfolgte.
+  en: We have had an opportunity, here and there, of observing the conduct of the bourgeoisie towards the proletariat, and we have found that it considers only itself, has only its own advantage in view.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+- id: X.21.5
+  kind: p
+  original: Um indes nicht ungerecht zu sein, wollen wir ihre Handlungsweise etwas näher untersuchen.
+  en: However, in order not to be unjust, let us investigate its mode of action somewhat more exactly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '485'
+- id: X.N1.1.1
+  kind: note
+  original: E.C. Wakefield, M. P., "Swing unmasked, or the Causes of Rural Incendiarism" [Der entlarvte Swing (siehe hierzu S. 478/79), oder die Ursachen der ländlichen Brandstiftungen], London 1831.
+  en: E. G. Wakefield, M.P. "Swing Unmasked; or, The Cause of Rural Incendiarism." London, 1831.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {264}.
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: X.N1.1.2
+  kind: note
+  original: '- Pamphlet.'
+  en: Pamphlet.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.N1.1.3
+  kind: note
+  original: Die obigen Zitate stehen p. 9 - 13, und sind die Stellen, welche sich im Original auf das damals noch bestehende alte Armengesetz beziehen, in der Übersetzung weggelassen.
+  en: The foregoing extracts may be found pp. 9-13, the passages dealing in the original with the then still existing Old Poor Law being here omitted.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.N2.1.1
+  kind: note
+  original: Bericht der Armengesetz-Kommission über Irland.
+  en: Report of the Poor Law Commission upon Ireland.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {272a}.
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: X.N2.1.2
+  kind: note
+  original: Parlamentssession von 1837.
+  en: ''
+  joined_to: X.N2.1.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+- id: X.N3.1.1
+  kind: note
+  original: Principles of Population", II. vol.
+  en: '"Principles of Population," vol. ii.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {272b}.
+- id: X.N4.1.1
+  kind: note
+  original: '"The State of Ireland" [Der Zustand Irlands].'
+  en: '"The State of Ireland."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {273}.
+- id: X.N4.1.2
+  kind: note
+  original: London 1807; 2nd edition 1821.
+  en: London, 1807; 2nd Ed., 1821.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.N4.1.3
+  kind: note
+  original: '- Pamphlet.'
+  en: Pamphlet.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: X.N5.1.1
+  kind: note
+  original: (1892) Irrtum.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: added by Engels in 1892
+  en_note: Not paired with a footnote of the 1892 English. Wischnewetzky's footnotes that the ingest could not pair are kept in en_note on the verse they belong to.
+- id: X.N5.1.2
+  kind: note
+  original: Der kleine Ackerbau war seit dem Mittelalter herrschende Betriebsform geblieben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: added by Engels in 1892
+- id: X.N5.1.3
+  kind: note
+  original: Die kleinen Bauernhöfe bestanden also schon vor der Revolution.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: added by Engels in 1892
+- id: X.N5.1.4
+  kind: note
+  original: Was diese änderte, war nur das Eigentum daran; sie nahm es den Feudalherren und übertrug es, direkt oder indirekt, an die Bauern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  note_edition: added by Engels in 1892

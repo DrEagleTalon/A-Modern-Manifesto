@@ -1,0 +1,2335 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: XI
+title_original: Die Stellung der Bourgeoisie zum Proletariat
+title_en: The Attitude of the Bourgeoisie towards the Proletariat
+author: Friedrich Engels
+date: 1844-11/1845-03
+original_language: de
+anchor_language: de
+source_original: MEW 2, S. 225-506 (Dietz, Berlin 1972) via mlwerke.de; text of the first edition (Leipzig 1845), readings of the second edition (Stuttgart 1892) as variants
+source_en: Florence Kelley Wischnewetzky's translation (New York 1887) in the London edition of 1892 (Swan Sonnenschein), Project Gutenberg ebook 17306 (public domain)
+verses:
+- id: XI.0.1
+  kind: heading
+  original: Die Stellung der Bourgeoisie zum Proletariat
+  en: THE ATTITUDE OF THE BOURGEOISIE TOWARDS THE PROLETARIAT.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.1.1
+  kind: p
+  original: Wenn ich hier von der Bourgeoisie spreche, so schließe ich gleich die sogenannte Aristokratie mit ein, denn diese ist nur Aristokratie, nur privilegiert gegenüber der Bourgeoisie, aber nicht gegenüber dem Proletariat.
+  en: In speaking of the bourgeoisie I include the so-called aristocracy, for this is a privileged class, an aristocracy, only in contrast with the bourgeoisie, not in contrast with the proletariat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '486'
+- id: XI.1.2
+  kind: p
+  original: Der Proletarier sieht in ihnen beiden nur den Besitzenden, d.h. den Bourgeois.
+  en: The proletarian sees in both only the property-holder--i.e., the bourgeois.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '486'
+- id: XI.1.3
+  kind: p
+  original: Vor dem Privilegium des Besitzes verschwinden alle andern Privilegien.
+  en: Before the privilege of property all other privileges vanish.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '486'
+- id: XI.1.4
+  kind: p
+  original: Der Unterschied ist nur der, daß der eigentliche Bourgeois dem industriellen und teilweise dem Bergwerksproletarier, als Pächter auch dem Ackerbautaglöhner gegenübersteht, während der sogenannte Aristokrat nur mit einem Teil der bergbauenden und mit den ackerbauenden Proletariern in Berührung kommt.
+  en: The sole difference is this, that the bourgeois proper stands in active relations with the manufacturing, and, in a measure, with the mining proletarians, and, as farmer, with the agricultural labourers, whereas the so-called aristocrat comes into contact with the agricultural labourer only.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '486'
+- id: XI.2.1
+  kind: p
+  original: Mir ist nie eine so tief demoralisierte, eine so unheilbar durch den Eigennutz verderbte, innerlich zerfressene und für allen Fortschritt unfähig gemachte Klasse vorgekommen wie die englische Bourgeoisie - und hier meine ich vor allem die eigentliche Bourgeoisie, besonders die liberale, Korngesetzabschaffende.
+  en: I have never seen a class so deeply demoralised, so incurably debased by selfishness, so corroded within, so incapable of progress, as the English bourgeoisie; and I mean by this, especially the bourgeoisie proper, particularly the Liberal, Corn Law repealing bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '486'
+- id: XI.2.2
+  kind: p
+  original: Für sie existiert nichts in der Welt, was nicht nur um des Geldes willen da wäre, sie selbst nicht ausgenommen, denn sie lebt für nichts, als um Geld zu verdienen, sie kennt keine Seligkeit als die des schnellen Erwerbs, keinen Schmerz außer dem Geldverlieren.
+  en: For it nothing exists in this world, except for the sake of money, itself not excluded. It knows no bliss save that of rapid gain, no pain save that of losing gold.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - XI.N1
+  mew_page: '486'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.2.3
+  kind: p
+  original: Bei dieser Habsucht und Geldgier ist es nicht möglich, daß eine einzige menschliche Anschauung unbefleckt bleibe.
+  en: In the presence of this avarice and lust of gain, it is not possible for a single human sentiment or opinion to remain untainted.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '486'
+- id: XI.2.4
+  kind: p
+  original: Gewiß, diese englischen Bourgeois sind gute Ehemänner und Familienmitglieder, haben auch sonst allerlei sogenannte Privattugenden und erscheinen im gewöhnlichen Verkehr ebenso respektabel und anständig wie alle anderen Bourgeois; selbst im Handel sind sie besser zu traktieren wie die Deutschen, sie mäkeln und dingen nicht soviel wie unsere Krämerseelen, aber was hilft das alles?
+  en: True, these English bourgeois are good husbands and family men, and have all sorts of other private virtues, and appear, in ordinary intercourse, as decent and respectable as all other bourgeois; even in business they are better to deal with than the Germans; they do not higgle and haggle so much as our own pettifogging merchants; but how does this help matters?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 486-487
+- id: XI.2.5
+  kind: p
+  original: In letzter Instanz ist doch das eigne Interesse und speziell der Gelderwerb das einzig entscheidende Moment.
+  en: Ultimately it is self-interest, and especially money gain, which alone determines them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.6
+  kind: p
+  original: Ich ging einmal mit einem solchen Bourgeois nach Manchester hinein und sprach mit ihm von der schlechten, ungesunden Bauart, von dem scheußlichen Zustande der Arbeiterviertel und erklärte, nie eine so schlecht gebaute Stadt gesehen zu haben.
+  en: I once went into Manchester with such a bourgeois, and spoke to him of the bad, unwholesome method of building, the frightful condition of the working-people's quarters, and asserted that I had never seen so ill-built a city.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.7
+  kind: p
+  original: 'Der Mann hörte das alles ruhig an, und an der Ecke, wo er mich verließ, sagte er: And yet, there is a great deal of money made here - und doch wird hier enorm viel Geld verdient - guten Morgen, Herr!'
+  en: 'The man listened quietly to the end, and said at the corner where we parted: "And yet there is a great deal of money made here; good morning, sir."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.8
+  kind: p
+  original: Es ist dem englischen Bourgeois durchaus gleichgültig, oh seine Arbeiter verhungern oder nicht, wenn er nur Geld verdient.
+  en: It is utterly indifferent to the English bourgeois whether his working-men starve or not, if only he makes money.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.9
+  kind: p
+  original: Alle Lebensverhältnisse werden nach dem Gelderwerb gemessen, und was kein Geld abwirft, das ist dummes Zeug, unpraktisch, idealistisch.
+  en: All the conditions of life are measured by money, and what brings no money is nonsense, unpractical, idealistic bosh.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.10
+  kind: p
+  original: Darum ist auch die Nationalökonomie, die Wissenschaft des Gelderwerbs, die Lieblingswissenschaft dieser Schacherjuden.
+  en: Hence, Political Economy, the Science of Wealth, is the favourite study of these bartering Jews.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.11
+  kind: p
+  original: Jeder ist Nationalökonom.
+  en: Every one of them is a Political Economist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.12
+  kind: p
+  original: Das Verhältnis des Fabrikanten zum Arbeiter ist kein menschliches, sondern ein rein ökonomisches.
+  en: The relation of the manufacturer to his operatives has nothing human in it; it is purely economic.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.13
+  kind: p
+  original: Der Fabrikant ist das "Kapital", der Arbeiter ist die "Arbeit".
+  en: The manufacturer is Capital, the operative Labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.14
+  kind: p
+  original: Und wenn der Arbeiter sich nicht in diese Abstraktion hineinzwängen lassen will, wenn er behauptet, daß er nicht "die Arbeit", sondern ein Mensch ist, der allerdings unter anderem auch die Eigenschaft des Arbeitens hat, wenn er sich einfallen läßt zu glauben, er brauche sich nicht als "die Arbeit", als Ware im Markte kaufen und verkaufen zu lassen, so steht dem Bourgeois der Verstand still.
+  en: And if the operative will not be forced into this abstraction, if he insists that he is not Labour, but a man, who possesses, among other things, the attribute of labour force, if he takes it into his head that he need not allow himself to be sold and bought in the market, as the commodity "Labour," the bourgeois reason comes to a standstill.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.15
+  kind: p
+  original: Er kann nicht begreifen, daß er mit den Arbeitern noch in einem andern Verhältnis steht als in dem des Kaufs und Verkaufs, er sieht in ihnen keine Menschen, sondern "Hände" (hands), wie er sie fortwährend ins Gesicht tituliert, er erkennt keine andere Verbindung, wie Carlyle sagt, zwischen Mensch und Mensch an, als bare Zahlung.
+  en: He cannot comprehend that he holds any other relation to the operatives than that of purchase and sale; he sees in them not human beings, but hands, as he constantly calls them to their faces; he insists, as Carlyle says, that "Cash Payment is the only nexus between man and man."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.2.16
+  kind: p
+  original: Selbst das Band zwischen ihm und seiner Frau ist in neunundneunzig Fällen aus hundert nur "bare Zahlung".
+  en: ''
+  joined_to: XI.2.15
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '487'
+- id: XI.2.17
+  kind: p
+  original: Die elende Sklaverei, in der das Geld den Bourgeois hält, ist durch die Bourgeoisieherrschaft selbst der Sprache aufgedrückt.
+  en: Even the relation between himself and his wife is, in ninety-nine cases out of a hundred, mere "Cash Payment."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.18
+  kind: p
+  original: Das Geld macht den Wert des Mannes aus; dieser Mann ist zehntausend Pfund wert - he is worth ten thousand pounds, d.h. er besitzt sie.
+  en: Money determines the worth of the man; he is "worth ten thousand pounds."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.19
+  kind: p
+  original: Wer Geld hat, ist "respectable", gehört zur "besseren Sorte von Leuten" (the better sort of people), ist "einflußreich" (influential), und was er tut, macht Epoche in seinem Kreise.
+  en: He who has money is of "the better sort of people," is "influential," and what he does counts for something in his social circle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.20
+  kind: p
+  original: Der Schachergeist geht durch die ganze Sprache, alle Verhältnisse werden in Handelsausdrücken dargestellt, in ökonomischen Kategorien erklärt.
+  en: The huckstering spirit penetrates the whole language, all relations are expressed in business terms, in economic categories.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.21
+  kind: p
+  original: Nachfrage und Zufuhr, Begehr und Angebot, supply and demand, das sind die Formeln, nach denen die Logik des Engländers das ganze menschliche Leben beurteilt.
+  en: Supply and demand are the formulas according to which the logic of the English bourgeois judges all human life.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '487'
+- id: XI.2.22
+  kind: p
+  original: Daher die freie Konkurrenz in jeder Beziehung, daher das Regime des laissez-faire und laissez-aller in der Verwaltung, in der Medizin, in der Erziehung und bald wohl auch in der Religion, wo die Herrschaft der Staatskirche mehr und mehr zusammenbricht.
+  en: Hence free competition in every respect, hence the regime of laissez-faire, laissez-aller in government, in medicine, in education, and soon to be in religion, too, as the State Church collapses more and more.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 487-488
+- id: XI.2.23
+  kind: p
+  original: Die freie Konkurrenz will keine Beschränkung, keine Staatsaufsicht, der ganze Staat ist ihr zur Last, sie wäre am vollkommensten in einem ganz staatlosen Zustande, wo jeder den andern nach Herzenslust ausbeuten kann, wie z.B. in Freund Stirners "Verein".
+  en: Free competition will suffer no limitation, no State supervision; the whole State is but a burden to it. It would reach its highest perfection in a wholly ungoverned anarchic society, where each might exploit the other to his heart's content.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.2.24
+  kind: p
+  original: Da die Bourgeoisie aber den Staat, schon um das ihr ebenso nötige Proletariat im Zaum zu halten, nicht entbehren kann, so wendet sie ihn gegen dies und sucht ihn sich soweit wie möglich entfernt zu halten.
+  en: Since, however, the bourgeoisie cannot dispense with government, but must have it to hold the equally indispensable proletariat in check, it turns the power of government against the proletariat and keeps out of its way as far as possible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+- id: XI.3.1
+  kind: p
+  original: Man glaube aber ja nicht, daß der "gebildete" Engländer diese Selbstsucht so offen zur Schau trage.
+  en: Let no one believe, however, that the "cultivated" Englishman openly brags with his egotism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+- id: XI.3.2
+  kind: p
+  original: Im Gegenteil, er verdeckt sie mit der schnödesten Heuchelei.
+  en: On the contrary, he conceals it under the vilest hypocrisy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+- id: XI.3.3
+  kind: p
+  original: '- Wie, die englischen Reichen sollten nicht an die Armen denken, sie, die wohltätige Anstalten errichtet haben, wie kein anderes Land sie aufweisen kann?'
+  en: What? The wealthy English fail to remember the poor? They who have founded philanthropic institutions, such as no other country can boast of!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: XI.3.4
+  kind: p
+  original: Jawohl, wohltätige Anstalten!
+  en: Philanthropic institutions forsooth!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+- id: XI.3.5
+  kind: p
+  original: Als ob dem Proletarier damit gedient wäre, daß ihr ihn erst bis aufs Blut aussaugt, um nachher eure selbstgefälligen, pharisäischen Wohltätigkeitskitzel an ihm üben zu können und vor der Welt als gewaltige Wohltäter der Menschheit dazustehen, wenn ihr dem Ausgesogenen den hundertsten Teil dessen wiedergebt, was ihm zukommt!
+  en: As though you rendered the proletarians a service in first sucking out their very life-blood and then practising your self-complacent, Pharisaic philanthropy upon them, placing yourselves before the world as mighty benefactors of humanity when you give back to the plundered victims the hundredth part of what belongs to them!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+- id: XI.3.6
+  kind: p
+  original: Wohltätigkeit, die den, der sie gibt, noch mehr entmenscht als den, der sie nimmt, Wohltätigkeit, die den Zertretenen noch tiefer in den Staub tritt, die da verlangt, der entmenschte, aus der Gesellschaft ausgestoßene Paria soll erst auf sein Letztes, auf seinen Anspruch an die Menschheit verzichten, soll erst um ihre Gnade betteln, ehe sie die Gnade hat, ihm durch ein Almosen den Stempel der Entmenschung auf die Stirne zu drücken!
+  en: Charity which degrades him who gives more than him who takes; charity which treads the downtrodden still deeper in the dust, which demands that the degraded, the pariah cast out by society, shall first surrender the last that remains to him, his very claim to manhood, shall first beg for mercy before your mercy deigns to press, in the shape of an alms, the brand of degradation upon his brow.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+- id: XI.3.7
+  kind: p
+  original: Doch was soll das alles.
+  en: But let us hear the English bourgeoisie's own words.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.3.8
+  kind: p
+  original: Hören wir die englische Bourgeoisie selbst.
+  en: ''
+  joined_to: XI.3.7
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '488'
+- id: XI.3.9
+  kind: p
+  original: 'Es ist noch kein Jahr, da las ich im "Manchester Guardian" folgenden Brief an den Redakteur, der ohne alle weitere Bemerkung als eine ganz natürliche, vernünftige Sache abgedruckt war:'
+  en: 'It is not yet a year since I read in the Manchester Guardian the following letter to the editor, which was published without comment as a perfectly natural, reasonable thing:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.4.1
+  kind: p
+  original: Herr Redakteur!
+  en: ''
+  joined_to: XI.3.9
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '488'
+- id: XI.5.1
+  kind: p
+  original: Seit einiger Zeit begegnet man auf den Hauptstraßen unserer Stadt einer Menge von Bettlern, die teils durch ihre zerlumpte Kleidung und ihr krankes Aussehen, teils durch ekelhafte, offne Wunden und Verstümmelungen das Mitleid der Vorübergehenden auf eine häufig sehr unverschämte und molestierende Weise rege zu machen suchen.
+  en: '"MR. EDITOR,--For some time past our main streets are haunted by swarms of beggars, who try to awaken the pity of the passers-by in a most shameless and annoying manner, by exposing their tattered clothing, sickly aspect, and disgusting wounds and deformities.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '488'
+- id: XI.5.2
+  kind: p
+  original: Ich sollte meinen, wenn man nicht nur seine Armensteuer bezahlt, sondern auch reichlich zu den wohltätigen Anstalten beiträgt, so hätte man doch genug getan, um das Recht zu haben, vor solchen unangenehmen und unverschämten Behelligungen sichergestellt zu werden, und wofür bezahlt man denn eine so hohe Steuer zum Unterhalt der städtischen Polizei, wenn diese einen nicht einmal so weit schützt, daß man ruhig in die Stadt oder heraus gehn kann?
+  en: I should think that when one not only pays the poor-rate, but also contributes largely to the charitable institutions, one had done enough to earn a right to be spared such disagreeable and impertinent molestations. And why else do we pay such high rates for the maintenance of the municipal police, if they do not even protect us so far as to make it possible to go to or out of town in peace?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 488-489
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.5.3
+  kind: p
+  original: '- Ich hoffe, die Veröffentlichung dieser Zeilen in ihrem vielgelesenen Blatt wird die öffentliche Gewalt veranlassen, diesen Übelstand (nuisance) zu beseitigen, und verharre Ihre ergebene Dienerin'
+  en: I hope the publication of these lines in your widely-circulated paper may induce the authorities to remove this nuisance; and I remain,--Your obedient servant,
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.6.1
+  kind: signature
+  original: Eine Dame
+  en: '"A LADY."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.7.1
+  kind: p
+  original: Da habt ihr's!
+  en: There you have it!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.7.2
+  kind: p
+  original: 'Die englische Bourgeoisie ist wohltätig aus Interesse, sie schenkt nichts weg, sie betrachtet ihre Gaben als einen Handel, sie macht mit den Armen ein Geschäft und sagt: Wenn ich soviel an wohltätige Zwecke verwende, so erkaufe ich mir dadurch das Recht, weiter nicht behelligt zu werden, so verpflichtet ihr euch dafür, in euren dunklen Höhlen zu bleiben und nicht durch die offne Darlegung eures Elends meine zarten Nerven anzugreifen!'
+  en: 'The English bourgeoisie is charitable out of self-interest; it gives nothing outright, but regards its gifts as a business matter, makes a bargain with the poor, saying: "If I spend this much upon benevolent institutions, I thereby purchase the right not to be troubled any further, and you are bound thereby to stay in your dusky holes and not to irritate my tender nerves by exposing your misery.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.7.3
+  kind: p
+  original: Verzweifeln sollt ihr immerhin, aber ihr sollt im stillen verzweifeln, das bedinge ich mir aus, das erkaufe ich mir mit meiner Subskription von 20 Pfund für das Krankenhaus!
+  en: You shall despair as before, but you shall despair unseen, this I require, this I purchase with my subscription of twenty pounds for the infirmary!"
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.7.4
+  kind: p
+  original: 0 über diese infame Wohltätigkeit eines christlichen Bourgeois!
+  en: It is infamous, this charity of a Christian bourgeois!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.7.5
+  kind: p
+  original: '- Und so schreibt "eine Dame", jawohl, Dame, sie tut wohl daran, so zu unterzeichnen, sie hat glücklicherweise nicht mehr den Mut, sich ein Weib zu nennen!'
+  en: And so writes "A Lady;" she does well to sign herself such, well that she has lost the courage to call herself a woman!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.7.6
+  kind: p
+  original: Wenn aber die "Damen" so sind, wie wird es erst mit "Herren" stehen?
+  en: But if the "Ladies" are such as this, what must the "Gentlemen" be?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.7.7
+  kind: p
+  original: Man wird sagen, es sei ein einzelner Fall.
+  en: It will be said that this is a single case; but no, the foregoing letter expresses the temper of the great majority of the English bourgeoisie, or the editor would not have accepted it, and some reply would have been made to it, which I watched for in vain in the succeeding numbers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.7.8
+  kind: p
+  original: Aber nein, der obige Brief drückt geradezu die Gesinnung der großen Majorität der englischen Bourgeoisie aus, sonst hätte ihn ja auch der Redakteur nicht aufgenommen, sonst wäre ja wohl irgendeine Erwiderung gefolgt, nach der ich mich in den folgenden Nummern vergebens umgesehen habe.
+  en: ''
+  joined_to: XI.7.7
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '489'
+- id: XI.7.9
+  kind: p
+  original: Und was die Wirksamkeit des Wohltuns betrifft, so sagt ja der Kanonikus Parkinson selbst, daß die Armen weit mehr von ihresgleichen als von der Bourgeoisie unter unterstützt werden; und so eine Unterstützung von einem braven Proletarier, der selbst weiß, wie der Hunger tut, für den das Teilen des knappen Mahles ein Opfer ist, das er aber mit Freuden bringt - solch eine Unterstützung hat dann auch einen ganz andern Klang als das hingeworfene Almosen des schwelgenden Bourgeois.
+  en: And as to the efficiency of this philanthropy, Canon Parkinson himself says that the poor are relieved much more by the poor than by the bourgeoisie; and such relief given by an honest proletarian who knows himself what it is to be hungry, for whom sharing his scanty meal is really a sacrifice, but a sacrifice borne with pleasure, such help has a wholly different ring to it from the carelessly-tossed alms of the luxurious bourgeois.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.8.1
+  kind: p
+  original: Auch sonst heuchelt die Bourgeoisie eine grenzenlose Humanität - aber nur dann, wenn ihr eigenes Interesse es erheischt.
+  en: In other respects, too, the bourgeoisie assumes a hypocritical, boundless philanthropy, but only when its own interests require it; as in its Politics and Political Economy.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.8.2
+  kind: p
+  original: So in ihrer Politik und Nationalökonomie.
+  en: ''
+  joined_to: XI.8.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '489'
+- id: XI.8.3
+  kind: p
+  original: Sie hat sich nun ins fünfte Jahr damit abgequält, den Arbeitern zu beweisen, daß sie nur im Interesse der Proletarier die Korngesetze abzuschaffen wünsche.
+  en: It has been at work now well on towards five years to prove to the working-men that it strives to abolish the Corn Laws solely in their interest.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.8.4
+  kind: p
+  original: 'Das Lange und Breite von dieser Sache ist aber dies: Die Korngesetze, welche den Brotpreis höher halten, als dieser in andern Ländern steht, erhöhen dadurch auch den Arbeitslohn und erschweren dadurch dem Fabrikanten die Konkurrenz gegen andere Länder, in denen der Brotpreis und infolgedessen der Lohn niedriger steht.'
+  en: 'But the long and short of the matter is this: the Corn Laws keep the price of bread higher than in other countries, and thus raise wages, but these high wages render difficult competition of the manufacturers against other nations in which bread, and consequently wages, are cheaper.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '489'
+- id: XI.8.5
+  kind: p
+  original: Werden die Korngesetze nun abgeschafft, so fällt der Brotpreis, und der Arbeitslohn nähert sich dem der übrigen zivilisierten Länder Europas, was jedem nach den oben entwickelten Prinzipien, durch die der Lohn sich reguliert, klar sein wird.
+  en: The Corn Laws being repealed, the price of bread falls, and wages gradually approach those of other European countries, as must be clear to every one from our previous exposition of the principles according to which wages are determined.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 489-490
+- id: XI.8.6
+  kind: p
+  original: Der Fabrikant kann also leichter konkurrieren, die Nachfrage nach englischen Waren wächst und mit ihr die Nachfrage nach Arbeitern.
+  en: The manufacturer can compete more readily, the demand for English goods increases, and, with it, the demand for labour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '490'
+- id: XI.8.7
+  kind: p
+  original: Infolge dieser vermehrten Nachfrage wird allerdings der Lohn wieder etwas steigen und die brotlosen Arbeiter beschäftigt werden; aber wie lange dauert das?
+  en: In consequence of this increased demand wages would actually rise somewhat, and the unemployed workers be re-employed; but for how long?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '490'
+- id: XI.8.8
+  kind: p
+  original: Die "überflüssige Bevölkerung" Englands und besonders Irlands reicht hin, um die englische Industrie, selbst wenn sie sich verdoppelte, mit den nötigen Arbeitern zu versehen; in wenig Jahren würde der geringe Vorteil der Korngesetzabschaffung wieder ausgeglichen sein, eine neue Krisis erfolgen, und wir waren soweit wie vorher, während der erste Stimulus in der Industrie auch die Vermehrung der Bevölkerung beschleunigen würde.
+  en: The "surplus population" of England, and especially of Ireland, is sufficient to supply English manufacture with the necessary operatives, even if it were doubled; and, in a few years, the small advantage of the repeal of the Corn Laws would be balanced, a new crisis would follow, and we should be back at the point from which we started, while the first stimulus to manufacture would have increased population meanwhile.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '490'
+- id: XI.8.9
+  kind: p
+  original: Das alles sehen die Proletarier sehr gut ein und haben es den Bourgeois hundertmal ins Gesicht gesagt; aber trotzdem schreit das Geschlecht der Fabrikanten, das nur den unmittelbaren Vorteil, den ihm die Abschaffung der Korngesetze bringen würde, im Auge hat, dies Geschlecht, das borniert genug ist, nicht zu sehen, wie auch ihm kein dauernder Vorteil aus dieser Maßregel erwachsen kann, indem die Konkurrenz der Fabrikanten unter sich den Gewinn der einzelnen bald auf das alte Niveau zurückbringen würde - trotzdem schreit dies Geschlecht bis heute den Arbeitern vor, nur um ihretwillen geschehe das alles, nur um der verhungernden Millionen willen schössen die Reichen der liberalen Partei ihre Hunderte und Tausende von Pfunden in die Kasse der Antikorngesetzligue - wo doch jeder weiß, daß sie nur mit der Wurst nach dem Schinken werfen, daß sie darauf rechnen, das alles zehnfach und hundertfach in den ersten Jahren nach Abschaffung der Korngesetze wieder zu verdienen.
+  en: All this the proletarians understand very well, and have told the manufacturers to their faces; but, in spite of that, the manufacturers have in view solely the immediate advantage which the Corn Laws would bring them. They are too narrow-minded to see that, even for themselves, no permanent advantage can arise from this measure, because their competition with each other would soon force the profit of the individual back to its old level; and thus they continue to shriek to the working-men that it is purely for the sake of the starving millions that the rich members of the Liberal party pour hundreds and thousands of pounds into the treasury of the Anti-Corn Law League, while every one knows that they are only sending the butter after the cheese, that they calculate upon earning it all back in the first ten years after the repeal of the Corn Laws.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '490'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.8.10
+  kind: p
+  original: Aber die Arbeiter lassen sich - und besonders seit der Insurrektion von 1842, nicht mehr durch die Bourgeoisie irreführen.
+  en: But the workers are no longer to be misled by the bourgeoisie, especially since the insurrection of 1842.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '490'
+- id: XI.8.11
+  kind: p
+  original: Sie verlangen von jedem, der sich für ihr Wohl zu plagen vorgibt, daß er, als Prüfstein der Echtheit seiner Absichten, sich für die Volkscharte erkläre, und protestieren damit gegen alle fremde Hülfe, denn in der Charte verlangen sie nur die Macht, sich selbst zu helfen.
+  en: They demand of every one who presents himself as interested in their welfare, that he should declare himself in favour of the People's Charter as proof of the sincerity of his professions, and in so doing, they protest against all outside help, for the Charter is a demand for the power to help themselves.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '490'
+- id: XI.8.12
+  kind: p
+  original: Wer das nicht tut, dem erklären sie mit vollem Rechte den Krieg, sei er offner Feind oder falscher Freund.
+  en: Whoever declines so to declare himself they pronounce their enemy, and are perfectly right in so doing, whether he be a declared foe or a false friend Besides, the Anti-Corn Law League has used the most despicable falsehoods and tricks to win the support of the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '490'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.8.13
+  kind: p
+  original: '- Übrigens hat die Antikorngesetzligue den Arbeitern gegenüber die verächtlichsten Lügen und Kniffe gebraucht, um sie zu gewinnen.'
+  en: ''
+  joined_to: XI.8.12
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '490'
+- id: XI.8.14
+  kind: p
+  original: Sie hat ihnen weismachen wollen, daß der Geldpreis der Arbeit im umgekehrten Verhältnis zum Kornpreise stehe, daß der Lohn hoch, wenn das Korn niedrig stehe, und umgekehrt - ein Satz, den sie mit den lächerlichsten Argumenten hat zu beweisen gesucht und der in sich selbst lächerlicher ist als irgendeine andere aus dem Munde eines Ökonomen geflossene Behauptung.
+  en: It has tried to prove to them that the money price of labour is in inverse proportion to the price of corn; that wages are high when grain is cheap, and vice versa, an assertion which it pretends to prove with the most ridiculous arguments, and one which is, in itself, more ridiculous than any other that has proceeded from the mouth of an Economist.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '490'
+- id: XI.8.15
+  kind: p
+  original: 'Wenn das nicht half, so hat man den Arbeitern die ungeheuerste Glückseligkeit infolge des vermehrten Begehrs im Arbeitsmarkt versprochen, ja man hat sich nicht entblödet, zwei Modelle von Brotlaiben durch die Straßen zu tragen, auf deren größtem geschrieben stand: Amerikanisches Achtpfenniglaib, Lohn 4 Shilling täglich, und auf dem andern, viel kleineren: Englisches Achtpfenniglaib, Lohn 2 Shilling täglich.'
+  en: 'When this failed to help matters, the workers were promised bliss supreme in consequence of the increased demand in the labour market; indeed, men went so far as to carry through the streets two models of loaves of bread, on one of which, by far the larger, was written: "American Eightpenny Loaf, Wages Four Shillings per Day," and upon the much smaller one: "English Eightpenny Loaf, Wages Two Shillings a Day."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 490-491
+- id: XI.8.16
+  kind: p
+  original: Die Arbeiter haben sich aber nicht irremachen lassen.
+  en: But the workers have not allowed themselves to be misled.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+- id: XI.8.17
+  kind: p
+  original: Sie kennen ihre Brotherren zu gut.
+  en: They know their lords and masters too well.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+- id: XI.9.1
+  kind: p
+  original: Und wenn man die Gleisnerei dieser schönen Versprechungen erst recht erkennen will, so betrachte man die Praxis.
+  en: But rightly to measure the hypocrisy of these promises, the practice of the bourgeoisie must be taken into account.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+- id: XI.9.2
+  kind: p
+  original: Wir haben im Verlauf unserer Berichte gesehen, wie die Bourgeoisie das Proletariat auf alle mögliche Weise zu ihren Zwecken ausbeutet.
+  en: We have seen in the course of our report how the bourgeoisie exploits the proletariat in every conceivable way for its own benefit!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+- id: XI.9.3
+  kind: p
+  original: Wir haben bisher indes nur die einzelnen Bourgeois auf ihre eigne Faust das Proletariat mißhandeln sehen.
+  en: We have, however, hitherto seen only how the single bourgeois maltreats the proletariat upon his own account.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+- id: XI.9.4
+  kind: p
+  original: Gehen wir nun zu den Verhältnissen über, in denen die Bourgeoisie als Partei, ja als Staatsmacht gegen das Proletariat auftritt.
+  en: Let us turn now to the manner in which the bourgeoisie as a party, as the power of the State, conducts itself towards the proletariat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+- id: XI.9.5
+  kind: p
+  original: '- Daß zuerst die ganze Gesetzgebung den Schutz des Besitzenden gegen den Besitzlosen bezweckt, liegt auf der Hand.'
+  en: Laws are necessary only because there are persons in existence who own nothing; and although this is directly expressed in but few laws, as, for instance, those against vagabonds and tramps, in which the proletariat as such is outlawed, yet enmity to the proletariat is so emphatically the basis of the law that the judges, and especially the Justices of the Peace, who are bourgeois themselves, and with whom the proletariat comes most in contact, find this meaning in the laws without further consideration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.9.6
+  kind: p
+  original: Nur weil es Besitzlose gibt, sind die Gesetze notwendig; und wenn dies auch nur in wenigen Gesetzen, z.B. gegen das Vagabondieren und die Obdachlosigkeit, worin das Proletariat als solches für gesetzwidrig erklärt wird, direkt ausgesprochen ist, so liegt doch die Feindschaft gegen das Proletariat dem Gesetze so sehr zum Grunde, daß die Richter, besonders die Friedensrichter, die selbst Bourgeois sind und mit denen das Proletariat am meisten in Berührung kommt, diesen Sinn ohne weiteres im Gesetze finden.
+  en: ''
+  joined_to: XI.9.5
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '491'
+- id: XI.9.7
+  kind: p
+  original: Wird ein Reicher vorgeführt oder vielmehr vorgeladen, so bedauert der Richter, daß er ihm so viel Mühe machen muß, wendet die Sache soviel er irgend kann zu seinen Gunsten, und wenn er ihn verurteilen muß, so tut es ihm wieder unendlich leid usw., und das Resultat ist eine elende Geldstrafe, die der Bourgeois mit Verachtung auf den Tisch schmeißt und sich entfernt.
+  en: If a rich man is brought up, or rather summoned, to appear before the court, the judge regrets that he is obliged to impose so much trouble, treats the matter as favourably as possible, and, if he is forced to condemn the accused, does so with extreme regret, etc. etc., and the end of it all is a miserable fine, which the bourgeois throws upon the table with contempt and then departs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+- id: XI.9.8
+  kind: p
+  original: 'Kommt aber ein armer Teufel in den Fall, vor dem Friedensrichter zu erscheinen, so hat er fast immer die Nacht im Arresthause mit einer Menge anderer zugebracht, wird von vornherein als schuldig betrachtet und angeschnauzt, seine Verteidigung mit einem verächtlichen: "0, wir kennen diese Ausreden" - beseitigt und ihm eine Strafe auferlegt, die er nicht bezahlen kann und mit einem oder mehreren Monaten auf der Tretmühle abbüßen muß.'
+  en: But if a poor devil gets into such a position as involves appearing before the Justice of the Peace--he has almost always spent the night in the station-house with a crowd of his peers--he is regarded from the beginning as guilty; his defence is set aside with a contemptuous "Oh! we know the excuse," and a fine imposed which he cannot pay and must work out with several months on the treadmill.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+- id: XI.9.9
+  kind: p
+  original: Und wenn man ihm nichts beweisen kann, so wird er als Schuft und Vagabond (a rogue and a vagabond - die Ausdrücke kommen fast immer zusammen vor) dennoch auf die Tretmühle geschickt.
+  en: And if nothing can be proved against him, he is sent to the treadmill, none the less, "as a rogue and a vagabond."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+- id: XI.9.10
+  kind: p
+  original: Die Parteilichkeit der Friedensrichter, besonders auf dem Lande, übersteigt wirklich alle Vorstellung, und es ist so an der Tagesordnung, daß alle nicht zu eklatanten Fälle von den Zeitungen ganz ruhig und ohne weitere Glossen berichtet werden.
+  en: The partisanship of the Justices of the Peace, especially in the country, surpasses all description, and it is so much the order of the day that all cases which are not too utterly flagrant are quietly reported by the newspapers, without comment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '491'
+- id: XI.9.11
+  kind: p
+  original: Es ist aber auch nicht anders zu erwarten.
+  en: Nor is anything else to be expected.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 491-492
+- id: XI.9.12
+  kind: p
+  original: Einerseits legen diese "Dogberries" das Gesetz nur nach dem Sinn aus, der in ihm liegt, und andererseits sind sie ja selbst Bourgeois, die vor allen Dingen im Interesse ihrer Klasse den Grundpfeiler aller wahren Ordnung sehen.
+  en: For on the one hand, these Dogberries do merely construe the law according to the intent of the farmers, and, on the other, they are themselves bourgeois, who see the foundation of all true order in the interests of their class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '492'
+- id: XI.9.13
+  kind: p
+  original: Und wie die Friedensrichter, so benimmt sich auch die Polizei.
+  en: And the conduct of the police corresponds to that of the Justices of the Peace.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '492'
+- id: XI.9.14
+  kind: p
+  original: Der Bourgeois kann tun, was er will, gegen ihn ist der Polizeidiener immer höflich und hält sich streng ans Gesetz; aber der Proletarier wird grob und brutal behandelt, seine Armut wirft schon den Verdacht aller möglichen Verbrechen auf ihn und verschließt ihm zugleich das Rechtsmittel gegen alle Willkürlichkeiten der Gewalthaber; für ihn existieren deshalb die schützenden Formen des Gesetzes nicht, ihm dringt die Polizei ohne weiteres ins Haus, verhaftet und mißhandelt ihn, und bloß wenn einmal eine Arbeiterassoziation wie die Grubenarbeiter einen Roberts engagieren, bloß dann kommt es an den Tag, wie wenig die schützende Seite des Gesetzes für den Proletarier existiert, wie häufig er alle Lasten des Gesetzes zu tragen hat, ohne einen seiner Vorteile zu genießen.
+  en: The bourgeois may do what he will and the police remain ever polite, adhering strictly to the law, but the proletarian is roughly, brutally treated; his poverty both casts the suspicion of every sort of crime upon him and cuts him off from legal redress against any caprice of the administrators of the law; for him, therefore, the protecting forms of the law do not exist, the police force their way into his house without further ceremony, arrest and abuse him; and only when a working-men's association, such as the miners, engages a Roberts, does it become evident how little the protective side of the law exists for the working-men, how frequently he has to bear all the burdens of the law without enjoying its benefits.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: '1892'
+    reading: engagiert
+    base_text: … Grubenarbeiter einen Roberts engagieren ‸ , bloß dann kommt …
+  mew_page: '492'
+- id: XI.10.1
+  kind: p
+  original: Bis auf die heutige Stunde kämpft die besitzende Klasse im Parlament gegen das bessere Gefühl der noch nicht ganz der Selbstsucht Verfallenen, um das Proletariat mehr und mehr zu unterjochen.
+  en: Down to the present hour, the property-holding class in Parliament still struggles against the better feelings of those not yet fallen a prey to egotism, and seeks to subjugate the proletariat still further.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '492'
+- id: XI.10.2
+  kind: p
+  original: Ein Gemeindeplatz nach dem andern wird weggenommen und bebaut, wodurch allerdings die Kultur gehoben, aber dem Proletariat viel Schaden getan wird.
+  en: One piece of common land after another is appropriated and placed under cultivation, a process by which the general cultivation is furthered, but the proletariat greatly injured.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '492'
+- id: XI.10.3
+  kind: p
+  original: Wo Gemeindeplätze existierten, konnte der Arme darauf einen Esel, ein Schwein oder einige Gänse halten, die Kinder und jungen Leute hatten einen Platz, wo sie spielen und sich im Freien herumtreiben konnten; dies hört immer mehr auf, der Verdienst des Armen wird geringer, und das junge Volk, dem sein Spielplatz genommen ist, geht dafür in die Kneipen.
+  en: Where there were still commons, the poor could pasture an ass, a pig, or geese, the children and young people had a place where they could play and live out of doors; but this is gradually coming to an end. The earnings of the worker are less, and the young people, deprived of their playground, go to the beer-shops.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '492'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.10.4
+  kind: p
+  original: Eine Menge solcher Parlamentsakten zur Urbarmachung von Gemeindeplätzen gehen in jeder Session durch.- Als die Regierung in der Session von 1844 sich entschloß, die allen Verkehr monopolisierenden Eisenbahngesellschaften zu zwingen, auch den Arbeitern das Reisen gegen ein ihren Umständen angemessenes Fahrgeld (1 Penny die Meile, etwa 5 Silbergroschen die deutsche Meile) möglich zu machen, und deshalb vorschlug, daß täglich ein solcher Zug dritter Klasse auf jeder Eisenbahn eingeführt werde, schlug der "ehrwürdige Vater in Gott", der Bischof von London, vor, daß der Sonntag, der einzige Tag, an dem beschäftigte Arbeiter überhaupt reisen können, von diesem Zwang ausgenommen und so das Reisen am Sonntag nur den Reichen, nicht aber den Armen gestattet werde.
+  en: A mass of acts for enclosing and cultivating commons is passed at every session of Parliament. When the Government determined during the session of 1844 to force the all monopolising railways to make travelling possible for the workers by means of charges proportionate to their means, a penny a mile, and proposed therefore to introduce such a third class train upon every railway daily, the "Reverend Father in God," the Bishop of London, proposed that Sunday, the only day upon which working-men in work can travel, be exempted from this rule, and travelling thus be left open to the rich and shut off from the poor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '492'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.10.5
+  kind: p
+  original: Dieser Vorschlag war indes zu geradeaus, zu unverhohlen, als daß er hätte durchgehen können, und man ließ ihn fallen.
+  en: This proposition was, however, too direct, too undisguised to pass through Parliament, and was dropped.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '492'
+- id: XI.10.6
+  kind: p
+  original: '- Ich habe nicht Raum genug, um die vielen versteckten Angriffe auf das Proletariat, auch nur einer einzigen Session, aufzuzählen.'
+  en: I have no room to enumerate the many concealed attacks of even one single session upon the proletariat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 492-493
+- id: XI.10.7
+  kind: p
+  original: Nur noch einen aus derselben Session von 1844.
+  en: One from the session of 1844 must suffice.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '493'
+- id: XI.10.8
+  kind: p
+  original: Ein ganz obskures Parlamentsglied ein Herr Miles, schlug eine Bill zur Regulierung des Verhältnisses von Herren und Dienern vor, die ziemlich unscheinbar aussah.
+  en: An obscure member of Parliament, a Mr. Miles, proposed a bill regulating the relation of master and servant which seemed comparatively unobjectionable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T2
+    editions: '1892'
+    reading: Parlamentsmitglied
+    base_text: … Ein ganz obskures Parlamentsglied ‸ ein Herr Miles, schlug …
+  mew_page: '493'
+- id: XI.10.9
+  kind: p
+  original: Die Regierung nahm sich der Bill an, und sie wurde einem Komitee übergeben.
+  en: The Government became interested in the bill, and it was referred to a committee.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '493'
+- id: XI.10.10
+  kind: p
+  original: Inzwischen brach der Turnout der Grubenarbeiter im Norden aus, und Roberts hielt seine Triumphzüge durch England mit seinen freigesprochenen Arbeitern.
+  en: Meanwhile the strike among the miners in the North broke out, and Roberts made his triumphal passage through England with his acquitted working-men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '493'
+- id: XI.10.11
+  kind: p
+  original: Als nun die Bill aus dem Komitee kam, fand sich, daß einige höchst despotische Klauseln eingeschaltet waren, besonders eine, durch die dem Brotherrn die Macht gegeben wurde, jeden Arbeiter, der mit ihm mündlich oder schriftlich irgendeine beliebige Arbeit, wenn auch nur eine gelegentliche Handreichung kontrahiert hatte, im Falle von Dienstverweigerung oder sonstigem ungeziemendem Betragen (misbehaviour) vor irgendeinen beliebigen (any) Friedensrichter zu schleppen und auf seinen oder seiner Agenten und Aufseher Eid hin - also auf den Eid des Klägers - zu Gefängnis und Zwangsarbeit bis zu zwei Monaten verurteilen zu lassen.
+  en: When the bill was reported by the committee, it was discovered that certain most despotic provisions had been interpolated in it, especially one conferring upon the employer the power to bring before any Justice of the Peace every working-man who had contracted verbally or in writing to do any work whatsoever, in case of refusal to work or other misbehaviour, and have him condemned to prison with hard labour for two months, upon the oath of the employer or his agent or overlooker, i.e., upon the oath of the accuser.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '493'
+- id: XI.10.12
+  kind: p
+  original: Diese Bill regte die Arbeiter bis zur höchsten Wut auf, um so mehr als die Zehnstundenbill zu gleicher Zeit vor dem Parlament war und bedeutende Agitation hervorgebracht hatte.
+  en: This bill aroused the working-men to the utmost fury, the more so as the Ten Hours' Bill was before Parliament at the same time, and had called forth a considerable agitation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '493'
+- id: XI.10.13
+  kind: p
+  original: Hunderte von Versammlungen wurden gehalten, Hunderte von Arbeiterpetitionen nach London an den Sachwalter des Proletariats im Parlament, Thomas Duncombe, geschickt.
+  en: Hundreds of meetings were held, hundreds of working-men's petitions forwarded to London to Thomas Duncombe, the representative of the interests of the proletariat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '493'
+- id: XI.10.14
+  kind: p
+  original: Dieser war, außer dem "jungen Engländer" Ferrand, der einzige energische Opponent, aber als die übrigen Radikalen sahen, daß das Volk sich gegen die Bill erklärte, kroch einer nach dem andern hervor und stellte sich Duncombe zur Seite, und da auch die liberale Bourgeoisie bei der Aufregung der Arbeiter nicht den Mut hatte, sich für die Bill auszusprechen, da überhaupt niemand sich dem Volke gegenüber lebhaft für sie interessierte, so fiel sie glänzend durch.
+  en: This man was, except Ferrand, the representative of "Young England," the only vigorous opponent of the bill; but when the other Radicals saw that the people were declaring against it, one after the other crept forward and took his place by Duncombe's side; and as the Liberal bourgeoisie had not the courage to defend the bill in the face of the excitement among the working-men, it was ignominiously lost.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '493'
+- id: XI.11.1
+  kind: p
+  original: Die offenste Kriegserklärung der Bourgeoisie gegen das Proletariat ist indes die Malthussche Theorie der Population und das aus ihr entstandene neue Armengesetz.
+  en: Meanwhile the most open declaration of war of the bourgeoisie upon the proletariat is Malthus' Law of Population and the New Poor Law framed in accordance with it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '493'
+- id: XI.11.2
+  kind: p
+  original: Von der Malthusschen Theorie ist schon mehrere Male die Rede gewesen.
+  en: We have already alluded several times to the theory of Malthus.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '493'
+- id: XI.11.3
+  kind: p
+  original: Wiederholen wir kurz ihr Hauptresultat, daß die Erde stets übervölkert sei und daher stets Not, Elend, Armut und Unsittlichkeit herrschen müsse; daß es das Los und die ewige Bestimmung der Menschheit sei, in zu großer Zahl und daher in verschiedenen Klassen zu existieren, von denen die einen mehr oder weniger reich, gebildet, moralisch und die andern mehr oder weniger arm, elend, unwissend und unsittlich seien.
+  en: We may sum up its final result in these few words, that the earth is perennially over-populated, whence poverty, misery, distress, and immorality must prevail; that it is the lot, the eternal destiny of mankind, to exist in too great numbers, and therefore in diverse classes, of which some are rich, educated, and moral, and others more or less poor, distressed, ignorant, and immoral.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '493'
+- id: XI.11.4
+  kind: p
+  original: Hieraus folgt denn für die Praxis - und diese Schlüsse zieht Malthus selbst -, daß Wohltaten und Armenkassen eigentlich Unsinn seien, da sie nur dazu dienen, die überzählige Bevölkerung, deren Konkurrenz den Lohn der andern drücke, aufrechtzuerhalten und zur Vermehrung anzureizen; daß die Beschäftigung von Armen durch die Armenverwaltung ebenso unsinnig sei, indem, da doch nur eine bestimmte Quantität von Arbeitserzeugnissen verbraucht werden könne, für jeden brotlosen Arbeiter, der beschäftigt wird, ein anderer bisher beschäftigter brotlos werden muß und so die Privatindustrie auf Kosten der Armenverwaltungs-Industrie Schaden leidet; daß es sich also nicht darum handelt, die überzählige Bevölkerung zu ernähren, sondern sie auf die eine oder die andere Weise möglichst zu beschränken.
+  en: Hence it follows in practice, and Malthus himself drew this conclusion, that charities and poor-rates are, properly speaking, nonsense, since they serve only to maintain, and stimulate the increase of, the surplus population whose competition crushes down wages for the employed; that the employment of the poor by the Poor Law Guardians is equally unreasonable, since only a fixed quantity of the products of labour can be consumed, and for every unemployed labourer thus furnished employment, another hitherto employed must be driven into enforced idleness, whence private undertakings suffer at cost of Poor Law industry; that, in other words, the whole problem is not how to support the surplus population, but how to restrain it as far as possible.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 493-494
+- id: XI.11.5
+  kind: p
+  original: Malthus erklärt mit dürren Worten das bisher behauptete Recht jedes Menschen, der in der Welt existiere, auf seine Existenzmittel für baren Unsinn.
+  en: Malthus declares in plain English that the right to live, a right previously asserted in favour of every man in the world, is nonsense.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '494'
+- id: XI.11.6
+  kind: p
+  original: 'Er zitiert die Worte eines Dichters: Der Arme kommt zum festlichen Tisch der Natur und findet kein leeres Gedeck für sich - und setzt hinzu - und die Natur befiehlt ihm, sich zu packen (she bids him to be gone) - "denn er hat ja vor seiner Geburt die Gesellschaft nicht erst gefragt, ob sie ihn haben wolle".'
+  en: He quotes the words of a poet, that the poor man comes to the feast of Nature and finds no cover laid for him, and adds that "she bids him begone," for he did not before his birth ask of society whether or not he is welcome.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '494'
+- id: XI.11.7
+  kind: p
+  original: Diese Theorie ist jetzt die Leibtheorie aller echten englischen Bourgeois, und zwar ganz natürlich, da sie für diese das bequemste Faulbett ist und ohnehin für die bestehenden Verhältnisse viel Richtiges hat.
+  en: This is now the pet theory of all genuine English bourgeois, and very naturally, since it is the most specious excuse for them, and has, moreover, a good deal of truth in it under existing conditions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '494'
+- id: XI.11.8
+  kind: p
+  original: Wenn es sich also nicht mehr darum handelt, die "überzählige Bevölkerung" nutzbar zu machen, in brauchbare Bevölkerung zu verwandeln, sondern bloß darum, die Leute auf möglichst leichte Weise verhungern zu lassen und sie zugleich daran zu hindern, daß sie zuviel Kinder in die Welt setzen, so ist das natürlich Kleinigkeit - vorausgesetzt, daß die überflüssige Bevölkerung ihre eigne Überflüssigkeit einsieht und den Hungertod sich wohlschmecken läßt.
+  en: If, then, the problem is not to make the "surplus population" useful, to transform it into available population, but merely to let it starve to death in the least objectionable way and to prevent its having too many children, this, of course, is simple enough, provided the surplus population perceives its own superfluousness and takes kindly to starvation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '494'
+- id: XI.11.9
+  kind: p
+  original: Dazu ist aber, trotz der angestrengtesten Bemühungen der humanen Bourgeoisie, den Arbeitern dies beizubringen, vorderhand noch keine Aussicht.
+  en: There is, however, in spite of the violent exertions of the humane bourgeoisie, no immediate prospect of its succeeding in bringing about such a disposition among the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '494'
+- id: XI.11.10
+  kind: p
+  original: Die Proletarier haben sich vielmehr in den Kopf gesetzt, daß sie mit ihren fleißigen Händen gerade die Nötigen, und die reichen Herren Kapitalisten, die nichts tun, eigentlich die Überflüssigen seien.
+  en: The workers have taken it into their heads that they, with their busy hands, are the necessary, and the rich capitalists, who do nothing, the surplus population.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '494'
+- id: XI.12.1
+  kind: p
+  original: Da aber die Reichen noch die Macht besitzen, so müssen sich die Proletarier gefallen lassen, daß sie, falls sie selbst es nicht gutwillig einsehen wollen, vom Gesetz für wirklich überflüssig erklärt werden.
+  en: Since, however, the rich hold all the power, the proletarians must submit, if they will not good-temperedly perceive it for themselves, to have the law actually declare them superfluous.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '494'
+- id: XI.12.2
+  kind: p
+  original: Dies ist im neuen Armengesetz geschehen.
+  en: This has been done by the New Poor Law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '494'
+- id: XI.12.3
+  kind: p
+  original: Das alte Armengesetz, das auf der Akte vom Jahre 1601 (43rd of Elizabeth) [(43. Jahr der Regierung Elisabeths)] beruht, ging naiverweise noch von dem Prinzip aus, daß es die Pflicht der Gemeinde sei, für den Lebensunterhalt der Armen zu sorgen.
+  en: The Old Poor Law which rested upon the Act of 1601 (the 43rd of Elizabeth), naively started from the notion that it is the duty of the parish to provide for the maintenance of the poor.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 494-495
+- id: XI.12.4
+  kind: p
+  original: Wer keine Arbeit hatte, erhielt Unterstützung, und der Arme sah auf die Dauer, wie billig, die Gemeinde für verpflichtet an, ihn vor dem Verhungern zu schützen.
+  en: Whoever had no work received relief, and the poor man regarded the parish as pledged to protect him from starvation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '495'
+- id: XI.12.5
+  kind: p
+  original: Er forderte seine wöchentliche Unterstützung als ein Recht, nicht als eine Gnade, und das wurde zuletzt der Bourgeoisie doch zu arg.
+  en: He demanded his weekly relief as his right, not as a favour, and this became, at last, too much for the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '495'
+- id: XI.12.6
+  kind: p
+  original: 1833, als sie eben durch die Reformbill an die Herrschaft und zugleich der Pauperismus der Landdistrikte zur vollen Entfaltung gekommen war, begann sie sogleich die Reform auch der Armengesetze von ihrem Standpunkte aus.
+  en: In 1833, when the bourgeoisie had just come into power through the Reform Bill, and pauperism in the country districts had just reached its full development, the bourgeoisie began the reform of the Poor Law according to its own point of view.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '495'
+- id: XI.12.7
+  kind: p
+  original: Eine Kommission wurde ernannt, die die Verwaltung der Armengesetze untersuchte und eine große Menge Mißbrauche entdeckte.
+  en: A commission was appointed, which investigated the administration of the Poor Laws, and revealed a multitude of abuses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '495'
+- id: XI.12.8
+  kind: p
+  original: Man fand die ganze Arbeiterklasse des platten Landes pauperisiert und ganz oder teilweise von der Armenkasse abhängig, da diese, wenn der Lohn niedrig stand, den Armen einen Zusatz gab; man fand, daß dies System, wodurch der Arbeitslose erhalten, der Schlechtbezahlte und mit vielen Kindern Gesegnete unterstützt, der Vater unehelicher Kinder zur Alimentation angehalten und die Armut überhaupt als des Schutzes bedürftig anerkannt wurde - man fand, daß dies System das Land ruiniere, "ein Hemmnis der Industrie, eine Belohnung für unüberlegte Heiraten, ein Stimulus zur Vermehrung der Bevölkerung sei und den Einfluß einer vermehrten Volkszahl auf den Arbeitslohn unterdrücke; daß es eine Nationaleinrichtung sei, um die Fleißigen und Ehrlichen zu entmutigen und die Trägen, Lasterhaften und Überlegungslosen zu stützen; daß es die Bande der Familie zerstöre, die Anhäufung von Kapitalien systematisch verhindre, das existierende Kapital auflöse und die Steuerzahlenden ruiniere; und obendrein setze es in der Alimentation eine Prämie auf uneheliche Kinder.
+  en: It was discovered that the whole working-class in the country was pauperised and more or less dependent upon the rates, from which they received relief when wages were low; it was found that this system by which the unemployed were maintained, the ill-paid and the parents of large families relieved, fathers of illegitimate children required to pay alimony, and poverty, in general, recognised as needing protection, it was found that this system was ruining the nation, was-- "A check upon industry, a reward for improvident marriage, a stimulus to increased population, and a means of counterbalancing the effect of an increased population upon wages; a national provision for discouraging the honest and industrious, and protecting the lazy, vicious, and improvident; calculated to destroy the bonds of family life, hinder systematically the accumulation of capital, scatter that which is already accumulated, and ruin the taxpayers. Moreover, in the provision of aliment, it sets a premium upon illegitimate children."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '495'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: XI.12.9
+  kind: p
+  original: (Worte des Berichts der Armengesetzkommissäre.)
+  en: (Words of the Report of the Poor Law Commissioners.)
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - XI.N2
+  mew_page: '495'
+- id: XI.13.1
+  kind: p
+  original: Diese Schilderung der Wirkungen des alten Armengesetzes ist im ganzen gewiß richtig; die Unterstützung begünstigt die Trägheit und die Vermehrung der "überflüssigen" Bevölkerung.
+  en: This description of the action of the Old Poor Law is certainly correct; relief fosters laziness and increase of "surplus population."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '495'
+- id: XI.13.2
+  kind: p
+  original: Unter den jetzigen sozialen Verhältnissen ist es ganz klar, daß der Arme gezwungen wird, Egoist zu sein, und wenn er die Wahl hat und gleich gut lebt, lieber nichts tut als arbeitet.
+  en: Under present social conditions it is perfectly clear that the poor man is compelled to be an egotist, and when he can choose, living equally well in either case, he prefers doing nothing to working.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '495'
+- id: XI.13.3
+  kind: p
+  original: Daraus folgt aber nur, daß die jetzigen sozialen Verhältnisse nichts taugen, nicht aber, daß wie die malthusianischen Kommissäre folgerten - die Armut als ein Verbrechen nach der Abschreckungstheorie zu behandeln sei.
+  en: But what follows therefrom? That our present social conditions are good for nothing, and not as the Malthusian Commissioners conclude, that poverty is a crime, and, as such, to be visited with heinous penalties which may serve as a warning to others.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '495'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.14.1
+  kind: p
+  original: Diese weisen Malthusianer waren aber so fest von der Unfehlbarkeit ihrer Theorie überzeugt, daß sie keinen Augenblick Anstand nahmen, die Armen in das Prokrustesbett ihrer Meinungen zu werfen und sie nach diesen mit der empörendsten Härte zu behandeln.
+  en: But these wise Malthusians were so thoroughly convinced of the infallibility of their theory that they did not for one moment hesitate to cast the poor into the Procrustean bed of their economic notions and treat them with the most revolting cruelty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 495-496
+- id: XI.14.2
+  kind: p
+  original: Mit Malthus und den übrigen Anhängern der freien Konkurrenz überzeugt, daß es am besten sei, jeden für sich selbst sorgen zu lassen, das laissez-faire konsequent durchzuführen, hätten sie die Armengesetze am liebsten ganz abgeschafft.
+  en: Convinced with Malthus and the rest of the adherents of free competition that it is best to let each one take care of himself, they would have preferred to abolish the Poor Laws altogether.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.14.3
+  kind: p
+  original: Da sie hierzu indes doch weder Mut noch Autorität hatten, schlugen sie ein möglichst malthusianisches Armengesetz vor, das noch barbarischer ist als das laissez-faire, weil es da aktiv eintritt, wo dies nur passiv ist.
+  en: Since, however, they had neither the courage nor the authority to do this, they proposed a Poor Law constructed as far as possible in harmony with the doctrine of Malthus, which is yet more barbarous than that of laissez-faire, because it interferes actively in cases in which the latter is passive.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.14.4
+  kind: p
+  original: Wir sahen, wie Malthus die Armut, genauer die Brotlosigkeit unter dem Namen der Überflüssigkeit für ein Verbrechen erklärt, das die Gesellschaft mit dem Hungertode bestrafen soll.
+  en: We have seen how Malthus characterises poverty, or rather the want of employment, as a crime under the title "superfluity," and recommends for it punishment by starvation.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.14.5
+  kind: p
+  original: So barbarisch waren die Kommissare nun gerade nicht; der krasse, direkte Hungertod hat selbst für einen Armengesetzkommissär etwas zu Schreckliches.
+  en: The commissioners were not quite so barbarous; death outright by starvation was something too terrible even for a Poor Law Commissioner.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.14.6
+  kind: p
+  original: Gut, sagten sie, ihr Armen habt das Recht, zu existieren, aber auch nur zu existieren; das Recht, euch zu vermehren aber habt ihr nicht, ebensowenig wie das Recht, menschlich zu existieren.
+  en: '"Good," said they, "we grant you poor a right to exist, but only to exist; the right to multiply you have not, nor the right to exist as befits human beings.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.14.7
+  kind: p
+  original: Ihr seid eine Landplage, und wenn wir euch nicht wie jede andere Landplage sofort beseitigen können, so sollt ihr doch fühlen, daß ihr eine solche seid und wenigstens im Zaume gehalten, außerstand gesetzt werden müßt, andere "Überflüssige", direkt oder durch Verführung zur Trägheit und Brotlosigkeit, zu produzieren.
+  en: You are a pest, and if we cannot get rid of you as we do of other pests, you shall feel, at least, that you are a pest, and you shall at least be held in check, kept from bringing into the world other "surplus," either directly or through inducing in others laziness and want of employment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.14.8
+  kind: p
+  original: Leben sollt ihr, aber leben zum warnenden Exempel allen denen, die Veranlassung haben könnten, auch überflüssig zu werden.
+  en: Live you shall, but live as an awful warning to all those who might have inducements to become "superfluous."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.15.1
+  kind: p
+  original: Sie schlugen nun das neue Armengesetz vor, das 1834 durch das Parlament ging und bis heute in Kraft besteht.
+  en: They accordingly brought in the New Poor Law, which was passed by Parliament in 1834, and continues in force down to the present day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.15.2
+  kind: p
+  original: Alle Unterstützung in Geld oder Lebensmitteln wurde abgeschafft; die einzige Unterstützung, welche gewährt wurde, war die Aufnahme in die überall sofort erbauten Arbeitshäuser.
+  en: All relief in money and provisions was abolished; the only relief allowed was admission to the workhouses immediately built.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.15.3
+  kind: p
+  original: Die Einrichtung dieser Arbeitshäuser (workhouses), oder, wie das Volk sie nennt, Armengesetz-Bastillen (poor-law bastiles), ist aber derart, daß sie jeden abschrecken muß, der noch irgendwie Aussicht hat, sich ohne diese Art der öffentlichen Mildtätigkeit durchzuschlagen.
+  en: The regulations for these workhouses, or, as the people call them, Poor Law Bastilles, is such as to frighten away every one who has the slightest prospect of life without this form of public charity.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.15.4
+  kind: p
+  original: Damit die Armenkasse nur in den dringendsten Fällen beansprucht und die eignen Anstrengungen eines jeden auf den höchsten Grad gesteigert werden, ehe er sich entschließt, sich von ihr unterstützen zu lassen, ist das Arbeitshaus zum zurückstoßendsten Aufenthalt gemacht, den das raffinierte Talent eines Malthusianers erfinden kann.
+  en: To make sure that relief be applied for only in the most extreme cases and after every other effort had failed, the workhouse has been made the most repulsive residence which the refined ingenuity of a Malthusian can invent.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.15.5
+  kind: p
+  original: Die Nahrung ist schlechter als die der ärmsten beschäftigten Arbeiter, während die Arbeit schwerer ist; sonst wurden diese ja den Aufenthalt im Armenhause ihrer jämmerlichen Existenz draußen vorziehen.
+  en: The food is worse than that of the most ill-paid working-man while employed, and the work harder, or they might prefer the workhouse to their wretched existence outside.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.15.6
+  kind: p
+  original: Fleisch, besonders frisches, wird selten gereicht, meist Kartoffeln, möglichst schlechtes Brot und Hafermehlbrei, wenig oder gar kein Bier.
+  en: Meat, especially fresh meat, is rarely furnished, chiefly potatoes, the worst possible bread and oatmeal porridge, little or no beer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '496'
+- id: XI.15.7
+  kind: p
+  original: Selbst die Diät der Gefängnisse ist durchgängig besser, so daß die Bewohner Arbeitshauses häufig irgendein Vergehen absichtlich sich zuschulden kommen lassen, um nur ins Gefängnis zu kommen.
+  en: The food of criminal prisoners is better, as a rule, so that the paupers frequently commit some offence for the purpose of getting into jail.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 496-497
+- id: XI.15.8
+  kind: p
+  original: Denn auch das Arbeitshaus ist ein Gefängnis; wer sein Quantum Arbeit nicht tut, bekommt nichts zu essen, wer herausgehen will, muß erst um Erlaubnis bitten, die ihm je nach seinem Betragen oder der Meinung, die der Inspektor davon hat, verweigert werden kann; Tabak ist verboten, ebenso die Annahme von Geschenken von Freunden und Verwandten außerhalb des Hauses; die Paupers tragen eine Arbeitshaus-Uniform und sind der Willkür des Inspektors ohne Schutz überliefert.
+  en: For the workhouse is a jail too; he who does not finish his task gets nothing to eat; he who wishes to go out must ask permission, which is granted or not, according to his behaviour or the inspector's whim, tobacco is forbidden, also the receipt of gifts from relatives or friends outside the house; the paupers wear a workhouse uniform, and are handed over, helpless and without redress, to the caprice of the inspectors.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '497'
+- id: XI.15.9
+  kind: p
+  original: Damit ihre Arbeit nicht etwa mit der Privatindustrie konkurriere, gibt man ihnen meist ziemlich nutzlose Beschäftigungen; die Männer klopfen Steine, "soviel ein starker Mann mit Anstrengung in einem Tage tun kann", die Weiber, Kinder und Greise zupfen alte Schiffstaue, ich habe vergessen, zu welchem unbedeutenden Zweck.
+  en: 'To prevent their labour from competing with that of outside concerns, they are set to rather useless tasks: the men break stones, "as much as a strong man can accomplish with effort in a day;" the women, children, and aged men pick oakum, for I know not what insignificant use.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '497'
+- id: XI.15.10
+  kind: p
+  original: Damit die "Überflüssigen" sich nicht mehren, oder die "demoralisierten" Eltern nicht auf ihre Kinder wirken können, werden die Familien getrennt; der Mann wird in diesen Flügel, die Frau in jenen, die Kinder in einen dritten geschickt, und sie dürfen einander nur zu bestimmten, selten wiederkehrenden Zeiten sehen, und auch dann nur, wenn sie sich nach der Meinung der Beamten gut betragen haben.
+  en: To prevent the "superfluous" from multiplying, and "demoralised" parents from influencing their children, families are broken up, the husband is placed in one wing, the wife in another, the children in a third, and they are permitted to see one another only at stated times after long intervals, and then only when they have, in the opinion of the officials, behaved well.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '497'
+- id: XI.15.11
+  kind: p
+  original: Und um den Ansteckungsstoff des Pauperismus vollständig in diesen Bastillen vor der Außenwelt abzuschließen, dürfen die Bewohner derselben nur mit Bewilligung der Beamten Besuch im Sprechzimmer annehmen, überhaupt nur unter ihrer Aufsicht oder Erlaubnis mit Leuten außerhalb verkehren.
+  en: And in order to shut off the external world from contamination by pauperism within these bastilles, the inmates are permitted to receive visits only with the consent of the officials, and in the reception-rooms; to communicate in general with the world outside only by leave and under supervision.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '497'
+- id: XI.16.1
+  kind: p
+  original: Bei alledem soll die Kost gesund, die Behandlung menschlich sein.
+  en: Yet the food is supposed to be wholesome and the treatment humane with all this.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '497'
+- id: XI.16.2
+  kind: p
+  original: Aber der Geist des Gesetzes spricht zu laut, als daß diese Forderung irgendwie erfüllt werden könne.
+  en: But the intent of the law is too loudly outspoken for this requirement to be in any wise fulfilled.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '497'
+- id: XI.16.3
+  kind: p
+  original: Die Armengesetzkommissäre und die ganze englische Bourgeoisie täuscht sich, wenn sie die Durchführung des Prinzips ohne die der Konsequenzen für möglich hält.
+  en: The Poor Law Commissioners and the whole English bourgeoisie deceive themselves if they believe the administration of the law possible without these results.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '497'
+- id: XI.16.4
+  kind: p
+  original: Die Behandlung, die das neue Gesetz dem Buchstaben nach vorschreibt, steht mit dem ganzen Sinn desselben im Widerspruch; wenn das Gesetz der Sache nach die Armen für Verbrecher, die Armenhäuser für Strafgefängnisse, ihre Bewohner für außer dem Gesetz, außer der Menschheit stehende Gegenstände des Ekels und Abscheus erklärt, so hilft alles Befehlen des Gegenteils gar nichts.
+  en: The treatment, which the letter of the law prescribes, is in direct contradiction of its spirit. If the law in its essence proclaims the poor criminals, the workhouses prisons, their inmates beyond the pale of the law, beyond the pale of humanity, objects of disgust and repulsion, then all commands to the contrary are unavailing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '497'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.16.5
+  kind: p
+  original: In der Praxis wird denn auch der Geist und nicht der Buchstabe des Gesetzes bei der Behandlung der Armen befolgt.
+  en: 'In practice, the spirit and not the letter of the law is followed in the treatment of the poor, as in the following few examples:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '497'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.16.6
+  kind: p
+  original: Hier einige wenige Beispiele.
+  en: ''
+  joined_to: XI.16.5
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '497'
+- id: XI.17.1
+  kind: p
+  original: Im Arbeitshause zu Greenwich wurde im Sommer 1843 ein fünfjähriger Knabe drei Nächte zur Strafe in die Totenkammer gesperrt, wo er auf den Deckeln der Särge schlafen mußte.
+  en: '"In the workhouse at Greenwich, in the summer of 1843, a boy five years old was punished by being shut into the dead-room, where he had to sleep upon the lids of the coffins.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '497'
+- id: XI.17.2
+  kind: p
+  original: '- Im Arbeitshause zu Herne geschah dasselbe mit einem kleinen Mädchen, das während der Nacht das Bett nicht trocken hielt; diese Art Strafe scheint überhaupt sehr beliebt zu sein.'
+  en: In the workhouse at Herne, the same punishment was inflicted upon a little girl for wetting the bed at night, and this method of punishment seems to be a favourite one.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 497-498
+- id: XI.17.3
+  kind: p
+  original: Dies Arbeitshaus, das in einer der schönsten Gegenden von Kent liegt, zeichnet sich auch dadurch aus, daß alle Fenster nach innen, nach dem Hofe zu gehen und bloß zwei neugebrochene den Bewohnern desselben einen Blick in die Außenwelt gestatten.
+  en: This workhouse, which stands in one of the most beautiful regions of Kent, is peculiar, in so far as its windows open only upon the court, and but two, newly introduced, afford the inmates a glimpse of the outer world.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.17.4
+  kind: p
+  original: 'Der Schriftsteller, der dies im "Illuminated Magazine" erzählt, schließt seine Schilderung mit den Worten:'
+  en: 'The author who relates this in the Illuminated Magazine, closes his description with the words: "If God punished men for crimes as man punishes man for poverty, then woe to the sons of Adam!"'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.18.1
+  kind: p
+  original: '"Wenn Gott den Menschen für Verbrechen so bestraft, wie der Mensch den Menschen straft für die Armut, dann wehe den Söhnen Adams!"'
+  en: ''
+  joined_to: XI.17.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '498'
+- id: XI.19.1
+  kind: p
+  original: Im November 1843 starb zu Leicester ein Mann, der zwei Tage vorher aus dem Arbeitshause zu Coventry entlassen worden war.
+  en: In November, 1843, a man died at Leicester, who had been dismissed two days before from the workhouse at Coventry.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.19.2
+  kind: p
+  original: Die Details über die Behandlung der Armen in dieser Anstalt sind empörend.
+  en: The details of the treatment of the poor in this institution are revolting.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.19.3
+  kind: p
+  original: Der Mann, George Robson, hatte eine Wunde an der Schulter, deren Kur gänzlich vernachlässigt wurde; er wurde an die Pumpe gestellt, um sie mit dem gesunden Arm in Bewegung zu setzen; dabei bekam er nur die gewöhnliche Armenhauskost, die er wegen der Schwächung seines Körpers durch die unbeachtete Wunde nicht verdauen konnte; er wurde notwendig schwächer, und je mehr er klagte, desto brutaler wurde die Behandlung.
+  en: The man, George Robson, had a wound upon the shoulder, the treatment of which was wholly neglected; he was set to work at the pump, using the sound arm; was given only the usual workhouse fare, which he was utterly unable to digest by reason of the unhealed wound and his general debility; he naturally grew weaker, and the more he complained, the more brutally he was treated.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.19.4
+  kind: p
+  original: '- Wenn seine Frau, die auch im Arbeitshause war, ihm ihr bißchen Bier bringen wollte, so wurde sie gescholten und mußte es in Gegenwart der Aufseherin austrinken.'
+  en: When his wife tried to bring him her drop of beer, she was reprimanded, and forced to drink it herself in the presence of the female warder.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.19.5
+  kind: p
+  original: Er wurde krank, aber auch dann keine bessere Behandlung.
+  en: He became ill, but received no better treatment.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.19.6
+  kind: p
+  original: Zuletzt wurde er auf sein Begehren mit seiner Frau unter dem Geleite der beleidigendsten Ausdrücke entlassen.
+  en: Finally, at his own request, and under the most insulting epithets, he was discharged, accompanied by his wife.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.19.7
+  kind: p
+  original: Zwei Tage darauf starb er in Leicester, wie der bei der Totenschau gegenwärtige Arzt erklärte, infolge der vernachlässigten Wunde und der für seinen Zustand schlechterdings unverdaulichen Kost.
+  en: Two days later he died at Leicester, in consequence of the neglected wound and of the food given him, which was utterly indigestible for one in his condition, as the surgeon present at the inquest testified.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.19.8
+  kind: p
+  original: Bei seiner Entlassung wurden ihm Briefe eingehändigt, in denen Geld für ihn war, die sechs Wochen lang zurückgehalten und nach einer Regel des Etablissements vom Vorsteher eröffnet worden waren!
+  en: When he was discharged, there were handed to him letters containing money, which had been kept back six weeks, and opened, according to a rule of the establishment, by the inspector!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.19.9
+  kind: p
+  original: '- Im Arbeitshause zu Birmingham fielen so schändliche Dinge vor, daß endlich im Dezember 1843 ein Beamter abgeschickt wurde, um die Sache zu untersuchen.'
+  en: In Birmingham such scandalous occurrences took place, that finally, in 1843, an official was sent to investigate the case.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.19.10
+  kind: p
+  original: Er fand, daß vier Trampers (wir haben oben eine Erklärung dieses Ausdrucks gehabt) in ein Hundeloch (black-hole) unter der Treppe nackend eingesperrt und 8 bis 10 Tage in diesem Zustande gehalten worden waren, oft hungrig, ohne vor Mittag etwas zu essen zu erhalten, und in der strengsten Jahreszeit.
+  en: He found that four tramps had been shut up naked under a staircase in a black hole, eight to ten days, often deprived of food until noon, and that at the severest season of the year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '498'
+- id: XI.19.11
+  kind: p
+  original: Ein kleiner Junge war durch sämtliche Strafgefängnisse der Anstalt geschickt worden, zuerst in eine feuchte, gewölbte, enge Rumpelkammer, dann zweimal ins Hundeloch, das zweite Mal drei Tage und drei Nächte, dann ebensolange ins alte Hundeloch, was noch schlechter war, dann ins Trampzimmer, ein stinkendes, ekelhaft schmutziges, enges Loch mit hölzernen Schlafpritschen, wo der Beamte bei seiner Revision noch zwei zerlumpte, vor Kälte zusammengekrochene Knaben fand, die bereits vier Tage dort gesessen hatten.
+  en: A little boy had been passed through all grades of punishment known to the institution; first locked up in a damp, vaulted, narrow, lumber-room; then in the dog-hole twice, the second time three days and three nights; then the same length of time in the old dog-hole, which was still worse; then the tramp-room, a stinking, disgustingly filthy hole, with wooden sleeping stalls, where the official, in the course of his inspection, found two other tattered boys, shrivelled with cold, who had been spending three days there.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 498-499
+- id: XI.19.12
+  kind: p
+  original: Im Hundeloch saßen oft sieben und im Trampzimmer oft zwanzig Trampers zusammengepfropft..
+  en: In the dog-hole there were often seven, and in the tramp-room, twenty men huddled together.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '499'
+- id: XI.19.13
+  kind: p
+  original: Auch Weiber waren zur Strafe, weil sie nicht in die Kirche gehen wollten, ins Hundeloch gesteckt, und eine war sogar vier Tage ins Trampzimmer gesperrt worden, wo sie Gott weiß was für Gesellschaft fand, und alles das, während sie krank war und Medizin einnahm!
+  en: Women, also, were placed in the dog-hole, because they refused to go to church; and one was shut four days into the tramp-room, with God knows what sort of company, and that while she was ill and receiving medicine!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '499'
+- id: XI.19.14
+  kind: p
+  original: Ein anderes Weib war zur Strafe ins Tollhaus geschickt worden, obwohl sie vollkommen bei Verstande war.
+  en: Another woman was placed in the insane department for punishment, though she was perfectly sane.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '499'
+- id: XI.19.15
+  kind: p
+  original: '- Im Arbeitshause zu Bacton in Suffolk war im Januar 1844 eine ähnliche Untersuchung, woraus hervorging, daß hier eine Blödsinnige als Krankenwärterin angestellt war und allerlei verkehrtes Zeug mit den Kranken trieb, und daß Kranke, die nachts oft unruhig waren oder aufstanden, mit über dem Bettzeug und unter dem Bette her geführten Stricken festgebunden wurden, um den Wärterinnen die Mühe des Aufbleibens zu ersparen - ein Kranker wurde in diesem Zustande tot gefunden.'
+  en: In the workhouse at Bacton, in Suffolk, in January, 1844, a similar investigation revealed the fact that a feeble-minded woman was employed as nurse, and took care of the patients accordingly; while sufferers, who were often restless at night, or tried to get up, were tied fast with cords passed over the covering and under the bedstead, to save the nurses the trouble of sitting up at night. One patient was found dead, bound in this way.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T3
+    editions: '1892'
+    reading: aufgefunden
+    base_text: … diesem Zustande tot gefunden ‸ . …
+  mew_page: '499'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.19.16
+  kind: p
+  original: Im Armenhause von St. Pancras, London, wo die billigen Hemden verfertigt werden, erstickte ein Epileptischer während eines Anfalls im Bette, ohne daß ihm jemand zu Hülfe gekommen wäre.
+  en: In the St. Pancras workhouse in London (where the cheap shirts already mentioned are made), an epileptic died of suffocation during an attack in bed, no one coming to his relief; in the same house, four to six, sometimes eight children, slept in one bed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '499'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.19.17
+  kind: p
+  original: In demselben Hause schlafen vier bis sechs, ja zuweilen acht Kinder in einem Bette.
+  en: ''
+  joined_to: XI.19.16
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '499'
+- id: XI.19.18
+  kind: p
+  original: '- Im Shoreditch -Arbeitshause in London wurde ein Mann eine Nacht mit einem Kranken, der im heftigsten Fieber lag, in ein Bett gesteckt, und das Bett war noch dazu voll Ungeziefer.'
+  en: In Shoreditch workhouse a man was placed, together with a fever patient violently ill, in a bed teeming with vermin.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '499'
+- id: XI.19.19
+  kind: p
+  original: '- Im Arbeitshause zu Bethnal Green, London, wurde eine im sechsten Monat schwangere Frau mit ihrem noch nicht zweijährigen Kinde vom 28. Februar bis 20. März 1844 im Empfangszimmer eingeschlossen, ohne ins Arbeitshaus selbst aufgenommen zu werden - von Betten und Orten der Befriedigung der natürlichsten Bedürfnisse keine Spur.'
+  en: In Bethnal Green workhouse, London, a woman in the sixth month of pregnancy was shut up in the reception-room with her two-year-old child, from February 28th to March 20th, without being admitted into the workhouse itself, and without a trace of a bed or the means of satisfying the most natural wants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '499'
+- id: XI.19.20
+  kind: p
+  original: Ihr Mann wurde ins Arbeitshaus gebracht, und als er bat, man möge seine Frau aus ihrer Einsperrung befreien, erhielt er für diese Insolenz vierundzwanzig Stunden Arrest bei Wasser und Brot.
+  en: Her husband, who was brought into the workhouse, begged to have his wife released from this imprisonment, whereupon he received twenty-four hours imprisonment, with bread and water, as the penalty of his insolence.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '499'
+- id: XI.19.21
+  kind: p
+  original: '- Im Arbeitshause zu Slough bei Windsor lag im September 1844 ein Mann am Tode; seine Frau reiste hin, kam nachts zwölf Uhr an, eilte zum Arbeitshause und wurde nicht zugelassen; am nächsten Morgen erst erhielt sie Erlaubnis, ihn zu sehen, und auch dann nur für eine halbe Stunde und in Gegenwart der Aufseherin, die bei jedem folgenden Besuch der Frau sich zudrängte und ihr nach einer halben Stunde sagte, jetzt müsse sie gehen.'
+  en: In the workhouse at Slough, near Windsor, a man lay dying in September, 1844. His wife journeyed to him, arriving at midnight; and hastening to the workhouse, was refused admission. She was not permitted to see her husband until the next morning, and then only in the presence of a female warder, who forced herself upon the wife at every succeeding visit, sending her away at the end of half-an-hour.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '499'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: XI.19.22
+  kind: p
+  original: '- Im Arbeitshause zu Middleton in Lancashire waren zwölf, zuzeiten achtzehn Paupers beiderlei Geschlechts, die in einem Zimmer schliefen.'
+  en: In the workhouse at Middleton, in Lancashire, twelve, and at times eighteen, paupers, of both sexes, slept in one room.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '499'
+- id: XI.19.23
+  kind: p
+  original: Diese Anstalt steht nicht unter dem neuen, sondern einem frühern, exzeptionellen Armengesetz (Gilbert's Act).
+  en: This institution is not embraced by the New Poor Law, but is administered under an old special act (Gilbert's Act).
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 499-500
+- id: XI.19.24
+  kind: p
+  original: Der Inspektor hatte eine Brauerei für seine Rechnung im Arbeitshause angelegt.
+  en: The inspector had instituted a brewery in the house for his own benefit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.19.25
+  kind: p
+  original: '- In Stockport wurde am 31. Juli 1844 ein 72jähriger Greis aus dem Armenhause vor den Friedensrichter geschleppt, weil er sich weigerte, Steine zu klopfen, und vorgab, wegen seines Alters und eines steifen Knies könne er diese Arbeit nicht tun.'
+  en: In Stockport, July 31st, 1844, a man, seventy-two years old, was brought before the Justice of the Peace for refusing to break stones, and insisting that, by reason of his age and a stiff knee, he was unfit for his work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.19.26
+  kind: p
+  original: Vergehens erbot er sich, irgendeine Arbeit zu übernehmen, die seiner Körperstärke angemessen sei - er wurde zu 14 Tagen Zwangsarbeit auf der Tretmühle verurteilt.
+  en: In vain did he offer to undertake any work adapted to his physical strength; he was sentenced to two weeks upon the treadmill.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.19.27
+  kind: p
+  original: '- Im Arbeitshause zu Basford fand ein revidierender Beamter im Februar 1844, daß die Bettücher in dreizehn Wochen, die Hemden in vier Wochen, die Strümpfe in zwei bis zehn Monaten nicht gewechselt worden waren, so daß von fünfundvierzig Knaben nur drei noch Strümpfe hatten und die Hemden alle zerlumpt waren.'
+  en: In the workhouse at Basford, an inspecting official found that the sheets had not been changed in thirteen weeks, shirts in four weeks, stockings in two to ten months, so that of forty-five boys but three had stockings, and all their shirts were in tatters.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.19.28
+  kind: p
+  original: Die Betten wimmelten von Ungeziefer, und die Eßnäpfe wurden aus den Urineimern gewaschen.
+  en: The beds swarmed with vermin, and the tableware was washed in the slop-pails.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.19.29
+  kind: p
+  original: '- Im West-Londoner Armenhause war ein Portier, der syphilitisch war und seine Krankheit vier Mädchen mitgeteilt hatte, dennoch nicht entlassen worden, und ein andrer Portier nahm ein taubstummes Mädchen aus einem der Zimmer, verbarg sie vier Tage in seinem Bett und schlief bei ihr.'
+  en: In the west of London workhouse, a porter who had infected four girls with syphilis was not discharged, and another who had concealed a deaf and dumb girl four days and nights in his bed was also retained.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.19.30
+  kind: p
+  original: Auch er wurde nicht weggeschickt.
+  en: ''
+  joined_to: XI.19.29
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '500'
+- id: XI.20.1
+  kind: p
+  original: Wie im Leben, so im Tode.
+  en: As in life, so in death.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.20.2
+  kind: p
+  original: Die Armen werden auf die rücksichtsloseste Weise, wie krepiertes Vieh, verscharrt.
+  en: The poor are dumped into the earth like infected cattle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.20.3
+  kind: p
+  original: Der Armenkirchhof von St. Bride, London, ist ein nackter Morast, der seit Karl II. zum Kirchhof benutzt wird, voll Knochenhaufen; jeden Mittwoch werden die verstorbenen Paupers in ein 14 Fuß tiefes Loch geworfen, der Pfaff rasselt eiligst seine Litanei ab, das Loch wird lose verscharrt, um nächsten Mittwoch wieder geöffnet und solange mit Leichen gefüllt zu werden, bis keine mehr hineingeht.
+  en: The pauper burial-ground of St. Brides, London, is a bare morass, in use as a cemetery since the time of Charles II., and filled with heaps of bones; every Wednesday the paupers are thrown into a ditch fourteen feet deep; a curate rattles through the Litany at the top of his speed; the ditch is loosely covered in, to be re-opened the next Wednesday, and filled with corpses as long as one more can be forced in.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.20.4
+  kind: p
+  original: Der Verwesungsgeruch davon verpestet die ganze Nachbarschaft.
+  en: The putrefaction thus engendered contaminates the whole neighbourhood.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.20.5
+  kind: p
+  original: '- In Manchester liegt der Armenkirchhof der Altstadt gegenüber am Irk, ebenfalls ein wüster, unebener Platz,.'
+  en: 'In Manchester, the pauper burial-ground lies opposite to the Old Town, along the Irk: this, too, is a rough, desolate place.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.20.6
+  kind: p
+  original: Vor etwa zwei Jahren wurde eine Eisenbahn durchgeführt.
+  en: About two years ago a railroad was carried through it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.20.7
+  kind: p
+  original: Wäre es ein respektabler Kirchhof gewesen, wie würde die Bourgeoisie wie die Geistlichkeit Zeter über Entheiligung geschrien haben!
+  en: If it had been a respectable cemetery, how the bourgeoisie and the clergy would have shrieked over the desecration!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.20.8
+  kind: p
+  original: Aber es war ein Armenkirchhof, es war die Ruhestätte von Paupers und Überflüssigen, und so genierte man sich durchaus nicht.
+  en: But it was a pauper burial-ground, the resting-place of the outcast and superfluous, so no one concerned himself about the matter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.20.9
+  kind: p
+  original: Man nahm sich nicht einmal die Mühe, die noch nicht ganz verwesten Leichen auf die andere Seite des Kirchhofs zu bringen, man scharrte auf, wie es gerade diente, und schlug Pfähle in frische Gräber, so daß das mit verwesenden Stoffen geschwängerte Wasser des sumpfigen Bodens oben herausquoll und die Umgebung mit den widerlichsten und schädlichsten Gasen erfüllte.
+  en: It was not even thought worth while to convey the partially decayed bodies to the other side of the cemetery; they were heaped up just as it happened, and piles were driven into newly-made graves, so that the water oozed out of the swampy ground, pregnant with putrefying matter, and filled the neighbourhood with the most revolting and injurious gases.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.20.10
+  kind: p
+  original: Ich mag die ekelhafte Roheit, die hier an den Tag kam, nicht weiter in ihren Details schildern.
+  en: The disgusting brutality which accompanied this work I cannot describe in further detail.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '500'
+- id: XI.21.1
+  kind: p
+  original: Wird man sich noch wundern, daß die Armen sich noch weigern, die öffentliche Unterstützung unter diesen Bedingungen anzunehmen? daß sie lieber verhungern als in diese Bastillen gehen?
+  en: Can any one wonder that the poor decline to accept public relief under these conditions? That they starve rather than enter these bastilles?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 500-501
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.21.2
+  kind: p
+  original: Mir liegen fünf Fälle vor, wo die Leute wirklich und geradezu verhungerten und noch wenige Tage vor ihrem Tode, als ihnen die Armenverwaltung die Unterstützung außer dem Arbeitshause abschlug, lieber in ihre Not zurück als in diese Hölle gingen.
+  en: I have the reports of five cases in which persons actually starving, when the guardians refused them outdoor relief, went back to their miserable homes and died of starvation rather than enter these hells.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.21.3
+  kind: p
+  original: Insofern haben die Armengesetzkommissäre ihren Zweck vollkommen erreicht.
+  en: Thus far have the Poor Law Commissioners attained their object.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.21.4
+  kind: p
+  original: Aber zu gleicher Zeit haben die Arbeitshäuser auch die Erbitterung der arbeitenden Klasse gegen die besitzende, die zum größten Teil für das neue Armengesetz schwärmt, höher gesteigert als irgendeine Maßregel der machthabenden Partei.
+  en: At the same time, however, the workhouses have intensified, more than any other measure of the party in power, the hatred of the working-class against the property-holders, who very generally admire the New Poor Law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.21.5
+  kind: p
+  original: Von Newcastle bis Dover ist unter den Arbeitern nur eine Stimme der Empörung über das neue Gesetz.
+  en: From Newcastle to Dover, there is but one voice among the workers--the voice of hatred against the new law.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.21.6
+  kind: p
+  original: Die Bourgeoisie hat in ihm ihre Meinung über ihre Pflichten gegen das Proletariat so deutlich ausgesprochen, daß sie auch von den Dümmsten verstanden wurde.
+  en: The bourgeoisie has formulated so clearly in this law its conception of its duties towards the proletariat, that it has been appreciated even by the dullest.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.21.7
+  kind: p
+  original: So geradezu, so unverhohlen war es noch nie behauptet worden, daß die Besitzlosen nur da sind, um sich von den Besitzenden ausbeuten zu lassen und um zu verhungern, wenn die Besitzenden von ihnen keinen Gebrauch machen können.
+  en: So frankly, so boldly had the conception never yet been formulated, that the non-possessing class exists solely for the purpose of being exploited, and of starving when the property-holders can no longer make use of it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.21.8
+  kind: p
+  original: Darum aber hat dies neue Armengesetz auch so wesentlich zur Beschleunigung der Arbeiterbewegung und namentlich zur Verbreitung des Chartismus beigetragen, und da es auf dem Lande am meisten in Ausführung gekommen ist, so erleichtert es die Entwicklung der proletarischen Bewegung, die den Landdistrikten bevorsteht.
+  en: Hence it is that this new Poor Law has contributed so greatly to accelerate the labour movement, and especially to spread Chartism; and, as it is carried out most extensively in the country, it facilitates the development of the proletarian movement which is arising in the agricultural districts.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.22.1
+  kind: p
+  original: Fügen wir noch hinzu, daß auch in Irland seit 1838 ein gleiches Armengesetz besteht, das für 80 000 Paupers dieselben Asyle vorbereitet.
+  en: Let me add that a similar law in force in Ireland since 1838, affords a similar refuge for eighty thousand paupers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.22.2
+  kind: p
+  original: Auch hier hat es sich verhaßt gemacht und würde sich noch verhaßter gemacht haben, wenn es irgendwie zu der Wichtigkeit hätte kommen können, die es in England erreichte.
+  en: Here, too, it has made itself disliked, and would have been intensely hated if it had attained anything like the same importance as in England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.22.3
+  kind: p
+  original: Aber was bedeutet die schlechte Behandlung von 80 000 Proletariern in einem Lande, wo es ihrer dritthalb Millionen gibt!
+  en: But what difference does the ill-treatment of eighty thousand proletarians make in a country in which there are two and a half millions of them?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.22.4
+  kind: p
+  original: '- In Schottland existieren, mit lokalen Ausnahmen, gar keine Armengesetze.'
+  en: In Scotland there are, with local exceptions, no Poor Laws.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.23.1
+  kind: p
+  original: Ich hoffe, nach dieser Schilderung des neuen Armengesetzes und seiner Wirkungen wird man kein Wort zu hart finden, was ich von der englischen Bourgeoisie gesagt habe.
+  en: I hope that after this picture of the New Poor Law and its results, no word which I have said of the English bourgeoisie will be thought too stern.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.23.2
+  kind: p
+  original: In dieser öffentlichen Maßregel, wo sie in corpore als Macht auftritt, spricht sie es aus, was sie eigentlich will, was sie mit all den kleineren, dem Scheine nach nur auf einzelne Tadel werfenden Handlungen gegen das Proletariat meint.
+  en: In this public measure, in which it acts in corpore as the ruling power, it formulates its real intentions, reveals the animus of those smaller transactions with the proletariat, of which the blame apparently attaches to individuals.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.23.3
+  kind: p
+  original: Und daß diese Maßregel nicht nur von einer Sektion der Bourgeoisie ausging, sondern den Beifall der ganzen Klasse genießt, das beweisen unter andern die Parlamentsdebatten von 1844.
+  en: And that this measure did not originate with any one section of the bourgeoisie, but enjoys the approval of the whole class, is proved by the Parliamentary debates of 1844.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '501'
+- id: XI.23.4
+  kind: p
+  original: Die liberale Partei hatte das neue Armengesetz erlassen, die konservative, ihren Minister Peel an der Spitze, verteidigt sie und ändert nur einige Lumpereien daran in der Poor-Law- Amendment -Bill [Armengesetz-Novelle] von 1844.
+  en: The Liberal party had enacted the New Poor Law; the Conservative party, with its Prime Minister Peel at the head, defends it, and only alters some petty-fogging trifles in the Poor Law Amendment Bill of 1844.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 501-502
+- id: XI.23.5
+  kind: p
+  original: Eine liberale Majorität gab, eine konservative bestätigte das Gesetz, und die edlen Lords gaben ihr "Content" ["Einverständnis"] beide Male.
+  en: A Liberal majority carried the bill, a Conservative majority approved it, and the "Noble Lords" gave their consent each time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '502'
+- id: XI.23.6
+  kind: p
+  original: So ist die Ausstoßung des Proletariats aus Staat und Gesellschaft ausgesprochen; so ist es offen erklärt, daß die Proletarier keine Menschen sind und nicht als Menschen behandelt zu werden verdienen.
+  en: Thus is the expulsion of the proletariat from State and society outspoken, thus is it publicly proclaimed that proletarians are not human beings, and do not deserve to be treated as such.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '502'
+- id: XI.23.7
+  kind: p
+  original: Überlassen wir es ruhig den Proletariern des britischen Reichs, sich ihre Menschenrechte wiederzuerobern.
+  en: Let us leave it to the proletarians of the British Empire to re-conquer their human rights.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - XI.N3
+  mew_page: '502'
+- id: XI.24.1
+  kind: p
+  original: Das ist die Lage der britischen Arbeiterklasse, wie ich sie während einundzwanzig Monaten durch meine eignen Augen und durch offizielle und sonstige authentische Berichte kennengelernt habe.
+  en: Such is the state of the British working-class as I have come to know it in the course of twenty-one months, through the medium of my own eyes, and through official and other trustworthy reports.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '502'
+- id: XI.24.2
+  kind: p
+  original: Und wenn ich diese Lage, wie ich auf den vorstehenden Seiten oft genug ausgesprochen habe, für eine schlechterdings unerträgliche halte, so bin ich nicht der einzige, der das tut.
+  en: And when I call this condition, as I have frequently enough done in the foregoing pages, an utterly unbearable one, I am not alone in so doing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '502'
+- id: XI.24.3
+  kind: p
+  original: Schon Gaskell erklärt 1833, daß er an einem friedlichen Ausgange verzweifelt und daß eine Revolution schwerlich ausbleiben könne.
+  en: As early as 1833, Gaskell declared that he despaired of a peaceful issue, and that a revolution can hardly fail to follow.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 502-503
+- id: XI.24.4
+  kind: p
+  original: Carlyle erklärt 1838 den Chartismus und das revolutionäre Treiben der Arbeiter aus dem Elend, in dem sie leben, und wundert sich nur, daß diese so ruhig acht lange Jahre am Tisch des Barmekiden gesessen haben, wo sie von der liberalen Bourgeoisie mit leeren Versprechungen gespeist wurden - und 1844 erklärt er, daß die Organisation der Arbeit sogleich in Angriff' genommen werden müsse, "wenn Europa, wenigstens England, noch lange bewohnbar bleiben solle".
+  en: In 1838, Carlyle explained Chartism and the revolutionary activity of the working-men as arising out of the misery in which they live, and only wondered that they have sat so quietly eight long years at the Barmecide feast, at which they have been regaled by the Liberal bourgeoisie with empty promises. And in 1844 he declared that the work of organising labour must be begun at once "if Europe or at least England, is long to remain inhabitable."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.25.1
+  kind: p
+  original: 'Und die "Times", das "erste Journal Europas", sagt im Juni 1844 geradezu:'
+  en: 'And the Times, the "first journal of Europe," said in June, 1844: "War to palaces, peace unto cabins--that is a battle-cry of terror which may come to resound throughout our country.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.26.1
+  kind: p
+  original: '"Krieg den Palästen, Friede den Hütten, das ist ein Schlachtruf des Schreckens, der noch einmal durch unser Land ertönen mag.'
+  en: ''
+  joined_to: XI.25.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '503'
+- id: XI.26.2
+  kind: p
+  original: Mögen die Reichen sich in acht nehmen!"
+  en: Let the wealthy beware!"
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+- id: XI.27.1
+  kind: p
+  original: Nehmen wir indes noch einmal die Chancen der englischen Bourgeoisie vor.
+  en: Meanwhile, let us review once more the chances of the English bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+- id: XI.27.2
+  kind: p
+  original: Im schlimmsten Fall gelingt es der ausländischen, besonders der amerikanischen Industrie, die englische Konkurrenz auch nach der, in wenig Jahren nötigen, Abschaffung der Korngesetze aushalten zu können.
+  en: In the worst case, foreign manufacture, especially that of America, may succeed in withstanding English competition, even after the repeal of the Corn Laws, inevitable in the course of a few years.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+- id: XI.27.3
+  kind: p
+  original: Die deutsche Industrie macht jetzt große Anstrengungen, die amerikanische hat sich mit Riesenschritten entwickelt.
+  en: German manufacture is now making great efforts, and that of America has developed with giant strides.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+- id: XI.27.4
+  kind: p
+  original: Amerika mit seinen unerschöpflichen Hülfsmitteln, mit den unermeßlichsten Kohlen- und Eisenlagern, mit einem beispiellosen Reichtum an Wasserkraft und schiffbaren Flüssen, besonders aber mit seiner energischen, tätigen Bevölkerung, gegen welche die Engländer noch phlegmatische Schlafmützen sind, Amerika hat in weniger als zehn Jahren eine Industrie geschaffen, welche in gröberen Baumwollenwaren (dem Hauptartikel der englischen Industrie) schon jetzt mit England konkurriert, die Engländer aus dem nord- und südamerikanischen Markt verdrängt hat und in China neben der englischen verkauft wird.
+  en: America, with its inexhaustible resources, with its unmeasured coal and iron fields, with its unexampled wealth of water-power and its navigable rivers, but especially with its energetic, active population, in comparison with which the English are phlegmatic dawdlers,--America has in less than ten years created a manufacture which already competes with England in the coarser cotton goods, has excluded the English from the markets of North and South America, and holds its own in China, side by side with England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: XI.27.5
+  kind: p
+  original: In andern Industriezweigen geht es ebenso.
+  en: ''
+  joined_to: XI.27.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '503'
+- id: XI.27.6
+  kind: p
+  original: Ist ein Land dazu begabt, das industrielle Monopol an sich zu reißen, so ist es Amerika.
+  en: If any country is adapted to holding a monopoly of manufacture, it is America.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+- id: XI.27.7
+  kind: p
+  original: Wird also auf diese Weise die englische Industrie geschlagen - wie dies in den nächsten zwanzig Jahren, wenn die jetzigen sozialen Zustände bleiben, wohl nicht anders geschehen kann, so wird die Majorität des Proletariats auf immer "überflüssig" und hat keine andre Wahl als zu verhungern oder - zu revolutionieren.
+  en: Should English manufacture be thus vanquished--and in the course of the next twenty years, if the present conditions remain unchanged, this is inevitable--the majority of the proletariat must become forever superfluous, and has no other choice than to starve or to rebel.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+- id: XI.27.8
+  kind: p
+  original: Denkt die englische Bourgeoisie an diese Chance?
+  en: Does the English bourgeoisie reflect upon this contingency?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+- id: XI.27.9
+  kind: p
+  original: 'Im Gegenteil, ihr liebster Ökonom, MacCulloch, doziert ihr aus seiner Studierstube heraus: Es ist gar nicht daran zu denken, daß so ein junges Land wie Amerika, das noch gar nicht ordentlich bevölkert ist, mit Erfolg Industrie treiben oder gar gegen ein altes industrielles Land wie England konkurrieren könne.'
+  en: On the contrary; its favourite economist, M'Culloch, teaches from his student's desk, that a country so young as America, which is not even properly populated, cannot carry on manufacture successfully or dream of competing with an old manufacturing country like England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '503'
+- id: XI.27.10
+  kind: p
+  original: Es wäre wahnsinnig von den Amerikanern, wenn sie das versuchen wollten, denn sie können nur Geld dabei verlieren, laßt sie hübsch beim Ackerbau bleiben, und wenn sie erst das ganze Land bebaut haben, dann wird die Zeit auch wohl kommen, wo sie mit Vorteil Industrie treiben können.
+  en: It were madness in the Americans to make the attempt, for they could only lose by it; better far for them to stick to their agriculture, and when they have brought their whole territory under the plough, a time may perhaps come for carrying on manufacture with a profit.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 503-504
+- id: XI.27.11
+  kind: p
+  original: '- Und das sagt der weise Ökonom, und die ganze Bourgeoisie betet''s ihm nach, während die Amerikaner einen Markt nach dem andern wegnehmen, während ein verwegner amerikanischer Spekulant vor kurzem eine Partie amerikanischer Waren nach England schickte, wo sie zur Wiederexportation verkauft wurden!'
+  en: So says the wise economist, and the whole bourgeoisie worships him, while the Americans take possession of one market after another, while a daring American speculator recently even sent a shipment of American cotton goods to England, where they were sold for re-exportation!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.28.1
+  kind: p
+  original: Aber selbst für den Fall, daß England das industrielle Monopol behielte, daß seine Fabriken fortwährend an Zahl wüchsen, was würde die Folge sein?
+  en: But assuming that England retained the monopoly of manufactures, that its factories perpetually multiply, what must be the result?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.28.2
+  kind: p
+  original: Die Handelskrisen würden bleiben, und mit der Ausdehnung der Industrie und der Vermehrung des Proletariats immer gewaltsamer, immer schauderhafter werden.
+  en: The commercial crises would continue, and grow more violent, more terrible, with the extension of industry and the multiplication of the proletariat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.28.3
+  kind: p
+  original: Das Proletariat würde durch den fortschreitenden Ruin der kleinen Mittelklasse, durch die mit Riesenschritten sich entwickelnde Zentralisation des Kapitals in den Händen weniger, in geometrischer Proportion zunehmen und bald die ganze Nation, mit Ausnahme weniger Millionäre, ausmachen.
+  en: The proletariat would increase in geometrical proportion, in consequence of the progressive ruin of the lower middle-class and the giant strides with which capital is concentrating itself in the hands of the few; and the proletariat would soon embrace the whole nation, with the exception of a few millionaires.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.28.4
+  kind: p
+  original: In dieser Entwicklung tritt aber eine Stufe ein, wo das Proletariat sieht, wie leicht es ihm wäre, die bestehende soziale Macht zu stürzen, und dann folgt eine Revolution.
+  en: But in this development there comes a stage at which the proletariat perceives how easily the existing power may be overthrown, and then follows a revolution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.29.1
+  kind: p
+  original: Doch weder der eine noch der andre Fall wird eintreten.
+  en: Neither of these supposed conditions may, however, be expected to arise.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.29.2
+  kind: p
+  original: Die Handelskrisen, der mächtigste Hebel aller selbständigen Entwicklung des Proletariats, werden, in Verbindung mit der auswärtigen Konkurrenz und dem steigenden Ruin der Mittelklasse, die Sache kürzer abmachen.
+  en: The commercial crises, the mightiest levers for all independent development of the proletariat, will probably shorten the process, acting in concert with foreign competition and the deepening ruin of the lower middle-class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.29.3
+  kind: p
+  original: Ich glaube nicht, daß das Volk sich noch mehr als eine Krisis wird gefallen lassen.
+  en: I think the people will not endure more than one more crisis.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.29.4
+  kind: p
+  original: Wahrscheinlich bringt schon die nächste, 1846 oder 1847 eintretende Krisis die Abschaffung der Korngesetze und die Charte.
+  en: The next one, in 1846 or 1847, will probably bring with it the repeal of the Corn Laws and the enactment of the Charter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+  en_note: 'English note {296}: And it did.'
+- id: XI.29.5
+  kind: p
+  original: Was die Charte für revolutionäre Bewegungen veranlassen wird, steht zu erwarten.
+  en: What revolutionary movements the Charter may give rise to remains to be seen.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.29.6
+  kind: p
+  original: Aber bis zur dann folgenden Krisis, die nach der Analogie der bisherigen 1852 oder 1853 eintreten müßte, durch die Abschaffung der Korngesetze jedoch verzögert wie durch andre Umstände, auswärtige Konkurrenz etc., beschleunigt werden kann, bis zu dieser Krisis wird es das englische Volk wahrlich überdrüssig sein, zum Vorteil der Kapitalisten sich ausbeuten zu lassen und, wenn die Kapitalisten seiner nicht mehr bedürfen, zu verhungern.
+  en: But, by the time of the next following crisis, which, according to the analogy of its predecessors, must break out in 1852 or 1853, unless delayed perhaps by the repeal of the Corn Laws or hastened by other influences, such as foreign competition--by the time this crisis arrives, the English people will have had enough of being plundered by the capitalists and left to starve when the capitalists no longer require their services.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.29.7
+  kind: p
+  original: Wenn sich bis dahin die englische Bourgeoisie nicht besinnt - und das tut sie allem Anschein nach gewiß nicht -, so wird eine Revolution folgen, mit der sich keine vorhergehende messen kann.
+  en: If, up to that time, the English bourgeoisie does not pause to reflect--and to all appearance it certainly will not do so--a revolution will follow with which none hitherto known can be compared.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.29.8
+  kind: p
+  original: Die zur Verzweiflung getriebenen Proletarier werden die Brandfackel ergreifen, von der Stephens ihnen gepredigt hat, die Volksrache wird mit einer Wut geübt werden, von der uns das Jahr 1793 noch keine Vorstellung gibt.
+  en: The proletarians, driven to despair, will seize the torch which Stephens has preached to them; the vengeance of the people will come down with a wrath of which the rage of 1793 gives no true idea.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '504'
+- id: XI.29.9
+  kind: p
+  original: Der Krieg der Armen gegen die Reichen wird der blutigste sein, der je geführt worden ist, Selbst der Übertritt eines Teils der Bourgeoisie zur Proletariatspartei, selbst eine allgemeine Besserung der Bourgeoisie würde nichts helfen.
+  en: The war of the poor against the rich will be the bloodiest ever waged. Even the union of a part of the bourgeoisie with the proletariat, even a general reform of the bourgeoisie, would not help matters.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 504-505
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.29.10
+  kind: p
+  original: Die allgemeine Sinnesänderung der Bourgeoisie würde ohnehin nur bis zu einem schlaffen Juste-milieu gehen können; die entschiedner den Arbeitern sich Anschließenden würden eine neue Gironde bilden und als solche im Lauf der gewaltsamen Entwicklung untergehen.
+  en: Besides, the change of heart of the bourgeoisie could only go as far as a lukewarm juste-milieu; the more determined, uniting with the workers, would only form a new Gironde, and succumb in the course of the mighty development.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.11
+  kind: p
+  original: Die Vorurteile einer ganzen Klasse streifen sich nicht ab wie ein alter Rock - am wenigsten bei der stabilen, befangenen, eigennützigen englischen Bourgeoisie.
+  en: 'The prejudices of a whole class cannot be laid aside like an old coat: least of all, those of the stable, narrow, selfish English bourgeoisie.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.12
+  kind: p
+  original: Das sind alles Schlüsse, die mit der größten Bestimmtheit gefolgert werden können, Schlüsse, deren Voraussetzungen unbestreitbare Tatsachen, einerseits der geschichtlichen Entwicklung, andrerseits der menschlichen Natur sind.
+  en: 'These are all inferences which may be drawn with the greatest certainty: conclusions, the premises for which are undeniable facts, partly of historical development, partly facts inherent in human nature.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.13
+  kind: p
+  original: Das Prophezeien ist nirgends so leicht als gerade in England, weil hier alles so klar und scharf in der Gesellschaft entwickelt ist.
+  en: Prophecy is nowhere so easy as in England, where all the component elements of society are clearly defined and sharply separated.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.14
+  kind: p
+  original: 'Die Revolution muß kommen, es ist jetzt schon zu spät, um eine friedliche Losung der Sache herbeizuführen: aber milder kann sie allerdings werden als die oben prophezeite.'
+  en: The revolution must come; it is already too late to bring about a peaceful solution; but it can be made more gentle than that prophesied in the foregoing pages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.15
+  kind: p
+  original: Das wird aber weniger von der Entwicklung der Bourgeoisie, als von der des Proletariats abhängen.
+  en: This depends, however, more upon the development of the proletariat than upon that of the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.16
+  kind: p
+  original: In demselben Verhältnis nämlich, in welchem das Proletariat sozialistische und kommunistische Elemente in sich aufnimmt, genau in demselben Verhältnis wird die Revolution an Blutvergießen, Rache und Wut abnehmen.
+  en: In proportion, as the proletariat absorbs socialistic and communistic elements, will the revolution diminish in bloodshed, revenge, and savagery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.17
+  kind: p
+  original: Der Kommunismus steht seinem Prinzipe nach über dem Zwiespalt zwischen Bourgeoisie und Proletariat, er erkennt ihn nur in seiner historischen Bedeutung für die Gegenwart, nicht aber als für die Zukunft berechtigt an; er will gerade diesen Zwiespalt aufheben.
+  en: 'Communism stands, in principle, above the breach between bourgeoisie and proletariat, recognises only its historic significance for the present, but not its justification for the future: wishes, indeed, to bridge over this chasm, to do away with all class antagonisms.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.18
+  kind: p
+  original: Er erkennt daher, solange der Zwiespalt besteht, die Erbitterung des Proletariats gegen seine Unterdrücker allerdings als eine Notwendigkeit, als den bedeutendsten Hebel der anfangenden Arbeiterbewegung an, aber er geht über diese Erbitterung hinaus, weil er eben eine Sache der Menschheit, nicht bloß der Arbeiter ist.
+  en: Hence it recognises as justified, so long as the struggle exists, the exasperation of the proletariat towards its oppressors as a necessity, as the most important lever for a labour movement just beginning; but it goes beyond this exasperation, because Communism is a question of humanity and not of the workers alone.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.19
+  kind: p
+  original: Ohnehin fällt es keinem Kommunisten ein, an einzelnen Rache üben zu wollen oder überhaupt zu glauben, daß der einzelne Bourgeois in den bestehenden Verhältnissen anders handeln könne, als er handelt.
+  en: Besides, it does not occur to any Communist to wish to revenge himself upon individuals, or to believe that, in general, the single bourgeois can act otherwise, under existing circumstances, than he does act.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.20
+  kind: p
+  original: Der englische Sozialismus (d.h. Kommunismus) beruht geradezu auf diesem Prinzip der Unzurechnungsfähigkeit des einzelnen.
+  en: English Socialism, i.e. Communism, rests directly upon the irresponsibility of the individual.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.21
+  kind: p
+  original: Je mehr also die englischen Arbeiter sozialistische Ideen in sich aufnehmen, desto mehr wird ihre jetzige Erbitterung, die es doch, wenn sie so gewaltsam bleibt, wie sie jetzt ist, zu nichts bringen würde, überflüssig, desto mehr werden ihre Schritte gegen die Bourgeoisie an Wildheit und Roheit verlieren.
+  en: Thus the more the English workers absorb communistic ideas, the more superfluous becomes their present bitterness, which, should it continue so violent as at present, could accomplish nothing; and the more their action against the bourgeoisie will lose its savage cruelty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.22
+  kind: p
+  original: Wäre es überhaupt möglich, das ganze Proletariat kommunistisch zu machen, ehe der Kampf ausbricht, so würde er sehr friedlich ablaufen; das ist aber nicht mehr möglich, es ist schon zu spät dazu.
+  en: If, indeed, it were possible to make the whole proletariat communistic before the war breaks out, the end would be very peaceful; but that is no longer possible, the time has gone by.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '505'
+- id: XI.29.23
+  kind: p
+  original: Ich glaube indes, daß bis zum Ausbruch des ganz offnen, direkten Krieges der Armen gegen die Reichen, der jetzt in England unvermeidlich geworden ist, sich wenigstens so viel Klarheit über die soziale Frage im Proletariat verbreiten wird, daß mit Hülfe der Ereignisse die kommunistische Partei imstande sein wird, das brutale Element der Revolution auf die Dauer zu überwinden und einem neunten Thermidor vorzubeugen.
+  en: Meanwhile, I think that before the outbreak of open, declared war of the poor against the rich, there will be enough intelligent comprehension of the social question among the proletariat, to enable the communistic party, with the help of events, to conquer the brutal element of the revolution and prevent a "Ninth Thermidor."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 505-506
+- id: XI.29.24
+  kind: p
+  original: Ohnehin wird die Erfahrung der Franzosen nicht umsonst gemacht worden sein, und dazu sind ja schon jetzt die meisten Chartistenführer Kommunisten.
+  en: In any case, the experience of the French will not have been undergone in vain, and most of the Chartist leaders are, moreover, already Communists.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '506'
+- id: XI.29.25
+  kind: p
+  original: Und da der Kommunismus über dem Gegensatze zwischen Proletariat und Bourgeoisie steht, so wird es auch dem besseren Teile der Bourgeoisie - der aber entsetzlich gering ist und nur auf Rekrutierung unter den Heranwachsenden rechnen kann - leichter werden, sich ihm anzuschließen, als dem ausschließlich proletarischen Chartismus.
+  en: And as Communism stands above the strife between bourgeoisie and proletariat, it will be easier for the better elements of the bourgeoisie (which are, however, deplorably few, and can look for recruits only among the rising generation) to unite with it than with purely proletarian Chartism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '506'
+- id: XI.30.1
+  kind: p
+  original: Wenn diese Schlüsse hier nicht hinreichend begründet sein sollten, so wird sich wohl anderswo Gelegenheit finden, sie als notwendige Resultate der historischen Entwicklung Englands nachzuweisen.
+  en: If these conclusions have not been sufficiently established in the course of the present work, there may be other opportunities for demonstrating that they are necessary consequences of the historical development of England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '506'
+- id: XI.30.2
+  kind: p
+  original: 'Aber ich bleibe dabei: Der Krieg der Armen gegen die Reichen, der jetzt schon im einzelnen und indirekt geführt wird, wird auch im allgemeinen, im ganzen und direkt in England geführt werden.'
+  en: But this I maintain, the war of the poor against the rich now carried on in detail and indirectly will become direct and universal.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '506'
+- id: XI.30.3
+  kind: p
+  original: Es ist zu spät zur friedlichen Losung.
+  en: It is too late for a peaceful solution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '506'
+- id: XI.30.4
+  kind: p
+  original: Die Klassen sondern sich schroffer und schroffer, der Geist des Widerstandes durchdringt die Arbeiter mehr und mehr, die Erbitterung steigt, die einzelnen Guerillascharmützel konzentrieren sich zu bedeutenderen Gefechten und Demonstrationen, und ein kleiner Anstoß wird bald hinreichen, um die Lawine in Bewegung zu setzen.
+  en: The classes are divided more and more sharply, the spirit of resistance penetrates the workers, the bitterness intensifies, the guerilla skirmishes become concentrated in more important battles, and soon a slight impulse will suffice to set the avalanche in motion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '506'
+- id: XI.30.5
+  kind: p
+  original: 'Dann wird allerdings der Schlachtruf durch das Land schallen: "Krieg den Palästen, Friede den Hütten!" - dann wird es aber zu spät sein, als daß sich die Reichen noch in acht nehmen könnten.'
+  en: 'Then, indeed, will the war-cry resound through the land: "War to the palaces, peace to the cottages!"--but then it will be too late for the rich to beware.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '506'
+- id: XI.N1.1.1
+  kind: note
+  original: Carlyle gibt in seinem "Past and Present" [Vergangenheit und Gegenwart] (London 1843) eine ausgezeichnet schöne Schilderung der englischen Bourgeoisie und ihrer ekelhaften Geldsucht, die ich in den "Deutsch-Französischen Jahrbüchern" teilweise übersetzt habe und auf die ich verweise.
+  en: Carlyle gives in his "Past and Present" (London, 1843) a splendid description of the English bourgeoisie and its disgusting money greed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {276}.
+- id: XI.N2.1.1
+  kind: note
+  original: '"Extracts from Information received by the Poor-Law-Commissioners" [Auszüge aus dem von den Armengesetzkommissären erhaltenen Bericht].'
+  en: Extracts from Information received from the Poor Law Commissioners.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {286}.
+- id: XI.N2.1.2
+  kind: note
+  original: Published by Authority.
+  en: Published by authority.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.N2.1.3
+  kind: note
+  original: London 1833.
+  en: London, 1833.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: XI.N3.1.1
+  kind: note
+  original: Um allen Mißdeutungen und daraus entstehenden Einwürfen vorzubeugen, will ich noch bemerken, daß ich von der Bourgeoisie als einer Klasse gesprochen habe und alle von einzelnen angeführten Dinge, mir nur als Belege für die Denk- und Handlungsweise der Klasse gelten.
+  en: To prevent misconstructions and consequent objections, I would observe that I have spoken of the bourgeoisie as a class, and that all such facts as refer to individuals serve merely as evidence of the way of thinking and acting of a class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {293}.
+- id: XI.N3.1.2
+  kind: note
+  original: Daher habe ich mich auch nicht auf die Unterscheidung der verschiedenen Sektionen und Parteien der Bourgeoisie einlassen können, die nur historisch und theoretisch von Bedeutung sind, und daher kann ich auch die wenigen Mitglieder der Bourgeoisie, die sich als ehrenwerte Ausnahmen gezeigt haben, nur beiläufig erwähnen.
+  en: Hence I have not entered upon the distinctions between the divers sections, subdivisions and parties of the bourgeoisie, which have a mere historical and theoretical significance. And I can, for the same reason, mention but casually the few members of the bourgeoisie who have shown themselves honourable exceptions.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: XI.N3.1.3
+  kind: note
+  original: Es sind dies einerseits die entschiedneren Radikalen die fast Chartisten sind, wie die Unterhausmitglieder und Fabrikanten Hindley aus Ashton und Fielden aus Todmorden (Lancashire), andrerseits die humanen Tories, die sich neuerdings als "junges England" konstituiert haben und zu denen besonders die Parlamentsmitglieder Disraeli, Borthwick.
+  en: These are, on the one hand, the pronounced Radicals, who are almost Chartists, such as a few members of the House of Commons, the manufacturers Hindly of Ashton, and Fielden of Todmordon (Lancashire), and, on the other hand, the philanthropic Tories, who have recently constituted themselves "Young England," among whom are the members of Parliament, D'Israeli, Borthwick, Ferrand, Lord John Manners, etc. Lord Ashley, too, is in sympathy with them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: XI.N3.1.4
+  kind: note
+  original: Ferrand, Lord John Manners etc. gehören.
+  en: ''
+  joined_to: XI.N3.1.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+- id: XI.N3.1.5
+  kind: note
+  original: Auch Lord Ashley steht ihnen nahe.
+  en: ''
+  joined_to: XI.N3.1.3
+  modern: ''
+  modern_status: joined
+  notes: ''
+- id: XI.N3.1.6
+  kind: note
+  original: Die Absicht des jungen Englands ist eine Wiederherstellung des alten "merry England" ["fröhlichen Englands"] mit seinen glänzenden Seiten und seinem romantischen Feudalismus; dieser Zweck ist natürlich unausführbar und sogar lächerlich, eine Satire auf alle historische Entwicklung, aber die gute Absicht, der Mut, sich gegen das Bestehende und die bestehenden Vorurteile aufzulehnen und die Niederträchtigkeit des Bestehenden anzuerkennen, ist schon etwa wert.
+  en: The hope of Young England is a restoration of the old "Merry England" with its brilliant features and its romantic feudalism. This object is of course unattainable and ridiculous, a satire upon all historic development; but the good intention, the courage to resist the existing state of things and prevalent prejudices, and to recognise the vileness of our present condition, is worth something anyhow.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  align: '2:2'
+  review: true
+  review_reason: 2 de sentence(s) matched to 2 en sentence(s)
+- id: XI.N3.1.7
+  kind: note
+  original: Ganz einsam steht der Deutsch-Engländer Thomas Carlyle, der, ursprünglich Tory, weiter geht als die Erwähnten.
+  en: ''
+  joined_to: XI.N3.1.6
+  modern: ''
+  modern_status: joined
+  notes: ''
+- id: XI.N3.1.8
+  kind: note
+  original: Er geht der sozialen Unordnung von allen englischen Bourgeois am tiefsten auf den Grund und fordert Organisation der Arbeit.
+  en: Wholly isolated is the half-German Englishman, Thomas Carlyle, who, originally a Tory, goes beyond all those hitherto mentioned.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: XI.N3.1.9
+  kind: note
+  original: Ich hoffe, daß Carlyle, der den rechten Weg gefunden hat, auch imstande sein wird, ihn zu verfolgen.
+  en: ''
+  joined_to: XI.N3.1.8
+  modern: ''
+  modern_status: joined
+  notes: ''
+- id: XI.N3.1.10
+  kind: note
+  original: Meine und vieler Deutschen beste Wünsche begleiten ihn!
+  en: ''
+  joined_to: XI.N3.1.8
+  modern: ''
+  modern_status: joined
+  notes: ''
+- id: XI.N3.1.11
+  kind: note
+  original: '- (1892) Aber die Februarrevolution machte ihn zum vollendeten Reaktionär; der gerechte Zorn über die Philister schlug um in versauerte Philister-Verdrießlichkeit über die historische Woge, die ihn auf den Strand warf.'
+  en: He has sounded the social disorder more deeply than any other English bourgeois, and demands the organisation of labour.
+  modern: ''
+  modern_status: empty
+  notes: ''

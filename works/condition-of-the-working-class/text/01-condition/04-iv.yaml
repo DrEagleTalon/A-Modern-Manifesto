@@ -1,0 +1,506 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: IV
+title_original: Die irische Einwanderung
+title_en: Irish Immigration
+author: Friedrich Engels
+date: 1844-11/1845-03
+original_language: de
+anchor_language: de
+source_original: MEW 2, S. 225-506 (Dietz, Berlin 1972) via mlwerke.de; text of the first edition (Leipzig 1845), readings of the second edition (Stuttgart 1892) as variants
+source_en: Florence Kelley Wischnewetzky's translation (New York 1887) in the London edition of 1892 (Swan Sonnenschein), Project Gutenberg ebook 17306 (public domain)
+verses:
+- id: IV.0.1
+  kind: heading
+  original: Die irische Einwanderung
+  en: IRISH IMMIGRATION.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: IV.1.1
+  kind: p
+  original: Wir erwähnten schon mehrere Male gelegentlich der Irländer, die sich nach England hinübergesiedelt haben, und werden die Ursachen und Wirkungen dieser Einwanderung jetzt näher zu erörtern haben.
+  en: We have already referred several times in passing to the Irish who have immigrated into England; and we shall now have to investigate more closely the causes and results of this immigration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: IV.2.1
+  kind: p
+  original: Die rasche Ausdehnung der englischen Industrie hätte nicht stattfinden können, wenn England nicht an der zahlreichen und armen Bevölkerung von Irland eine Reserve gehabt hätte, über die es verfügen konnte.
+  en: The rapid extension of English industry could not have taken place if England had not possessed in the numerous and impoverished population of Ireland a reserve at command.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: IV.2.2
+  kind: p
+  original: Der Irländer hatte daheim nichts zu verlieren, in England viel zu gewinnen, und seit der Zeit, daß es in Irland bekannt wurde, auf der Ostseite des Georgskanals sei sichre Arbeit und guter Lohn für starke Arme zu finden, sind jedes Jahr Scharen von Irländern herübergekommen.
+  en: The Irish had nothing to lose at home, and much to gain in England; and from the time when it became known in Ireland that the east side of St. George's Channel offered steady work and good pay for strong arms, every year has brought armies of the Irish hither.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: IV.2.3
+  kind: p
+  original: Man rechnet, daß bis jetzt über eine Million auf diese Weise eingewandert sind und jährlich noch an fünfzigtausend einwandern, die sich fast alle auf die Industriebezirke, namentlich die großen Städte werfen und dort die niedrigste Klasse der Bevölkerung bilden.
+  en: It has been calculated that more than a million have already immigrated, and not far from fifty thousand still come every year, nearly all of whom enter the industrial districts, especially the great cities, and there form the lowest class of the population.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: IV.2.4
+  kind: p
+  original: So sind in London 120 000, in Manchester 40 000, in Liverpool 34 000, Bristol 24 000, Glasgow 40 000, Edinburgh 29 000 arme Irländer.
+  en: Thus there are in London, 120,000; in Manchester, 40,000; in Liverpool, 34,000; Bristol, 24,000; Glasgow, 40,000; Edinburgh, 29,000, poor Irish people.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - IV.N1
+  mew_page: '320'
+- id: IV.2.5
+  kind: p
+  original: Diese Leute, fast ohne alle Zivilisation aufgewachsen, an Entbehrungen aller Art von Jugend auf gewöhnt, roh, trunksüchtig, unbekümmert um die Zukunft, kommen so herüber und bringen alle ihre brutalen Sitten mit herüber in eine Klasse der englischen Bevölkerung, die wahrlich wenig Reiz zur Bildung und Moralität hat.
+  en: These people having grown up almost without civilisation, accustomed from youth to every sort of privation, rough, intemperate, and improvident, bring all their brutal habits with them among a class of the English population which has, in truth, little inducement to cultivate education and morality.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '320'
+- id: IV.2.6
+  kind: p
+  original: 'Lassen wir Thomas Carlyle sprechen:'
+  en: 'Let us hear Thomas Carlyle upon this subject:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - IV.N2
+  mew_page: '320'
+- id: IV.3.1
+  kind: p
+  original: '"Die wilden milesischen Gesichter, die nach falscher Schlauheit, Schlechtigkeit, Unvernunft, Elend und Spötterei aussehen, grüßen euch an allen unsren Haupt- und Nebenstraßen.'
+  en: '"The wild Milesian features, looking false ingenuity, restlessness, unreason, misery, and mockery, salute you on all highways and byways.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - IV.N3
+  mew_page: '320'
+- id: IV.3.2
+  kind: p
+  original: Der englische Kutscher, wie er vorbeirollt, schlägt mit der Peitsche nach dem Milesier; dieser verflucht ihn mit seiner Zunge, hält den Hut bin und bettelt.
+  en: The English coachman, as he whirls past, lashes the Milesian with his whip, curses him with his tongue; the Milesian is holding out his hat to beg.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 320-321
+- id: IV.3.3
+  kind: p
+  original: Er ist das schlimmste Übel, mit dem dies Land zu kämpfen hat.
+  en: He is the sorest evil this country has to strive with.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.3.4
+  kind: p
+  original: Mit seinen Lumpen und seinem verwilderten Lachen ist er bei der Hand, alle Arbeit zu tun, die nur starke Arme und einen starken Rücken erfordert - für einen Lohn, der ihm Kartoffeln kauft.
+  en: In his rags and laughing savagery, he is there to undertake all work that can be done by mere strength of hand and back--for wages that will purchase him potatoes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.3.5
+  kind: p
+  original: Er braucht nur Salz zur Würze; er schläft ganz vergnügt im ersten besten Schweinestall oder Hundestall, nistet sich in Scheunen ein und trägt einen Anzug von Fetzen, die aus- und anzuziehen eine der schwierigsten Operationen ist, die nur an Festtagen und zu besonders günstigen Zeiten vorgenommen wird.
+  en: He needs only salt for condiment, he lodges to his mind in any pig-hutch or dog-hutch, roosts in outhouses, and wears a suit of tatters, the getting on and off of which is said to be a difficult operation, transacted only in festivals and the high tides of the calendar.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.3.6
+  kind: p
+  original: Der sächsische Mann, der auf solche Bedingungen nicht arbeiten kann, wird brotlos.
+  en: The Saxon-man, if he cannot work on these terms, finds no work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.3.7
+  kind: p
+  original: Der unzivilisierte Irländer, nicht durch seine Kraft, sondern durch das Gegenteil davon, treibt den sächsischen Eingebornen aus und nimmt von seiner Stelle Besitz.
+  en: The uncivilised Irishman, not by his strength, but by the opposite of strength, drives the Saxon native out, takes possession in his room.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.3.8
+  kind: p
+  original: Da wohnt er in seinem Schmutz und seiner Unbekümmertheit, in seiner betrunkenen Gewaltsamkeit und Falschheit, der fertige Nukleus von Degradation und Unordnung.
+  en: There abides he, in his squalor and unreason, in his falsity and drunken violence, as the ready-made nucleus of degradation and disorder.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.3.9
+  kind: p
+  original: Wer sich noch zu schwimmen, noch an der Oberfläche sich zu halten abmüht, der kann hier ein Beispiel sehen, wie der Mensch existieren kann, nicht schwimmend, sondern untergesunken...
+  en: Whoever struggles, swimming with difficulty, may now find an example how the human being can exist not swimming, but sunk.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.3.10
+  kind: p
+  original: Daß die Lage der niedrigen Masse der englischen Arbeiter immer näher kommt der der irischen, die mit ihnen in allen Märkten konkurrieren; daß alle Arbeit, die mit bloßer Körperstärke ohne viel Geschicklichkeit abgetan werden kann, nicht für englischen Lohn getan wird, sondern für eine Annäherung an irischen Lohn, d.h. für etwas mehr als 'halbsatt von Kartoffeln schlechtester Sorte für dreißig Wochen im Jahr' - für etwas mehr, aber mit der Ankunft jedes neuen Dampfboots von Irland diesem Endziel näherrückend - wer sieht das nicht?"
+  en: 'That the condition of the lower multitude of English labourers approximates more and more to that of the Irish, competing with them in all the markets: that whatsoever labour, to which mere strength with little skill will suffice, is to be done, will be done not at the English price, but at an approximation to the Irish price; at a price superior as yet to the Irish, that is, superior to scarcity of potatoes for thirty weeks yearly; superior, yet hourly, with the arrival of every new steamboat, sinking nearer to an equality with that."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.4.1
+  kind: p
+  original: Carlyle hat hierin - wenn wir die übertriebene und einseitige Verwerfung des irischen Nationalcharakters ausnehmen - vollkommen recht.
+  en: If we except his exaggerated and one-sided condemnation of the Irish national character, Carlyle is perfectly right.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.4.2
+  kind: p
+  original: Diese irischen Arbeiter, die für vier Pence (3 1/3 Silbergroschen) nach England herüberfahren - auf dem Verdeck der Dampfschiffe, wo sie oft so gedrängt stehen wie Vieh - nisten sich überall ein.
+  en: These Irishmen who migrate for fourpence to England, on the deck of a steamship on which they are often packed like cattle, insinuate themselves everywhere.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.4.3
+  kind: p
+  original: Die schlechtesten Wohnungen sind übrigens gut genug für sie; ihre Kleider machen ihnen wenig Müh, solange sie nur noch mit einem Faden zusammenhalten, Schuhe kennen sie nicht; ihre Nahrung sind Kartoffeln und nur Kartoffeln - was sie drüber verdienen, vertrinken sie, was braucht ein solches Geschlecht viel Lohn?
+  en: The worst dwellings are good enough for them; their clothing causes them little trouble, so long as it holds together by a single thread; shoes they know not; their food consists of potatoes and potatoes only; whatever they earn beyond these needs they spend upon drink. What does such a race want with high wages?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.4.4
+  kind: p
+  original: Die schlechtesten Viertel aller großen Städte sind von Irländern bewohnt; überall, wo ein Bezirk sich durch besondern Schmutz und besondern Verfall auszeichnet, kann man darauf rechnen, vorzugsweise diese keltischen Gesichter anzutreffen, die man auf den ersten Blick von den sächsischen Physiognomien der Eingebornen unterscheidet, und die singende, aspirierte irische Brogue zu hören, die der echte Irländer nie verlernt.
+  en: The worst quarters of all the large towns are inhabited by Irishmen. Whenever a district is distinguished for especial filth and especial ruinousness, the explorer may safely count upon meeting chiefly those Celtic faces which one recognises at the first glance as different from the Saxon physiognomy of the native, and the singing, aspirate brogue which the true Irishman never loses.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.4.5
+  kind: p
+  original: Zuweilen habe ich sogar irisch-keltisch in den dichtestbevölkerten Teilen von Manchester sprechen hören.
+  en: I have occasionally heard the Irish-Celtic language spoken in the most thickly populated parts of Manchester.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.4.6
+  kind: p
+  original: Die Mehrzahl der Familien, die in Kellern wohnen, sind fast überall irischen Ursprungs.
+  en: The majority of the families who live in cellars are almost everywhere of Irish origin.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '321'
+- id: IV.4.7
+  kind: p
+  original: Kurz, die Irländer haben es herausgefunden, wie Dr. Kay sagt, was das Minimum der Lebensbedürfnisse ist, und lehren es nun den englischen Arbeitern.
+  en: In short, the Irish have, as Dr. Kay says, discovered the minimum of the necessities of life, and are now making the English workers acquainted with it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 321-322
+- id: IV.4.8
+  kind: p
+  original: Auch den Schmutz und die Trunksucht haben sie mitgebracht.
+  en: Filth and drunkenness, too, they have brought with them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.9
+  kind: p
+  original: Diese Unreinlichkeit, die auf dem Lande, wo die Bevölkerung zerstreut lebt, nicht soviel schadet, die aber dem Irländer zur andern Natur geworden ist, wird hier in den großen Städten durch ihre Konzentration erst schreckenerregend und gefahrbringend.
+  en: The lack of cleanliness, which is not so injurious in the country, where population is scattered, and which is the Irishman's second nature, becomes terrifying and gravely dangerous through its concentration here in the great cities.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.10
+  kind: p
+  original: Wie es der Milesier zu Hause gewohnt war, schüttet er auch hier allen Unrat und Abfall vor die Haustüre und bringt dadurch die Pfützen und Kothaufen zusammen, die die Arbeiterviertel verunzieren und ihre Luft verpesten.
+  en: The Milesian deposits all garbage and filth before his house door here, as he was accustomed to do at home, and so accumulates the pools and dirt-heaps which disfigure the working-people's quarters and poison the air.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.11
+  kind: p
+  original: Wie zu Hause baut er sich seinen Schweinstall ans Haus, und wenn er das nicht kann, so läßt er sein Schwein bei sich im Zimmer schlafen.
+  en: He builds a pig-sty against the house wall as he did at home, and if he is prevented from doing this, he lets the pig sleep in the room with himself.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.12
+  kind: p
+  original: Diese neue abnorme Art von Viehzucht in den großen Städten ist ganz irischen Ursprungs; der Irländer hängt an seinem Schwein wie der Araber an seinem Pferd, nur daß er's verkauft, wenn es zum Schlachten fett genug ist - sonst aber ißt er mit ihm und schläft mit ihm, seine Kinder spielen mit ihm und reiten darauf und wälzen sich mit ihm im Kot, wie man das in allen großen Städten Englands Tausende von Malen sehen kann.
+  en: This new and unnatural method of cattle-raising in cities is wholly of Irish origin. The Irishman loves his pig as the Arab his horse, with the difference that he sells it when it is fat enough to kill. Otherwise, he eats and sleeps with it, his children play with it, ride upon it, roll in the dirt with it, as any one may see a thousand times repeated in all the great towns of England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: IV.4.13
+  kind: p
+  original: Und was dabei für ein Schmutz, für eine Unwohnlichkeit in den Häusern selbst herrscht, davon kann man sich keine Vorstellung machen.
+  en: The filth and comfortlessness that prevail in the houses themselves it is impossible to describe.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.14
+  kind: p
+  original: Möbel ist der Irländer nicht gewohnt - ein Haufen Stroh, ein paar Lumpen, die zu Kleidern total verdorben sind, das ist genug für sein Nachtlager.
+  en: The Irishman is unaccustomed to the presence of furniture; a heap of straw, a few rags, utterly beyond use as clothing, suffice for his nightly couch.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.15
+  kind: p
+  original: Ein Stück Holz, ein zerbrochner Stuhl, eine alte Kiste statt des Tisches, mehr braucht er nicht; ein Teekessel, einige Töpfe und Scherben, das reicht hin, um seine Küche, die zugleich Schlaf- und Wohnzimmer ist, auszurüsten.
+  en: A piece of wood, a broken chair, an old chest for a table, more he needs not; a tea-kettle, a few pots and dishes, equip his kitchen, which is also his sleeping and living room.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.16
+  kind: p
+  original: Und wenn es ihm an Feuerung mangelt, so wandert alles Brennbare in seinem Bereich, Stühle, Türpfosten, Gesimse, Dielen, wenn sie ja da sein sollten, in den Kamin.
+  en: When he is in want of fuel, everything combustible within his reach, chairs, door-posts, mouldings, flooring, finds its way up the chimney.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.17
+  kind: p
+  original: Dazu - was braucht er viel Raum?
+  en: Moreover, why should he need much room?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.18
+  kind: p
+  original: Drüben, in seiner Lehmhütte, war nur ein innerer Raum für alle häuslichen Zwecke; mehr als ein Zimmer braucht die Familie auch in England nicht.
+  en: At home in his mud-cabin there was only one room for all domestic purposes; more than one room his family does not need in England.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.19
+  kind: p
+  original: So ist auch diese Zusammendrängung vieler in einem einzigen Zimmer, die jetzt so allgemein sich findet, hauptsächlich durch die irische Einwanderung hereingebracht.
+  en: So the custom of crowding many persons into a single room, now so universal, has been chiefly implanted by the Irish immigration.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.20
+  kind: p
+  original: Und da der arme Teufel doch einen Genuß haben muß und von allen andern ihn die Gesellschaft ausgeschlossen hat - so geht er hin und trinkt Branntwein.
+  en: And since the poor devil must have one enjoyment, and society has shut him out of all others, he betakes himself to the drinking of spirits.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.21
+  kind: p
+  original: Der Branntwein ist das einzige, was dem Irländer das Leben der Mühe wert macht - der Branntwein und allenfalls sein sorgloses, heiteres Temperament, und daher schwelgt er auch im Branntwein bis zur brutalsten Betrunkenheit.
+  en: Drink is the only thing which makes the Irishman's life worth having, drink and his cheery care-free temperament; so he revels in drink to the point of the most bestial drunkenness.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '322'
+- id: IV.4.22
+  kind: p
+  original: Der südliche, leichtsinnige Charakter des Irländers, seine Roheit, die ihn wenig über einen Wilden stellt, seine Verachtung aller menschlicheren Genüsse, deren er eben wegen dieser Roheit unfähig ist, sein Schmutz und seine Armut, alles das begünstigt bei ihm die Trunksucht - die Versuchung ist zu groß, er kann ihr nicht widerstehen, und sowie er Geld bekommt, muß er's durch die Kehle jagen.
+  en: The southern facile character of the Irishman, his crudity, which places him but little above the savage, his contempt for all humane enjoyments, in which his very crudeness makes him incapable of sharing, his filth and poverty, all favour drunkenness. The temptation is great, he cannot resist it, and so when he has money he gets rid of it down his throat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 322-323
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.4.23
+  kind: p
+  original: Wie sollte er auch anders?
+  en: What else should he do?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.4.24
+  kind: p
+  original: Wie will die Gesellschaft, die ihn in eine Lage versetzt, in der er fast notwendig ein Säufer werden muß, die ihn in allem vernachlässigt und verwildern läßt - wie will sie ihn hernach verklagen, wenn er wirklich ein Trunkenbold wird?
+  en: How can society blame him when it places him in a position in which he almost of necessity becomes a drunkard; when it leaves him to himself, to his savagery?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.5.1
+  kind: p
+  original: Mit einem solchen Konkurrenten hat der englische Arbeiter zu kämpfen - mit einem Konkurrenten, der auf der niedrigsten Stufe steht, die in einem zivilisierten Lande überhaupt möglich ist, und der deshalb auch weniger Lohn braucht als irgendein andrer.
+  en: With such a competitor the English working-man has to struggle with a competitor upon the lowest plane possible in a civilised country, who for this very reason requires less wages than any other.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.5.2
+  kind: p
+  original: Daher ist es gar nicht anders möglich, als daß, wie Carlyle sagt, der Lohn des englischen Arbeiters in allen Zweigen, in denen der Irländer mit ihm konkurrieren kann, immer tiefer und tiefer herabgedrückt wird.
+  en: Nothing else is therefore possible than that, as Carlyle says, the wages of English working-men should be forced down further and further in every branch in which the Irish compete with him.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.5.3
+  kind: p
+  original: Und dieser Arbeitszweige sind viele.
+  en: And these branches are many.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.5.4
+  kind: p
+  original: Alle diejenigen, die wenig oder gar keine Geschicklichkeit erfordern, stehen dem Irländer offen.
+  en: All such as demand little or no skill are open to the Irish.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.5.5
+  kind: p
+  original: Freilich für Arbeiten, die eine lange Lehrzeit oder regelmäßig anhaltende Tätigkeit erfordern, steht der liederliche, wankelmütige und versoffene Irländer zu tief.
+  en: For work which requires long training or regular, pertinacious application, the dissolute, unsteady, drunken Irishman is on too low a plane.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.5.6
+  kind: p
+  original: Um Mechaniker (mechanic ist im Englischen jeder zur Verfertigung von Maschinerie gebrauchter Arbeiter), um Fabrikarbeiter zu werden, müßte er erst englische Zivilisation und englische Sitten annehmen, kurz, erst der Sache nach Engländer werden.
+  en: To become a mechanic, a mill-hand, he would have to adopt the English civilisation, the English customs, become, in the main, an Englishman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.5.7
+  kind: p
+  original: Aber wo es eine einfache, weniger exakte Arbeit gilt, wo es mehr auf Stärke als auf Geschicklichkeit ankommt, da ist der Irländer ebensogut wie der Engländer.
+  en: But for all simple, less exact work, wherever it is a question more of strength than skill, the Irishman is as good as the Englishman.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.5.8
+  kind: p
+  original: 'Daher sind auch diese Arbeitszweige vor allen von Irländern überlaufen: die Handweber, Maurergesellen, Lastträger und Jobbers und dergleichen zählen Massen von Irländern, und die Eindrängung dieser Nation hat hier sehr viel zur Erniedrigung des Lohnes und der Arbeiterklasse selbst beigetragen.'
+  en: 'Such occupations are therefore especially overcrowded with Irishmen: hand-weavers, bricklayers, porters, jobbers, and such workers, count hordes of Irishmen among their number, and the pressure of this race has done much to depress wages and lower the working-class.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.5.9
+  kind: p
+  original: Und wenn auch die in andre Arbeitszweige eingedrungenen Irländer zivilisierter werden mußten, so blieb doch immer noch genug von der alten Wirtschaft hängen, um auch hier - neben dem Einflusse, den die Umgebung von Irländern überhaupt hervorbringen mußte - degradierend auf die englischen Arbeitsgenossen einzuwirken.
+  en: And even if the Irish, who have forced their way into other occupations, should become more civilised, enough of the old habits would cling to them to have a strong degrading influence upon their English companions in toil, especially in view of the general effect of being surrounded by the Irish.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '323'
+- id: IV.5.10
+  kind: p
+  original: Denn wenn fast in jeder großen Stadt ein Fünftel oder ein Viertel der Arbeiter Irländer oder in irischem Schmutz aufgewachsene Kinder von Irländern sind, so wird man sich nicht darüber wundern, daß das Leben der ganzen Arbeiterklasse, ihre Sitten, ihre intellektuelle und moralische Stellung, ihr ganzer Charakter einen bedeutenden Teil von diesem irischen Wesen angenommen hat, so wird man begreifen können, wie die schon durch die moderne Industrie und ihre nächsten Folgen hervorgerufene indignierende Lage der englischen Arbeiter auf eine hohe Stufe der Entwürdigung gesteigert werden konnte.
+  en: For when, in almost every great city, a fifth or a quarter of the workers are Irish, or children of Irish parents, who have grown up among Irish filth, no one can wonder if the life, habits, intelligence, moral status--in short, the whole character of the working-class assimilates a great part of the Irish characteristics. On the contrary, it is easy to understand how the degrading position of the English workers, engendered by our modern history, and its immediate consequences, has been still more degraded by the presence of Irish competition.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: '1892'
+    reading: '... indignierende Lage der englischen Arbeiter noch entwürdigender gemacht werden konnte'
+    base_text: … Entwürdigung gesteigert werden konnte ‸ . …
+  mew_page: '323'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.N1.1.1
+  kind: note
+  original: Archibald Alison, High Sheriff of Lanarkshire, "The Principles of Population, and their Connection with Human Happiness [Die Bevölkerungsprinzipien und ihr Zusammenhang mit dem menschlichen Glück].
+  en: Archibald Alison. "Principles of Population and their Connection with Human Happiness," two vols., 1840.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {90a}.
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: IV.N1.1.2
+  kind: note
+  original: 2 vols.
+  en: This Alison is the historian of the French Revolution, and, like his brother, Dr. W. P. Alison, a religious Tory.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  align: '3:1'
+  review: true
+  review_reason: 3 de sentence(s) matched to 1 en sentence(s)
+- id: IV.N1.1.3
+  kind: note
+  original: '1840.'
+  en: ''
+  joined_to: IV.N1.1.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+- id: IV.N1.1.4
+  kind: note
+  original: '- Dieser Alison ist der Geschichtschreiber der französischen Revolution und wie sein Bruder, der Dr. W.P. Alison, religiöser Tory.'
+  en: ''
+  joined_to: IV.N1.1.2
+  modern: ''
+  modern_status: joined
+  notes: ''
+- id: IV.N2.1.1
+  kind: note
+  original: '"Chartism", p 28, 31 usw.'
+  en: '"Chartism," pp. 28, 31, etc.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {90b}.
+- id: IV.N3.1.1
+  kind: note
+  original: Miles ist der Name der alten keltischen Könige von Irland.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: Not paired with a footnote of the 1892 English. Wischnewetzky's footnotes that the ingest could not pair are kept in en_note on the verse they belong to.

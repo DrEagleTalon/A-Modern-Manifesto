@@ -38,7 +38,7 @@ Every work planned for the library, in queue order, and how far along it is. **R
 | 16 | [The Origin of the Family, Private Property and the State (1884)](works/origin-of-the-family) | Friedrich Engels | `OF` | German | A | ✅ ready for rewrite | 2095 verses · 0 seeded · 0 drafted · 556 alignment checks |
 | 17 | Woman and Socialism (1879) | August Bebel | `WAS` | German | A | ⏳ planned |  |
 | 18 | The Poverty of Philosophy (1847) | Karl Marx | `POP` | French | A | ⏳ planned |  |
-| 19 | The Condition of the Working Class in England (1845) | Friedrich Engels | `CWC` | German | A | 📦 sourced |  |
+| 19 | [The Condition of the Working Class in England (1845)](works/condition-of-the-working-class) | Friedrich Engels | `CWC` | German | A | ✅ ready for rewrite | 3519 verses · 0 seeded · 0 drafted · 528 alignment checks |
 | 20 | The German Ideology (1846) | Karl Marx, Friedrich Engels | `GI` | German | B | ⏳ planned |  |
 | 21 | The Mass Strike, the Political Party and the Trade Unions (1906) | Rosa Luxemburg | `MS` | German | B | ⏳ planned |  |
 | 22 | Reform or Revolution (1899) | Rosa Luxemburg | `ROR` | German | B | ⏳ planned |  |

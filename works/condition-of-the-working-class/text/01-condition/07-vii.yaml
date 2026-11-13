@@ -1,0 +1,2306 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: VII
+title_original: Die übrigen Arbeitszweige
+title_en: The Remaining Branches of Industry
+author: Friedrich Engels
+date: 1844-11/1845-03
+original_language: de
+anchor_language: de
+source_original: MEW 2, S. 225-506 (Dietz, Berlin 1972) via mlwerke.de; text of the first edition (Leipzig 1845), readings of the second edition (Stuttgart 1892) as variants
+source_en: Florence Kelley Wischnewetzky's translation (New York 1887) in the London edition of 1892 (Swan Sonnenschein), Project Gutenberg ebook 17306 (public domain)
+verses:
+- id: VII.0.1
+  kind: heading
+  original: Die übrigen Arbeitszweige
+  en: THE REMAINING BRANCHES OF INDUSTRY.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.1.1
+  kind: p
+  original: Wenn wir bei der Schilderung des Fabriksystems uns länger aufzuhalten hatten, weil es eine ganz neue Schöpfung der industriellen Zeit ist, so werden wir uns bei den übrigen Arbeitern desto kürzer fassen können, indem hier entweder das, was von den industriellen Proletariern überhaupt, oder was vom Fabriksystem im besondern gesagt ist, ganz oder teilweise seine Anwendung findet.
+  en: We were compelled to deal with the factory system somewhat at length, as it is an entirely novel creation of the industrial period; we shall be able to treat the other workers the more briefly, because what has been said either of the industrial proletariat in general, or of the factory system in particular, will wholly, or in part, apply to them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: VII.1.2
+  kind: p
+  original: Wir werden also nur zu berichten haben, inwiefern namentlich das Fabriksystem bei den einzelnen Arbeitszweigen sich einzudrängen gewußt hat und was sich sonst Eigentümliches bei ihnen vorfindet.
+  en: We shall, therefore, merely have to record how far the factory system has succeeded in forcing its way into each branch of industry, and what other peculiarities these may reveal.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: VII.2.1
+  kind: p
+  original: Die vier Arbeitszweige, auf die sich das Fabrikgesetz erstreckt, bezwecken die Anfertigung von Stoffen zur Kleidung.
+  en: The four branches comprised under the Factory Act are engaged in the production of clothing stuffs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: VII.2.2
+  kind: p
+  original: Wir werden am besten tun, hier gleich diejenigen Arbeiter folgen zu lassen, welche ihr Material aus diesen Fabriken erhalten, und zwar zuerst die Strumpfwirker von Nottingham, Derby und Leicester.
+  en: We shall do best if we deal next with those workers who receive their materials from these factories; and, first of all, with the stocking weavers of Nottingham, Derby, and Leicester.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: VII.2.3
+  kind: p
+  original: Über diese Arbeiter berichtet der Child. Empl. Rept., daß die lange Arbeitszeit (die durch niedrigen Lohn erzwungen wird) vereint mit der sitzenden Lebensart und der Anstrengung der Augen, welche aus der Natur der Arbeit selbst hervorgeht, gewöhnlich den Körper im allgemeinen kränklich und besonders die Augen schwach macht.
+  en: Touching these workers, the Children's Employment Commission reports that the long working-hours, imposed by low wages, with a sedentary life and the strain upon the eyes involved in the nature of the employment, usually enfeeble the whole frame, and especially the eyes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: VII.2.4
+  kind: p
+  original: Ohne sehr starkes Licht kann bei Abend nicht gearbeitet werden, und so wenden die Weber gewöhnlich Glaskugeln an, um das Licht zu konzentrieren, was die Augen sehr angreift.
+  en: Work at night is impossible without a very powerful light produced by concentrating the rays of the lamp, making them pass through glass globes, which is most injurious to the sight.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: VII.2.5
+  kind: p
+  original: Im vierzigsten Jahre müssen fast alle eine Brille gebrauchen.
+  en: At forty years of age, nearly all wear spectacles.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: VII.2.6
+  kind: p
+  original: Die Kinder, welche dabei mit Spulen und Nähen (Säumen) beschäftigt werden, leiden gewöhnlich an ihrer Gesundheit und Konstitution bedeutenden Schaden.
+  en: The children employed at spooling and hemming usually suffer grave injuries to the health and constitution.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: VII.2.7
+  kind: p
+  original: Sie arbeiten vom sechsten, siebenten oder achten Jahre an in kleinen, dumpfigen Zimmern zehn bis zwölf Stunden.
+  en: They work from the sixth, seventh, or eighth year ten to twelve hours daily in small, close rooms.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: VII.2.8
+  kind: p
+  original: Viele werden bei der Arbeit ohnmächtig, zu schwach für die gewöhnlichste Hausarbeit und so kurzsichtig, daß sie schon während der Kindheit Brillen tragen müssen.
+  en: It is not uncommon for them to faint at their work, to become too feeble for the most ordinary household occupation, and so near-sighted as to be obliged to wear glasses during childhood.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '408'
+- id: VII.2.9
+  kind: p
+  original: Viele wurden von den Kommissären mit allen Symptomen skrofulöser Konstitution gefunden, und die Fabrikanten weigern sich meistens wegen der Schwäche der Mädchen, die so gearbeitet haben, sie in der Fabrik zu beschäftigen.
+  en: Many were found by the commissioners to exhibit all the symptoms of a scrofulous constitution, and the manufacturers usually refuse to employ girls who have worked in this way as being too weak.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 408-409
+- id: VII.2.10
+  kind: p
+  original: Der Zustand dieser Kinder wird als ",ein Schandfleck für ein christliches Land" bezeichnet und der Wunsch nach gesetzlichem Schutz ausgesprochen (Grainger, Rept. App. Pt. 1, p. F. 16, ss. 132-142).
+  en: The condition of these children is characterised as "a disgrace to a Christian country," and the wish expressed for legislative interference.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: VII.2.11
+  kind: p
+  original: Der Fabrikbericht setzt hinzu, daß die Strumpfwirker die am schlechtesten bezahlten Arbeiter in Leicester seien - sie verdienten 6 sh. und bei großer Anstrengung 7 sh. wöchentlich durch täglich sechzehn- bis achtzehnstündige Arbeit.
+  en: The Factory Report adds that the stocking weavers are the worst paid workers in Leicester, earning six, or with great effort, seven shillings a week, for sixteen to eighteen hours' daily work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+  en_note: 'English note {189}: Grainger Report. Appendix, Part I., pp. 7, 15, et seq., 132-142.'
+- id: VII.2.12
+  kind: p
+  original: Früher verdienten sie 20 bis 21 sh., aber die Einführung der vergrößerten Stühle habe ihr Geschäft verdorben, die große Majorität arbeite noch auf den älteren, einfachen Stühlen und konkurriere mühselig gegen den Fortschritt der Maschinerie.
+  en: Formerly they earned twenty to twenty-one shillings, but the introduction of enlarged frames has ruined their business; the great majority still work with old, small, single frames, and compete with difficulty with the progress of machinery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: VII.2.13
+  kind: p
+  original: Also auch hier jeder Fortschritt ein Rückschritt für den Arbeiter!
+  en: Here, too, every progress is a disadvantage for the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: VII.2.14
+  kind: p
+  original: Aber trotz alledem, erzählt Kommissär Power, seien die Strumpfwirker stolz darauf, daß sie frei seien und keine Fabrikglocke hätten, die ihnen die Zeit zum Essen, Schlafen und Arbeiten zumesse.
+  en: Nevertheless, Commissioner Power speaks of the pride of the stocking weavers that they are free, and had no factory bell to measure out the time for their eating, sleeping, and working.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: VII.2.15
+  kind: p
+  original: Die Lage dieser Arbeiterklasse ist in Beziehung auf den Lohn noch nicht besser als 1833, wo die Fabrikkommission die obigen Angaben machte - die Konkurrenz der sächsischen Strumpfwirker, die selbst kaum etwas zu beißen haben, sorgt dafür.
+  en: Their position to-day is no better than in 1833, when the Factory Commission made the foregoing statements, the competition of the Saxon stocking weavers, who have scarcely anything to eat, takes care of that.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: VII.2.16
+  kind: p
+  original: Sie schlägt die Engländer auf fast allen fremden und in den geringen Qualitäten sogar im englischen Markt - muß es nicht eine Freude für den deutschen patriotischen Strumpfwirker sein, durch seinen Hunger die englischen Strumpfwirker auch brotlos zu machen, und wird er nicht zum größeren Ruhme der deutschen Industrie stolz und freudig forthungern, da doch Deutschlands Ehre es fordert, daß seine Schüssel nur halb voll sei?
+  en: This competition is too strong for the English in nearly all foreign markets, and for the lower qualities of goods even in the English market. It must be a source of rejoicing for the patriotic German stocking weaver that his starvation wages force his English brother to starve too! And, verily, will he not starve on, proud and happy, for the greater glory of German industry, since the honour of the Fatherland demands that his table should be bare, his dish half empty?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: VII.2.17
+  kind: p
+  original: 0, es ist eine schöne Sache um die Konkurrenz und den "Wettlauf der Nationen"!
+  en: Ah! it is a noble thing this competition, this "race of the nations."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: VII.2.18
+  kind: p
+  original: Im "Morning Chronicle" - wieder ein liberales Blatt, das Blatt der Bourgeoisie par excellence - finden sich im Dezember 1843 einige Briefe von einem Strumpfwirker in Hinckley über die Lage seiner Arbeitsgenossen.
+  en: In the Morning Chronicle, another Liberal sheet, the organ of the bourgeoisie par excellence, there were published some letters from a stocking weaver in Hinckley, describing the condition of his fellow-workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: VII.2.19
+  kind: p
+  original: Er berichtet unter andern von 50 Familien, zusammen 321 Personen, die von 109 Webstühlen lebten; jeder Webstuhl trug durchschnittlich 5 1/6 sh. ein, jede Familie verdiente durchschnittlich wöchentlich 11 sh. 4 Pence.
+  en: Among other things, he reports 50 families, 321 persons, who were supported by 109 frames; each frame yielded on an average 5.5 shillings; each family earned an average of 11s. 4d. weekly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: VII.2.20
+  kind: p
+  original: Davon gingen ab für Hausmiete, Strumpfstuhlmiete, Kohlen, Licht, Seife, Nadeln zusammen 5 sh. 10 Pence, so daß für Nahrung auf jeden Kopf täglich 1 1/2 Pence - 15 Pfennige preußisch - übrigblieben, und für Kleidung gar nichts.
+  en: Out of this there was required for house rent, frame rent, fuel, light, soap, and needles, together 5s. 10d., so that there remained for food, per head daily, 1.5d., and for clothing nothing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: VII.3.1
+  kind: p
+  original: '"Kein Auge", sagt der Strumpfwirker, "hat gesehen, kein Ohr gehört und kein Herz fassen können die Hälfte der Leiden, die diese armen Leute erdulden."'
+  en: '"No eye," says the stocking weaver, "has seen, no ear heard, and no heart felt the half of the sufferings that these poor people endure."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '409'
+- id: VII.4.1
+  kind: p
+  original: 'Betten fehlten ganz oder zur Hälfte, die Kinder liefen zerlumpt und barfuß umher; die Männer sagten mit Tränen in den Augen: "Wir haben lange, lange kein Fleisch gehabt, wir haben fast vergessen, wie es schmeckt" - und zuletzt arbeiteten einige des Sonntags, obwohl die öffentliche Meinung alles eher verzeiht als das und obwohl der rasselnde Lärm des Webstuhls in der ganzen Nachbarschaft gehört wird.'
+  en: 'Beds were wanting either wholly or in part, the children ran about ragged and barefoot; the men said, with tears in their eyes: "It''s a long time since we had any meat; we have almost forgotten how it tastes;" and, finally, some of them worked on Sunday, though public opinion pardons anything else more readily than this, and the rattling noise of the frame is audible throughout the neighbourhood.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.5.1
+  kind: p
+  original: '"Aber", sagte einer, "seht doch meine Kinder an und laßt das Fragen.'
+  en: '"But," said one of them, "look at my children and ask no questions.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.5.2
+  kind: p
+  original: Meine Armut zwingt mich dazu; ich kann und will meine Kinder nicht ewig um Brot schreien hören, ohne das letzte Mittel zu versuchen, durch das ich mir ehrlich Brot erwerben kann.
+  en: My poverty forces me to it; I can't and won't hear my children forever crying for bread, without trying the last means of winning it honestly.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.5.3
+  kind: p
+  original: Vorigen Montag stand ich um zwei Uhr auf und arbeitete bis beinahe Mitternacht, die übrigen Tage von sechs Uhr morgens bis zwischen elf und zwölf in der Nacht.
+  en: Last Monday I got up at two in the morning and worked to near midnight; the other days from six in the morning to between eleven and twelve at night.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.5.4
+  kind: p
+  original: Ich bin es leid, ich will mich nicht ins Grab bringen.
+  en: I have had enough of it; I sha'n't kill myself; so now I go to bed at ten o'clock, and make up the lost time on Sundays."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.5.5
+  kind: p
+  original: Jetzt höre ich jeden Abend um zehn Uhr auf und hole die verlorne Zeit sonntags nach."
+  en: ''
+  joined_to: VII.5.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '410'
+- id: VII.6.1
+  kind: p
+  original: Der Lohn ist weder in Leicester noch in Derby und Nottingham gestiegen gegen 1833, und was das schlimmste ist, in Leicester herrscht das Trucksystem, wie schon früher gesagt, in großer Ausdehnung.
+  en: Neither in Leicester, Nottingham, nor Derby have wages risen since 1833; and the worst of it is that in Leicester the truck system prevails to a great extent, as I have mentioned.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.6.2
+  kind: p
+  original: Es ist daher auch nicht zu verwundern, daß die Wirker dieser Gegend an allen Arbeiterbewegungen sehr lebhaften Anteil genommen haben, und um so tätiger und wirksamer, da die Stühle selbst meistens von Männern in Bewegung gesetzt werden.
+  en: It is therefore not to be wondered at that the weavers of this region take a very active part in all working-men's movements, the more active and effective because the frames are worked chiefly by men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.7.1
+  kind: p
+  original: In derselben Gegend, wo die Strumpfwirker leben, ist auch der Hauptsitz der Spitzenfabrikation.
+  en: In this stocking weavers' district the lace industry also has its headquarters.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.7.2
+  kind: p
+  original: In den genannten drei Grafschaften sind im ganzen 2 760 Spitzenmaschinen im Gange, während im übrigen Teile von England nur 786 existieren.
+  en: In the three counties mentioned there are in all 2,760 lace frames in use, while in all the rest of England there are but 786.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.7.3
+  kind: p
+  original: Die Spitzenfabrikation ist durch eine streng durchgeführte Teilung der Arbeit sehr verwickelt geworden und hat eine Menge Zweige.
+  en: The manufacture of lace is greatly complicated by a rigid division of labour, and embraces a multitude of branches.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.7.4
+  kind: p
+  original: Zuerst muß das Garn gespult werden, was von Mädchen von vierzehn Jahren aufwärts geschieht (winders); dann werden die Spulen von Knaben (threaders) vom achten Jahre aufwärts auf die Maschine gesetzt und der Faden durch feine Öffnungen, deren jede Maschine durchschnittlich 1 800 hat, eingefädelt und seiner Bestimmung entgegengeleitet; dann macht der Arbeiter die Spitzen, die wie ein breites Tuch aus der Maschine kommen und von ganz kleinen Kindern durch Herausziehen der verbindenden Fäden in ihre einzelnen Stücke zerlegt werden - dies heißt running oder drawing lace, und die Kinder selbst lace-runners.
+  en: The yarn is first spooled by girls fourteen years of age and upwards, winders; then the spools are set up on the frames by boys, eight years old and upwards, threaders, who pass the thread through fine openings, of which each machine has an average of 1,800, and bring it towards its destination; then the weaver weaves the lace which comes out of the machine like a broad piece of cloth and is taken apart by very little children who draw out the connecting threads. This is called running or drawing lace, and the children themselves lace-runners.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.7.5
+  kind: p
+  original: Dann werden die Spitzen zum Verkauf fertiggemacht.
+  en: The lace is then made ready for sale.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.7.6
+  kind: p
+  original: '- Die winders wie die threaders haben keine bestimmte Arbeitszeit, da sie in Anspruch genommen werden, sobald die Spulen einer Maschine abgelaufen sind; und da die Arbeiter auch nachts weben, so können sie zu jeder Zeit in die Fabrik oder Arbeitsstube des Webers gerufen werden.'
+  en: The winders, like the threaders, have no specified working-time, being called upon whenever the spools on a frame are empty, and are liable, since the weavers work at night, to be required at any time in the factory or workroom.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '410'
+- id: VII.7.7
+  kind: p
+  original: Diese Unregelmäßigkeit der Beschäftigung, das häufige Nachtarbeiten, die unordentliche Lebensart, die daraus folgt, erzeugt eine Menge physischer und moralischer Übel, besonders regellosen und frühen geschlechtlichen Verkehr, worüber alle Zeugen einig sind.
+  en: This irregularity, the frequent night-work, the disorderly way of living consequent upon it, engender a multitude of physical and moral ills, especially early and unbridled sexual licence, upon which point all witnesses are unanimous.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 410-411
+- id: VII.7.8
+  kind: p
+  original: Die Arbeit selbst ist dem Auge sehr nachteilig; obwohl ein dauernder Nachteil bei den threaders nicht allgemein ausgemacht ist, so erzeugt sie doch Augenentzündungen und während des Einfädelns selbst Schmerzen, Tränenfluß, momentane Unklarheit des Gesichts etc. Bei den winders ist es aber ausgemacht, daß ihre Arbeit die Augen ernstlich angreift und außer den häufigen Entzündungen der Hornhaut auch den grauen und schwarzen Star nicht selten hervorbringt.
+  en: The work is very bad for the eyes, and although a permanent injury in the case of the threaders is not universally observable, inflammations of the eye, pain, tears, and momentary uncertainty of vision during the act of threading are engendered. For the winders, however, it is certain that their work seriously affects the eye, and produces, besides the frequent inflammations of the cornea, many cases of amaurosis and cataract.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.7.9
+  kind: p
+  original: Die Arbeit der Wirker selbst ist sehr schwer, da die Maschinen mit der Zeit immer breiter gemacht worden sind, so daß es jetzt fast nur solch gibt, die von drei Männern bearbeitet werden, von denen jeder nach vier Stunden den andern ablöst, so daß sie zusammen alle vierundzwanzig Stunden und jeder acht Stunden täglich arbeiten.
+  en: The work of the weavers themselves is very difficult, as the frames have constantly been made wider, until those now in use are almost all worked by three men in turn, each working eight hours, and the frame being kept in use the whole twenty-four.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: VII.7.10
+  kind: p
+  original: Hieraus wird klar, weshalb die winders und threaders so oft nachts an die Arbeit müssen, damit die Maschine nicht zu lange stillstehe.
+  en: Hence it is that the winders and threaders are so often called upon during the night, and must work to prevent the frame from standing idle.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: VII.7.11
+  kind: p
+  original: Das Einfädeln der Spulen in 1 800 Öffnungen nimmt ohnehin drei Kindern zwei Stunden Zeit weg.
+  en: The filling in of 1,800 openings with thread occupies three children at least two hours.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: VII.7.12
+  kind: p
+  original: Manche Maschinen werden auch durch Dampfkraft getrieben und dadurch die Arbeit der Männer verdrängt, und da der Ch. E. Rept. immer nur von "Spitzenfabriken" spricht, wohin die Kinder gerufen würden, so scheint hieraus zu folgen, daß neuerdings entweder die Arbeit der Wirker in große Fabriksäle verlegt oder die Anwendung der Dampfwirkerei ziemlich allgemein geworden ist.
+  en: Many frames are moved by steam-power, and the work of men thus superseded; and, as the Children's Employment Commission's Report mentions only lace factories to which the children are summoned, it seems to follow either that the work of the weavers has been removed to great factory rooms of late, or that steam-weaving has become pretty general; a forward movement of the factory system in either case.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.7.13
+  kind: p
+  original: In beiden Fällen Fortschritt des Fabriksystems.
+  en: ''
+  joined_to: VII.7.12
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '411'
+- id: VII.7.14
+  kind: p
+  original: Am ungesundesten ist aber die Arbeit der runners, die meist Kinder von sieben, ja fünf oder vier Jahren sind.
+  en: Most unwholesome of all is the work of the runners, who are usually children of seven, and even of five and four, years old.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: VII.7.15
+  kind: p
+  original: Kommissär Grainger fand sogar ein Kind von zwei Jahren mit dieser Arbeit beschäftigt.
+  en: Commissioner Grainger actually found one child of two years old employed at this work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: VII.7.16
+  kind: p
+  original: Das Verfolgen eines und desselben Fadens, der aus einem künstlich verschlungenen Gewebe mit der Nadel herausgenommen wird ist dem Auge sehr schädlich, besonders wenn die Arbeit, wie dies gewöhnlich, vierzehn bis sechzehn Stunden fortgesetzt wird.
+  en: Following a thread which is to be withdrawn by a needle from an intricate texture, is very bad for the eyes, especially when, as is usually the case, the work is continued fourteen to sixteen hours.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: VII.7.17
+  kind: p
+  original: Im gelindesten Fall tritt Kurzsichtigkeit in sehr hohem Grade, im schlimmsten, der oft genug vorkommt, unheilbare Erblindung durch den schwarzen Star ein.
+  en: In the least unfavourable case, aggravated near-sightedness follows; in the worst case, which is frequent enough, incurable blindness from amaurosis.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: VII.7.18
+  kind: p
+  original: Außerdem aber werden die Kinder durch das fortwährende Krummsitzen schwächlich, engbrüstig und infolge schlechter Verdauung skrofulös; Störungen der Funktionen des Uterus bei Mädchen sind fast allgemein, und ebenso die Verkrümmung des Rückgrats, so daß "man die runners alle an ihrem Gange kennen kann".
+  en: But, apart from that, the children, in consequence of sitting perpetually bent up, become feeble, narrow-chested, and scrofulous from bad digestion. Disordered functions of the uterus are almost universal among the girls, and curvature of the spine also, so that "all the runners may be recognised from their gait."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.7.19
+  kind: p
+  original: Dieselben Folgen hat sowohl für die Augen wie für die ganze Konstitution das Sticken der Spitzen.
+  en: The same consequences for the eyes and the whole constitution are produced by the embroidery of lace.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '411'
+- id: VII.7.20
+  kind: p
+  original: Die medizinischen Zeugen sind alle darüber einig, daß die Gesundheit aller beim Spitzenmachen beschäftigten Kinder bedeutend leidet, daß diese Kinder blaß, zart, schwach, zu klein für ihr Alter und weit seltener als andre fähig sind, einer Krankheit zu widerstehen.
+  en: Medical witnesses are unanimously of the opinion that the health of all children employed in the production of lace suffers seriously, that they are pale, weak, delicate, undersized, and much less able than other children to resist disease.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 411-412
+- id: VII.7.21
+  kind: p
+  original: 'Ihre gewöhnlichen Übel sind: allgemeine Schwäche, häufige Ohnmachten, Schmerzen im Kopf, Seiten, Rücken und Hüften, Herzklopfen, Übelkeit, Erbrechen und Mangel an Appetit, Verkrümmung des Rückgrats, Skrofeln und Auszehrung.'
+  en: The affections from which they usually suffer are general debility, frequent fainting, pains in the head, sides, back, and hips, palpitation of the heart, nausea, vomiting and want of appetite, curvature of the spine, scrofula, and consumption.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.7.22
+  kind: p
+  original: Besonders wird die Gesundheit des weiblichen Körpers fortwährend und tief untergraben; über Bleichsucht, schwere Geburten und Abortion wurde allgemein geklagt (Grainger, Report, durchgängig).
+  en: The health of the female lacemakers especially, is constantly and deeply undermined; complaints are universal of anaemia, difficult childbirth, and miscarriage.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+  en_note: 'English note {192a}: Grainger''s whole Report.'
+- id: VII.7.23
+  kind: p
+  original: Dazu berichtet derselbe Unterbeamte der Child. Empl. Comm., daß die Kinder sehr häufig schlecht und zerlumpt gekleidet seien und ungenügende Nahrung, meist nur Brot und Tee, oft monatelang kein Fleisch bekämen.
+  en: The same subordinate official of the Children's Employment Commission reports further that the children are very often ill-clothed and ragged, and receive insufficient food, usually only bread and tea, often no meat for months together.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.7.24
+  kind: p
+  original: 'Was den sittlichen Zustand derselben betrifft, so berichtet er:'
+  en: 'As to their moral condition, he reports:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+  en_note: 'English note {192b}: Grainger Children''s Employment Commission''s Report.'
+- id: VII.8.1
+  kind: p
+  original: '"Alle Einwohner von Nottingham, Polizei, Geistlichkeit, Fabrikanten, Arbeiter und die Eltern der Kinder selbst sind der einhelligen Überzeugung, daß das gegenwärtige System der Arbeit eine höchst fruchtbare Quelle der Immoralität ist.'
+  en: '"All the inhabitants of Nottingham, the police, the clergy, the manufacturers, the working-people, and the parents of the children are all unanimously of opinion that the present system of labour is a most fruitful source of immorality.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.8.2
+  kind: p
+  original: Die threaders, meist Knaben, und die winders, meist Mädchen, werden zu gleicher Zeit in der Fabrik verlangt - oft mitten in der Nacht, und da ihre Eltern nicht wissen können, wie lange sie dort gebraucht werden, so haben sie die schönste Gelegenheit, ungehörige Verbindungen zu schließen und sich nach der Arbeit zusammen herumzutreiben.
+  en: The threaders, chiefly boys, and the winders, usually girls, are called for in the factory at the same time; and as their parents cannot know how long they are wanted there, they have the finest opportunity to form improper connections and remain together after the close of the work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.8.3
+  kind: p
+  original: Das hat in keinem geringen Grade zu der Immoralität beigetragen, welche in Nottingham, laut der öffentlichen Stimme, in einer schrecklichen Ausdehnung existiert.
+  en: This has contributed, in no small degree, to the immorality which, according to general opinion, exists to a terrible extent in Nottingham.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.8.4
+  kind: p
+  original: Ohnehin wird die häusliche Ruhe und Bequemlichkeit der Familien, zu denen die Kinder und jungen Leute gehören, diesem höchst unnatürlichen Stand der Dinge gänzlich geopfert."
+  en: Apart from this, the quiet of home life, and the comfort of the family to which these children and young people belong, is wholly sacrificed to this most unnatural state of things."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.9.1
+  kind: p
+  original: Ein anderer Zweig der Spitzenfabrikation, das Spitzenklöppeln, wird in den sonst ackerbauenden Grafschaften Northampton, Oxford, Bedford und Buckingham betrieben, und zwar meist von Kindern und jungen Leuten, die allgemein über schlechte Nahrung klagen und selten Fleisch zu essen bekommen.
+  en: Another branch of lace-making, bobbin-lacework, is carried on in the agricultural shires of Northampton, Oxford, and Bedford, chiefly by children and young persons, who complain universally of bad food, and rarely taste meat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.9.2
+  kind: p
+  original: Die Arbeit selbst ist höchst ungesund.
+  en: The employment itself is most unwholesome.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.9.3
+  kind: p
+  original: Die Kinder arbeiten in kleinen, schlecht ventilierten und dumpfigen Zimmern, stets sitzend und krumm gebeugt über das Klöppelkissen.
+  en: The children work in small, ill-ventilated, damp rooms, sitting always bent over the lace cushion.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.9.4
+  kind: p
+  original: Um den Körper in dieser anstrengenden Stellung zu unterstützen, tragen die Mädchen eine Schnürbrust mit hölzernem Blankscheit, das bei dem zarten Alter der meisten, in dem die Knochen noch sehr weich sind, und bei der gebückten Stellung das Brustbein und die Rippen gänzlich verrückt und allgemein Engbrüstigkeit veranlaßt.
+  en: To support the body in this wearying position, the girls wear stays with a wooden busk, which, at the tender age of most of them, when the bones are still very soft, wholly displace the ribs, and make narrow chests universal.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.9.5
+  kind: p
+  original: Die meisten sterben daher, nachdem sie infolge der sitzenden Arbeit und schlechten Atmosphäre eine Zeitlang an den schmerzlichsten (severest) Wirkungen schlechter Verdauung gelitten haben, an der Schwindsucht.
+  en: They usually die of consumption after suffering the severest forms of digestive disorders, brought on by sedentary work in a bad atmosphere.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '412'
+- id: VII.9.6
+  kind: p
+  original: Sie genießen fast gar keine Bildung, am wenigsten sittliche, lieben den Putz, und infolge von beidem ist ihr sittlicher Zustand sehr beklagenswert und Prostitution unter ihnen fast epidemisch (Ch. Empl. Comm., Burns, Report).
+  en: They are almost wholly without education, least of all do they receive moral training. They love finery, and in consequence of these two influences their moral condition is most deplorable, and prostitution almost epidemic among them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 412-413
+  en_note: 'English note {193}: Burns, Children''s Employment Commission''s Report.'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.10.1
+  kind: p
+  original: Das ist der Preis, um den die Gesellschaft den schönen Damen der Bourgeoisie das Vergnügen erkauft, Spitzen zu tragen - und ist es nicht ein sehr billiger Preis?
+  en: This is the price at which society purchases for the fine ladies of the bourgeoisie the pleasure of wearing lace; a reasonable price truly!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: VII.10.2
+  kind: p
+  original: Nur ein paar Tausend blinde Arbeiter, nur einige schwindsüchtige Proletariertöchter, nur eine sieche Generation der pöbelhaften Masse, die ihr Siechtum auf ihre gleich pöbelhaften Kinder und Kindeskinder vererben wird - was ist das alles?
+  en: Only a few thousand blind working-men, some consumptive labourers' daughters, a sickly generation of the vile multitude bequeathing its debility to its equally "vile" children and children's children. But what does that come to? Nothing, nothing whatsoever!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: VII.10.3
+  kind: p
+  original: Nichts, gar nichts, unsere englische Bourgeoisie wird den Bericht der Regierungskommission gleichgültig beiseite legen und ihre Frauen und Töchter nach wie vor mit Spitzen schmücken.
+  en: Our English bourgeoisie will lay the report of the Government Commission aside indifferently, and wives and daughters will deck themselves with lace as before.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: VII.10.4
+  kind: p
+  original: Es ist doch eine schöne Sache um die Gemütsruhe eines englischen Bourgeois!
+  en: It is a beautiful thing, the composure of an English bourgeois.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: VII.11.1
+  kind: p
+  original: Eine große Anzahl Arbeiter werden in Lancashire, Derbyshire und dem Westen von Schottland in den Kattundruckereien beschäftigt.
+  en: A great number of operatives are employed in the cotton-printing establishments of Lancashire, Derbyshire, and the West of Scotland.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: VII.11.2
+  kind: p
+  original: In keiner Branche der englischen Industrie hat die Mechanik so glänzende Resultate hervorgebracht, aber auch in keiner hat sie den Arbeiter so gedrückt wie in dieser.
+  en: In no branch of English industry has mechanical ingenuity produced such brilliant results as here, but in no other has it so crushed the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: VII.11.3
+  kind: p
+  original: Die Anwendung von dampfgetriebenen gravierten Zylindern, die Erfindung, mit solchen Zylindern vier bis sechs Farben zu gleicher Zeit zu drucken, hat die Handarbeit so vollkommen verdrängt, wie die Maschinen beim Spinnen und Weben der Baumwolle dies taten, und diese neuen Einrichtungen haben in den Druckereien noch viel mehr Arbeiter verdrängt, dies beim Anfertigen der Stoffe geschah.
+  en: The application of engraved cylinders driven by steam-power, and the discovery of a method of printing four to six colours at once with such cylinders, has as completely superseded hand-work as did the application of machinery to the spinning and weaving of cotton, and these new arrangements in the printing-works have superseded the hand-workers much more than was the case in the production of the fabrics.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: VII.11.4
+  kind: p
+  original: Ein Mann, von einem Kinde unterstützt, tut mit der Maschine die Arbeit, die früher von 200 Arbeitern mit der Hand getan werden mußte; eine einzige Maschine liefert jede Minute 28 Yards (80 Fuß) bedrucktes Tuch.
+  en: One man, with the assistance of one child, now does with a machine the work done formerly by 200 block printers; a single machine yields 28 yards of printed cloth per minute.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: VII.11.5
+  kind: p
+  original: Infolgedessen sind die Kattundrucker in einer sehr schlimmen Lage; die Grafschaften Lancaster, Derby und Chester lieferten (laut Petition der Drucker ans Unterhaus) im Jahre 1842 elf Millionen Stück gedruckten Kattun; von diesen wurden 100 000 durch Handarbeit allein, 900 000 teilweise durch Maschinen mit Nachhülfe von Handdruck und 10 Millionen allein durch Maschinerie mit von einer bis zu sechs Farben bedruckt.
+  en: 'The calico printers are in a very bad way in consequence; the shires of Lancaster, Derby, and Chester produced (according to a petition of the printers to the House of Commons), in the year 1842, 11,000,000 pieces of printed cotton goods: of these, 100,000 were printed by hand exclusively, 900,000 in part with machinery and in part by hand, and 10,000,000 by machinery alone, with four to six colours.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: VII.11.6
+  kind: p
+  original: Da die Maschinen meist neueren Datums sind und noch stets verbessert werden, so ist die Zahl der Handdrucker viel zu groß für das disponible Arbeitsquantum, und natürlich sind viele - in der Petition wird gesagt, ein Viertel der ganzen Zahl - ganz brotlos, während die übrigen durchschnittlich nur einen oder zwei, höchstens drei Tage in der Woche beschäftigt sind und schlecht bezahlt werden.
+  en: As the machinery is chiefly new and undergoes constant improvement, the number of hand-printers is far too great for the available quantity of work, and many of them are therefore starving; the petition puts the number at one-quarter of the whole, while the rest are employed but one or two, in the best case three days in the week, and are ill-paid.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '413'
+- id: VII.11.7
+  kind: p
+  original: Leach behauptet von einer Druckerei (Deeply Dale, bei Bury in Lancashire), daß die Handdrucker dort durchschnittlich nicht mehr als 5 sh. verdienten (Stubb. Facts, p, 47), während er allerdings wohl weiß, daß die an den Maschinen Arbeitenden ziemlich gut bezahlt werden.
+  en: Leach asserts of one print-work (Deeply Dale, near Bury, in Lancashire), that the hand-printers did not earn on an average more than five shillings, though he knows that the machine-printers were pretty well paid.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 413-414
+  en_note: 'English note {194}: Leach. "Stubborn Facts from the Factories," p. 47.'
+- id: VII.11.8
+  kind: p
+  original: Die Druckereien sind also dem Fabriksystem vollständig beigetreten, aber ohne unter den diesem auferlegten gesetzlichen Beschränkungen zu stehen.
+  en: The print-works are thus wholly affiliated with the factory system, but without being subject to the legislative restrictions placed upon it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: VII.11.9
+  kind: p
+  original: Sie fabrizieren einen Modeartikel und haben daher keine regelmäßige Arbeitszeit.
+  en: They produce an article subject to fashion, and have therefore no regular work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: VII.11.10
+  kind: p
+  original: Haben sie wenig Aufträge, so arbeiten sie die halbe Zeit; tun sie mit einem Muster einen guten Treffer und geht das Geschäft flott, so wird bis zehn, zwölf Uhr, ja die ganze Nacht durch gearbeitet.
+  en: If they have small orders, they work half time; if they make a hit with a pattern, and business is brisk, they work twelve hours, perhaps all night.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: VII.11.11
+  kind: p
+  original: In der Nähe meiner Wohnung bei Manchester war eine Druckerei, die manches Mal bis tief in der Nacht, wenn ich nach Hause kam, noch erleuchtet war, und ich habe oft gehört, daß dort die Kinder zuweilen so lange zu arbeiten hätten, daß sie auf den steinernen Treppen und im Vorhause in den Winkeln ein paar Augenblicke Ruhe und Schlaf zu erhaschen suchten.
+  en: In the neighbourhood of my home, near Manchester, there was a print-work that was often lighted when I returned late at night; and I have heard that the children were obliged at times to work so long there, that they would try to catch a moment's rest and sleep on the stone steps and in the corners of the lobby.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: VII.11.12
+  kind: p
+  original: Ich weiß nicht juristisch gewiß, ob es wahr ist, sonst würde ich die Firma nennen.
+  en: I have no legal proof of the truth of the statement, or I should name the firm.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: VII.11.13
+  kind: p
+  original: Der Bericht der Ch. E. Comm. ist hier sehr flüchtig, er berichtet bloß, daß in England wenigstens die Kinder meist ziemlich gut gekleidet und genährt sind (dies ist relativ, je nachdem ihre Eltern viel verdienen oder nicht), daß sie gar keine Bildung haben und moralisch wenig taugen.
+  en: The Report of the Children's Employment Commission is very cursory upon this subject, stating merely that in England, at least, the children are mostly pretty well clothed and fed (relatively, according to the wages of the parents), that they receive no education whatsoever, and are morally on a low plane.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: VII.11.14
+  kind: p
+  original: Wir brauchen bloß zu bedenken, daß diese Kinder unter dem Fabriksystem stehen, und können dann, auf das hierüber Gesagte weisend, weitergehen.
+  en: It is only necessary to remember that these children are subject to the factory system, and then, referring the reader to what has already been said of that, we can pass on.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: VII.12.1
+  kind: p
+  original: Von den übrigen, mit der Fabrikation von Kleiderstoffen beschäftigten Arbeitern bleibt uns wenig zu sagen; die Bleicher haben eine sehr ungesunde Arbeit, bei der sie fortwährend Chlor, einen der für die Lunge nachteiligsten Stoffe, einzuatmen haben; die Arbeit der Färber ist schon gesunder, in vielen Fällen sehr gesund, da sie Anstrengung des ganzen Körpers erfordert; wie diese Klassen bezahlt werden, darüber hört man wenig, und das ist Ursache genug zu dem Schluß, daß sie nicht unter dem Durchschnittslohn bekommen, weil sie sich sonst schon beschweren würden.
+  en: Of the remaining workers employed in the manufacture of clothing stuffs little remains to be said; the bleachers' work is very unwholesome, obliging them to breathe chlorine, a gas injurious to the lungs. The work of the dyers is in many cases very healthful, since it requires the exertion of the whole body; how these workers are paid is little known, and this is ground enough for the inference that they do not receive less than the average wages, otherwise they would make complaint.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.12.2
+  kind: p
+  original: Die Samtscherer, die bei dem großen Verbrauch von Baumwollensamt ziemlich zahlreich sind und sich auf 3 000 bis 4 000 belaufen, haben indirekt sehr hart durch den Einfluß des Fabriksystems gelitten.
+  en: The fustian cutters, who, in consequence of the large consumption of cotton velvet, are comparatively numerous, being estimated at from 3,000 to 4,000, have suffered very severely, indirectly, from the influence of the factory system.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+- id: VII.12.3
+  kind: p
+  original: Die Ware, die früher mit Handwebstühlen gemacht wurde, war nicht ganz egal gewebt und erforderte eine geübte Hand im Aufschneiden der einzelnen Fadenreihen; seitdem sie mit mechanischen Stühlen gemacht, laufen die Reihen ganz egal, jeder Einschlagsfaden ist genau dem vorhergehenden parallel, und das Aufschneiden ist keine große Kunst mehr.
+  en: The goods formerly woven with hand-looms, were not perfectly uniform, and required a practised hand in cutting the single rows of threads. Since power-looms have been used, the rows run regularly; each thread of the weft is exactly parallel with the preceding one, and cutting is no longer an art.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '414'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.12.4
+  kind: p
+  original: Die durch Maschinerie brotlos gewordenen Arbeiter werfen sich auf das Samtscheren und drücken den Lohn durch ihre Konkurrenz; die Fabrikanten entdeckten, daß sie Weiber und Kinder zum Samtscheren gebrauchen konnten - und der Lohn sank auf den von Weibern und Kindern, während Hunderte von Männern verdrängt wurden, die Fabrikanten entdeckten, daß sie die Arbeit in ihrem Fabriklokal billiger tun lassen konnten als in der Werkstatt des Arbeiters, für die sie doch die Miete indirekt bezahlten; seitdem stehen die zu Scherzimmern eingerichteten niedrigen Oberstockwerke vieler Cottages leer oder werden als Wohnungen vermietet, während der Samtscherer die Freiheit der Wahl seiner Arbeitsstunden verloren hat und unter die Botmäßigkeit der Fabrikglocke gebracht ist.
+  en: The workers thrown out of employment by the introduction of machinery turn to fustian cutting, and force down wages by their competition; the manufacturers discovered that they could employ women and children, and the wages sank to the rate paid them, while hundreds of men were thrown out of employment. The manufacturers found that they could get the work done in the factory itself more cheaply than in the cutters' workroom, for which they indirectly paid the rent. Since this discovery, the low upper-storey cutters' rooms stand empty in many a cottage, or are let for dwellings, while the cutter has lost his freedom of choice of his working-hours, and is brought under the dominion of the factory bell.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 414-415
+  align: '1:3'
+  review: true
+  review_reason: 1 de sentence(s) matched to 3 en sentence(s)
+- id: VII.12.5
+  kind: p
+  original: Mir ein sagt Samtscherer, der 45 Jahre alt sein mochte, er könne sich der Zeit erinnern, wo er für dieselbe Arbeit, die er jetzt für 1 d. die Yard tun müsse, 8 d. erhalten habe; allerdings könne er das egalere Gewebe rascher scheren als das frühere, aber er könne in der Stunde lange nicht das Doppelte von dem tun, was er früher in derselben Zeit getan - so daß sein Wochenlohn auf weniger als 1/4 seines früheren gesunken ist.
+  en: A cutter of perhaps forty-five years of age told me that he could remember a time when he had received 8d. a yard for work, for which he now received 1d.; true, he can cut the more regular texture more quickly than the old, but he can by no means do twice as much in an hour as formerly, so that his wages have sunk to less than a quarter of what they were.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: VII.12.6
+  kind: p
+  original: Leach gibt (Stubb. F. p. 35) eine Liste der Löhne, die 1827 und 1843 für verschiedene Stoffe bezahlt wurden, woraus hervorgeht, daß die Artikel, welche 1827 4 d., 2 1/2 d., 2 3/4 d., 1 d. per Yard bezahlt wurden, im Jahre 1843 nur 1 1/2 d., 3/4 d., 1 d. und 3/8 d. per Yard Scherlohn erhielten.
+  en: Leach gives a list of wages paid in 1827 and in 1843 for various goods, from which it appears that articles paid in 1827 at the rates of 4d., 2.25d., 2.75d., and 1d. per yard, were paid in 1843 at the rate of 1.5d., 1d.,.75d., and 0.375d. per yard, cutters' wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+  en_note: 'English note {196}: Leach. "Stubborn Facts from the Factories," p. 33.'
+- id: VII.12.7
+  kind: p
+  original: 'Das Verhältnis des durchschnittlichen wöchentlichen Verdienstes stellt sich nach Leach so: 1827 Pfd. St. 1-6-6 d., Pfd. St. 1-2-6 d., Pfd. St. 1~-~-, Pfd. St. 1-6-6 d., und für gleiche Waren 1843 Pfd. St. ~-10-6 d., Pfd. St. ~-7-6 d., Pfd. St. ~-6-8 d., Pfd. St. ~-10-~, und es gibt Hunderte von Arbeitern, die zu diesen letzten Lohnsätzen nicht einmal ankommen können.'
+  en: 'The average weekly wage, according to Leach, was as follows: 1827, 1 pounds 6s. 6d.; 1 pounds 2s. 6d.; 1 pounds; 1 pounds 6s. 6d.; and for the same goods in 1843, 10s. 6d.; 7s. 6d.; 6s. 8d.; 10s.; while there are hundreds of workers who cannot find employment even at these last named rates.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: VII.12.8
+  kind: p
+  original: '- Von den Handwebern der Baumwollenindustrie haben wir schon gesprochen; die übrigen Webestoffe werden fast ausschließlich durch Handweber verfertigt, die meist auf dieselbe Weise wie die Samtscherer durch Eindringen der durch Maschinen verdrängten Arbeiter gelitten haben, und außerdem, wie die Fabrikarbeiter, unter einem strengen Strafgesetz wegen schlechter Arbeit stehen.'
+  en: Of the hand-weavers of the cotton industry we have already spoken; the other woven fabrics are almost exclusively produced on hand-looms. Here most of the workers have suffered as the weavers have done from the crowding in of competitors displaced by machinery, and are, moreover, subject like the factory operatives to a severe fine system for bad work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.12.9
+  kind: p
+  original: Nehmen wir die Seidenweber.
+  en: Take, for instance, the silk weavers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: VII.12.10
+  kind: p
+  original: Der Seidenfabrikant Brocklehurst, einer der bedeutendsten von ganz England, hat einem Parlamentskomitee Listen aus seinen Büchern vorgelegt, aus denen hervorgeht, daß er für dieselben Artikel, für die er 1821 30 sh., 14 sh., 3 1/2 sh., 3/4 sh., 1 1/12 sh., 10 sh. Lohn bezahlte, 1831 nur 9 sh., 7 1/2 sh., 2 1/4 sh., 1/3 sh., 1/2 sh., 6 1/4 sh. bezahlt, während doch hier keine Verbesserungen der Maschinerie eingetreten waren.
+  en: Mr. Brocklehurst, one of the largest silk manufacturers in all England, laid before a committee of members of Parliament lists taken from his books, from which it appears that for goods for which he paid wages in 1821 at the rate of 30s., 14s., 3.5s.,.75s., 1.5s., 10s., he paid in 1839 but 9s., 7.25s., 2.25s., 0.333s., 0.5s., 6.25s., while in this case no improvement in the machinery has taken place.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: VII.12.11
+  kind: p
+  original: Was H[er]r Brocklehurst aber tut, kann wohl als Norm für ganz England angenommen werden.
+  en: But what Mr. Brocklehurst does may very well be taken as a standard for all.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: VII.12.12
+  kind: p
+  original: Aus denselben Listen geht hervor, daß der Durchschnittsverdienst seiner Weber nach allen Abzügen 1821 wöchentlich 16 1/2 sh. und 1831 nur 6 sh. betrug.
+  en: From the same lists it appears that the average weekly wage of his weavers, after all deductions, was, in 1821, 16.5s., and, in 1831, but 6s.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '415'
+- id: VII.12.13
+  kind: p
+  original: Seitdem ist der Lohn noch mehr gefallen - die Gewebe, die 1831 1/3 sh. oder 4 Pence Weblohn per Yard brachten, bezahlen 1843 nur 2 1/2 Pence (es sind die single sarsnets [einfachen Taftgewebe]) - und eine große Anzahl von Webern auf dem Lande können sich nur Arbeit verschaffen, wenn sie diese Gewebe für 1 1/2 bis 2 Pence annehmen.
+  en: Since that time wages have fallen still further. Goods which brought in 4d. weavers' wages in 1831, bring in but 2.5d. in 1843 (single sarsnets), and a great number of weavers in the country can get work only when they undertake these goods at 1.5d.-2d.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 415-416
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.12.14
+  kind: p
+  original: Dazu kommt die willkürliche Lohnverkürzung.
+  en: Moreover, they are subject to arbitrary deductions from their wages.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T1
+    editions: '1892'
+    reading: willkürlichste
+    base_text: … Dazu kommt die willkürliche ‸ Lohnverkürzung. …
+  mew_page: '416'
+- id: VII.12.15
+  kind: p
+  original: 'Jeder Weber, der eine Kette holt, bekommt eine Karte dazu, worauf gewöhnlich steht: daß zu diesen oder jenen Tagesstunden die Arbeit angenommen wird, daß ein Weber, der krankheitshalber nicht arbeiten kann, dies innerhalb drei Tagen am Kontor muß anzeigen lassen, sonst gilt Krankheit für keine Entschuldigung; daß es nicht als genügende Entschuldigung angenommen wird, wenn der Weber sagt, er habe auf Garn für den Einschlag warten müssen, daß für gewisse Versehen an der Arbeit (wenn z.B. auf eine gewisse Lange des Stoffs mehr Einschlagsfäden kommen, als vorgeschrieben etc.) nicht weniger als der halbe Lohn abgezogen werden soll und daß, wenn der Stoff nicht in der bestimmten Zeit fertig ist, für jede Yard des aufgegebenen Stücks ein Penny deduziert wird.'
+  en: Every weaver who receives materials is given a card, on which is usually to be read that the work is to be returned at a specified hour of the day; that a weaver who cannot work by reason of illness must make the fact known at the office within three days, or sickness will not be regarded as an excuse; that it will not be regarded as a sufficient excuse if the weaver claims to have been obliged to wait for yarn; that for certain faults in the work (if, for example, more weft-threads are found within a given space than are prescribed), not less than half the wages will be deducted; and that if the goods should not be ready at the time specified, one penny will be deducted for every yard returned.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: VII.12.16
+  kind: p
+  original: Die Lohnverkürzungen infolge dieser Karten sind so bedeutend, daß z.B. ein Mann, der zweimal wöchentlich nach Leigh in Lancashire kommt, um die Gewebe anzunehmen, seinem Fabrikanten mindestens fünfzehn Pfund (100 Taler preußisch) an Strafgeldern jedes Mal mitbringt.
+  en: The deductions in accordance with these cards are so considerable that, for instance, a man who comes twice a week to Leigh, in Lancashire, to gather up woven goods, brings his employer at least 15 pound fines every time.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T2
+    editions: '1892'
+    reading: abzunehmen
+    base_text: … um die Gewebe anzunehmen ‸ , seinem Fabrikanten mindestens …
+  mew_page: '416'
+- id: VII.12.17
+  kind: p
+  original: So sagt er selbst - und er gilt für einen der Tolerantesten.
+  en: He asserts this himself, and he is regarded as one of the most lenient.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: VII.12.18
+  kind: p
+  original: Früher wurden dergleichen Sachen durch Schiedsrichter entschieden, aber da die Arbeiter meist entlassen wurden, wenn sie darauf drangen, so ist dies jetzt ganz abgekommen, und der Fabrikant verfährt ganz willkürlich, ist Ankläger, Zeuge, Richter, Gesetzgeber und Vollstrecker, alles in einer Person.
+  en: Such things were formerly settled by arbitration; but as the workers were usually dismissed if they insisted upon that, the custom has been almost wholly abandoned, and the manufacturer acts arbitrarily as prosecutor, witness, judge, law-giver, and executive in one person.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: VII.12.19
+  kind: p
+  original: 'Und geht der Arbeiter zum Friedensrichter, so heißt es: Dadurch, daß Ihr die Karte annahmt, seid Ihr einen Kontrakt eingegangen, und den müßt Ihr jetzt erfüllen.'
+  en: 'And if the workman goes to a Justice of the Peace, the answer is: "When you accepted your card you entered upon a contract, and you must abide by it."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: VII.12.20
+  kind: p
+  original: Gerade wie bei den Fabrikarbeitern.
+  en: The case is the same as that of the factory operatives.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: VII.12.21
+  kind: p
+  original: Ohnehin läßt der Fabrikant den Arbeiter jedesmal ein Dokument unterzeichnen, worin dieser erklärt, er "willige in die gemachten Abzüge".
+  en: Besides, the employer obliges the workman to sign a document in which he declares that he agrees to the deductions made.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+- id: VII.12.22
+  kind: p
+  original: Und sperrt er sich, so wissen gleich alle Fabrikanten der Stadt, daß er ein Mann ist, der, wie Leach sagt, der "durch Karten verbrieften Ordnung und Gesetzlichkeit widerstrebt und die Frechheit hat, an der Weisheit derer zu zweifeln, die, wie er wissen müßte, doch seine Vorgesetzten in der Gesellschaft sind (Stubb. Facts, p. 37-40)
+  en: And if a workman rebels, all the manufacturers in the town know at once that he is a man who, as Leach says, "resists the lawful order as established by weavers' cards, and, moreover, has the impudence to doubt the wisdom of those who are, as he ought to know, his superiors in society."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+  en_note: 'English note {197}: Leach. "Stubborn Facts from the Factories," p. 37-40.'
+- id: VII.13.1
+  kind: p
+  original: 'Natürlich, die Weber sind vollkommen frei, der Fabrikant zwingt sie ja nicht, seine Ketten und Karten zu nehmen, aber er sagt ihnen, wie Leach es in gutes Englisch übersetzt:'
+  en: 'Naturally, the workers are perfectly free; the manufacturer does not force them to take his materials and his cards, but he says to them what Leach translates into plain English with the words: "If you don''t like to be frizzled in my frying-pan, you can take a walk into the fire."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '416'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.14.1
+  kind: p
+  original: '"Wollt ihr nicht in meiner Schmorpfanne gebraten werden, so könnt ihr auch geradezu ins Feuer spazieren" (if you don''t like to be frizzled in my frying-pan, you can take a walk into the fire).'
+  en: ''
+  joined_to: VII.13.1
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '416'
+- id: VII.15.1
+  kind: p
+  original: Die Seidenweber von London, in Spitalfields namentlich, haben seit geraumer Zeit periodisch im größten Elend gelebt, und daß sie auch jetzt noch mit ihrer Lege keine Ursache haben zufrieden zu sein, folgt daraus, daß sie einen höchst tätigen Anteil an allen englischen und namentlich Londoner Arbeiterbewegungen nehmen.
+  en: The silk weavers of London, and especially of Spitalfields, have lived in periodic distress for a long time, and that they still have no cause to be satisfied with their lot is proved by their taking a most active part in English labour movements in general, and in London ones in particular.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: VII.15.2
+  kind: p
+  original: Die unter ihnen herrschende Not war die Ursache des Fiebers, das im östlichen Teile von London ausbrach und die Kommission zur Untersuchung der sanitärischen Verhältnisse der Arbeiterklasse veranlaßte.
+  en: The distress prevailing among them gave rise to the fever which broke out in East London, and called forth the Commission for Investigating the Sanitary Condition of the Labouring Class.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: VII.15.3
+  kind: p
+  original: Wie sehen aber aus dem jüngsten Bericht des Londoner Fieberhospitals daß dies Fieber noch immer fortwütet.
+  en: But the last report of the London Fever Hospital shows that this disease is still raging.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: VII.16.1
+  kind: p
+  original: Nach den Kleiderstoffen sind vor allen andern die Metallwaren die wichtigste Klasse der durch die englische Industrie produzierten Artikel.
+  en: After the textile fabrics, by far the most important products of English industry are the metal-wares.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: VII.16.2
+  kind: p
+  original: Diese Fabrikation hat ihre Hauptsitze in Birmingham, wo feinere Metallwaren aller Art, in Sheffield, wo sämtliche Messerwaren, und Staffordshire, namentlich Wolverhampton, wo die gröberen Artikel, Schlösser, Nägel etc., gemacht werden.
+  en: This trade has its headquarters at Birmingham, where the finer metal goods of all sorts are produced, at Sheffield for cutlery, and in Staffordshire, especially at Wolverhampton, where the coarser articles, locks, nails, etc., are manufactured.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: VII.16.3
+  kind: p
+  original: Fangen wir bei Schilderung der Lage der in diesen Industriezweigen beschäftigten Arbeiter mit Birmingham an.
+  en: In describing the position of the workers employed in these trades, let us begin with Birmingham.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: VII.16.4
+  kind: p
+  original: Die Einrichtung der Arbeit hat in Birmingham, wie überhaupt in den meisten Orten, wo Metalle verarbeitet werden, etwas von dem alten handwerksmäßigen Charakter behalten; die kleinen Meister bestehen noch fort und arbeiten mit ihren Lehrlingen entweder in der Werkstatt zu Hause oder, wo sie Dampfkraft gebrauchen, in großen Fabrikgebäuden, die in kleine, einzeln an die Meister vermietete Werkstätten eingeteilt und in allen Zimmern mit einem durch die Dampfmaschine bewegten Schaft versehen sind, durch den sich wiederum andere Maschinerie treiben läßt.
+  en: The disposition of the work has retained in Birmingham, as in most places where metals are wrought, something of the old handicraft character; the small employers are still to be found, who work with their apprentices in the shop at home, or when they need steam-power, in great factory buildings which are divided into little shops, each rented to a small employer, and supplied with a shaft moved by the engine, and furnishing motive power for the machinery.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: VII.16.5
+  kind: p
+  original: Léon Faucher (Verfasser einer Reihe Artikel über englische Arbeiterverhältnisse in der "Revue des deux Mondes", die wenigstens Studium verraten und jedenfalls besser sind, als was bis jetzt sowohl Engländer wie Deutsche darüber geschrieben haben) bezeichnet dies Verhältnis im Gegensatz zu der großen Fabrikation von Lancashire und Yorkshire mit dem Namen der Démocratie industrielle und bemerkt, daß dies keine sehr günstigen Resultate auf die Lage der Meister wie der Gesellen habe.
+  en: Leon Faucher, author of a series of articles in the Revue des Deux Mondes, which at least betray study, and are better than what has hitherto been written upon the subject by Englishmen or Germans, characterises this relation in contrast with the manufacture of Lancashire as "Democratie industrielle," and observes that it produces no very favourable results for master or men.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: VII.16.6
+  kind: p
+  original: Diese Bemerkung ist ganz richtig, denn die vielen kleinen Meister, auf die sich der von der Konkurrenz geregelte, sonst von einem einzigen großen Fabrikanten absorbierte Gewinn verteilt, können nicht gut dabei bestehen.
+  en: This observation is perfectly correct, for the many small employers cannot well subsist on the profit divided amongst them, determined by competition, a profit under other circumstances absorbed by a single manufacturer.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+- id: VII.16.7
+  kind: p
+  original: Die zentralisierende Tendenz des Kapitals hält sie niedergedrückt, für einen, der sich bereichert, werden zehn ruiniert und hundert durch den Druck des einen Reichen, der billiger verkaufen kann als sie, schlechter gestellt als vorher.
+  en: The centralising tendency of capital holds them down. For one who grows rich ten are ruined, and a hundred placed at a greater disadvantage than ever, by the pressure of the one upstart who can afford to sell more cheaply than they.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '417'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.16.8
+  kind: p
+  original: Und in den Fällen, wo sie von vornherein gegen große Kapitalisten zu konkurrieren haben, versteht es sich von selbst, daß sie gegen diese Konkurrenz nur mühsam ankommen können.
+  en: And in the cases where they have to compete from the beginning against great capitalists, it is self-evident that they can only toil along with the greatest difficulty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 417-418
+- id: VII.16.9
+  kind: p
+  original: Die Lehrlinge haben es, wie wir sehen werden, bei den kleinen Meistern wenigstens ebenso schlecht als bei den Fabrikanten, nur mit dem Unterschiede, daß sie später selbst Meister werden und so eine gewisse Selbständigkeit erhalten - d. h., sie werden von der Bourgeoisie weniger direkt als in den Fabriken ausgebeutet.
+  en: The apprentices are, as we shall see, quite as badly off under the small employers as under the manufacturers, with the single difference that they, in turn, may become small employers, and so attain a certain independence--that is to say, they are at best less directly exploited by the bourgeoisie than under the factory system.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: VII.16.10
+  kind: p
+  original: So sind diese kleinen Meister weder rechte Proletarier - da sie teilweise von der Arbeit der Lehrlinge leben und nicht die Arbeit selbst, sondern das fertige Produkt verkaufen - noch rechte Bourgeois, da es der Hauptsache nach immer ihre eigne Arbeit ist, die sie erhält.
+  en: Thus these small employers are neither genuine proletarians, since they live in part upon the work of their apprentices, nor genuine bourgeois, since their principal means of support is their own work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: VII.16.11
+  kind: p
+  original: Diese eigentümliche, vermittelnde Stellung der Arbeiter von Birmingham ist schuld daran, daß sie sich sehr selten der englischen Arbeiterbewegung ganz und unverhohlen angeschlossen haben.
+  en: This peculiar midway position of the Birmingham iron-workers is to blame for their having so rarely joined wholly and unreservedly in the English labour movements.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: VII.16.12
+  kind: p
+  original: Birmingham ist eine politisch-radikale, aber keine entschieden chartistische Stadt.
+  en: Birmingham is a politically radical, but not a Chartist, town.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: VII.16.13
+  kind: p
+  original: Indes bestehen auch eine Menge größerer Fabriken für Rechnung von Kapitalisten, und in diesen herrscht das Fabriksystem vollkommen - die Teilung der Arbeit, die hier bis ins allereinzelnste (z.B. in der Nadelfabrikation) durchgeführt ist, sowie die Dampfkraft erlaubt die Beschäftigung einer großen Menge Weiber und Kinder, und wir finden hier (im Ch. E. Rept.) ganz dieselben Züge wieder, die uns der Fabrikbericht gab - Arbeit der Frauen bis zur Stunde der Niederkunft, Unfähigkeit, der Haushaltung vorzustehen, Vernachlässigung des Hauswesens und der Kinder, Gleichgültigkeit, ja Abneigung gegen das Familienleben, und Demoralisation - ferner Verdrängung der Männer von der Arbeit, fortwährende Maschinenverbesserung, frühe Emanzipation der Kinder, Männer, die von den Frauen und Kindern ernährt werden etc. etc. Die Kinder werden als halbverhungert und zerlumpt geschildert - die Hälfte soll nicht wissen, was satt werden heißt, viele leben den ganzen Tag von so viel Brot, als sie für einen Penny (10 Pf. preußisch) bekommen, oder erhalten vor dem Mittagessen keine Nahrung; ja, es kamen Beispiele vor, daß Kinder von 8 Uhr morgens bis 7 Uhr abends nichts zu essen bekamen.
+  en: There are, however, numerous larger factories belonging to capitalists; and in these the factory system reigns supreme. The division of labour, which is here carried out to the last detail (in the needle industry, for example), and the use of steam-power, admit of the employment of a great multitude of women and children, and we find here precisely the same features reappearing which the Factories' Report presented,--the work of women up to the hour of confinement, incapacity as housekeepers, neglect of home and children, indifference, actual dislike to family life, and demoralisation; further, the crowding out of men from employment, the constant improvement of machinery, early emancipation of children, husbands supported by their wives and children, etc. etc. The children are described as half-starved and ragged, the half of them are said not to know what it is to have enough to eat, many of them get nothing to eat before the midday meal, or even live the whole day upon a pennyworth of bread for a noonday meal--there were actually cases in which children received no food from eight in the morning until seven at night.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+  en_note: 'English note {199}: Children''s Employment Commission''s Report.'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.16.14
+  kind: p
+  original: Die Kleidung sehr häufig kaum hinreichend, ihre Blöße zu bedecken; viele selbst im Winter barfuß.
+  en: Their clothing is very often scarcely sufficient to cover their nakedness, many are barefoot even in winter.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: VII.16.15
+  kind: p
+  original: Daher sind sie alle klein und schwach für ihr Alter und entwickeln sich selten irgendwie kräftig; und wenn man bedenkt, daß bei diesen wenigen Mitteln zur Reproduktion der physischen Kräfte noch harte, lang anhaltende Arbeit in geschlossenen Räumen kommt, so wird man sich nicht darüber wundern, daß sich wenig erwachsene Leute in Birmingham finden, die für den Militärdienst passen.
+  en: Hence they are all small and weak for their age, and rarely develop with any degree of vigour. And when we reflect that with these insufficient means of reproducing the physical forces, hard and protracted work in close rooms is required of them, we cannot wonder that there are few adults in Birmingham fit for military service.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.17.1
+  kind: p
+  original: '"Die Arbeiter", sagt ein Rekrutierungsarzt, "sind klein, schmächtig und von sehr geringer Körperstärke - viele obendrein in Brust oder Rückgrat verwachsen."'
+  en: '"The working men," says a recruiting surgeon, "are small, delicate, and of very slight physical power; many of them deformed, too, in the chest or spinal column."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '418'
+- id: VII.18.1
+  kind: p
+  original: Nach der Angabe eines rekrutierenden Unteroffiziers sind die Leute in Birmingham kleiner als irgendwo anders, meist 5 Fuß 4 bis 5 Zoll groß, und aus 613 angeworbenen Rekruten wurden nur 238 tauglich befunden.
+  en: According to the assertion of a recruiting sergeant, the people of Birmingham are smaller than those anywhere else, being usually 5 feet 4 to 5 inches tall; out of 613 recruits, but 238 were found fit for service.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: VII.18.2
+  kind: p
+  original: Was die Bildung betrifft, so wurde schon oben (S.338 ff.) eine Reihe von Aussagen und Beispielen hierüber aus den Metallbezirken gegeben, auf die ich hier verweise; übrigens geht aus dem Ch. E. Rept. hervor, daß in Birmingham über die Hälfte der Kinder zwischen 5 und 15 Jahren keine Schule irgendeiner Art besuchen, daß die schulbesuchenden Kinder oft wechseln, so daß ihnen unmöglich irgendeine nachhaltige Bildung gegeben werden kann, und daß die Kinder alle sehr früh aus der Schule weggenommen und an die Arbeit gesetzt werden.
+  en: As to education, a series of depositions and specimens taken from the metal districts have already been given, to which the reader is referred. It appears further, from the Children's Employment Commission's Report, that in Birmingham more than half the children between five and fifteen years attend no school whatsoever, that those who do are constantly changing, so that it is impossible to give them any training of an enduring kind, and that they are all withdrawn from school very early and set to work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+  en_note: 'English note {200a}: See p. 112.'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.18.3
+  kind: p
+  original: 'Was für Lehrer dabei angewandt werden, geht ebenfalls aus diesem Bericht hervor; eine Lehrerin antwortete auf die Frage, ob sie auch Unterricht in der Moral gebe: Nein, für 3 Pence wöchentlich Schulgeld sei das nicht zu verlangen; mehrere andere verstanden selbst diese Frage nicht, und andere hielten dies durchaus nicht für einen Teil ihrer Pflicht.'
+  en: The report makes it clear what sort of teachers are employed. One teacher, in answer to the question whether she gave moral instruction, said, No, for threepence a week school fees that was too much to require, but that she took a great deal of trouble to instil good principles into the children.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s); regrouped by the ingest (see REALIGN)
+- id: VII.18.4
+  kind: p
+  original: Eine Lehrerin sagte, Moral lehre sie nicht, aber sie bemühe sich, den Kindern gute Prinzipien beizubringen, und dabei machte sie einen derben Sprachschnitzer.
+  en: (And she made a decided slip in her English in saying it.)
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: VII.18.5
+  kind: p
+  original: In den Schulen selbst fand der Kommissär fortwährenden Lärm und Unordnung.
+  en: In the schools the commissioner found constant noise and disorder.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: VII.18.6
+  kind: p
+  original: Daher ist der sittliche Zustand der Kinder selbst im höchsten Grade beklagenswert; die Hälfte aller Verbrecher ist unter 15 Jahre alt, und in einem Jahre wurden allein 90 zehnjährige Verbrecher, unter denen 44 Kriminalfälle, verurteilt.
+  en: The moral state of the children is in the highest degree deplorable. Half of all the criminals are children under fifteen, and in a single year ninety ten-years'-old offenders, among them forty-four serious criminal cases, were sentenced.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s); regrouped by the ingest (see REALIGN)
+- id: VII.18.7
+  kind: p
+  original: Ungeregelter Geschlechtsverkehr scheint nach der Ansicht der Kommissäre fast allgemein und zwar schon in sehr jugendlichem Alter vorzukommen.
+  en: Unbridled sexual intercourse seems, according to the opinion of the commissioner, almost universal, and that at a very early age.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+  en_note: 'English note {200b}: Grainger Report and Evidence.'
+- id: VII.18.8
+  kind: p
+  original: (Grainger, Rept. et evid.)
+  en: In the iron district of Staffordshire the state of things is still worse.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.19.1
+  kind: p
+  original: In dem Eisendistrikt von Staffordshire sieht es noch schlimmer aus.
+  en: ''
+  joined_to: VII.18.8
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '419'
+- id: VII.19.2
+  kind: p
+  original: Bei den groben Eisenwaren, die hier gemacht werden, ist weder viel Teilung der Arbeit (mit gewissen Ausnahmen) noch Dampfkraft und Maschinerie anzuwenden.
+  en: For the coarse wares made here neither much division of labour (with certain exceptions) nor steam-power or machinery can be applied.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: VII.19.3
+  kind: p
+  original: Hier - in Wolverhampton, Willenhall, Bilston, Sedgeley, Wednesfield, Darlaston, Dudley, Walsall, Wednesbury etc. - gibt es daher weniger Fabriken, aber desto mehr kleine Schmieden, in denen die kleinen Meister einzeln mit einem oder mehreren Lehrlingen, die ihnen bis zum einundzwanzigsten Jahre dienstbar sind, arbeiten.
+  en: In Wolverhampton, Willenhall, Bilston, Sedgeley, Wednesfield, Darlaston, Dudley, Walsall, Wednesbury, etc., there are, therefore, fewer factories, but chiefly single forges, where the small masters work alone, or with one or more apprentices, who serve them until reaching the twenty-first year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: VII.19.4
+  kind: p
+  original: Die kleinen Meister sind ungefähr in derselben Lage wie die von Birmingham, aber die Lehrlinge haben es meist weit schlechter.
+  en: The small employers are in about the same situation as those of Birmingham; but the apprentices, as a rule, are much worse off.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+- id: VII.19.5
+  kind: p
+  original: Sie bekommen fast nur das Fleisch von kranken, gefallenen Tieren oder faules Fleisch und faule Fische zu essen, desgleichen zu früh geworfene Kälber und auf der Eisenbahn erstickte Schweine.
+  en: They get almost exclusively meat from diseased animals or such as have died a natural death, or tainted meat, or fish to eat, with veal from calves killed too young, and pork from swine smothered during transportation, and such food is furnished not by small employers only, but by large manufacturers, who employ from thirty to forty apprentices.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.19.6
+  kind: p
+  original: Und dies tun nicht nur kleine Meister, sondern auch größere Fabrikanten, die 30 bis 40 Lehrlinge haben.
+  en: ''
+  joined_to: VII.19.5
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '419'
+- id: VII.19.7
+  kind: p
+  original: Dies scheint in Wolverhampton wirklich allgemein zu sein.
+  en: The custom seems to be universal in Wolverhampton, and its natural consequence is frequent bowel complaints and other diseases.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '419'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.19.8
+  kind: p
+  original: Die natürliche Folge davon sind häufige Unterleibs- und andere Krankheiten.
+  en: ''
+  joined_to: VII.19.7
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: 419-420
+- id: VII.19.9
+  kind: p
+  original: Dazu bekommen die Kinder meist nicht satt zu essen und haben selten andere Kleider als ihr Arbeitszeug, so daß sie schon deshalb nicht in die Sonntagsschule gehen.
+  en: Moreover, the children usually do not get enough to eat, and have rarely other clothing than their working rags, for which reason, if for no other, they cannot go to Sunday school The dwellings are bad and filthy, often so much so that they give rise to disease; and in spite of the not materially unhealthy work, the children are puny, weak, and, in many cases, severely crippled.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.19.10
+  kind: p
+  original: Die Wohnungen sind schlecht und schmutzig, oft in so hohem Grade, daß Krankheiten daraus entstehen, und trotz der sonst meistens gesunden Arbeit sind die Kinder deshalb klein, schlecht gewachsen, schwach und in vielen Fällen arg verkrüppelt.
+  en: ''
+  joined_to: VII.19.9
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '420'
+- id: VII.19.11
+  kind: p
+  original: In Willenhall z.B. sind unzählige Leute, die von dem ewigen Feilen am Schraubstock einen Buckel und ein krummes Bein - das Hinterbein, hind-leg, wie sie's nennen - haben, so daß die Beine die Form eines K haben; dazu soll mindestens der dritte Teil der dortigen Arbeiter einen Bruch haben.
+  en: In Willenhall, for instance, there are countless persons who have, from perpetually filing at the lathe, crooked backs and one leg crooked, "hind-leg" as they call it, so that the two legs have the form of a K; while it is said that more than one-third of the working-men there are ruptured.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.12
+  kind: p
+  original: Hier sowohl wie in Wolverhampton fanden sich zahllose Beispiele zurückgehaltener Pubertät sowohl bei Mädchen - auch diese arbeiten in den Schmieden! - als Knaben selbst bis zum neunzehnten Jahr.
+  en: Here, as well as in Wolverhampton, numberless cases were found of retarded puberty among girls, (for girls, too, work at the forges,) as well as among boys, extending even to the nineteenth year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.13
+  kind: p
+  original: In Sedgeley und der Umgegend, wo fast nur Nägel geschmiedet werden, wohnen und arbeiten die Leute in erbärmlichen stallähnlichen Hütten, die an Schmutz ihresgleichen suchen.
+  en: In Sedgeley and its surrounding district, where nails form almost the sole product, the nailers live and work in the most wretched stable-like huts, which for filth can scarcely be equalled.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.14
+  kind: p
+  original: Mädchen und Knaben führen vom zehnten oder zwölften Jahre an den Hammer und gelten erst dann für voll ausgebildete Arbeiter, wenn sie tausend Nägel jeden Tag liefern.
+  en: Girls and boys work from the tenth or twelfth year, and are accounted fully skilled only when they make a thousand nails a day.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.15
+  kind: p
+  original: Für 1 200 Nägel ist der Lohn 5 3/4 Pence oder nicht ganz 5 Silbergroschen.
+  en: For twelve hundred nails the pay is 5.75d.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.16
+  kind: p
+  original: Jeder Nagel bekommt 12 Schläge, und da der Hammer 1 1/4 Pfd. wiegt, so muß der Arbeiter 18 000 Pfd. heben, bis er diesen elenden Lohn verdient hat.
+  en: Every nail receives twelve blows, and since the hammer weighs 1.25 pounds, the nailer must lift 18,000 pounds to earn this miserable pay.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.17
+  kind: p
+  original: Bei dieser schweren Arbeit und der ungenügenden Nahrung müssen die Kinder einen schlecht ausgebildeten, kleinen, schwachen Körper bekommen, wie dies auch durch die Angaben der Kommissäre bestätigt wird.
+  en: With this hard work and insufficient food, the children inevitably develop ill-formed, undersized frames, and the commissioners depositions confirm this.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.18
+  kind: p
+  original: Über den Stand der Bildung auch in diesem Distrikte sind oben schon Data gegeben worden.
+  en: As to the state of education in this district, data have already been furnished in the foregoing chapters.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.19
+  kind: p
+  original: Die Bildung steht in diesem Bezirk wirklich unglaublich niedrig, die Hälfte aller Kinder besucht nicht einmal eine Sonntagsschule, und die andre Hälfte tut dies auch nur sehr unregelmäßig; sehr wenige im Vergleich mit andern Distrikten können lesen, und mit dem Schreiben ist's noch viel schlechter bestellt.
+  en: It is upon an incredibly low plane; half the children do not even go to Sunday school, and the other half go irregularly; very few, in comparison with the other districts, can read, and in the matter of writing the case is much worse.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.20
+  kind: p
+  original: Natürlich, denn zwischen dem siebenten und zehnten Jahre werden die Kinder an die Arbeit gestellt, gerade wenn sie eben fähig werden, eine Schule mit Nutzen zu besuchen, und die Sonntagsschullehrer - Schmiede oder Grubenleute - können oft kaum lesen und nicht einmal ihren Namen schreiben.
+  en: Naturally, for between the seventh and tenth years, just when they are beginning to get some good out of going to school, they are set to work, and the Sunday school teachers, smiths or miners, frequently cannot read, and write their names with difficulty.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.21
+  kind: p
+  original: Der moralische Zustand ist diesen Erziehungsmitteln entsprechend.
+  en: The prevailing morals correspond with these means of education.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.22
+  kind: p
+  original: In Willenhall, behauptet Kommissär Horne - und liefert reichliche Belege dazu -, existiert durchaus kein sittliches Gefühl unter den Arbeitern.
+  en: In Willenhall, Commissioner Horne asserts, and supplies ample proofs of his assertion, that there exists absolutely no moral sense among the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.23
+  kind: p
+  original: Überhaupt fand er, daß die Kinder weder Pflichten gegen ihre Eltern kannten, noch Zuneigung für sie fühlten.
+  en: In general, he found that the children neither recognised duties to their parents nor felt any affection for them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '420'
+- id: VII.19.24
+  kind: p
+  original: Sie waren so wenig fähig zu überlegen, was sie sagten, so abgestumpft, so tierisch dumm, daß sie oft behaupteten, sie würden gut behandelt, es ginge ihnen vortrefflich, wenn sie zwölf bis vierzehn Stunden arbeiten mußten, in Lumpen gingen, nicht satt zu essen bekamen und geschlagen wurden, daß sie es einige Tage nachher noch fühlten.
+  en: They were so little capable of thinking of what they said, so stolid, so hopelessly stupid, that they often asserted that they were well treated, were coming on famously, when they were forced to work twelve to fourteen hours, were clad in rags, did not get enough to eat, and were beaten so that they felt it several days afterwards.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 420-421
+- id: VII.19.25
+  kind: p
+  original: 'Sie wußten von keiner andern Lebensweise, als von morgens bis abends sich abzuplagen, bis man ihnen erlaubte aufzuhören, und verstanden nicht einmal die ihnen unerhörte Frage: ob sie müde seien (Horne, Rept. and evid.).'
+  en: They knew nothing of a different kind of life than that in which they toil from morning until they are allowed to stop at night, and did not even understand the question never heard before, whether they were tired.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+  en_note: 'English note {202}: Horne Report and Evidence.'
+- id: VII.20.1
+  kind: p
+  original: In Sheffield ist der Lohn besser und daher mit ihm auch die äußere Lage der Arbeiter.
+  en: In Sheffield wages are better, and the external state of the workers also.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: VII.20.2
+  kind: p
+  original: Dagegen sind hier einige Arbeitszweige wegen ihrer außerordentlich nachteiligen Wirkung auf die Gesundheit zu bemerken.
+  en: On the other hand, certain branches of work are to be noticed here, because of their extraordinarily injurious influence upon health.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: VII.20.3
+  kind: p
+  original: Gewisse Operationen bedingen den fortwährenden Druck von Werkzeugen gegen die Brust und erzeugen häufig die Schwindsucht, andere, z.B. Feilenhauen, hindern die allgemeine Entwicklung des Körpers und bringen Unterleibsbeschwerden hervor; das Knochenschneiden (zu Messerheften) zieht Kopfschmerzen, Gallenübel und bei Mädchen, deren viele dabei beschäftigt sind, Bleichsucht nach sich.
+  en: Certain operations require the constant pressure of tools against the chest, and engender consumption in many cases; others, file-cutting among them, retard the general development of the body and produce digestive disorders; bone-cutting for knife handles brings with it headache, biliousness, and among girls, of whom many are employed, anaemia.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: VII.20.4
+  kind: p
+  original: Bei weitem die ungesundeste Arbeit ist aber das Schleifen der Klingen und Gabeln, das, besonders wenn es auf trocknen Steinen geschieht, unfehlbar einen frühen Tod nach sich zieht.
+  en: By far the most unwholesome work is the grinding of knife-blades and forks, which, especially when done with a dry stone, entails certain early death.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: VII.20.5
+  kind: p
+  original: Die Ungesundheit dieser Arbeit liegt teils in der gebückten Stellung, bei der die Brust und der Magen gedrückt wird, besonders aber in der Menge scharfkantigen, metallischen Staubes, der beim Schleifen abspringt, die Atmosphäre füllt und notwendig eingeatmet wird.
+  en: The unwholesomeness of this work lies in part in the bent posture, in which chest and stomach are cramped; but especially in the quantity of sharp-edged metal dust particles freed in the cutting, which fill the atmosphere, and are necessarily inhaled.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: VII.20.6
+  kind: p
+  original: Die Trockenschleifer werden durchschnittlich kaum 35, die Naßschleifer selten über 45 Jahre alt.
+  en: The dry grinders' average life is hardly thirty-five years, the wet grinders' rarely exceeds forty-five.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: VII.20.7
+  kind: p
+  original: 'Dr. Knight in Sheffield sagt:'
+  en: 'Dr. Knight, in Sheffield, says:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+  en_note: 'English note {203}: Dr. Knight, Sheffield.'
+- id: VII.21.1
+  kind: p
+  original: '"Ich kann die Schädlichkeit dieser Beschäftigung nur dadurch einigermaßen deutlich machen, daß ich die stärksten Trinker unter den Schleifern für die langlebigsten unter ihnen erkläre, weil sie am meisten von ihrer Arbeit abwesend sind.'
+  en: '"I can convey some idea of the injuriousness of this occupation only by asserting that the hardest drinkers among the grinders are the longest lived among them, because they are longest and oftenest absent from their work.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: VII.21.2
+  kind: p
+  original: Im ganzen sind etwa 2 500 Schleifer in Sheffield.
+  en: There are, in all, some 2,500 grinders in Sheffield.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: VII.21.3
+  kind: p
+  original: 'Ungefähr 150 (30 Männer und 70 Knaben) sind Gabelschleifer - diese sterben zwischen dem 28. und 32. Lebensjahre: die Rasiermesserschleifer, die sowohl naß als trocken schleifen, sterben zwischen 40 und 45 Jahren, und die Tischmesserschleifer, die naß schleifen, sterben zwischen 40 und 50 Jahren."'
+  en: About 150 (80 men and 70 boys) are fork grinders; these die between the twenty-eighth and thirty-second years of age. The razor grinders, who grind wet as well as dry, die between forty and forty-five years, and the table cutlery grinders, who grind wet, die between the fortieth and fiftieth year."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.22.1
+  kind: p
+  original: 'Derselbe Arzt gibt folgende Schilderung des Verlaufs ihrer Krankheit, des sogenannten Schleifer-Asthma:'
+  en: 'The same physician gives the following description of the course of the disease called grinders'' asthma:'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: VII.23.1
+  kind: p
+  original: '"Sie fangen ihre Arbeit gewöhnlich mit dem vierzehnten Jahre an, und wenn sie gute Konstitution haben, so spüren sie vor dem zwanzigsten Jahre selten viel Beschwerden.'
+  en: '"They usually begin their work with the fourteenth year, and, if they have good constitutions, rarely notice any symptoms before the twentieth year.'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+- id: VII.23.2
+  kind: p
+  original: Dann fangen die Symptome ihrer eigentümlichen Krankheit an, sich zu zeigen; der Atem geht ihnen bei der geringsten Anstrengung, beim Treppen- oder Bergsteigen, gleich aus, sie halten die Schultern hoch, um die beständige und zunehmende Atemnot zu erleichtern, sie beugen sich nach vorn und scheinen überhaupt sich in der gedrückten Stellung, in der sie arbeiten, am behaglichsten zu fühlen; ihre Gesichtsfarbe wird schmutziggelb, ihre Gesichtszüge drücken Angst aus, sie klagen über Beklommenheit auf der Brust; ihre Stimme wird rauh und heiser, sie husten laut, wie wenn die Luft durch eine hölzerne Röhre getrieben würde.
+  en: Then the symptoms of their peculiar disease appear. They suffer from shortness of breath at the slightest effort in going up hill or up stairs, they habitually raise the shoulders to relieve the permanent and increasing want of breath; they bend forward, and seem, in general, to feel most comfortable in the crouching position in which they work. Their complexion becomes dirty yellow, their features express anxiety, they complain of pressure upon the chest. Their voices become rough and hoarse, they cough loudly, and the sound is as if air were driven through a wooden tube.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '421'
+  align: '1:4'
+  review: true
+  review_reason: 1 de sentence(s) matched to 4 en sentence(s)
+- id: VII.23.3
+  kind: p
+  original: Von Zeit zu Zeit expektorieren sie bedeutende Quantitäten Staub, entweder mit Schleim vermengt oder in kugel- oder zylinderförmigen Massen mit einem dünnen Überzuge von Schleim.
+  en: From time to time they expectorate considerable quantities of dust, either mixed with phlegm or in balls or cylindrical masses, with a thin coating of mucus.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 421-422
+- id: VII.23.4
+  kind: p
+  original: Blutspeien, Unfähigkeit zu liegen.
+  en: Spitting blood, inability to lie down, night sweat, colliquative diarrhoea, unusual loss of flesh, and all the usual symptoms of consumption of the lungs finally carry them off, after they have lingered months, or even years, unfit to support themselves or those dependent upon them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.23.5
+  kind: p
+  original: Nachtschweiß, kolliquative Diarrhöe, ungewöhnliche Abmagerung mit allen gewöhnlichen Symptomen der Lungenschwindsucht raffen sie endlich hin, nachdem sie monate-, ja oft jahrelang gesiecht haben, unfähig, sich und die Ihrigen durch Arbeit zu ernähren.
+  en: ''
+  joined_to: VII.23.4
+  modern: ''
+  modern_status: joined
+  notes: ''
+  variants:
+  - ref: T3
+    editions: '1845'
+    reading: 'irrtümlich: erniedrigen'
+    base_text: … durch Arbeit zu ernähren ‸ . …
+  mew_page: '422'
+- id: VII.23.6
+  kind: p
+  original: Ich muß hinzufügen, daß alle Versuche, die bis jetzt gemacht wurden, das Schleifer-Asthma zu verhindern oder zu heilen, gänzlich fehlgeschlagen sind."
+  en: I must add that all attempts which have hitherto been made to prevent grinders' asthma, or to cure it, have wholly failed."
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: VII.24.1
+  kind: p
+  original: Dies schrieb Knight vor zehn Jahren; seitdem hat sich die Zahl der Schleifer und die Wut der Krankheit vermehrt, man hat aber auch Versuche gemacht, durch verdeckte Schleifsteine und Ableitung des Staubes durch Zug der Krankheit zuvorzukommen.
+  en: All this Knight wrote ten years ago; since then the number of grinders and the violence of the disease have increased, though attempts have been made to prevent it by covered grindstones and carrying off the dust by artificial draught.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: VII.24.2
+  kind: p
+  original: Diese sind wenigstens teilweise gelungen, aber die Schleifer selbst wollen ihre Anwendung nicht und haben sie sogar hier und da zerschlagen - weil sie glauben, daß dadurch mehr Arbeiter in ihr Geschäft kommen und ihren Lohn drücken wurden; sie sind für "ein kurzes Leben, aber ein lustiges".
+  en: These methods have been at least partially successful, but the grinders do not desire their adoption, and have even destroyed the contrivance here and there, in the belief that more workers may be attracted to the business and wages thus reduced; they are for a short life and a merry one.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: VII.24.3
+  kind: p
+  original: 'Dr. Knight hat oft Schleifern, die mit den ersten Symptomen des Asthma zu ihm kamen, gesagt: Ihr holt euch den Tod, wenn ihr wieder zurück zum Schleifstein geht.'
+  en: Dr. Knight has often told grinders who came to him with the first symptoms of asthma that a return to grinding means certain death, but with no avail.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: VII.24.4
+  kind: p
+  original: Aber es hat nie geholfen; wer einmal Schleifer war, der war auch verzweifelt, als ob er sich dem Teufel verkauft hätte.
+  en: He who is once a grinder falls into despair, as though he had sold himself to the devil.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: VII.24.5
+  kind: p
+  original: Die Bildung ist in Sheffield auf einer sehr niedrigen Stufe; ein Geistlicher, der sich viel mit der Statistik der Erziehung beschäftigt hatte, war der Ansicht, daß aus 16 500 Kindern der arbeitenden Klasse, die imstande seien, eine Schule zu besuchen, kaum 6 500 lesen könnten; dies kommt daher, daß die Kinder schon mit dem siebenten und allerspätestens mit dem zwölften Jahre aus der Schule genommen werden und daß die Schulmeister nichts taugen (einer von ihnen war ein überführter Dieb, der nach seiner Entlassung aus dem Gefängnis kein anderes Mittel fand, sich zu ernähren, als - die Schulmeisterei!).
+  en: Education in Sheffield is upon a very low plane; a clergyman, who had occupied himself largely with the statistics of education, was of the opinion that of 16,500 children of the working-class who are in a position to attend school, scarcely 6,500 can read. This comes of the fact that the children are taken from school in the seventh, and, at the very latest, in the twelfth year, and that the teachers are good for nothing; one was a convicted thief who found no other way of supporting himself after being released from jail than teaching school!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.24.6
+  kind: p
+  original: Die Immoralität scheint in Sheffield unter der Jugend größer zu sein als irgendwo anders (man weiß freilich kaum, welcher Stadt man den Preis zuerkennen soll, und wenn man die Berichte liest, so glaubt man von jeder, sie verdiene ihn).
+  en: Immorality among young people seems to be more prevalent in Sheffield than anywhere else. It is hard to tell which town ought to have the prize, and in reading the report one believes of each one that this certainly deserves it!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.24.7
+  kind: p
+  original: Die jungen Leute liegen sonntags den ganzen Tag auf der Straße, werfen Geld auf oder hetzen Hunde aufeinander, gehen fleißig in die Branntweinschenken und sitzen dort mit ihren Schätzchen zusammen, bis sie spät abends paarweise einsame Promenaden machen.
+  en: The younger generation spend the whole of Sunday lying in the street tossing coins or fighting dogs, go regularly to the gin palace, where they sit with their sweethearts until late at night, when they take walks in solitary couples.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: VII.24.8
+  kind: p
+  original: In einer Kneipe, die der Kommissar besuchte, saßen 40 bis 50 junge Leute beiderlei Geschlechts, fast alle unter 17 Jahren, jeder Junge bei seinem Mädel.
+  en: In an ale-house which the commissioner visited, there sat forty to fifty young people of both sexes, nearly all under seventeen years of age, and each lad beside his lass.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '422'
+- id: VII.24.9
+  kind: p
+  original: Hier und da wurde Karten gespielt, in andern gesungen oder getanzt, überall getrunken.
+  en: Here and there cards were played, at other places dancing was going on, and everywhere drinking.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 422-423
+- id: VII.24.10
+  kind: p
+  original: Dazwischen saßen erklärte Freudenmädchen von Profession.
+  en: Among the company were openly avowed professional prostitutes.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: VII.24.11
+  kind: p
+  original: Kein Wunder also, daß, wie alle Zeugen aussagen, der frühe regellose Geschlechtsverkehr, jugendliche Prostitution, schon bei Individuen von 14 und 15 Jahren außerordentlich häufig in Sheffield ist.
+  en: No wonder, then, that, as all the witnesses testify, early, unbridled sexual intercourse, youthful prostitution, beginning with persons of fourteen to fifteen years, is extraordinarily frequent in Sheffield.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: VII.24.12
+  kind: p
+  original: Verbrechen, und zwar von sehr wilder, verzweifelter Art, sind gang und gäbe; ein Jahr vor Ankunft des Kommissars wurde eine Bande, meist junger Leute, gefangengenommen, als sie eben im Begriff war, die Stadt in Brand zu stecken; sie waren mit Lanzen und Brennstoffen vollkommen equipiert.
+  en: Crimes of a savage and desperate sort are of common occurrence; one year before the commissioner's visit, a band, consisting chiefly of young persons, was arrested when about to set fire to the town, being fully equipped with lances and inflammable substances.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: VII.24.13
+  kind: p
+  original: Wir werden später sehen, daß die Arbeiterbewegung in Sheffield denselben wilden Charakter hat (Symons, Rept. and evid.).
+  en: We shall see later that the labour movement in Sheffield has this same savage character.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+  en_note: 'English note {205}: Symonds Report and Evidence.'
+- id: VII.25.1
+  kind: p
+  original: Außer diesen Hauptstapelplätzen der Metallverarbeitung gibt es noch Stecknadelfabriken in Warrington (Lancashire), wo ebenfalls unter den Arbeitern, besonders den Kindern, viel Elend, Immoralität und Unwissenheit herrscht, und eine Anzahl Nagelschmieden in der Gegend von Wigan (Lancashire) und im Osten von Schottland; die Berichte aus diesen letzteren Distrikten stimmen fast ganz mit denen aus Staffordshire überein.
+  en: Besides these two main centres of the metal industry, there are needle factories in Warrington, Lancashire, where great want, immorality, and ignorance prevail among the workers, and especially among the children; and a number of nail forges in the neighbourhood of Wigan, in Lancashire, and in the east of Scotland. The reports from these latter districts tell almost precisely the same story as those of Staffordshire.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.25.2
+  kind: p
+  original: Es bleibt uns nun noch ein einziger Zweig dieser Industrie - die Maschinenfabrikation, die namentlich in den Fabrikdistrikten, besonders in Lancashire betrieben wird und bei der das Eigentümliche die Verfertigung von Maschinen durch Maschinen ist, wodurch den sonst verdrängten Arbeitern die letzte Zufluchtsstätte, die Beschäftigung bei der Fabrikation der Maschinen, durch welche sie brotlos wurden, wieder genommen wurde.
+  en: There is one more branch of this industry carried on in the factory districts, especially in Lancashire, the essential peculiarity of which is the production of machinery by machinery, whereby the workers, crowded out elsewhere, are deprived of their last refuge, the creation of the very enemy which supersedes them.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: VII.25.3
+  kind: p
+  original: Maschinen zum Hobeln und Bohren, Maschinen, die Schrauben, Räder, Schraubenmuttern usw. schneiden, mechanische Drehbänke haben auch hier eine Menge Arbeiter, die früher zu gutem Lohn regelmäßig beschäftigt waren, brotlos gemacht, und wer Lust hat, kann deren in Manchester eine Menge sehen.
+  en: Machinery for planing and boring, cutting screws, wheels, nuts, etc., with power lathes, has thrown out of employment a multitude of men who formerly found regular work at good wages; and whoever wishes to do so may see crowds of them in Manchester.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: VII.26.1
+  kind: p
+  original: 'Nördlich von dem Eisendistrikt von Staffordshire liegt ein industrieller Bezirk, zu dem wir uns jetzt wenden wollen: die Töpfereien (potteries), deren Hauptsitz die Gemeinde (borough) Stoke ist, welche die Ortschaften Henley, Burslem, Lane End, Lane Delph, Etruria, Coleridge, Langport, Tunstall, Golden Hill mit zusammen 60 000 Einwohnern umfaßt.'
+  en: North of the iron district of Staffordshire lies an industrial region to which we shall now turn our attention, the Potteries, whose headquarters are in the borough of Stoke, embracing Henley, Burslem, Lane End, Lane Delph, Etruria, Coleridge, Langport, Tunstall, and Golden Hill, containing together 60,000 inhabitants.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: VII.26.2
+  kind: p
+  original: 'Der Ch. E. Rept. berichtet hierüber: In einigen Zweigen dieser Fabrikation - von Steingut - haben die Kinder eine leichte Beschäftigung in warmen, luftigen Sälen; in andern dagegen wird von ihnen eine harte, anstrengende Arbeit verlangt, während sie weder hinreichende Nahrung noch gute Kleidung erhalten.'
+  en: The Children's Employment Commission reports upon this subject that in some branches of this industry, in the production of stoneware, the children have light employment in warm, airy rooms; in others, on the contrary, hard, wearing labour is required, while they receive neither sufficient food nor good clothing.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: VII.26.3
+  kind: p
+  original: 'Viele Kinder klagen: "Habe nicht genug zu essen, bekomme meist Kartoffeln und Salz, nie Fleisch, nie Brot, geh'' nicht in die Schule, hab'' keine Kleider nicht."'
+  en: 'Many children complain: "Don''t get enough to eat, get mostly potatoes with salt, never meat, never bread, don''t go to school, haven''t got no clothes."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: VII.26.4
+  kind: p
+  original: '- "Habe heute gar nichts zu Mittag gehabt, zu Hause haben sie nie ein Mittagessen, bekomme meist Kartoffeln und Salz, zuweilen Brot."'
+  en: '"Haven''t got nothin'' to eat to-day for dinner, don''t never have dinner at home, get mostly potatoes and salt, sometimes bread."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '423'
+- id: VII.26.5
+  kind: p
+  original: '- "Dies sind alle Kleider, die ich habe, kein Sonntagszeug zu Hause."'
+  en: '"These is all the clothes I have, no Sunday suit at home."'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 423-424
+- id: VII.26.6
+  kind: p
+  original: Unter den Kindern, deren Arbeit besonders nachteilig ist, sind die mould-runners zu bemerken, die die fertig geformte Ware mit der Form in die Trockenstube zu tragen haben und nachher, wenn die erstere gehörig getrocknet ist, die leere Form zurückbringen.
+  en: Among the children whose work is especially injurious are the mould-runners, who have to carry the moulded article with the form to the drying-room, and afterwards bring back the empty form, when the article is properly dried.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.7
+  kind: p
+  original: Sie müssen so den ganzen Tag unter einem für ihr Alter schweren Gewicht ab und zu gehen, und die hohe Temperatur, in der sie dies zu tun haben, vermehrt ihre Abmattung noch bedeutend.
+  en: Thus they must go to and fro the whole day, carrying burdens heavy in proportion to their age, while the high temperature in which they have to do this increases very considerably the exhaustiveness of the work.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.8
+  kind: p
+  original: Diese Kinder sind, mit kaum einer einzigen Ausnahme, mager, blaß, schwächlich, klein und schlecht gewachsen; sie leiden fast alle an Magenübeln, Erbrechen, Mangel an Appetit, und viele von ihnen sterben an der Auszehrung.
+  en: These children, with scarcely a single exception, are lean, pale, feeble, stunted; nearly all suffer from stomach troubles, nausea, want of appetite, and many of them die of consumption.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.9
+  kind: p
+  original: Fast ebenso schwächlich sind die Knaben, die mit dem Namen jiggers bezeichnet werden, nach dem Rad (jigger), das sie zu drehen haben.
+  en: Almost as delicate are the boys called "jiggers," from the "jigger" wheel which they turn.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.10
+  kind: p
+  original: Am schädlichsten aber ist bei weitem die Arbeit derer, die die fertige Ware in eine Flüssigkeit, welche große Quantitäten Blei und häufig auch viel Arsenik enthält, eintauchen oder die frischeingetauchte Ware in die Hände zu nehmen haben.
+  en: But by far the most injurious is the work of those who dip the finished article into a fluid containing great quantities of lead, and often of arsenic, or have to take the freshly-dipped article up with the hand.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.11
+  kind: p
+  original: Die Hände und Kleider dieser Arbeiter - Männer und Kinder - sind immer naß von dieser Flüssigkeit, die Haut wird weich und löst sich bei dem fort währenden Anfassen rauher Gegenstände ab, so daß die Finger oft bluten und fortwährend in einem Zustande sind, der die Absorption dieser gefährlichen Stoffe im höchsten Grade begünstigt.
+  en: The hands and clothing of these workers, adults and children, are always wet with this fluid, the skin softens and falls off under the constant contact with rough objects, so that the fingers often bleed, and are constantly in a state most favourable for the absorption of this dangerous substance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.12
+  kind: p
+  original: Die Folgen davon sind heftige Schmerzen und ernstliche Krankheiten des Magens und der Eingeweide, hartnäckige Konstipation, Kolik, zuweilen Auszehrung und am allerhäufigsten Epilepsie bei Kindern.
+  en: The consequence is violent pain, and serious disease of the stomach and intestines, obstinate constipation, colic, sometimes consumption, and, most common of all, epilepsy among children.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.13
+  kind: p
+  original: Bei Männern tritt gewöhnlich teilweise Lähmung der Handmuskeln, colica pictorum und Lähmung ganzer Glieder ein.
+  en: Among men, partial paralysis of the hand muscles, colica pictorum, and paralysis of whole limbs are ordinary phenomena.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.14
+  kind: p
+  original: Ein Zeuge erzählt, daß zwei Knaben, die mit ihm arbeiteten, bei der Arbeit in Krämpfen gestorben seien; ein anderer, der zwei Jahre als Knabe beim Eintauchen geholfen, erzählt, er habe anfangs heftige Unterleibsbeschwerden gehabt, dann einen Krampf, infolgedessen er zwei Monate bettlägerig war, seitdem Krämpfe immer häufiger, jetzt alle Tage, oft zehn bis zwanzig epileptische Anfälle an einem Tage.
+  en: One witness relates that two children who worked with him died of convulsions at their work; another who had helped with the dipping two years while a boy, relates that he had violent pains in the bowels at first, then convulsions, in consequence of which he was confined to his bed two months, since when the attacks of convulsions have increased in frequency, are now daily, accompanied often by ten to twenty epileptic fits, his right arm is paralysed, and the physicians tell him that he can never regain the use of his limbs.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.26.15
+  kind: p
+  original: Seine rechte Seite sei gelähmt, und wie die Ärzte ihm sagten, werde er nie den Gebrauch seiner Glieder wiedererhalten.
+  en: ''
+  joined_to: VII.26.14
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '424'
+- id: VII.26.16
+  kind: p
+  original: In einer Fabrik im Eintauchhause vier Männer, alle epileptisch und an heftiger Kolik leidend, und elf Knaben, von denen auch schon einige epileptisch.
+  en: In one factory were found in the dipping-house four men, all epileptic and afflicted with severe colic, and eleven boys, several of whom were already epileptic.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.17
+  kind: p
+  original: Kurz, diese fürchterliche Krankheit tritt infolge dieser Beschäftigung ganz allgemein ein, und auch das zum größeren Geldgewinn der Bourgeoisie!
+  en: 'In short, this frightful disease follows this occupation universally: and that, too, to the greater pecuniary profit of the bourgeoisie!'
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.18
+  kind: p
+  original: In den Zimmern, in denen das Steingut gescheuert wird, ist die Atmosphäre mit fein pulverisiertem Kieselstaub angefüllt, dessen Einatmung ebenso schädlich wirkt wie die des Stahlstaubes bei den Sheffielder Schleifern.
+  en: In the rooms in which the stoneware is scoured, the atmosphere is filled with pulverised flint, the breathing of which is as injurious as that of the steel dust among the Sheffield grinders.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '424'
+- id: VII.26.19
+  kind: p
+  original: Den Arbeitern geht der Atem aus, sie können nicht ruhig liegen, leiden an wunder Kehle, heftigem Husten und bekommen eine so leise Stimme, daß man sie kaum hören kann.
+  en: The workers lose breath, cannot lie down, suffer from sore throat and violent coughing, and come to have so feeble a voice that they can scarcely be heard.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 424-425
+- id: VII.26.20
+  kind: p
+  original: Sie sterben auch alle an der Schwindsucht.
+  en: They, too, all die of consumption.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: VII.26.21
+  kind: p
+  original: In den potteries sollen verhältnismäßig viele Schulen sein, die den Kindern Gelegenheit zum Unterricht bieten, aber da sie so früh in die Fabriken geschickt werden und solange arbeiten müssen (meist zwölf und oft mehr Stunden); so sind sie nicht imstande, die Schulen zu benutzen, und daher konnten drei Viertel der vom Kommissär geprüften Kinder weder lesen noch schreiben, und der ganze Distrikt war in der tiefsten Unwissenheit.
+  en: In the Potteries district, the schools are said to be comparatively numerous, and to offer the children opportunities for instruction; but as the latter are so early set to work for twelve hours and often more per day, they are not in a position to avail themselves of the schools, so that three-fourths of the children examined by the commissioner could neither read nor write, while the whole district is plunged in the deepest ignorance.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: VII.26.22
+  kind: p
+  original: Kinder, die jahrelang Sonntagsschulen besucht haben, waren nicht imstande, einen Buchstaben vom andern zu unterscheiden, und im ganzen Distrikt steht außer der intellektuellen auch die sittliche und religiöse Bildung auf einer sehr niedrigen Stufe (Scriven, Rept. and evid.).
+  en: Children who have attended Sunday school for years could not tell one letter from another, and the moral and religious education, as well as the intellectual, is on a very low plane.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+  en_note: 'English note {207}: Scriven Report and Evidence.'
+- id: VII.27.1
+  kind: p
+  original: Auch in der Glasfabrikation kommen Arbeiten vor, die zwar Männern wenig zu schaden scheinen, aber dennoch von Kindern nicht ertragen werden können.
+  en: In the manufacture of glass, too, work occurs which seems little injurious to men, but cannot be endured by children.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: VII.27.2
+  kind: p
+  original: Die harte Arbeit, die Unregelmäßigkeit der Arbeitszeit, das häufige Nachtarbeiten und besonders die große Hitze der Arbeitslokale (100 bis 130° Fahrenheit) erzeugen bei Kindern allgemeine Schwäche und Krankheit, schlechten Wuchs, und besonders Augenübel, Unterleibskrankheiten und bronchitische und rheumatische Affektionen.
+  en: The hard labour, the irregularity of the hours, the frequent night-work, and especially the great heat of the working place (100 to 130 Fahrenheit), engender in children general debility and disease, stunted growth, and especially affections of the eye, bowel complaint, and rheumatic and bronchial affections.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T4
+    editions: 1845 and 1892
+    reading: 'irrtümlich: 300 bis 330° Fahrenheit'
+    base_text: … (100 bis 130° Fahrenheit ‸ ) erzeugen bei Kindern …
+  mew_page: '425'
+- id: VII.27.3
+  kind: p
+  original: Viele Kinder sind blaß, haben rote, oft wochenlang erblindete Augen, leiden an heftiger Übelkeit, Erbrechen, Husten, Erkältungen und Rheumatismus.
+  en: Many of the children are pale, have red eyes, often blind for weeks at a time, suffer from violent nausea, vomiting, coughs, colds, and rheumatism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: VII.27.4
+  kind: p
+  original: Bei dem Herausnehmen der Ware aus den Öfen müssen die Kinder häufig in eine solche Hitze hineingehen, daß ihnen die Bretter, auf denen sie stehen, unter den Füßen in Brand geraten.
+  en: When the glass is withdrawn from the fire, the children must often go into such heat that the boards on which they stand catch fire under their feet.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: VII.27.5
+  kind: p
+  original: Die Glasbläser sterben meist früh an Schwäche und Brustleiden.
+  en: The glassblowers usually die young of debility and chest affections.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+  en_note: 'English note {208}: Leifchild Report Append., Part II., p. L 2, ss. 11,12; Franks Report Append., Part II., p. K 7, s. 48, Tancred Evid. Append., Part II., p. I 76, etc.--Children''s Employment Commission''s Rep''t.'
+- id: VII.27.6
+  kind: p
+  original: (Leifchild, Rept. App.Pt. II, p. L2, ss. II, 12; Franks, Rept.App.Pt. II, K 7, s. 48; Tancred, Evid. App. Pt. II, p. i 76 etc., alle im Ch. E. Rept.).
+  en: As a whole, this report testifies to the gradual but sure introduction of the factory system into all branches of industry, recognisable especially by the employment of women and children.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+  align: '2:1'
+  review: true
+  review_reason: 2 de sentence(s) matched to 1 en sentence(s)
+- id: VII.28.1
+  kind: p
+  original: Im allgemeinen bezeugt derselbe Bericht in allen Zweigen der Industrie das allmähliche, aber sichere Eindringen des Fabriksystems, das sich besonders durch die Beschäftigung von Weibern und Kindern zu erkennen gibt.
+  en: ''
+  joined_to: VII.27.6
+  modern: ''
+  modern_status: joined
+  notes: ''
+  mew_page: '425'
+- id: VII.28.2
+  kind: p
+  original: Ich habe es nicht für nötig gehalten, überall die Fortschritte der Maschinerie und die Verdrängung der erwachsenen Männer weiterzuverfolgen.
+  en: I have not thought it necessary to trace in every case the progress of machinery and the superseding of men as workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: VII.28.3
+  kind: p
+  original: Wer mit dem Industriewesen einigermaßen bekannt ist, wird sich dies leicht selbst ergänzen können, während mir hier der Raum mangelt, diese bei Gelegenheit des Fabriksystems in ihren Resultaten entwickelte Seite des jetzigen Produktionssystems in ihren Einzelheiten zu verfolgen.
+  en: Every one who is in any degree acquainted with the nature of manufacture can fill this out for himself, while space fails me to describe in detail an aspect of our present system of production, the result of which I have already sketched in dealing with the factory system.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: VII.28.4
+  kind: p
+  original: Überall wendet man Maschinen an und vernichtet dadurch die letzte Spur der Unabhängigkeit des Arbeiters.
+  en: In all directions machinery is being introduced, and the last trace of the working-man's independence thus destroyed.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '425'
+- id: VII.28.5
+  kind: p
+  original: Überall löst sich durch die Arbeit der Frau und der Kinder die Familie auf oder wird gar durch die Brotlosigkeit des Mannes auf den Kopf gestellt; überall liefert die Unvermeidlichkeit der Maschinerie dem großen Kapitalisten das Geschäft und mit ihm die Arbeiter in die Hände.
+  en: In all directions the family is being dissolved by the labour of wife and children, or inverted by the husband's being thrown out of employment and made dependent upon them for bread; everywhere the inevitable machinery bestows upon the great capitalist command of trade and of the workers with it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 425-426
+- id: VII.28.6
+  kind: p
+  original: Die Zentralisation des Besitzes schreitet unaufhaltsam vorwärts, die Trennung der Gesellschaft in große Kapitalisten und besitzlose Arbeiter wird täglich schärfer, die industrielle Entwicklung der Nation rückt mit Riesenschritten auf eine unausbleibliche Krisis los.
+  en: The centralisation of capital strides forward without interruption, the division of society into great capitalists and non-possessing workers is sharper every day, the industrial development of the nation advances with giant strides towards the inevitable crisis.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: VII.29.1
+  kind: p
+  original: Ich erwähnte schon oben, daß in den Handwerken die Macht des Kapitals und mitunter auch die Teilung der Arbeit dasselbe Resultat herbeigeführt, die kleine Bourgeoisie verdrängt und an ihre Stelle große Kapitalisten und besitzlose Arbeiter gesetzt haben.
+  en: I have already stated that in the handicrafts the power of capital, and in some cases the division of labour too, has produced the same results, crushed the small tradesmen, and put great capitalists and non-possessing workers in their place.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: VII.29.2
+  kind: p
+  original: Über diese Handwerker ist im Grunde wenig zu sagen, da alles, was auf sie Bezug hat, bereits da seine Stelle gefunden hat, wo von dem industriellen Proletariat im allgemeinen die Rede war; auch hat sich hier in der Art der Arbeit und ihrem Einflusse auf die Gesundheit seit dem Eintritt der industriellen Bewegung wenig verändert.
+  en: As to these handicraftsmen there is little to be said, since all that relates to them has already found its place where the proletariat in general was under discussion. There has been but little change here in the nature of the work and its influence upon health since the beginning of the industrial movement.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.29.3
+  kind: p
+  original: Aber die Berührung mit den eigentlichen Industriearbeitern, der Druck der großen Kapitalisten, der viel fühlbarer wurde als der der kleinen Meister, zu denen der Geselle doch noch in einem persönlichen Verhältnisse stand, die Einflüsse großstädtischen Lebens und der fallende Lohn haben fast alle Handwerker zu tätigen Teilnehmern der Arbeiterbewegungen gemacht.
+  en: But the constant contact with the factory operatives, the pressure of the great capitalists, which is much more felt than that of the small employer to whom the apprentice still stood in a more or less personal relation, the influences of life in towns, and the fall of wages, have made nearly all the handicraftsmen active participators in labour movements.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: VII.29.4
+  kind: p
+  original: Wir werden hierüber sogleich zu reden haben und wenden uns inzwischen zu einer Klasse der arbeitenden Bevölkerung von London, die wegen der außerordentlichen Barbarei, mit welcher sie von der Geldgier der Bourgeoisie ausgebeutet wird, besondere Beachtung verdient.
+  en: We shall soon have more to say on this point, and turn meanwhile to one section of workers in London who deserve our attention by reason of the extraordinary barbarity with which they are exploited by the money-greed of the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: VII.29.5
+  kind: p
+  original: Ich meine die Putzmacherinnen und Nähterinnen.
+  en: I mean the dressmakers and sewing-women.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: VII.30.1
+  kind: p
+  original: Es ist eigentümlich, daß gerade die Verfertigung derjenigen Artikel, welche zum Schmuck der Damen von der Bourgeoisie dienen, mit den traurigsten Folgen für die Gesundheit der dabei beschäftigten Arbeiter verknüpft ist.
+  en: It is a curious fact that the production of precisely those articles which serve the personal adornment of the ladies of the bourgeoisie involves the saddest consequences for the health of the workers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: VII.30.2
+  kind: p
+  original: Wir sahen dies schon oben bei der Spitzenfabrikation und haben jetzt wieder die Putzmacherläden von London zum Beweise für diese Angabe.
+  en: We have already seen this in the case of the lacemakers, and come now to the dressmaking establishments of London for further proof.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: VII.30.3
+  kind: p
+  original: Diese Etablissements beschäftigen eine Menge junger Mädchen - es sollen ihrer im ganzen 15 000 sein -, welche im Hause wohnen und essen, meist vom Lande herkommen und so die vollständigen Sklaven der Brotherrschaft sind.
+  en: They employ a mass of young girls--there are said to be 15,000 of them in all--who sleep and eat on the premises, come usually from the country, and are therefore absolutely the slaves of their employers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '426'
+- id: VII.30.4
+  kind: p
+  original: Während der fashionablen Saison, die etwa vier Monate im Jahre dauert, sind selbst in den besten Etablissements die Arbeitsstunden täglich fünfzehn und, wenn dringende Geschäfte vorkommen, achtzehn; in den meisten Läden indes wird während dieser Zeit ohne alle feste Zeitbestimmung gearbeitet, so daß die Mädchen nie mehr als sechs, oft nur drei oder vier, ja zuweilen nur zwei Stunden in vierundzwanzig zur Ruhe und zum Schlaf frei haben und neunzehn bis zweiundzwanzig Stunden gearbeitet wird, wenn sie nicht, was oft genug vorkommt, die ganze Nacht durcharbeiten müssen!
+  en: During the fashionable season, which lasts some four months, working-hours, even in the best establishments, are fifteen, and, in very pressing cases, eighteen a day; but in most shops work goes on at these times without any set regulation, so that the girls never have more than six, often not more than three or four, sometimes, indeed, not more than two hours in the twenty-four, for rest and sleep, working nineteen to twenty hours, if not the whole night through, as frequently happens!
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 426-427
+- id: VII.30.5
+  kind: p
+  original: Die einzige Grenze, die ihrer Arbeit gesetzt wird, ist die positive physische Unfähigkeit, die Nadel auch nur eine Minute länger zu führen.
+  en: The only limit set to their work is the absolute physical inability to hold the needle another minute.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: VII.30.6
+  kind: p
+  original: Es kommen Fälle vor, wo diese hülflosen Geschöpfe neun Tage lang hintereinander nicht aus den Kleidern kamen und nur gelegentlich dann und wann ein paar Augenblicke auf einer Matratze ausruhen konnten, wo man ihnen das Essen kleingeschnitten vorsetzte, damit sie es in der kürzestmöglichen Zeit verschlucken könnten; kurz, diese unglücklichen Mädchen werden durch die moralische Sklavenpeitsche - die Drohung der Entlassung - in einer so anhaltenden und unablässigen Arbeit erhalten, wie sie kein starker Mann, geschweige denn zarte Mädchen von 14 bis 20 Jahren ertragen können.
+  en: Cases have occurred in which these helpless creatures did not undress during nine consecutive days and nights, and could only rest a moment or two here and there upon a mattress, where food was served them ready cut up in order to require the least possible time for swallowing. In short, these unfortunate girls are kept by means of the moral whip of the modern slave-driver, the threat of discharge, to such long and unbroken toil as no strong man, much less a delicate girl of fourteen to twenty years, can endure.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.30.7
+  kind: p
+  original: Dazu die dumpfige Luft der Arbeitszimmer und ebenfalls der Schlafsäle, die gebückte Stellung, die schlechte, schwerverdauliche Kost - alles das, aber vor allem die lange Arbeit und Absperrung von der freien Luft, erzeugt die traurigsten Resultate für die Gesundheit der Mädchen.
+  en: In addition to this, the foul air of the workroom and sleeping places, the bent posture, the often bad and indigestible food, all these causes, combined with almost total exclusion from fresh air, entail the saddest consequences for the health of the girls.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: VII.30.8
+  kind: p
+  original: Mattigkeit und Erschlaffung, Schwäche, Verlust des Appetits, Schmerzen in den Schultern, dem Rücken und den Hüften, besonders aber Kopfschmerzen treten sehr bald ein; dann Verkrümmung des Rückgrats, hohe, verwachsene Schultern, Abmagerung, geschwollene, fließende und schmerzhafte Augen, die bald kurzsichtig werden, Husten, Engbrüstigkeit und kurzer Atem sowie alle weiblichen Entwicklungskrankheiten.
+  en: Enervation, exhaustion, debility, loss of appetite, pains in the shoulders, back, and hips, but especially headache, begin very soon; then follow curvatures of the spine, high, deformed shoulders, leanness, swelled, weeping, and smarting eyes, which soon become short-sighted; coughs, narrow chests, and shortness of breath, and all manner of disorders in the development of the female organism.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: VII.30.9
+  kind: p
+  original: Die Augen leiden in vielen Fällen so stark, daß unheilbare Blindheit, gänzliche Desorganisation des Auges eintritt, und wenn das Gesicht gut genug bleibt, um eine Fortsetzung der Arbeit möglich zu machen, so endigt gewöhnlich die Schwindsucht das kurze, traurige Leben dieser Putzmacherinnen.
+  en: In many cases the eyes suffer, so severely that incurable blindness follows; but if the sight remains strong enough to make continued work possible, consumption usually soon ends the sad life of these milliners and dressmakers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: VII.30.10
+  kind: p
+  original: Selbst bei denjenigen, die diese Arbeit früh genug verlassen, bleibt die körperliche Gesundheit für immer zerstört, die Kraft der Konstitution gebrochen; sie sind fortwährend, besonders in der Ehe, siech und schwächlich und bringen kränkliche Kinder zur Welt.
+  en: Even those who leave this work at an early age retain permanently injured health, a broken constitution; and, when married, bring feeble and sickly children into the world.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: VII.30.11
+  kind: p
+  original: Alle Ärzte, die von dem Kommissär (der Ch. Empl. Comm.) befragt wurden, äußerten sich einstimmig dahin, daß keine Lebensweise erfunden werden könne, die mehr als diese dahin ziele, die Gesundheit zu vernichten und einen frühen Tod herbeizuführen.
+  en: All the medical men interrogated by the commissioner agreed that no method of life could be invented better calculated to destroy health and induce early death.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: VII.31.1
+  kind: p
+  original: Mit derselben Grausamkeit, nur etwas mehr indirekt, werden die Nähterinnen überhaupt in London ausgebeutet.
+  en: With the same cruelty, though somewhat more indirectly, the rest of the needle-women of London are exploited.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: VII.31.2
+  kind: p
+  original: Die Mädchen, welche sich mit der Anfertigung von Schnürleibchen beschäftigen, haben eine harte, mühsame, das Auge anstrengende Arbeit, und was ist der Lohn, den sie bekommen?
+  en: The girls employed in stay-making have a hard, wearing occupation, trying to the eyes. And what wages do they get?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.31.3
+  kind: p
+  original: Ich weiß es nicht, aber das weiß ich, daß der Unternehmer, der Bürgschaft für das ihm überlieferte Material geben muß und die Arbeit an die einzelnen Nähterinnen verteilt, 1 1/2 Penny, 15 Pfennig preußisch, für das Stück erhält.
+  en: I do not know; but this I know, that the middle-man who has to give security for the material delivered, and who distributes the work among the needle-women, receives 1.5d. per piece.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '427'
+- id: VII.31.4
+  kind: p
+  original: Davon geht sein Nutzen noch ab, und der ist mindestens 1/2 Penny - höchstens also 1 Penny geht in die Tasche des armen Mädchens.
+  en: From this he deducts his own pay, at least.5d., so that 1d. at most reaches the pocket of the girl.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: 427-428
+- id: VII.31.5
+  kind: p
+  original: Die Mädchen, welche Halsbinden nähen, müssen sich zu sechzehnstündiger Arbeit verpflichten und erhalten wöchentlich 4 1/2 sh., 1 1/2 Taler preußisch, wofür sie etwa soviel kaufen können wie für 20 Silbergroschen in der teuersten Stadt Deutschlands.
+  en: The girls who sew neckties must bind themselves to work sixteen hours a day, and receive 4.5s. a week.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N1
+  mew_page: '428'
+  review: true
+  review_reason: length/anchor mismatch, check the match
+- id: VII.31.6
+  kind: p
+  original: Am schlimmsten aber ergeht es denen, die Hemden nähen.
+  en: But the shirtmakers' lot is the worst.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: VII.31.7
+  kind: p
+  original: Sie bekommen für ein gewöhnliches Hemd 1 1/2 Pence - früher bekamen sie 2 bis 3 Pence, aber seitdem das Armenhaus von St. Pancras, das von einer bourgeoisie-radikalen Behörde verwaltet wird, anfing zu 1 1/2 Pence Arbeit zu übernehmen, mußten die armen Frauenzimmer es auch tun.
+  en: They receive for an ordinary shirt 1.5d., formerly 2d.-3d.; but since the workhouse of St. Pancras, which is administered by a Radical board of guardians, began to undertake work at 1.5d., the poor women outside have been compelled to do the same.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T5
+    editions: '1892'
+    reading: bourgeois-radikalen
+    base_text: … das von einer bourgeoisie-radikalen ‸ Behörde verwaltet wird, anfing …
+  mew_page: '428'
+- id: VII.31.8
+  kind: p
+  original: Für feine, verzierte Hemden, die bei achtzehnstündiger Arbeit in einem Tage fertiggemacht werden können, wird 6 Pence, 5 Silbergroschen, bezahlt.
+  en: For fine, fancy shirts, which can be made in one day of eighteen hours, 6d. is paid.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: VII.31.9
+  kind: p
+  original: Der Lohn dieser Nähterinnen beträgt hiernach und nach vielseitigen Aussagen von Arbeiterinnen und Übernehmern, bei sehr angestrengter, tief in die Nacht hinein fortgesetzter Arbeit wöchentlich 2 1/2 bis 3 Shilling!
+  en: The weekly wage of these sewing-women according to this and according to testimony from many sides, including both needle-women and employers, is 2s. 6d. to 3s. for most strained work continued far into the night.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  variants:
+  - ref: T6
+    editions: '1892'
+    reading: Unternehmers (offenbar Druckfehler)
+    base_text: … von Arbeiterinnen und Übernehmern ‸ , bei sehr angestrengter, …
+  mew_page: '428'
+- id: VII.31.10
+  kind: p
+  original: Und was dieser schändlichen Barbarei die Krone aufsetzt, ist, daß die Nähterinnen den Betrag der ihnen anvertrauten Materialien teilweise deponieren müssen, was sie natürlich nicht anders können, als wenn sie - wie dies auch die Eigentümer wissen - einen Teil derselben verpfänden und entweder mit Verlust einlösen, oder, wenn sie die Stoffe nicht auslösen können, vor das Friedensgericht wandern müssen, wie dies einer Nähterin im November 1843 geschah.
+  en: And what crowns this shameful barbarism is the fact that the women must give a money deposit for a part of the materials entrusted to them, which they naturally cannot do unless they pawn a part of them (as the employers very well know), redeeming them at a loss; or if they cannot redeem the materials, they must appear before a Justice of the Peace, as happened a sewing-woman in November, 1843.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: VII.31.11
+  kind: p
+  original: Ein armes Mädchen, das in diesem Falle war und nicht wußte, was es anfangen sollte, ertränkte sich im August 1844 in einem Kanal.
+  en: A poor girl who got into this strait and did not know what to do next, drowned herself in a canal in 1844.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: VII.31.12
+  kind: p
+  original: Diese Nähterinnen leben gewöhnlich in kleinen Dachstübchen im größten Elende, wo sich ihrer so viele in einem Zimmer zusammendrängen, als der Raum nur eben erlaubt, und wo im Winter meist die animalische Wärme der Anwesenden das einzige Heizungsmittel ist.
+  en: These women usually live in little garret rooms in the utmost distress, where as many crowd together as the space can possibly admit, and where, in winter, the animal warmth of the workers is the only heat obtainable.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '428'
+- id: VII.31.13
+  kind: p
+  original: Dort sitzen sie über ihre Arbeit gebückt und nähen von morgens vier oder fünf bis Mitternacht, verwüsten ihre Gesundheit in ein paar Jahren und bringen sich in ein frühes Grab, ohne sich auch nur die allerdringendsten Bedürfnisse verschaffen zu können, während unten zu ihren Füßen die glänzenden Karossen der hohen Bourgeoisie vorbeirollen und während vielleicht zehn Schritt weiter ein erbärmlicher Dandy an einem Abend mehr Geld im Pharo verliert, als sie sich im ganzen Jahre erwerben können.
+  en: Here they sit bent over their work, sewing from four or five in the morning until midnight, destroying their health in a year or two and ending in an early grave, without being able to obtain the poorest necessities of life meanwhile. And below them roll the brilliant equipages of the upper bourgeoisie, and perhaps ten steps away some pitiable dandy loses more money in one evening at faro than they can earn in a year.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VII.N2
+  mew_page: 428-429
+  align: '1:2'
+  review: true
+  review_reason: 1 de sentence(s) matched to 2 en sentence(s)
+- id: VII.32.1
+  kind: p
+  original: Das ist die Lage des englischen industriellen Proletariats.
+  en: Such is the condition of the English manufacturing proletariat.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '429'
+- id: VII.32.2
+  kind: p
+  original: Überall, wohin wir uns wenden, finden wir dauerndes oder temporäres Elend, Krankheiten, die aus der Lage oder der Arbeit entstehen, Demoralisation; überall Vernichtung, langsame, aber sichere Untergrabung der menschlichen Natur in körperlicher wie geistiger Beziehung.
+  en: In all directions, whithersoever we may turn, we find want and disease permanent or temporary, and demoralisation arising from the condition of the workers; in all directions slow but sure undermining, and final destruction of the human being physically as well as mentally.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '429'
+- id: VII.32.3
+  kind: p
+  original: Ist das ein Zustand, der dauern kann?
+  en: Is this a state of things which can last?
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '429'
+- id: VII.33.1
+  kind: p
+  original: Dieser Zustand kann und wird nicht dauern.
+  en: It cannot and will not last.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '429'
+- id: VII.33.2
+  kind: p
+  original: Die Arbeiter, die große Majorität des Volks, wollen es nicht.
+  en: The workers, the great majority of the nation, will not endure it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '429'
+- id: VII.33.3
+  kind: p
+  original: Sehen wir zu, was sie von diesem Zustande sagen.
+  en: Let us see what they say of it.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  mew_page: '429'
+- id: VII.N1.1.1
+  kind: note
+  original: Vgl. "Weekly Dispatch", 17. März 1844.
+  en: See Weekly Dispatch, March 16th, 1844.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {210}.
+- id: VII.N2.1.1
+  kind: note
+  original: 'Thomas Hood, der talentvollste aller jetzigen englischen Humoristen und, wie alle Humoristen, voll menschlichen Gefühle, aber ohne alle geistige Energie, veröffentlichte im Anfange des Jahres 1844, als das Elend der Nähterinnen alle Zeitungen füllte, ein schönes Gedicht: "The Song of the Shirt", das Lied vom Hemde, das manche mitleidige, aber nutzlose Träne den Augen der Bourgeoisietöchter entlockte.'
+  en: Thomas Hood, the most talented of all the English humorists now living, and, like all humorists, full of human feeling, but wanting in mental energy, published at the beginning of 1844 a beautiful poem, "The Song of the Shirt," which drew sympathetic but unavailing tears from the eyes of the daughters of the bourgeoisie.
+  modern: ''
+  modern_status: empty
+  notes: ''
+  en_note: English note {211}.
+- id: VII.N2.1.2
+  kind: note
+  original: Ich habe nicht Raum genug, um es hier wiedergeben zu können; es stand ursprünglich im "Punch" und machte dann die Runde durch die Zeitungen.
+  en: Originally published in Punch, it made the round of all the papers.
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VII.N2.1.3
+  kind: note
+  original: Da die Lage der Nähterinnen damals in allen Zeitungen besprochen wurde, sind spezielle Zitate überflüssig.
+  en: As discussions of the condition of the sewing-women filled all the papers at the time, special extracts are needless.
+  modern: ''
+  modern_status: empty
+  notes: ''

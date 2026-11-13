@@ -1,0 +1,124 @@
+# Glossary of recurring and contested terms in The Condition of the Working Class in England (CWC).
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+# Terms shared with other works (Bourgeoisie, Proletariat, Klasse ...) are in
+# works/communist-manifesto/glossary.yaml until a shared library glossary is agreed.
+
+- term: Bourgeoisie, Bourgeois
+  de: Bourgeoisie, Bourgeois, bürgerlich
+  english_1892: bourgeoisie, bourgeois; sometimes middle-class
+  literal: bourgeoisie
+  options: [bourgeoisie, capitalist class, the propertied class]
+  interim: bourgeoisie; "the bourgeois" for one of them
+  status: interim
+  verses: [E.21.5, E.21.8, I.5.3, VIII.18.3, XI.1.1, XI.2.1]
+  note: Wischnewetzky mostly keeps "bourgeoisie" but writes "middle-class" in a few places (E.21.5, E.21.8, I.5.3, VIII.18.3), and Engels himself writes "middle-class" in the English preface of 1892 (P1892.12.1). Today "middle class" means people in between, which is not Engels's sense; keep "bourgeoisie". In XI.1.1 he counts the "so-called aristocracy" in.
+
+- term: Arbeiter, arbeitende Klasse, Proletariat
+  de: Arbeiter, Arbeiterklasse, arbeitende Klasse, Proletariat, Proletarier
+  english_1892: working-man, working-men, workers, operatives, hands; working-class; proletariat
+  literal: worker; working class; proletariat
+  options: [worker, working people, working class, proletariat]
+  interim: worker(s) and working class; "proletariat" and "proletarian" where Engels writes them
+  status: open
+  verses: [E.1.1, E.8.2, II.5.8, VI.4.16, VI.13.2]
+  note: Engels's title says "arbeitende Klasse", and in the body he moves between it and the other words ("Arbeiterklasse", "Proletariat") on purpose. Wischnewetzky blurs it (E.1.1 has "proletariat" for "arbeitenden Klasse"). "Working-man" in her English covers women too; the modern draft says "worker". Keep the German words apart in the modern draft so readers can see where Engels chose "Proletariat".
+
+- term: Fabrikarbeiter
+  de: Fabrikarbeiter, Fabrikarbeiterin, Fabrikbevölkerung
+  english_1892: operatives, factory operatives, mill-hands, factory hands
+  literal: factory worker
+  options: [factory worker, mill worker, mill hand]
+  interim: factory worker; "mill hand" in a quotation where the English source says it
+  status: interim
+  verses: [I.1.6, I.4.8, VI.6.15, VI.7.10, VI.32.4]
+  note: '"Hands" is the bosses'' word, and Engels marks it as such in VI.76.10 ("his hand as a machine"). Use it only in quotations.'
+
+- term: Fabrikant, Brotherr
+  de: Fabrikant, Fabrikherr, Brotherr, Mill-Lord
+  english_1892: manufacturer, master, employer, mill-owner
+  literal: manufacturer; master (literally "bread lord")
+  options: [factory owner, mill owner, employer, boss]
+  interim: factory owner (Fabrikant); employer (Brotherr)
+  status: open
+  verses: [E.21.9, III.17.1, VI.2.3, VI.18.1, V.41.18]
+  note: '"Manufacturer" today means a firm, not the man who owns the mill. "Brotherr" says the worker eats from his hand; "employer" loses that, and the note can give the literal sense where it matters (VI.18.1).'
+
+- term: Krieg Aller gegen Alle
+  de: Krieg Aller gegen Alle, sozialer Krieg
+  english_1892: war of each against all, battle of all against all, social war
+  literal: war of all against all
+  options: [war of all against all, war of each against all]
+  interim: war of all against all; "social war" for sozialer Krieg
+  status: interim
+  verses: [II.3.1, III.2.1, V.26.2, V.51.12]
+  note: Hobbes's phrase (bellum omnium contra omnes), turned by Engels from the state of nature to bourgeois society. One wording everywhere, so readers see the thread.
+
+- term: sozialer Mord
+  de: sozialer Mord, Mord, Totschlag
+  english_1892: social murder, murder, manslaughter
+  literal: social murder
+  options: [social murder]
+  interim: social murder
+  status: decided
+  verses: [II.5.8, V.2.1, V.2.4, V.17.8]
+  note: The charge of the book. Engels builds it as a legal argument in V.2 (murder, manslaughter, and society doing the same knowingly). Keep the legal words exact.
+
+- term: überflüssige Bevölkerung, Reserve
+  de: überflüssige Bevölkerung, die Überflüssigen, Reserve von Arbeitern, unbeschäftigte Reserve
+  english_1892: surplus population, the surplus; reserve army
+  literal: superfluous population; reserve of workers
+  options: [surplus population, the superfluous, reserve of unemployed workers]
+  interim: surplus population; "the 'superfluous'" in Engels's ironic quotation marks; "unemployed reserve of workers" for Reserve
+  status: open
+  verses: [III.10.1, III.10.11, III.12.1, III.12.2, III.12.5]
+  note: Engels's quotation marks around "Überflüssige" mock the Malthusian word. Wischnewetzky writes "reserve army" in III.12.1 to III.12.5, Marx's later term from Capital; Engels here says only "Reserve". The modern draft should not put the later term in his mouth; a note can point forward to it.
+
+- term: Armengesetz, Arbeitshaus
+  de: Armengesetz, neues Armengesetz, Armengesetz-Novelle, Arbeitshaus, Armensteuer
+  english_1892: Poor Law, New Poor Law, workhouse, poor-rate; "Poor Law Bastilles"
+  literal: poor law; workhouse; poor rate
+  options: [Poor Law, New Poor Law of 1834, workhouse, poor rate]
+  interim: Poor Law (New Poor Law for the act of 1834); workhouse; poor rate
+  status: interim
+  verses: [III.16.1, VI.65.4, X.3.10, XI.15.3, XI.23.4]
+  note: English institutions that Engels explains to German readers. Keep the English names; the workers' name "Bastilles" (XI.15.3) stays.
+
+- term: Trucksystem, Cottagesystem
+  de: Trucksystem, Cottagesystem
+  english_1892: truck system, cottage system
+  literal: truck system; cottage system
+  options: [truck system, company-store system; cottage system, company housing]
+  interim: truck system, glossed once as payment in goods from the employer's shop; company housing for the cottage system
+  status: open
+  verses: [VI.73.1, VI.73.5, VI.75.1, VI.76.3, VII.6.1, IX.12.3]
+  note: Readers know the company store and company housing; the historical names should stay visible with a gloss on first use.
+
+- term: Verbindungen, Turnouts, Knobsticks
+  de: Verbindung, Assoziation, Union, Turnout, Arbeitseinstellung, Knobstick
+  english_1892: union, trades union, association; strike, turn-out; knobstick
+  literal: combination; strike; strikebreaker
+  options: [union, trade union; strike; strikebreaker, scab]
+  interim: union; strike; strikebreaker (with "knobstick" kept once as the word of the time)
+  status: open
+  verses: [V.51.5, VIII.8.5, VIII.9.1, VIII.9.6, VIII.11.10]
+  note: '"Verbindung" is the German for the English "combination" of the Combination Acts. "Scab" is stronger than Engels''s "Knobstick", which was the Lancashire slang; choose once.'
+
+- term: Sozialismus, Kommunismus, Chartismus
+  de: Sozialismus, Sozialisten, Kommunismus, Kommunisten, Chartismus, Chartisten
+  english_1892: Socialism, Socialists, Communism, Communists, Chartism, Chartists
+  literal: socialism; communism; Chartism
+  options: [socialism; communism; Chartism]
+  interim: as the German; capital letters only where the English source has them
+  status: interim
+  verses: [VIII.26.8, VIII.27.2, VIII.N7.1.1, XI.29.17, XI.29.19]
+  note: '"Sozialisten" in VIII means Owen''s followers; Engels says so himself in his note of 1892 (VIII.N7). "Kommunismus" in XI.29 is his own position in 1845, before the Manifesto. Keep the words; the notes date them.'
+
+- term: Pfd. St., sh., d.
+  de: Pfund Sterling (Pfd. St.), Shilling (sh.), Pence (d.), Taler
+  english_1892: pounds, shillings, pence
+  literal: pounds sterling, shillings, pence
+  options: [keep the old sums; add a modern equivalent in a note]
+  interim: keep the sums as printed (1 pound 6s. 6d.); modern equivalents belong in notes and adaptations, not in the modern draft
+  status: interim
+  verses: [VII.12.7, VII.31.5, VI.71.29]
+  note: Engels also converts some sums into Prussian money for his German readers (VII.31.5); keep that as his.
