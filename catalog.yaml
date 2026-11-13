@@ -231,7 +231,7 @@
   stage: planned
   sources:
     english: ["gutenberg:Woman-and-Socialism_47244"]
-  notes: English fetched to works/woman-and-socialism/sources/; English by Meta Stern, 1910 (from the 50th German edition). German original still to locate.
+  notes: "English fetched to works/woman-and-socialism/sources/; English by Meta Stern, 1910 (from the 50th German edition). German original still to locate. blocked: no German source (Die Frau und der Sozialismus) is listed or found on a reachable mirror; the scheduled run reaches only raw.githubusercontent.com, and a GitHub search found no copy. Add a German text (for example the 50th edition of 1909, to match Stern) to sources, or decide on an English-only build, before versifying."
 
 - id: poverty-of-philosophy
   prefix: POP
