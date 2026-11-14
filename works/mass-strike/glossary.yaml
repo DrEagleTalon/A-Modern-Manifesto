@@ -1,0 +1,115 @@
+# Glossary of recurring and contested terms in The Mass Strike, the Political Party and the Trade Unions (MS).
+# status: open (being discussed) | interim (use `interim` until decided) | decided
+# There is no historical English column yet, so `english_usual` records the rendering most readers will
+# have met in the later translations; it is a reference point, not a source.
+# Terms shared with other works (Proletariat, Klasse ...) are in
+# works/communist-manifesto/glossary.yaml until a shared library glossary is agreed.
+
+- term: Massenstreik
+  de: der Massenstreik; Massenstreiks
+  english_usual: the mass strike
+  literal: mass strike
+  options: [mass strike, mass strikes]
+  interim: mass strike
+  status: open
+  verses: [0.0.1, I.1.1, II.4.5, IV.2.5, IV.2.11]
+  note: The title word. Luxemburg uses it for a whole period of strikes of every kind (IV.2.5), not for one stoppage called on a date. Keep "mass strike" and let the text carry the widening; do not swap in "general strike".
+
+- term: Generalstreik
+  de: der Generalstreik; der allgemeine Streik
+  english_usual: the general strike
+  literal: general strike
+  options: [general strike]
+  interim: general strike
+  status: open
+  verses: [I.2.1, I.3.2, III.4.1, III.7.1, IV.2.5]
+  note: In I it is the anarchist idea Engels attacked; in III it is a fact of the Russian revolution, often limited to one city or one branch. Keep it apart from Massenstreik so that the contrast in I stays visible.
+
+- term: Demonstrationsstreik / Kampfstreik
+  de: Demonstrationsstreik; Kampfstreik
+  english_usual: demonstration strike; fighting strike
+  literal: demonstration strike; battle strike
+  options: [demonstration strike, protest strike; fighting strike, combat strike, strike for demands]
+  interim: demonstration strike; fighting strike
+  status: open
+  verses: [IV.2.5, IV.4.3, IV.4.6, IV.5.1, IV.5.2, IV.5.10, IV.6.1]
+  note: Luxemburg's own pair. A Demonstrationsstreik is called by the party to make a show of strength; a Kampfstreik is fought for gains and mostly breaks out on its own (IV.4.6). Use one fixed pair throughout IV.
+
+- term: Wechselwirkung
+  de: Wechselwirkung des politischen und des ökonomischen Kampfes
+  english_usual: interaction; reciprocal action
+  literal: reciprocal effect
+  options: [interaction, reciprocal action, two-way action]
+  interim: interaction
+  status: open
+  verses: [III.26.1, IV.7.5, IV.11.1, IV.11.2, V.11.6, VII.2.11]
+  note: The core of the argument. Each struggle feeds the other in turn. "Interaction" is plain; a note can say the word is the one Engels used for dialectical reciprocity.
+
+- term: elementar / spontan
+  de: elementar; spontan; das Element des Spontanen
+  english_usual: elemental; spontaneous
+  literal: elemental; spontaneous
+  options: [elemental, elementary, spontaneous, unplanned]
+  interim: spontaneous for spontan; elemental for elementar
+  status: open
+  verses: [III.11.4, IV.4.6, IV.14.19, V.2.3, V.6.10, VI.9.2]
+  note: The famous "spontaneity" of Luxemburg. "Elementar" means a force of nature, not "basic"; "elementary" is a false friend. The two words appear side by side in V.2.3; keep them distinct.
+
+- term: Leitung
+  de: die Leitung; leiten; Leiter
+  english_usual: leadership; direction
+  literal: direction, management
+  options: [leadership, direction, guidance]
+  interim: leadership, with direction where she means running a strike
+  status: open
+  verses: [III.11.4, IV.14.9, IV.14.13, IV.16.1, IV.16.3, IV.16.4]
+  note: IV.16 separates political leadership from the "technical" running of a strike. The English has to keep both senses apart, or her claim about what the party should lead is lost.
+
+- term: Revolutionsromantiker
+  de: Revolutionsromantik; Revolutionsromantiker
+  english_usual: revolutionary romanticism; revolutionary romantics
+  literal: revolution romance; revolution romantics
+  options: [revolutionary romantics, romantics of revolution, starry-eyed revolutionaries]
+  interim: '"revolutionary romantics", in quotation marks as she sets it'
+  status: open
+  verses: [II.2.3, II.4.1, II.4.2, II.8.1, IV.15.11, VIII.N4.2.1]
+  note: The opponents' sneer, which Luxemburg throws back (IV.15.11). The Mainz resolution in VIII.N4 rejects "Revolutionsromantik" outright; keep the same word there.
+
+- term: Gleichberechtigung
+  de: die "Gleichberechtigung" der Gewerkschaften und der Sozialdemokratie
+  english_usual: equality; equal rights
+  literal: equal entitlement
+  options: [equal standing, parity, equality of rights]
+  interim: '"equal standing", in quotation marks'
+  status: open
+  verses: [VIII.4.6, VIII.5.1, VIII.6.1, VIII.6.2, VIII.18.3]
+  note: The trade union leaders' theory that party and unions are two equal powers. "Parity" is the institutional term; "equal standing" reads more plainly. VIII.N4.5.1 uses the same word for the political equality of the propertyless, a different sense.
+
+- term: Neutralität
+  de: die "Neutralität" der Gewerkschaften
+  english_usual: neutrality
+  literal: neutrality
+  options: [neutrality, political neutrality]
+  interim: '"neutrality", in quotation marks as she sets it'
+  status: open
+  verses: [VIII.10.4, VIII.10.6, VIII.10.8, VIII.15.11, VIII.15.13, VIII.15.15]
+
+- term: Bureaukratismus
+  de: Bureaukratismus; Bureaukraten; Gewerkschaftsbeamte
+  english_usual: bureaucratism; officials
+  literal: bureaucratism
+  options: [bureaucracy, bureaucratism, officialdom]
+  interim: bureaucratism; union officials for Gewerkschaftsbeamte
+  status: open
+  verses: [VII.6.5, VIII.14.1, VIII.15.5, VIII.15.11]
+  note: The old spelling "Bureau-" stays in the original column. VIII.14 to VIII.15 is the passage later read as an early analysis of labour bureaucracy; the modern draft should not sharpen or soften it.
+
+- term: Organisierte / Unorganisierte
+  de: die organisierte, die unorganisierte Proletariermasse
+  english_usual: organized; unorganized
+  literal: organized; unorganized
+  options: [organized, unorganized, non-union]
+  interim: organized; unorganized
+  status: open
+  verses: [VI.3.4, VI.6.1, VI.7.14, VI.7.15, VIII.10.6]
+  note: '"Organisiert" here means in a union or in the party, not "orderly". "Non-union" is clearer to some readers but loses the party sense.'

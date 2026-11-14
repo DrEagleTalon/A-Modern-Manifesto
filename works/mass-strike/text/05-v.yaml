@@ -1,0 +1,539 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: V
+title_original: V.
+title_en: Part V
+author: Rosa Luxemburg
+date: '1906'
+original_language: de
+anchor_language: de
+source_original: 'Rosa Luxemburg, Massenstreik, Partei und Gewerkschaften (Hamburg: Erdmann Dubber, 1906), public domain; Project Gutenberg ebook 31614'
+source_en: 'None yet: Patrick Lavin''s translation (Detroit 1925) is not on a reachable mirror'
+verses:
+- id: V.0.1
+  kind: heading
+  original: V.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.1.1
+  kind: p
+  original: Es fragt sich nun, wie weit alte Lehren, die man aus den russischen Massenstreiks ziehen kann, auf Deutschland passen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.1.2
+  kind: p
+  original: Die sozialen und politischen Verhältnisse, die Geschichte und der Stand der Arbeiterbewegung sind in Deutschland und in Rußland völlig verschieden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.1.3
+  kind: p
+  original: Auf den ersten Blick mögen auch die oben aufgezeichneten inneren Gesetze der russischen Massenstreiks lediglich als das Produkt spezifisch russischer Verhältnisse erscheinen, die für das deutsche Proletariat gar nicht in Betracht kommen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.1.4
+  kind: p
+  original: Zwischen dem politischen und ökonomischen Kampf in der russischen Revolution besteht der engste innere Zusammenhang; ihre Einheit kommt in der Periode der Massenstreiks zum Ausdruck.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.1.5
+  kind: p
+  original: Aber ist das nicht eine einfache Folge des russischen Absolutismus?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.1.6
+  kind: p
+  original: In einem Staate, wo jede Form und jede Äußerung der Arbeiterbewegung verboten, wo der einfachste Streik ein politisches Verbrechen ist, muß auch logischerweise jeder ökonomische Kampf zum politischen werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.2.1
+  kind: p
+  original: Ferner, wenn umgekehrt gleich der erste Ausbruch der politischen Revolution eine allgemeine Abrechnung der russischen Arbeiterschaft mit dem Unternehmertum nach sich gezogen hat, so ist das wiederum die einfache Folge des Umstandes, daß der russische Arbeiter bis dahin auf dem tiefsten Niveau der Lebenshaltung stand und überhaupt noch niemals einen regelmäßigen ökonomischen Kampf um die Besserung seiner Lage geführt hatte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.2.2
+  kind: p
+  original: Das Proletariat in Rußland mußte sich gewissermaßen aus dem allergröbsten erst herausarbeiten, was Wunder, daß es dazu mit jugendlichem Wagemut griff, sobald die Revolution den ersten frischen Hauch in die Stickluft des Absolutismus hineingebracht hatte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.2.3
+  kind: p
+  original: Und endlich erklärt sich der stürmische revolutionäre Verlauf der russischen Massenstreiks, sowie ihr vorwiegend spontaner, elementarer Charakter einerseits aus der politischen Zurückgebliebenheit Rußlands, aus der Notwendigkeit, erst den orientalischen Despotismus zu stürzen, anderseits aus dem Mangel an Organisation und Schulung des russischen Proletariats.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.2.4
+  kind: p
+  original: In einem Lande, wo die Arbeiterklasse 80 Jahre Erfahrung im politischen Leben, eine drei Millionen starke sozialdemokratische Partei und eineinviertel Million gewerkschaftlich organisierte Kerntruppen hat, kann der politische Kampf, können die Massenstreiks unmöglich denselben stürmischen und elementaren Charakter annehmen wie in einem halbbarbarischen Staate, der erst den Sprung aus dem Mittelalter in die neuzeitliche bürgerliche Ordnung macht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.2.5
+  kind: p
+  original: Dies die landläufige Vorstellung bei denjenigen, die den Reifegrad der gesellschaftlichen Verhältnisse eines Landes aus dem Wortlaut seiner geschriebenen Gesetze ablesen wollen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.3.1
+  kind: p
+  original: Untersuchen wir die Fragen nach der Reihe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.3.2
+  kind: p
+  original: Zunächst ist es verkehrt, den Beginn des ökonomischen Kampfes in Rußland erst von dem Ausbruch der Revolution zu datieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.3.3
+  kind: p
+  original: Tatsächlich waren die Streiks, die Lohnkämpfe im eigentlichen Rußland seit Anfang der neunziger Jahre, in Russisch-Polen sogar seit Ende der achtziger Jahre, immer mehr auf der Tagesordnung und hatten sich zuletzt das faktische Bürgerrecht erworben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.3.4
+  kind: p
+  original: Freilich zogen sie häufig brutale polizeiliche Maßregelungen nach sich, gehörten aber trotzdem zu den alltäglichen Erscheinungen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.3.5
+  kind: p
+  original: Bestand doch z. B. in Warschau und Lodz bereits im Jahre 1891 je eine bedeutende allgemeine Streikkasse, und die Schwärmerei für die Gewerkschaften hat in diesen Jahren in Polen für kurze Zeit sogar jene "ökonomischen" Illusionen geschaffen, die in Petersburg und im übrigen Rußland einige Jahre später grassierten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - V.N3
+- id: V.4.1
+  kind: p
+  original: Desgleichen liegt viel Übertreibung in der Vorstellung, als habe der Proletarier im Zarenreich vor der Revolution durchweg auf dem Lebensniveau eines Paupers gestanden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.4.2
+  kind: p
+  original: Gerade die jetzt im ökonomischen wie im politischen Kampfe tätigste und eifrigste Schicht der großindustriellen großstädtischen Arbeiter stand in bezug auf ihr materielles Lebensniveau kaum viel tiefer als die entsprechende Schicht des deutschen Proletariats, und in manchen Berufen kann man in Rußland gleiche, ja hier und da selbst höhere Löhne finden als in Deutschland.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.4.3
+  kind: p
+  original: Auch in Bezug auf die Arbeitszeit wird der Unterschied zwischen den großindustriellen Betrieben hier und dort kaum ein bedeutender sein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.4.4
+  kind: p
+  original: Somit sind die Vorstellungen, die mit einem vermeintlichen materiellen und kulturellen Helotentum der russischen Arbeiterschaft rechnen, ziemlich aus der Luft gegriffen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.4.5
+  kind: p
+  original: Dieser Vorstellung müßte bei einigem Nachdenken schon die Tatsache der Revolution selbst und der hervorragenden Rolle des Proletariats in ihr widersprechen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.4.6
+  kind: p
+  original: Mit Paupers werden keine Revolutionen von dieser politischen Reife und Gedankenklarheit gemacht, und der im Vordertreffen des Kampfes stehende Petersburger und Warschauer, Moskauer und Odessaer Industriearbeiter ist kulturell und geistig dem westeuropäischen Typus viel näher, als sich diejenigen denken, die als die einzige und unentbehrliche Kulturschule des Proletariats den bürgerlichen Parlamentarismus und die regelrechte Gewerkschaftspraxis betrachten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.4.7
+  kind: p
+  original: Die moderne großkapitalistische Entwicklung Rußlands und die anderthalbjahrzehnte lange geistige Einwirkung der Sozialdemokratie, die den ökonomischen Kampf ermutigte und leitete, haben auch ohne die äußeren Garantien der bürgerlichen Rechtsordnung ein tüchtiges Stück Kulturarbeit geleistet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.5.1
+  kind: p
+  original: Der Kontrast wird aber noch geringer, wenn wir auf der anderen Seite etwas tiefer in das tatsächliche Lebensniveau der deutschen Arbeiterschaft hineinblicken.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.5.2
+  kind: p
+  original: Die großen politischen Massenstreiks haben in Rußland vom ersten Augenblick die breitesten Schichten des Proletariats aufgerüttelt und in fieberhaften ökonomischen Kampf gestürzt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.5.3
+  kind: p
+  original: Allein, gibt es in Deutschland nicht ganze dunkle Winkel im Dasein der Arbeiterschaft, wo das wärmende Licht der Gewerkschaften bis jetzt sehr spärlich eindringt, ganze große Schichten, die bis jetzt gar nicht oder vergeblich auf dem Wege alltäglicher Lohnkämpfe sich aus dem sozialen Helotentum emporzuheben versuchen?
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.5.4
+  kind: p
+  original: Nehmen wir das Bergarbeiterelend.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.5.5
+  kind: p
+  original: Schon in dem ruhigen Werkeltag, in der kalten Atmosphäre des parlamentarischen Einerlei Deutschlands -- wie in den anderen Ländern auch, selbst im Dorado der Gewerkschaften, in England -- äußert sich der Lohnkampf der Bergarbeiter fast nicht anders als von Zeit zu Zeit in gewaltigen Eruptionen, in Massenstreiks von typischem, elementarem Charakter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.5.6
+  kind: p
+  original: Dies zeigt eben, daß der Gegensatz zwischen Kapital und Arbeit hier ein zu scharfer und gewaltiger ist, als daß er sich in die Form ruhiger, planmäßiger, partieller Gewerkschaftskämpfe zerbröckeln ließe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.5.7
+  kind: p
+  original: Dieses Bergarbeiterelend aber mit seinem eruptiven Boden, das schon in "normalen" Zeiten einen Wetterwinkel von größter Heftigkeit bildet, müßte sich in Deutschland bei jeder größeren politischen Massenaktion der Arbeiterklasse, bei jedem stärkeren Ruck, der das momentane Gleichgewicht des sozialen Alltags verschiebt, unvermeidlich sofort in einen gewaltigen ökonomisch-sozialen Kampf entladen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.5.8
+  kind: p
+  original: Nehmen wir ferner das Textilarbeiterelend.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.5.9
+  kind: p
+  original: Auch hier geben die erbitterten und meistens resultatlosen Ausbrüche des Lohnkampfes, der das Vogtland alle paar Jahre durchtobt, einen schwachen Begriff von der Vehemenz, mit der die große, zusammengeknäuelte Masse der Heloten des kartellierten Textilkapitals bei einer politischen Erschütterung, bei einer kräftigen und kühnen Massenaktion des deutschen Proletariats explodieren müßte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.5.10
+  kind: p
+  original: Nehmen wir ferner das Heimarbeiterelend, das Konfektionsarbeiterelend, das Elektrizitätsarbeiterelend, lauter Wetterwinkel, in denen um so sicherer bei jeder politischen Lufterschütterung in Deutschland gewaltige wirtschaftliche Kämpfe ausbrechen werden, je seltener das Proletariat hier sonst, in ruhigen Zeiten, den Kampf aufnimmt und je erfolgloser es jedesmal kämpft, je brutaler es vom Kapital gezwungen wird, zähneknirschend ins Sklavenjoch zurückzukehren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.1
+  kind: p
+  original: Nun aber kommen in Betracht ganze große Kategorien des Proletariats, die überhaupt bei dem "normalen" Lauf der Dinge in Deutschland von jeder Möglichkeit eines ruhigen wirtschaftlichen Kampfes um die Hebung ihrer Lage und von jedem Gebrauch des Koalitionsrechts ausgeschlossen sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.2
+  kind: p
+  original: Vor allem nennen wir zum Beispiel das glänzende Elend der Eisenbahn- und der Postangestellten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.3
+  kind: p
+  original: Bestehen doch für diese Staatsarbeiter mitten im parlamentarischen Rechtsstaat Deutschland russische Zustände, wohlgemerkt russische, wie sie nur vor der Revolution, während der ungetrübten Herrlichkeit des Absolutismus, bestanden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.4
+  kind: p
+  original: Bereits in dem großen Oktoberstreik 1905 stand der russische Eisenbahner in dem noch formell absolutistischen Rußland in bezug auf seine wirtschaftliche und soziale Bewegungsfreiheit turmhoch über dem deutschen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.5
+  kind: p
+  original: Die russischen Eisenbahner und Postangestellten haben sich das Koalitionsrecht faktisch im Sturm erobert, und wenn es auch momentan Prozeß auf Prozeß und Maßregelung auf Maßregelung regnet, den inneren Zusammenhalt vermag ihnen nichts mehr zu nehmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.6
+  kind: p
+  original: Es wäre aber eine völlig falsche psychologische Rechnung, wollte man mit der deutschen Reaktion annehmen, daß der Kadavergehorsam der deutschen Eisenbahner und Postangestellten ewig dauern wird, daß er ein Fels ist, den nichts zermürben kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.7
+  kind: p
+  original: Wenn sich auch die deutschen Gewerkschaftsführer an die bestehenden Zustände dermaßen gewöhnt haben, daß sie ungetrübt durch diese in ganz Europa fast beispiellose Schmach mit einiger Genugtuung die Erfolge des Gewerkschaftskampfes in Deutschland überblicken können, so wird sich der tiefverborgene, lange aufgespeicherte Groll der uniformierten Staatssklaven bei einer allgemeinen Erhebung der Industriearbeiter unvermeidlich Luft zu verschaffen suchen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.8
+  kind: p
+  original: Und wenn die industrielle Vorhut des Proletariats in Massenstreiks nach weiteren politischen Rechten greifen oder die alten wird verteidigen wollen, muß der große Trupp der Eisenbahner und Postangestellten sich naturnotwendig auf seine besondere Schmach besinnen und endlich einmal zur Befreiung von der Extraportion russischen Absolutismus erheben, die für ihn speziell in Deutschland errichtet ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.9
+  kind: p
+  original: Die pedantische Auffassung, die große Volksbewegungen nach Schema und Rezept abwickeln will, glaubt in der Eroberung des Koalitionsrechts für die Eisenbahner die notwendige Voraussetzung zu erblicken, bei der man erst an einen Massenstreik in Deutschland wird "denken dürfen".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.10
+  kind: p
+  original: 'Der wirkliche und natürliche Gang der Ereignisse kann nur ein umgekehrter sein: nur aus einer kräftigen spontanen Massenstreikaktion kann tatsächlich das Koalitionsrecht der deutschen Eisenbahner wie der Postangestellten geboren werden.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.6.11
+  kind: p
+  original: Und die bei den bestehenden Verhältnissen in Deutschland unlösbare Aufgabe wird unter dem Eindruck und dem Druck einer allgemeinen politischen Massenaktion des Proletariats ganz plötzlich ihre Möglichkeiten und ihre Lösung finden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.7.1
+  kind: p
+  original: 'Und endlich das größte und wichtigste: das Landarbeiterelend.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.7.2
+  kind: p
+  original: Wenn die englischen Gewerkschaften ausschließlich auf die Industriearbeiter zugeschnitten sind, so ist das der dem spezifischen Charakter der englischen Nationalwirtschaft, bei der geringen Rolle der Landwirtschaft im ganzen des ökonomischen Lebens eher eine begreifliche Erscheinung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.7.3
+  kind: p
+  original: In Deutschland wird eine gewerkschaftliche Organisation, und sei sie noch so glänzend ausgebaut, wenn sie lediglich die Industriearbeiter umfaßt und für das ganze große Heer der Landarbeiter unzugänglich ist, immer nur ein schwaches Teilbild der Lage des Proletariats im ganzen geben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.7.4
+  kind: p
+  original: Es wäre aber wiederum eine verhängnisvolle Illusion, zu glauben, daß die Zustände auf dem flachen Lande unveränderliche und unbewegliche seien, daß sowohl die unermüdliche Aufklärungsarbeit der Sozialdemokratie, wie noch mehr die ganze innere Klassenpolitik Deutschlands nicht beständig die äußere Passivität des Landarbeiters unterwühlen, und daß bei irgend einer größeren allgemeinen Klassenaktion des deutschen Industrieproletariats, zu welchem Zweck sie auch unternommen sei, nicht auch das ländliche Proletariat in Aufruhr kommt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.7.5
+  kind: p
+  original: Dies kann sich aber ganz naturgemäß nicht anders als zunächst in einem allgemeinen stürmischen ökonomischen Kampf, in gewaltigen Massenstreiks der Landarbeiter äußern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.8.1
+  kind: p
+  original: So verschiebt sich das Bild der angeblichen wirtschaftlichen Überlegenheit des deutschen Proletariats über das russische ganz bedeutend, wenn wir den Blick von der Tabelle der gewerkschaftlich organisierten Industrie- und Handwerksbranchen auf jene großen Gruppen des Proletariats richten, die ganz außerhalb des gewerkschaftlichen Kampfes stehen oder deren besondere wirtschaftliche Lage sich nicht in den engen Rahmen des alltäglichen gewerkschaftlichen Kleinkriegs hineinzwängen läßt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.8.2
+  kind: p
+  original: Wir sehen dann ein gewaltiges Gebiet nach dem anderen, wo die Zuspitzung der Gegensätze die äußerste Grenze erreicht hat, wo Zündstoff in Hülle und Fülle aufgehäuft ist, wo sehr viel "russischer Absolutismus" in nacktester Form steckt und wo wirtschaftlich die allerelementarsten Abrechnungen mit dem Kapital erst nachzuholen sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.9.1
+  kind: p
+  original: Alle diese alten Rechnungen würden dann bei einer allgemeinen politischen Massenaktion des Proletariats unvermeidlich dem herrschenden System präsentiert werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.9.2
+  kind: p
+  original: Eine künstlich arrangierte einmalige Demonstration des städtischen Proletariats, eine bloße aus Disziplin und nach dem Taktstock eines Parteivorstandes ausgeführte Massenstreikaktion könnte freilich die breiteren Volksschichten kühl und gleichgültig lassen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.9.3
+  kind: p
+  original: Allein eine wirkliche, aus revolutionärer Situation geborene, kräftige und rücksichtslose Kampfaktion des Industrieproletariats müßte sicher auf tiefer liegende Schichten zurückwirken und gerade alle diejenigen, die in normalen ruhigen Zeiten abseits des gewerkschaftlichen Tageskampfes stehen, in einen stürmischen allgemeinen ökonomischen Kampf mitreißen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.10.1
+  kind: p
+  original: Kommen wir aber auch auf die organisierten Vordertruppen des deutschen Industrieproletariats zurück und halten uns anderseits die heute von der russischen Arbeiterschaft verfochtenen Ziele des ökonomischen Kampfes vor die Augen, so finden wir durchaus nicht, daß es Bestrebungen sind, auf die die deutschen ältesten Gewerkschaften Grund hätten, wie auf ausgetretene Kinderschuhe über die Achsel zu schauen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.10.2
+  kind: p
+  original: So ist die wichtigste allgemeine Forderung der russischen Streiks seit dem 22. Januar 1905, der Achtstundentag, gewiß kein überwundener Standpunkt für das deutsche Proletariat, vielmehr in den allermeisten Fällen ein schönes fernes Ideal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.10.3
+  kind: p
+  original: Dasselbe trifft auf den Kampf mit dem "Hausherrnstandpunkt" zu, auf den Kampf um die Einführung der Arbeiterausschüsse in allen Fabriken, um die Abschaffung der Akkordarbeit, um die Abschaffung der Heimarbeit im Handwerk, um völlige Durchführung der Sonntagsruhe, um Anerkennung des Koalitionsrechts.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.10.4
+  kind: p
+  original: Ja, bei näherem Zusehen sind sämtliche ökonomischen Kampfobjekte des russischen Proletariats in der jetzigen Revolution auch für das deutsche Proletariat höchst aktuell und berühren lauter wunde Stellen des Arbeiterdaseins.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.11.1
+  kind: p
+  original: Daraus ergibt sich vor allem, daß der reine politische Massenstreik, mit dem man vorzugsweise operiert, auch für Deutschland ein bloßes lebloses theoretisches Schema ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.11.2
+  kind: p
+  original: Werden die Massenstreiks aus einer starken revolutionären Gärung sich auf natürlichem Wege als ein entschlossener politischer Kampf der städtischen Arbeiterschaft ergeben, so werden sie ebenso natürlich, genau wie in Rußland, in eine ganze Periode elementarer ökonomischer Kämpfe umschlagen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.11.3
+  kind: p
+  original: Die Befürchtungen also der Gewerkschaftsführer, als könnte der Kampf um die ökonomischen Interessen in einer Periode stürmischer politischer Kämpfe, in einer Periode der Massenstreiks, einfach auf die Seite geschoben und erdrückt werden, beruhen auf einer ganz in der Luft schwebenden schulmäßigen Vorstellung von dem Gang der Dinge.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.11.4
+  kind: p
+  original: Eine revolutionäre Periode würde vielmehr auch in Deutschland den Charakter des gewerkschaftlichen Kampfes ändern und ihn dermaßen potenzieren, daß der heutige Guerillakrieg der Gewerkschaften dagegen ein Kinderspiel sein wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.11.5
+  kind: p
+  original: Und anderseits würde aus diesem elementaren ökonomischen Massenstreikgewitter auch der politische Kampf immer wieder neue Anstöße und frische Kräfte schöpfen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.11.6
+  kind: p
+  original: Die Wechselwirkung zwischen ökonomischem und politischem Kampf, die die innere Triebfeder der heutigen Massenstreiks in Rußland und zugleich sozusagen den regulierenden Mechanismus der revolutionären Aktion des Proletariats bildet, würde sich ebenso naturgemäß auch in Deutschland aus den Verhältnissen selbst ergeben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.N3.1.1
+  kind: note
+  original: 'Es beruht deshalb auf einem tatsächlichen Irrtum, wenn die Genossin Roland-Holst in der Vorrede zur russischen Ausgabe Ihres Buches über den Massenstreik meint: "Das Proletariat (in Rußland) war, fast seit dem Aufkommen der Großindustrie, mit dem Massenstreik vertraut geworden, aus dem einfachen Grunde, weil partielle Streiks sich unter dem politischen Drucke des Absolutismus unmöglich erwiesen."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.N3.1.2
+  kind: note
+  original: (S. "Neue Zeit" Nr. 33, 1906.)
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.N3.1.3
+  kind: note
+  original: Das Umgekehrte war vielmehr der Fall.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.N3.1.4
+  kind: note
+  original: 'So sagte auch der Berichterstatter des Petersburger Gewerkschaftskartells auf der zweiten Konferenz der russischen Gewerkschaften im Februar 1906 eingangs seines Referats: "Bei der Zusammensetzung der Konferenz, die ich hier vor mir sehe, habe ich nicht nötig, erst hervorzuheben, daß unsere Gewerkschaftsbewegung nicht etwa von der "liberalen" Periode des Fürsten Swiatopolk-Mirski (im Jahre 1904. R. L.) oder vom 22. Januar herrührt, wie manche zu behaupten versuchen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.N3.1.5
+  kind: note
+  original: Die gewerkschaftliche Bewegung hat viel tiefere Wurzeln, sie ist unzertrennlich verknüpft mit der ganzen Vergangenheit unserer Arbeiterbewegung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.N3.1.6
+  kind: note
+  original: Unsere Gewerkschaften sind bloß neue Organisationsformen zur Leitung jenes ökonomischen Kampfes, den das russische Proletariat bereits Jahrzehnte lang führt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.N3.1.7
+  kind: note
+  original: Ohne uns weit in die Geschichte zu vertiefen, darf man wohl sagen, daß der ökonomische Kampf der Petersburger Arbeiter mehr oder weniger organisierte Formen annimmt seit den denkwürdigen Streiks der Jahre 1896 und 1897.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.N3.1.8
+  kind: note
+  original: Die Leitung dieses Kampfes wird, glücklich kombiniert mit der Leitung des politischen Kampfes, Sache jener sozialdemokratischen Organisation, die der "Petersburger Verein des Kampfes um die Befreiung der Arbeiterklasse" hieß, und die sich nach der Konferenz im März 1898 in das "Petersburger Komitee der russischen sozialdemokratischen Arbeiterpartei" verwandelte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.N3.1.9
+  kind: note
+  original: Es wird ein kompliziertes System der Fabrik-, Bezirks- und Vorstadt-Organisationen geschaffen, welches die Zentrale durch unzählige Fäden mit den Arbeitermassen verknüpft und es ihr ermöglicht, auf alle Bedürfnisse der Arbeiterschaft durch Flugschriften zu reagieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: V.N3.1.10
+  kind: note
+  original: Es wird die Möglichkeit geschaffen, die Streiks zu unterstützen und zu leiten."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

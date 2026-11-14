@@ -1,0 +1,6 @@
+# Fetched 2026-11-14 by scripts/fetch_sources.py from catalog.yaml. Raw files are never edited.
+- file: raw/de/gutenberg_31614.txt
+  role: original
+  url: https://raw.githubusercontent.com/GITenberg/Massenstreik-Partei-und-Gewerkschaften_31614/master/31614.txt
+  bytes: 217685
+  sha256: 83121854be5b6082f8db1a67fc79d1ecbc84b91e978d2b419f1b3cef7fe5484a

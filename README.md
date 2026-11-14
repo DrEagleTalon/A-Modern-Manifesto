@@ -40,7 +40,7 @@ Every work planned for the library, in queue order, and how far along it is. **R
 | 18 | The Poverty of Philosophy (1847) | Karl Marx | `POP` | French | A | ⏳ planned |  |
 | 19 | [The Condition of the Working Class in England (1845)](works/condition-of-the-working-class) | Friedrich Engels | `CWC` | German | A | ✅ ready for rewrite | 3519 verses · 0 seeded · 0 drafted · 528 alignment checks |
 | 20 | [The German Ideology (1846)](works/german-ideology) | Karl Marx, Friedrich Engels | `GI` | German | B | ✅ ready for rewrite | 7353 verses · 0 seeded · 0 drafted · 124 alignment checks |
-| 21 | The Mass Strike, the Political Party and the Trade Unions (1906) | Rosa Luxemburg | `MS` | German | B | ⏳ planned |  |
+| 21 | [The Mass Strike, the Political Party and the Trade Unions (1906)](works/mass-strike) | Rosa Luxemburg | `MS` | German | B | ✅ ready for rewrite | 811 verses · 0 seeded · 0 drafted · 0 alignment checks |
 | 22 | Reform or Revolution (1899) | Rosa Luxemburg | `ROR` | German | B | ⏳ planned |  |
 | 23 | Imperialism, the Highest Stage of Capitalism (1917) | Vladimir Lenin | `IMP` | Russian | B | ⏳ planned |  |
 | 24 | Now and After: The ABC of Communist Anarchism (1929) | Alexander Berkman | `ABC` | English | A | ⏳ planned |  |

@@ -1,0 +1,1946 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: III
+title_original: III.
+title_en: Part III
+author: Rosa Luxemburg
+date: '1906'
+original_language: de
+anchor_language: de
+source_original: 'Rosa Luxemburg, Massenstreik, Partei und Gewerkschaften (Hamburg: Erdmann Dubber, 1906), public domain; Project Gutenberg ebook 31614'
+source_en: 'None yet: Patrick Lavin''s translation (Detroit 1925) is not on a reachable mirror'
+verses:
+- id: III.0.1
+  kind: heading
+  original: III.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.1.1
+  kind: p
+  original: Der Massenstreik, wie er meistens in der gegenwärtigen Diskussion in Deutschland vorschwebt, ist eine sehr klar und einfach gedachte, scharf umrissene Einzelerscheinung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.1.2
+  kind: p
+  original: Es wird ausschließlich vom politischen Massenstreik gesprochen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.1.3
+  kind: p
+  original: Es wird dabei an einen einmaligen grandiosen Ausstand des Industrieproletariats gedacht, der aus einem politischen Anlaß von höchster Tragweite unternommen, und zwar auf Grund einer rechtzeitigen gegenseitigen Verständigung der Partei- und der gewerkschaftlichen Instanzen unternommen, dann im Geiste der Disziplin in größter Ordnung durchgeführt und in noch schönster Ordnung auf rechtzeitig gegebene Losung der leitenden Instanzen abgebrochen wird, wobei die Regelung der Unterstützungen, der Kosten, der Opfer, mit einem Wort die ganze materielle Bilanz des Massenstreiks im voraus genau bestimmt wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.2.1
+  kind: p
+  original: Wenn wir nun dieses theoretische Schema mit dem wirklichen Massenstreik vergleichen, wie er in Rußland seit fünf Jahren auftritt, so müssen wir sagen, daß der Vorstellung, die in der deutschen Diskussion im Mittelpunkt steht, fast kein einziger von den vielen Massenstreiks entspricht, die stattgefunden haben, und daß anderseits die Massenstreiks in Rußland eine solche Mannigfaltigkeit der verschiedensten Spielarten aufweisen, daß es ganz unmöglich ist, von "dem" Massenstreik, von einem abstrakten schematischen Massenstreik zu sprechen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.2.2
+  kind: p
+  original: Alle Momente des Massenstreiks sowie sein Charakter sind nicht bloß verschieden in verschiedenen Städten und Gegenden des Reiches, sondern vor allem hat sich ihr allgemeiner Charakter mehrmals im Laufe der Revolution geändert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.2.3
+  kind: p
+  original: Die Massenstreiks haben in Rußland eine bestimmte Geschichte durchgemacht, und sie machen sie noch weiter durch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.2.4
+  kind: p
+  original: Wer also vom Massenstreik in Rußland redet, muß vor allem seine Geschichte ins Auge fassen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.1
+  kind: p
+  original: Die jetzige sozusagen offizielle Periode der russischen Revolution wird mit vollem Recht von der Erhebung des Petersburger Proletariats am 22. Januar 1905, von jenem Zuge der 200 000 Arbeiter vor das Zarenschloß datiert, der mit einem furchtbaren Blutbade endete.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.2
+  kind: p
+  original: Das blutige Massacre in Petersburg war bekanntlich das Signal zum Ausbruch der ersten Riesenserie von Massenstreiks, die sich binnen weniger Tage über das gesamte Rußland gewälzt und den Sturmruf der Revolution aus Petersburg in alle Winkel des Reiches und in die breitesten Schichten des Proletariats getragen haben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.3
+  kind: p
+  original: Die Petersburger Erhebung vom 22. Januar war aber auch nur der äußerste Moment eines Massenstreiks, der vorher das Proletariat der Zarenhauptstadt im Januar 1905 ergriffen hatte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.4
+  kind: p
+  original: Dieser Januar-Massenstreik in Petersburg spielte sich nun zweifellos unter dem unmittelbaren Eindruck jenes riesenhaften Generalstreiks ab, der kurz vorher, im Dezember 1904, im Kaukasus, in Baku, ausgebrochen war und eine Weile lang ganz Rußland im Atem hielt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.5
+  kind: p
+  original: Die Dezemberereignisse in Baku waren aber ihrerseits nichts anderes, als an letzter und kräftiger Ausläufer jener gewaltigen Massenstreiks, die wie ein periodisches Erdbeben in den Jahren 1903 und 1904 ganz Südrußland erschütterten und deren Prolog der Massenstreik in Batum (im Kaukasus) im März 1902 war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.6
+  kind: p
+  original: Diese erste Massenstreikbewegung in der fortlaufenden Kette der jetzigen revolutionären Eruptionen ist endlich nur um fünf bis sechs Jahre von dem großen Generalstreik der Petersburger Textilarbeiter in den Jahren 1896 und 1897 entfernt, und wenn diese Bewegung äußerlich von der heutigen Revolution durch einige Jahre scheinbaren Stillstands und starrer Reaktion getrennt scheint, so wird doch jeder, der die innere politische Entwicklung des russischen Proletariats bis zu der heutigen Stufe seines Klassenbewußtseins und seiner revolutionären Energie kennt, die Geschichte der jetzigen Periode der Massenkämpfe mit jenen Petersburger Generalstreiks beginnen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.3.7
+  kind: p
+  original: Sie sind für das Problem des Massenstreiks schon deshalb wichtig, weil sie bereits alle Hauptmomente der späteren Massenstreiks im Keime enthalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.1
+  kind: p
+  original: Zunächst erscheint der Petersburger Generalstreik des Jahres 1896 als ein rein ökonomischer partieller Lohnkampf.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.2
+  kind: p
+  original: 'Seine Ursachen waren die unerträglichen Arbeitsbedingungen der Spinner und Weber Petersburgs: eine 13-, 14- und 15stündige Arbeitszeit, erbärmliche Akkordlöhne und eine ganze Musterkarte nichtswürdiger Unternehmerschikanen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.3
+  kind: p
+  original: Allein diese Lage ertrugen die Textilarbeiter lange geduldig, bis ein scheinbar winziger Umstand das Maß zum Überlaufen gebracht hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.4
+  kind: p
+  original: Im Jahre 1896 im Mai wurde nämlich die zwei Jahre lang aus Angst vor den Revolutionären hinausgeschobene Krönung des heutigen Zaren Nikolaus II. abgehalten, und aus diesem Anlaß bezeugten die Petersburger Unternehmer ihren patriotischen Eifer dadurch, dass sie ihren Arbeitern drei Tage Zwangsferien auferlegten, wobei sie jedoch merkwürdigerweise für diese Tage die Löhne nicht auszahlen wollten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.5
+  kind: p
+  original: Die dadurch aufgebrachten Textilarbeiter kamen in Bewegung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.6
+  kind: p
+  original: 'Nach einer Beratung von za. 800 der aufgeklärtesten Arbeiter im Jekaterinenhofer Garten wurde der Streik beschlossen und die Forderungen formuliert: 1. Auszahlung der Löhne für die Krönungstage; 2. zehneinhalbstündige Arbeitszeit; 3. Erhöhung der Akkordlöhne.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.7
+  kind: p
+  original: Dies geschah am 24. Mai.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.8
+  kind: p
+  original: Nach einer Woche standen sämtliche Webereien und Spinnereien still, und 40 000 Arbeiter waren im Generalstreik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.9
+  kind: p
+  original: Heute mag dieses Ereignis, an den gewaltigen Massenstreiks der Revolution gemessen, als eine Kleinigkeit erscheinen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.10
+  kind: p
+  original: In der politischen Eisstarre des damaligen Rußlands war ein Generalstreik etwas Unerhörtes, er war selbst eine ganze Revolution im kleinen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.4.11
+  kind: p
+  original: Es begannen selbstverständlich die brutalsten Verfolgungen, za. 1000 Arbeiter wurden verhaftet und nach der Heimat abgeschoben, und der Generalstreik wurde unterdrückt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.5.1
+  kind: p
+  original: Bereits hier sehen wir alle Grundzüge der späteren Massenstreiks.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.5.2
+  kind: p
+  original: Der nächste Anlaß der Bewegung war ein ganz zufälliger, ja untergeordneter, ihr Ausbruch ein elementarer; aber in dem Zustandekommen der Bewegung zeigten sich die Früchte der mehrjährigen Agitation der Sozialdemokratie, und im Laufe des Generalstreiks standen die sozialdemokratischen Agitatoren an der Spitze der Bewegung, leiteten und benutzten sie zur regen revolutionären Agitation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.5.3
+  kind: p
+  original: 'Ferner: Der Streik war äußerlich ein bloßer ökonomischer Lohnkampf, allein die Stellung der Regierung sowie die Agitation der Sozialdemokratie haben ihn zu einer politischen Erscheinung ersten Ranges gemacht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.5.4
+  kind: p
+  original: 'Und endlich: Der Streik wurde unterdrückt, die Arbeiter erlitten eine "Niederlage".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.5.5
+  kind: p
+  original: 'Aber bereits im Januar des folgenden Jahres, 1897, wiederholten die Petersburger Textilarbeiter nochmals den Generalstreik und errangen diesmal einen hervorragenden Erfolg: die gesetzliche Einführung des elfeinhalbstündigen Arbeitstages in ganz Rußland.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.5.6
+  kind: p
+  original: 'Was jedoch ein viel wichtigeres Ergebnis war: seit jenem ersten Generalstreik des Jahres 1896, der ohne eine Spur von Organisation und von Streikkassen unternommen war, beginnt im eigentlichen Rußland ein intensiver gewerkschaftlicher Kampf, der sich bald aus Petersburg auf das übrige Land verbreitet und der sozialdemokratischen Agitation und Organisation ganz neue Aussichten eröffnet, damit aber in der scheinbaren Kirchhofsruhe der folgenden Periode durch unsichtbare Maulwurfsarbeit die proletarische Revolution vorbereitet.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.6.1
+  kind: p
+  original: Der Ausbruch des kaukasischen Streiks im März des Jahres 1902 war anscheinend ebenso zufällig und von rein ökonomischen, partiellen, wenn auch ganz anderen Momenten erzeugt, wie jener vom Jahre 1896.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.6.2
+  kind: p
+  original: Er hängt mit der schweren Industrie- und Handelskrise zusammen, die in Rußland die Vorgängerin des japanischen Krieges und mit ihm zusammen der mächtigste Faktor der beginnenden revolutionären Gährung war.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.6.3
+  kind: p
+  original: Die Krise erzeugte eine enorme Arbeitslosigkeit, die in der proletarischen Masse die Agitation nährte, deshalb unternahm es die Regierung, zur Beruhigung der Arbeiterklasse die "überflüssigen Hände" nach ihren entsprechenden Heimatsorten per Schub zu transportieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.6.4
+  kind: p
+  original: Eine solche Maßnahme eben, die za. 400 Petroleumarbeiter betreffen sollte, rief in Batum einen Massenprotest hervor, der zu Demonstrationen, Verhaftungen, einem Massacre und schließlich zu einem politischen Prozeß führte, in dem plötzlich die rein ökonomische, partielle Angelegenheit zum politischen und revolutionären Ereignis wurde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.6.5
+  kind: p
+  original: Der Widerhall des ganz "resultatlos" verlaufenen und niedergeschlagenen Streiks in Batum war eine Reihe revolutionärer Massendemonstrationen der Arbeiter in Nischni-Nowgorod, in Saratow, in anderen Städten, also ein kräftiger Vorstoß für die allgemeine Welle der revolutionären Bewegung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.7.1
+  kind: p
+  original: Bereits im November 1902 folgt der erste echt revolutionäre Nachhall in Gestalt eines Generalstreiks in Rostow am Don.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.7.2
+  kind: p
+  original: Den Anstoß zu dieser Bewegung gaben Lohndifferenzen in den Werkstätten der Wladikaukasischen Eisenbahn.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.7.3
+  kind: p
+  original: 'Die Verwaltung wollte die Löhne herabsetzen, darauf gab das Donsche Komitee der Sozialdemokratie einen Aufruf heraus, mit der Aufforderung zum Streik um folgende Forderungen: Neunstundentag, Lohnaufbesserung, Abschaffung der Strafen, Entlassung unbeliebter Ingenieure &c. Sämtliche Eisenbahnwerkstätten traten in den Ausstand.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.7.4
+  kind: p
+  original: 'Ihnen schlossen sich alsbald alle anderen Berufe an, und plötzlich herrschte in Rostow ein nie dagewesener Zustand: jede gewerbliche Arbeit ruht, dafür werden Tag für Tag Monstre-Meetings von 15 000 bis 20 000 Arbeitern im Freien abgehalten, manchmal umzingelt von einem Kordon Kosaken, wobei zum ersten Male sozialdemokratische Volksredner offen auftreten, zündende Reden über Sozialismus und politische Freiheit gehalten und mit ungeheurer Begeisterung aufgenommen, revolutionäre Aufrufe in Zehntausenden von Exemplaren verbreitet werden.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.7.5
+  kind: p
+  original: Mitten in dem starren absolutistischen Rußland erobert das Proletariat Rostows zum ersten Male sein Versammlungsrecht, seine Redefreiheit im Sturm.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.7.6
+  kind: p
+  original: Freilich geht es auch hier nicht ohne ein Massacre ab.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.7.7
+  kind: p
+  original: Die Lohndifferenzen der Wladikaukasischen Eisenbahnwerkstätten haben sich in wenigen Tagen zu einem politischen Generalstreik und zu einer revolutionären Straßenschlacht ausgewachsen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.7.8
+  kind: p
+  original: Als Nachklang erfolgte sofort noch ein Generalstreik auf der Station Tichoretzkaja derselben Eisenbahnlinie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.7.9
+  kind: p
+  original: Auch hier kam es zu einem Massacre, ferner zu einem Prozeß, und auch Tichoretzkaja hat sich als Episode gleichfalls in die unzertrennliche Kette der Revolutionsmomente eingeflochten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.1
+  kind: p
+  original: 'Der Frühling 1903 gibt die Antwort auf die niedergeschlagenen Streiks in Rostow und Tichoretzkaja: der ganze Süden Rußlands steht im Mai, Juni und Juli in Flammen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.2
+  kind: p
+  original: Baku, Tiflis, Batum, Jelissawetgrad, Odessa, Kijew, Nikolajew, Jekaterinoslaw stehen im Generalstreik im buchstäblichen Sinne.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.3
+  kind: p
+  original: Aber auch hier entsteht die Bewegung nicht nach irgend einem vorgefaßten Plan aus einem Zentrum, sie fließt zusammen aus einzelnen Punkten, in jedem aus anderen Anlässen, in anderen Formen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.4
+  kind: p
+  original: Den Anfang macht Baku, wo mehrere partielle Lohnkämpfe einzelner Fabriken und Branchen endlich in einen Generalstreik ausmünden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.5
+  kind: p
+  original: In Tiflis beginnen den Streik 2000 Handelsangestellte, die eine Arbeitszeit von 6 Uhr Morgens bis 11 Uhr Abends hatten; sie verlassen alle am 4. Juli um 8 Uhr Abends die Läden und machen einen Umzug durch die Stadt, um die Ladeninhaber zur Schließung der Geschäfte aufzufordern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.6
+  kind: p
+  original: 'Der Sieg ist ein vollständiger: die Handelsangestellten erringen eine Arbeitszeit von 8 bis 8 und ihnen schließen sich sofort alle Fabriken, Werkstätten, Bureaux an.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.7
+  kind: p
+  original: Die Zeitungen erscheinen nicht, der Trambahnverkehr kann nur unter dem Schutze des Militärs stattfinden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.8
+  kind: p
+  original: -- In Jelissawetgrad beginnt am 10. Juli in allen Fabriken der Streik mit rein ökonomischen Forderungen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.9
+  kind: p
+  original: Sie werden meistens bewilligt, und am 14. Juli hört der Streik auf.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.10
+  kind: p
+  original: Allein zwei Wochen später bricht er wieder aus; diesmal geben die Bäcker die Parole, ihnen folgen die Steinarbeiter, Tischler, Färber, Mühlenarbeiter und schließlich wieder alle Fabrikarbeiter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.11
+  kind: p
+  original: -- In Odessa beginnt die Bewegung mit einem Lohnkampfe, in den der von Regierungsagenten nach dem Programm des berühmten Gendarmen Subatow gegründete "legale" Arbeiterverein verwickelt wurde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.12
+  kind: p
+  original: 'Die geschichtliche Dialektik hat wieder Gelegenheit genommen, einen ihrer hübschen boshaften Streiche auszuführen: Die ökonomischen Kämpfe der früheren Periode -- darunter der große Petersburger Generalstreik von 1896 -- hatten die russische Sozialdemokratie zur Übertreibung des sogen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.13
+  kind: p
+  original: '"Ökonomismus" verleitet, wodurch sie in der Arbeiterschaft für das demagogische Treiben des Subatow den Boden bereitet hatte.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.14
+  kind: p
+  original: Nach einer Weile drehte aber der große revolutionäre Strom das Schifflein mit der falschen Flagge um und zwang es, gerade an der Spitze der revolutionären proletarischen Flottille zu schwimmen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.15
+  kind: p
+  original: Die Subatowschen Vereine gaben im Frühling 1904 die Parole zu dem großen Generalstreik in Odessa, wie im Januar 1905 zu dem Generalstreik in Petersburg.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.16
+  kind: p
+  original: Die Arbeiter in Odessa, die in den Wahn von der aufrichtigen Arbeiterfreundlichkeit der Regierung und ihrer Sympathie für rein ökonomischen Kampf gewiegt wurden, wollten plötzlich eine Probe aufs Exempel machen und zwangen den Subatowschen "Arbeiterverein", in einer Fabrik den Streik um bescheidenste Forderungen zu erklären.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.17
+  kind: p
+  original: Sie wurden darauf vom Unternehmer einfach aufs Pflaster gesetzt, und als sie von dem Leiter ihres Vereins den versprochenen obrigkeitlichen Schutz forderten, verduftete der Herr und ließ die Arbeiter in wilder Gärung zurück.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.18
+  kind: p
+  original: Alsbald stellten sich die Sozialdemokraten an die Spitze und die Streikbewegung sprang auf andere Fabriken über.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.19
+  kind: p
+  original: Am 1. Juli streiken 2500 Eisenbahnarbeiter, am 4. Juli treten die Hafenarbeiter in den Streik um eine Erhöhung der Löhne von 80 Kopeken auf 2 Rubel und Verkürzung der Arbeitszeit um eine halbe Stunde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.20
+  kind: p
+  original: Am 6. Juli schließen sich die Seeleute der Bewegung an.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.21
+  kind: p
+  original: Am 13. Juli beginnt der Ausstand des Trambahnpersonals.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.22
+  kind: p
+  original: Nun findet eine Versammlung sämtlicher Streikenden, 7-8000 Mann, statt; es bildet sich ein Zug, der von Fabrik zu Fabrik geht und, lawinenartig anwachsend, schon als eine 40-50 000köpfige Menge sich zum Hafen begibt, um hier jede Arbeit zum Stillstand zu bringen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.23
+  kind: p
+  original: Bald herrscht in der ganzen Stadt der Generalstreik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.24
+  kind: p
+  original: -- In Kijew beginnt am 21. Juli der Ausstand in den Eisenbahnwerkstätten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.25
+  kind: p
+  original: Auch hier ist der nächste Anlaß miserable Arbeitsbedingungen, und es werden Lohnforderungen aufgestellt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.26
+  kind: p
+  original: Am anderen Tage folgen dem Beispiel die Gießereien.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.27
+  kind: p
+  original: Am 23. Juli passiert darauf ein Zwischenfall, der das Signal zum Generalstreik gibt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.28
+  kind: p
+  original: In der Nacht wurden zwei Delegierte der Eisenbahnarbeiter verhaftet; die Streikenden fordern sofort ihre Freilassung, und als dies nicht erfüllt wird, beschließen sie, die Eisenbahnzüge nicht aus der Stadt herauszulassen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.29
+  kind: p
+  original: Am Bahnhof setzen sich auf den Schienenstrang sämtliche Streikende mit Weib und Kind -- ein Meer von Menschenköpfen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.30
+  kind: p
+  original: Man droht mit Gewehrsalven.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.31
+  kind: p
+  original: 'Die Arbeiter entblößen darauf ihre Brust und rufen: "Schießt!"'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.32
+  kind: p
+  original: Eine Salve wird auf die wehrlose, sitzende Menge abgefeuert und 30-40 Leichen, darunter Frauen und Kinder, bleiben auf dem Platze liegen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.33
+  kind: p
+  original: Auf diese Kunde erhebt sich am gleichen Tage ganz Kijew zum Streik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.34
+  kind: p
+  original: Die Leichen der Ermordeten werden von der Menge emporgehoben und in einem Massenzug herumgetragen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.35
+  kind: p
+  original: Versammlungen, Reden, Verhaftungen, einzelne Straßenkämpfe -- Kijew steht mitten in der Revolution.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.36
+  kind: p
+  original: Die Bewegung geht bald zu Ende; dabei haben aber die Buchdrucker eine Verkürzung der Arbeitszeit um eine Stunde und eine Lohnerhöhung um einen Rubel gewonnen; in einer Hefefabrik ist der Achtstundentag eingeführt worden; die Eisenbahnwerkstätten wurden auf Beschluß des Ministeriums geschlossen; andere Branchen führten partielle Streiks um ihre Forderungen weiter.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.37
+  kind: p
+  original: -- In Nikolajew bricht der Generalstreik unter dem unmittelbaren Eindruck der Nachrichten aus Odessa, Baku, Batum und Tiflis aus, trotz des Widerstandes des sozialdemokratischen Komitees, das den Ausbruch der Bewegung auf den Zeitpunkt hinausschieben wollte, wo das Militär zum Manöver aus der Stadt ziehen sollte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.38
+  kind: p
+  original: Die Masse ließ sich nicht zurückhalten; eine Fabrik machte den Anfang, die Streikenden gingen von einer Werkstatt zur anderen, der Widerstand des Militärs goß nur Öl ins Feuer.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.39
+  kind: p
+  original: Bald bildeten sich Massenumzüge mit revolutionärem Gesang, die alle Arbeiter, Angestellten, Trambahnbedienstete, Männer und Frauen, mitrissen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.40
+  kind: p
+  original: Die Arbeitsruhe war eine vollkommene.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.41
+  kind: p
+  original: -- In Jekaterinoslaw beginnen am 5. August die Bäcker, am 7. die Arbeiter der Eisenbahnwerkstätte, darauf alle anderen Fabriken den Streik; am 8. August hört der Trambahnverkehr auf, die Zeitungen erscheinen nicht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.42
+  kind: p
+  original: -- So kam der grandiose Generalstreik Südrußlands im Sommer 1903 zu stande.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.43
+  kind: p
+  original: Aus vielen kleinen Kanälen partieller ökonomischer Kämpfe und kleiner "zufälliger" Vorgänge floß er rasch zu einem gewaltigen Meer zusammen und verwandelte den ganzen Süden des Zarenreichs für einige Wochen in eine bizarre, revolutionäre Arbeiterrepublik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.44
+  kind: p
+  original: '"Brüderliche Umarmungen, Rufe des Entzückens und der Begeisterung, Freiheitslieder, frohes Gelächter, Humor und Freude hörte man in der vieltausendköpfigen Menge, die von Morgen bis Abend in der Stadt wogte.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.45
+  kind: p
+  original: Die Stimmung war eine gehobene; man konnte beinahe glauben, daß ein neues, besseres Leben auf Erden beginnt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.46
+  kind: p
+  original: Ein tiefernstes und zugleich idyllisches, rührendes Bild"...
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.8.47
+  kind: p
+  original: So schrieb damals der Korrespondent im liberalen "Oswoboshdenje" des Herrn Peter v. Struve.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.1
+  kind: p
+  original: Das Jahr 1904 brachte gleich im Anfang den Krieg und für eine Weile eine Ruhepause in der Massenstreikbewegung mit sich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.2
+  kind: p
+  original: Zuerst ergoß sich eine trübe Welle polizeilich veranstalteter "patriotischer" Demonstrationen über das Land.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.3
+  kind: p
+  original: Die "liberale" bürgerliche Gesellschaft wurde vorerst von dem zarisch-offiziellen Chauvinismus ganz zu Boden geschmettert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.4
+  kind: p
+  original: Doch nimmt die Sozialdemokratie bald den Kampfplatz wieder in Besitz; den polizeilichen Demonstrationen des patriotischen Lumpenproletariats werden revolutionäre Arbeiterdemonstrationen entgegengestellt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.5
+  kind: p
+  original: Endlich wecken die schmählichen Niederlagen der zarischen Armee auch die liberale Gesellschaft aus der Betäubung; es beginnt die Ära liberaler und demokratischer Kongresse, Bankette, Reden, Adressen und Manifeste.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.6
+  kind: p
+  original: Der durch die Schmach des Krieges zeitweilig erdrückte Absolutismus läßt in seiner Zerfahrenheit die Herren gewähren, und sie sehen bereits den Himmel voller liberaler Geigen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.7
+  kind: p
+  original: Für ein halbes Jahr nimmt der bürgerliche Liberalismus die politische Vorderbühne in Besitz, das Proletariat tritt in den Schatten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.8
+  kind: p
+  original: Allein nach längerer Depression rafft sich der Absolutismus seinerseits wieder auf, die Kamarilla sammelt ihre Kräfte und durch ein einziges kräftiges Aufstampfen des Kosakenstiefels wird die ganze liberale Aktion im Dezember ins Mauseloch gejagt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.9
+  kind: p
+  original: Die Bankette, Reden, Kongresse werden kurzerhand als eine "freche Anmaßung" verboten und der Liberalismus sieht sich plötzlich am Ende seines Lateins.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.10
+  kind: p
+  original: Aber genau dort, wo dem Liberalismus der Faden ausgegangen ist, beginnt die Aktion des Proletariats.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.11
+  kind: p
+  original: 'Im Dezember 1904 bricht auf dem Boden der Arbeitslosigkeit der grandiose Generalstreik in Baku aus: Die Arbeiterklasse ist wieder auf dem Kampfplatz.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.12
+  kind: p
+  original: Als das Reden verboten wurde und verstummte, begann wieder das Handeln.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.13
+  kind: p
+  original: In Baku herrschte während einiger Wochen mitten im Generalstreik die Sozialdemokratie als unumschränkte Herrin der Lage, und die eigenartigen Ereignisse des Dezembers im Kaukasus hätten ein ungeheures Aufsehen erregt, wenn sie nicht so rapid von der steigenden Woge der Revolution übertroffen worden wären, die sie selbst aufgepeitscht hatten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.9.14
+  kind: p
+  original: Noch waren die phantastischen, unklaren Nachrichten von dem Generalstreik in Baku nicht in alle Enden des Zarenreichs gelangt, als im Januar 1905 der Massenstreik in Petersburg ausbrach.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.10.1
+  kind: p
+  original: Auch hier war der Anlaß bekanntlich ein winziger.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.10.2
+  kind: p
+  original: Zwei Arbeiter der Putilow-Werke wurden wegen ihrer Zugehörigkeit zum legalen Subatowschen Verein entlassen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.10.3
+  kind: p
+  original: Diese Maßregelung rief am 16. Januar einen Solidaritätsstreik sämtlicher 12 000 Arbeiter dieser Werke hervor.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.10.4
+  kind: p
+  original: Die Sozialdemokraten begannen aus Anlaß des Streiks eine rege Agitation um die Erweiterung der Forderungen und setzten die Forderung des Achtstundentages, des Koalitionsrechts, der Rede- und Preßfreiheit usw. durch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.10.5
+  kind: p
+  original: Die Gärung der Putilowschen Arbeiter teilte sich rasch dem übrigen Proletariat mit, und in wenigen Tagen standen 140 000 Arbeiter im Streik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.10.6
+  kind: p
+  original: Gemeinsame Beratungen und stürmische Diskussionen führten zur Ausarbeitung jener proletarischen Charte der bürgerlichen Freiheiten mit dem Achtstundentag an der Spitze, womit am 22. Januar 200 000 Arbeiter, von dem Priester Gapon geführt, vor das Zarenschloß zogen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.10.7
+  kind: p
+  original: Der Konflikt der zwei gemaßregelten Putilow-Arbeiter hat sich binnen einer Woche in den Prolog der gewaltigsten Revolution der Neuzeit verwandelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.1
+  kind: p
+  original: 'Die zunächst darauffolgenden Ereignisse sind bekannt: Das Petersburger Blutbad hat im Januar und Februar in sämtlichen Industriezentren und Städten Rußlands, Polens, Litauens, der baltischen Provinzen, des Kaukasus, Sibiriens, vom Norden bis zum Süden, vom Westen bis zum Osten riesenhafte Massenstreiks und Generalstreiks hervorgerufen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.2
+  kind: p
+  original: Allein bei näherem Zusehen treten jetzt die Massenstreiks in anderen Formen auf, als in der bisherigen Periode.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.3
+  kind: p
+  original: Diesmal gingen überall die sozialdemokratischen Organisationen mit Aufrufen voran; überall war die revolutionäre Solidarität mit dem Petersburger Proletariat ausdrücklich als Grund und Zweck des Generalstreiks bezeichnet; überall gab es zugleich Demonstrationen, Reden, Kämpfe mit dem Militär.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.4
+  kind: p
+  original: Doch auch hier war von einem vorgefaßten Plan, einer organisierten Aktion keine Rede, denn die Aufrufe der Parteien vermochten kaum, mit den spontanen Erhebungen der Masse Schritt zu halten; die Leiter hatten kaum Zeit, die Losungen der vorausstürmenden Proletariermenge zu formulieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.5
+  kind: p
+  original: 'Ferner: Die früheren Massen- und Generalstreiks entstanden aus einzelnen zusammenfließenden Lohnkämpfen, die in der allgemeinen Stimmung der revolutionären Situation und unter dem Eindruck der sozialdemokratischen Agitation rapid zu politischen Kundgebungen wurden; das ökonomische Moment und die gewerkschaftliche Zersplitterung waren der Ausgangspunkt, die zusammenfassende Klassenaktion und die politische Leitung das Schlußergebnis.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.6
+  kind: p
+  original: Jetzt ist die Bewegung eine umgekehrte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.7
+  kind: p
+  original: Die Januar- und Februargeneralstreiks brachen im voraus als einheitliche revolutionäre Aktion unter der Leitung der Sozialdemokratie aus; allein diese Aktion zerfiel bald in eine unendliche Reihe lokaler, partieller, ökonomischer Streiks in einzelnen Gegenden, Städten, Branchen, Fabriken.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.11.8
+  kind: p
+  original: 'Den ganzen Frühling des Jahres 1905 hindurch bis in den Hochsommer hinein gährte im gesamten Riesenreich ein unermüdlicher ökonomischer Kampf fast des gesamten Proletariats gegen das Kapital, ein Kampf, der nach oben hin alle kleinbürgerlichen und liberalen Berufe: Handelsangestellte, Bankbeamte, Techniker, Schauspieler, Kunstberufe, ergreift, nach unten hin bis ins Hausgesinde, in das Subalternbeamtentum der Polizei, ja bis in die Schicht des Lumpenproletariats hineindringt und gleichzeitig aus der Stadt aufs flache Land hinausströmt und sogar an die eisernen Tore der Militärkasernen pocht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.12.1
+  kind: p
+  original: Es ist dies ein riesenhaftes buntes Bild einer allgemeinen Auseinandersetzung der Arbeit mit dem Kapital, das die ganze Mannigfaltigkeit der sozialen Gliederung und des politischen Bewußtseins jeder Schicht und jedes Winkels abspiegelt und die ganze lange Stufenleiter vom regelrechten gewerkschaftlichen Kampf einer erprobten großindustriellen Elitetruppe des Proletariats bis zum formlosen Protestausbruch eines Haufens Landproletarier und zur ersten dunklen Regung einer aufgeregten Soldatengarnison durchläuft, von der wohlerzogenen eleganten Revolte in Manschetten und Stehkragen im Kontor eines Bankhauses bis zum scheu-dreisten Murren einer klobigen Versammlung unzufriedener Polizisten in einer verräucherten, dunklen und schmutzigen Polizeiwachtstube.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.13.1
+  kind: p
+  original: Nach der Theorie der Liebhaber "ordentlicher und wohldisziplinierter" Kämpfe nach Plan und Schema, jener besonders, die es von weitem stets besser wissen wollen, wie es "hätte gemacht werden sollen", war der Zerfall der großen politischen Generalstreikaktion des Januar 1905 in eine Unzahl ökonomischer Kämpfe wahrscheinlich "ein großer Fehler", der jene Aktion "lahmgelegt" und in ein "Strohfeuer" verwandelt hatte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.13.2
+  kind: p
+  original: Auch die Sozialdemokratie in Rußland, die die Revolution zwar mitmacht, aber nicht "macht", und ihre Gesetze erst aus ihrem Verlauf selbst lernen muß, war im ersten Augenblick durch das scheinbar resultatlose Zurückfluten der ersten Sturmflut des Generalstreiks für eine Weile etwas aus dem Konzept gebracht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.13.3
+  kind: p
+  original: Allein, die Geschichte, die jenen "großen Fehler" gemacht hat, verrichtete damit, unbekümmert um das Räsonieren ihrer unberufenen Schulmeister, eine ebenso unvermeidliche wie in ihren Folgen unberechenbare Riesenarbeit der Revolution.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.1
+  kind: p
+  original: Die plötzliche Generalerhebung des Proletariats im Januar unter dem gewaltigen Anstoß der Petersburger Ereignisse war nach außen hin ein politischer Akt der revolutionären Kriegserklärung an den Absolutismus.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.2
+  kind: p
+  original: Aber diese erste allgemeine direkte Klassenaktion wirkte gerade als solche nach innen um so mächtiger zurück, indem sie zum ersten Mal das Klassengefühl und Klassenbewußtsein in den Millionen und Abermillionen wie durch einen elektrischen Schlag weckte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.3
+  kind: p
+  original: Und dieses Erwachen des Klassengefühls äußerte sich sofort darin, daß der nach Millionen zählenden proletarischen Masse ganz plötzlich scharf und schneidend die Unerträglichkeit jenes sozialen und ökonomischen Daseins zum Bewußtsein kam, das sie Jahrzehnte in den Ketten des Kapitalismus geduldig ertrug.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.4
+  kind: p
+  original: Es beginnt daher ein spontanes allgemeines Rütteln und Zerren an diesen Ketten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.5
+  kind: p
+  original: Alle tausendfältigen Leiden des modernen Proletariats erinnern es an alte blutende Wunden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.6
+  kind: p
+  original: Hier wird um den Achtstundentag gekämpft, dort gegen die Akkordarbeit, hier werden brutale Meister auf einem Handkarren im Sack "hinausgefahren", anderswo gegen infame Strafsysteme, überall um bessere Löhne, hier und da um Abschaffung der Heimarbeit gekämpft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.7
+  kind: p
+  original: Rückständige, degradierte Berufe in großen Städten, kleine Provinzstädte, die bis dahin in einem idyllischen Schlaf dahin dämmerten, das Dorf mit seinem Vermächtnis aus dem Leibeigentum -- alles das besinnt sich plötzlich, vom Januarblitz geweckt, auf seine Rechte und sucht nun fieberhaft, das Versäumte nachzuholen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.8
+  kind: p
+  original: Der ökonomische Kampf war hier also in Wirklichkeit nicht ein Zerfall, eine Zersplitterung der Aktion, sondern bloß eine Frontänderung, ein plötzlicher und natürlicher Umschlag der ersten Generalschlacht mit dem Absolutismus in eine Generalabrechnung mit dem Kapital, die, ihrem Charakter entsprechend, die Form einzelner zersplitterter Lohnkämpfe annahm.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.14.9
+  kind: p
+  original: Nicht die politische Klassenaktion wurde im Januar durch den Zerfall des Generalstreiks in ökonomische Streiks gebrochen, sondern umgekehrt; nachdem der in der gegebenen Situation und auf der gegebenen Stufe der Revolution mögliche Inhalt der politischen Aktion erschöpft war, zerfiel sie oder schlug vielmehr in eine ökonomische Aktion um.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.1
+  kind: p
+  original: 'In der Tat: was konnte der Generalstreik im Januar weiter erreichen?'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.2
+  kind: p
+  original: Nur völlige Gedankenlosigkeit durfte eine Vernichtung des Absolutismus auf einen Schlag durch einen einzigen "ausdauernden" Generalstreik nach dem anarchistischen Schema erwarten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.3
+  kind: p
+  original: Der Absolutismus muß in Rußland durch das Proletariat gestürzt werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.4
+  kind: p
+  original: Aber das Proletariat bedarf dazu eines hohen Grades der politischen Schulung, des Klassenbewußtseins und der Organisation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.5
+  kind: p
+  original: Alle diese Bedingungen vermag es sich nicht aus Broschüren und Flugblättern, sondern bloß aus der lebendigen politischen Schule, aus dem Kampf und in dem Kampf, in dem fortschreitenden Verlauf der Revolution aneignen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.6
+  kind: p
+  original: Ferner kann der Absolutismus nicht in jedem beliebigen Moment, wozu bloß eine genügende "Anstrengung" und "Ausdauer" erforderlich, gestürzt werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.7
+  kind: p
+  original: Der Untergang des Absolutismus ist bloß ein äußerer Ausdruck der inneren sozialen und Klassenentwicklung der russischen Gesellschaft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.8
+  kind: p
+  original: Bevor und damit der Absolutismus gestürzt werden kann, muß das künftige bürgerliche Rußland in seinem Innern, in seiner modernen Klassenscheidung hergestellt, geformt werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.9
+  kind: p
+  original: Dazu gehört die Auseinandergrenzung der verschiedenen sozialen Schichten und Interessen, die Bildung außer der proletarischen, revolutionären, auch nicht minder der liberalen, radikalen, kleinbürgerlichen, konservativen und reaktionären Parteien, dazu gehört die Selbstbesinnung, Selbsterkenntnis und das Klassenbewußtsein nicht bloß der Volksschichten, sondern auch der bürgerlichen Schichten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.10
+  kind: p
+  original: Aber auch diese vermögen sich nicht anders als im Kampf, im Prozeß der Revolution selbst, durch die lebendige Schule der Ereignisse, im Zusammenprall mit dem Proletariat, sowie gegeneinander, in unaufhörlicher gegenseitiger Reibung bilden und zur Reife gedeihen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.11
+  kind: p
+  original: Diese Klassenspaltung und Klassenreife der bürgerlichen Gesellschaft sowie ihre Aktion im Kampfe gegen den Absolutismus wird durch die eigenartige führende Rolle des Proletariats und seine Klassenaktion einerseits unterbunden und erschwert, anderseits angepeitscht und beschleunigt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.15.12
+  kind: p
+  original: Die verschiedenen Unterströme des sozialen Prozesses der Revolution durchkreuzen einander, hemmen einander, steigern die inneren Widersprüche der Revolution, im Resultat beschleunigen und potenzieren aber damit nur ihre gewaltigen Ausbrüche.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.16.1
+  kind: p
+  original: 'So erfordert das anscheinend so einfache und nackte rein mechanische Problem: der Sturz des Absolutismus einen ganzen langen sozialen Prozeß, eine gänzliche Unterwühlung des gesellschaftlichen Bodens, das Unterste muß nach oben, das Oberste nach unten gekehrt, die scheinbare "Ordnung" in einen Chaos und aus dem scheinbaren "anarchistischen" Chaos eine neue Ordnung umgeschaffen werden.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.16.2
+  kind: p
+  original: Und nun in diesem Prozeß der sozialen Umschachtelung des alten Rußland spielte nicht nur der Januar-Blitz des ersten Generalstreiks, sondern noch mehr das darauffolgende große Frühlings- und Sommergewitter der ökonomischen Streiks eine unersetzliche Rolle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.16.3
+  kind: p
+  original: Die erbitterte allgemeine Auseinandersetzung der Lohnarbeit mit dem Kapital hat im gleichen Maße zur Auseinandergrenzung der verschiedenen Volksschichten wie der bürgerlichen Schichten, zum Klassenbewußtsein des revolutionären Proletariats wie auch der liberalen und konservativen Bourgeoisie beigetragen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.16.4
+  kind: p
+  original: Und wie die städtischen Lohnkämpfe zur Bildung der starken monarchischen Moskauer Industriellen-Partei beigetragen haben, so hat der rote Hahn der gewaltigen Landerhebung in Livland zur raschen Liquidation des berühmten adelig-agrarischen Semstwo-Liberalismus geführt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.1
+  kind: p
+  original: Zugleich aber hat die Periode der ökonomischen Kämpfe im Frühling und Sommer des Jahres 1905 dem städtischen Proletariat in der Gestalt der regen sozialdemokratischen Agitation und Leitung die Möglichkeit gegeben, die ganze Summe der Lehren des Januar-Prologs sich nachträglich anzueignen, sich die weiteren Aufgaben der Revolution klar zu machen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.2
+  kind: p
+  original: 'Im Zusammenhang damit steht aber noch ein anderes Ergebnis dauernden sozialen Charakters: eine allgemeine Hebung des Lebensniveaus des Proletariats, des wirtschaftlichen, sozialen und intellektuellen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.3
+  kind: p
+  original: Die Frühlingsstreiks des Jahres 1905 sind fast durchweg siegreich verlaufen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.4
+  kind: p
+  original: Als eine Probe aus dem enormen und noch meistens unübersehbaren Tatsachenmaterial seien hier nur einige Daten über ein paar der allein in Warschau von der Sozialdemokratie Polens und Litauens geleiteten wichtigsten Streiks angeführt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.5
+  kind: p
+  original: 'In den größten Fabriken der Metallbranche Warschaus: Aktiengesellschaft Lilpop, Rau & Löwenstein, Rudzki & Co., Bormann, Schwede & Co., Handtke, Gerlach & Pulst, Gebrüder Geisler, Eberhard, Wolski & Co., Aktiengesellschaft Konrad & Jarmuszkiewicz, Weber & Daehn, Gwizdzinski & Co., Drahtfabrik Wolanowski, Aktiengesellschaft Gostynski & Co., R. Brun & Sohn, Fraget, Norblin, Werner, Buch, Gebrüder Renneberg, Labor, Lampenfabrik Dittmar, Serkowski, Weszyski, zusammen 22 Fabriken errangen die Arbeiter sämtlich nach einem vier- bis fünfwöchigen Streik (seit dem 25. und 26. Januar) den neunstündigen Arbeitstag, eine Lohnerhöhung von 15 bis 25 pZt. und verschiedene geringere Forderungen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.6
+  kind: p
+  original: In den größten Werkstätten der Holzbranche Warschaus, nämlich bei Karmanski, Damiecki, Gromel, Szerbinski, Tremerowski, Horn, Bevensee, Tworkowski, Daab & Martens, zusammen 10 Werkstätten, errangen die Streikenden bereits am 23. Februar den Neunstundentag; sie gaben sich jedoch nicht zufrieden und bestanden auf dem Achtstundentag, den sie auch nach einer weiteren Woche durchsetzten, zugleich mit einer Lohnerhöhung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.7
+  kind: p
+  original: Die gesamte Maurerbranche begann den Streik am 27. Februar, forderte gemäß der Parole der Sozialdemokratie den Achtstundentag und errang am 11. März den Neunstundentag, eine Lohnerhöhung für alle Kategorien, regelmäßige wöchentliche Lohnauszahlung usw. usw.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.8
+  kind: p
+  original: Die Anstreicher, Stellmacher, Sattler und Schmiede errangen gemeinsam den Achtstundentag ohne Lohnverkürzung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.9
+  kind: p
+  original: Die Telephon-Werkstätten streikten zehn Tage und errangen den Achtstundentag und eine Lohnerhöhung um 10 bis 15 pZt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.10
+  kind: p
+  original: Die große Leinenweberei Hielle & Dietrich (10 000 Arbeiter) errang nach neun Wochen Streik eine Verkürzung der Arbeitszeit um eine Stunde und Lohnaufbesserung um 5 bis 10 pZt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.17.11
+  kind: p
+  original: Und dasselbe Ergebnis in unendlichen Variationen sehen wir in allen übrigen Branchen Warschaus, in Lodz, in Sosnowitz.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.18.1
+  kind: p
+  original: 'Im eigentlichen Rußland wurde der Achtstundentag erobert: im September 1904 von einigen Kategorien der Naphthaarbeiter in Baku, im Mai 1905 von den Zuckerarbeitern des Kijewer Rayons, im Januar 1905 in sämtlichen Buchdruckereien der Stadt Samara (wo zugleich eine Erhöhung der Akkordlöhne und Abschaffung der Strafen durchgesetzt wurde), im Februar in der Fabrik kriegsmedizinischer Instrumente, in einer Möbeltischlerei und in der Patronenfabrik in Petersburg, ferner wurde eine achtstündige Schicht in den Gruben von Wladiwostok eingeführt, im März in der staatlichen mechanischen Werkstatt der Staatspapiere, im April bei den Schmieden der Stadt Bobrujsk, im Mai bei den Angestellten der elektrischen Stadtbahn in Tiflis, gleichfalls im Mai der achteinhalbstündige Arbeitstag in der Riesenbaumwollweberei von Morosow (bei gleichzeitiger Abschaffung der Nachtarbeit und Erhöhung der Löhne um 8 pZt.), im Juni der Achtstundentag in einigen Ölmühlen in Petersburg und Moskau, im Juli achteinhalb Stunden bei den Schmieden des Petersburger Hafens, im November in sämtlichen Privatdruckereien der Stadt Orel (bei gleichzeitiger Erhöhung des Zeitlohnes um 20 pZt. und der Akkordlöhne um 100 pZt., sowie der Einführung eines paritätischen Einigungsamtes).'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.19.1
+  kind: p
+  original: Der Neunstundentag in sämtlichen Eisenbahnwerkstätten (im Februar), in vielen staatlichen Militär- und Marinewerkstätten, in den meisten Fabriken der Stadt Berdjansk, in sämtlichen Druckereien der Stadt Poltawa sowie der Stadt Minsk; neuneinhalb Stunden auf der Schiffswerft, Mechanischen Werkstatt und Gießerei der Stadt Nikolajew, im Juni nach einem allgemeinen Kellnerstreik in Warschau in vielen Restaurants und Cafés (bei gleichzeitiger Lohnerhöhung um 20 bis 40 pZt. und einem zweiwöchentlichen Urlaub jährlich).
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.20.1
+  kind: p
+  original: Der Zehnstundentag in fast sämtlichen Fabriken der Städte Lodz, Gosnowitz, Riga, Kowno, Reval, Dorpat, Minsk, Charkow, bei den Bäckern in Odessa, in den Handwerkstätten in Kischinew, in einigen Hutfabriken in Petersburg, in den Zündholzfabriken in Kowno (bei gleichzeitiger Lohnerhöhung um 10 pZt.), in sämtlichen staatlichen Marinewerkstätten und bei sämtlichen Hafenarbeitern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.21.1
+  kind: p
+  original: Die Lohnerhöhungen sind im allgemeinen geringer als die Verkürzung der Arbeitszeit, immerhin aber bedeutende; so wurde in Warschau Mitte März 1905 von dem städtischen Fabrikamt eine allgemeine Lohnerhöhung um 15 pZt. festgestellt; in dem Zentrum der Textilindustrie Iwanowo-Wosnesensk erreichten die Lohnerhöhungen 7 bis 15 pZt.; in Kowno wurden von der Lohnerhöhung 78 pZt. der gesamten Arbeiterzahl betroffen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.21.2
+  kind: p
+  original: 'Ein fester Minimallohn wurde eingeführt: in einem Teile der Bäckereien in Odessa, in der Newaschen Schiffswerft in Petersburg usw.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.1
+  kind: p
+  original: Freilich werden die Konzessionen vielfach bald hier bald dort wieder zurückgenommen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.2
+  kind: p
+  original: Dies gibt aber nur den Anlaß zu erneuten, noch erbitterteren Revanchekämpfen, und so ist die Streikperiode des Frühlings 1905 von selbst zum Prolog einer unendlichen Reihe sich immer weiter ausbreitender und ineinanderschlingender ökonomischer Kämpfe geworden, die bis auf den heutigen Tag dauern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.3
+  kind: p
+  original: In den Perioden des äußerlichen Stillstandes der Revolution, wo die Telegramme keine Sensationsnachrichten vom russischen Kampfplatz in die Welt tragen und wo der westeuropäische Leser mit Enttäuschung seine Morgenzeitung aus der Hand legt, mit der Bemerkung, daß in Rußland "nichts passiert sei", wird in Wirklichkeit in der Tiefe des ganzen Reiches die große Maulwurfsarbeit der Revolution ohne Rast Tag für Tag und Stunde für Stunde fortgesetzt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.4
+  kind: p
+  original: Der unaufhörliche intensive ökonomische Kampf setzt in rapiden abgekürzten Methoden die Hinüberleitung des Kapitalismus aus dem Stadium der primitiven Akkumulation, des patriarchalischen Raubbaus in ein hochmodernes, zivilisiertes Stadium durch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.5
+  kind: p
+  original: Heute läßt die tatsächliche Arbeitszeit in der russischen Industrie nicht nur die russische Fabrikgesetzgebung, d. h. den gesetzlichen elfeinhalbstündigen Arbeitstag, sondern selbst die deutschen tatsächlichen Verhältnisse hinter sich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.6
+  kind: p
+  original: In den meisten Branchen der russischen Großindustrie herrscht heute der Zehnstundentag, der in Deutschland von der Sozialgesetzgebung als unerreichbares Ziel hingestellt wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.7
+  kind: p
+  original: Ja, noch mehr; jener ersehnte "industrielle Konstitutionalismus", für den man in Deutschland schwärmt und um deswillen die Anhänger der opportunistischen Taktik jedes schärfere Lüftchen von den stehenden Gewässern des allein-seligmachenden Parlamentarismus fernhalten möchten, wird in Rußland gerade mitten im Revolutionssturm, aus der Revolution, zusammen mit dem politischen "Konstitutionalismus" geboren!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.8
+  kind: p
+  original: Tatsächlich ist nicht bloß eine allgemeine Hebung des Lebensniveaus oder vielmehr des Kulturniveaus der Arbeiterschaft eingetreten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.9
+  kind: p
+  original: Das materielle Lebensniveau als eine dauernde Stufe des Wohlseins findet in der Revolution keinen Platz.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.10
+  kind: p
+  original: 'Voller Widersprüche und Kontraste, bringt sie zugleich überraschende ökonomische Siege und brutalste Racheakte des Kapitals: heute den Achtstundentag, morgen Massenaussperrungen und nackten Hunger für Hunderttausende.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.11
+  kind: p
+  original: 'Das Kostbarste, weil bleibende, bei diesem scharfen revolutionären Auf und Ab der Welle ist ihr geistiger Niederschlag: das sprungweise intellektuelle, kulturelle Wachstum des Proletariats, das eine unverbrüchliche Gewähr für sein weiteres unaufhaltsames Fortschreiten im wirtschaftlichen wie im politischen Kampfe bietet.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.12
+  kind: p
+  original: Allein, nicht bloß das.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.13
+  kind: p
+  original: Das Verhältnis selbst des Arbeiters zum Unternehmer wird umgestülpt; seit den Januar-Generalstreiks und den darauffolgenden Streiks des Jahres 1905 ist das Prinzip des kapitalistischen "Hausherrentums" de facto abgeschafft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.14
+  kind: p
+  original: In den größten Fabriken aller wichtigsten Industriezentren hat sich wie von selbst die Einrichtung der Arbeiterausschüsse gebildet, mit denen allein der Unternehmer verhandelt, die über alle Konflikte entscheiden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.15
+  kind: p
+  original: 'Und schließlich noch mehr: Die anscheinend chaotischen Streiks und die "desorganisierte" revolutionäre Aktion nach dem Januar-Generalstreik wird zum Ausgangspunkt einer fieberhaften Organisationsarbeit.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.16
+  kind: p
+  original: Madame Geschichte dreht den bureaukratischen Schablonenmenschen, die an den Toren des deutschen Gewerkschaftsglücks grimmige Wacht halten, von weitem lachend eine Nase.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.17
+  kind: p
+  original: Die festen Organisationen, die als unbedingte Voraussetzung für einen eventuellen Versuch zu einem eventuellen deutschen Massenstreik im voraus wie eine uneinnehmbare Festung umschanzt werden sollen, diese Organisationen werden in Rußland gerade umgekehrt aus dem Massenstreik geboren!
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.22.18
+  kind: p
+  original: 'Und während die Hüter der deutschen Gewerkschaften am meisten befürchten, daß die Organisationen in einem revolutionären Wirbel wie kostbares Porzellan krachend in Stücke gehen, zeigt uns die russische Revolution das direkt umgekehrte Bild: aus dem Wirbel und Sturm, aus Feuer und Glut der Massenstreiks, der Straßenkämpfe steigen empor wie die Venus aus dem Meerschaum: frische, junge, kräftige und lebensfrohe..... Gewerkschaften.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.23.1
+  kind: p
+  original: Hier nur wieder ein kleines Beispiel, das aber für das gesamte Reich typisch ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.23.2
+  kind: p
+  original: 'Auf der zweiten Konferenz der Gewerkschaften Rußlands, die Ende Februar 1906 in Petersburg stattgefunden hat, sagte der Vertreter der Petersburger Gewerkschaften in seinem Bericht über die Entwicklung der Gewerkschaftsorganisationen der Zarenhauptstadt:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.1
+  kind: p
+  original: '"Der 22. Januar 1905, der den Gaponschen Verein weggespült hat, bildete einen Wendepunkt.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.2
+  kind: p
+  original: Die Arbeiter aus der Masse haben an der Hand der Ereignisse gelernt, die Bedeutung der Organisation zu schätzen und begriffen, daß nur sie selbst diese Organisationen schaffen können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.3
+  kind: p
+  original: '-- In direkter Verbindung mit der Januarbewegung entsteht in Petersburg die erste Gewerkschaft: die der Buchdrucker.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.4
+  kind: p
+  original: Die zur Ausarbeitung des Tarifs gewählte Kommission arbeitete die Statuten aus, und am 19. Juni begann die Gewerkschaft ihre Existenz.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.5
+  kind: p
+  original: Ungefähr um dieselbe Zeit wurde die Gewerkschaft der Kontoristen und der Buchhalter ins Leben gerufen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.6
+  kind: p
+  original: Neben diesen Organisationen, die fast offen (legal) existieren, entstanden vom Januar bis Oktober 1905 halbgesetzliche und ungesetzliche Gewerkschaften.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.7
+  kind: p
+  original: Zu den ersteren gehört z. B. die der Apothekergehülfen und der Handelsangestellten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.8
+  kind: p
+  original: Unter den ungesetzlichen Gewerkschaften muß der Verein der Uhrmacher hervorgehoben werden, dessen erste geheime Sitzung am 24. April stattfand.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.9
+  kind: p
+  original: Alle Versuche, eine allgemeine offene Versammlung einzuberufen, scheiterten an dem hartnäckigen Widerstand der Polizei und der Unternehmer in der Person der Handwerkskammer.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.10
+  kind: p
+  original: Dieser Mißerfolg hat die Existenz der Gewerkschaft nicht verhindert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.11
+  kind: p
+  original: Sie hielt geheime Mitgliederversammlungen am 9. Juni und 14. August ab, abgesehen von den Sitzungen der Vorstände der Gewerkschaft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.12
+  kind: p
+  original: Die Schneider-und Schneiderinnengewerkschaft wurde im Frühling des Jahres 1905 in einer Versammlung im Walde gegründet, wo 70 Schneider anwesend waren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.13
+  kind: p
+  original: Nachdem die Frage der Gründung besprochen wurde, wählte man eine Kommission, die mit der Ausarbeitung des Statuts beauftragt wurde.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.14
+  kind: p
+  original: Alle Versuche der Kommission, für die Gewerkschaft eine gesetzliche Existenz durchzusetzen, blieben erfolglos.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.15
+  kind: p
+  original: Ihre Tätigkeit beschränkt sich auf die Agitation und Mitgliederwerbung in den einzelnen Werkstätten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.16
+  kind: p
+  original: Ein ähnliches Schicksal war der Schuhmachergewerkschaft beschieden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.17
+  kind: p
+  original: Im Juli wurde Nachts in einem Walde außerhalb der Stadt eine geheime Versammlung einberufen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.18
+  kind: p
+  original: Mehr als 100 Schuhmacher kamen zusammen; es wurde ein Referat über die Bedeutung der Gewerkschaften, über ihre Geschichte in Westeuropa und ihre Aufgaben in Rußland gehalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.19
+  kind: p
+  original: Darauf ward beschlossen, eine Gewerkschaft zu gründen; 12 Mann wurden in eine Kommission gewählt, die das Statut ausarbeiten und eine allgemeine Schuhmacherversammlung einberufen sollte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.24.20
+  kind: p
+  original: Das Statut wurde ausgearbeitet, aber es gelang vorläufig weder es zu drucken, noch eine allgemeine Versammlung einzuberufen."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.1
+  kind: p
+  original: Das waren die ersten schweren Anfänge.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.2
+  kind: p
+  original: Dann kamen die Oktobertage, der zweite allgemeine Generalstreik, das Zarenmanifest des 30. Oktober und die kurze "Verfassungsperiode".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.3
+  kind: p
+  original: Mit Feuereifer stürzen sich die Arbeiter in die Wogen der politischen Freiheit, um sie sofort zum Organisationswerk zu benutzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.4
+  kind: p
+  original: Neben tagtäglichen politischen Versammlungen, Debatten, Vereinsgründungen wird sofort der Ausbau der Gewerkschaften in Angriff genommen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.5
+  kind: p
+  original: Im Oktober und November entstehen in Petersburg vierzig neue Gewerkschaften.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.6
+  kind: p
+  original: 'Alsbald wird ein "Zentralbureau", d. h. ein Gewerkschaftskartell gegründet, es erscheinen verschiedene Gewerkschaftsblätter und seit dem November auch ein Zentralorgan: "Die Gewerkschaft".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.7
+  kind: p
+  original: Das, was im obigen über Petersburg berichtet wurde, trifft im großen und ganzen auf Moskau und Odessa, Kijew und Nikolajew, Saratow und Woronesch, Samara und Nischni-Nowgorod, auf alle größeren Städte Rußlands und in noch höherem Grade auf Polen zu.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.8
+  kind: p
+  original: Die Gewerkschaften einzelner Städte suchen Fühlung miteinander, es werden Konferenzen abgehalten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.9
+  kind: p
+  original: Das Ende der "Verfassungsperiode" und die Umkehr zur Reaktion im Dezember 1905 macht zeitweilig auch ein Ende der offenen, breiten Tätigkeit der Gewerkschaften, bläst ihnen aber das Lebenslicht nicht aus.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.10
+  kind: p
+  original: Sie wirken weiter im geheimen als Organisation und führen gleichzeitig ganz offen Lohnkämpfe.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.11
+  kind: p
+  original: Es bildet sich ein eigenartiges Gemisch eines gesetzlichen und ungesetzlichen Zustandes des Gewerkschaftslebens aus, entsprechend der widerspruchsvollen revolutionären Situation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.12
+  kind: p
+  original: Aber mitten im Kampf wird das Organisationswerk mit aller Gründlichkeit, ja mit Pedanterie weiter ausgebaut.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.13
+  kind: p
+  original: Die Gewerkschaften der Sozialdemokratie Polens und Litauens z. B., die auf dem letzten Parteitag (im Juli 1906) durch fünf Delegierte von 10 000 zahlenden Mitgliedern vertreten waren, sind mit ordentlichen Statuten, gedruckten Mitgliedsbüchlein, Klebemarken usw. versehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.14
+  kind: p
+  original: Und dieselben Warschauer und Lodzer Bäcker und Schuhmacher, Metallarbeiter und Buchdrucker, die im Juni 1905 auf den Barrikaden standen und im Dezember nur auf eine Parole aus Petersburg zum Straßenkampf warteten, finden zwischen einem Massenstreik und dem anderen, zwischen Gefängnis und Aussperrung, unter dem Belagerungszustand Muße und heiligen Ernst, um ihre Gewerkschaftsstatuten eingehend und aufmerksam zu diskutieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.15
+  kind: p
+  original: Ja, diese gestrigen und morgigen Barrikadenkämpfer haben mehr als einmal in Versammlungen ihren Leitern unbarmherzig den Kopf gewaschen und mit dem Austritt aus der Partei gedroht, weil die unglücklichen gewerkschaftlichen Mitgliedsbüchlein nicht rasch genug -- in geheimen Druckereien unter unaufhörlicher polizeilicher Hetzjagd -- gedruckt werden konnten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.16
+  kind: p
+  original: Dieser Eifer und dieser Ernst dauern bis zur Stunde fort.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.17
+  kind: p
+  original: 'In den ersten zwei Wochen des Juli 1906 sind z. B. in Jekaterinoslaw 15 neue Gewerkschaften entstanden: in Kostroma 6 Gewerkschaften, mehrere in Kijew, Poltawa, Smolensk, Tscherkassy, Proskurow -- bis in die kleinsten Provinznester.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.18
+  kind: p
+  original: 'In der Sitzung des Moskauer Gewerkschaftskartells vom 4. Juni d. J. wurde nach Entgegennahme der Berichte einzelner Gewerkschaftsdelegierten beschlossen: "Daß die Gewerkschaften ihre Mitglieder disziplinieren und von Straßenkrawallen zurückhalten sollen, weil der Moment für den Massenstreik als ungeeignet betrachtet wird.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.19
+  kind: p
+  original: Angesichts möglicher Provokationen der Regierung sollen sie achtgeben, daß die Masse nicht auf die Straße hinausströmt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.20
+  kind: p
+  original: Endlich beschloß das Kartell, daß in der Zeit, wo eine Gewerkschaft einen Streik führt, die anderen sich von Lohnbewegungen zurückzuhalten haben."
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.25.21
+  kind: p
+  original: Die meisten ökonomischen Kämpfe werden jetzt von den Gewerkschaften geleitet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - III.N2
+- id: III.26.1
+  kind: p
+  original: So hat der vom Januar-Generalstreik ausgehende große ökonomische Kampf, der von da an bis auf den heutigen Tag nicht aufhört, einen breiten Hintergrund der Revolution gebildet, aus dem sich in unaufhörlicher Wechselwirkung mit der politischen Agitation und den äußeren Ereignissen der Revolution immer wieder bald hier und da einzelne Explosionen, bald allgemeine, große Hauptaktionen des Proletariats erheben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.26.2
+  kind: p
+  original: 'So flammen auf diesem Hintergrund nacheinander auf: am 1. Mai 1905 zur Maifeier ein beispielloser absoluter Generalstreik in Warschau mit einer völlig friedlichen Massendemonstration, die in einem blutigen Renkontre der wehrlosen Menge mit den Soldaten endet.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.26.3
+  kind: p
+  original: Im Juni führt in Lodz ein Massenausflug, der von Soldaten zerstreut wird, zu einer Demonstration von 100 000 Arbeitern auf dem Begräbnis einiger Opfer der Soldateska, zu erneutem Renkontre mit dem Militär und schließlich zum Generalstreik, der am 23., 24. und 25. in den ersten Barrikadenkampf im Zarenreiche übergeht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.26.4
+  kind: p
+  original: Im Juni gleichfalls explodiert im Odessaer Hafen aus einem kleinen Zwischenfall an Bord des Panzerschiffes "Potemkin" die erste große Matrosenrevolte der Schwarzmeerflotte, die sofort als Rückwirkung in Odessa und Nikolajew einen gewaltigen Massenstreik hervorruft.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.26.5
+  kind: p
+  original: 'Als weiteres Echo folgen: der Massenstreik und Matrosenrevolten in Kronstadt, Libau, Wladiwostok.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.1
+  kind: p
+  original: In den Monat Oktober fällt das grandiose Experiment Petersburgs mit der Einführung des Achtstundentags.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.2
+  kind: p
+  original: Der Rat der Arbeiterdelegierten beschließt, in Petersburg auf revolutionärem Wege den Achtstundentag durchzusetzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.3
+  kind: p
+  original: 'Das heißt: an einem bestimmten Tage erklären sämtliche Arbeiter Petersburgs ihren Unternehmern, daß sie nicht gewillt sind, länger als acht Stunden täglich zu arbeiten und verlassen zur entsprechenden Stunde die Arbeitsräume.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.4
+  kind: p
+  original: Die Idee gibt Anlaß zu einer lebhaften Agitation, wird vom Proletariat mit Begeisterung aufgenommen und ausgeführt, wobei die größten Opfer nicht gescheut werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.5
+  kind: p
+  original: So bedeutete zum Beispiel der Achtstundentag für die Textilarbeiter, die bis dahin elf Stunden und zwar bei Akkordlöhnen arbeiteten, einen enormen Lohnausfall, den sie jedoch bereitwillig akzeptierten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.6
+  kind: p
+  original: Binnen einer Woche herrscht in sämtlichen Fabriken und Werkstätten Petersburgs der Achtstundentag, und der Jubel der Arbeiterschaft kennt keine Grenzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.7
+  kind: p
+  original: 'Bald rüstet jedoch das anfangs verblüffte Unternehmertum zur Abwehr: es wird überall mit der Schließung der Fabriken gedroht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.8
+  kind: p
+  original: Ein Teil der Arbeiter läßt sich auf Verhandlungen ein und erringt hier den Zehn-, dort den Neunstundentag.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.9
+  kind: p
+  original: Die Elite des Petersburger Proletariats jedoch, die Arbeiter der großen staatlichen Metallwerke bleiben unerschüttert und es erfolgt eine Aussperrung, die 45 bis 50 000 Mann für einen Monat aufs Pflaster setzt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.27.10
+  kind: p
+  original: Durch diesen Abschluß spielt die Achtstundenbewegung in den allgemeinen Massenstreik des Dezember hinein, den die große Aussperrung in hohem Maße unterbunden hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.1
+  kind: p
+  original: Inzwischen folgt aber im Oktober als Antwort auf das Bulyginsche Duma-Projekt der zweite gewaltigste allgemeine Massenstreik im gesamten Zarenreich, zu dem die Eisenbahner die Parole ausgeben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.2
+  kind: p
+  original: Diese zweite revolutionäre Hauptaktion des Proletariats trägt schon einen wesentlich anderen Charakter, als die erste im Januar.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.3
+  kind: p
+  original: Das Element des politischen Bewußtseins spielt schon eine viel größere Rolle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.4
+  kind: p
+  original: 'Freilich war auch hier der erste Anlaß zum Ausbruch des Massenstreiks ein untergeordneter und scheinbar zufälliger: der Konflikt der Eisenbahner mit der Verwaltung wegen der Pensionskasse.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.5
+  kind: p
+  original: Allein die darauf erfolgte allgemeine Erhebung des Industrieproletariats wird vom klaren politischen Gedanken getragen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.6
+  kind: p
+  original: 'Der Prolog des Januarstreiks war ein Bittgang zum Zaren um politische Freiheit, die Losung des Oktoberstreiks lautete: Fort mit der konstitutionellen Komödie des Zarismus!'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.7
+  kind: p
+  original: 'Und Dank dem sofortigen Erfolg des Generalstreiks: dem Zarenmanifest vom 30. Oktober, fließt die Bewegung nicht nach innen zurück, wie im Januar, um erst die Anfänge des ökonomischen Klassenkampfes nachzuholen, sondern gießt sich nach außen in eine eifrige Betätigung der frisch eroberten politischen Freiheit über.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.8
+  kind: p
+  original: Demonstrationen, Versammlungen, eine junge Presse, öffentliche Diskussionen und blutige Massacres als das Ende vom Liede, darauf neue Massenstreiks und Demonstration -- das ist das stürmische Bild der November- und Dezembertage.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.9
+  kind: p
+  original: Im November wird auf den Appell der Sozialdemokratie hin in Petersburg der erste demonstrative Massenstreik veranstaltet als Protestkundgebung gegen die Bluttaten und die Verhängung des Belagerungszustandes in Livland und Polen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.10
+  kind: p
+  original: Die Gärung nach dem kurzen Verfassungstraum und dem grausamen Erwachen führt endlich im Dezember zum Ausbruch des dritten allgemeinen Massenstreiks im ganzen Zarenreich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.11
+  kind: p
+  original: Diesmal ist der Verlauf und der Ausgang wieder ein ganz anderer, wie in den beiden früheren Fällen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.12
+  kind: p
+  original: Die politische Aktion schlägt nicht mehr in eine ökonomische um, wie im Januar, sie erringt aber auch nicht mehr einen raschen Sieg, wie im Oktober.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.13
+  kind: p
+  original: Die Versuche der zarischen Kamarilla mit der wirklichen politischen Freiheit werden nicht mehr gemacht und die revolutionäre Aktion stößt somit zum ersten Male in ihrer ganzen Breite auf die starre Mauer der physischen Gewalt des Absolutismus.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.14
+  kind: p
+  original: Durch die logische innere Entwicklung der fortschreitenden Ereignisse schlägt der Massenstreik diesmal um in einen offenen Aufstand, einen bewaffneten Barrikaden- und Straßenkampf in Moskau.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.28.15
+  kind: p
+  original: Die Moskauer Dezembertage schließen als der Höhepunkt der aufsteigenden Linie der politischen Aktion und der Massenstreikbewegung das erste arbeitsreiche Jahr der Revolution ab.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.29.1
+  kind: p
+  original: 'Die Moskauer Ereignisse zeigen zugleich im kleinen Probebild die logische Entwicklung und die Zukunft der revolutionären Bewegung im ganzen: ihren unvermeidlichen Abschluß in einem allgemeinen offenen Aufstand, der aber seinerseits wieder nicht anders zu stande kommen kann, als durch die Schule einer Reihe vorbereitender partieller Aufstände, die eben deshalb vorläufig mit partiellen äußeren "Niederlagen" abschließen und, jeder einzeln betrachtet, als "verfrüht" erscheinen mögen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.1
+  kind: p
+  original: Das Jahr 1906 bringt die Duma-Wahlen und die Duma-Episode.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.2
+  kind: p
+  original: Das Proletariat boykottiert aus kräftigem revolutionären Instinkt und klarer Erkenntnis der Lage die ganze zarisch-konstitutionelle Farçe, und den Vordergrund der politischen Bühne nimmt für einige Monate wieder der Liberalismus ein.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.3
+  kind: p
+  original: 'Die Situation des Jahres 1904 kehrt anscheinend wieder: eine Periode des Redens tritt an Stelle des Handelns, und das Proletariat tritt für eine Zeitlang in den Schatten, um sich desto fleißiger dem gewerkschaftlichen Kampf und dem Organisationswerk zu widmen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.4
+  kind: p
+  original: Die Massenstreiks verstummen, während knatternde Raketen der liberalen Rethorik Tag für Tag abgefeuert werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.5
+  kind: p
+  original: Schließlich rasselt der eiserne Vorhang plötzlich herunter, die Schauspieler werden auseinander gejagt, von den liberalen Raketen bleibt nur Rauch und Dunst übrig.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.6
+  kind: p
+  original: Ein Versuch des Zentralkomitees der russischen Sozialdemokratie, als Demonstration für die Duma und für die Wiedereröffnung der Periode des liberalen Redens einen vierten Massenstreik in ganz Rußland hervorzurufen, fällt platt zu Boden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.7
+  kind: p
+  original: Die Rolle der politischen Massenstreiks allein ist erschöpft, der Übergang des Massenstreiks in einen allgemeinen Volksaufstand und Straßenkampf aber noch nicht herangereift.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.8
+  kind: p
+  original: Die liberale Episode ist vorbei, die proletarische hat noch nicht wieder begonnen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.30.9
+  kind: p
+  original: Die Bühne bleibt vorläufig leer.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N2.1.1
+  kind: note
+  original: 'In den zwei ersten Wochen des Juni 1906 allein wurden folgende Lohnkämpfe geführt: bei den Buchdruckern in Petersburg, Moskau, Odessa, Minsk, Wilna, Saratow, Mogilew, Tambow um den Achtstundentag und die Sonntagsruhe; ein Generalstreik der Seeleute in Odessa, Nikolajew, Kertsch, Krim, Kaukasus, auf der Wolga-Flotte, in Kronstadt, in Warschau und Plock um die Anerkennung der Gewerkschaft und Freilassung der verhafteten Arbeiterdelegierten; bei den Hafenarbeitern in Saratow, Nikolajew, Zarizin, Archangel, Nischni-Nowgorod, Rybinsk.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N2.1.2
+  kind: note
+  original: Die Bäcker streikten in Kijew, Archangel, Bialystock, Wilna, Odessa, Charkow, Brest-Litowsk, Radom, Tiflis; die Landarbeiter in den Distrikten Werchne-Dneprowsk, Borisowsk, Simferopol, in den Gouvernements Podolsk, Tula, Kursk, in den Distrikten Koslow, Lipowetz, in Finnland, im Gouvernement Kijew, im Jelissawetgrader Distrikt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N2.1.3
+  kind: note
+  original: In mehreren Städten streikten in dieser Periode gleichzeitig fast sämtliche Gewerbezweige, so in Saratow, Archangel, Kertsch, Krementschug.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N2.1.4
+  kind: note
+  original: In Bachmut gab es einen Generalstreik der Kohlenarbeiter des ganzen Reviers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N2.1.5
+  kind: note
+  original: In anderen Städten ergriff die Lohnbewegung binnen der erwähnten zwei Wochen nacheinander alle Gewerbezweige, so in Kijew, Petersburg, Warschau, Moskau, im ganzen Rayon Ivanowo-Wosnesensk.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N2.1.6
+  kind: note
+  original: 'Zweck der Streiks überall: Verkürzung der Arbeitszeit, Sonntagsruhe, Lohnforderungen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N2.1.7
+  kind: note
+  original: Die meisten Streiks verliefen siegreich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: III.N2.1.8
+  kind: note
+  original: Es wird in den lokalen Berichten hervorgehoben, dass sie zum Teil Arbeiterschichten ergriffen, die sich zum ersten Male an einer Lohnbewegung beteiligten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

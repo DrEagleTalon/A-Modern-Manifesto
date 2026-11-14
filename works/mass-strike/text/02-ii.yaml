@@ -1,0 +1,306 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: II
+title_original: II.
+title_en: Part II
+author: Rosa Luxemburg
+date: '1906'
+original_language: de
+anchor_language: de
+source_original: 'Rosa Luxemburg, Massenstreik, Partei und Gewerkschaften (Hamburg: Erdmann Dubber, 1906), public domain; Project Gutenberg ebook 31614'
+source_en: 'None yet: Patrick Lavin''s translation (Detroit 1925) is not on a reachable mirror'
+verses:
+- id: II.0.1
+  kind: heading
+  original: II.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.1
+  kind: p
+  original: Die erste Revision, die sich aus den Ereignissen in Rußland für die Frage vom Massenstreik ergibt, bezieht sich auf die allgemeine Auffassung des Problems.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.2
+  kind: p
+  original: Bis jetzt stehen sowohl die eifrigen Befürworter eines "Versuchs mit dem Massenstreik" in Deutschland von der Art Bernsteins, Eisners usw., wie auch die strikten Gegner eines solchen Versuchs, wie sie im gewerkschaftlichen Lager z. B. durch Bömelburg vertreten sind, im grunde genommen auf dem Boden derselben, und zwar der anarchistischen Auffassung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.3
+  kind: p
+  original: Die scheinbaren Gegenpole schließen sich nicht bloß gegenseitig aus, sondern, wie stets, bedingen auch und ergänzen zugleich einander.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.4
+  kind: p
+  original: Für die anarchistische Denkweise ist nämlich die Spekulation direkt auf den "großen Kladderadatsch", auf die soziale Revolution nur ein äußeres und unwesentliches Merkmal.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.5
+  kind: p
+  original: Wesentlich ist dabei die ganze abstrakte, unhistorische Betrachtung des Massenstreiks, wie überhaupt aller Bedingungen des proletarischen Kampfes.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.6
+  kind: p
+  original: 'Für den Anarchisten existieren als stoffliche Voraussetzungen seiner "revolutionären" Spekulationen lediglich zwei Dinge: zunächst die blaue Luft und dann der gute Wille und der Mut, die Menschheit aus dem heutigen kapitalistischen Jammertal zu erretten.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.7
+  kind: p
+  original: In der blauen Luft ergab sich aus dem Raisonnement schon vor 60 Jahren, dass der Massenstreik das kürzeste, sicherste und leichteste Mittel ist, um den Sprung ins bessere soziale Jenseits auszuführen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.8
+  kind: p
+  original: In derselben blauen Luft ergibt sich neuerdings aus der Spekulation, dass der gewerkschaftliche Kampf die einzige wirkliche "direkte Aktion der Massen" und also der einzige revolutionäre Kampf ist -- dies bekanntlich die neueste Schrulle der französischen und italienischen "Syndikalisten".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.1.9
+  kind: p
+  original: Das Fatale für den Anarchismus war dabei stets, daß die in der blauen Luft improvisierten Kampfmethoden nicht bloß eine Rechnung ohne den Wirt, das heißt reine Utopien waren, sondern daß sie, weil sie eben mit der verachteten, schlechten Wirklichkeit gar nicht rechneten, in dieser schlechten Wirklichkeit meistens aus revolutionären Spekulationen unversehens zu praktischen Helferdiensten für die Reaktion wurden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.1
+  kind: p
+  original: Auf demselben Boden der abstrakten, unhistorischen Betrachtungsweise stehen aber heute diejenigen, die den Massenstreik nächstens in Deutschland auf dem Wege eines Vorstandsbeschlusses auf einen bestimmten Kalendertag ansetzen möchten, wie auch diejenigen, die, wie die Teilnehmer des Kölner Gewerkschaftskongresses, durch ein Verbot des "Propagierens" das Problem des Massenstreiks aus der Welt schaffen wollen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.2
+  kind: p
+  original: Beide Richtungen gehen von der gemeinsamen, rein anarchistischen Vorstellung aus, daß der Massenstreik ein bloßes technisches Kampfmittel ist, das nach Belieben und nach bestem Wissen und Gewissen "beschlossen" oder auch "verboten" werden könne, eine Art Taschenmesser, das man in der Tasche "für alle Fälle" zusammengeklappt bereit halten oder auch nach Beschluß aufklappen und gebrauchen kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.3
+  kind: p
+  original: Zwar nehmen gerade die Gegner des Massenstreiks für sich das Verdienst in Anspruch, den geschichtlichen Boden und die materiellen Bedingungen der heutigen Situation in Deutschland in Betracht zu ziehen, im Gegensatz zu den "Revolutionsromantikern", die in der Luft schweben und partout nicht mit der harten Wirklichkeit und ihren Möglichkeiten und Unmöglichkeiten rechnen wollen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.4
+  kind: p
+  original: '"Tatsachen und Zahlen, Zahlen und Tatsachen!" rufen sie wie Mr. Gradgrind in Dickens'' "Harte Zeiten".'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.5
+  kind: p
+  original: 'Was die gewerkschaftlichen Gegner des Massenstreiks unter "geschichtlichem Boden" und "materiellen Bedingungen" verstehen, sind zweierlei Momente: einerseits die Schwäche des Proletariats, anderseits die Kraft des preußisch-deutschen Militarismus.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.6
+  kind: p
+  original: Die ungenügenden Arbeiterorganisationen und Kassenbestände und die imponierenden preußischen Bajonette, das sind die "Tatsachen und Zahlen", auf denen diese gewerkschaftlichen Führer ihre praktische Politik im gegebenen Falle basieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.7
+  kind: p
+  original: Nun sind freilich gewerkschaftliche Kassen sowie preußische Bajonette zweifellos sehr materielle und auch sehr historische Erscheinungen, allein die darauf basierte Auffassung ist kein historischer Materialismus im Sinne von Marx, sondern ein polizeilicher Materialismus im Sinne Puttkamers.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.2.8
+  kind: p
+  original: 'Auch die Vertreter des kapitalistischen Polizeistaats rechnen sehr, und zwar ausschließlich mit der jeweiligen tatsächlichen Macht des organisierten Proletariats, sowie mit der materiellen Macht der Bajonette, und aus dem vergleichenden Exempel dieser beiden Zahlenreihen wird noch immer der beruhigende Schluß gezogen: die revolutionäre Arbeiterbewegung wird von einzelnen Wühlern und Hetzern erzeugt, ergo haben wir in den Gefängnissen und den Bajonetten ein ausreichendes Mittel, um der unliebsamen "vorübergehenden Erscheinung" Herr zu werden.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.3.1
+  kind: p
+  original: Die klassenbewußte deutsche Arbeiterschaft hat längst das Humoristische der polizeilichen Theorie begriffen, als sei die ganze moderne Arbeiterbewegung ein künstliches, willkürliches Produkt einer handvoll gewissenloser "Wühler und Hetzer".
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.1
+  kind: p
+  original: Es ist aber genau dieselbe Auffassung, die darin zum Ausdruck kommt, wenn sich ein paar brave Genossen zu einer freiwilligen Nachtwächterkolonne zusammentun, um die deutsche Arbeiterschaft vor dem gefährlichen Treiben einiger "Revolutionsromantiker" und ihrer "Propaganda des Massenstreiks" zu warnen; oder wenn auf der anderen Seite eine larmoyante Entrüstungskampagne von denjenigen inszeniert wird, die sich durch irgendwelche "vertraulichen" Abmachungen des Parteivorstandes mit der Generalkommission der Gewerkschaften um den Ausbruch des Massenstreiks in Deutschland betrogen glauben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.2
+  kind: p
+  original: Käme es auf die zündende "Propaganda" der Revolutionsromantiker oder auf vertrauliche oder öffentliche Beschlüsse der Parteileitungen an, dann hätten wir bis jetzt in Rußland keinen einzigen ernsten Massenstreik.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.3
+  kind: p
+  original: In keinem Lande dachte man -- wie ich bereits im März 1905 in der "Sächs. Arbeiterzeitung" hervorgehoben habe -- so wenig daran, den Massenstreik zu "propagieren" oder selbst zu "diskutieren" wie in Rußland.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.4
+  kind: p
+  original: Und die vereinzelten Beispiele von Beschlüssen und Abmachungen des russischen Parteivorstandes, die wirklich den Massenstreik aus freien Stücken proklamieren sollten, wie z. B. der letzte Versuch im August dieses Jahres nach der Duma-Auflösung, sind fast gänzlich gescheitert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.4.5
+  kind: p
+  original: Wenn uns also die russische Revolution etwas lehrt, so ist es vor allem, daß der Massenstreik nicht künstlich "gemacht", nicht ins Blaue hinein "beschlossen", nicht "propagiert" wird, sondern daß er eine historische Erscheinung ist, die sich in gewissem Moment aus den sozialen Verhältnissen mit geschichtlicher Notwendigkeit ergibt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.5.1
+  kind: p
+  original: 'Nicht durch abstrakte Spekulationen also über die Möglichkeit oder Unmöglichkeit, den Nutzen oder die Schädlichkeit des Massenstreiks, sondern durch die Erforschung derjenigen Momente und derjenigen sozialen Verhältnisse, aus denen der Massenstreik in der gegenwärtigen Phase des Klassenkampfes erwächst, mit anderen Worten: nicht durch subjektive Beurteilung des Massenstreiks vom Standpunkte des Wünschbaren, sondern durch objektive Untersuchung der Quellen des Massenstreiks vom Standpunkte des geschichtlich Notwendigen kann das Problem allein erfaßt und auch diskutiert werden.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.1
+  kind: p
+  original: In der freien Luft der abstrakten logischen Analyse läßt sich die absolute Unmöglichkeit und die sichere Niederlage, sowie die vollkommene Möglichkeit und der zweifellose Sieg des Massenstreiks mit genau derselben Kraft beweisen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.2
+  kind: p
+  original: Und deshalb ist der Wert der Beweisführung in beiden Fällen derselbe, nämlich gar keiner.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.3
+  kind: p
+  original: Daher ist auch insbesondere die Furcht vor dem "Propagieren" des Massenstreiks, die sogar zu förmlichen Bannflüchen gegen die vermeintlichen Schuldigen dieses Verbrechens geführt hat, lediglich das Produkt eines drolligen Quiproquo.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.4
+  kind: p
+  original: Es ist genau so unmöglich, den Massenstreik als abstraktes Kampfmittel zu "propagieren", wie es unmöglich ist, die "Revolution" zu propagieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.6.5
+  kind: p
+  original: '"Revolution" wie "Massenstreik" sind Begriffe, die selbst bloß eine äußere Form des Klassenkampfes bedeuten, die nur im Zusammenhang mit ganz bestimmten politischen Situationen Sinn und Inhalt haben.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.1
+  kind: p
+  original: Wollte es jemand unternehmen, den Massenstreik überhaupt als eine Form der proletarischen Aktion zum Gegenstand einer regelrechten Agitation zu machen, mit dieser "Idee" hausieren zu gehen, um für sie die Arbeiterschaft nach und nach zu gewinnen, so wäre das eine ebenso müßige aber auch ebenso öde und abgeschmackte Beschäftigung, wie wenn jemand die Idee der Revolution oder des Barrikadenkampfes zum Gegenstand einer besonderen Agitation machen wollte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.2
+  kind: p
+  original: Der Massenstreik ist jetzt zum Mittelpunkt des lebhaften Interesses der deutschen und der internationalen Arbeiterschaft geworden, weil er eine neue Kampfform und als solche das sichere Symptom eines tiefgehenden inneren Umschwunges in den Klassenverhältnissen und den Bedingungen des Klassenkampfes bedeutet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.3
+  kind: p
+  original: Es zeugt von dem gesunden revolutionären Instinkt und der lebhaften Intelligenz der deutschen Proletariermasse, daß sie sich -- ungeachtet des hartnäckigen Widerstandes ihrer Gewerkschaftsführer -- mit so warmem Interesse dem neuen Problem zuwendet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.4
+  kind: p
+  original: Allein diesem Interesse, dem edlen intellektuellen Durst und revolutionären Tatendrang der Arbeiter kann man nicht dadurch entsprechen, daß man sie mit abstrakter Hirngymnastik über die Möglichkeit oder Unmöglichkeit des Massenstreiks traktiert, sondern dadurch, daß man ihnen die Entwicklung der russischen Revolution, die internationale Bedeutung dieser Revolution, die Verschärfung der Klassengegensätze in Westeuropa, die weiteren politischen Perspektiven des Klassenkampfes in Deutschland, die Rolle und die Aufgaben der Masse in den kommenden Kämpfen klar macht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.7.5
+  kind: p
+  original: Nur in dieser Form wird die Diskussion über den Massenstreik dazu führen, den geistigen Horizont des Proletariats zu erweitern, sein Klassenbewußtsein zu schärfen, seine Denkweise zu vertiefen und seine Tatkraft zu stählen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.8.1
+  kind: p
+  original: Steht man aber auf diesem Standpunkte, dann erscheint in seiner ganzen Lächerlichkeit auch der Strafprozeß, der von den Gegnern der "Revolutionsromantik" gemacht wird, weil man sich bei der Behandlung des Problems nicht genau an den Wortlaut der Jenaer Resolution halte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.8.2
+  kind: p
+  original: 'Mit dieser Resolution geben sich die "praktischen Politiker" allenfalls noch zufrieden, weil sie den Massenstreik hauptsächlich mit den Schicksalen des allgemeinen Wahlrechts verkoppelt, woraus sie zweierlei folgern zu können glauben: erstens, daß dem Massenstreik ein rein defensiver Charakter bewahrt, zweitens, daß der Massenstreik selbst dem Parlamentarismus untergeordnet, in ein bloßes Anhängsel des Parlamentarismus verwandelt wird.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.8.3
+  kind: p
+  original: Der wahre Kern der Jenaer Resolution liegt aber in dieser Beziehung darin, daß bei der gegenwärtigen Lage in Deutschland ein Attentat der herrschenden Reaktion auf das Reichstagswahlrecht höchst wahrscheinlich das Einleitungsmoment und das Signal zu jener Periode stürmischer politischer Kämpfe abgeben dürfte, in denen der Massenstreik als Kampfmittel in Deutschland wohl zuerst in Anwendung kommen wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.8.4
+  kind: p
+  original: Allein die soziale Tragweite und den geschichtlichen Spielraum des Massenstreiks als Erscheinung und als Problem des Klassenkampfes durch den Wortlaut einer Parteitagsresolution einengen und künstlich abstecken zu wollen, ist ein Unternehmen, das an Kurzsichtigkeit jenem Diskussionsverbot des Kölner Gewerkschaftskongresses gleichkommt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.8.5
+  kind: p
+  original: In der Resolution des Jenaer Parteitages hat die deutsche Sozialdemokratie von dem durch die russische Revolution in den internationalen Bedingungen des proletarischen Klassenkampfes vollzogenen tiefen Umschwung offiziell Akt genommen und ihre revolutionäre Entwicklungsfähigkeit, ihre Anpassungsfähigkeit an die neuen Anforderungen der kommenden Phase der Klassenkämpfe bekundet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.8.6
+  kind: p
+  original: Darin liegt die Bedeutung der Jenaer Resolution.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: II.8.7
+  kind: p
+  original: Was die praktische Anwendung des Massenstreiks in Deutschland betrifft, darüber wird die Geschichte entscheiden, wie sie darüber in Rußland entschieden hat, die Geschichte, in der die Sozialdemokratie mit ihren Entschlüssen allerdings ein wichtiger Faktor, aber bloß ein Faktor unter vielen ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

@@ -1,0 +1,980 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: VIII
+title_original: VIII.
+title_en: Part VIII
+author: Rosa Luxemburg
+date: '1906'
+original_language: de
+anchor_language: de
+source_original: 'Rosa Luxemburg, Massenstreik, Partei und Gewerkschaften (Hamburg: Erdmann Dubber, 1906), public domain; Project Gutenberg ebook 31614'
+source_en: 'None yet: Patrick Lavin''s translation (Detroit 1925) is not on a reachable mirror'
+verses:
+- id: VIII.0.1
+  kind: heading
+  original: VIII.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.1.1
+  kind: p
+  original: Das wichtigste Erfordernis in der früher oder später kommenden Periode der großen Kämpfe, die der deutschen Arbeiterklasse harren, ist, neben der vollen Entschlossenheit und Konsequenz der Taktik, die möglichste Aktionsfähigkeit, also mögliche Einheit des führenden sozialdemokratischen Teils der proletarischen Masse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.1.2
+  kind: p
+  original: 'Indes bereits die ersten schwachen Versuche zur Vorbereitung einer größeren Massenaktion haben sofort einen wichtigen Übelstand in dieser Hinsicht aufgedeckt: die völlige Trennung und Verselbständigung der beiden Organisationen der Arbeiterbewegung, der Sozialdemokratie und der Gewerkschaften.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.2.1
+  kind: p
+  original: Es ist klar aus der näheren Betrachtung der Massenstreiks in Rußland sowie aus den Verhältnissen in Deutschland selbst, daß irgend eine größere Massenaktion, wenn sie sich nicht bloß auf eine einmalige Demonstration beschränken, sondern zu einer wirklichen Kampfaktion werden soll, unmöglich als ein sogenannter politischer Massenstreik gedacht werden kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.2.2
+  kind: p
+  original: Die Gewerkschaften würden an einer solchen Aktion in Deutschland genau so beteiligt sein wie die Sozialdemokratie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.2.3
+  kind: p
+  original: 'Nicht aus dem Grunde, weil, wie die Gewerkschaftsführer sich einbilden, die Sozialdemokratie angesichts ihrer viel geringeren Organisation auf die Mitwirkung der 1¼ Million Gewerkschaftler angewiesen wäre und ohne sie nichts zu stande bringen könnte, sondern aus einem viel tiefer liegenden Grunde: weil jede direkte Massenaktion oder Periode offener Klassenkämpfe zugleich eine politische und ökonomische sein würde.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.2.4
+  kind: p
+  original: Wird es in Deutschland aus irgend einem Anlaß und in irgend einem Zeitpunkt zu großen politischen Kämpfen, zu Massenstreiks kommen, so wird das zugleich eine Ära gewaltiger gewerkschaftlicher Kämpfe in Deutschland eröffnen, wobei die Ereignisse nicht im mindesten danach fragen werden, ob die Gewerkschaftsführer zu der Bewegung ihre Zustimmung gegeben haben oder nicht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.2.5
+  kind: p
+  original: Stehen sie auf der Seite oder suchen sich gar der Bewegung zu widersetzen, so wird der Erfolg dieses Verhaltens nur der sein, daß die Gewerkschaftsführer, genau wie die Parteiführer im analogen Falle, von der Welle der Ereignisse einfach auf die Seite geschoben und die ökonomischen wie die politischen Kämpfe der Masse ohne sie ausgekämpft werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.3.1
+  kind: p
+  original: In der Tat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.3.2
+  kind: p
+  original: Die Trennung zwischen dem politischen und dem ökonomischen Kampf und die Verselbständigung beider ist nichts als ein künstliches, wenn auch geschichtlich bedingtes Produkt der parlamentarischen Periode.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.3.3
+  kind: p
+  original: Einerseits wird hier, bei dem ruhigen, "normalen" Gang der bürgerlichen Gesellschaft, der ökonomische Kampf zersplittert, in eine Vielheit einzelner Kämpfe in jeder Unternehmung, in jedem Produktionszweige aufgelöst.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.3.4
+  kind: p
+  original: Anderseits wird der politische Kampf nicht durch die Masse selbst in einer direkten Aktion geführt, sondern, den Formen des bürgerlichen Staates entsprechend, auf repräsentativem Wege, durch den Druck auf die gesetzgebenden Vertretungen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.3.5
+  kind: p
+  original: Sobald eine Periode revolutionärer Kämpfe eintritt, d. h. sobald die Masse auf dem Kampfplatz erscheint, fallen sowohl die Zersplitterung des ökonomischen Kampfes wie die indirekte parlamentarische Form des politischen Kampfes weg; in einer revolutionären Massenaktion sind politischer und ökonomischer Kampf eins und die künstliche Schranke zwischen Gewerkschaft und Sozialdemokratie als zwei getrennten, ganz selbständigen Formen der Arbeiterbewegung wird einfach weggeschwemmt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.3.6
+  kind: p
+  original: Was aber in der revolutionären Massenbewegung augenfällig zum Ausdruck kommt, trifft auch für die parlamentarische Periode als wirkliche Sachlage zu.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.3.7
+  kind: p
+  original: Es gibt nicht zwei verschiedene Klassenkämpfe der Arbeiterklasse, einen ökonomischen und einen politischen, sondern es gibt nur einen Klassenkampf, der gleichzeitig auf die Einschränkung der kapitalistischen Ausbeutung innerhalb der bürgerlichen Gesellschaft und auf die Abschaffung der Ausbeutung mitsamt der bürgerlichen Gesellschaft gerichtet ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.4.1
+  kind: p
+  original: Wenn sich diese zwei Seiten des Klassenkampfes auch aus technischen Gründen in der parlamentarischen Periode voneinander trennen, so stellen sie doch nicht etwa zwei parallel verlaufende Aktionen, sondern bloß zwei Phasen, zwei Stufen des Emanzipationskampfes der Arbeiterklasse dar.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.4.2
+  kind: p
+  original: Der gewerkschaftliche Kampf umfaßt die Gegenwartsinteressen, der sozialdemokratische Kampf die Zukunftsinteressen der Arbeiterbewegung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.4.3
+  kind: p
+  original: Die Kommunisten, sagt das kommunistische Manifest, vertreten gegenüber verschiedenen Gruppeninteressen (nationalen, lokalen Interessen) der Proletarier die gemeinsamen Interessen des gesamten Proletariats und in den verschiedenen Entwicklungsstufen des Klassenkampfes das Interesse der Gesamtbewegung d. h. die Endziele der Befreiung des Proletariats.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.4.4
+  kind: p
+  original: Die Gewerkschaften vertreten nun die Gruppeninteressen und eine Entwicklungsstufe der Arbeiterbewegung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.4.5
+  kind: p
+  original: Die Sozialdemokratie vertritt die Arbeiterklasse und ihre Befreiungsinteressen im ganzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.4.6
+  kind: p
+  original: Das Verhältnis der Gewerkschaften zur Sozialdemokratie ist demnach das eines Teiles zum Ganzen, und wenn unter den Gewerkschaftsführern die Theorie von der "Gleichberechtigung" der Gewerkschaften und der Sozialdemokratie soviel Anklang findet, so beruht das auf einer gründlichen Verkennung des Wesens selbst der Gewerkschaften und ihrer Rolle im allgemeinen Befreiungskampfe der Arbeiterklasse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.5.1
+  kind: p
+  original: Diese Theorie von der parallelen Aktion der Sozialdemokratie und der Gewerkschaften und von ihrer "Gleichberechtigung" ist jedoch nicht völlig aus der Luft gegriffen, sondern hat ihre geschichtlichen Wurzeln.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.5.2
+  kind: p
+  original: Sie beruht nämlich auf einer Illusion der ruhigen, "normalen" Periode der bürgerlichen Gesellschaft, in der der politische Kampf der Sozialdemokratie in dem parlamentarischen Kampf aufzugehen scheint.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.5.3
+  kind: p
+  original: Der parlamentarische Kampf aber, das ergänzende Gegenstück zum Gewerkschaftskampf, ist ebenso wie dieser ein Kampf ausschließlich auf dem Boden der bürgerlichen Gesellschaftsordnung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.5.4
+  kind: p
+  original: Er ist seiner Natur nach politische Reformarbeit, wie die Gewerkschaften ökonomische Reformarbeit sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.5.5
+  kind: p
+  original: Er stellt politische Gegenwartsarbeit dar, wie die Gewerkschaften ökonomische Gegenwartsarbeit darstellen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.5.6
+  kind: p
+  original: Er ist, wie sie, auch bloß eine Phase, eine Entwicklungsstufe im Ganzen des proletarischen Klassenkampfes, dessen Endziele über den parlamentarischen Kampf wie über den gewerkschaftlichen Kampf in gleichem Maße hinausgehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.5.7
+  kind: p
+  original: Der parlamentarische Kampf verhält sich zur sozialdemokratischen Politik denn auch wie ein Teil zum Ganzen, genau so wie die gewerkschaftliche Arbeit.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.5.8
+  kind: p
+  original: Die Sozialdemokratie ist eben heute die Zusammenfassung sowohl des parlamentarischen wie des gewerkschaftlichen Kampfes in einem auf die Abschaffung der bürgerlichen Gesellschaftsordnung gerichteten Klassenkampf.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.6.1
+  kind: p
+  original: Die Theorie von der "Gleichberechtigung" der Gewerkschaften mit der Sozialdemokratie ist also kein bloßes theoretisches Mißverständnis, keine bloße Verwechslung, sondern sie ist ein Ausdruck der bekannten Tendenz jenes opportunistischen Flügels der Sozialdemokratie, der den politischen Kampf der Arbeiterklasse auch tatsächlich auf den parlamentarischen Kampf reduzieren und die Sozialdemokratie aus einer revolutionären proletarischen in eine kleinbürgerliche Reformpartei umwandeln will.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+  footnotes:
+  - VIII.N4
+- id: VIII.6.2
+  kind: p
+  original: Wollte die Sozialdemokratie die Theorie von der "Gleichberechtigung" der Gewerkschaften akzeptieren, so würde sie damit in indirekter Weise und stillschweigend jene Verwandlung akzeptieren, die von den Vertretern der opportunistischen Richtung längst angestrebt wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.7.1
+  kind: p
+  original: Indes ist in Deutschland eine solche Verschiebung des Verhältnisses innerhalb der Arbeiterbewegung unmöglicher als in irgend einem anderen Lande.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.7.2
+  kind: p
+  original: Das theoretische Verhältnis, wonach Gewerkschaften bloß ein Teil der Sozialdemokratie sind, findet gerade in Deutschland seine klassische Illustration in den Tatsachen, in der lebendigen Praxis, und zwar äußert sich dies nach drei Richtungen hin.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.7.3
+  kind: p
+  original: Erstens sind die deutschen Gewerkschaften direkt ein Produkt der Sozialdemokratie; sie ist es, die die Anfänge der jetzigen Gewerkschaftsbewegung in Deutschland geschaffen hat, sie ist es, die sie großgezogen, sie liefert bis auf heute ihre Leiter und die tätigsten Träger ihrer Organisation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.7.4
+  kind: p
+  original: Zweitens sind die deutschen Gewerkschaften ein Produkt der Sozialdemokratie auch in dem Sinne, daß die sozialdemokratische Lehre die Seele der gewerkschaftlichen Praxis bildet, die Gewerkschaften verdanken ihre Überlegenheit über alle bürgerlichen und konfessionellen Gewerkschaften dem Gedanken des Klassenkampfes; ihre praktischen Erfolge, ihre Macht sind ein Resultat des Umstandes, daß ihre Praxis von der Theorie des wissenschaftlichen Sozialismus erleuchtet und über die Niederungen eines engherzigen Empirismus gehoben ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.7.5
+  kind: p
+  original: Die Stärke der "praktischen Politik" der deutschen Gewerkschaften liegt in ihrer Einsicht in die tieferen sozialen und wirtschaftlichen Zusammenhänge der kapitalistischen Ordnung; diese Einsicht verdanken sie aber niemand anderem, als der Theorie des wissenschaftlichen Sozialismus, auf der sie in ihrer Praxis fußen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.7.6
+  kind: p
+  original: In diesem Sinne ist jenes Suchen nach der Emanzipierung der Gewerkschaften von der sozialdemokratischen Theorie nach einer anderen "gewerkschaftlichen Theorie" im Gegensatz zur Sozialdemokratie vom Standpunkte der Gewerkschaften selbst und ihrer Zukunft nichts anderes, als ein Selbstmordversuch.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.7.7
+  kind: p
+  original: Die Loslösung der gewerkschaftlichen Praxis von der Theorie des wissenschaftlichen Sozialismus würde für die deutschen Gewerkschaften einen sofortigen Verlust der ganzen Überlegenheit gegenüber allen bürgerlichen Gewerkschaftssorten, einen Sturz von ihrer bisherigen Höhe auf das Niveau eines haltlosen Tastens und reinen platten Empirismus bedeuten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.1
+  kind: p
+  original: Endlich aber drittens sind die Gewerkschaften, wovon ihre Führer allmählich das Bewußtsein verloren haben, auch direkt in ihrer zahlenmäßigen Stärke, ein Produkt der sozialdemokratischen Bewegung und der sozialdemokratischen Agitation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.2
+  kind: p
+  original: Gewiß ging und geht die gewerkschaftliche Agitation in manchen Gegenden der sozialdemokratischen voran und überall ebnet die gewerkschaftliche Arbeit auch der Parteiarbeit die Wege.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.3
+  kind: p
+  original: Vom Standpunkte ihrer Wirkung arbeiten Partei und Gewerkschaften einander völlig in die Hand.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.4
+  kind: p
+  original: Allein, wenn man das Bild des Klassenkampfes in Deutschland im ganzen und in seinen tiefer liegenden Zusammenhängen überblickt, so verschiebt sich das Verhältnis erheblich.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.5
+  kind: p
+  original: Manche Gewerkschaftsleiter pflegen gern mit einigem Triumph von der stolzen Höhe ihrer 1¼ Millionen Mitglieder auf die armselige, noch nicht volle halbe Million der organisierten Mitglieder der Sozialdemokratie herabzublicken und sie an jene Zeiten vor 10 bis 12 Jahren zu erinnern, wo man in den Reihen der Sozialdemokratie über die Perspektiven der gewerkschaftlichen Entwicklung noch pessimistisch dachte.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.6
+  kind: p
+  original: 'Sie bemerken gar nicht, dass zwischen diesen zwei Tatsachen: der hohen Ziffer der Gewerkschaftsmitglieder und der niedrigen Ziffer der sozialdemokratisch Organisierten in gewissem Maße ein direkter kausaler Zusammenhang besteht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.7
+  kind: p
+  original: Tausende und Abertausende von Arbeitern treten den Parteiorganisationen nicht bei, eben weil sie in die Gewerkschaften eintreten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.8
+  kind: p
+  original: 'Der Theorie nach müßten alle Arbeiter zweifach organisiert sein: zweierlei Versammlungen besuchen, zweifache Beiträge zahlen, zweierlei Arbeiterblätter lesen usw.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.9
+  kind: p
+  original: Um dies jedoch zu tun, dazu gehört schon ein hoher Grad der Intelligenz und jener Idealismus, der aus reinem Pflichtgefühl gegenüber der Arbeiterbewegung tägliche Opfer an Zeit und Geld nicht scheut, endlich auch jenes leidenschaftliche Interesse für das eigentliche Parteileben, das nur durch die Zugehörigkeit zur Parteiorganisation befriedigt werden kann.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.10
+  kind: p
+  original: All das trifft bei der aufgeklärtesten und intelligentesten Minderheit der sozialdemokratischen Arbeiterschaft in den Großstädten zu, wo das Parteileben ein inhaltreiches und anziehendes, wo die Lebenshaltung der Arbeiter eine höhere ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.8.11
+  kind: p
+  original: Bei den breiteren Schichten der großstädtischen Arbeitermasse aber, sowie in der Provinz, in den kleineren und kleinsten Nestern, wo das lokale politische Leben ein unselbständiges, ein bloßer Reflex der hauptstädtischen Vorgänge, wo das Parteileben folglich auch ein armes und monotones ist, wo endlich die wirtschaftliche Lebenshaltung des Arbeiters meistens eine sehr kümmerliche, da ist das doppelte Organisationsverhältnis sehr schwer durchzuführen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.9.1
+  kind: p
+  original: Für den sozialdemokratisch gesinnten Arbeiter aus der Masse wird dann die Frage von selbst in der Weise gelöst, daß er eben seiner Gewerkschaft beitritt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.9.2
+  kind: p
+  original: Den unmittelbaren Interessen seines wirtschaftlichen Kampfes kann er nämlich, was durch die Natur dieses Kampfes selbst bedingt ist, nicht anders genügen, als durch den Beitritt zu einer Berufsorganisation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.9.3
+  kind: p
+  original: Der Beitrag, den er hier vielfach unter bedeutenden Opfern seiner Lebenshaltung zahlt, bringt ihm unmittelbaren, sichtlichen Nutzen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.9.4
+  kind: p
+  original: 'Seine sozialdemokratische Gesinnung aber vermag er auch ohne Zugehörigkeit zu einer speziellen Parteiorganisation zu betätigen: durch Stimmabgabe bei den Parlamentswahlen, durch den Besuch sozialdemokratischer Volksversammlungen, durch das Verfolgen der Berichte über sozialdemokratische Reden in den Vertretungskörpern, durch das Lesen der Parteipresse -- man vergleiche zum Beispiel die Zahl der sozialdemokratischen Wähler sowie die Abonnentenzahl des "Vorwärts" mit der Zahl der organisierten Parteimitglieder in Berlin.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.9.5
+  kind: p
+  original: 'Und, was das Ausschlaggebende ist: der sozialdemokratisch gesinnte durchschnittliche Arbeiter aus der Masse, der als einfacher Mann kein Verständnis für die komplizierte und feine sogenannte "Zweiseelentheorie" haben kann, fühlt sich eben auch in der Gewerkschaft sozialdemokratisch organisiert.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.9.6
+  kind: p
+  original: 'Tragen die Zentralverbände auch kein offizielles Parteischild, so sieht doch der Arbeitsmann aus der Masse in jeder Stadt und jedem Städtchen an der Spitze seiner Gewerkschaft als die tätigsten Leiter diejenigen Kollegen, die er auch als Genossen, als Sozialdemokraten aus dem öffentlichen Leben kennt: bald als sozialdemokratische Reichstags-, Landtags- oder Gemeindeabgeordnete, bald als sozialdemokratische Vertrauensmänner, Wahlvereinsvorstände, Parteiredakteure, Parteisekretäre, oder einfach als Redner und Agitatoren.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.9.7
+  kind: p
+  original: Er hört ferner in der Agitation in seiner Gewerkschaft meistens dieselben ihm lieb und verständlich gewordenen Gedanken über die kapitalistische Ausbeutung, über Klassenverhältnisse, die er auch aus der sozialdemokratischen Agitation kennt; ja die meisten und beliebtesten Redner in den Gewerkschaftsversammlungen sind eben bekannte Sozialdemokraten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.10.1
+  kind: p
+  original: So wirkt alles dahin, dem klassenbewußten Durchschnittsarbeiter das Gefühl zu geben, daß er, indem er sich gewerkschaftlich organisiert, dadurch auch seiner Arbeiterpartei angehört, sozialdemokratisch organisiert ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.10.2
+  kind: p
+  original: Und darin liegt eben die eigentliche Werbekraft der deutschen Gewerkschaften.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.10.3
+  kind: p
+  original: Nicht dank dem Schein der Neutralität, sondern dank der sozialdemokratischen Wirklichkeit ihres Wesens, haben es die Zentralverbände vermocht, ihre heutige Stärke zu erreichen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.10.4
+  kind: p
+  original: 'Dies ist einfach durch dieselbe Mitexistenz verschiedener bürgerlich-parteilicher: katholischer, Hirsch-Dunckerscher &c. Gewerkschaften begründet, durch die man eben die Notwendigkeit jener politischen "Neutralität" zu begründen sucht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.10.5
+  kind: p
+  original: Wenn der deutsche Arbeiter, der die volle freie Wahl hat, sich einer christlichen, katholischen, evangelischen oder freisinnigen Gewerkschaft anzuschließen, keine von diesen, sondern die "freie Gewerkschaft" wählt, oder gar aus jenen in diese übertritt, so tut er dies nur, weil er die Zentralverbände als ausgesprochene Organisationen des modernen Klassenkampfes, oder, was in Deutschland dasselbe, als sozialdemokratische Gewerkschaften auffaßt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.10.6
+  kind: p
+  original: 'Kurz: der Schein der "Neutralität", der für manche Gewerkschaftsführer existiert, besteht für die Masse der gewerkschaftlich Organisierten nicht.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.10.7
+  kind: p
+  original: Und dies ist das ganze Glück der Gewerkschaftsbewegung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.10.8
+  kind: p
+  original: Sollte jener Schein der "Neutralität", jene Entfremdung und Loslösung der Gewerkschaften von der Sozialdemokratie zur Wahrheit und namentlich in den Augen der proletarischen Masse zur Wirklichkeit werden, dann würden die Gewerkschaften sofort ihren ganzen Vorzug gegenüber den bürgerlichen Konkurrenzverbänden und damit auch ihre Werbekraft, ihr belebendes Feuer, verlieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.10.9
+  kind: p
+  original: Das Gesagte wird durch allgemein bekannte Tatsachen schlagend bewiesen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.10.10
+  kind: p
+  original: Der Schein der partei-politischen "Neutralität" der Gewerkschaften konnte nämlich als Anziehungsmittel hervorragende Dienste leisten in einem Lande, wo die Sozialdemokratie selbst keinen Kredit bei den Massen besitzt, wo ihr Odium einer Arbeiterorganisation in den Augen der Masse noch eher schadet als nützt, wo mit einem Wort die Gewerkschaften ihre Truppen erst aus einer ganz unaufgeklärten, bürgerlich gesinnten Masse selbst rekrutieren müssen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.11.1
+  kind: p
+  original: Das Muster eines solchen Landes war das ganze vorige Jahrhundert hindurch und ist auch heute noch in gewissem Maße -- England.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.11.2
+  kind: p
+  original: In Deutschland jedoch liegen die Parteiverhältnisse ganz anders.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.11.3
+  kind: p
+  original: In einem Lande, wo die Sozialdemokratie die mächtigste politische Partei ist, wo ihre Werbekraft durch ein Heer von über drei Millionen Proletariern dargestellt wird, da ist es lächerlich, von dem abschreckenden Odium der Sozialdemokratie zu sprechen und von bei Notwendigkeit einer Kampforganisation der Arbeiter, die politische Neutralität zu wahren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.11.4
+  kind: p
+  original: Die bloße Zusammenstellung der Ziffer der sozialdemokratischen Wähler mit den Ziffern der gewerkschaftlichen Organisationen in Deutschland genügt, um für jedes Kind klar zu machen, daß die deutschen Gewerkschaften ihre Truppen nicht, wie in England, aus der unaufgeklärten bürgerlich gesinnten Masse, sondern aus der Masse der bereits durch die Sozialdemokratie aufgerüttelten und für den Gedanken des Klassenkampfes gewonnenen Proletarier, aus der sozialdemokratischen Wählermasse werben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.11.5
+  kind: p
+  original: Manche Gewerkschaftsführer weisen mit Entrüstung -- dies ein Requisit der "Neutralitätstheorie" -- den Gedanken von sich, die Gewerkschaften als Rekrutenschule für die Sozialdemokratie zu betrachten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.11.6
+  kind: p
+  original: Tatsächlich ist diese ihnen so beleidigend erscheinende, in Wirklichkeit höchst schmeichelhafte Zumutung in Deutschland durch den einfachen Umstand zur Phantasie gemacht, weil die Verhältnisse meistens umgekehrt liegen; es ist die Sozialdemokratie, die in Deutschland die Rekrutenschule für die Gewerkschaften bildet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.11.7
+  kind: p
+  original: Wenn auch das Organisationswerk der Gewerkschaften meistens noch ein sehr schweres und mühseliges ist, so ist, abgesehen von manchen Gegenden und Fällen, im großen und ganzen nicht bloß der Boden bereits durch den sozialdemokratischen Pflug urbar gemacht worden, sondern die gewerkschaftliche Saat selbst und endlich der Säemann müssen auch noch "rot", sozialdemokratisch sein, damit die Ernte gedeiht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.11.8
+  kind: p
+  original: Wenn wir aber auf diese Weise die gewerkschaftlichen Stärkezahlen nicht mit den sozialdemokratischen Organisationen, sondern, was das einzig richtige ist, mit der sozialdemokratischen Wählermasse vergleichen, so kommen wir zu einem Schluß, der von der landläufigen Vorstellung in dieser Hinsicht bedeutend abweicht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.11.9
+  kind: p
+  original: Es stellt sich nämlich heraus, daß die "freien Gewerkschaften" heute tatsächlich noch die Minderheit der klassenbewußten Arbeiterschaft Deutschlands darstellen, haben sie doch mit ihrer 1¼ Million Organisierter noch nicht die Hälfte der von der Sozialdemokratie aufgerüttelten Masse ausschöpfen können.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.12.1
+  kind: p
+  original: Der wichtigste Schluß aus den angeführten Tatsachen ist der, daß die für die kommenden Massenkämpfe in Deutschland unbedingt notwendige völlige Einheit der gewerkschaftlichen und der sozialdemokratischen Arbeiterbewegung tatsächlich vorhanden ist, und zwar ist sie verkörpert in der breiten Masse, die gleichzeitig die Basis der Sozialdemokratie wie der Gewerkschaften bildet und in deren Bewußtsein beide Seiten der Bewegung zu einer geistigen Einheit verschmolzen sind.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.12.2
+  kind: p
+  original: Der angebliche Gegensatz zwischen Sozialdemokratie und Gewerkschaften schrumpft bei dieser Sachlage zu einem Gegensatz zwischen der Sozialdemokratie und einem gewissen Teil der Gewerkschaftsbeamten zusammen, der aber zugleich ein Gegensatz innerhalb der Gewerkschaften zwischen diesem Teil der Gewerkschaftsführer und der gewerkschaftlich organisierten proletarischen Masse ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.13.1
+  kind: p
+  original: Das starke Wachstum der Gewerkschaftsbewegung in Deutschland im Laufe der letzten 15 Jahre, besonders in der Periode der wirtschaftlichen Hochkonjunktur 1895-1900, hat von selbst eine große Verselbständigung der Gewerkschaften, eine Spezialisierung ihrer Kampfmethoden und ihrer Leitung und endlich das Aufkommen eines regelrechten gewerkschaftlichen Beamtenstandes mit sich gebracht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.13.2
+  kind: p
+  original: All diese Erscheinungen sind ein vollkommen erklärliches und natürliches geschichtliches Produkt des fünfzehnjährigen Wachstums der Gewerkschaften, ein Produkt der wirtschaftlichen Prosperität und der politischen Windstille in Deutschland.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.13.3
+  kind: p
+  original: Sie sind, wenn auch von gewissen Übelständen unzertrennlich, doch zweifellos ein historisch notwendiges Übel.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.13.4
+  kind: p
+  original: Allein die Dialektik der Entwicklung bringt es eben mit sich, daß diese notwendigen Förderungsmittel des gewerkschaftlichen Wachstums auf einer gewissen Höhe der Organisation und bei einem gewissen Reifegrad der Verhältnisse in ihr Gegenteil, in Hemmnisse des weiteren Wachstums umschlagen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.1
+  kind: p
+  original: Die Spezialisierung ihrer Berufstätigkeit als gewerkschaftlicher Leiter sowie der naturgemäß enge Gesichtskreis, der mit den zersplitterten ökonomischen Kämpfen in einer ruhigen Periode verbunden ist, führen bei den Gewerkschaftsbeamten nur zu leicht zum Bureaukratismus und zu einer gewissen Enge der Auffassung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.2
+  kind: p
+  original: Beides äußert sich aber in einer ganzen Reihe von Tendenzen, die für die Zukunft der gewerkschaftlichen Bewegung selbst höchst verhängnisvoll werden könnten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.3
+  kind: p
+  original: Dahin gehört vor allem die Überschätzung der Organisation, die aus einem Mittel zum Zweck allmählich in einen Selbstzweck, in ein höchstes Gut verwandelt wird, dem die Interessen des Kampfes untergeordnet werden sollen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.4
+  kind: p
+  original: Daraus erklärt sich auch jenes offen zugestandene Ruhebedürfnis, das vor einem größeren Risiko und vor vermeintlichen Gefahren für den Bestand der Gewerkschaften, vor der Ungewißheit größerer Massenaktionen zurückschreckt, ferner die Überschätzung der gewerkschaftlichen Kampfesweise selbst, ihrer Aussichten und ihrer Erfolge.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.5
+  kind: p
+  original: Die beständig von dem ökonomischen Kleinkrieg absorbierten Gewerkschaftsleiter, die es zur Aufgabe haben, den Arbeitermassen den hohen Wert jeder noch so geringen ökonomischen Errungenschaft, jeder Lohnerhöhung oder Verkürzung der Arbeitszeit plausibel zu machen, kommen allmählich dahin, daß sie selbst die größeren Zusammenhänge und den Überblick über die Gesamtlage verlieren.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.6
+  kind: p
+  original: 'Nur dadurch kann erklärt werden, daß manche Gewerkschaftsführer z. B. mit so großer Genugtuung auf die Errungenschaften der letzten 15 Jahre, auf die Millionen Mark Lohnerhöhungen hinweisen, anstatt umgekehrt den Nachdruck auf die andere Seite der Medaille zu legen: auf die gleichzeitig stattgefundene ungeheure Herabdrückung der proletarischen Lebenshaltung durch den Brotwucher, durch die gesamte Steuer- und Zollpolitik, durch den Bodenwucher, der die Wohnungsmieten in so exorbitanter Weise in die Höhe getrieben hat, mit einem Wort, auf all die objektiven Tendenzen der bürgerlichen Politik, die jene Errungenschaften der 15jährigen gewerkschaftlichen Kämpfe zu einem großen Teil wieder wett machen.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.7
+  kind: p
+  original: Aus der ganzen sozialdemokratischen Wahrheit, die neben der Betonung der Gegenwartsarbeit und ihrer absoluten Notwendigkeit das Hauptgewicht auf die Kritik und die Schranken dieser Arbeit legt, wird so die halbe gewerkschaftliche Wahrheit zurechtgestutzt, die nur das Positive des Tageskampfes hervorhebt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.8
+  kind: p
+  original: Und schließlich wird aus dem Verschweigen der dem gewerkschaftlichen Kampfe gezogenen objektiven Schranken der bürgerlichen Gesellschaftsordnung eine direkte Feindseligkeit gegen jede theoretische Kritik, die auf diese Schranken im Zusammenhang mit den Endzielen der Arbeiterbewegung hinweist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.9
+  kind: p
+  original: Die unbedingte Lobhudelei, der grenzenlose Optimismus werden zur Pflicht jedes "Freundes der Gewerkschaftsbewegung" gemacht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.10
+  kind: p
+  original: 'Da aber der sozialdemokratische Standpunkt gerade in der Bekämpfung des kritiklosen gewerkschaftlichen Optimismus, ganz wie in der Bekämpfung des kritiklosen parlamentarischen Optimismus besteht, so wird schließlich gegen die sozialdemokratische Theorie selbst Front gemacht: man sucht tastend nach einer "neuen gewerkschaftlichen Theorie", d. h. nach einer Theorie, die den gewerkschaftlichen Kämpfen im Gegensatz zur sozialdemokratischen Lehre auf dem Boden der kapitalistischen Ordnung ganz unbeschränkte Perspektiven des wirtschaftlichen Aufstiegs eröffnen wurde.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.11
+  kind: p
+  original: 'Eine solche Theorie existiert freilich schon seit geraumer Zeit: es ist dies die Theorie von Prof.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.14.12
+  kind: p
+  original: Sombart, die ausdrücklich mit der Absicht aufgestellt wurde, einen Keil zwischen die Gewerkschaften und die Sozialdemokratie in Deutschland zu treiben und die Gewerkschaften auf bürgerlichen Boden hinüberzulocken.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.1
+  kind: p
+  original: Im engen Zusammenhang mit diesen theoretischen Tendenzen steht ein Umschwung im Verhältnis der Führer zur Masse.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.2
+  kind: p
+  original: An Stelle der kollegialen Leitung durch lokale Kommissionen mit ihren zweifellosen Unzulänglichkeiten tritt die geschäftsmäßige Leitung des Gewerkschaftsbeamten.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.3
+  kind: p
+  original: Die Initiative und die Urteilsfähigkeit werden damit sozusagen zu seiner Berufsspezialität, während der Masse hauptsächlich die mehr passive Tugend der Disziplin obliegt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.4
+  kind: p
+  original: Diese Schattenseiten des Beamtentums bergen sicherlich auch für die Partei bedeutende Gefahren in sich, die sich aus der jüngsten Steuerung, aus der Anstellung der lokalen Parteisekretäre, seht leicht ergeben können, wenn die sozialdemokratische Masse nicht darauf bedacht sein wird, daß die genannten Sekretäre reine Vollziehungsorgane bleiben und nicht etwa als die berufenen Träger der Initiative und der Leitung des lokalen Parteilebens betrachtet werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.5
+  kind: p
+  original: Allein dem Bureaukratismus sind in der Sozialdemokratie durch die Natur der Sache, durch den Charakter des politischen Kampfes selbst engere Grenzen gezogen, als im Gewerkschaftsleben.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.6
+  kind: p
+  original: Hier bringt gerade die technische Spezialisierung der Lohnkämpfe, z. B. der Abschluß von komplizierten Tarifverträgen und dergleichen, mit sich, daß der Masse der Organisierten häufig der "Überblick über das gesamte Gewerbsleben" abgesprochen und damit ihre Urteilsunfähigkeit begründet wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.7
+  kind: p
+  original: Eine Blüte dieser Auffassung ist namentlich auch die Argumentation, mit der jede theoretische Kritik an den Aussichten und Möglichkeiten der Gewerkschaftspraxis verpönt wird, weil sie angeblich eine Gefahr für die gewerkschaftsfromme Gesinnung der Masse darstelle.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.8
+  kind: p
+  original: Es wird dabei von der Ansicht ausgegangen, daß die Arbeitermasse nur bei blindem, kindlichen Glauben an das Heil des Gewerkschaftskampfes für die Organisation gewonnen und erhalten werden könne.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.9
+  kind: p
+  original: Im Gegensatz zur Sozialdemokratie, die gerade auf der Einsicht der Masse in die Widersprüche der bestehenden Ordnung und in die ganze komplizierte Natur ihrer Entwicklung, auf dem kritischen Verhalten der Masse zu allen Momenten und Stadien des eigenen Klassenkampfes ihren Einfluß basiert, wird der Einfluß und die Macht der Gewerkschaften nach dieser verkehrten Theorie auf der Kritik- und Urteilslosigkeit der Masse gegründet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.10
+  kind: p
+  original: '"Dem Volke muß der Glaube erhalten werden" -- dies der Grundsatz, aus dem heraus manche Gewerkschaftsbeamten alle Kritik an den objektiven Unzulänglichkeiten der Gewerkschaftsbewegung zu einem Attentat auf diese Bewegung selbst stempeln.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.11
+  kind: p
+  original: Und endlich ein Resultat dieser Spezialisierung und dieses Bureaukratismus unter den Gewerkschaftsbeamten ist auch die starke Verselbständigung und die "Neutralität" der Gewerkschaften gegenüber der Sozialdemokratie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.12
+  kind: p
+  original: Die äußere Selbständigkeit der gewerkschaftlichen Organisation hat sich mit ihrem Wachstum als eine natürliche Bedingung ergeben, als ein Verhältnis, das aus der technischen Arbeitsteilung zwischen der politischen und der gewerkschaftlichen Kampfform erwächst.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.13
+  kind: p
+  original: Die "Neutralität" der deutschen Gewerkschaften kam ihrerseits als ein Produkt der reaktionären Vereinsgesetzgebung, des preußisch-deutschen Polizeistaates auf.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.14
+  kind: p
+  original: Mit der Zeit haben beide Verhältnisse ihre Natur geändert.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.15
+  kind: p
+  original: Aus dem polizeilich erzwungenen Zustand der politischen "Neutralität" der Gewerkschaften ist nachträglich eine Theorie ihrer freiwilligen Neutralität als einer angeblich in der Natur des Gewerkschaftskampfes selbst begründeten Notwendigkeit zurechtgemacht worden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.15.16
+  kind: p
+  original: Und die technische Selbständigkeit der Gewerkschaften, die auf praktischer Arbeitsteilung innerhalb des einheitlichen sozialdemokratischen Klassenkampfes beruhen sollte, ist in die Lostrennung der Gewerkschaften von der Sozialdemokratie, von ihren Ansichten und von ihrer Führung, in die sogenannte "Gleichberechtigung" mit der Sozialdemokratie umgewandelt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.16.1
+  kind: p
+  original: Dieser Schein der Lostrennung und der Gleichstellung der Gewerkschaften mit der Sozialdemokratie wird aber hauptsächlich in den Gewerkschaftsbeamten verkörpert, durch den Verwaltungsapparat der Gewerkschaften genährt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.16.2
+  kind: p
+  original: Äußerlich ist durch die Nebenexistenz eines ganzen Stabes von Gewerkschaftsbeamten, einer gänzlich unabhängigen Zentrale, einer zahlreichen Berufspresse und endlich der gewerkschaftlichen Kongresse der Schein einer völligen Parallelität mit dem Verwaltungsapparat der Sozialdemokratie, dem Parteivorstand, der Parteipresse und den Parteitagen geschaffen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.16.3
+  kind: p
+  original: Diese Illusion der Gleichstellung zwischen Sozialdemokratie und Gewerkschaften hat auch u. a. zu der monströsen Erscheinung geführt, daß auf den sozialdemokratischen Parteitagen und den gewerkschaftlichen Kongressen zum Teil ganz analoge Tagesordnungen behandelt und zu derselben Frage verschiedene, ja, direkt entgegengesetzte Beschlüsse gefaßt werden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.16.4
+  kind: p
+  original: Aus der natürlichen Arbeitsteilung zwischen dem Parteitag, der die allgemeinen Interessen und Aufgaben der Arbeiterbewegung vertritt, und den Gewerkschaftskonferenzen, die das viel engere Gebiet der speziellen Fragen und Interessen des beruflichen Tageskampfes behandeln, ist der künstliche Zwiespalt zwischen einer angeblichen gewerkschaftlichen und einer sozialdemokratischen Weltanschauung in bezug auf dieselben allgemeinen Fragen und Interessen der Arbeiterbewegung konstruiert worden.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.17.1
+  kind: p
+  original: So hat sich der eigenartige Zustand herausgebildet, daß dieselbe Gewerkschaftsbewegung, die mit der Sozialdemokratie unten, in der breiten proletarischen Masse, vollständig eins ist, oben, in dem Verwaltungsüberbau, von der Sozialdemokratie schroff abspringt und sich ihr gegenüber als eine unabhängige zweite Großmacht aufrichtet.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.17.2
+  kind: p
+  original: Die deutsche Arbeiterbewegung bekommt dadurch die eigentümliche Form einer Doppelpyramide, deren Basis und Körper aus einem Massiv besteht, deren beide Spitzen aber weit auseinanderstehen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.18.1
+  kind: p
+  original: Es ist aus dem Dargelegten klar, auf welchem Wege allein in natürlicher und erfolgreicher Weise jene kompakte Einheit der deutschen Arbeiterbewegung geschaffen werden kann, die im Hinblick auf die kommenden politischen Klassenkämpfe, sowie im eigenen Interesse der weiteren Entwicklung der Gewerkschaften, unbedingt notwendig ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.18.2
+  kind: p
+  original: Nichts wäre verkehrter und hoffnungsloser, als die erstrebte Einheit auf dem Wege sporadischer oder periodischer Verhandlungen über Einzelfragen der Arbeiterbewegung zwischen der sozialdemokratischen Parteileitung und der gewerkschaftlichen Zentrale herstellen zu wollen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.18.3
+  kind: p
+  original: Gerade die obersten Organisationsspitzen der beiden Formen der Arbeiterbewegung verkörpern, wie wir gesehen, ihre Trennung und Verselbständigung in sich, sind also selbst Träger der Illusion von der "Gleichberechtigung" und der Parallelexistenz der Sozialdemokratie und der Gewerkschaften.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.18.4
+  kind: p
+  original: Die Einheit der beiden durch die Verbindung des Parteivorstandes und der Generalkommission herstellen wollen, hieße eine Brücke gerade dort bauen, wo der Abstand am weitesten und der Übergang am schwersten ist.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.18.5
+  kind: p
+  original: Nicht oben, in den Spitzen der Organisationsleitungen und ihrem föderativen Bündnis, sondern unten in der organisierten proletarischen Masse liegt die Gewähr für die wirkliche Einheit der Arbeiterbewegung.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.18.6
+  kind: p
+  original: Im Bewußtsein der Million Gewerkschaftsmitglieder sind Partei und Gewerkschaften tatsächlich Eins, sie sind nämlich der sozialdemokratische Emanzipationskampf des Proletariats in verschiedenen Formen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.18.7
+  kind: p
+  original: Und daraus ergibt sich auch von selbst die Notwendigkeit, zur Beseitigung jener Reibungen, die sich zwischen der Sozialdemokratie und einem Teil der Gewerkschaften ergeben haben, ihr gegenseitiges Verhältnis dem Bewußtsein der proletarischen Masse anzupassen, d. h. die Gewerkschaften der Sozialdemokratie wieder anzugliedern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.18.8
+  kind: p
+  original: Es wird damit nur die Synthese der tatsächlichen Entwicklung zum Ausdruck gebracht, die es von der ursprünglichen Inkorporation der Gewerkschaften zu ihrer Ablösung von der Sozialdemokratie geführt hatte, um nachher durch die Periode des starken Wachstums sowohl der Gewerkschaften wie der Sozialdemokratie die kommende Periode großer proletarischer Massenkämpfe vorzubereiten, damit aber die Wiedervereinigung der Sozialdemokratie und der Gewerkschaften im Interesse beider zur Notwendigkeit zu machen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.19.1
+  kind: p
+  original: Es handelt sich dabei selbstverständlich nicht etwa um die Auflösung des jetzigen gewerkschaftlichen Aufbaues in der Partei, sondern es handelt sich um die Herstellung jenes natürlichen Verhältnisses zwischen der Leitung der Sozialdemokratie und der Gewerkschaften, zwischen Parteitagen und Gewerkschaftskongressen, die dem tatsächlichen Verhältnis zwischen der Arbeiterbewegung im ganzen und ihrer gewerkschaftlichen Teilerscheinung entspricht.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.19.2
+  kind: p
+  original: Ein solcher Umschwung wird, wie es nicht anders gehen kann, eine heftige Opposition eines Teils der Gewerkschaftsführer hervorrufen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.19.3
+  kind: p
+  original: Allein es ist hohe Zeit, daß die sozialdemokratische Arbeitermasse lernt, ihre Urteilsfähigkeit und Aktionsfähigkeit zum Ausdruck zu bringen, und damit ihre Reife für jene Zeiten großer Kämpfe und großer Aufgaben darzutun, in denen sie, die Masse, der handelnde Chorus, die Leitungen nur die "sprechenden Personen", d. h., die Dolmetscher des Massenwillens sein sollen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.20.1
+  kind: p
+  original: Die Gewerkschaftsbewegung ist nicht das, was sich in den vollkommen erklärlichen, aber irrtümlichen Illusionen einer Minderheit der Gewerkschaftsführer spiegelt, sondern das, was im Bewußtsein der großen Masse der für den Klassenkampf gewonnenen Proletarier lebt.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.20.2
+  kind: p
+  original: In diesem Bewußtsein ist die Gewerkschaftsbewegung ein Stück der Sozialdemokratie.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.20.3
+  kind: p
+  original: '"Und was sie ist, das wage sie zu scheinen."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.N4.1.1
+  kind: note
+  original: Da das Vorhandensein einer solchen Tendenz innerhalb der deutschen Sozialdemokratie gewöhnlich geleugnet wird, so muß man die Offenherzigkeit begrüßen, mit der die opportunistische Richtung neulich ihre eigentlichen Ziele und Wünsche formuliert hat.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.N4.1.2
+  kind: note
+  original: 'In einer Parteiversammlung in Mainz am 10. September d. J. wurde folgende von Dr. David vorgelegte Resolution angenommen:'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.N4.2.1
+  kind: note
+  original: '"In der Erwägung, daß die sozialdemokratische Partei den Begriff "Revolution" nicht im Sinne des gewaltsamen Umsturzes, sondern im friedlichen Sinne der Entwicklung, d. h. der allmählichen Durchsetzung eines neuen Wirtschaftsprinzips, auffaßt, lehnt die Mainzer öffentliche Parteiversammlung jede "Revolutionsromantik" ab.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.N4.3.1
+  kind: note
+  original: '"Die Versammlung sieht in der Eroberung der politischen Macht nichts anderes als die Eroberung der Mehrheit des Volkes für die Ideen und Forderungen der Sozialdemokratie; eine Eroberung, die nicht geschehen kann mit gewaltsamen Mitteln, sondern nur durch die Revolutionierung der Köpfe auf dem Wege der geistigen Propaganda und der praktischen Reformarbeit auf allen Gebieten des politischen, wirtschaftlichen und sozialen Lebens.'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.N4.4.1
+  kind: note
+  original: In der Überzeugung, daß die Sozialdemokratie weit besser gedeiht bei den gesetzlichen Mitteln als bei den ungesetzlichen und dem Umsturz, lehnt die Versammlung die "direkte Massenaktion" als taktisches Prinzip ab und hält an dem Prinzip der parlamentarischen Reformation fest, d. h., sie wünscht, daß die Partei nach wie vor ernstlich bemüht ist, auf dem Wege der Gesetzgebung und der organischen Entwicklung allmählich unsere Ziele zu erreichen.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.N4.5.1
+  kind: note
+  original: Die fundamentale Voraussetzung dieser reformatorischen Kampfesmethode ist freilich, daß die Möglichkeit der Anteilnahme der besitzlosen Volksmasse an der Gesetzgebung im Reiche und in den Einzelstaaten nicht verkürzt, sondern bis zur vollen Gleichberechtigung erneuert wird.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.N4.5.2
+  kind: note
+  original: Aus diesem Grunde hält es die Versammlung für ein unbestreitbares Recht der Arbeiterschaft, zur Abwehr von Attentaten auf ihre gesetzlichen Rechte sowie zur Erringung weiterer Rechte, wenn alle anderen Mittel versagen, auch die Arbeit für kürzere oder längere Dauer zu verweigern.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.N4.6.1
+  kind: note
+  original: Da der politische Massenstreik aber nur dann siegreich für die Arbeiterschaft durchgeführt werden kann, wenn er sich in streng gesetzlichen Bahnen hält und seitens der Streikenden kein berechtigter Anlaß zum Eingreifen der bewaffneten Macht geboten wird, so erblickt die Versammlung die einzig notwendige und wirksame Vorbereitung auf den Gebrauch dieses Kampfmittels in dem weiteren Ausbau der politischen, gewerkschaftlichen und genossenschaftlichen Organisation.
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: VIII.N4.6.2
+  kind: note
+  original: 'Denn nur dadurch können die Voraussetzungen in der breiten Volksmasse geschaffen werden, die den erfolgreichen Verlauf eines Massenstreiks garantieren: zielbewußte Disziplin und einen geeigneten wirtschaftlichen Rückhalt."'
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

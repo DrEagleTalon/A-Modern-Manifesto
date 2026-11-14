@@ -1,0 +1,26 @@
+# Master file. Edit the `modern` and `notes` fields; see CONTRIBUTING.md.
+# Verse ids are frozen. Never renumber; see VERSIFICATION.md.
+section: '0'
+title_original: Massenstreik, Partei und Gewerkschaften
+title_en: The Mass Strike, the Political Party and the Trade Unions
+author: Rosa Luxemburg
+date: '1906'
+original_language: de
+anchor_language: de
+source_original: 'Rosa Luxemburg, Massenstreik, Partei und Gewerkschaften (Hamburg: Erdmann Dubber, 1906), public domain; Project Gutenberg ebook 31614'
+source_en: 'None yet: Patrick Lavin''s translation (Detroit 1925) is not on a reachable mirror'
+verses:
+- id: 0.0.1
+  kind: heading
+  original: Massenstreik, Partei und Gewerkschaften
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''
+- id: 0.1.1
+  kind: heading
+  original: Im Auftrage des Vorstandes der sozialdemokratischen Landesorganisation Hamburgs und der Vorstände der sozialdemokratischen Vereine von Altona, Ottensen und Wandsbek
+  en: ''
+  modern: ''
+  modern_status: empty
+  notes: ''

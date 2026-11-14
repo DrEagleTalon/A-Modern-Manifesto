@@ -279,8 +279,10 @@
   original_language: de
   tier: B
   priority: 21
-  stage: planned
-  notes: German original and the 1925 Lavin English still to locate.
+  stage: ready
+  sources:
+    original: ["gutenberg:Massenstreik-Partei-und-Gewerkschaften_31614"]
+  notes: "German only, from the first edition (Hamburg 1906) as transcribed by Project Gutenberg. Patrick Lavin's English (Detroit 1925) is public domain in the US but not on a reachable mirror; it could fill the English column later."
 
 - id: reform-or-revolution
   prefix: ROR

@@ -1,0 +1,16 @@
+# Work metadata. Read by scripts/validate.py and scripts/build.py.
+id: mass-strike
+prefix: MS                        # citation prefix: MS IV.2.11
+title: The Mass Strike, the Political Party and the Trade Unions
+title_original: Massenstreik, Partei und Gewerkschaften
+authors: [Rosa Luxemburg]
+year: 1906
+original_language: de
+base_text: "The first edition (Hamburg: Erdmann Dubber, 1906), as transcribed by Project Gutenberg"
+order: 210
+columns:
+  original: German (first edition, 1906)
+  en: ""                          # no public-domain English on a reachable mirror yet
+  modern: Modern draft (translated from the German)
+status: ready
+rights: Original public domain. No historical English column yet. See SOURCES.md.
