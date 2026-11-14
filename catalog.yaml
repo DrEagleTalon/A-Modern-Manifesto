@@ -177,7 +177,7 @@
   stage: planned
   sources:
     original: ["mia:ru/VIL-UAIO/33 (Lenin, PSS 5th ed., vol. 33)"]
-  notes: Needs Russian sentence rules and a check of the 1919 English translations.
+  notes: "Needs Russian sentence rules and a check of the 1919 English translations. blocked: the original is Russian and the library has no Russian sentence splitter yet (not to be written in a scheduled run); the MIA mirror has no English Lenin (only the Russian and a Chinese edition), and no pre-1931 English printing is on a reachable mirror. Add Russian rules to scripts/lib/segment.py, or add a public-domain English source for an English-only build."
 
 - id: eighteenth-brumaire
   prefix: EB
@@ -242,7 +242,7 @@
   tier: A
   priority: 18
   stage: planned
-  notes: French original and Quelch's 1900 English still to locate on a reachable mirror.
+  notes: "French original and Quelch's 1900 English still to locate on a reachable mirror. blocked: no sources listed. The MIA mirror has only the 1955 Progress Publishers English (en/archive/marx/works/1847/poverty-philosophy/), which is not public domain, and no French; GITenberg has neither. The original is French, so an English-only build would need Quelch's translation first."
 
 - id: condition-of-the-working-class
   prefix: CWC
